@@ -1,0 +1,198 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "linuxdoc-tools-0.9.69-alt1.x86_64.rpm", 
+    "pkg": "linuxdoc-tools", 
+    "pkg_version": "0.9.6", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "linuxdoc-tools-0.9.69-1-x86_64.pkg.tar.xz", 
+    "pkg": "linuxdoc-tools", 
+    "pkg_version": "0.9.6", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "linuxdoc-tools-0.9.68-5.el7.x86_64.rpm", 
+    "pkg": "linuxdoc-tools", 
+    "pkg_version": "0.9.6", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "linuxdoc-tools-0.9.65-3.el6.x86_64.rpm", 
+    "pkg": "linuxdoc-tools", 
+    "pkg_version": "0.9.6", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "linuxdoc-tools-0.9.21-7.1.x86_64.rpm", 
+    "pkg": "linuxdoc-tools", 
+    "pkg_version": "0.9.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "linuxdoc-tools_0.9.69-3_i386.deb", 
+    "pkg": "linuxdoc-tools", 
+    "pkg_version": "0.9.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "linuxdoc-tools_0.9.69-3_i386.deb", 
+    "pkg": "linuxdoc-tools", 
+    "pkg_version": "0.9.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "linuxdoc-tools_0.9.68+b1_i386.deb", 
+    "pkg": "linuxdoc-tools", 
+    "pkg_version": "0.9.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "linuxdoc-tools-0.9.68-8.fc22.x86_64.rpm", 
+    "pkg": "linuxdoc-tools", 
+    "pkg_version": "0.9.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "linuxdoc-tools-0.9.68-8.fc22.x86_64.rpm", 
+    "pkg": "linuxdoc-tools", 
+    "pkg_version": "0.9.6", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "linuxdoc-tools-0.9.68-8.fc21.x86_64.rpm", 
+    "pkg": "linuxdoc-tools", 
+    "pkg_version": "0.9.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "linuxdoc-tools-0.9.68-6.fc20.x86_64.rpm", 
+    "pkg": "linuxdoc-tools", 
+    "pkg_version": "0.9.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "linuxdoc-tools-0.9.21-24-omv2015.0.x86_64.rpm", 
+    "pkg": "linuxdoc-tools", 
+    "pkg_version": "0.9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "linuxdoc-tools-0.9.21-18-omv2014.0.x86_64.rpm", 
+    "pkg": "linuxdoc-tools", 
+    "pkg_version": "0.9.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "linuxdoc-tools-0.9.21-17-omv2013.0.x86_64.rpm", 
+    "pkg": "linuxdoc-tools", 
+    "pkg_version": "0.9.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "linuxdoc-tools-0.9.21-20-rosa2014.1.x86_64.rpm", 
+    "pkg": "linuxdoc-tools", 
+    "pkg_version": "0.9.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "linuxdoc-tools-0.9.21-18-rosa2012.1.x86_64.rpm", 
+    "pkg": "linuxdoc-tools", 
+    "pkg_version": "0.9.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "linuxdoc-tools-0.9.68-x86_64-4.txz", 
+    "pkg": "linuxdoc-tools", 
+    "pkg_version": "0.9.6", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "linuxdoc-tools-0.9.67-x86_64-2.txz", 
+    "pkg": "linuxdoc-tools", 
+    "pkg_version": "0.9.6", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "linuxdoc-tools-0.9.66-x86_64-8.txz", 
+    "pkg": "linuxdoc-tools", 
+    "pkg_version": "0.9.6", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "linuxdoc-tools_0.9.69-3_i386.deb", 
+    "pkg": "linuxdoc-tools", 
+    "pkg_version": "0.9.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "linuxdoc-tools_0.9.69-2_i386.deb", 
+    "pkg": "linuxdoc-tools", 
+    "pkg_version": "0.9.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Atomic", 
+    "pkg_full_name": "picviz-0.4-2.el5.art.x86_64.rpm", 
+    "pkg": "picviz", 
+    "pkg_version": "0.4", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "picviz_0.5-1+b1_i386.deb", 
+    "pkg": "picviz", 
+    "pkg_version": "0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "picviz_0.5-1+b1_i386.deb", 
+    "pkg": "picviz", 
+    "pkg_version": "0.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "picviz_0.5-1+b1_i386.deb", 
+    "pkg": "picviz", 
+    "pkg_version": "0.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "picviz-0.6-12.fc20.x86_64.rpm", 
+    "pkg": "picviz", 
+    "pkg_version": "0.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "picviz_0.5-1build1_i386.deb", 
+    "pkg": "picviz", 
+    "pkg_version": "0.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "picviz_0.5-1build1_i386.deb", 
+    "pkg": "picviz", 
+    "pkg_version": "0.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

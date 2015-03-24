@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-oslotest_1.0.0-2_all.deb", 
+    "pkg": "python-oslotest", 
+    "pkg_version": "1.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-oslotest_1.0.0-2_all.deb", 
+    "pkg": "python-oslotest", 
+    "pkg_version": "1.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-oslotest-1.1.0-2.fc22.noarch.rpm", 
+    "pkg": "python-oslotest", 
+    "pkg_version": "1.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-oslotest-1.1.0-2.fc22.noarch.rpm", 
+    "pkg": "python-oslotest", 
+    "pkg_version": "1.1.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-oslotest-1.1.0-1.2.noarch.rpm", 
+    "pkg": "python-oslotest", 
+    "pkg_version": "1.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-oslotest-1.1.0-1.2.noarch.rpm", 
+    "pkg": "python-oslotest", 
+    "pkg_version": "1.1.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python-oslotest_1.1.0-0ubuntu1_all.deb", 
+    "pkg": "python-oslotest", 
+    "pkg_version": "1.1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lib64go0_4.7.4-3_i386.deb", 
+    "pkg": "lib64go0", 
+    "pkg_version": "4.7.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lib64go0_4.7.2-5_i386.deb", 
+    "pkg": "lib64go0", 
+    "pkg_version": "4.7.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lib64go0-4.7.4_2013.10-1-omv2013.0.x86_64.rpm", 
+    "pkg": "lib64go0", 
+    "pkg_version": "4.7.4", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "lib64go0-4.7.4_2014.01-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "lib64go0", 
+    "pkg_version": "4.7.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "lib64go0_4.7.4-2ubuntu1_i386.deb", 
+    "pkg": "lib64go0", 
+    "pkg_version": "4.7.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "lib64go0_4.7.3-12ubuntu1_i386.deb", 
+    "pkg": "lib64go0", 
+    "pkg_version": "4.7.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

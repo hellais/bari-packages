@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "auralquiz_0.8.1-1_i386.deb", 
+    "pkg": "auralquiz", 
+    "pkg_version": "0.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "auralquiz_0.8.1-1_i386.deb", 
+    "pkg": "auralquiz", 
+    "pkg_version": "0.8.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "auralquiz_0.8.1-1_i386.deb", 
+    "pkg": "auralquiz", 
+    "pkg_version": "0.8.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "auralquiz-0.8-i486-1sl.txz", 
+    "pkg": "auralquiz", 
+    "pkg_version": "0.8", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "auralquiz_0.8.1-1_i386.deb", 
+    "pkg": "auralquiz", 
+    "pkg_version": "0.8.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

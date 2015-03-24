@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "shogivar_1.55b-1_i386.deb", 
+    "pkg": "shogivar", 
+    "pkg_version": "1.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

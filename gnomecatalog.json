@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnomecatalog_0.3.4.2-1_all.deb", 
+    "pkg": "gnomecatalog", 
+    "pkg_version": "0.3.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnomecatalog_0.3.4.2-1_all.deb", 
+    "pkg": "gnomecatalog", 
+    "pkg_version": "0.3.4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnomecatalog_0.3.4.2-1_all.deb", 
+    "pkg": "gnomecatalog", 
+    "pkg_version": "0.3.4.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "gnomecatalog-0.3.4.2-4-rosa2014.1.noarch.rpm", 
+    "pkg": "gnomecatalog", 
+    "pkg_version": "0.3.4.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "gnomecatalog-0.3.4.2-3-rosa2012.1.noarch.rpm", 
+    "pkg": "gnomecatalog", 
+    "pkg_version": "0.3.4.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnomecatalog_0.3.4.2-1_all.deb", 
+    "pkg": "gnomecatalog", 
+    "pkg_version": "0.3.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnomecatalog_0.3.4.2-1_all.deb", 
+    "pkg": "gnomecatalog", 
+    "pkg_version": "0.3.4.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmagic1_5.22+15-2_i386.deb", 
+    "pkg": "libmagic1", 
+    "pkg_version": "5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmagic1_5.22+15-2_i386.deb", 
+    "pkg": "libmagic1", 
+    "pkg_version": "5.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "libmagic1_5.11-2+deb7u8_i386.deb", 
+    "pkg": "libmagic1", 
+    "pkg_version": "5.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libmagic1-5.22-1-omv2015.0.i586.rpm", 
+    "pkg": "libmagic1", 
+    "pkg_version": "5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libmagic1-5.15-7-omv2014.0.i586.rpm", 
+    "pkg": "libmagic1", 
+    "pkg_version": "5.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libmagic1-5.15-2-omv2013.0.i586.rpm", 
+    "pkg": "libmagic1", 
+    "pkg_version": "5.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libmagic1-5.22-1.2.x86_64.rpm", 
+    "pkg": "libmagic1", 
+    "pkg_version": "5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "libmagic1-5.19-3.8.1.x86_64.rpm", 
+    "pkg": "libmagic1", 
+    "pkg_version": "5.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "libmagic1-5.15-4.4.1.x86_64.rpm", 
+    "pkg": "libmagic1", 
+    "pkg_version": "5.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "libmagic1-5.19-4-rosa2014.1.i586.rpm", 
+    "pkg": "libmagic1", 
+    "pkg_version": "5.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libmagic1-5.11-4-rosa2012.1.i586.rpm", 
+    "pkg": "libmagic1", 
+    "pkg_version": "5.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "libmagic1_5.19-1ubuntu1.2_i386.deb", 
+    "pkg": "libmagic1", 
+    "pkg_version": "5.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "libmagic1_5.14-2ubuntu3.3_i386.deb", 
+    "pkg": "libmagic1", 
+    "pkg_version": "5.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

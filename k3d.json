@@ -1,0 +1,119 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "k3d_0.8.0.3-7+b1_i386.deb", 
+    "pkg": "k3d", 
+    "pkg_version": "0.8.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "k3d_0.8.0.3-7+b1_i386.deb", 
+    "pkg": "k3d", 
+    "pkg_version": "0.8.0.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "k3d_0.8.0.2-18_i386.deb", 
+    "pkg": "k3d", 
+    "pkg_version": "0.8.0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "k3d-0.8.0.3-2.fc23.x86_64.rpm", 
+    "pkg": "k3d", 
+    "pkg_version": "0.8.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "k3d-0.8.0.3-1.fc22.x86_64.rpm", 
+    "pkg": "k3d", 
+    "pkg_version": "0.8.0.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "k3d-0.8.0.2-30.fc21.x86_64.rpm", 
+    "pkg": "k3d", 
+    "pkg_version": "0.8.0.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "k3d-0.8.0.2-19.fc20.x86_64.rpm", 
+    "pkg": "k3d", 
+    "pkg_version": "0.8.0.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "k3d-0.8.0.2-6-rosa2014.1.x86_64.rpm", 
+    "pkg": "k3d", 
+    "pkg_version": "0.8.0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "k3d-0.8.0.2-3-rosa2012.1.x86_64.rpm", 
+    "pkg": "k3d", 
+    "pkg_version": "0.8.0.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Niels Horn", 
+    "pkg_full_name": "k3d-0.8.0.2-i486-3_nhh.tgz", 
+    "pkg": "k3d", 
+    "pkg_version": "0.8.0.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "k3d-0.8.0.1-i486-3sl.txz", 
+    "pkg": "k3d", 
+    "pkg_version": "0.8.0.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "k3d_0.8.0.3-6_i386.deb", 
+    "pkg": "k3d", 
+    "pkg_version": "0.8.0.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "k3d_0.8.0.3-3build1_i386.deb", 
+    "pkg": "k3d", 
+    "pkg_version": "0.8.0.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

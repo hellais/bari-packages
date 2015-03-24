@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgpaste2-dev_3.14-2_i386.deb", 
+    "pkg": "libgpaste2-dev", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "brainparty_0.61+dfsg-2_i386.deb", 
+    "pkg": "brainparty", 
+    "pkg_version": "0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "brainparty_0.61+dfsg-2_i386.deb", 
+    "pkg": "brainparty", 
+    "pkg_version": "0.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "brainparty-0.61-1-omv2013.0.x86_64.rpm", 
+    "pkg": "brainparty", 
+    "pkg_version": "0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "brainparty-0.61-1-omv2013.0.x86_64.rpm", 
+    "pkg": "brainparty", 
+    "pkg_version": "0.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "brainparty-0.61-1-omv2013.0.x86_64.rpm", 
+    "pkg": "brainparty", 
+    "pkg_version": "0.6", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "brainparty-0.61-2.233.x86_64.rpm", 
+    "pkg": "brainparty", 
+    "pkg_version": "0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "brainparty-0.61-2.7.x86_64.rpm", 
+    "pkg": "brainparty", 
+    "pkg_version": "0.6", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "brainparty-0.61-2.16.x86_64.rpm", 
+    "pkg": "brainparty", 
+    "pkg_version": "0.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "brainparty-0.61-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "brainparty", 
+    "pkg_version": "0.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "brainparty-0.61-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "brainparty", 
+    "pkg_version": "0.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "brainparty_0.61+dfsg-2_i386.deb", 
+    "pkg": "brainparty", 
+    "pkg_version": "0.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

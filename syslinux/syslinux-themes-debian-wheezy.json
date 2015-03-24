@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "syslinux-themes-debian-wheezy_11-1.1_all.deb", 
+    "pkg": "syslinux-themes-debian-wheezy_11", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "syslinux-themes-debian-wheezy_11-1.1_all.deb", 
+    "pkg": "syslinux-themes-debian-wheezy_11", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

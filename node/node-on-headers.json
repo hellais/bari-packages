@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "node-on-headers_1.0.0-1_all.deb", 
+    "pkg": "node-on-headers", 
+    "pkg_version": "1.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "node-on-headers_1.0.0-1_all.deb", 
+    "pkg": "node-on-headers", 
+    "pkg_version": "1.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

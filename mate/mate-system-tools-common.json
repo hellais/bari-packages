@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mate-system-tools-common_1.8.1+dfsg1-2_all.deb", 
+    "pkg": "mate-system-tools-common", 
+    "pkg_version": "1.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mate-system-tools-common_1.8.1+dfsg1-2_all.deb", 
+    "pkg": "mate-system-tools-common", 
+    "pkg_version": "1.8.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

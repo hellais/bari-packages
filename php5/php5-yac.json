@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php5-yac_0.9.2-1_i386.deb", 
+    "pkg": "php5-yac", 
+    "pkg_version": "0.9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

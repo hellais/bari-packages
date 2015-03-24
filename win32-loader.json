@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "win32-loader_0.7.8_all.deb", 
+    "pkg": "win32-loader", 
+    "pkg_version": "0.7.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "win32-loader_0.7.8_all.deb", 
+    "pkg": "win32-loader", 
+    "pkg_version": "0.7.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

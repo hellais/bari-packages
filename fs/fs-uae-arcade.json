@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fs-uae-arcade_2.4.1+ds-3_all.deb", 
+    "pkg": "fs-uae-arcade", 
+    "pkg_version": "2.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fs-uae-arcade_2.4.1+ds-3_all.deb", 
+    "pkg": "fs-uae-arcade", 
+    "pkg_version": "2.4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "fs-uae-arcade_2.4.1+ds-2~bpo70+1_all.deb", 
+    "pkg": "fs-uae-arcade", 
+    "pkg_version": "2.4.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

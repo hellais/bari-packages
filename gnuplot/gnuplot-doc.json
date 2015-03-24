@@ -1,0 +1,271 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnuplot-doc-4.6.6-alt1.noarch.rpm", 
+    "pkg": "gnuplot-doc", 
+    "pkg_version": "4.6.6", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "gnuplot-doc-4.6.2-3.el7.noarch.rpm", 
+    "pkg": "gnuplot-doc", 
+    "pkg_version": "4.6.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "gnuplot-doc-4.2.6-2.el6.x86_64.rpm", 
+    "pkg": "gnuplot-doc", 
+    "pkg_version": "4.2.6", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnuplot-doc_4.6.6-2_all.deb", 
+    "pkg": "gnuplot-doc", 
+    "pkg_version": "4.6.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnuplot-doc_4.6.6-2_all.deb", 
+    "pkg": "gnuplot-doc", 
+    "pkg_version": "4.6.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnuplot-doc_4.6.0-8_all.deb", 
+    "pkg": "gnuplot-doc", 
+    "pkg_version": "4.6.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnuplot-doc-5.0.0-6.fc23.noarch.rpm", 
+    "pkg": "gnuplot-doc", 
+    "pkg_version": "5.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnuplot-doc-5.0.0-6.fc22.noarch.rpm", 
+    "pkg": "gnuplot-doc", 
+    "pkg_version": "5.0.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "gnuplot-doc-4.6.5-5.fc21.noarch.rpm", 
+    "pkg": "gnuplot-doc", 
+    "pkg_version": "4.6.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "gnuplot-doc-4.6.3-6.fc20.noarch.rpm", 
+    "pkg": "gnuplot-doc", 
+    "pkg_version": "4.6.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "gnuplot-nox-4.6.3-3.mga4.x86_64.rpm", 
+    "pkg": "gnuplot-nox", 
+    "pkg_version": "4.6.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gnuplot-doc-4.6.6-2-omv2015.0.x86_64.rpm", 
+    "pkg": "gnuplot-doc", 
+    "pkg_version": "4.6.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "gnuplot-nox-4.6.3-3.mga4.x86_64.rpm", 
+    "pkg": "gnuplot-nox", 
+    "pkg_version": "4.6.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gnuplot-doc-4.6.4-2-omv2014.0.x86_64.rpm", 
+    "pkg": "gnuplot-doc", 
+    "pkg_version": "4.6.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "gnuplot-nox-4.6.3-3.mga4.x86_64.rpm", 
+    "pkg": "gnuplot-nox", 
+    "pkg_version": "4.6.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gnuplot-doc-4.6.2-5-omv2013.0.x86_64.rpm", 
+    "pkg": "gnuplot-doc", 
+    "pkg_version": "4.6.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "gnuplot-nox-4.6.3-3.mga4.x86_64.rpm", 
+    "pkg": "gnuplot-nox", 
+    "pkg_version": "4.6.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gnuplot-doc-5.0.0-2.1.noarch.rpm", 
+    "pkg": "gnuplot-doc", 
+    "pkg_version": "5.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "gnuplot-nox-4.6.3-3.mga4.x86_64.rpm", 
+    "pkg": "gnuplot-nox", 
+    "pkg_version": "4.6.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gnuplot-doc-4.6.5-2.1.11.noarch.rpm", 
+    "pkg": "gnuplot-doc", 
+    "pkg_version": "4.6.5", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "gnuplot-nox-4.6.3-3.mga4.x86_64.rpm", 
+    "pkg": "gnuplot-nox", 
+    "pkg_version": "4.6.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gnuplot-doc-4.6.3-2.1.4.noarch.rpm", 
+    "pkg": "gnuplot-doc", 
+    "pkg_version": "4.6.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "gnuplot-nox-4.6.3-3.mga4.x86_64.rpm", 
+    "pkg": "gnuplot-nox", 
+    "pkg_version": "4.6.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "gnuplot-doc-4.6.5-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "gnuplot-doc", 
+    "pkg_version": "4.6.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "gnuplot-nox-4.6.3-3.mga4.x86_64.rpm", 
+    "pkg": "gnuplot-nox", 
+    "pkg_version": "4.6.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "gnuplot-doc-4.6.5-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "gnuplot-doc", 
+    "pkg_version": "4.6.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "gnuplot-nox-4.6.3-3.mga4.x86_64.rpm", 
+    "pkg": "gnuplot-nox", 
+    "pkg_version": "4.6.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnuplot-doc_4.6.5-10_all.deb", 
+    "pkg": "gnuplot-doc", 
+    "pkg_version": "4.6.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "gnuplot-nox-4.6.3-3.mga4.x86_64.rpm", 
+    "pkg": "gnuplot-nox", 
+    "pkg_version": "4.6.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnuplot-doc_4.6.4-2_all.deb", 
+    "pkg": "gnuplot-doc", 
+    "pkg_version": "4.6.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

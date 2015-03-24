@@ -1,0 +1,146 @@
+[
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-twig-ctwig-1.16.0-1.el7.remi.5.4.x86_64.rpm", 
+    "pkg": "php-twig-ctwig", 
+    "pkg_version": "1.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-twig-1.18.0-1.el7.remi.5.4.x86_64.rpm", 
+    "pkg": "php-twig", 
+    "pkg_version": "1.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-twig-ctwig-1.16.0-1.el6.remi.5.4.x86_64.rpm", 
+    "pkg": "php-twig-ctwig", 
+    "pkg_version": "1.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-twig-1.18.0-1.el6.remi.5.4.x86_64.rpm", 
+    "pkg": "php-twig", 
+    "pkg_version": "1.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-twig-ctwig-1.16.0-1.el5.remi.5.4.x86_64.rpm", 
+    "pkg": "php-twig-ctwig", 
+    "pkg_version": "1.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-twig-1.18.0-1.el5.remi.5.4.x86_64.rpm", 
+    "pkg": "php-twig", 
+    "pkg_version": "1.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-twig-ctwig-1.16.0-1.el5.remi.5.4.x86_64.rpm", 
+    "pkg": "php-twig-ctwig", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php-twig_1.16.2-1_all.deb", 
+    "pkg": "php-twig", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-twig-ctwig-1.16.0-1.el5.remi.5.4.x86_64.rpm", 
+    "pkg": "php-twig-ctwig", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php-twig_1.16.2-1_all.deb", 
+    "pkg": "php-twig", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-twig-ctwig-1.16.0-1.el5.remi.5.4.x86_64.rpm", 
+    "pkg": "php-twig-ctwig", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "php-twig-1.16.3-1.fc22.x86_64.rpm", 
+    "pkg": "php-twig", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-twig-ctwig-1.16.0-1.el5.remi.5.4.x86_64.rpm", 
+    "pkg": "php-twig-ctwig", 
+    "pkg_version": "1.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "php-twig-1.16.3-1.fc22.x86_64.rpm", 
+    "pkg": "php-twig", 
+    "pkg_version": "1.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "php-twig-ctwig-1.15.1-4.fc21.x86_64.rpm", 
+    "pkg": "php-twig-ctwig", 
+    "pkg_version": "1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-twig-1.18.0-1.fc21.remi.5.6.x86_64.rpm", 
+    "pkg": "php-twig", 
+    "pkg_version": "1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

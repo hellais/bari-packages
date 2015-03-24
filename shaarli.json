@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "shaarli_0.0.42~beta~dfsg1-2_all.deb", 
+    "pkg": "shaarli", 
+    "pkg_version": "0.0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "shaarli_0.0.41~beta~dfsg2-5_all.deb", 
+    "pkg": "shaarli", 
+    "pkg_version": "0.0.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

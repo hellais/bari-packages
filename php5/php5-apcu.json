@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php5-apcu_4.0.7-1_i386.deb", 
+    "pkg": "php5-apcu", 
+    "pkg_version": "4.0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php5-apcu_4.0.7-1_i386.deb", 
+    "pkg": "php5-apcu", 
+    "pkg_version": "4.0.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "php5-apcu_5.4.39-1~dotdeb.1_i386.deb", 
+    "pkg": "php5-apcu", 
+    "pkg_version": "5.4.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "php5-apcu_4.0.6-1_i386.deb", 
+    "pkg": "php5-apcu", 
+    "pkg_version": "4.0.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

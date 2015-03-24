@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-pyqtgraph_0.9.8-3_all.deb", 
+    "pkg": "python-pyqtgraph", 
+    "pkg_version": "0.9.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-pyqtgraph_0.9.8-3_all.deb", 
+    "pkg": "python-pyqtgraph", 
+    "pkg_version": "0.9.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

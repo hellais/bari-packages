@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liblucene4-java_4.6.1+dfsg-3_all.deb", 
+    "pkg": "liblucene4-java", 
+    "pkg_version": "4.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

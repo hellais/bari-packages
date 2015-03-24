@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python-spyderlib_2.2.5+dfsg-1~nd+1_all.deb", 
+    "pkg": "python-spyderlib", 
+    "pkg_version": "2.2.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python-spyderlib_2.2.5+dfsg-1~nd80+1_all.deb", 
+    "pkg": "python-spyderlib", 
+    "pkg_version": "2.2.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python-spyderlib_2.2.5+dfsg-1~nd70+1_all.deb", 
+    "pkg": "python-spyderlib", 
+    "pkg_version": "2.2.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-spyderlib-2.3.2-1.2.noarch.rpm", 
+    "pkg": "python-spyderlib", 
+    "pkg_version": "2.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-spyderlib-2.3.1-2.1.noarch.rpm", 
+    "pkg": "python-spyderlib", 
+    "pkg_version": "2.3.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "python-spyderlib-2.2.5-2.4.1.noarch.rpm", 
+    "pkg": "python-spyderlib", 
+    "pkg_version": "2.2.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-spyderlib_2.3.0+dfsg-4_all.deb", 
+    "pkg": "python-spyderlib", 
+    "pkg_version": "2.3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-spyderlib_2.2.5+dfsg-1_all.deb", 
+    "pkg": "python-spyderlib", 
+    "pkg_version": "2.2.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

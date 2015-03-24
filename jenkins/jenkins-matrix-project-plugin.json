@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jenkins-matrix-project-plugin_1.3-1_all.deb", 
+    "pkg": "jenkins-matrix-project-plugin", 
+    "pkg_version": "1.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jenkins-matrix-project-plugin_1.3-1_all.deb", 
+    "pkg": "jenkins-matrix-project-plugin", 
+    "pkg_version": "1.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "jenkins-matrix-project-plugin-1.4-1.fc22.noarch.rpm", 
+    "pkg": "jenkins-matrix-project-plugin", 
+    "pkg_version": "1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "jenkins-matrix-project-plugin-1.4-1.fc22.noarch.rpm", 
+    "pkg": "jenkins-matrix-project-plugin", 
+    "pkg_version": "1.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

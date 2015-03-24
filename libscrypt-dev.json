@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libscrypt-dev_1-2.2_i386.deb", 
+    "pkg": "libscrypt-dev_1", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libscrypt-dev_1-2.2_i386.deb", 
+    "pkg": "libscrypt-dev_1", 
+    "pkg_version": "2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libscrypt-dev_1-2.2_i386.deb", 
+    "pkg": "libscrypt-dev_1", 
+    "pkg_version": "2.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

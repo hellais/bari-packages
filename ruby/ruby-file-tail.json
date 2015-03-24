@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "ruby-file-tail-1.0.5-1.puias6.noarch.rpm", 
+    "pkg": "ruby-file-tail", 
+    "pkg_version": "1.0.5", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-file-tail_1.1.0-1_all.deb", 
+    "pkg": "ruby-file-tail", 
+    "pkg_version": "1.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-file-tail_1.1.0-1_all.deb", 
+    "pkg": "ruby-file-tail", 
+    "pkg_version": "1.1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-file-tail_1.0.10-1_all.deb", 
+    "pkg": "ruby-file-tail", 
+    "pkg_version": "1.0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ruby-file-tail_1.0.12-1build1_all.deb", 
+    "pkg": "ruby-file-tail", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

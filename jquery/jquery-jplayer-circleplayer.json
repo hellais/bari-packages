@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jquery-jplayer-circleplayer_2.7.0-1_all.deb", 
+    "pkg": "jquery-jplayer-circleplayer", 
+    "pkg_version": "2.7.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

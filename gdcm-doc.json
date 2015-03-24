@@ -1,0 +1,82 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gdcm-doc-2.4.0-alt3.x86_64.rpm", 
+    "pkg": "gdcm-doc", 
+    "pkg_version": "2.4.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdcm-doc_2.4.4-3_all.deb", 
+    "pkg": "gdcm-doc", 
+    "pkg_version": "2.4.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdcm-doc_2.4.4-3_all.deb", 
+    "pkg": "gdcm-doc", 
+    "pkg_version": "2.4.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdcm-doc_2.2.0-14.1_all.deb", 
+    "pkg": "gdcm-doc", 
+    "pkg_version": "2.2.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gdcm-doc-2.4.4-4.fc23.noarch.rpm", 
+    "pkg": "gdcm-doc", 
+    "pkg_version": "2.4.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gdcm-doc-2.4.4-1.fc22.noarch.rpm", 
+    "pkg": "gdcm-doc", 
+    "pkg_version": "2.4.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gdcm-doc-2.4.4-1.fc21.noarch.rpm", 
+    "pkg": "gdcm-doc", 
+    "pkg_version": "2.4.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "gdcm-doc-2.2.6-2.fc20.noarch.rpm", 
+    "pkg": "gdcm-doc", 
+    "pkg_version": "2.2.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gdcm-doc_2.2.4-1.1ubuntu7_all.deb", 
+    "pkg": "gdcm-doc", 
+    "pkg_version": "2.2.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

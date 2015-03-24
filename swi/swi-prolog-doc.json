@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "swi-prolog-doc_5.6.59-2_all.deb", 
+    "pkg": "swi-prolog-doc", 
+    "pkg_version": "5.6.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "swi-prolog-doc_5.6.59-2_all.deb", 
+    "pkg": "swi-prolog-doc", 
+    "pkg_version": "5.6.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "swi-prolog-doc_5.6.59-1_all.deb", 
+    "pkg": "swi-prolog-doc", 
+    "pkg_version": "5.6.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "swi-prolog-doc-6.6.6-2-omv2015.0.x86_64.rpm", 
+    "pkg": "swi-prolog-doc", 
+    "pkg_version": "6.6.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "swi-prolog-doc-5.8.3-1.1.x86_64.rpm", 
+    "pkg": "swi-prolog-doc", 
+    "pkg_version": "5.8.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "swi-prolog-doc-6.6.6-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "swi-prolog-doc", 
+    "pkg_version": "6.6.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "swi-prolog-doc_5.6.59-2_all.deb", 
+    "pkg": "swi-prolog-doc", 
+    "pkg_version": "5.6.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "swi-prolog-doc_5.6.59-1_all.deb", 
+    "pkg": "swi-prolog-doc", 
+    "pkg_version": "5.6.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

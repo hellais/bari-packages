@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mwc_1.7.2-2_all.deb", 
+    "pkg": "mwc", 
+    "pkg_version": "1.7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

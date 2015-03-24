@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pocketsphinx_0.8-5_i386.deb", 
+    "pkg": "pocketsphinx", 
+    "pkg_version": "0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pocketsphinx_0.8-5_i386.deb", 
+    "pkg": "pocketsphinx", 
+    "pkg_version": "0.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pocketsphinx-0.8-9.fc22.x86_64.rpm", 
+    "pkg": "pocketsphinx", 
+    "pkg_version": "0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pocketsphinx-0.8-9.fc22.x86_64.rpm", 
+    "pkg": "pocketsphinx", 
+    "pkg_version": "0.8", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pocketsphinx-0.8-9.fc21.x86_64.rpm", 
+    "pkg": "pocketsphinx", 
+    "pkg_version": "0.8", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pocketsphinx-0.8-6.fc20.x86_64.rpm", 
+    "pkg": "pocketsphinx", 
+    "pkg_version": "0.8", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE KDE Extra", 
+    "pkg_full_name": "pocketsphinx-0.7-1.8.x86_64.rpm", 
+    "pkg": "pocketsphinx", 
+    "pkg_version": "0.7", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE KDE Extra", 
+    "pkg_full_name": "pocketsphinx-0.7-1.20.x86_64.rpm", 
+    "pkg": "pocketsphinx", 
+    "pkg_version": "0.7", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "pocketsphinx-0.8-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "pocketsphinx", 
+    "pkg_version": "0.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "pocketsphinx-0.8-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "pocketsphinx", 
+    "pkg_version": "0.8", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

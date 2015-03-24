@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "globus-seg-job-manager_14.25-2_i386.deb", 
+    "pkg": "globus-seg-job-manager_1", 
+    "pkg_version": "4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "globus-seg-job-manager_14.20-2_i386.deb", 
+    "pkg": "globus-seg-job-manager_1", 
+    "pkg_version": "4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "globus-seg-job-manager_13.53-1_i386.deb", 
+    "pkg": "globus-seg-job-manager_1", 
+    "pkg_version": "3.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

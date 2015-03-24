@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "NauLinux Extras", 
+    "pkg_full_name": "bittorrent-gui-4.4.0-1.rf.el6.noarch.rpm", 
+    "pkg": "bittorrent-gui", 
+    "pkg_version": "4.4.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "bittorrent-gui-4.4.0-1.el5.rf.noarch.rpm", 
+    "pkg": "bittorrent-gui", 
+    "pkg_version": "4.4.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bittorrent-gui_3.4.2-11.6_all.deb", 
+    "pkg": "bittorrent-gui", 
+    "pkg_version": "3.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bittorrent-gui_3.4.2-11.6_all.deb", 
+    "pkg": "bittorrent-gui", 
+    "pkg_version": "3.4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bittorrent-gui_3.4.2-11.4_all.deb", 
+    "pkg": "bittorrent-gui", 
+    "pkg_version": "3.4.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "bittorrent-gui_3.4.2-11.5ubuntu1_all.deb", 
+    "pkg": "bittorrent-gui", 
+    "pkg_version": "3.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "bittorrent-gui_3.4.2-11.5ubuntu1_all.deb", 
+    "pkg": "bittorrent-gui", 
+    "pkg_version": "3.4.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

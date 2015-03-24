@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-kazoo-doc-2.0-2.el7.noarch.rpm", 
+    "pkg": "python-kazoo-doc", 
+    "pkg_version": "2.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-kazoo-doc_1.3.1-1_all.deb", 
+    "pkg": "python-kazoo-doc", 
+    "pkg_version": "1.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-kazoo-doc_1.3.1-1_all.deb", 
+    "pkg": "python-kazoo-doc", 
+    "pkg_version": "1.3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-kazoo-doc-2.0-2.fc22.noarch.rpm", 
+    "pkg": "python-kazoo-doc", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-kazoo-doc-2.0-2.fc22.noarch.rpm", 
+    "pkg": "python-kazoo-doc", 
+    "pkg_version": "2.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-kazoo-doc-2.0-2.fc21.noarch.rpm", 
+    "pkg": "python-kazoo-doc", 
+    "pkg_version": "2.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python-kazoo-doc-2.0-2.fc20.noarch.rpm", 
+    "pkg": "python-kazoo-doc", 
+    "pkg_version": "2.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python-kazoo-doc_1.3.1-1ubuntu1_all.deb", 
+    "pkg": "python-kazoo-doc", 
+    "pkg_version": "1.3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

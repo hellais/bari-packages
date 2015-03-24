@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpantomime1.2-dev_1.2.2~r289+dfsg-2_i386.deb", 
+    "pkg": "libpantomime", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpantomime1.2-dev_1.2.2~r289+dfsg-2_i386.deb", 
+    "pkg": "libpantomime", 
+    "pkg_version": "1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpantomime1.2-dev_1.2.0~pre3+snap20071004+dfsg-4+b1_i386.deb", 
+    "pkg": "libpantomime", 
+    "pkg_version": "1.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libpantomime1.2-dev_1.2.2~r289+dfsg-1_i386.deb", 
+    "pkg": "libpantomime", 
+    "pkg_version": "1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libpantomime1.2-dev_1.2.0~pre3+snap20071004+dfsg-4build1_i386.deb", 
+    "pkg": "libpantomime", 
+    "pkg_version": "1.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

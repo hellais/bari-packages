@@ -1,0 +1,100 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xapian-core-doc-1.2.20-alt1.noarch.rpm", 
+    "pkg": "xapian-core-doc", 
+    "pkg_version": "1.2.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xapian-core-doc-1.2.20-alt1.noarch.rpm", 
+    "pkg": "xapian-core-doc", 
+    "pkg_version": "1.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xapian-doc_1.2.19-1_all.deb", 
+    "pkg": "xapian-doc", 
+    "pkg_version": "1.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xapian-core-doc-1.2.20-alt1.noarch.rpm", 
+    "pkg": "xapian-core-doc", 
+    "pkg_version": "1.2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xapian-doc_1.2.19-1_all.deb", 
+    "pkg": "xapian-doc", 
+    "pkg_version": "1.2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xapian-core-doc-1.2.20-alt1.noarch.rpm", 
+    "pkg": "xapian-core-doc", 
+    "pkg_version": "1.2.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xapian-doc_1.2.12-2_all.deb", 
+    "pkg": "xapian-doc", 
+    "pkg_version": "1.2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xapian-core-doc-1.2.20-alt1.noarch.rpm", 
+    "pkg": "xapian-core-doc", 
+    "pkg_version": "1.2.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "xapian-doc_1.2.18-1ubuntu1_all.deb", 
+    "pkg": "xapian-doc", 
+    "pkg_version": "1.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xapian-core-doc-1.2.20-alt1.noarch.rpm", 
+    "pkg": "xapian-core-doc", 
+    "pkg_version": "1.2.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "xapian-doc_1.2.16-2ubuntu1_all.deb", 
+    "pkg": "xapian-doc", 
+    "pkg_version": "1.2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

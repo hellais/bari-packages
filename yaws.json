@@ -1,0 +1,90 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "yaws-1.92-alt1.x86_64.rpm", 
+    "pkg": "yaws", 
+    "pkg_version": "1.9", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "yaws-1.99-2-x86_64.pkg.tar.xz", 
+    "pkg": "yaws", 
+    "pkg_version": "1.9", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "yaws-1.98-3.el7.x86_64.rpm", 
+    "pkg": "yaws", 
+    "pkg_version": "1.9", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "yaws_1.98-4_all.deb", 
+    "pkg": "yaws", 
+    "pkg_version": "1.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "yaws_1.98-4_all.deb", 
+    "pkg": "yaws", 
+    "pkg_version": "1.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "yaws_1.94-1_all.deb", 
+    "pkg": "yaws", 
+    "pkg_version": "1.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "yaws-1.98-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "yaws", 
+    "pkg_version": "1.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "yaws-1.98-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "yaws", 
+    "pkg_version": "1.9", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "yaws_1.98-3_all.deb", 
+    "pkg": "yaws", 
+    "pkg_version": "1.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "yaws_1.98-2_all.deb", 
+    "pkg": "yaws", 
+    "pkg_version": "1.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

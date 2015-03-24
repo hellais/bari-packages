@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "wifite_2.0r85-1_all.deb", 
+    "pkg": "wifite", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "wifite_2.0r85-1_all.deb", 
+    "pkg": "wifite", 
+    "pkg_version": "2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "wifite-2.0r85-3.1.noarch.rpm", 
+    "pkg": "wifite", 
+    "pkg_version": "2.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "wifite-2.0r85-3.1.noarch.rpm", 
+    "pkg": "wifite", 
+    "pkg_version": "2.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "wifite-2.0r85-4.mga5.noarch.rpm", 
+    "pkg": "wifite", 
+    "pkg_version": "2.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "wifite_2.0r85-1_all.deb", 
+    "pkg": "wifite", 
+    "pkg_version": "2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

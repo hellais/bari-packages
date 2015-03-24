@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libswe-dev_1.80.00.0002-1_i386.deb", 
+    "pkg": "libswe-dev", 
+    "pkg_version": "1.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libswe-dev_1.80.00.0002-1_i386.deb", 
+    "pkg": "libswe-dev", 
+    "pkg_version": "1.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libswe-dev_1.77.00.0005-2_i386.deb", 
+    "pkg": "libswe-dev", 
+    "pkg_version": "1.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libswe-dev_1.80.00.0002-1ubuntu1_i386.deb", 
+    "pkg": "libswe-dev", 
+    "pkg_version": "1.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "warzone2100-data_3.1.1-1_all.deb", 
+    "pkg": "warzone2100-data", 
+    "pkg_version": "3.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "warzone2100-data_3.1.1-1_all.deb", 
+    "pkg": "warzone2100-data", 
+    "pkg_version": "3.1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "warzone2100-data_3.1.1-1_all.deb", 
+    "pkg": "warzone2100-data", 
+    "pkg_version": "3.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "warzone2100-sequences-3.1.2-1.fc22.noarch.rpm", 
+    "pkg": "warzone2100-sequences", 
+    "pkg_version": "3.1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "warzone2100-data_3.1.1-1_all.deb", 
+    "pkg": "warzone2100-data", 
+    "pkg_version": "3.1.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "warzone2100-sequences-3.1.2-1.fc22.noarch.rpm", 
+    "pkg": "warzone2100-sequences", 
+    "pkg_version": "3.1.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "warzone2100-data_3.1.1-1_all.deb", 
+    "pkg": "warzone2100-data", 
+    "pkg_version": "3.1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "warzone2100-sequences-3.1.2-1.fc21.noarch.rpm", 
+    "pkg": "warzone2100-sequences", 
+    "pkg_version": "3.1.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "warzone2100-data_3.1.1-1_all.deb", 
+    "pkg": "warzone2100-data", 
+    "pkg_version": "3.1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "warzone2100-sequences-3.1.1-1.fc20.noarch.rpm", 
+    "pkg": "warzone2100-sequences", 
+    "pkg_version": "3.1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "warzone2100-data-3.1.2-1-omv2015.0.noarch.rpm", 
+    "pkg": "warzone2100-data", 
+    "pkg_version": "3.1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "warzone2100-sequences-3.1.1-1.fc20.noarch.rpm", 
+    "pkg": "warzone2100-sequences", 
+    "pkg_version": "3.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib Updates", 
+    "pkg_full_name": "warzone2100-data-3.1.0-2-omv2014.0.noarch.rpm", 
+    "pkg": "warzone2100-data", 
+    "pkg_version": "3.1.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "warzone2100-sequences-3.1.1-1.fc20.noarch.rpm", 
+    "pkg": "warzone2100-sequences", 
+    "pkg_version": "3.1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib Updates", 
+    "pkg_full_name": "warzone2100-data-3.1.0-2-omv2013.0.noarch.rpm", 
+    "pkg": "warzone2100-data", 
+    "pkg_version": "3.1.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "warzone2100-sequences-3.1.1-1.fc20.noarch.rpm", 
+    "pkg": "warzone2100-sequences", 
+    "pkg_version": "3.1.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "warzone2100-data-3.1.2-1.8.x86_64.rpm", 
+    "pkg": "warzone2100-data", 
+    "pkg_version": "3.1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "warzone2100-sequences-3.1.1-1.fc20.noarch.rpm", 
+    "pkg": "warzone2100-sequences", 
+    "pkg_version": "3.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "warzone2100-data-3.1.2-1.1.x86_64.rpm", 
+    "pkg": "warzone2100-data", 
+    "pkg_version": "3.1.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "warzone2100-sequences-3.1.1-1.fc20.noarch.rpm", 
+    "pkg": "warzone2100-sequences", 
+    "pkg_version": "3.1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "warzone2100-data-3.1.2-1.1.x86_64.rpm", 
+    "pkg": "warzone2100-data", 
+    "pkg_version": "3.1.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "warzone2100-sequences-3.1.1-1.fc20.noarch.rpm", 
+    "pkg": "warzone2100-sequences", 
+    "pkg_version": "3.1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "warzone2100-data-3.1.2-2-rosa2014.1.noarch.rpm", 
+    "pkg": "warzone2100-data", 
+    "pkg_version": "3.1.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "warzone2100-sequences-3.1.1-1.fc20.noarch.rpm", 
+    "pkg": "warzone2100-sequences", 
+    "pkg_version": "3.1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "warzone2100-data-3.1.2-1-rosa2012.1.noarch.rpm", 
+    "pkg": "warzone2100-data", 
+    "pkg_version": "3.1.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "warzone2100-sequences-3.1.1-1.fc20.noarch.rpm", 
+    "pkg": "warzone2100-sequences", 
+    "pkg_version": "3.1.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "warzone2100-data_3.1~rc2-1ubuntu3_all.deb", 
+    "pkg": "warzone2100-data", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "warzone2100-sequences-3.1.1-1.fc20.noarch.rpm", 
+    "pkg": "warzone2100-sequences", 
+    "pkg_version": "3.1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "warzone2100-data_3.1~rc2-1ubuntu3_all.deb", 
+    "pkg": "warzone2100-data", 
+    "pkg_version": "3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "warzone2100-sequences-3.1.1-1.fc20.noarch.rpm", 
+    "pkg": "warzone2100-sequences", 
+    "pkg_version": "3.1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

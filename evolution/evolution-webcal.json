@@ -1,0 +1,164 @@
+[
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "evolution-data-server-3.8.5-24.el7_0.x86_64.rpm", 
+    "pkg": "evolution-data-server", 
+    "pkg_version": "3.8.5", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "evolution-data-server-2.32.3-21.el6.x86_64.rpm", 
+    "pkg": "evolution-data-server", 
+    "pkg_version": "2.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "evolution-webcal-2.7.1-6.x86_64.rpm", 
+    "pkg": "evolution-webcal", 
+    "pkg_version": "2.7.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "evolution-data-server-2.32.3-21.el6.x86_64.rpm", 
+    "pkg": "evolution-data-server", 
+    "pkg_version": "2.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "evolution-webcal_2.32.0-2+b2_i386.deb", 
+    "pkg": "evolution-webcal", 
+    "pkg_version": "2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "evolution-data-server-2.32.3-21.el6.x86_64.rpm", 
+    "pkg": "evolution-data-server", 
+    "pkg_version": "2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "evolution-webcal_2.32.0-2+b2_i386.deb", 
+    "pkg": "evolution-webcal", 
+    "pkg_version": "2.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "evolution-data-server-2.32.3-21.el6.x86_64.rpm", 
+    "pkg": "evolution-data-server", 
+    "pkg_version": "2.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "evolution-webcal_2.32.0-2+b2_i386.deb", 
+    "pkg": "evolution-webcal", 
+    "pkg_version": "2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "evolution-data-server-3.15.92-1.fc23.x86_64.rpm", 
+    "pkg": "evolution-data-server", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "evolution-webcal_2.32.0-2+b2_i386.deb", 
+    "pkg": "evolution-webcal", 
+    "pkg_version": "2.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "evolution-data-server-3.13.90-1.fc22.x86_64.rpm", 
+    "pkg": "evolution-data-server", 
+    "pkg_version": "3.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "evolution-webcal_2.32.0-2+b2_i386.deb", 
+    "pkg": "evolution-webcal", 
+    "pkg_version": "2.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "evolution-data-server-3.12.11-1.fc21.x86_64.rpm", 
+    "pkg": "evolution-data-server", 
+    "pkg_version": "3.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Olea", 
+    "pkg_full_name": "evolution-webcal-2.7.1-6.i386.rpm", 
+    "pkg": "evolution-webcal", 
+    "pkg_version": "2.7.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "evolution-data-server-3.10.4-7.fc20.x86_64.rpm", 
+    "pkg": "evolution-data-server", 
+    "pkg_version": "3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "evolution-webcal-2.32.0-i486-3sl.txz", 
+    "pkg": "evolution-webcal", 
+    "pkg_version": "2.3", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "evolution-data-server-3.10.4-7.fc20.x86_64.rpm", 
+    "pkg": "evolution-data-server", 
+    "pkg_version": "3.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }
+]

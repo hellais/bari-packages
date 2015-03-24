@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libseccomp2_2.1.1-1_i386.deb", 
+    "pkg": "libseccomp2", 
+    "pkg_version": "2.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libseccomp2_2.1.1-1_i386.deb", 
+    "pkg": "libseccomp2", 
+    "pkg_version": "2.1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "libseccomp2_2.1.1-1~bpo70+1_i386.deb", 
+    "pkg": "libseccomp2", 
+    "pkg_version": "2.1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libseccomp2-2.1.1-8-omv2015.0.i586.rpm", 
+    "pkg": "libseccomp2", 
+    "pkg_version": "2.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libseccomp2-2.1.0-2-omv2014.0.i586.rpm", 
+    "pkg": "libseccomp2", 
+    "pkg_version": "2.1.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libseccomp2-2.1.0-1-omv2013.0.i586.rpm", 
+    "pkg": "libseccomp2", 
+    "pkg_version": "2.1.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "libseccomp2-2.1.1-30.5.x86_64.rpm", 
+    "pkg": "libseccomp2", 
+    "pkg_version": "2.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "libseccomp2-2.1.1-30.1.x86_64.rpm", 
+    "pkg": "libseccomp2", 
+    "pkg_version": "2.1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "libseccomp2-2.1.1-30.1.x86_64.rpm", 
+    "pkg": "libseccomp2", 
+    "pkg_version": "2.1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libseccomp2_2.1.1-1_i386.deb", 
+    "pkg": "libseccomp2", 
+    "pkg_version": "2.1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

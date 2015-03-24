@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "libnlopt0_2.4.1+dfsg-1~nd+1_i386.deb", 
+    "pkg": "libnlopt0", 
+    "pkg_version": "2.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "libnlopt0_2.4.1+dfsg-1~nd80+1_i386.deb", 
+    "pkg": "libnlopt0", 
+    "pkg_version": "2.4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "libnlopt0_2.4.1+dfsg-1~nd70+1_i386.deb", 
+    "pkg": "libnlopt0", 
+    "pkg_version": "2.4.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libnlopt0-2.4.2-1.3.x86_64.rpm", 
+    "pkg": "libnlopt0", 
+    "pkg_version": "2.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libnlopt0-2.4.1-2.1.3.x86_64.rpm", 
+    "pkg": "libnlopt0", 
+    "pkg_version": "2.4.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libnlopt0-2.3-4.1.3.i586.rpm", 
+    "pkg": "libnlopt0", 
+    "pkg_version": "2.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libnlopt0_2.4.2+dfsg-1_i386.deb", 
+    "pkg": "libnlopt0", 
+    "pkg_version": "2.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

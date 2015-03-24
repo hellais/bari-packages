@@ -1,0 +1,73 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "python-openpyxl-2.2.0-1-any.pkg.tar.xz", 
+    "pkg": "python-openpyxl", 
+    "pkg_version": "2.2.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python-openpyxl_1.7.0+ds1-1~nd+1_all.deb", 
+    "pkg": "python-openpyxl", 
+    "pkg_version": "1.7.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python-openpyxl_1.7.0+ds1-1~nd80+1_all.deb", 
+    "pkg": "python-openpyxl", 
+    "pkg_version": "1.7.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python-openpyxl_1.7.0+ds1-1~nd70+1_all.deb", 
+    "pkg": "python-openpyxl", 
+    "pkg_version": "1.7.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-openpyxl-1.7.0-3.2.noarch.rpm", 
+    "pkg": "python-openpyxl", 
+    "pkg_version": "1.7.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-openpyxl-1.7.0-2.1.4.noarch.rpm", 
+    "pkg": "python-openpyxl", 
+    "pkg_version": "1.7.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-openpyxl_1.7.0+ds1-1_all.deb", 
+    "pkg": "python-openpyxl", 
+    "pkg_version": "1.7.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-openpyxl_1.7.0+ds1-1_all.deb", 
+    "pkg": "python-openpyxl", 
+    "pkg_version": "1.7.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "bugsquish-0.0.6-alt2.qa1.x86_64.rpm", 
+    "pkg": "bugsquish", 
+    "pkg_version": "0.0.6", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bugsquish_0.0.6-8_i386.deb", 
+    "pkg": "bugsquish", 
+    "pkg_version": "0.0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bugsquish_0.0.6-8_i386.deb", 
+    "pkg": "bugsquish", 
+    "pkg_version": "0.0.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bugsquish_0.0.6-7_i386.deb", 
+    "pkg": "bugsquish", 
+    "pkg_version": "0.0.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "bugsquish-0.0.6-15-omv2013.0.x86_64.rpm", 
+    "pkg": "bugsquish", 
+    "pkg_version": "0.0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "bugsquish-0.0.6-15-omv2013.0.x86_64.rpm", 
+    "pkg": "bugsquish", 
+    "pkg_version": "0.0.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "bugsquish-0.0.6-15-omv2013.0.x86_64.rpm", 
+    "pkg": "bugsquish", 
+    "pkg_version": "0.0.6", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "bugsquish-0.0.6-16-rosa2014.1.x86_64.rpm", 
+    "pkg": "bugsquish", 
+    "pkg_version": "0.0.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "bugsquish-0.0.6-15-rosa2012.1.x86_64.rpm", 
+    "pkg": "bugsquish", 
+    "pkg_version": "0.0.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "bugsquish_0.0.6-7_i386.deb", 
+    "pkg": "bugsquish", 
+    "pkg_version": "0.0.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "bugsquish_0.0.6-7_i386.deb", 
+    "pkg": "bugsquish", 
+    "pkg_version": "0.0.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

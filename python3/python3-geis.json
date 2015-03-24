@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-geis_2.2.16-1+b2_amd64.deb", 
+    "pkg": "python3-geis", 
+    "pkg_version": "2.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-geis_2.2.16-1+b2_amd64.deb", 
+    "pkg": "python3-geis", 
+    "pkg_version": "2.2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "python3-geis-2.2.16-4-rosa2014.1.x86_64.rpm", 
+    "pkg": "python3-geis", 
+    "pkg_version": "2.2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "python3-geis-2.2.16-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "python3-geis", 
+    "pkg_version": "2.2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python3-geis_2.2.16+14.04.20140303-0ubuntu1_i386.deb", 
+    "pkg": "python3-geis", 
+    "pkg_version": "2.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "shinken-core_2.0.3-4_all.deb", 
+    "pkg": "shinken-core", 
+    "pkg_version": "2.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "shinken-core_2.0.3-4_all.deb", 
+    "pkg": "shinken-core", 
+    "pkg_version": "2.0.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "shinken-core_0.6.5-2_all.deb", 
+    "pkg": "shinken-core", 
+    "pkg_version": "0.6.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

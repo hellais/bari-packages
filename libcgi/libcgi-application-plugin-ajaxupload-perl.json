@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcgi-application-plugin-ajaxupload-perl_0.0.3-6_all.deb", 
+    "pkg": "libcgi-application-plugin-ajaxupload-perl", 
+    "pkg_version": "0.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcgi-application-plugin-ajaxupload-perl_0.0.3-3_all.deb", 
+    "pkg": "libcgi-application-plugin-ajaxupload-perl", 
+    "pkg_version": "0.0.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libcgi-application-plugin-ajaxupload-perl_0.0.3-6_all.deb", 
+    "pkg": "libcgi-application-plugin-ajaxupload-perl", 
+    "pkg_version": "0.0.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libcgi-application-plugin-ajaxupload-perl_0.0.3-4_all.deb", 
+    "pkg": "libcgi-application-plugin-ajaxupload-perl", 
+    "pkg_version": "0.0.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

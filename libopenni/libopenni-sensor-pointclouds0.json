@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libopenni-sensor-pointclouds0_5.1.0.41.3-1+b2_i386.deb", 
+    "pkg": "libopenni-sensor-pointclouds0", 
+    "pkg_version": "5.1.0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libopenni-sensor-pointclouds0_5.1.0.41.3-1+b2_i386.deb", 
+    "pkg": "libopenni-sensor-pointclouds0", 
+    "pkg_version": "5.1.0.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libopenni-sensor-pointclouds0_5.1.0.41.3-1_i386.deb", 
+    "pkg": "libopenni-sensor-pointclouds0", 
+    "pkg_version": "5.1.0.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

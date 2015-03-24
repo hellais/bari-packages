@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "irker_2.12+dfsg-1_all.deb", 
+    "pkg": "irker", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "irker_2.12+dfsg-1_all.deb", 
+    "pkg": "irker", 
+    "pkg_version": "2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "irker_2.11+dfsg-2_all.deb", 
+    "pkg": "irker", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

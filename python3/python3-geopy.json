@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-geopy_1.3.0-1_all.deb", 
+    "pkg": "python3-geopy", 
+    "pkg_version": "1.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-geopy_1.3.0-1_all.deb", 
+    "pkg": "python3-geopy", 
+    "pkg_version": "1.3.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python3-geopy_0.99-1_all.deb", 
+    "pkg": "python3-geopy", 
+    "pkg_version": "0.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

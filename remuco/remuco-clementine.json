@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "remuco-clementine_0.9.6-2_all.deb", 
+    "pkg": "remuco-clementine", 
+    "pkg_version": "0.9.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "remuco-clementine_0.9.6-2_all.deb", 
+    "pkg": "remuco-clementine", 
+    "pkg_version": "0.9.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "remuco-clementine_0.9.6-2_all.deb", 
+    "pkg": "remuco-clementine", 
+    "pkg_version": "0.9.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "remuco-clementine_0.9.6-2_all.deb", 
+    "pkg": "remuco-clementine", 
+    "pkg_version": "0.9.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

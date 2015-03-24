@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mopac7-bin_1.15-6_i386.deb", 
+    "pkg": "mopac7-bin", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mopac7-bin_1.15-6_i386.deb", 
+    "pkg": "mopac7-bin", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mopac7-bin_1.15-5_i386.deb", 
+    "pkg": "mopac7-bin", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mopac7-bin_1.15-6ubuntu1_i386.deb", 
+    "pkg": "mopac7-bin", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mopac7-bin_1.15-6ubuntu1_i386.deb", 
+    "pkg": "mopac7-bin", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

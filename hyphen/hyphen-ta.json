@@ -1,0 +1,100 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hyphen-ta-0.20111229-alt1_2.noarch.rpm", 
+    "pkg": "hyphen-ta", 
+    "pkg_version": "0.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "hyphen-ta-0.7.0-4.el7.noarch.rpm", 
+    "pkg": "hyphen-ta", 
+    "pkg_version": "0.7.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "hyphen-ta-0.20100204-1.el6.noarch.rpm", 
+    "pkg": "hyphen-ta", 
+    "pkg_version": "0.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "hyphen-ta_0.7.0-1_all.deb", 
+    "pkg": "hyphen-ta", 
+    "pkg_version": "0.7.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "hyphen-ta_0.7.0-1_all.deb", 
+    "pkg": "hyphen-ta", 
+    "pkg_version": "0.7.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "hyphen-ta_0.7.0-1_all.deb", 
+    "pkg": "hyphen-ta", 
+    "pkg_version": "0.7.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "hyphen-ta-0.7.0-5.fc23.noarch.rpm", 
+    "pkg": "hyphen-ta", 
+    "pkg_version": "0.7.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "hyphen-ta-0.7.0-5.fc22.noarch.rpm", 
+    "pkg": "hyphen-ta", 
+    "pkg_version": "0.7.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "hyphen-ta-0.7.0-5.fc21.noarch.rpm", 
+    "pkg": "hyphen-ta", 
+    "pkg_version": "0.7.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "hyphen-ta-0.7.0-4.fc20.noarch.rpm", 
+    "pkg": "hyphen-ta", 
+    "pkg_version": "0.7.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "hyphen-ta_0.7.0-1_all.deb", 
+    "pkg": "hyphen-ta", 
+    "pkg_version": "0.7.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

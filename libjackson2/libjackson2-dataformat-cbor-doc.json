@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libjackson2-dataformat-cbor-doc_2.4.3-1_all.deb", 
+    "pkg": "libjackson2-dataformat-cbor-doc", 
+    "pkg_version": "2.4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

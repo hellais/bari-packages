@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "weboob-qt_1.0-3_all.deb", 
+    "pkg": "weboob-qt", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "weboob-qt_1.0-3_all.deb", 
+    "pkg": "weboob-qt", 
+    "pkg_version": "1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "weboob-qt_1.0-3_all.deb", 
+    "pkg": "weboob-qt", 
+    "pkg_version": "1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "weboob-qt_0.c-4.1_all.deb", 
+    "pkg": "weboob-qt_0.c", 
+    "pkg_version": "4.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "weboob-qt_1.0-3_all.deb", 
+    "pkg": "weboob-qt", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "weboob-qt_0.c-4.1_all.deb", 
+    "pkg": "weboob-qt_0.c", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

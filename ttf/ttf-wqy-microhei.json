@@ -1,0 +1,191 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fonts-wqy-microhei_0.2.0-beta-2_all.deb", 
+    "pkg": "fonts-wqy-microhei", 
+    "pkg_version": "0.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ttf-wqy-microhei_0.2.0-beta-2_all.deb", 
+    "pkg": "ttf-wqy-microhei", 
+    "pkg_version": "0.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fonts-wqy-microhei_0.2.0-beta-2_all.deb", 
+    "pkg": "fonts-wqy-microhei", 
+    "pkg_version": "0.2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ttf-wqy-microhei_0.2.0-beta-2_all.deb", 
+    "pkg": "ttf-wqy-microhei", 
+    "pkg_version": "0.2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "fonts-wqy-microhei_0.2.0-beta-2~bpo70+1_all.deb", 
+    "pkg": "fonts-wqy-microhei", 
+    "pkg_version": "0.2.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ttf-wqy-microhei_0.2.0-beta-1.1_all.deb", 
+    "pkg": "ttf-wqy-microhei", 
+    "pkg_version": "0.2.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "fonts-wqy-microhei_0.2.0-beta-2~bpo70+1_all.deb", 
+    "pkg": "fonts-wqy-microhei", 
+    "pkg_version": "0.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ttf-wqy-microhei_0.2.0-beta-1.1_all.deb", 
+    "pkg": "ttf-wqy-microhei", 
+    "pkg_version": "0.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "wqy-microhei-fonts-0.2.0+snapshot20141019-2.1.noarch.rpm", 
+    "pkg": "wqy-microhei-fonts", 
+    "pkg_version": "0.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "fonts-wqy-microhei_0.2.0-beta-2~bpo70+1_all.deb", 
+    "pkg": "fonts-wqy-microhei", 
+    "pkg_version": "0.2.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ttf-wqy-microhei_0.2.0-beta-1.1_all.deb", 
+    "pkg": "ttf-wqy-microhei", 
+    "pkg_version": "0.2.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "wqy-microhei-fonts-0.2.0-13.1.5.noarch.rpm", 
+    "pkg": "wqy-microhei-fonts", 
+    "pkg_version": "0.2.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "fonts-wqy-microhei_0.2.0-beta-2~bpo70+1_all.deb", 
+    "pkg": "fonts-wqy-microhei", 
+    "pkg_version": "0.2.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ttf-wqy-microhei_0.2.0-beta-1.1_all.deb", 
+    "pkg": "ttf-wqy-microhei", 
+    "pkg_version": "0.2.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "wqy-microhei-fonts-0.2.0-11.1.2.noarch.rpm", 
+    "pkg": "wqy-microhei-fonts", 
+    "pkg_version": "0.2.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "fonts-wqy-microhei_0.2.0-beta-2_all.deb", 
+    "pkg": "fonts-wqy-microhei", 
+    "pkg_version": "0.2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "ttf-wqy-microhei_0.2.0-beta-2_all.deb", 
+    "pkg": "ttf-wqy-microhei", 
+    "pkg_version": "0.2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "wqy-microhei-fonts-0.2.0-11.1.2.noarch.rpm", 
+    "pkg": "wqy-microhei-fonts", 
+    "pkg_version": "0.2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "fonts-wqy-microhei_0.2.0-beta-2_all.deb", 
+    "pkg": "fonts-wqy-microhei", 
+    "pkg_version": "0.2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "ttf-wqy-microhei_0.2.0-beta-2_all.deb", 
+    "pkg": "ttf-wqy-microhei", 
+    "pkg_version": "0.2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "wqy-microhei-fonts-0.2.0-11.1.2.noarch.rpm", 
+    "pkg": "wqy-microhei-fonts", 
+    "pkg_version": "0.2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

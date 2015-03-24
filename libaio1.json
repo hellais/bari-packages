@@ -1,0 +1,119 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libaio1_0.3.110-1_i386.deb", 
+    "pkg": "libaio1", 
+    "pkg_version": "0.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libaio1_0.3.110-1_i386.deb", 
+    "pkg": "libaio1", 
+    "pkg_version": "0.3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libaio1_0.3.109-3_i386.deb", 
+    "pkg": "libaio1", 
+    "pkg_version": "0.3.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libaio1-0.3.109-12-omv2015.0.i586.rpm", 
+    "pkg": "libaio1", 
+    "pkg_version": "0.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libaio1-0.3.109-6-omv2014.0.i586.rpm", 
+    "pkg": "libaio1", 
+    "pkg_version": "0.3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libaio1-0.3.109-5-omv2013.0.i586.rpm", 
+    "pkg": "libaio1", 
+    "pkg_version": "0.3.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libaio1-0.3.109-19.1.x86_64.rpm", 
+    "pkg": "libaio1", 
+    "pkg_version": "0.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libaio1-0.3.109-18.1.2.x86_64.rpm", 
+    "pkg": "libaio1", 
+    "pkg_version": "0.3.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libaio1-0.3.109-15.1.2.i586.rpm", 
+    "pkg": "libaio1", 
+    "pkg_version": "0.3.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libaio1-0.3.109-5-rosa2014.1.i586.rpm", 
+    "pkg": "libaio1", 
+    "pkg_version": "0.3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libaio1-0.3.109-4-rosa2012.1.i586.rpm", 
+    "pkg": "libaio1", 
+    "pkg_version": "0.3.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libaio1_0.3.110-1_i386.deb", 
+    "pkg": "libaio1", 
+    "pkg_version": "0.3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libaio1_0.3.109-4_i386.deb", 
+    "pkg": "libaio1", 
+    "pkg_version": "0.3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

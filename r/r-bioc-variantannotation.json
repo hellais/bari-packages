@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "r-bioc-variantannotation_1.10.5-1_i386.deb", 
+    "pkg": "r-bioc-variantannotation", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "r-bioc-variantannotation_1.10.5-1_i386.deb", 
+    "pkg": "r-bioc-variantannotation", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

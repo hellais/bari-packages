@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "talksoup.app_1.0alpha-32-g55b4d4e-2_i386.deb", 
+    "pkg": "talksoup.app", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "talksoup.app_1.0alpha-32-g55b4d4e-1.2+b1_i386.deb", 
+    "pkg": "talksoup.app", 
+    "pkg_version": "1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "talksoup.app_1.0alpha-32-g55b4d4e-1.2build2_i386.deb", 
+    "pkg": "talksoup.app", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "talksoup.app_1.0alpha-32-g55b4d4e-1.2build1_i386.deb", 
+    "pkg": "talksoup.app", 
+    "pkg_version": "1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

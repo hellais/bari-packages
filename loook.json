@@ -1,0 +1,82 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "loook-0.6.7-alt1.noarch.rpm", 
+    "pkg": "loook", 
+    "pkg_version": "0.6.7", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "loook_0.8.1-1_all.deb", 
+    "pkg": "loook", 
+    "pkg_version": "0.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "loook_0.8.0-1_all.deb", 
+    "pkg": "loook", 
+    "pkg_version": "0.8.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "loook-0.8.1-1.fc23.noarch.rpm", 
+    "pkg": "loook", 
+    "pkg_version": "0.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "loook-0.6.7-13.fc21.noarch.rpm", 
+    "pkg": "loook", 
+    "pkg_version": "0.6.7", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "loook-0.6.7-13.fc21.noarch.rpm", 
+    "pkg": "loook", 
+    "pkg_version": "0.6.7", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "loook-0.6.7-11.fc20.noarch.rpm", 
+    "pkg": "loook", 
+    "pkg_version": "0.6.7", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "loook-0.8.0-1.1.noarch.rpm", 
+    "pkg": "loook", 
+    "pkg_version": "0.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "loook_0.7.3-1_all.deb", 
+    "pkg": "loook", 
+    "pkg_version": "0.7.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

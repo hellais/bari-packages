@@ -1,0 +1,225 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "p7zip-9.20.1-alt1.x86_64.rpm", 
+    "pkg": "p7zip", 
+    "pkg_version": "9.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "p7zip-9.38.1-1-x86_64.pkg.tar.xz", 
+    "pkg": "p7zip", 
+    "pkg_version": "9.3", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "p7zip-9.20.1-1.el7.rf.x86_64.rpm", 
+    "pkg": "p7zip", 
+    "pkg_version": "9.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Scientific Linux Cyrillic Edition", 
+    "pkg_full_name": "p7zip-9.20.1-1.el6.x86_64.rpm", 
+    "pkg": "p7zip", 
+    "pkg_version": "9.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Scientific Linux Cyrillic Edition", 
+    "pkg_full_name": "p7zip-4.53-1.rf.i386.rpm", 
+    "pkg": "p7zip", 
+    "pkg_version": "4.5", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "p7zip_9.20.1~dfsg.1-4.1_i386.deb", 
+    "pkg": "p7zip", 
+    "pkg_version": "9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "p7zip_9.20.1~dfsg.1-4.1_i386.deb", 
+    "pkg": "p7zip", 
+    "pkg_version": "9.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "p7zip_9.20.1~dfsg.1-4_i386.deb", 
+    "pkg": "p7zip", 
+    "pkg_version": "9.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "p7zip-9.20.1-8.fc22.x86_64.rpm", 
+    "pkg": "p7zip", 
+    "pkg_version": "9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "p7zip-9.20.1-8.fc22.x86_64.rpm", 
+    "pkg": "p7zip", 
+    "pkg_version": "9.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "p7zip-9.20.1-8.fc21.x86_64.rpm", 
+    "pkg": "p7zip", 
+    "pkg_version": "9.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "p7zip-9.20.1-6.fc20.x86_64.rpm", 
+    "pkg": "p7zip", 
+    "pkg_version": "9.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "p7zip-9.20.1-9-omv2015.0.x86_64.rpm", 
+    "pkg": "p7zip", 
+    "pkg_version": "9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "p7zip-9.20.1-3-omv2014.0.x86_64.rpm", 
+    "pkg": "p7zip", 
+    "pkg_version": "9.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "p7zip-9.20.1-2-omv2013.0.x86_64.rpm", 
+    "pkg": "p7zip", 
+    "pkg_version": "9.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "p7zip-9.38.1-1.1.x86_64.rpm", 
+    "pkg": "p7zip", 
+    "pkg_version": "9.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "p7zip-9.20.1-12.1.5.x86_64.rpm", 
+    "pkg": "p7zip", 
+    "pkg_version": "9.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "p7zip-9.20.1-10.1.4.i586.rpm", 
+    "pkg": "p7zip", 
+    "pkg_version": "9.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "p7zip-9.20.1-4-rosa2014.1.x86_64.rpm", 
+    "pkg": "p7zip", 
+    "pkg_version": "9.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "p7zip-9.20.1-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "p7zip", 
+    "pkg_version": "9.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "p7zip-9.20.1-x86_64-1sl.txz", 
+    "pkg": "p7zip", 
+    "pkg_version": "9.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "p7zip-9.20.1-x86_64-1sl.txz", 
+    "pkg": "p7zip", 
+    "pkg_version": "9.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "p7zip-9.20.1-x86_64-2sl.txz", 
+    "pkg": "p7zip", 
+    "pkg_version": "9.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "p7zip_9.20.1~dfsg.1-4.1_i386.deb", 
+    "pkg": "p7zip", 
+    "pkg_version": "9.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "p7zip_9.20.1~dfsg.1-4_i386.deb", 
+    "pkg": "p7zip", 
+    "pkg_version": "9.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

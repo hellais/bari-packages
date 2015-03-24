@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cmucl-source_20c-2.1_all.deb", 
+    "pkg": "cmucl-source_20c", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liblept4_1.71-2.1+b2_i386.deb", 
+    "pkg": "liblept4", 
+    "pkg_version": "1.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liblept4_1.71-2.1+b2_i386.deb", 
+    "pkg": "liblept4", 
+    "pkg_version": "1.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "liblept4-1.71-1.2.x86_64.rpm", 
+    "pkg": "liblept4", 
+    "pkg_version": "1.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "liblept4-1.70-2.1.2.x86_64.rpm", 
+    "pkg": "liblept4", 
+    "pkg_version": "1.7", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "liblept4-1.70-3-rosa2014.1.i586.rpm", 
+    "pkg": "liblept4", 
+    "pkg_version": "1.7", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "liblept4_1.71-1_i386.deb", 
+    "pkg": "liblept4", 
+    "pkg_version": "1.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

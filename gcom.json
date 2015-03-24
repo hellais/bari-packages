@@ -1,0 +1,101 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gcom_0.32-2_all.deb", 
+    "pkg": "gcom", 
+    "pkg_version": "0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gcom_0.32-2_all.deb", 
+    "pkg": "gcom", 
+    "pkg_version": "0.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gcom_0.32-2_all.deb", 
+    "pkg": "gcom", 
+    "pkg_version": "0.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gcom_0.32-2_all.deb", 
+    "pkg": "gcom", 
+    "pkg_version": "0.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "comgt-0.32-14-rosa2014.1.x86_64.rpm", 
+    "pkg": "comgt", 
+    "pkg_version": "0.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gcom_0.32-2_all.deb", 
+    "pkg": "gcom", 
+    "pkg_version": "0.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "comgt-0.32-13-rosa2012.1.x86_64.rpm", 
+    "pkg": "comgt", 
+    "pkg_version": "0.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gcom_0.32-2_all.deb", 
+    "pkg": "gcom", 
+    "pkg_version": "0.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "comgt-0.32-13-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "comgt", 
+    "pkg_version": "0.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gcom_0.32-2_all.deb", 
+    "pkg": "gcom", 
+    "pkg_version": "0.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "comgt-0.32-13-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "comgt", 
+    "pkg_version": "0.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

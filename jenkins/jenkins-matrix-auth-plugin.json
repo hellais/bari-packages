@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jenkins-matrix-auth-plugin_1.2-1_all.deb", 
+    "pkg": "jenkins-matrix-auth-plugin", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libxalan-c-dev_1.11-5_i386.deb", 
+    "pkg": "libxalan-c-dev", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libxalan-c-dev_1.11-5_i386.deb", 
+    "pkg": "libxalan-c-dev", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libxalan-c-dev_1.11-3_i386.deb", 
+    "pkg": "libxalan-c-dev", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

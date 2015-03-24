@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-crcmod_1.7-1+b1_i386.deb", 
+    "pkg": "python3-crcmod", 
+    "pkg_version": "1.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-crcmod_1.7-1+b1_i386.deb", 
+    "pkg": "python3-crcmod", 
+    "pkg_version": "1.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "python3-crcmod-1.7-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "python3-crcmod", 
+    "pkg_version": "1.7", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "python3-crcmod-1.7-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "python3-crcmod", 
+    "pkg_version": "1.7", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python3-crcmod_1.7-1_i386.deb", 
+    "pkg": "python3-crcmod", 
+    "pkg_version": "1.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "simplesamlphp_1.13.1-2_all.deb", 
+    "pkg": "simplesamlphp", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "simplesamlphp_1.13.1-2_all.deb", 
+    "pkg": "simplesamlphp", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "simplesamlphp_1.9.2-1_all.deb", 
+    "pkg": "simplesamlphp", 
+    "pkg_version": "1.9.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "simplesamlphp_1.12.0-1_all.deb", 
+    "pkg": "simplesamlphp", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "simplesamlphp_1.11.0-1_all.deb", 
+    "pkg": "simplesamlphp", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

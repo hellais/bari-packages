@@ -1,0 +1,172 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "emma-2.0.5312-alt2_12jpp7.noarch.rpm", 
+    "pkg": "emma", 
+    "pkg_version": "2.0.5", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "JPackage 5.0", 
+    "pkg_full_name": "emma-2.0-0.5312.4.jpp5.noarch.rpm", 
+    "pkg": "emma", 
+    "pkg_version": "2.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "JPackage 5.0", 
+    "pkg_full_name": "emma-2.0-0.5312.4.jpp5.noarch.rpm", 
+    "pkg": "emma", 
+    "pkg_version": "2.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "emma_0.6-5_all.deb", 
+    "pkg": "emma", 
+    "pkg_version": "0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "emma_0.6-5_all.deb", 
+    "pkg": "emma", 
+    "pkg_version": "0.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "emma_0.6-4_all.deb", 
+    "pkg": "emma", 
+    "pkg_version": "0.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "emma-2.0.5312-15.fc21.noarch.rpm", 
+    "pkg": "emma", 
+    "pkg_version": "2.0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "emma-2.0.5312-15.fc21.noarch.rpm", 
+    "pkg": "emma", 
+    "pkg_version": "2.0.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "emma-2.0.5312-15.fc21.noarch.rpm", 
+    "pkg": "emma", 
+    "pkg_version": "2.0.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "JPackage 5.0", 
+    "pkg_full_name": "emma-2.0-0.5312.4.jpp5.noarch.rpm", 
+    "pkg": "emma", 
+    "pkg_version": "2.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "emma-2.0.5312-15.0-omv2015.0.noarch.rpm", 
+    "pkg": "emma", 
+    "pkg_version": "2.0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "emma-2.0.5312-12.0-omv2014.0.noarch.rpm", 
+    "pkg": "emma", 
+    "pkg_version": "2.0.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "emma-2.0.5312-9-omv2013.0.noarch.rpm", 
+    "pkg": "emma", 
+    "pkg_version": "2.0.5", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "JPackage 5.0", 
+    "pkg_full_name": "emma-2.0-0.5312.4.jpp5.noarch.rpm", 
+    "pkg": "emma", 
+    "pkg_version": "2.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "JPackage 5.0", 
+    "pkg_full_name": "emma-2.0-0.5312.4.jpp5.noarch.rpm", 
+    "pkg": "emma", 
+    "pkg_version": "2.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "emma-2.0.5312-10-rosa2014.1.noarch.rpm", 
+    "pkg": "emma", 
+    "pkg_version": "2.0.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "emma-2.0.5312-9-rosa2012.1.noarch.rpm", 
+    "pkg": "emma", 
+    "pkg_version": "2.0.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "emma_0.6-5_all.deb", 
+    "pkg": "emma", 
+    "pkg_version": "0.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "emma_0.6-5_all.deb", 
+    "pkg": "emma", 
+    "pkg_version": "0.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

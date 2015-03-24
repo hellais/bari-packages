@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libclass-methodmaker-perl_2.21-1+b1_i386.deb", 
+    "pkg": "libclass-methodmaker-perl", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libclass-methodmaker-perl_2.21-1+b1_i386.deb", 
+    "pkg": "libclass-methodmaker-perl", 
+    "pkg_version": "2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libclass-methodmaker-perl_2.18-1+b1_i386.deb", 
+    "pkg": "libclass-methodmaker-perl", 
+    "pkg_version": "2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libclass-methodmaker-perl_2.21-1build1_i386.deb", 
+    "pkg": "libclass-methodmaker-perl", 
+    "pkg_version": "2.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libclass-methodmaker-perl_2.19-1_i386.deb", 
+    "pkg": "libclass-methodmaker-perl", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

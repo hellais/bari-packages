@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libflexmock-ruby1.9.1_0.9.0-1_all.deb", 
+    "pkg": "libflexmock-ruby", 
+    "pkg_version": "1.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-flexmock_0.9.0-1_all.deb", 
+    "pkg": "ruby-flexmock", 
+    "pkg_version": "0.9.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libflexmock-ruby1.9.1_0.9.0-1_all.deb", 
+    "pkg": "libflexmock-ruby", 
+    "pkg_version": "1.9.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-flexmock_0.9.0-1_all.deb", 
+    "pkg": "ruby-flexmock", 
+    "pkg_version": "0.9.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libflexmock-ruby1.9.1_0.9.0-1_all.deb", 
+    "pkg": "libflexmock-ruby", 
+    "pkg_version": "1.9.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-flexmock_0.9.0-1_all.deb", 
+    "pkg": "ruby-flexmock", 
+    "pkg_version": "0.9.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libflexmock-ruby1.9.1_0.9.0-1build1_all.deb", 
+    "pkg": "libflexmock-ruby", 
+    "pkg_version": "1.9.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "ruby-flexmock_0.9.0-1build1_all.deb", 
+    "pkg": "ruby-flexmock", 
+    "pkg_version": "0.9.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libflexmock-ruby1.9.1_0.9.0-1_all.deb", 
+    "pkg": "libflexmock-ruby", 
+    "pkg_version": "1.9.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "ruby-flexmock_0.9.0-1_all.deb", 
+    "pkg": "ruby-flexmock", 
+    "pkg_version": "0.9.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

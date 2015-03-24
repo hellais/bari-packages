@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libappindicator3-dev_0.4.92-3.1_i386.deb", 
+    "pkg": "libappindicator3-dev", 
+    "pkg_version": "0.4.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libappindicator3-dev_0.4.92-3.1_i386.deb", 
+    "pkg": "libappindicator3-dev", 
+    "pkg_version": "0.4.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libappindicator3-dev_0.4.92-2_i386.deb", 
+    "pkg": "libappindicator3-dev", 
+    "pkg_version": "0.4.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "libappindicator3-dev_12.10.1+13.10.20130920-0ubuntu4.2_i386.deb", 
+    "pkg": "libappindicator3-dev_1", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libappindicator3-dev_0.4.92-2_i386.deb", 
+    "pkg": "libappindicator3-dev", 
+    "pkg_version": "0.4.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "libappindicator3-dev_12.10.1+13.10.20130920-0ubuntu4.1_i386.deb", 
+    "pkg": "libappindicator3-dev_1", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libappindicator3-dev_0.4.92-2_i386.deb", 
+    "pkg": "libappindicator3-dev", 
+    "pkg_version": "0.4.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

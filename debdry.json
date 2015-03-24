@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "debdry_0.2.1-1_all.deb", 
+    "pkg": "debdry", 
+    "pkg_version": "0.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

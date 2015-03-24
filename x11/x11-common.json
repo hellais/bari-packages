@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "x11-common_7.7+7_all.deb", 
+    "pkg": "x11-common", 
+    "pkg_version": "7.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "x11-common_7.7+7_all.deb", 
+    "pkg": "x11-common", 
+    "pkg_version": "7.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "x11-common_7.7+3~deb7u1_all.deb", 
+    "pkg": "x11-common", 
+    "pkg_version": "7.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "University of Queensland Vislab", 
+    "pkg_full_name": "x11-common-0.1-noarch-3_uqv.txz", 
+    "pkg": "x11-common", 
+    "pkg_version": "0.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "x11-common_7.7+7ubuntu2_all.deb", 
+    "pkg": "x11-common", 
+    "pkg_version": "7.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "x11-common_7.7+1ubuntu8.1_all.deb", 
+    "pkg": "x11-common", 
+    "pkg_version": "7.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

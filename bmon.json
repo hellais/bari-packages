@@ -1,0 +1,153 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "bmon-2.1.0-alt1.1.qa1.x86_64.rpm", 
+    "pkg": "bmon", 
+    "pkg_version": "2.1.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "bmon-3.6-2-x86_64.pkg.tar.xz", 
+    "pkg": "bmon", 
+    "pkg_version": "3.6", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Ghettoforge", 
+    "pkg_full_name": "bmon-3.6-1.gf.el7.x86_64.rpm", 
+    "pkg": "bmon", 
+    "pkg_version": "3.6", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "bmon-2.1.0-5.el5.rf.x86_64.rpm", 
+    "pkg": "bmon", 
+    "pkg_version": "2.1.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bmon_3.5-1_i386.deb", 
+    "pkg": "bmon", 
+    "pkg_version": "3.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bmon_3.5-1_i386.deb", 
+    "pkg": "bmon", 
+    "pkg_version": "3.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bmon_2.0.1-3_i386.deb", 
+    "pkg": "bmon", 
+    "pkg_version": "2.0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "bmon-3.6-1.fc22.x86_64.rpm", 
+    "pkg": "bmon", 
+    "pkg_version": "3.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "bmon-3.6-1.fc22.x86_64.rpm", 
+    "pkg": "bmon", 
+    "pkg_version": "3.6", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "bmon-3.6-1.fc21.x86_64.rpm", 
+    "pkg": "bmon", 
+    "pkg_version": "3.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "bmon-3.6-1.fc20.x86_64.rpm", 
+    "pkg": "bmon", 
+    "pkg_version": "3.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Network Utilities", 
+    "pkg_full_name": "bmon-2.1.0-2.98.x86_64.rpm", 
+    "pkg": "bmon", 
+    "pkg_version": "2.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Network Utilities", 
+    "pkg_full_name": "bmon-2.1.0-2.1.x86_64.rpm", 
+    "pkg": "bmon", 
+    "pkg_version": "2.1.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Network Utilities", 
+    "pkg_full_name": "bmon-2.1.0-2.1.x86_64.rpm", 
+    "pkg": "bmon", 
+    "pkg_version": "2.1.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Freestylers", 
+    "pkg_full_name": "bmon-3.1-x86_64-1_fs.tgz", 
+    "pkg": "bmon", 
+    "pkg_version": "3.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "bmon_3.2-1_i386.deb", 
+    "pkg": "bmon", 
+    "pkg_version": "3.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "bmon_3.1-1_i386.deb", 
+    "pkg": "bmon", 
+    "pkg_version": "3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

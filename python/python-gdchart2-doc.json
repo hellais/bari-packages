@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-gdchart2-doc_0.beta1-3.4_all.deb", 
+    "pkg": "python-gdchart2-doc_0.beta1", 
+    "pkg_version": "3.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-gdchart2-doc_0.beta1-3.4_all.deb", 
+    "pkg": "python-gdchart2-doc_0.beta1", 
+    "pkg_version": "3.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-gdchart2-doc_0.beta1-3.4_all.deb", 
+    "pkg": "python-gdchart2-doc_0.beta1", 
+    "pkg_version": "3.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-gdchart2-doc_0.beta1-3.4ubuntu3_all.deb", 
+    "pkg": "python-gdchart2-doc_0.beta1", 
+    "pkg_version": "3.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-gdchart2-doc_0.beta1-3.4ubuntu3_all.deb", 
+    "pkg": "python-gdchart2-doc_0.beta1", 
+    "pkg_version": "3.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

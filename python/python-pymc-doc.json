@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python-pymc-doc_2.3.4+ds-1~nd+1_all.deb", 
+    "pkg": "python-pymc-doc", 
+    "pkg_version": "2.3.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python-pymc-doc_2.3.4+ds-1~nd80+1_all.deb", 
+    "pkg": "python-pymc-doc", 
+    "pkg_version": "2.3.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python-pymc-doc_2.2+ds-1~nd70+1_all.deb", 
+    "pkg": "python-pymc-doc", 
+    "pkg_version": "2.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-pymc-doc_2.2+ds-1_all.deb", 
+    "pkg": "python-pymc-doc", 
+    "pkg_version": "2.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

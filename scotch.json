@@ -1,0 +1,154 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "scotch-5.1.12b-alt3.svn20110910.x86_64.rpm", 
+    "pkg": "scotch", 
+    "pkg_version": "5.1.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "scotch-6.0.4-1.el7.x86_64.rpm", 
+    "pkg": "scotch", 
+    "pkg_version": "6.0.4", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "scotch-6.0.4-1.el6.x86_64.rpm", 
+    "pkg": "scotch", 
+    "pkg_version": "6.0.4", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scotch_5.1.12b.dfsg-2+b1_i386.deb", 
+    "pkg": "scotch", 
+    "pkg_version": "5.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scotch_5.1.12b.dfsg-2+b1_i386.deb", 
+    "pkg": "scotch", 
+    "pkg_version": "5.1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scotch_5.1.12b.dfsg-1.2_i386.deb", 
+    "pkg": "scotch", 
+    "pkg_version": "5.1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "scotch-6.0.4-1.fc23.x86_64.rpm", 
+    "pkg": "scotch", 
+    "pkg_version": "6.0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "scotch-6.0.3-2.fc22.x86_64.rpm", 
+    "pkg": "scotch", 
+    "pkg_version": "6.0.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "scotch-6.0.4-1.fc21.x86_64.rpm", 
+    "pkg": "scotch", 
+    "pkg_version": "6.0.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "scotch-6.0.0-3.fc20.x86_64.rpm", 
+    "pkg": "scotch", 
+    "pkg_version": "6.0.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "scotch-5.1.11-1-omv2014.1.x86_64.rpm", 
+    "pkg": "scotch", 
+    "pkg_version": "5.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "scotch-5.1.11-1-omv2013.0.x86_64.rpm", 
+    "pkg": "scotch", 
+    "pkg_version": "5.1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "scotch-5.1.11-1-omv2013.0.x86_64.rpm", 
+    "pkg": "scotch", 
+    "pkg_version": "5.1.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "scotch-5.1.11-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "scotch", 
+    "pkg_version": "5.1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "scotch-5.1.11-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "scotch", 
+    "pkg_version": "5.1.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "scotch_5.1.12b.dfsg-2build2_i386.deb", 
+    "pkg": "scotch", 
+    "pkg_version": "5.1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "scotch_5.1.12b.dfsg-2build1_i386.deb", 
+    "pkg": "scotch", 
+    "pkg_version": "5.1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

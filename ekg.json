@@ -1,0 +1,136 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "ekg-1.8-alt1_0.17.rc1.x86_64.rpm", 
+    "pkg": "ekg", 
+    "pkg_version": "1.8", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ekg_1.9~pre+r2855-2+b1_i386.deb", 
+    "pkg": "ekg", 
+    "pkg_version": "1.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ekg_1.9~pre+r2855-2+b1_i386.deb", 
+    "pkg": "ekg", 
+    "pkg_version": "1.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ekg_1.9~pre+r2854-1_i386.deb", 
+    "pkg": "ekg", 
+    "pkg_version": "1.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ekg-1.8-0.17.rc1.fc22.x86_64.rpm", 
+    "pkg": "ekg", 
+    "pkg_version": "1.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ekg-1.8-0.17.rc1.fc22.x86_64.rpm", 
+    "pkg": "ekg", 
+    "pkg_version": "1.8", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ekg-1.8-0.17.rc1.fc21.x86_64.rpm", 
+    "pkg": "ekg", 
+    "pkg_version": "1.8", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ekg-1.8-0.15.rc1.fc20.x86_64.rpm", 
+    "pkg": "ekg", 
+    "pkg_version": "1.8", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "ekg-1.8-0.rc2.4-omv2014.1.i586.rpm", 
+    "pkg": "ekg", 
+    "pkg_version": "1.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "ekg-1.8-0.rc2.3-omv2013.0.x86_64.rpm", 
+    "pkg": "ekg", 
+    "pkg_version": "1.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "ekg-1.8-0.rc2.3-omv2013.0.x86_64.rpm", 
+    "pkg": "ekg", 
+    "pkg_version": "1.8", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "ekg-1.8-0.rc2.4-rosa2014.1.x86_64.rpm", 
+    "pkg": "ekg", 
+    "pkg_version": "1.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "ekg-1.8-0.rc2.4-rosa2012.1.x86_64.rpm", 
+    "pkg": "ekg", 
+    "pkg_version": "1.8", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ekg_1.9~pre+r2855-2_i386.deb", 
+    "pkg": "ekg", 
+    "pkg_version": "1.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ekg_1.9~pre+r2855-1_i386.deb", 
+    "pkg": "ekg", 
+    "pkg_version": "1.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

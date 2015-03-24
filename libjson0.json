@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libjson0_0.11-4_i386.deb", 
+    "pkg": "libjson0", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libjson0_0.11-4_i386.deb", 
+    "pkg": "libjson0", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libjson0_0.10-1.2_i386.deb", 
+    "pkg": "libjson0", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libjson0-0.11-4-omv2014.0.i586.rpm", 
+    "pkg": "libjson0", 
+    "pkg_version": "0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libjson0-0.11-3-omv2013.0.i586.rpm", 
+    "pkg": "libjson0", 
+    "pkg_version": "0.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "libjson0-0.10-3.4.1.x86_64.rpm", 
+    "pkg": "libjson0", 
+    "pkg_version": "0.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libjson0-0.9-4-rosa2014.1.i586.rpm", 
+    "pkg": "libjson0", 
+    "pkg_version": "0.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libjson0-0.9-2-rosa2012.1.i586.rpm", 
+    "pkg": "libjson0", 
+    "pkg_version": "0.9", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libjson0_0.11-4ubuntu1_i386.deb", 
+    "pkg": "libjson0", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "libjson0_0.11-3ubuntu1.2_i386.deb", 
+    "pkg": "libjson0", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

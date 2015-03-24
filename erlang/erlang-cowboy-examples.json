@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "erlang-cowboy-examples_1.0.0+dfsg1-1_all.deb", 
+    "pkg": "erlang-cowboy-examples", 
+    "pkg_version": "1.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "erlang-cowboy-examples_1.0.0+dfsg1-1_all.deb", 
+    "pkg": "erlang-cowboy-examples", 
+    "pkg_version": "1.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "erlang-cowboy-examples_0.8.6+dfsg1-1_all.deb", 
+    "pkg": "erlang-cowboy-examples", 
+    "pkg_version": "0.8.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

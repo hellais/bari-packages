@@ -1,0 +1,119 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "postgresql-doc_9.4+166_all.deb", 
+    "pkg": "postgresql-doc", 
+    "pkg_version": "9.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "postgresql-doc_9.4+165_all.deb", 
+    "pkg": "postgresql-doc", 
+    "pkg_version": "9.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "postgresql-doc_9.1+134wheezy4_all.deb", 
+    "pkg": "postgresql-doc", 
+    "pkg_version": "9.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "postgresql-doc_9.1+134wheezy4_all.deb", 
+    "pkg": "postgresql-doc", 
+    "pkg_version": "9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "postgresql-docs-9.4.1-1.fc22.x86_64.rpm", 
+    "pkg": "postgresql-docs", 
+    "pkg_version": "9.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "postgresql-doc_9.1+134wheezy4_all.deb", 
+    "pkg": "postgresql-doc", 
+    "pkg_version": "9.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "postgresql-docs-9.4.1-1.fc22.x86_64.rpm", 
+    "pkg": "postgresql-docs", 
+    "pkg_version": "9.4.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "postgresql-doc_9.1+134wheezy4_all.deb", 
+    "pkg": "postgresql-doc", 
+    "pkg_version": "9.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "postgresql-docs-9.3.6-1.fc21.x86_64.rpm", 
+    "pkg": "postgresql-docs", 
+    "pkg_version": "9.3.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "postgresql-doc_9.4+162_all.deb", 
+    "pkg": "postgresql-doc", 
+    "pkg_version": "9.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "postgresql-docs-9.3.6-1.fc21.x86_64.rpm", 
+    "pkg": "postgresql-docs", 
+    "pkg_version": "9.3.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Proposed Main", 
+    "pkg_full_name": "postgresql-doc_9.3+154ubuntu1_all.deb", 
+    "pkg": "postgresql-doc", 
+    "pkg_version": "9.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "postgresql-docs-9.3.6-1.fc21.x86_64.rpm", 
+    "pkg": "postgresql-docs", 
+    "pkg_version": "9.3.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

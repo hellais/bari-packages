@@ -1,0 +1,216 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vpnc-0.5.3-alt5.x86_64.rpm", 
+    "pkg": "vpnc", 
+    "pkg_version": "0.5.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vpnc-0.5.3.svn550-1-x86_64.pkg.tar.xz", 
+    "pkg": "vpnc", 
+    "pkg_version": "0.5.3", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "vpnc-0.5.3-21.svn457.el7.nux.x86_64.rpm", 
+    "pkg": "vpnc", 
+    "pkg_version": "0.5.3", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "NauLinux School", 
+    "pkg_full_name": "vpnc-0.5.3-4.el6.x86_64.rpm", 
+    "pkg": "vpnc", 
+    "pkg_version": "0.5.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Scientific Linux Cyrillic Edition", 
+    "pkg_full_name": "vpnc-0.5.3-8.el5.i386.rpm", 
+    "pkg": "vpnc", 
+    "pkg_version": "0.5.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vpnc_0.5.3r550-2_i386.deb", 
+    "pkg": "vpnc", 
+    "pkg_version": "0.5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vpnc_0.5.3r550-2_i386.deb", 
+    "pkg": "vpnc", 
+    "pkg_version": "0.5.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vpnc_0.5.3r512-2_i386.deb", 
+    "pkg": "vpnc", 
+    "pkg_version": "0.5.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "vpnc-0.5.3-25.svn550.fc22.x86_64.rpm", 
+    "pkg": "vpnc", 
+    "pkg_version": "0.5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "vpnc-0.5.3-25.svn550.fc22.x86_64.rpm", 
+    "pkg": "vpnc", 
+    "pkg_version": "0.5.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "vpnc-0.5.3-24.svn550.fc21.x86_64.rpm", 
+    "pkg": "vpnc", 
+    "pkg_version": "0.5.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "vpnc-0.5.3-21.svn550.fc20.x86_64.rpm", 
+    "pkg": "vpnc", 
+    "pkg_version": "0.5.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "vpnc-0.5.3-18-omv2015.0.x86_64.rpm", 
+    "pkg": "vpnc", 
+    "pkg_version": "0.5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "vpnc-0.5.3-12-omv2014.0.x86_64.rpm", 
+    "pkg": "vpnc", 
+    "pkg_version": "0.5.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "vpnc-0.5.3-7-omv2013.0.x86_64.rpm", 
+    "pkg": "vpnc", 
+    "pkg_version": "0.5.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "vpnc-0.5.3r550-1.2.x86_64.rpm", 
+    "pkg": "vpnc", 
+    "pkg_version": "0.5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "vpnc-0.5.3r517-9.2.1.x86_64.rpm", 
+    "pkg": "vpnc", 
+    "pkg_version": "0.5.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "vpnc-0.5.3r517-6.1.2.i586.rpm", 
+    "pkg": "vpnc", 
+    "pkg_version": "0.5.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "vpnc-0.5.3-8-rosa2014.1.x86_64.rpm", 
+    "pkg": "vpnc", 
+    "pkg_version": "0.5.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "vpnc-0.5.3-7-rosa2012.1.x86_64.rpm", 
+    "pkg": "vpnc", 
+    "pkg_version": "0.5.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Freestylers", 
+    "pkg_full_name": "vpnc-0.5.3-x86_64-1_fs.tgz", 
+    "pkg": "vpnc", 
+    "pkg_version": "0.5.3", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "vpnc-0.5.3-i486-4sl.txz", 
+    "pkg": "vpnc", 
+    "pkg_version": "0.5.3", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "vpnc_0.5.3r512-2ubuntu1_i386.deb", 
+    "pkg": "vpnc", 
+    "pkg_version": "0.5.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "vpnc_0.5.3r512-2ubuntu1_i386.deb", 
+    "pkg": "vpnc", 
+    "pkg_version": "0.5.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

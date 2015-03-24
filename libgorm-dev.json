@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgorm-dev_1.2.20-2_i386.deb", 
+    "pkg": "libgorm-dev", 
+    "pkg_version": "1.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

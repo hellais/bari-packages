@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgirepository-1.0-1_1.42.0-2.2_i386.deb", 
+    "pkg": "libgirepository", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgirepository-1.0-1_1.42.0-2.2_i386.deb", 
+    "pkg": "libgirepository", 
+    "pkg_version": "1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgirepository-1.0-1_1.32.1-1_i386.deb", 
+    "pkg": "libgirepository", 
+    "pkg_version": "1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libgirepository-1.0-1_1.41.4-0ubuntu1_i386.deb", 
+    "pkg": "libgirepository", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "libgirepository-1.0-1_1.40.0-1ubuntu0.2_i386.deb", 
+    "pkg": "libgirepository", 
+    "pkg_version": "1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

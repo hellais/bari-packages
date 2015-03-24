@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liblucene++-contrib0_3.0.6-4_i386.deb", 
+    "pkg": "liblucene++-contrib0", 
+    "pkg_version": "3.0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liblucene++-contrib0_3.0.6-3_i386.deb", 
+    "pkg": "liblucene++-contrib0", 
+    "pkg_version": "3.0.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "liblucene++-contrib0-3.0.6-1.git20140729.1-rosa2014.1.i586.rpm", 
+    "pkg": "liblucene++-contrib0", 
+    "pkg_version": "3.0.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "liblucene++-contrib0_3.0.4-0ubuntu3_i386.deb", 
+    "pkg": "liblucene++-contrib0", 
+    "pkg_version": "3.0.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

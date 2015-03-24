@@ -1,0 +1,217 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "quota-4.00-alt1.x86_64.rpm", 
+    "pkg": "quota", 
+    "pkg_version": "4.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "quota-4.01-11.el7.x86_64.rpm", 
+    "pkg": "quota", 
+    "pkg_version": "4.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "quota-3.17-21.el6_5.x86_64.rpm", 
+    "pkg": "quota", 
+    "pkg_version": "3.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "quota-3.13-4.1.el5.x86_64.rpm", 
+    "pkg": "quota", 
+    "pkg_version": "3.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "quota_4.02-1_i386.deb", 
+    "pkg": "quota", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "quota_4.01-8_i386.deb", 
+    "pkg": "quota", 
+    "pkg_version": "4.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "quota_4.00-4+deb7u1_i386.deb", 
+    "pkg": "quota", 
+    "pkg_version": "4.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "quota-4.02-1.fc22.x86_64.rpm", 
+    "pkg": "quota", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "quota-4.02-1.fc22.x86_64.rpm", 
+    "pkg": "quota", 
+    "pkg_version": "4.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "quota-4.01-14.fc21.x86_64.rpm", 
+    "pkg": "quota", 
+    "pkg_version": "4.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "quota-4.01-11.fc20.x86_64.rpm", 
+    "pkg": "quota", 
+    "pkg_version": "4.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "quota-4.01-11-omv2015.0.x86_64.rpm", 
+    "pkg": "quota", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "quota-4.01-2-omv2014.0.x86_64.rpm", 
+    "pkg": "quota", 
+    "pkg_version": "4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "quota-4.01-1-omv2013.0.x86_64.rpm", 
+    "pkg": "quota", 
+    "pkg_version": "4.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "quota-4.02-1.2.x86_64.rpm", 
+    "pkg": "quota", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "quota-4.02-2.4.1.x86_64.rpm", 
+    "pkg": "quota", 
+    "pkg_version": "4.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "quota-4.01-2.1.2.i586.rpm", 
+    "pkg": "quota", 
+    "pkg_version": "4.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "quota-4.01-9-rosa2014.1.x86_64.rpm", 
+    "pkg": "quota", 
+    "pkg_version": "4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "quota-3.17-10-rosa2012.1.x86_64.rpm", 
+    "pkg": "quota", 
+    "pkg_version": "3.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "quota-3.17-x86_64-1.txz", 
+    "pkg": "quota", 
+    "pkg_version": "3.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "quota-3.17-x86_64-1.txz", 
+    "pkg": "quota", 
+    "pkg_version": "3.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "quota-3.17-x86_64-1.txz", 
+    "pkg": "quota", 
+    "pkg_version": "3.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "quota_4.01-7_i386.deb", 
+    "pkg": "quota", 
+    "pkg_version": "4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "quota_4.01-3_i386.deb", 
+    "pkg": "quota", 
+    "pkg_version": "4.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "idjc_0.8.14-1+b2_i386.deb", 
+    "pkg": "idjc", 
+    "pkg_version": "0.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "idjc_0.8.14-1+b2_i386.deb", 
+    "pkg": "idjc", 
+    "pkg_version": "0.8.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "idjc_0.8.7-2_i386.deb", 
+    "pkg": "idjc", 
+    "pkg_version": "0.8.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "idjc-0.8.7-8.fc22.x86_64.rpm", 
+    "pkg": "idjc", 
+    "pkg_version": "0.8.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "idjc-0.8.7-8.fc22.x86_64.rpm", 
+    "pkg": "idjc", 
+    "pkg_version": "0.8.7", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "idjc-0.8.7-8.fc21.x86_64.rpm", 
+    "pkg": "idjc", 
+    "pkg_version": "0.8.7", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "idjc-0.8.7-4.fc19.x86_64.rpm", 
+    "pkg": "idjc", 
+    "pkg_version": "0.8.7", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "idjc-0.8.7-3.234.x86_64.rpm", 
+    "pkg": "idjc", 
+    "pkg_version": "0.8.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "idjc-0.8.7-3.50.x86_64.rpm", 
+    "pkg": "idjc", 
+    "pkg_version": "0.8.7", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Multiverse", 
+    "pkg_full_name": "idjc_0.8.14-1build2_i386.deb", 
+    "pkg": "idjc", 
+    "pkg_version": "0.8.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Multiverse", 
+    "pkg_full_name": "idjc_0.8.9-1build1_i386.deb", 
+    "pkg": "idjc", 
+    "pkg_version": "0.8.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

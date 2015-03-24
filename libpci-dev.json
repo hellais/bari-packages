@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpci-dev_3.2.1-3_i386.deb", 
+    "pkg": "libpci-dev", 
+    "pkg_version": "3.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpci-dev_3.2.1-3_i386.deb", 
+    "pkg": "libpci-dev", 
+    "pkg_version": "3.2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpci-dev_3.1.9-6_i386.deb", 
+    "pkg": "libpci-dev", 
+    "pkg_version": "3.1.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libpci-dev_3.2.1-1ubuntu9_i386.deb", 
+    "pkg": "libpci-dev", 
+    "pkg_version": "3.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libpci-dev_3.2.1-1ubuntu5_i386.deb", 
+    "pkg": "libpci-dev", 
+    "pkg_version": "3.2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

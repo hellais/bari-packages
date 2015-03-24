@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libmp3splt0-ogg_0.9.2-dmo1_i386.deb", 
+    "pkg": "libmp3splt0-ogg", 
+    "pkg_version": "0.9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libmp3splt0-ogg_0.9.2-dmo1_i386.deb", 
+    "pkg": "libmp3splt0-ogg", 
+    "pkg_version": "0.9.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmp3splt0-ogg_0.7.2-2_i386.deb", 
+    "pkg": "libmp3splt0-ogg", 
+    "pkg_version": "0.7.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "libmp3splt0-ogg-0.8.2-1.38.x86_64.rpm", 
+    "pkg": "libmp3splt0-ogg", 
+    "pkg_version": "0.8.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "libmp3splt0-ogg-0.8.2-1.6.x86_64.rpm", 
+    "pkg": "libmp3splt0-ogg", 
+    "pkg_version": "0.8.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libmp3splt0-ogg_0.7.2-2ubuntu1_i386.deb", 
+    "pkg": "libmp3splt0-ogg", 
+    "pkg_version": "0.7.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

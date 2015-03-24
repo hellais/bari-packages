@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-web-plugins-doc_0.2.6.1-1_all.deb", 
+    "pkg": "libghc-web-plugins-doc", 
+    "pkg_version": "0.2.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-web-plugins-doc_0.2.6.1-1_all.deb", 
+    "pkg": "libghc-web-plugins-doc", 
+    "pkg_version": "0.2.6.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-web-plugins-doc_0.2.3-1_all.deb", 
+    "pkg": "libghc-web-plugins-doc", 
+    "pkg_version": "0.2.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

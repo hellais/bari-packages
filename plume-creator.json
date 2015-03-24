@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "plume-creator_0.66+dfsg1-2_i386.deb", 
+    "pkg": "plume-creator", 
+    "pkg_version": "0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "plume-creator_0.66+dfsg1-2_i386.deb", 
+    "pkg": "plume-creator", 
+    "pkg_version": "0.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Alien Bob", 
+    "pkg_full_name": "plume-creator-0.54-x86_64-1alien.tgz", 
+    "pkg": "plume-creator", 
+    "pkg_version": "0.5", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "clanlib-doc_1.0~svn3827-3_all.deb", 
+    "pkg": "clanlib-doc", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "clanlib-doc_1.0~svn3827-3_all.deb", 
+    "pkg": "clanlib-doc", 
+    "pkg_version": "1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "clanlib-doc_1.0~svn3827-3_all.deb", 
+    "pkg": "clanlib-doc", 
+    "pkg_version": "1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "clanlib-doc-2.3.6-14.2.noarch.rpm", 
+    "pkg": "clanlib-doc", 
+    "pkg_version": "2.3.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "clanlib-doc-2.3.6-13.1.10.noarch.rpm", 
+    "pkg": "clanlib-doc", 
+    "pkg_version": "2.3.6", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "clanlib-doc-2.3.6-10.1.3.noarch.rpm", 
+    "pkg": "clanlib-doc", 
+    "pkg_version": "2.3.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "clanlib-doc_1.0~svn3827-3ubuntu1_all.deb", 
+    "pkg": "clanlib-doc", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "clanlib-doc_1.0~svn3827-3build1_all.deb", 
+    "pkg": "clanlib-doc", 
+    "pkg_version": "1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

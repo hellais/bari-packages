@@ -1,0 +1,137 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "clc-intercal_1.0~4pre1.-94.-2-4_all.deb", 
+    "pkg": "clc-intercal", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "clc-intercal_1.0~4pre1.-94.-2-4_all.deb", 
+    "pkg": "clc-intercal", 
+    "pkg_version": "1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "clc-intercal_1.0~4pre1.-94.-2-2_all.deb", 
+    "pkg": "clc-intercal", 
+    "pkg_version": "1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "clc-intercal_1.0~4pre1.-94.-2-2_all.deb", 
+    "pkg": "clc-intercal", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "clc-intercal-0-0.18.1._94._2.fc22.noarch.rpm", 
+    "pkg": "clc-intercal-0", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "clc-intercal_1.0~4pre1.-94.-2-2_all.deb", 
+    "pkg": "clc-intercal", 
+    "pkg_version": "1.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "clc-intercal-0-0.18.1._94._2.fc22.noarch.rpm", 
+    "pkg": "clc-intercal-0", 
+    "pkg_version": "0.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "clc-intercal_1.0~4pre1.-94.-2-2_all.deb", 
+    "pkg": "clc-intercal", 
+    "pkg_version": "1.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "clc-intercal-0-0.17.1._94._2.fc21.noarch.rpm", 
+    "pkg": "clc-intercal-0", 
+    "pkg_version": "0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "clc-intercal_1.0~4pre1.-94.-2-2_all.deb", 
+    "pkg": "clc-intercal", 
+    "pkg_version": "1.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "clc-intercal-0-0.16.1._94._2.fc20.noarch.rpm", 
+    "pkg": "clc-intercal-0", 
+    "pkg_version": "0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "clc-intercal_1.0~4pre1.-94.-2-4_all.deb", 
+    "pkg": "clc-intercal", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "clc-intercal-0-0.16.1._94._2.fc20.noarch.rpm", 
+    "pkg": "clc-intercal-0", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "clc-intercal_1.0~4pre1.-94.-2-3_all.deb", 
+    "pkg": "clc-intercal", 
+    "pkg_version": "1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "clc-intercal-0-0.16.1._94._2.fc20.noarch.rpm", 
+    "pkg": "clc-intercal-0", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcupscgi1-dev_1.7.5-11_i386.deb", 
+    "pkg": "libcupscgi1-dev", 
+    "pkg_version": "1.7.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcupscgi1-dev_1.7.5-11_i386.deb", 
+    "pkg": "libcupscgi1-dev", 
+    "pkg_version": "1.7.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "libcupscgi1-dev_1.5.3-5+deb7u5_i386.deb", 
+    "pkg": "libcupscgi1-dev", 
+    "pkg_version": "1.5.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "libcupscgi1-dev_1.7.5-3ubuntu3.1_i386.deb", 
+    "pkg": "libcupscgi1-dev", 
+    "pkg_version": "1.7.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "libcupscgi1-dev_1.7.2-0ubuntu1.5_i386.deb", 
+    "pkg": "libcupscgi1-dev", 
+    "pkg_version": "1.7.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

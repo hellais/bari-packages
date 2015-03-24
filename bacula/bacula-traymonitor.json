@@ -1,0 +1,110 @@
+[
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "bacula-traymonitor-5.2.13-18.el7.x86_64.rpm", 
+    "pkg": "bacula-traymonitor", 
+    "pkg_version": "5.2.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Lux", 
+    "pkg_full_name": "bacula-traymonitor-5.2.13-17.el6.lux.2.x86_64.rpm", 
+    "pkg": "bacula-traymonitor", 
+    "pkg_version": "5.2.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "NauLinux Extras", 
+    "pkg_full_name": "bacula-traymonitor-2.0.3-10.Nau5x.i386.rpm", 
+    "pkg": "bacula-traymonitor", 
+    "pkg_version": "2.0.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bacula-traymonitor_5.2.6+dfsg-9.3_i386.deb", 
+    "pkg": "bacula-traymonitor", 
+    "pkg_version": "5.2.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bacula-traymonitor_5.2.6+dfsg-9.3_i386.deb", 
+    "pkg": "bacula-traymonitor", 
+    "pkg_version": "5.2.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bacula-traymonitor_5.2.6+dfsg-9_i386.deb", 
+    "pkg": "bacula-traymonitor", 
+    "pkg_version": "5.2.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "bacula-traymonitor-7.0.5-4.fc23.x86_64.rpm", 
+    "pkg": "bacula-traymonitor", 
+    "pkg_version": "7.0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "bacula-traymonitor-7.0.5-2.fc22.x86_64.rpm", 
+    "pkg": "bacula-traymonitor", 
+    "pkg_version": "7.0.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "bacula-traymonitor-7.0.5-4.fc21.x86_64.rpm", 
+    "pkg": "bacula-traymonitor", 
+    "pkg_version": "7.0.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "bacula-traymonitor-5.2.13-18.fc20.x86_64.rpm", 
+    "pkg": "bacula-traymonitor", 
+    "pkg_version": "5.2.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "bacula-traymonitor_5.2.6+dfsg-9.1ubuntu4_i386.deb", 
+    "pkg": "bacula-traymonitor", 
+    "pkg_version": "5.2.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "bacula-traymonitor_5.2.6+dfsg-9.1ubuntu3_i386.deb", 
+    "pkg": "bacula-traymonitor", 
+    "pkg_version": "5.2.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

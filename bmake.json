@@ -1,0 +1,182 @@
+[
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "bmake-20130123-5-omv2015.0.x86_64.rpm", 
+    "pkg": "bmake-20130123-5-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "bmake-20130123-5-omv2015.0.x86_64.rpm", 
+    "pkg": "bmake-20130123-5-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "bmake-20130123-2-omv2014.0.x86_64.rpm", 
+    "pkg": "bmake-20130123-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "bmake-20130123-5-omv2015.0.x86_64.rpm", 
+    "pkg": "bmake-20130123-5-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "bmake-20130123-1-omv2013.0.x86_64.rpm", 
+    "pkg": "bmake-20130123-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "bmake-20130123-2-omv2014.0.x86_64.rpm", 
+    "pkg": "bmake-20130123-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "bmake-20130123-5-omv2015.0.x86_64.rpm", 
+    "pkg": "bmake-20130123-5-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "bmake-20130123-1-omv2013.0.x86_64.rpm", 
+    "pkg": "bmake-20130123-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "bmake-20130123-2-omv2014.0.x86_64.rpm", 
+    "pkg": "bmake-20130123-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "bmake-20141111-1.1.x86_64.rpm", 
+    "pkg": "bmake-20141111", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "bmake-20130123-5-omv2015.0.x86_64.rpm", 
+    "pkg": "bmake-20130123-5-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "bmake-20140620-1.1.x86_64.rpm", 
+    "pkg": "bmake-20140620", 
+    "pkg_version": "1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "bmake-20130123-1-omv2013.0.x86_64.rpm", 
+    "pkg": "bmake-20130123-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "bmake-20130123-2-omv2014.0.x86_64.rpm", 
+    "pkg": "bmake-20130123-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "bmake-20141111-1.1.x86_64.rpm", 
+    "pkg": "bmake-20141111", 
+    "pkg_version": "1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "bmake-20130123-5-omv2015.0.x86_64.rpm", 
+    "pkg": "bmake-20130123-5-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "bmake-20140620-1.1.x86_64.rpm", 
+    "pkg": "bmake-20140620", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "bmake-20130123-1-omv2013.0.x86_64.rpm", 
+    "pkg": "bmake-20130123-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "bmake-20130123-2-omv2014.0.x86_64.rpm", 
+    "pkg": "bmake-20130123-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "bmake-20141111-1.1.x86_64.rpm", 
+    "pkg": "bmake-20141111", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

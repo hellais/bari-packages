@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-repoze.sphinx.autointerface_0.6.2-2_all.deb", 
+    "pkg": "python-repoze.sphinx.autointerface", 
+    "pkg_version": "0.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-repoze.sphinx.autointerface_0.6.2-2_all.deb", 
+    "pkg": "python-repoze.sphinx.autointerface", 
+    "pkg_version": "0.6.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-repoze.sphinx.autointerface_0.4-1_all.deb", 
+    "pkg": "python-repoze.sphinx.autointerface", 
+    "pkg_version": "0.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-repoze.sphinx.autointerface-0.7.1-6.2.noarch.rpm", 
+    "pkg": "python-repoze.sphinx.autointerface", 
+    "pkg_version": "0.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-repoze.sphinx.autointerface-0.7.1-5.1.4.noarch.rpm", 
+    "pkg": "python-repoze.sphinx.autointerface", 
+    "pkg_version": "0.7.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-repoze.sphinx.autointerface-0.7.1-2.1.2.noarch.rpm", 
+    "pkg": "python-repoze.sphinx.autointerface", 
+    "pkg_version": "0.7.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-repoze.sphinx.autointerface_0.6.2-2_all.deb", 
+    "pkg": "python-repoze.sphinx.autointerface", 
+    "pkg_version": "0.6.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-repoze.sphinx.autointerface_0.4-1_all.deb", 
+    "pkg": "python-repoze.sphinx.autointerface", 
+    "pkg_version": "0.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

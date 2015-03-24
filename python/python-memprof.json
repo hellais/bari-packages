@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-memprof_0.3.3-3+b1_i386.deb", 
+    "pkg": "python-memprof", 
+    "pkg_version": "0.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-memprof_0.3.3-3+b1_i386.deb", 
+    "pkg": "python-memprof", 
+    "pkg_version": "0.3.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-memprof_0.3.3-3_i386.deb", 
+    "pkg": "python-memprof", 
+    "pkg_version": "0.3.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

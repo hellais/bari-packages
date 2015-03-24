@@ -1,0 +1,46 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ucommon-utils-6.1.11-alt1.x86_64.rpm", 
+    "pkg": "ucommon-utils", 
+    "pkg_version": "6.1.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ucommon-utils_6.1.10-1_i386.deb", 
+    "pkg": "ucommon-utils", 
+    "pkg_version": "6.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ucommon-utils_6.1.10-1_i386.deb", 
+    "pkg": "ucommon-utils", 
+    "pkg_version": "6.1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ucommon-utils_5.2.2-4_i386.deb", 
+    "pkg": "ucommon-utils", 
+    "pkg_version": "5.2.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ucommon-utils_6.1.10-1_i386.deb", 
+    "pkg": "ucommon-utils", 
+    "pkg_version": "6.1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

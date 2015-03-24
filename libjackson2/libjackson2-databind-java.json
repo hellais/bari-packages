@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libjackson2-databind-java_2.4.2-2_all.deb", 
+    "pkg": "libjackson2-databind-java", 
+    "pkg_version": "2.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libjackson2-databind-java_2.4.2-2_all.deb", 
+    "pkg": "libjackson2-databind-java", 
+    "pkg_version": "2.4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libjackson2-databind-java_2.2.2-2_all.deb", 
+    "pkg": "libjackson2-databind-java", 
+    "pkg_version": "2.2.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

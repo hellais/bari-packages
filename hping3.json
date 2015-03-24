@@ -1,0 +1,163 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hping3-0.0.20051105-alt5.qa1.x86_64.rpm", 
+    "pkg": "hping3", 
+    "pkg_version": "0.0.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "hping3-0.0.20051105-22.el7.x86_64.rpm", 
+    "pkg": "hping3", 
+    "pkg_version": "0.0.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "hping3-0.0.20051105-16.el6.x86_64.rpm", 
+    "pkg": "hping3", 
+    "pkg_version": "0.0.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "hping3-0.0.20051105-15.el5.x86_64.rpm", 
+    "pkg": "hping3", 
+    "pkg_version": "0.0.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "hping3-0.0.20051105-15.el5.x86_64.rpm", 
+    "pkg": "hping3", 
+    "pkg_version": "0.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "hping3-0.0.20051105-15.el5.x86_64.rpm", 
+    "pkg": "hping3", 
+    "pkg_version": "0.0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "hping3-0.0.20051105-15.el5.x86_64.rpm", 
+    "pkg": "hping3", 
+    "pkg_version": "0.0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "hping3-0.0.20051105-24.fc22.x86_64.rpm", 
+    "pkg": "hping3", 
+    "pkg_version": "0.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "hping3-0.0.20051105-24.fc22.x86_64.rpm", 
+    "pkg": "hping3", 
+    "pkg_version": "0.0.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "hping3-0.0.20051105-23.fc21.x86_64.rpm", 
+    "pkg": "hping3", 
+    "pkg_version": "0.0.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "hping3-0.0.20051105-20.fc20.x86_64.rpm", 
+    "pkg": "hping3", 
+    "pkg_version": "0.0.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "hping3-0.0.20051105-20.fc20.x86_64.rpm", 
+    "pkg": "hping3", 
+    "pkg_version": "0.0.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "hping3-0.0.20051105-20.fc20.x86_64.rpm", 
+    "pkg": "hping3", 
+    "pkg_version": "0.0.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "hping3-0.0.20051105-20.fc20.x86_64.rpm", 
+    "pkg": "hping3", 
+    "pkg_version": "0.0.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "hping3-0.0.20051105-20.fc20.x86_64.rpm", 
+    "pkg": "hping3", 
+    "pkg_version": "0.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "hping3_3.a2.ds2-6.1_i386.deb", 
+    "pkg": "hping3_3.a2.ds2", 
+    "pkg_version": "6.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "hping3-0.0.20051105-20.fc20.x86_64.rpm", 
+    "pkg": "hping3", 
+    "pkg_version": "0.0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "hping3_3.a2.ds2-6.1_i386.deb", 
+    "pkg": "hping3_3.a2.ds2", 
+    "pkg_version": "6.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsmartcols1_2.25.2-5_i386.deb", 
+    "pkg": "libsmartcols1", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsmartcols1_2.25.2-5_i386.deb", 
+    "pkg": "libsmartcols1", 
+    "pkg_version": "2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libsmartcols1-2.26-2-omv2015.0.i586.rpm", 
+    "pkg": "libsmartcols1", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libsmartcols1-2.26-1.2.x86_64.rpm", 
+    "pkg": "libsmartcols1", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "libsmartcols1-2.25.1-9.1.x86_64.rpm", 
+    "pkg": "libsmartcols1", 
+    "pkg_version": "2.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }
+]

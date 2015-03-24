@@ -1,0 +1,55 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-gettext-2.1.0-alt2.qa1.2.noarch.rpm", 
+    "pkg": "ruby-gettext", 
+    "pkg_version": "2.1.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-gettext_3.1.2-1_all.deb", 
+    "pkg": "ruby-gettext", 
+    "pkg_version": "3.1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-gettext_3.1.2-1_all.deb", 
+    "pkg": "ruby-gettext", 
+    "pkg_version": "3.1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-gettext_2.2.1-3_all.deb", 
+    "pkg": "ruby-gettext", 
+    "pkg_version": "2.2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "ruby-gettext-2.1.0-x86_64-2ab.txz", 
+    "pkg": "ruby-gettext", 
+    "pkg_version": "2.1.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ruby-gettext_3.1.2-1_all.deb", 
+    "pkg": "ruby-gettext", 
+    "pkg_version": "3.1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

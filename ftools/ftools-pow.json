@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ftools-pow_5.3+dfsg-5+b1_i386.deb", 
+    "pkg": "ftools-pow", 
+    "pkg_version": "5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ftools-pow_5.3+dfsg-5+b1_i386.deb", 
+    "pkg": "ftools-pow", 
+    "pkg_version": "5.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ftools-pow_5.3+dfsg-5_i386.deb", 
+    "pkg": "ftools-pow", 
+    "pkg_version": "5.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

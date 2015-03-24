@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cl-drakma_1.3.11-1_all.deb", 
+    "pkg": "cl-drakma", 
+    "pkg_version": "1.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

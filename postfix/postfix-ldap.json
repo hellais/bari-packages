@@ -1,0 +1,226 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "postfix-ldap-2.11.3-alt1.x86_64.rpm", 
+    "pkg": "postfix-ldap", 
+    "pkg_version": "2.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "postfix-2.6.5-8.el5.x86_64.rpm", 
+    "pkg": "postfix", 
+    "pkg_version": "2.6.5", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "postfix-ldap-2.11.3-alt1.x86_64.rpm", 
+    "pkg": "postfix-ldap", 
+    "pkg_version": "2.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "postfix-2.6.5-8.el5.x86_64.rpm", 
+    "pkg": "postfix", 
+    "pkg_version": "2.6.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "postfix-ldap_2.11.3-1_i386.deb", 
+    "pkg": "postfix-ldap", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "postfix-2.6.5-8.el5.x86_64.rpm", 
+    "pkg": "postfix", 
+    "pkg_version": "2.6.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "postfix-ldap_2.11.3-1_i386.deb", 
+    "pkg": "postfix-ldap", 
+    "pkg_version": "2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "postfix-2.6.5-8.el5.x86_64.rpm", 
+    "pkg": "postfix", 
+    "pkg_version": "2.6.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "postfix-ldap_2.9.6-2_i386.deb", 
+    "pkg": "postfix-ldap", 
+    "pkg_version": "2.9.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "postfix-2.6.5-8.el5.x86_64.rpm", 
+    "pkg": "postfix", 
+    "pkg_version": "2.6.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "postfix-ldap-3.0.0-4.fc23.x86_64.rpm", 
+    "pkg": "postfix-ldap", 
+    "pkg_version": "3.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "postfix-2.6.5-8.el5.x86_64.rpm", 
+    "pkg": "postfix", 
+    "pkg_version": "2.6.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "postfix-ldap-2.10.2-11-omv2015.0.x86_64.rpm", 
+    "pkg": "postfix-ldap", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "postfix-2.6.5-8.el5.x86_64.rpm", 
+    "pkg": "postfix", 
+    "pkg_version": "2.6.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "postfix-ldap-2.10.2-3-omv2014.0.x86_64.rpm", 
+    "pkg": "postfix-ldap", 
+    "pkg_version": "2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "postfix-2.6.5-8.el5.x86_64.rpm", 
+    "pkg": "postfix", 
+    "pkg_version": "2.6.5", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "postfix-ldap-2.10.2-1-omv2013.0.x86_64.rpm", 
+    "pkg": "postfix-ldap", 
+    "pkg_version": "2.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "postfix-2.6.5-8.el5.x86_64.rpm", 
+    "pkg": "postfix", 
+    "pkg_version": "2.6.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "postfix-ldap-2.10.2-10-rosa2014.1.x86_64.rpm", 
+    "pkg": "postfix-ldap", 
+    "pkg_version": "2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "postfix-2.6.5-8.el5.x86_64.rpm", 
+    "pkg": "postfix", 
+    "pkg_version": "2.6.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "postfix-ldap-2.9.4-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "postfix-ldap", 
+    "pkg_version": "2.9.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "postfix-2.6.5-8.el5.x86_64.rpm", 
+    "pkg": "postfix", 
+    "pkg_version": "2.6.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "postfix-ldap_2.11.1-1ubuntu1_i386.deb", 
+    "pkg": "postfix-ldap", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "postfix-2.6.5-8.el5.x86_64.rpm", 
+    "pkg": "postfix", 
+    "pkg_version": "2.6.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "postfix-ldap_2.11.0-1ubuntu1_i386.deb", 
+    "pkg": "postfix-ldap", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

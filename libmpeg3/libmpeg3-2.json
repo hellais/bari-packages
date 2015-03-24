@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmpeg3-2_1.8.dfsg-2_i386.deb", 
+    "pkg": "libmpeg3-2", 
+    "pkg_version": "1.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmpeg3-2_1.8.dfsg-2_i386.deb", 
+    "pkg": "libmpeg3-2", 
+    "pkg_version": "1.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

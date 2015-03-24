@@ -1,0 +1,55 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "xacobeo-0.15-alt2.x86_64.rpm", 
+    "pkg": "xacobeo", 
+    "pkg_version": "0.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xacobeo_0.15-2+b1_i386.deb", 
+    "pkg": "xacobeo", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xacobeo_0.15-2+b1_i386.deb", 
+    "pkg": "xacobeo", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xacobeo_0.13-2+b1_i386.deb", 
+    "pkg": "xacobeo", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xacobeo_0.15-2build1_i386.deb", 
+    "pkg": "xacobeo", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xacobeo_0.15-1_i386.deb", 
+    "pkg": "xacobeo", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "fiaif-1.22.1-alt1.noarch.rpm", 
+    "pkg": "fiaif", 
+    "pkg_version": "1.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fiaif_1.23.1-4_all.deb", 
+    "pkg": "fiaif", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fiaif_1.23.1-4_all.deb", 
+    "pkg": "fiaif", 
+    "pkg_version": "1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fiaif_1.22.1-1_all.deb", 
+    "pkg": "fiaif", 
+    "pkg_version": "1.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "fiaif_1.23.1-4_all.deb", 
+    "pkg": "fiaif", 
+    "pkg_version": "1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "fiaif_1.23.1-3_all.deb", 
+    "pkg": "fiaif", 
+    "pkg_version": "1.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

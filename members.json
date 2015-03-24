@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "members-0.0-0.20080128.5.1.el6.rf.x86_64.rpm", 
+    "pkg": "members", 
+    "pkg_version": "0.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "members-0.0-0.20080128.5.1.el5.rf.x86_64.rpm", 
+    "pkg": "members", 
+    "pkg_version": "0.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "members-0.0-0.20080128.5.1.el5.rf.x86_64.rpm", 
+    "pkg": "members", 
+    "pkg_version": "0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "members-0.0-0.20080128.5.1.el5.rf.x86_64.rpm", 
+    "pkg": "members", 
+    "pkg_version": "0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "members-0.0-0.20080128.5.1.el5.rf.x86_64.rpm", 
+    "pkg": "members", 
+    "pkg_version": "0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "members-0.0-0.20080128.5.1.el5.rf.x86_64.rpm", 
+    "pkg": "members", 
+    "pkg_version": "0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "members-0.0-0.20080128.5.1.el5.rf.x86_64.rpm", 
+    "pkg": "members", 
+    "pkg_version": "0.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

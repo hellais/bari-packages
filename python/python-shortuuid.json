@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-shortuuid_0.4.2-1.1_all.deb", 
+    "pkg": "python-shortuuid", 
+    "pkg_version": "0.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-shortuuid_0.4.2-1.1_all.deb", 
+    "pkg": "python-shortuuid", 
+    "pkg_version": "0.4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-shortuuid-0.4.2-1-omv2014.1.noarch.rpm", 
+    "pkg": "python-shortuuid", 
+    "pkg_version": "0.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-shortuuid-0.2-1-omv2013.0.noarch.rpm", 
+    "pkg": "python-shortuuid", 
+    "pkg_version": "0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-shortuuid-0.2-1-omv2013.0.noarch.rpm", 
+    "pkg": "python-shortuuid", 
+    "pkg_version": "0.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "python-shortuuid-0.4.2-2-rosa2014.1.noarch.rpm", 
+    "pkg": "python-shortuuid", 
+    "pkg_version": "0.4.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "python-shortuuid-0.2-1-rosa2012.1.noarch.rpm", 
+    "pkg": "python-shortuuid", 
+    "pkg_version": "0.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-shortuuid_0.4.2-1_all.deb", 
+    "pkg": "python-shortuuid", 
+    "pkg_version": "0.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

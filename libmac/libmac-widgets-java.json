@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmac-widgets-java_0.10.0+svn416-dfsg1-1_all.deb", 
+    "pkg": "libmac-widgets-java", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmac-widgets-java_0.10.0+svn416-dfsg1-1_all.deb", 
+    "pkg": "libmac-widgets-java", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmac-widgets-java_0.9.5+svn369-dfsg1-3_all.deb", 
+    "pkg": "libmac-widgets-java", 
+    "pkg_version": "0.9.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libmac-widgets-java_0.9.5+svn369-dfsg1-3_all.deb", 
+    "pkg": "libmac-widgets-java", 
+    "pkg_version": "0.9.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libmac-widgets-java_0.9.5+svn369-dfsg1-3_all.deb", 
+    "pkg": "libmac-widgets-java", 
+    "pkg_version": "0.9.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

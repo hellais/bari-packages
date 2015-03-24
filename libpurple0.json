@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpurple0_2.10.11-1_i386.deb", 
+    "pkg": "libpurple0", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpurple0_2.10.11-1_i386.deb", 
+    "pkg": "libpurple0", 
+    "pkg_version": "2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "libpurple0_2.10.10-1~deb7u1_i386.deb", 
+    "pkg": "libpurple0", 
+    "pkg_version": "2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libpurple0-2.10.11-1-omv2015.0.i586.rpm", 
+    "pkg": "libpurple0", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "libpurple0-2.10.11-0.1-omv2014.0.i586.rpm", 
+    "pkg": "libpurple0", 
+    "pkg_version": "2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libpurple0-2.10.7-4-omv2013.0.i586.rpm", 
+    "pkg": "libpurple0", 
+    "pkg_version": "2.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "libpurple0-2.10.11-1-rosa2014.1.i586.rpm", 
+    "pkg": "libpurple0", 
+    "pkg_version": "2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "libpurple0-2.10.11-1-rosa2012.1.i586.rpm", 
+    "pkg": "libpurple0", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "libpurple0_2.10.9-0ubuntu7.1_i386.deb", 
+    "pkg": "libpurple0", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "libpurple0_2.10.9-0ubuntu3.2_i386.deb", 
+    "pkg": "libpurple0", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

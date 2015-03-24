@@ -1,0 +1,101 @@
+[
+  {
+    "pkg_repo": "Psychotic Ninja", 
+    "pkg_full_name": "nicstat-1.95-3.el7.psychotic.x86_64.rpm", 
+    "pkg": "nicstat", 
+    "pkg_version": "1.9", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Psychotic Ninja", 
+    "pkg_full_name": "nicstat-1.95-3.el6.psychotic.x86_64.rpm", 
+    "pkg": "nicstat", 
+    "pkg_version": "1.9", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Psychotic Ninja", 
+    "pkg_full_name": "nicstat-1.95-3.el5.psychotic.x86_64.rpm", 
+    "pkg": "nicstat", 
+    "pkg_version": "1.9", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nicstat_1.95-1_i386.deb", 
+    "pkg": "nicstat", 
+    "pkg_version": "1.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nicstat_1.95-1_i386.deb", 
+    "pkg": "nicstat", 
+    "pkg_version": "1.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "nicstat-1.95-2.fc22.x86_64.rpm", 
+    "pkg": "nicstat", 
+    "pkg_version": "1.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "nicstat-1.95-2.fc22.x86_64.rpm", 
+    "pkg": "nicstat", 
+    "pkg_version": "1.9", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "nicstat-1.95-2.fc21.x86_64.rpm", 
+    "pkg": "nicstat", 
+    "pkg_version": "1.9", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "nicstat-1.92-6.fc20.x86_64.rpm", 
+    "pkg": "nicstat", 
+    "pkg_version": "1.9", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Slackers", 
+    "pkg_full_name": "nicstat-1.95-x86_64-1cf.txz", 
+    "pkg": "nicstat", 
+    "pkg_version": "1.9", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "nicstat_1.95-1_i386.deb", 
+    "pkg": "nicstat", 
+    "pkg_version": "1.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

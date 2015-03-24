@@ -1,0 +1,190 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vtk-examples-5.10.1-alt8.x86_64.rpm", 
+    "pkg": "vtk-examples", 
+    "pkg_version": "5.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "vtk-examples-6.1.0-4.el7.x86_64.rpm", 
+    "pkg": "vtk-examples", 
+    "pkg_version": "6.1.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "vtk-examples-5.8.0-6.sdl6.1.1.x86_64.rpm", 
+    "pkg": "vtk-examples", 
+    "pkg_version": "5.8.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "vtk-examples-5.6.0-34.el5.x86_64.rpm", 
+    "pkg": "vtk-examples", 
+    "pkg_version": "5.6.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "vtk-examples_5.8.0-7+b0~nd+1_all.deb", 
+    "pkg": "vtk-examples", 
+    "pkg_version": "5.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "vtk-examples_5.8.0-7+b0~nd70+1_all.deb", 
+    "pkg": "vtk-examples", 
+    "pkg_version": "5.8.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "vtk-examples_5.8.0-7+b0~nd70+1_all.deb", 
+    "pkg": "vtk-examples", 
+    "pkg_version": "5.8.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "vtk-examples-6.2.0-1.fc23.x86_64.rpm", 
+    "pkg": "vtk-examples", 
+    "pkg_version": "6.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "vtk-examples-6.1.0-24.fc22.x86_64.rpm", 
+    "pkg": "vtk-examples", 
+    "pkg_version": "6.1.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "vtk-examples-6.1.0-23.fc21.x86_64.rpm", 
+    "pkg": "vtk-examples", 
+    "pkg_version": "6.1.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "vtk-examples-6.0.0-12.fc20.x86_64.rpm", 
+    "pkg": "vtk-examples", 
+    "pkg_version": "6.0.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "vtk-examples-6.1.0-1-omv2015.0.x86_64.rpm", 
+    "pkg": "vtk-examples", 
+    "pkg_version": "6.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "vtk-examples-5.10.1-2-omv2014.0.x86_64.rpm", 
+    "pkg": "vtk-examples", 
+    "pkg_version": "5.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "vtk-examples-5.10.1-1-omv2013.0.x86_64.rpm", 
+    "pkg": "vtk-examples", 
+    "pkg_version": "5.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "vtk-examples-6.1.0-5.1.x86_64.rpm", 
+    "pkg": "vtk-examples", 
+    "pkg_version": "6.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "vtk-examples-6.1.0-2.2.6.x86_64.rpm", 
+    "pkg": "vtk-examples", 
+    "pkg_version": "6.1.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "vtk-examples-6.0.0-3.1.4.i586.rpm", 
+    "pkg": "vtk-examples", 
+    "pkg_version": "6.0.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "vtk-examples-6.1.0-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "vtk-examples", 
+    "pkg_version": "6.1.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "vtk-examples-5.8.0-4-rosa2012.1.x86_64.rpm", 
+    "pkg": "vtk-examples", 
+    "pkg_version": "5.8.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "vtk-examples_5.8.0-17.3ubuntu2_all.deb", 
+    "pkg": "vtk-examples", 
+    "pkg_version": "5.8.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "vtk-examples_5.8.0-14.1ubuntu3_all.deb", 
+    "pkg": "vtk-examples", 
+    "pkg_version": "5.8.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

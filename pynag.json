@@ -1,0 +1,91 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "pynag-0.8.5-alt1_2.noarch.rpm", 
+    "pkg": "pynag", 
+    "pkg_version": "0.8.5", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "pynag-0.9.1-1.el7.noarch.rpm", 
+    "pkg": "pynag", 
+    "pkg_version": "0.9.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "pynag-0.9.1-1.el6.noarch.rpm", 
+    "pkg": "pynag", 
+    "pkg_version": "0.9.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "pynag-0.8.5-1.el5.noarch.rpm", 
+    "pkg": "pynag", 
+    "pkg_version": "0.8.5", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pynag_0.9.1+dfsg-1_all.deb", 
+    "pkg": "pynag", 
+    "pkg_version": "0.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pynag-0.8.5-2.fc21.noarch.rpm", 
+    "pkg": "pynag", 
+    "pkg_version": "0.8.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pynag-0.8.5-2.fc21.noarch.rpm", 
+    "pkg": "pynag", 
+    "pkg_version": "0.8.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pynag-0.8.5-2.fc21.noarch.rpm", 
+    "pkg": "pynag", 
+    "pkg_version": "0.8.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "pynag-0.9.1-1.fc20.noarch.rpm", 
+    "pkg": "pynag", 
+    "pkg_version": "0.9.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "pynag_0.8.9-1_all.deb", 
+    "pkg": "pynag", 
+    "pkg_version": "0.8.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

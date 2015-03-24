@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libreoffice-help-vi_4.3.3-2_all.deb", 
+    "pkg": "libreoffice-help-vi", 
+    "pkg_version": "4.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libreoffice-help-vi_4.3.3-2_all.deb", 
+    "pkg": "libreoffice-help-vi", 
+    "pkg_version": "4.3.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "libreoffice-help-vi_4.3.3-2~bpo70+2_all.deb", 
+    "pkg": "libreoffice-help-vi", 
+    "pkg_version": "4.3.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "libreoffice-help-vi-4.1.6.2-37.1.noarch.rpm", 
+    "pkg": "libreoffice-help-vi", 
+    "pkg_version": "4.1.6.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Slackel", 
+    "pkg_full_name": "libreoffice-help-vi-4.4.1-x86_64-1dj.txz", 
+    "pkg": "libreoffice-help-vi", 
+    "pkg_version": "4.4.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "libreoffice-help-vi-4.2.5-x86_64-1dj.txz", 
+    "pkg": "libreoffice-help-vi", 
+    "pkg_version": "4.2.5", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "libreoffice-help-vi_4.3.3-0ubuntu1_all.deb", 
+    "pkg": "libreoffice-help-vi", 
+    "pkg_version": "4.3.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

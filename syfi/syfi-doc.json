@@ -1,0 +1,55 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "syfi-doc-1.1.0-alt4.bzr20130304.noarch.rpm", 
+    "pkg": "syfi-doc", 
+    "pkg_version": "1.1.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "syfi-doc_1.0.0.dfsg-1.2_all.deb", 
+    "pkg": "syfi-doc", 
+    "pkg_version": "1.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "syfi-doc_1.0.0.dfsg-1.2_all.deb", 
+    "pkg": "syfi-doc", 
+    "pkg_version": "1.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "syfi-doc_1.0.0.dfsg-1_all.deb", 
+    "pkg": "syfi-doc", 
+    "pkg_version": "1.0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "syfi-doc_1.0.0.dfsg-1.2_all.deb", 
+    "pkg": "syfi-doc", 
+    "pkg_version": "1.0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "syfi-doc_1.0.0.dfsg-1.2_all.deb", 
+    "pkg": "syfi-doc", 
+    "pkg_version": "1.0.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

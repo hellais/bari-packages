@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-pytools_2014.3-2_all.deb", 
+    "pkg": "python3-pytools_201", 
+    "pkg_version": "4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-pytools_2014.3-2_all.deb", 
+    "pkg": "python3-pytools_201", 
+    "pkg_version": "4.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-pytools_2011.5-2_all.deb", 
+    "pkg": "python3-pytools_201", 
+    "pkg_version": "1.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python3-pytools_2014.2.1-1_all.deb", 
+    "pkg": "python3-pytools_201", 
+    "pkg_version": "4.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "python3-pytools-2013.5.7-1.mga4.noarch.rpm", 
+    "pkg": "python3-pytools-201", 
+    "pkg_version": "3.5.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

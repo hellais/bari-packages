@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "git-remote-gcrypt_0.20130908-7_all.deb", 
+    "pkg": "git-remote-gcrypt", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "git-remote-gcrypt_0.20130908-7_all.deb", 
+    "pkg": "git-remote-gcrypt", 
+    "pkg_version": "0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "git-remote-gcrypt_0.20130908-7~bpo70+1_all.deb", 
+    "pkg": "git-remote-gcrypt", 
+    "pkg_version": "0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "git-remote-gcrypt_0.20130908-7_all.deb", 
+    "pkg": "git-remote-gcrypt", 
+    "pkg_version": "0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

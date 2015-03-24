@@ -1,0 +1,388 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ant-1.9.2-alt1.noarch.rpm", 
+    "pkg": "ant", 
+    "pkg_version": "1.9.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ant-1.9.2-9.el7.noarch.rpm", 
+    "pkg": "ant", 
+    "pkg_version": "1.9.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "ant-1.8.2-5.jpp6.noarch.rpm", 
+    "pkg": "ant", 
+    "pkg_version": "1.8.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "ant-1.8.2-5.jpp6.noarch.rpm", 
+    "pkg": "ant", 
+    "pkg_version": "1.8.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ant17-1.7.1-1jpp.0.x86_64.rpm", 
+    "pkg": "ant17", 
+    "pkg_version": "1.7.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ant_1.9.4-3_all.deb", 
+    "pkg": "ant", 
+    "pkg_version": "1.9.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ant17-1.7.1-1jpp.0.x86_64.rpm", 
+    "pkg": "ant17", 
+    "pkg_version": "1.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ant_1.9.4-3_all.deb", 
+    "pkg": "ant", 
+    "pkg_version": "1.9.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ant17-1.7.1-1jpp.0.x86_64.rpm", 
+    "pkg": "ant17", 
+    "pkg_version": "1.7.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ant_1.8.2-4_all.deb", 
+    "pkg": "ant", 
+    "pkg_version": "1.8.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ant17-1.7.1-1jpp.0.x86_64.rpm", 
+    "pkg": "ant17", 
+    "pkg_version": "1.7.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ant-1.9.4-8.fc23.noarch.rpm", 
+    "pkg": "ant", 
+    "pkg_version": "1.9.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ant17-1.7.1-1jpp.0.x86_64.rpm", 
+    "pkg": "ant17", 
+    "pkg_version": "1.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ant-1.9.4-7.fc22.noarch.rpm", 
+    "pkg": "ant", 
+    "pkg_version": "1.9.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ant17-1.7.1-1jpp.0.x86_64.rpm", 
+    "pkg": "ant17", 
+    "pkg_version": "1.7.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ant-1.9.4-3.fc21.noarch.rpm", 
+    "pkg": "ant", 
+    "pkg_version": "1.9.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ant17-1.7.1-1jpp.0.x86_64.rpm", 
+    "pkg": "ant17", 
+    "pkg_version": "1.7.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "ant-1.8.2-5.jpp6.noarch.rpm", 
+    "pkg": "ant", 
+    "pkg_version": "1.8.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ant17-1.7.1-1jpp.0.x86_64.rpm", 
+    "pkg": "ant17", 
+    "pkg_version": "1.7.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "ant-1.9.4-1.1-omv2015.0.noarch.rpm", 
+    "pkg": "ant", 
+    "pkg_version": "1.9.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ant17-1.7.1-1jpp.0.x86_64.rpm", 
+    "pkg": "ant17", 
+    "pkg_version": "1.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "ant-1.9.2-7.1-omv2014.0.noarch.rpm", 
+    "pkg": "ant", 
+    "pkg_version": "1.9.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ant17-1.7.1-1jpp.0.x86_64.rpm", 
+    "pkg": "ant17", 
+    "pkg_version": "1.7.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "ant-1.8.4-7-omv2013.0.noarch.rpm", 
+    "pkg": "ant", 
+    "pkg_version": "1.8.4", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ant17-1.7.1-1jpp.0.x86_64.rpm", 
+    "pkg": "ant17", 
+    "pkg_version": "1.7.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ant-1.9.4-4.2.noarch.rpm", 
+    "pkg": "ant", 
+    "pkg_version": "1.9.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ant17-1.7.1-1jpp.0.x86_64.rpm", 
+    "pkg": "ant17", 
+    "pkg_version": "1.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ant-1.9.4-2.2.3.noarch.rpm", 
+    "pkg": "ant", 
+    "pkg_version": "1.9.4", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ant17-1.7.1-1jpp.0.x86_64.rpm", 
+    "pkg": "ant17", 
+    "pkg_version": "1.7.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ant-1.9.2-2.2.1.noarch.rpm", 
+    "pkg": "ant", 
+    "pkg_version": "1.9.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ant17-1.7.1-1jpp.0.x86_64.rpm", 
+    "pkg": "ant17", 
+    "pkg_version": "1.7.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "ant-1.8.4-3.6-rosa2014.1.noarch.rpm", 
+    "pkg": "ant", 
+    "pkg_version": "1.8.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ant17-1.7.1-1jpp.0.x86_64.rpm", 
+    "pkg": "ant17", 
+    "pkg_version": "1.7.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "ant-1.8.4-3-rosa2012.1.noarch.rpm", 
+    "pkg": "ant", 
+    "pkg_version": "1.8.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ant17-1.7.1-1jpp.0.x86_64.rpm", 
+    "pkg": "ant17", 
+    "pkg_version": "1.7.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Johannes Sch\u00f6pfer", 
+    "pkg_full_name": "ant-1.8.1-x86_64-1jsc.txz", 
+    "pkg": "ant", 
+    "pkg_version": "1.8.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ant17-1.7.1-1jpp.0.x86_64.rpm", 
+    "pkg": "ant17", 
+    "pkg_version": "1.7.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "ant-0.1.1-i486-6sl.txz", 
+    "pkg": "ant", 
+    "pkg_version": "0.1.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ant17-1.7.1-1jpp.0.x86_64.rpm", 
+    "pkg": "ant17", 
+    "pkg_version": "1.7.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "ant_1.9.4-1_all.deb", 
+    "pkg": "ant", 
+    "pkg_version": "1.9.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ant17-1.7.1-1jpp.0.x86_64.rpm", 
+    "pkg": "ant17", 
+    "pkg_version": "1.7.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "ant_1.9.3-2build1_all.deb", 
+    "pkg": "ant", 
+    "pkg_version": "1.9.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ant17-1.7.1-1jpp.0.x86_64.rpm", 
+    "pkg": "ant17", 
+    "pkg_version": "1.7.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "rng-tools-5-5.3.x86_64.rpm", 
+    "pkg": "rng-tools-5", 
+    "pkg_version": "5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "rng-tools-5-2.3.1.x86_64.rpm", 
+    "pkg": "rng-tools-5", 
+    "pkg_version": "2.3.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "rng-tools-5-2.3.1.x86_64.rpm", 
+    "pkg": "rng-tools-5", 
+    "pkg_version": "2.3.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "rng-tools-4-7.1.2.i586.rpm", 
+    "pkg": "rng-tools-4", 
+    "pkg_version": "7.1.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "rng-tools_5-0ubuntu1.1_i386.deb", 
+    "pkg": "rng-tools_5-0ubuntu", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "rng-tools-5-2.3.1.x86_64.rpm", 
+    "pkg": "rng-tools-5", 
+    "pkg_version": "2.3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "rng-tools-4-7.1.2.i586.rpm", 
+    "pkg": "rng-tools-4", 
+    "pkg_version": "7.1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "rng-tools_5-0ubuntu1.1_i386.deb", 
+    "pkg": "rng-tools_5-0ubuntu", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "rng-tools-5-2.3.1.x86_64.rpm", 
+    "pkg": "rng-tools-5", 
+    "pkg_version": "2.3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "rng-tools-4-7.1.2.i586.rpm", 
+    "pkg": "rng-tools-4", 
+    "pkg_version": "7.1.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "rng-tools_4-0ubuntu2.1_i386.deb", 
+    "pkg": "rng-tools_4-0ubuntu", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

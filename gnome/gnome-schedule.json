@@ -1,0 +1,118 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "gnome-schedule-2.2.2-2-any.pkg.tar.xz", 
+    "pkg": "gnome-schedule", 
+    "pkg_version": "2.2.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-schedule_2.1.1-4_all.deb", 
+    "pkg": "gnome-schedule", 
+    "pkg_version": "2.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-schedule_2.1.1-4_all.deb", 
+    "pkg": "gnome-schedule", 
+    "pkg_version": "2.1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-schedule_2.1.1-4_all.deb", 
+    "pkg": "gnome-schedule", 
+    "pkg_version": "2.1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnome-schedule-2.1.5-6.fc21.noarch.rpm", 
+    "pkg": "gnome-schedule", 
+    "pkg_version": "2.1.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnome-schedule-2.1.5-6.fc21.noarch.rpm", 
+    "pkg": "gnome-schedule", 
+    "pkg_version": "2.1.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnome-schedule-2.1.5-6.fc21.noarch.rpm", 
+    "pkg": "gnome-schedule", 
+    "pkg_version": "2.1.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnome-schedule-2.1.5-5.fc20.noarch.rpm", 
+    "pkg": "gnome-schedule", 
+    "pkg_version": "2.1.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gnome-schedule-2.2.2-3.2.noarch.rpm", 
+    "pkg": "gnome-schedule", 
+    "pkg_version": "2.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gnome-schedule-2.2.2-2.1.5.noarch.rpm", 
+    "pkg": "gnome-schedule", 
+    "pkg_version": "2.2.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gnome-schedule-2.2.1-2.2.1.noarch.rpm", 
+    "pkg": "gnome-schedule", 
+    "pkg_version": "2.2.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnome-schedule_2.1.1-4_all.deb", 
+    "pkg": "gnome-schedule", 
+    "pkg_version": "2.1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnome-schedule_2.1.1-4_all.deb", 
+    "pkg": "gnome-schedule", 
+    "pkg_version": "2.1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

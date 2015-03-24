@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "librsvg2-2.18-cil_2.26.0-8_all.deb", 
+    "pkg": "librsvg2", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "librsvg2-2.18-cil_2.26.0-8_all.deb", 
+    "pkg": "librsvg2", 
+    "pkg_version": "2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "librsvg2-2.18-cil_2.26.0-8_all.deb", 
+    "pkg": "librsvg2", 
+    "pkg_version": "2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "librsvg2-2.18-cil_2.26.0-8_all.deb", 
+    "pkg": "librsvg2", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "librsvg2-2.18-cil_2.26.0-8_all.deb", 
+    "pkg": "librsvg2", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

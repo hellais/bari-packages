@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-hlint-prof_1.8.61-1+b2_i386.deb", 
+    "pkg": "libghc-hlint-prof", 
+    "pkg_version": "1.8.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-hlint-prof_1.8.61-1+b2_i386.deb", 
+    "pkg": "libghc-hlint-prof", 
+    "pkg_version": "1.8.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-hlint-prof_1.8.28-1+b3_i386.deb", 
+    "pkg": "libghc-hlint-prof", 
+    "pkg_version": "1.8.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-hlint-prof_1.8.61-1build1_i386.deb", 
+    "pkg": "libghc-hlint-prof", 
+    "pkg_version": "1.8.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-hlint-prof_1.8.53-2_i386.deb", 
+    "pkg": "libghc-hlint-prof", 
+    "pkg_version": "1.8.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "python-rtslib-2.1.fb46-1.el7.noarch.rpm", 
+    "pkg": "python-rtslib", 
+    "pkg_version": "2.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "python-rtslib-2.1.fb21-3.el6_4.noarch.rpm", 
+    "pkg": "python-rtslib", 
+    "pkg_version": "2.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-rtslib_3.0+git0.86e46bc6-5_all.deb", 
+    "pkg": "python-rtslib", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-rtslib_2.1-2_all.deb", 
+    "pkg": "python-rtslib", 
+    "pkg_version": "2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-rtslib-2.1.fb52-1.fc22.noarch.rpm", 
+    "pkg": "python-rtslib", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-rtslib-2.1.fb52-1.fc22.noarch.rpm", 
+    "pkg": "python-rtslib", 
+    "pkg_version": "2.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python-rtslib-2.1.fb52-1.fc21.noarch.rpm", 
+    "pkg": "python-rtslib", 
+    "pkg_version": "2.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python-rtslib-2.1.fb51-1.fc20.noarch.rpm", 
+    "pkg": "python-rtslib", 
+    "pkg_version": "2.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-rtslib-2.2-8.1.noarch.rpm", 
+    "pkg": "python-rtslib", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-rtslib-2.2-5.1.4.noarch.rpm", 
+    "pkg": "python-rtslib", 
+    "pkg_version": "2.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-rtslib-2.1.fb27-2.2.1.noarch.rpm", 
+    "pkg": "python-rtslib", 
+    "pkg_version": "2.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-rtslib_2.2-2_all.deb", 
+    "pkg": "python-rtslib", 
+    "pkg_version": "2.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-rtslib_2.2-1_all.deb", 
+    "pkg": "python-rtslib", 
+    "pkg_version": "2.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

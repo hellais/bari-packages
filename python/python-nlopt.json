@@ -1,0 +1,209 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-NLopt-2.4.2-2.el7.x86_64.rpm", 
+    "pkg": "python-NLopt", 
+    "pkg_version": "2.4.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-NLopt-2.4.2-2.el7.x86_64.rpm", 
+    "pkg": "python-NLopt", 
+    "pkg_version": "2.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python-nlopt_2.4.1+dfsg-1~nd+1_i386.deb", 
+    "pkg": "python-nlopt", 
+    "pkg_version": "2.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-NLopt-2.4.2-2.el7.x86_64.rpm", 
+    "pkg": "python-NLopt", 
+    "pkg_version": "2.4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python-nlopt_2.4.1+dfsg-1~nd80+1_i386.deb", 
+    "pkg": "python-nlopt", 
+    "pkg_version": "2.4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-NLopt-2.4.2-2.el7.x86_64.rpm", 
+    "pkg": "python-NLopt", 
+    "pkg_version": "2.4.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python-nlopt_2.4.1+dfsg-1~nd70+1_i386.deb", 
+    "pkg": "python-nlopt", 
+    "pkg_version": "2.4.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-NLopt-2.4.2-3.fc22.x86_64.rpm", 
+    "pkg": "python-NLopt", 
+    "pkg_version": "2.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python-nlopt_2.4.1+dfsg-1~nd70+1_i386.deb", 
+    "pkg": "python-nlopt", 
+    "pkg_version": "2.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-NLopt-2.4.2-3.fc22.x86_64.rpm", 
+    "pkg": "python-NLopt", 
+    "pkg_version": "2.4.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python-nlopt_2.4.1+dfsg-1~nd70+1_i386.deb", 
+    "pkg": "python-nlopt", 
+    "pkg_version": "2.4.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-NLopt-2.4.2-3.fc21.x86_64.rpm", 
+    "pkg": "python-NLopt", 
+    "pkg_version": "2.4.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "python-nlopt-2.4.2-5.1.x86_64.rpm", 
+    "pkg": "python-nlopt", 
+    "pkg_version": "2.4.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python-NLopt-2.4.2-2.fc20.x86_64.rpm", 
+    "pkg": "python-NLopt", 
+    "pkg_version": "2.4.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "python-nlopt-2.4.2-5.1.x86_64.rpm", 
+    "pkg": "python-nlopt", 
+    "pkg_version": "2.4.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python-NLopt-2.4.2-2.fc20.x86_64.rpm", 
+    "pkg": "python-NLopt", 
+    "pkg_version": "2.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-nlopt-2.4.2-1.3.x86_64.rpm", 
+    "pkg": "python-nlopt", 
+    "pkg_version": "2.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python-NLopt-2.4.2-2.fc20.x86_64.rpm", 
+    "pkg": "python-NLopt", 
+    "pkg_version": "2.4.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-nlopt-2.4.1-2.1.3.x86_64.rpm", 
+    "pkg": "python-nlopt", 
+    "pkg_version": "2.4.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python-NLopt-2.4.2-2.fc20.x86_64.rpm", 
+    "pkg": "python-NLopt", 
+    "pkg_version": "2.4.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-nlopt-2.3-4.1.3.i586.rpm", 
+    "pkg": "python-nlopt", 
+    "pkg_version": "2.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python-NLopt-2.4.2-2.fc20.x86_64.rpm", 
+    "pkg": "python-NLopt", 
+    "pkg_version": "2.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-nlopt_2.4.2+dfsg-1_i386.deb", 
+    "pkg": "python-nlopt", 
+    "pkg_version": "2.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

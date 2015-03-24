@@ -1,0 +1,452 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libptexenc1_2014.20140926.35254-6_i386.deb", 
+    "pkg": "libptexenc1_201", 
+    "pkg_version": "4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libptexenc1_2014.20140926.35254-6_i386.deb", 
+    "pkg": "libptexenc1_201", 
+    "pkg_version": "4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libptexenc1_2012.20120628-4_i386.deb", 
+    "pkg": "libptexenc1_201", 
+    "pkg_version": "2.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libptexenc1-20140525-12-omv2015.0.i586.rpm", 
+    "pkg": "libptexenc1-20140525-12-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libptexenc1_2012.20120628-4_i386.deb", 
+    "pkg": "libptexenc1_201", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "libptexenc1-20121026-6-omv2014.0.i586.rpm", 
+    "pkg": "libptexenc1-20121026-6-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libptexenc1-20140525-12-omv2015.0.i586.rpm", 
+    "pkg": "libptexenc1-20140525-12-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libptexenc1_2012.20120628-4_i386.deb", 
+    "pkg": "libptexenc1_201", 
+    "pkg_version": "2.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "libptexenc1-20121026-6-omv2014.0.i586.rpm", 
+    "pkg": "libptexenc1-20121026-6-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libptexenc1-20121026-4-omv2013.0.i586.rpm", 
+    "pkg": "libptexenc1-20121026-4-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libptexenc1-20140525-12-omv2015.0.i586.rpm", 
+    "pkg": "libptexenc1-20140525-12-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libptexenc1_2012.20120628-4_i386.deb", 
+    "pkg": "libptexenc1_201", 
+    "pkg_version": "2.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libptexenc1-1.3.2dev-26.1.x86_64.rpm", 
+    "pkg": "libptexenc1", 
+    "pkg_version": "1.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "libptexenc1-20121026-6-omv2014.0.i586.rpm", 
+    "pkg": "libptexenc1-20121026-6-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libptexenc1-20121026-4-omv2013.0.i586.rpm", 
+    "pkg": "libptexenc1-20121026-4-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libptexenc1-20140525-12-omv2015.0.i586.rpm", 
+    "pkg": "libptexenc1-20140525-12-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libptexenc1_2012.20120628-4_i386.deb", 
+    "pkg": "libptexenc1_201", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libptexenc1-1.3.2dev-23.1.9.x86_64.rpm", 
+    "pkg": "libptexenc1", 
+    "pkg_version": "1.3.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "libptexenc1-20121026-6-omv2014.0.i586.rpm", 
+    "pkg": "libptexenc1-20121026-6-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libptexenc1-20121026-4-omv2013.0.i586.rpm", 
+    "pkg": "libptexenc1-20121026-4-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libptexenc1-20140525-12-omv2015.0.i586.rpm", 
+    "pkg": "libptexenc1-20140525-12-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libptexenc1_2012.20120628-4_i386.deb", 
+    "pkg": "libptexenc1_201", 
+    "pkg_version": "2.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "libptexenc1-1.3.2dev-11.6.3.x86_64.rpm", 
+    "pkg": "libptexenc1", 
+    "pkg_version": "1.3.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "libptexenc1-20121026-6-omv2014.0.i586.rpm", 
+    "pkg": "libptexenc1-20121026-6-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libptexenc1-20121026-4-omv2013.0.i586.rpm", 
+    "pkg": "libptexenc1-20121026-4-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libptexenc1-20140525-12-omv2015.0.i586.rpm", 
+    "pkg": "libptexenc1-20140525-12-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libptexenc1_2012.20120628-4_i386.deb", 
+    "pkg": "libptexenc1_201", 
+    "pkg_version": "2.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libptexenc1-20121026-4-omv2013.0.i586.rpm", 
+    "pkg": "libptexenc1-20121026-4-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libptexenc1-20131212-8-rosa2014.1.i586.rpm", 
+    "pkg": "libptexenc1-20131212-8-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libptexenc1_2012.20120628-4_i386.deb", 
+    "pkg": "libptexenc1_201", 
+    "pkg_version": "2.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "libptexenc1-1.3.2dev-11.6.3.x86_64.rpm", 
+    "pkg": "libptexenc1", 
+    "pkg_version": "1.3.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "libptexenc1-20121026-6-omv2014.0.i586.rpm", 
+    "pkg": "libptexenc1-20121026-6-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libptexenc1-20140525-12-omv2015.0.i586.rpm", 
+    "pkg": "libptexenc1-20140525-12-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "libptexenc1-20131212-3-rosa2012.1.i586.rpm", 
+    "pkg": "libptexenc1-20131212-3-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libptexenc1-20121026-4-omv2013.0.i586.rpm", 
+    "pkg": "libptexenc1-20121026-4-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libptexenc1-20131212-8-rosa2014.1.i586.rpm", 
+    "pkg": "libptexenc1-20131212-8-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libptexenc1_2012.20120628-4_i386.deb", 
+    "pkg": "libptexenc1_201", 
+    "pkg_version": "2.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libptexenc1-20120810-2-rosa2012.1.i586.rpm", 
+    "pkg": "libptexenc1-20120810-2-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "libptexenc1-1.3.2dev-11.6.3.x86_64.rpm", 
+    "pkg": "libptexenc1", 
+    "pkg_version": "1.3.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "libptexenc1-20121026-6-omv2014.0.i586.rpm", 
+    "pkg": "libptexenc1-20121026-6-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libptexenc1-20140525-12-omv2015.0.i586.rpm", 
+    "pkg": "libptexenc1-20140525-12-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "libptexenc1-20131212-3-rosa2012.1.i586.rpm", 
+    "pkg": "libptexenc1-20131212-3-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libptexenc1-20121026-4-omv2013.0.i586.rpm", 
+    "pkg": "libptexenc1-20121026-4-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libptexenc1-20131212-8-rosa2014.1.i586.rpm", 
+    "pkg": "libptexenc1-20131212-8-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libptexenc1_2014.20140528.34243-5_i386.deb", 
+    "pkg": "libptexenc1_201", 
+    "pkg_version": "4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libptexenc1-20110705-6-rosa.lts2012.0.i586.rpm", 
+    "pkg": "libptexenc1-20110705-6-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libptexenc1-20120810-2-rosa2012.1.i586.rpm", 
+    "pkg": "libptexenc1-20120810-2-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "libptexenc1-1.3.2dev-11.6.3.x86_64.rpm", 
+    "pkg": "libptexenc1", 
+    "pkg_version": "1.3.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "libptexenc1-20121026-6-omv2014.0.i586.rpm", 
+    "pkg": "libptexenc1-20121026-6-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libptexenc1-20140525-12-omv2015.0.i586.rpm", 
+    "pkg": "libptexenc1-20140525-12-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

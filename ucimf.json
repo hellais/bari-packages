@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ucimf_2.3.8-6_i386.deb", 
+    "pkg": "ucimf", 
+    "pkg_version": "2.3.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ucimf_2.3.8-6_i386.deb", 
+    "pkg": "ucimf", 
+    "pkg_version": "2.3.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ucimf_2.3.8-4_i386.deb", 
+    "pkg": "ucimf", 
+    "pkg_version": "2.3.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "ucimf-2.3.8-7.1.x86_64.rpm", 
+    "pkg": "ucimf", 
+    "pkg_version": "2.3.8", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "ucimf-2.3.8-7.1.x86_64.rpm", 
+    "pkg": "ucimf", 
+    "pkg_version": "2.3.8", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ucimf_2.3.8-6_i386.deb", 
+    "pkg": "ucimf", 
+    "pkg_version": "2.3.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ucimf_2.3.8-5ubuntu1_i386.deb", 
+    "pkg": "ucimf", 
+    "pkg_version": "2.3.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

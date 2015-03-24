@@ -1,0 +1,110 @@
+[
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "backup-manager-0.7.10-13.el7.noarch.rpm", 
+    "pkg": "backup-manager", 
+    "pkg_version": "0.7.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "backup-manager-0.7.10-1.el6.noarch.rpm", 
+    "pkg": "backup-manager", 
+    "pkg_version": "0.7.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "backup-manager-0.7.10-1.el5.noarch.rpm", 
+    "pkg": "backup-manager", 
+    "pkg_version": "0.7.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "backup-manager_0.7.10.1-2_all.deb", 
+    "pkg": "backup-manager", 
+    "pkg_version": "0.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "backup-manager_0.7.10.1-2_all.deb", 
+    "pkg": "backup-manager", 
+    "pkg_version": "0.7.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "backup-manager_0.7.10.1-2_all.deb", 
+    "pkg": "backup-manager", 
+    "pkg_version": "0.7.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "backup-manager-0.7.10-13.fc22.noarch.rpm", 
+    "pkg": "backup-manager", 
+    "pkg_version": "0.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "backup-manager-0.7.10-13.fc22.noarch.rpm", 
+    "pkg": "backup-manager", 
+    "pkg_version": "0.7.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "backup-manager-0.7.10-12.fc21.noarch.rpm", 
+    "pkg": "backup-manager", 
+    "pkg_version": "0.7.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "backup-manager-0.7.10-11.fc20.noarch.rpm", 
+    "pkg": "backup-manager", 
+    "pkg_version": "0.7.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "backup-manager_0.7.10.1-2_all.deb", 
+    "pkg": "backup-manager", 
+    "pkg_version": "0.7.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "backup-manager_0.7.10.1-2_all.deb", 
+    "pkg": "backup-manager", 
+    "pkg_version": "0.7.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

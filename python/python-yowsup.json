@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-yowsup_0.0~git20140314.938cf1-3_all.deb", 
+    "pkg": "python-yowsup", 
+    "pkg_version": "0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "python-yowsup_0.0~git20140314.938cf1-1~bpo70+1_all.deb", 
+    "pkg": "python-yowsup", 
+    "pkg_version": "0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "python-yowsup-2.2.15-7.1.noarch.rpm", 
+    "pkg": "python-yowsup", 
+    "pkg_version": "2.2.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "python-yowsup-2.2.15-7.1.noarch.rpm", 
+    "pkg": "python-yowsup", 
+    "pkg_version": "2.2.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

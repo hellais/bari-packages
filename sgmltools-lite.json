@@ -1,0 +1,90 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "sgmltools-lite-3.0.3-alt6.2.1.noarch.rpm", 
+    "pkg": "sgmltools-lite", 
+    "pkg_version": "3.0.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "sgmltools-lite-3.0.3-8-any.pkg.tar.xz", 
+    "pkg": "sgmltools-lite", 
+    "pkg_version": "3.0.3", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sgmltools-lite_3.0.3.0.cvs.20010909-17_all.deb", 
+    "pkg": "sgmltools-lite", 
+    "pkg_version": "3.0.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sgmltools-lite_3.0.3.0.cvs.20010909-17_all.deb", 
+    "pkg": "sgmltools-lite", 
+    "pkg_version": "3.0.3.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sgmltools-lite_3.0.3.0.cvs.20010909-16_all.deb", 
+    "pkg": "sgmltools-lite", 
+    "pkg_version": "3.0.3.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "sgmltools-lite-3.0.2-1321.1.noarch.rpm", 
+    "pkg": "sgmltools-lite", 
+    "pkg_version": "3.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "sgmltools-lite-3.0.2-1320.1.3.noarch.rpm", 
+    "pkg": "sgmltools-lite", 
+    "pkg_version": "3.0.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "sgmltools-lite-3.0.2-1318.1.1.noarch.rpm", 
+    "pkg": "sgmltools-lite", 
+    "pkg_version": "3.0.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "sgmltools-lite_3.0.3.0.cvs.20010909-17_all.deb", 
+    "pkg": "sgmltools-lite", 
+    "pkg_version": "3.0.3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "sgmltools-lite_3.0.3.0.cvs.20010909-17_all.deb", 
+    "pkg": "sgmltools-lite", 
+    "pkg_version": "3.0.3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "radare2-java_0.9.6-4_i386.deb", 
+    "pkg": "radare2-java", 
+    "pkg_version": "0.9.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "radare2-java_0.9.6-4_i386.deb", 
+    "pkg": "radare2-java", 
+    "pkg_version": "0.9.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

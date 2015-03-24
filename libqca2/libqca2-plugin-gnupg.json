@@ -1,0 +1,155 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libqca2-plugin-gnupg_2.0.0~beta3-2_i386.deb", 
+    "pkg": "libqca2-plugin-gnupg", 
+    "pkg_version": "2.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libqca2-plugin-gnupg_2.0.0~beta3-2_i386.deb", 
+    "pkg": "libqca2-plugin-gnupg", 
+    "pkg_version": "2.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libqca2-plugin-gnupg_2.0.0~beta3-2_i386.deb", 
+    "pkg": "libqca2-plugin-gnupg", 
+    "pkg_version": "2.0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "qca2-plugin-gnupg-2.0.3-7.mga4.i586.rpm", 
+    "pkg": "qca2-plugin-gnupg", 
+    "pkg_version": "2.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libqca2-plugin-gnupg-2.1.0.3-0.20150120.7-omv2015.0.i586.rpm", 
+    "pkg": "libqca2-plugin-gnupg", 
+    "pkg_version": "2.1.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "qca2-plugin-gnupg-2.0.3-4-omv2014.0.i586.rpm", 
+    "pkg": "qca2-plugin-gnupg", 
+    "pkg_version": "2.0.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libqca2-plugin-gnupg-2.1.0.3-0.20150120.7-omv2015.0.i586.rpm", 
+    "pkg": "libqca2-plugin-gnupg", 
+    "pkg_version": "2.1.0.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "qca2-plugin-gnupg-2.0.3-3-omv2013.0.i586.rpm", 
+    "pkg": "qca2-plugin-gnupg", 
+    "pkg_version": "2.0.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libqca2-plugin-gnupg-2.1.0.3-0.20150120.7-omv2015.0.i586.rpm", 
+    "pkg": "libqca2-plugin-gnupg", 
+    "pkg_version": "2.1.0.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "qca2-plugin-gnupg-2.0.3-5-rosa2014.1.i586.rpm", 
+    "pkg": "qca2-plugin-gnupg", 
+    "pkg_version": "2.0.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libqca2-plugin-gnupg-2.1.0.3-0.20150120.7-omv2015.0.i586.rpm", 
+    "pkg": "libqca2-plugin-gnupg", 
+    "pkg_version": "2.1.0.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "qca2-plugin-gnupg-2.0.3-2-rosa2012.1.i586.rpm", 
+    "pkg": "qca2-plugin-gnupg", 
+    "pkg_version": "2.0.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libqca2-plugin-gnupg-2.1.0.3-0.20150120.7-omv2015.0.i586.rpm", 
+    "pkg": "libqca2-plugin-gnupg", 
+    "pkg_version": "2.1.0.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "qca2-plugin-gnupg-2.0.2-7.1111917.4-rosa.lts2012.0.i586.rpm", 
+    "pkg": "qca2-plugin-gnupg", 
+    "pkg_version": "2.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libqca2-plugin-gnupg_2.0.0~beta3-2_i386.deb", 
+    "pkg": "libqca2-plugin-gnupg", 
+    "pkg_version": "2.0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "qca2-plugin-gnupg-2.0.2-7.1111917.4-rosa.lts2012.0.i586.rpm", 
+    "pkg": "qca2-plugin-gnupg", 
+    "pkg_version": "2.0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libqca2-plugin-gnupg_2.0.0~beta3-2_i386.deb", 
+    "pkg": "libqca2-plugin-gnupg", 
+    "pkg_version": "2.0.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

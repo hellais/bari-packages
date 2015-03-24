@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnuplot-data_4.6.6-2_all.deb", 
+    "pkg": "gnuplot-data", 
+    "pkg_version": "4.6.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnuplot-data_4.6.6-2_all.deb", 
+    "pkg": "gnuplot-data", 
+    "pkg_version": "4.6.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "gnuplot-data_4.6.6-1~bpo70+1_all.deb", 
+    "pkg": "gnuplot-data", 
+    "pkg_version": "4.6.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

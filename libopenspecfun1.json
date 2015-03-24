@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libopenspecfun1_0.4-1_i386.deb", 
+    "pkg": "libopenspecfun1", 
+    "pkg_version": "0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libopenspecfun1_0.4-1_i386.deb", 
+    "pkg": "libopenspecfun1", 
+    "pkg_version": "0.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libopenspecfun1-0.4-3.2.x86_64.rpm", 
+    "pkg": "libopenspecfun1", 
+    "pkg_version": "0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }
+]

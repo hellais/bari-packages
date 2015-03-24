@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "arno-iptables-firewall_1.9.2.k-3~sid.nd1_all.deb", 
+    "pkg": "arno-iptables-firewall", 
+    "pkg_version": "1.9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "arno-iptables-firewall_2.0.1.e-1_all.deb", 
+    "pkg": "arno-iptables-firewall", 
+    "pkg_version": "2.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "arno-iptables-firewall_2.0.1.c-1_all.deb", 
+    "pkg": "arno-iptables-firewall", 
+    "pkg_version": "2.0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "arno-iptables-firewall_2.0.1.e-1_all.deb", 
+    "pkg": "arno-iptables-firewall", 
+    "pkg_version": "2.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "arno-iptables-firewall_2.0.1.d-1_all.deb", 
+    "pkg": "arno-iptables-firewall", 
+    "pkg_version": "2.0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

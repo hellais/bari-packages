@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgnat-4.9_4.9.2-1_i386.deb", 
+    "pkg": "libgnat", 
+    "pkg_version": "4.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgnat-4.9_4.9.2-1_i386.deb", 
+    "pkg": "libgnat", 
+    "pkg_version": "4.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

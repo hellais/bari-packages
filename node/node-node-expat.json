@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "node-node-expat_1.6.0-2_i386.deb", 
+    "pkg": "node-node-expat", 
+    "pkg_version": "1.6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "node-node-expat_1.6.0-2ubuntu2_i386.deb", 
+    "pkg": "node-node-expat", 
+    "pkg_version": "1.6.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

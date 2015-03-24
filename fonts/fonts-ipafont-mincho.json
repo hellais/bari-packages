@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fonts-ipafont-mincho_00303-10.1_all.deb", 
+    "pkg": "fonts-ipafont-mincho_00303-1", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fonts-ipafont-mincho_00303-10.1_all.deb", 
+    "pkg": "fonts-ipafont-mincho_00303-1", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fonts-ipafont-mincho_00303-10.1_all.deb", 
+    "pkg": "fonts-ipafont-mincho_00303-1", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

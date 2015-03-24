@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "python-lz4-0.6.0-0.sdl6.x86_64.rpm", 
+    "pkg": "python-lz4", 
+    "pkg_version": "0.6.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-lz4_0.7.0+dfsg-1_i386.deb", 
+    "pkg": "python-lz4", 
+    "pkg_version": "0.7.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-lz4_0.7.0+dfsg-1_i386.deb", 
+    "pkg": "python-lz4", 
+    "pkg_version": "0.7.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "python-lz4-0.6.1-5.1.x86_64.rpm", 
+    "pkg": "python-lz4", 
+    "pkg_version": "0.6.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

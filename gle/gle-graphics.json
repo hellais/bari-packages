@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gle-graphics_4.2.4c-6_i386.deb", 
+    "pkg": "gle-graphics", 
+    "pkg_version": "4.2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gle-graphics_4.2.4c-6_i386.deb", 
+    "pkg": "gle-graphics", 
+    "pkg_version": "4.2.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gle-graphics_4.2.4c-5_i386.deb", 
+    "pkg": "gle-graphics", 
+    "pkg_version": "4.2.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gle-graphics-4.2.4c-1.2.x86_64.rpm", 
+    "pkg": "gle-graphics", 
+    "pkg_version": "4.2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gle-graphics-4.2.4b-14.1.10.x86_64.rpm", 
+    "pkg": "gle-graphics", 
+    "pkg_version": "4.2.4", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gle-graphics-4.2.4b-11.2.1.i586.rpm", 
+    "pkg": "gle-graphics", 
+    "pkg_version": "4.2.4", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gle-graphics_4.2.4c-6_i386.deb", 
+    "pkg": "gle-graphics", 
+    "pkg_version": "4.2.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gle-graphics_4.2.4c-5_i386.deb", 
+    "pkg": "gle-graphics", 
+    "pkg_version": "4.2.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

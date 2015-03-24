@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "phpunit-comparator_1.0.0-1_all.deb", 
+    "pkg": "phpunit-comparator", 
+    "pkg_version": "1.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

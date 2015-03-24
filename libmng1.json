@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmng1_1.0.10+dfsg-3.1+b3_i386.deb", 
+    "pkg": "libmng1", 
+    "pkg_version": "1.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmng1_1.0.10+dfsg-3.1+b3_i386.deb", 
+    "pkg": "libmng1", 
+    "pkg_version": "1.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmng1_1.0.10-3_i386.deb", 
+    "pkg": "libmng1", 
+    "pkg_version": "1.0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libmng1-1.0.10-17-omv2014.0.i586.rpm", 
+    "pkg": "libmng1", 
+    "pkg_version": "1.0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libmng1-1.0.10-16-omv2013.0.i586.rpm", 
+    "pkg": "libmng1", 
+    "pkg_version": "1.0.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libmng1-1.0.10-111.1.2.i586.rpm", 
+    "pkg": "libmng1", 
+    "pkg_version": "1.0.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libmng1-1.0.10-15-rosa2012.1.i586.rpm", 
+    "pkg": "libmng1", 
+    "pkg_version": "1.0.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

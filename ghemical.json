@@ -1,0 +1,119 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ghemical_3.0.0-1+b1_i386.deb", 
+    "pkg": "ghemical", 
+    "pkg_version": "3.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ghemical_3.0.0-1_i386.deb", 
+    "pkg": "ghemical", 
+    "pkg_version": "3.0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ghemical-2.99.2-27.fc23.x86_64.rpm", 
+    "pkg": "ghemical", 
+    "pkg_version": "2.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ghemical-2.99.2-26.fc22.x86_64.rpm", 
+    "pkg": "ghemical", 
+    "pkg_version": "2.9", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ghemical-2.99.2-26.fc21.x86_64.rpm", 
+    "pkg": "ghemical", 
+    "pkg_version": "2.9", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ghemical-2.99.2-24.fc20.x86_64.rpm", 
+    "pkg": "ghemical", 
+    "pkg_version": "2.9", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "ghemical-3.0.0-2.16.x86_64.rpm", 
+    "pkg": "ghemical", 
+    "pkg_version": "3.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "ghemical-3.0.0-2.1.x86_64.rpm", 
+    "pkg": "ghemical", 
+    "pkg_version": "3.0.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "ghemical-3.0.0-2.1.x86_64.rpm", 
+    "pkg": "ghemical", 
+    "pkg_version": "3.0.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "ghemical-3.0.0-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "ghemical", 
+    "pkg_version": "3.0.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Freestylers", 
+    "pkg_full_name": "ghemical-3.0.0-x86_64-1_fs.tgz", 
+    "pkg": "ghemical", 
+    "pkg_version": "3.0.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ghemical_3.0.0-1_i386.deb", 
+    "pkg": "ghemical", 
+    "pkg_version": "3.0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ghemical_3.0.0-1_i386.deb", 
+    "pkg": "ghemical", 
+    "pkg_version": "3.0.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

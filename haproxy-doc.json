@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "haproxy-doc_1.5.8-3_all.deb", 
+    "pkg": "haproxy-doc", 
+    "pkg_version": "1.5.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "haproxy-doc_1.5.8-3_all.deb", 
+    "pkg": "haproxy-doc", 
+    "pkg_version": "1.5.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "haproxy-doc_1.5.8-2~bpo70+1_all.deb", 
+    "pkg": "haproxy-doc", 
+    "pkg_version": "1.5.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "haproxy-1.5.11-3.1.x86_64.rpm", 
+    "pkg": "haproxy", 
+    "pkg_version": "1.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "haproxy-doc_1.5.8-2~bpo70+1_all.deb", 
+    "pkg": "haproxy-doc", 
+    "pkg_version": "1.5.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "haproxy-1.5.5-1.1.x86_64.rpm", 
+    "pkg": "haproxy", 
+    "pkg_version": "1.5.5", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "haproxy-doc_1.5.8-2~bpo70+1_all.deb", 
+    "pkg": "haproxy-doc", 
+    "pkg_version": "1.5.8", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }
+]

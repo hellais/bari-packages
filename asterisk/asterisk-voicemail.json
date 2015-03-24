@@ -1,0 +1,389 @@
+[
+  {
+    "pkg_repo": "Nux Misc", 
+    "pkg_full_name": "asterisk-voicemail-13.0.2-1.el7.nux.x86_64.rpm", 
+    "pkg": "asterisk-voicemail-1", 
+    "pkg_version": "3.0.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Nux Misc", 
+    "pkg_full_name": "asterisk-voicemail-13.0.2-1.el7.nux.x86_64.rpm", 
+    "pkg": "asterisk-voicemail-1", 
+    "pkg_version": "3.0.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "asterisk-1.8.3.2-97.el6.x86_64.rpm", 
+    "pkg": "asterisk", 
+    "pkg_version": "1.8.3.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Lux", 
+    "pkg_full_name": "asterisk-voicemail-1.8.16.0-1.el6.lux.1.x86_64.rpm", 
+    "pkg": "asterisk-voicemail", 
+    "pkg_version": "1.8.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Nux Misc", 
+    "pkg_full_name": "asterisk-voicemail-13.0.2-1.el7.nux.x86_64.rpm", 
+    "pkg": "asterisk-voicemail-1", 
+    "pkg_version": "3.0.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "asterisk-1.8.3.2-97.el5.x86_64.rpm", 
+    "pkg": "asterisk", 
+    "pkg_version": "1.8.3.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Lux", 
+    "pkg_full_name": "asterisk-voicemail-1.8.16.0-1.el6.lux.1.x86_64.rpm", 
+    "pkg": "asterisk-voicemail", 
+    "pkg_version": "1.8.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "asterisk-voicemail_13.1.0~dfsg-1+b1_i386.deb", 
+    "pkg": "asterisk-voicemail_1", 
+    "pkg_version": "3.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Nux Misc", 
+    "pkg_full_name": "asterisk-voicemail-13.0.2-1.el7.nux.x86_64.rpm", 
+    "pkg": "asterisk-voicemail-1", 
+    "pkg_version": "3.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "asterisk-1.8.3.2-97.el5.x86_64.rpm", 
+    "pkg": "asterisk", 
+    "pkg_version": "1.8.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Lux", 
+    "pkg_full_name": "asterisk-voicemail-1.8.16.0-1.el6.lux.1.x86_64.rpm", 
+    "pkg": "asterisk-voicemail", 
+    "pkg_version": "1.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "asterisk-voicemail_11.13.1~dfsg-2+b1_i386.deb", 
+    "pkg": "asterisk-voicemail_1", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Nux Misc", 
+    "pkg_full_name": "asterisk-voicemail-13.0.2-1.el7.nux.x86_64.rpm", 
+    "pkg": "asterisk-voicemail-1", 
+    "pkg_version": "3.0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "asterisk-1.8.3.2-97.el5.x86_64.rpm", 
+    "pkg": "asterisk", 
+    "pkg_version": "1.8.3.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Lux", 
+    "pkg_full_name": "asterisk-voicemail-1.8.16.0-1.el6.lux.1.x86_64.rpm", 
+    "pkg": "asterisk-voicemail", 
+    "pkg_version": "1.8.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "asterisk-voicemail_11.13.1~dfsg-2~bpo70+1_i386.deb", 
+    "pkg": "asterisk-voicemail_1", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Nux Misc", 
+    "pkg_full_name": "asterisk-voicemail-13.0.2-1.el7.nux.x86_64.rpm", 
+    "pkg": "asterisk-voicemail-1", 
+    "pkg_version": "3.0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "asterisk-1.8.3.2-97.el5.x86_64.rpm", 
+    "pkg": "asterisk", 
+    "pkg_version": "1.8.3.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "asterisk-voicemail_1.8.13.1~dfsg1-3+deb7u3_i386.deb", 
+    "pkg": "asterisk-voicemail", 
+    "pkg_version": "1.8.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "asterisk-voicemail_11.13.1~dfsg-2~bpo70+1_i386.deb", 
+    "pkg": "asterisk-voicemail_1", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "asterisk-voicemail-13.1.1-1.fc22.x86_64.rpm", 
+    "pkg": "asterisk-voicemail-1", 
+    "pkg_version": "3.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "asterisk-1.8.3.2-97.el5.x86_64.rpm", 
+    "pkg": "asterisk", 
+    "pkg_version": "1.8.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "asterisk-voicemail_1.8.13.1~dfsg1-3+deb7u3_i386.deb", 
+    "pkg": "asterisk-voicemail", 
+    "pkg_version": "1.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "asterisk-voicemail_11.13.1~dfsg-2~bpo70+1_i386.deb", 
+    "pkg": "asterisk-voicemail_1", 
+    "pkg_version": "1.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "asterisk-voicemail-13.1.1-1.fc22.x86_64.rpm", 
+    "pkg": "asterisk-voicemail-1", 
+    "pkg_version": "3.1.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "asterisk-1.8.3.2-97.el5.x86_64.rpm", 
+    "pkg": "asterisk", 
+    "pkg_version": "1.8.3.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "asterisk-voicemail_1.8.13.1~dfsg1-3+deb7u3_i386.deb", 
+    "pkg": "asterisk-voicemail", 
+    "pkg_version": "1.8.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "asterisk-voicemail_11.13.1~dfsg-2~bpo70+1_i386.deb", 
+    "pkg": "asterisk-voicemail_1", 
+    "pkg_version": "1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "asterisk-voicemail-11.14.2-1.fc21.x86_64.rpm", 
+    "pkg": "asterisk-voicemail-1", 
+    "pkg_version": "1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "asterisk-1.8.3.2-97.el5.x86_64.rpm", 
+    "pkg": "asterisk", 
+    "pkg_version": "1.8.3.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "asterisk-voicemail_1.8.13.1~dfsg1-3+deb7u3_i386.deb", 
+    "pkg": "asterisk-voicemail", 
+    "pkg_version": "1.8.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "asterisk-voicemail_11.13.1~dfsg-2~bpo70+1_i386.deb", 
+    "pkg": "asterisk-voicemail_1", 
+    "pkg_version": "1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "asterisk-voicemail-11.14.2-1.fc20.x86_64.rpm", 
+    "pkg": "asterisk-voicemail-1", 
+    "pkg_version": "1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "asterisk-1.8.3.2-97.el5.x86_64.rpm", 
+    "pkg": "asterisk", 
+    "pkg_version": "1.8.3.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "asterisk-voicemail_1.8.13.1~dfsg1-3+deb7u3_i386.deb", 
+    "pkg": "asterisk-voicemail", 
+    "pkg_version": "1.8.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "asterisk-voicemail_11.11.0~dfsg-2ubuntu1_i386.deb", 
+    "pkg": "asterisk-voicemail_1", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "asterisk-voicemail-11.14.2-1.fc20.x86_64.rpm", 
+    "pkg": "asterisk-voicemail-1", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "asterisk-1.8.3.2-97.el5.x86_64.rpm", 
+    "pkg": "asterisk", 
+    "pkg_version": "1.8.3.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "asterisk-voicemail_1.8.13.1~dfsg1-3+deb7u3_i386.deb", 
+    "pkg": "asterisk-voicemail", 
+    "pkg_version": "1.8.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "asterisk-voicemail_11.7.0~dfsg-1ubuntu1_i386.deb", 
+    "pkg": "asterisk-voicemail_1", 
+    "pkg_version": "1.7.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "asterisk-voicemail-11.14.2-1.fc20.x86_64.rpm", 
+    "pkg": "asterisk-voicemail-1", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "asterisk-1.8.3.2-97.el5.x86_64.rpm", 
+    "pkg": "asterisk", 
+    "pkg_version": "1.8.3.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "asterisk-voicemail_1.8.13.1~dfsg1-3+deb7u3_i386.deb", 
+    "pkg": "asterisk-voicemail", 
+    "pkg_version": "1.8.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

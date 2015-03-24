@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libkf5attica-dev_5.0.0-1_i386.deb", 
+    "pkg": "libkf5attica-dev", 
+    "pkg_version": "5.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

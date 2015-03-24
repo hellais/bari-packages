@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nutcracker_0.4.0+dfsg-1_i386.deb", 
+    "pkg": "nutcracker", 
+    "pkg_version": "0.4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

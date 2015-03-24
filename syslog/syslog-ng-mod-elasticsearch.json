@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "syslog-ng-mod-elasticsearch_0.3.3-2_all.deb", 
+    "pkg": "syslog-ng-mod-elasticsearch", 
+    "pkg_version": "0.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "syslog-ng-mod-elasticsearch_0.3.3-2_all.deb", 
+    "pkg": "syslog-ng-mod-elasticsearch", 
+    "pkg_version": "0.3.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

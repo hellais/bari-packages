@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bootchart-view_0.10~svn407-4.1_all.deb", 
+    "pkg": "bootchart-view", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

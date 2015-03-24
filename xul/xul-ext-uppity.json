@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xul-ext-uppity_1.5.8-3_all.deb", 
+    "pkg": "xul-ext-uppity", 
+    "pkg_version": "1.5.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xul-ext-uppity_1.5.8-3_all.deb", 
+    "pkg": "xul-ext-uppity", 
+    "pkg_version": "1.5.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

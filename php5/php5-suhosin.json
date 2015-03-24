@@ -1,0 +1,46 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "php5-suhosin-0.9.35-alt5.5.22.20150218.alt1.x86_64.rpm", 
+    "pkg": "php5-suhosin", 
+    "pkg_version": "0.9.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php5-suhosin_0.9.33-3_i386.deb", 
+    "pkg": "php5-suhosin", 
+    "pkg_version": "0.9.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "php5-suhosin-5.6.6-1.1.x86_64.rpm", 
+    "pkg": "php5-suhosin", 
+    "pkg_version": "5.6.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "php5-suhosin-5.6.1-8.1.x86_64.rpm", 
+    "pkg": "php5-suhosin", 
+    "pkg_version": "5.6.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "php5-suhosin-5.4.20-8.2.x86_64.rpm", 
+    "pkg": "php5-suhosin", 
+    "pkg_version": "5.4.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }
+]

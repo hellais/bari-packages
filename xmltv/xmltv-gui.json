@@ -1,0 +1,128 @@
+[
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "xmltv-gui-0.5.65-1.el7.nux.noarch.rpm", 
+    "pkg": "xmltv-gui", 
+    "pkg_version": "0.5.6", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free Updates", 
+    "pkg_full_name": "xmltv-gui-0.5.63-1.el6.noarch.rpm", 
+    "pkg": "xmltv-gui", 
+    "pkg_version": "0.5.6", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "xmltv-gui-0.5.61-85.el5.noarch.rpm", 
+    "pkg": "xmltv-gui", 
+    "pkg_version": "0.5.6", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xmltv-gui_0.5.63-2_all.deb", 
+    "pkg": "xmltv-gui", 
+    "pkg_version": "0.5.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xmltv-gui_0.5.63-2_all.deb", 
+    "pkg": "xmltv-gui", 
+    "pkg_version": "0.5.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xmltv-gui_0.5.63-2_all.deb", 
+    "pkg": "xmltv-gui", 
+    "pkg_version": "0.5.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "xmltv-gui-0.5.66-1.fc21.noarch.rpm", 
+    "pkg": "xmltv-gui", 
+    "pkg_version": "0.5.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "xmltv-gui-0.5.66-1.fc21.noarch.rpm", 
+    "pkg": "xmltv-gui", 
+    "pkg_version": "0.5.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free Updates", 
+    "pkg_full_name": "xmltv-gui-0.5.66-1.fc20.noarch.rpm", 
+    "pkg": "xmltv-gui", 
+    "pkg_version": "0.5.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "xmltv-gui-0.5.64-1-omv2014.0.noarch.rpm", 
+    "pkg": "xmltv-gui", 
+    "pkg_version": "0.5.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "xmltv-gui-0.5.66-1-rosa2014.1.noarch.rpm", 
+    "pkg": "xmltv-gui", 
+    "pkg_version": "0.5.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "xmltv-gui-0.5.64-1-rosa2012.1.noarch.rpm", 
+    "pkg": "xmltv-gui", 
+    "pkg_version": "0.5.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xmltv-gui_0.5.63-2_all.deb", 
+    "pkg": "xmltv-gui", 
+    "pkg_version": "0.5.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xmltv-gui_0.5.63-2_all.deb", 
+    "pkg": "xmltv-gui", 
+    "pkg_version": "0.5.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

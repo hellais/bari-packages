@@ -1,0 +1,137 @@
+[
+  {
+    "pkg_repo": "Ghettoforge", 
+    "pkg_full_name": "eboard-1.1.1-12.gf.el6.x86_64.rpm", 
+    "pkg": "eboard", 
+    "pkg_version": "1.1.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "eboard-1.1.1-1.el5.rf.x86_64.rpm", 
+    "pkg": "eboard", 
+    "pkg_version": "1.1.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "eboard_1.1.1-6_i386.deb", 
+    "pkg": "eboard", 
+    "pkg_version": "1.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "eboard_1.1.1-6_i386.deb", 
+    "pkg": "eboard", 
+    "pkg_version": "1.1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "eboard_1.1.1-5_i386.deb", 
+    "pkg": "eboard", 
+    "pkg_version": "1.1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "eboard-1.1.1-1-omv2013.0.x86_64.rpm", 
+    "pkg": "eboard", 
+    "pkg_version": "1.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "eboard-1.1.1-1-omv2013.0.x86_64.rpm", 
+    "pkg": "eboard", 
+    "pkg_version": "1.1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "eboard-1.1.1-1-omv2013.0.x86_64.rpm", 
+    "pkg": "eboard", 
+    "pkg_version": "1.1.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "eboard-1.1.1-2.43.x86_64.rpm", 
+    "pkg": "eboard", 
+    "pkg_version": "1.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "eboard-1.1.1-2.1.x86_64.rpm", 
+    "pkg": "eboard", 
+    "pkg_version": "1.1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "eboard-1.1.1-2.1.x86_64.rpm", 
+    "pkg": "eboard", 
+    "pkg_version": "1.1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "eboard-1.1.1-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "eboard", 
+    "pkg_version": "1.1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "eboard-1.1.1-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "eboard", 
+    "pkg_version": "1.1.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "eboard_1.1.1-6_i386.deb", 
+    "pkg": "eboard", 
+    "pkg_version": "1.1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "eboard_1.1.1-6_i386.deb", 
+    "pkg": "eboard", 
+    "pkg_version": "1.1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

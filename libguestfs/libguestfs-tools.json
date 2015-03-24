@@ -1,0 +1,118 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libguestfs-tools-1.29.2-alt1.1.x86_64.rpm", 
+    "pkg": "libguestfs-tools", 
+    "pkg_version": "1.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "libguestfs-tools-1.22.6-22.el7.centos.0.1.noarch.rpm", 
+    "pkg": "libguestfs-tools", 
+    "pkg_version": "1.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "libguestfs-tools-1.20.11-11.el6.x86_64.rpm", 
+    "pkg": "libguestfs-tools", 
+    "pkg_version": "1.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "libguestfs-tools-1.20.12-1.el5.x86_64.rpm", 
+    "pkg": "libguestfs-tools", 
+    "pkg_version": "1.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libguestfs-tools_1.28.6-1_i386.deb", 
+    "pkg": "libguestfs-tools", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libguestfs-tools_1.28.1-1_i386.deb", 
+    "pkg": "libguestfs-tools", 
+    "pkg_version": "1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libguestfs-tools_1.18.1-1+deb7u3_i386.deb", 
+    "pkg": "libguestfs-tools", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "libguestfs-tools-1.29.30-5.fc23.noarch.rpm", 
+    "pkg": "libguestfs-tools", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "libguestfs-tools-1.29.26-1.fc22.noarch.rpm", 
+    "pkg": "libguestfs-tools", 
+    "pkg_version": "1.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "libguestfs-tools-1.28.6-2.fc21.noarch.rpm", 
+    "pkg": "libguestfs-tools", 
+    "pkg_version": "1.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "libguestfs-tools-1.26.10-1.fc20.noarch.rpm", 
+    "pkg": "libguestfs-tools", 
+    "pkg_version": "1.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libguestfs-tools_1.26.7-1ubuntu2_i386.deb", 
+    "pkg": "libguestfs-tools", 
+    "pkg_version": "1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libguestfs-tools_1.24.5-1_i386.deb", 
+    "pkg": "libguestfs-tools", 
+    "pkg_version": "1.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libclucene-core1_2.3.3.4-4_i386.deb", 
+    "pkg": "libclucene-core1", 
+    "pkg_version": "2.3.3.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libclucene-core1_2.3.3.4-4_i386.deb", 
+    "pkg": "libclucene-core1", 
+    "pkg_version": "2.3.3.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libclucene-core1-2.3.3.4-14.2.x86_64.rpm", 
+    "pkg": "libclucene-core1", 
+    "pkg_version": "2.3.3.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libclucene-core1-2.3.3.4-13.1.3.x86_64.rpm", 
+    "pkg": "libclucene-core1", 
+    "pkg_version": "2.3.3.4", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libclucene-core1-2.3.3.4-11.1.2.i586.rpm", 
+    "pkg": "libclucene-core1", 
+    "pkg_version": "2.3.3.4", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libclucene-core1_2.3.3.4-4build1_i386.deb", 
+    "pkg": "libclucene-core1", 
+    "pkg_version": "2.3.3.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

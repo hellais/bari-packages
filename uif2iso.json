@@ -1,0 +1,83 @@
+[
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "uif2iso-0.1.7c-1.el7.rf.x86_64.rpm", 
+    "pkg": "uif2iso", 
+    "pkg_version": "0.1.7", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "uif2iso-0.1.7c-1.el6.rf.x86_64.rpm", 
+    "pkg": "uif2iso", 
+    "pkg_version": "0.1.7", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "uif2iso-0.1.7c-1.el5.rf.x86_64.rpm", 
+    "pkg": "uif2iso", 
+    "pkg_version": "0.1.7", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "uif2iso_0.1.7a-1_i386.deb", 
+    "pkg": "uif2iso", 
+    "pkg_version": "0.1.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "uif2iso_0.1.7a-1_i386.deb", 
+    "pkg": "uif2iso", 
+    "pkg_version": "0.1.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "uif2iso-0.1.4-3.1.x86_64.rpm", 
+    "pkg": "uif2iso", 
+    "pkg_version": "0.1.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "uif2iso-0.1.4-3.1.x86_64.rpm", 
+    "pkg": "uif2iso", 
+    "pkg_version": "0.1.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "uif2iso_0.1.7a-1_i386.deb", 
+    "pkg": "uif2iso", 
+    "pkg_version": "0.1.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "uif2iso_0.1.7a-1_i386.deb", 
+    "pkg": "uif2iso", 
+    "pkg_version": "0.1.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

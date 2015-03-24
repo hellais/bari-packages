@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "grilo-plugins-0.2_0.2.13-3_i386.deb", 
+    "pkg": "grilo-plugins", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "grilo-plugins-0.2_0.2.13-3_i386.deb", 
+    "pkg": "grilo-plugins", 
+    "pkg_version": "0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "grilo-plugins-0.2_0.2.12-4build1_i386.deb", 
+    "pkg": "grilo-plugins", 
+    "pkg_version": "0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

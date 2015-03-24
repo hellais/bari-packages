@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "owncloud-client-doc_1.7.0~beta1+really1.6.4+dfsg-1_all.deb", 
+    "pkg": "owncloud-client-doc", 
+    "pkg_version": "1.7.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "owncloud-client-doc_1.7.0~beta1+really1.6.4+dfsg-1_all.deb", 
+    "pkg": "owncloud-client-doc", 
+    "pkg_version": "1.7.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "owncloud-client-doc_1.5.0+dfsg-4~bpo70+1_all.deb", 
+    "pkg": "owncloud-client-doc", 
+    "pkg_version": "1.5.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "owncloud-client-doc_1.6.3+dfsg-0ubuntu1_all.deb", 
+    "pkg": "owncloud-client-doc", 
+    "pkg_version": "1.6.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

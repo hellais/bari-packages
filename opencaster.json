@@ -1,0 +1,37 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "opencaster-3.2.1-alt1.x86_64.rpm", 
+    "pkg": "opencaster", 
+    "pkg_version": "3.2.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "opencaster_3.2.2+dfsg-1_i386.deb", 
+    "pkg": "opencaster", 
+    "pkg_version": "3.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "opencaster_3.2.2+dfsg-1_i386.deb", 
+    "pkg": "opencaster", 
+    "pkg_version": "3.2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "opencaster_3.2.2+dfsg-1_i386.deb", 
+    "pkg": "opencaster", 
+    "pkg_version": "3.2.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

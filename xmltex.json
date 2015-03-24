@@ -1,0 +1,397 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xmltex-1.8-alt6.noarch.rpm", 
+    "pkg": "xmltex", 
+    "pkg_version": "1.8", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xmltex-1.8-alt6.noarch.rpm", 
+    "pkg": "xmltex", 
+    "pkg_version": "1.8", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "texlive-xmltex-bin-svn3006.0-32.20130427_r30134.el7.noarch.rpm", 
+    "pkg": "texlive-xmltex-bin-svn300", 
+    "pkg_version": "6.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xmltex-1.8-alt6.noarch.rpm", 
+    "pkg": "xmltex", 
+    "pkg_version": "1.8", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "texlive-xmltex-bin-svn3006.0-32.20130427_r30134.el7.noarch.rpm", 
+    "pkg": "texlive-xmltex-bin-svn300", 
+    "pkg_version": "6.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xmltex-1.8-alt6.noarch.rpm", 
+    "pkg": "xmltex", 
+    "pkg_version": "1.8", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "texlive-xmltex-bin-svn3006.0-32.20130427_r30134.el7.noarch.rpm", 
+    "pkg": "texlive-xmltex-bin-svn300", 
+    "pkg_version": "6.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xmltex_1.9.debian.1-3_all.deb", 
+    "pkg": "xmltex", 
+    "pkg_version": "1.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "texlive-xmltex-bin-svn3006.0-32.20130427_r30134.el7.noarch.rpm", 
+    "pkg": "texlive-xmltex-bin-svn300", 
+    "pkg_version": "6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xmltex_1.9.debian.1-3_all.deb", 
+    "pkg": "xmltex", 
+    "pkg_version": "1.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "texlive-xmltex-bin-svn3006.0-32.20130427_r30134.el7.noarch.rpm", 
+    "pkg": "texlive-xmltex-bin-svn300", 
+    "pkg_version": "6.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xmltex_1.9.debian.1-3_all.deb", 
+    "pkg": "xmltex", 
+    "pkg_version": "1.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "texlive-xmltex-bin-svn3006.0-32.20130427_r30134.el7.noarch.rpm", 
+    "pkg": "texlive-xmltex-bin-svn300", 
+    "pkg_version": "6.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xmltex_1.9.debian.1-3_all.deb", 
+    "pkg": "xmltex", 
+    "pkg_version": "1.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "texlive-xmltex-bin-svn3006.0-7.20140525_r34255.fc23.noarch.rpm", 
+    "pkg": "texlive-xmltex-bin-svn300", 
+    "pkg_version": "6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xmltex_1.9.debian.1-3_all.deb", 
+    "pkg": "xmltex", 
+    "pkg_version": "1.9", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "texlive-xmltex-bin-svn3006.0-6.20140525_r34255.fc22.noarch.rpm", 
+    "pkg": "texlive-xmltex-bin-svn300", 
+    "pkg_version": "6.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xmltex_1.9.debian.1-3_all.deb", 
+    "pkg": "xmltex", 
+    "pkg_version": "1.9", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "texlive-xmltex-bin-svn3006.0-1.1.20140525_r34255.fc21.noarch.rpm", 
+    "pkg": "texlive-xmltex-bin-svn300", 
+    "pkg_version": "6.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xmltex_1.9.debian.1-3_all.deb", 
+    "pkg": "xmltex", 
+    "pkg_version": "1.9", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "texlive-xmltex-bin-svn3006.0-6.20131226_r32488.fc20.noarch.rpm", 
+    "pkg": "texlive-xmltex-bin-svn300", 
+    "pkg_version": "6.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xmltex_1.9.debian.1-3_all.deb", 
+    "pkg": "xmltex", 
+    "pkg_version": "1.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "texlive-xmltex-bin-svn3006.0-6.20131226_r32488.fc20.noarch.rpm", 
+    "pkg": "texlive-xmltex-bin-svn300", 
+    "pkg_version": "6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "texlive-xmltex-0.8-12-omv2015.0.noarch.rpm", 
+    "pkg": "texlive-xmltex", 
+    "pkg_version": "0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xmltex_1.9.debian.1-3_all.deb", 
+    "pkg": "xmltex", 
+    "pkg_version": "1.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "texlive-xmltex-bin-svn3006.0-6.20131226_r32488.fc20.noarch.rpm", 
+    "pkg": "texlive-xmltex-bin-svn300", 
+    "pkg_version": "6.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "texlive-xmltex-0.8-5-omv2014.0.noarch.rpm", 
+    "pkg": "texlive-xmltex", 
+    "pkg_version": "0.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xmltex_1.9.debian.1-3_all.deb", 
+    "pkg": "xmltex", 
+    "pkg_version": "1.9", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "texlive-xmltex-bin-svn3006.0-6.20131226_r32488.fc20.noarch.rpm", 
+    "pkg": "texlive-xmltex-bin-svn300", 
+    "pkg_version": "6.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "texlive-xmltex-0.8-4-omv2013.0.noarch.rpm", 
+    "pkg": "texlive-xmltex", 
+    "pkg_version": "0.8", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xmltex_1.9.debian.1-3_all.deb", 
+    "pkg": "xmltex", 
+    "pkg_version": "1.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "texlive-xmltex-bin-svn3006.0-6.20131226_r32488.fc20.noarch.rpm", 
+    "pkg": "texlive-xmltex-bin-svn300", 
+    "pkg_version": "6.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "texlive-xmltex-0.8-5-rosa2014.1.noarch.rpm", 
+    "pkg": "texlive-xmltex", 
+    "pkg_version": "0.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xmltex_1.9.debian.1-3_all.deb", 
+    "pkg": "xmltex", 
+    "pkg_version": "1.9", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "texlive-xmltex-bin-svn3006.0-6.20131226_r32488.fc20.noarch.rpm", 
+    "pkg": "texlive-xmltex-bin-svn300", 
+    "pkg_version": "6.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "texlive-xmltex-0.8-4-rosa2012.1.noarch.rpm", 
+    "pkg": "texlive-xmltex", 
+    "pkg_version": "0.8", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xmltex_1.9.debian.1-3_all.deb", 
+    "pkg": "xmltex", 
+    "pkg_version": "1.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "texlive-xmltex-bin-svn3006.0-6.20131226_r32488.fc20.noarch.rpm", 
+    "pkg": "texlive-xmltex-bin-svn300", 
+    "pkg_version": "6.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "texlive-xmltex-0.8-4-rosa2012.1.noarch.rpm", 
+    "pkg": "texlive-xmltex", 
+    "pkg_version": "0.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "texlive-20110705-6-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "texlive-20110705-6-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xmltex_1.9.debian.1-3_all.deb", 
+    "pkg": "xmltex", 
+    "pkg_version": "1.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "texlive-xmltex-bin-svn3006.0-6.20131226_r32488.fc20.noarch.rpm", 
+    "pkg": "texlive-xmltex-bin-svn300", 
+    "pkg_version": "6.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "texlive-xmltex-0.8-4-rosa2012.1.noarch.rpm", 
+    "pkg": "texlive-xmltex", 
+    "pkg_version": "0.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "texlive-20110705-6-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "texlive-20110705-6-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

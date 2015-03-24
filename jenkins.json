@@ -1,0 +1,100 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "jenkins-1.605-1-any.pkg.tar.xz", 
+    "pkg": "jenkins", 
+    "pkg_version": "1.6", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jenkins_1.565.3-3_all.deb", 
+    "pkg": "jenkins", 
+    "pkg_version": "1.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jenkins-tomcat_1.565.3-3_all.deb", 
+    "pkg": "jenkins-tomcat", 
+    "pkg_version": "1.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jenkins_1.565.3-3_all.deb", 
+    "pkg": "jenkins", 
+    "pkg_version": "1.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jenkins-tomcat_1.565.3-3_all.deb", 
+    "pkg": "jenkins-tomcat", 
+    "pkg_version": "1.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "jenkins-1.598-9.fc23.noarch.rpm", 
+    "pkg": "jenkins", 
+    "pkg_version": "1.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jenkins-tomcat_1.565.3-3_all.deb", 
+    "pkg": "jenkins-tomcat", 
+    "pkg_version": "1.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "jenkins-1.598-1.fc22.noarch.rpm", 
+    "pkg": "jenkins", 
+    "pkg_version": "1.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jenkins-tomcat_1.565.3-3_all.deb", 
+    "pkg": "jenkins-tomcat", 
+    "pkg_version": "1.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "jenkins-1.590-1.fc21.noarch.rpm", 
+    "pkg": "jenkins", 
+    "pkg_version": "1.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jenkins-tomcat_1.565.3-3_all.deb", 
+    "pkg": "jenkins-tomcat", 
+    "pkg_version": "1.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

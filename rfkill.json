@@ -1,0 +1,225 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "rfkill-0.5-alt1.x86_64.rpm", 
+    "pkg": "rfkill", 
+    "pkg_version": "0.5", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Core", 
+    "pkg_full_name": "rfkill-0.5-1-x86_64.pkg.tar.xz", 
+    "pkg": "rfkill", 
+    "pkg_version": "0.5", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "rfkill-0.4-9.el7.x86_64.rpm", 
+    "pkg": "rfkill", 
+    "pkg_version": "0.4", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "rfkill-0.3-4.el6.x86_64.rpm", 
+    "pkg": "rfkill", 
+    "pkg_version": "0.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "rfkill-0.3-3.1.el5.x86_64.rpm", 
+    "pkg": "rfkill", 
+    "pkg_version": "0.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rfkill_0.5-1_i386.deb", 
+    "pkg": "rfkill", 
+    "pkg_version": "0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rfkill_0.5-1_i386.deb", 
+    "pkg": "rfkill", 
+    "pkg_version": "0.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rfkill_0.4-1_i386.deb", 
+    "pkg": "rfkill", 
+    "pkg_version": "0.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rfkill-0.5-5.fc22.x86_64.rpm", 
+    "pkg": "rfkill", 
+    "pkg_version": "0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rfkill-0.5-5.fc22.x86_64.rpm", 
+    "pkg": "rfkill", 
+    "pkg_version": "0.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rfkill-0.5-4.fc21.x86_64.rpm", 
+    "pkg": "rfkill", 
+    "pkg_version": "0.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rfkill-0.5-2.fc20.x86_64.rpm", 
+    "pkg": "rfkill", 
+    "pkg_version": "0.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "rfkill-0.5-8-omv2015.0.x86_64.rpm", 
+    "pkg": "rfkill", 
+    "pkg_version": "0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "rfkill-0.5-2-omv2014.0.x86_64.rpm", 
+    "pkg": "rfkill", 
+    "pkg_version": "0.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "rfkill-0.5-1-omv2013.0.x86_64.rpm", 
+    "pkg": "rfkill", 
+    "pkg_version": "0.5", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "rfkill-0.5-6.1.x86_64.rpm", 
+    "pkg": "rfkill", 
+    "pkg_version": "0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "rfkill-0.5-4.1.2.x86_64.rpm", 
+    "pkg": "rfkill", 
+    "pkg_version": "0.5", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "rfkill-0.5-2.1.2.i586.rpm", 
+    "pkg": "rfkill", 
+    "pkg_version": "0.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "rfkill-0.4-6-rosa2014.1.x86_64.rpm", 
+    "pkg": "rfkill", 
+    "pkg_version": "0.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "rfkill-0.4-5-rosa2012.1.x86_64.rpm", 
+    "pkg": "rfkill", 
+    "pkg_version": "0.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "rfkill-0.5-x86_64-1.txz", 
+    "pkg": "rfkill", 
+    "pkg_version": "0.5", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "rfkill-0.4-x86_64-1.txz", 
+    "pkg": "rfkill", 
+    "pkg_version": "0.4", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "rfkill-0.4-x86_64-1.txz", 
+    "pkg": "rfkill", 
+    "pkg_version": "0.4", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "rfkill_0.5-1ubuntu1_i386.deb", 
+    "pkg": "rfkill", 
+    "pkg_version": "0.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "rfkill_0.5-1ubuntu1_i386.deb", 
+    "pkg": "rfkill", 
+    "pkg_version": "0.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

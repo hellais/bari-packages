@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "conky-all_1.9.0-6_i386.deb", 
+    "pkg": "conky-all", 
+    "pkg_version": "1.9.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "conky-all_1.9.0-6_i386.deb", 
+    "pkg": "conky-all", 
+    "pkg_version": "1.9.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Contrib", 
+    "pkg_full_name": "conky-all_1.9.0-2_i386.deb", 
+    "pkg": "conky-all", 
+    "pkg_version": "1.9.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "conky-all_1.9.0-4_i386.deb", 
+    "pkg": "conky-all", 
+    "pkg_version": "1.9.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

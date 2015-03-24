@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tanglet-data_1.3.1-2_all.deb", 
+    "pkg": "tanglet-data", 
+    "pkg_version": "1.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tanglet-data_1.2.2-2_all.deb", 
+    "pkg": "tanglet-data", 
+    "pkg_version": "1.2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "tanglet-data-1.3.1-2.fc22.noarch.rpm", 
+    "pkg": "tanglet-data", 
+    "pkg_version": "1.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "tanglet-data-1.3.1-2.fc22.noarch.rpm", 
+    "pkg": "tanglet-data", 
+    "pkg_version": "1.3.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "tanglet-data-1.3.1-2.fc21.noarch.rpm", 
+    "pkg": "tanglet-data", 
+    "pkg_version": "1.3.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

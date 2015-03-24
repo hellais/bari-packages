@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libconfig-model-backend-augeas-perl_0.118-1_all.deb", 
+    "pkg": "libconfig-model-backend-augeas-perl", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libconfig-model-backend-augeas-perl_0.118-1_all.deb", 
+    "pkg": "libconfig-model-backend-augeas-perl", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libconfig-model-backend-augeas-perl_0.112-1_all.deb", 
+    "pkg": "libconfig-model-backend-augeas-perl", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libconfig-model-backend-augeas-perl_0.118-1_all.deb", 
+    "pkg": "libconfig-model-backend-augeas-perl", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libconfig-model-backend-augeas-perl_0.114-1_all.deb", 
+    "pkg": "libconfig-model-backend-augeas-perl", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

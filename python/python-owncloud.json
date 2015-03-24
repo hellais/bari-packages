@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-owncloud_0.3.1-1_all.deb", 
+    "pkg": "python-owncloud", 
+    "pkg_version": "0.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-owncloud_0.3.1-1_all.deb", 
+    "pkg": "python-owncloud", 
+    "pkg_version": "0.3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

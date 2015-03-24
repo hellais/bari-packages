@@ -1,0 +1,127 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libsigsegv2-2.10-alt1.x86_64.rpm", 
+    "pkg": "libsigsegv2", 
+    "pkg_version": "2.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsigsegv2_2.10-4+b1_i386.deb", 
+    "pkg": "libsigsegv2", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsigsegv2_2.10-4+b1_i386.deb", 
+    "pkg": "libsigsegv2", 
+    "pkg_version": "2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsigsegv2_2.9-4_i386.deb", 
+    "pkg": "libsigsegv2", 
+    "pkg_version": "2.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libsigsegv2-2.10-12-omv2015.0.i586.rpm", 
+    "pkg": "libsigsegv2", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libsigsegv2-2.10-6-omv2014.0.i586.rpm", 
+    "pkg": "libsigsegv2", 
+    "pkg_version": "2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libsigsegv2-2.10-5-omv2013.0.i586.rpm", 
+    "pkg": "libsigsegv2", 
+    "pkg_version": "2.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libsigsegv2-2.10-6.4.x86_64.rpm", 
+    "pkg": "libsigsegv2", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libsigsegv2-2.10-5.1.2.x86_64.rpm", 
+    "pkg": "libsigsegv2", 
+    "pkg_version": "2.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libsigsegv2-2.10-3.1.2.i586.rpm", 
+    "pkg": "libsigsegv2", 
+    "pkg_version": "2.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libsigsegv2-2.10-5-rosa2014.1.i586.rpm", 
+    "pkg": "libsigsegv2", 
+    "pkg_version": "2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libsigsegv2-2.10-4-rosa2012.1.i586.rpm", 
+    "pkg": "libsigsegv2", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libsigsegv2_2.10-4_i386.deb", 
+    "pkg": "libsigsegv2", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libsigsegv2_2.10-2_i386.deb", 
+    "pkg": "libsigsegv2", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

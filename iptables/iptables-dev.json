@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "iptables-dev_1.4.21-2+b1_i386.deb", 
+    "pkg": "iptables-dev", 
+    "pkg_version": "1.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "iptables-dev_1.4.21-2+b1_i386.deb", 
+    "pkg": "iptables-dev", 
+    "pkg_version": "1.4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "iptables-dev_1.4.14-3.1_i386.deb", 
+    "pkg": "iptables-dev", 
+    "pkg_version": "1.4.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "iptables-dev_1.4.21-2ubuntu1_i386.deb", 
+    "pkg": "iptables-dev", 
+    "pkg_version": "1.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "iptables-dev_1.4.21-1ubuntu1_i386.deb", 
+    "pkg": "iptables-dev", 
+    "pkg_version": "1.4.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

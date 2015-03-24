@@ -1,0 +1,91 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "freedroid-data-1.0.2-alt1.qa1.noarch.rpm", 
+    "pkg": "freedroid-data", 
+    "pkg_version": "1.0.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "freedroid-data_1.0.2+cvs040112-5_all.deb", 
+    "pkg": "freedroid-data", 
+    "pkg_version": "1.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "freedroid-data_1.0.2+cvs040112-5_all.deb", 
+    "pkg": "freedroid-data", 
+    "pkg_version": "1.0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "freedroid-data_1.0.2+cvs040112-4_all.deb", 
+    "pkg": "freedroid-data", 
+    "pkg_version": "1.0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "freedroid-data-1.0.2-23.fc22.noarch.rpm", 
+    "pkg": "freedroid-data", 
+    "pkg_version": "1.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "freedroid-data-1.0.2-23.fc22.noarch.rpm", 
+    "pkg": "freedroid-data", 
+    "pkg_version": "1.0.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "freedroid-data-1.0.2-23.fc21.noarch.rpm", 
+    "pkg": "freedroid-data", 
+    "pkg_version": "1.0.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "freedroid-data-1.0.2-21.fc20.noarch.rpm", 
+    "pkg": "freedroid-data", 
+    "pkg_version": "1.0.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "freedroid-data_1.0.2+cvs040112-5_all.deb", 
+    "pkg": "freedroid-data", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "freedroid-data_1.0.2+cvs040112-4ubuntu1_all.deb", 
+    "pkg": "freedroid-data", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

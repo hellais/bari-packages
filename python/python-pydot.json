@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-pydot_1.0.28-1_all.deb", 
+    "pkg": "python-pydot", 
+    "pkg_version": "1.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-pydot_1.0.28-1_all.deb", 
+    "pkg": "python-pydot", 
+    "pkg_version": "1.0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-pydot_1.0.2-1_all.deb", 
+    "pkg": "python-pydot", 
+    "pkg_version": "1.0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-pydot-1.0.28-4.2.noarch.rpm", 
+    "pkg": "python-pydot", 
+    "pkg_version": "1.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-pydot-1.0.28-3.1.4.noarch.rpm", 
+    "pkg": "python-pydot", 
+    "pkg_version": "1.0.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-pydot_1.0.28-1_all.deb", 
+    "pkg": "python-pydot", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-pydot_1.0.28-0ubuntu1_all.deb", 
+    "pkg": "python-pydot", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

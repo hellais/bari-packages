@@ -1,0 +1,46 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-xml-simple-1.0.12-alt1.1.noarch.rpm", 
+    "pkg": "ruby-xml-simple", 
+    "pkg_version": "1.0.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-xml-simple_1.1.1-1_all.deb", 
+    "pkg": "ruby-xml-simple", 
+    "pkg_version": "1.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-xml-simple_1.1.1-1_all.deb", 
+    "pkg": "ruby-xml-simple", 
+    "pkg_version": "1.1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-xml-simple_1.1.1-1_all.deb", 
+    "pkg": "ruby-xml-simple", 
+    "pkg_version": "1.1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ruby-xml-simple_1.1.1-1build1_all.deb", 
+    "pkg": "ruby-xml-simple", 
+    "pkg_version": "1.1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

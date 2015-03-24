@@ -1,0 +1,83 @@
+[
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "amsn-0.96-1.el5.rf.x86_64.rpm", 
+    "pkg": "amsn", 
+    "pkg_version": "0.9", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "amsn_0.98.9-1+b1_i386.deb", 
+    "pkg": "amsn", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "amsn_0.98.9-1+b1_i386.deb", 
+    "pkg": "amsn", 
+    "pkg_version": "0.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "amsn-0.98.9-9.fc20.x86_64.rpm", 
+    "pkg": "amsn", 
+    "pkg_version": "0.9", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "amsn-0.98.4-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "amsn", 
+    "pkg_version": "0.9", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "amsn-0.98.9-i486-3sl.txz", 
+    "pkg": "amsn", 
+    "pkg_version": "0.9", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "amsn-0.98.9-x86_64-1sl.txz", 
+    "pkg": "amsn", 
+    "pkg_version": "0.9", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "amsn-0.98.9-i486-1sl.txz", 
+    "pkg": "amsn", 
+    "pkg_version": "0.9", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "amsn_0.98.9-1ubuntu3_i386.deb", 
+    "pkg": "amsn", 
+    "pkg_version": "0.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

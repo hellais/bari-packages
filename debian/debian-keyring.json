@@ -1,0 +1,137 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "debian-keyring_2015.03.04_all.deb", 
+    "pkg": "debian-keyring_201", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "debian-keyring_2014.12.10_all.deb", 
+    "pkg": "debian-keyring_201", 
+    "pkg_version": "4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "debian-keyring_2013.04.21_all.deb", 
+    "pkg": "debian-keyring_201", 
+    "pkg_version": "3.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "debian-keyring-2014.3-1.fc22.noarch.rpm", 
+    "pkg": "debian-keyring-201", 
+    "pkg_version": "4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "debian-keyring_2013.04.21_all.deb", 
+    "pkg": "debian-keyring_201", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "debian-keyring-2014.3-1.fc22.noarch.rpm", 
+    "pkg": "debian-keyring-201", 
+    "pkg_version": "4.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "debian-keyring_2013.04.21_all.deb", 
+    "pkg": "debian-keyring_201", 
+    "pkg_version": "3.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "debian-keyring-2014.3-1.fc21.noarch.rpm", 
+    "pkg": "debian-keyring-201", 
+    "pkg_version": "4.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "debian-keyring_2013.04.21_all.deb", 
+    "pkg": "debian-keyring_201", 
+    "pkg_version": "3.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "debian-keyring-2014.3-1.fc20.noarch.rpm", 
+    "pkg": "debian-keyring-201", 
+    "pkg_version": "4.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "debian-keyring_2013.04.21_all.deb", 
+    "pkg": "debian-keyring_201", 
+    "pkg_version": "3.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "debian-keyring-2014.3-1.fc20.noarch.rpm", 
+    "pkg": "debian-keyring-201", 
+    "pkg_version": "4.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "debian-keyring_2014.08.31_all.deb", 
+    "pkg": "debian-keyring_201", 
+    "pkg_version": "4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "debian-keyring-2014.3-1.fc20.noarch.rpm", 
+    "pkg": "debian-keyring-201", 
+    "pkg_version": "4.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "debian-keyring_2014.03.03_all.deb", 
+    "pkg": "debian-keyring_201", 
+    "pkg_version": "4.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

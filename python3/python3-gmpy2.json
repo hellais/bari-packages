@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-gmpy2_2.0.4-2_i386.deb", 
+    "pkg": "python3-gmpy2", 
+    "pkg_version": "2.0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-gmpy2_2.0.3-1+b1_i386.deb", 
+    "pkg": "python3-gmpy2", 
+    "pkg_version": "2.0.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-gmpy2-2.0.5-1.fc22.x86_64.rpm", 
+    "pkg": "python3-gmpy2", 
+    "pkg_version": "2.0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-gmpy2-2.0.5-1.fc22.x86_64.rpm", 
+    "pkg": "python3-gmpy2", 
+    "pkg_version": "2.0.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python3-gmpy2-2.0.5-1.fc21.x86_64.rpm", 
+    "pkg": "python3-gmpy2", 
+    "pkg_version": "2.0.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python3-gmpy2_2.0.3-1_i386.deb", 
+    "pkg": "python3-gmpy2", 
+    "pkg_version": "2.0.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

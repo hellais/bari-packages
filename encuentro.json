@@ -1,0 +1,73 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "encuentro-0.5-alt1_11.noarch.rpm", 
+    "pkg": "encuentro", 
+    "pkg_version": "0.5", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "encuentro_2.0.1-1_all.deb", 
+    "pkg": "encuentro", 
+    "pkg_version": "2.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "encuentro_2.0.1-1_all.deb", 
+    "pkg": "encuentro", 
+    "pkg_version": "2.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "encuentro-0.5-11.fc21.noarch.rpm", 
+    "pkg": "encuentro", 
+    "pkg_version": "0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "encuentro-0.5-11.fc21.noarch.rpm", 
+    "pkg": "encuentro", 
+    "pkg_version": "0.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "encuentro-0.5-11.fc21.noarch.rpm", 
+    "pkg": "encuentro", 
+    "pkg_version": "0.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "encuentro-0.5-10.fc20.noarch.rpm", 
+    "pkg": "encuentro", 
+    "pkg_version": "0.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "encuentro_2.0.1-1_all.deb", 
+    "pkg": "encuentro", 
+    "pkg_version": "2.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

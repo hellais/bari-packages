@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-django-filters_0.7-4_all.deb", 
+    "pkg": "python-django-filters", 
+    "pkg_version": "0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-django-filters_0.7-4_all.deb", 
+    "pkg": "python-django-filters", 
+    "pkg_version": "0.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-django-filters_0.7-3_all.deb", 
+    "pkg": "python-django-filters", 
+    "pkg_version": "0.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

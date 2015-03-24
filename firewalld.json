@@ -1,0 +1,126 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "firewalld-0.3.13-alt1.noarch.rpm", 
+    "pkg": "firewalld", 
+    "pkg_version": "0.3.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "firewalld-0.3.13-1-any.pkg.tar.xz", 
+    "pkg": "firewalld", 
+    "pkg_version": "0.3.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "firewalld-0.3.9-7.el7.noarch.rpm", 
+    "pkg": "firewalld", 
+    "pkg_version": "0.3.9", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "firewalld_0.3.12-1_all.deb", 
+    "pkg": "firewalld", 
+    "pkg_version": "0.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "firewalld_0.3.12-1_all.deb", 
+    "pkg": "firewalld", 
+    "pkg_version": "0.3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "firewalld-0.3.13-5.fc23.noarch.rpm", 
+    "pkg": "firewalld", 
+    "pkg_version": "0.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "firewalld-0.3.13-2.fc22.noarch.rpm", 
+    "pkg": "firewalld", 
+    "pkg_version": "0.3.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "firewalld-0.3.13-2.fc21.noarch.rpm", 
+    "pkg": "firewalld", 
+    "pkg_version": "0.3.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "firewalld-0.3.13-1.fc20.noarch.rpm", 
+    "pkg": "firewalld", 
+    "pkg_version": "0.3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "firewalld-0.3.13-2-omv2015.0.noarch.rpm", 
+    "pkg": "firewalld", 
+    "pkg_version": "0.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "firewalld-0.3.13-0.1-omv2014.0.noarch.rpm", 
+    "pkg": "firewalld", 
+    "pkg_version": "0.3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "firewalld-0.3.8-2-omv2013.0.noarch.rpm", 
+    "pkg": "firewalld", 
+    "pkg_version": "0.3.8", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "firewalld-0.3.10-3-rosa2014.1.noarch.rpm", 
+    "pkg": "firewalld", 
+    "pkg_version": "0.3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "firewalld_0.3.10-1_all.deb", 
+    "pkg": "firewalld", 
+    "pkg_version": "0.3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

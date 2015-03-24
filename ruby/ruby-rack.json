@@ -1,0 +1,117 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-rack-1.2.2-alt1.1.noarch.rpm", 
+    "pkg": "ruby-rack", 
+    "pkg_version": "1.2.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "ruby-rack-1.6.0-2-any.pkg.tar.xz", 
+    "pkg": "ruby-rack", 
+    "pkg_version": "1.6.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-rack_1.5.2-3_all.deb", 
+    "pkg": "ruby-rack", 
+    "pkg_version": "1.5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-rack_1.5.2-3_all.deb", 
+    "pkg": "ruby-rack", 
+    "pkg_version": "1.5.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-rack_1.4.1-2.1_all.deb", 
+    "pkg": "ruby-rack", 
+    "pkg_version": "1.4.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "ruby-rack-1.1.0-5-omv2013.0.noarch.rpm", 
+    "pkg": "ruby-rack", 
+    "pkg_version": "1.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "ruby-rack-1.1.0-5-omv2013.0.noarch.rpm", 
+    "pkg": "ruby-rack", 
+    "pkg_version": "1.1.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "ruby-rack-1.1.0-5-omv2013.0.noarch.rpm", 
+    "pkg": "ruby-rack", 
+    "pkg_version": "1.1.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "ruby-rack-1.1.0-5-rosa2012.1.noarch.rpm", 
+    "pkg": "ruby-rack", 
+    "pkg_version": "1.1.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ruby-rack_1.5.2-2_all.deb", 
+    "pkg": "ruby-rack", 
+    "pkg_version": "1.5.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "rubygem-rack-1.1.2-1-rosa.lts2012.0.noarch.rpm", 
+    "pkg": "rubygem-rack", 
+    "pkg_version": "1.1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ruby-rack_1.5.2-1_all.deb", 
+    "pkg": "ruby-rack", 
+    "pkg_version": "1.5.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "rubygem-rack-1.1.2-1-rosa.lts2012.0.noarch.rpm", 
+    "pkg": "rubygem-rack", 
+    "pkg_version": "1.1.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

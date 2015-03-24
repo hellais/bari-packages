@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdb-msp430_7.2a~mspgcc-20111205-3_i386.deb", 
+    "pkg": "gdb-msp430", 
+    "pkg_version": "7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdb-msp430_7.2a~mspgcc-20111205-3_i386.deb", 
+    "pkg": "gdb-msp430", 
+    "pkg_version": "7.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdb-msp430_7.2a~mspgcc-20111205-1_i386.deb", 
+    "pkg": "gdb-msp430", 
+    "pkg_version": "7.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gdb-msp430_7.2a~mspgcc-20111205-3_i386.deb", 
+    "pkg": "gdb-msp430", 
+    "pkg_version": "7.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gdb-msp430_7.2a~mspgcc-20111205-2_i386.deb", 
+    "pkg": "gdb-msp430", 
+    "pkg_version": "7.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

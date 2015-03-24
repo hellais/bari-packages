@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-wai-logger-dev_2.1.1-1+b9_i386.deb", 
+    "pkg": "libghc-wai-logger-dev", 
+    "pkg_version": "2.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-wai-logger-dev_2.1.1-1+b9_i386.deb", 
+    "pkg": "libghc-wai-logger-dev", 
+    "pkg_version": "2.1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-wai-logger-dev_0.1.4-1+b6_i386.deb", 
+    "pkg": "libghc-wai-logger-dev", 
+    "pkg_version": "0.1.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-wai-logger-dev_2.1.1-1build4_i386.deb", 
+    "pkg": "libghc-wai-logger-dev", 
+    "pkg_version": "2.1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-wai-logger-dev_0.3.1-1build3_i386.deb", 
+    "pkg": "libghc-wai-logger-dev", 
+    "pkg_version": "0.3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

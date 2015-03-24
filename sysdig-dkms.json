@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sysdig-dkms_0.1.89-1_all.deb", 
+    "pkg": "sysdig-dkms", 
+    "pkg_version": "0.1.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sysdig-dkms_0.1.89-1_all.deb", 
+    "pkg": "sysdig-dkms", 
+    "pkg_version": "0.1.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "sysdig-dkms_0.1.89-1~bpo70+1_all.deb", 
+    "pkg": "sysdig-dkms", 
+    "pkg_version": "0.1.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

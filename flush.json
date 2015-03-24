@@ -1,0 +1,82 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "flush-0.9.12-alt1.4.qa3.1.x86_64.rpm", 
+    "pkg": "flush", 
+    "pkg_version": "0.9.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Russian Fedora Free Updates", 
+    "pkg_full_name": "flush-0.9.10-7.el6.R.x86_64.rpm", 
+    "pkg": "flush", 
+    "pkg_version": "0.9.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "flush_0.9.12-3.1_i386.deb", 
+    "pkg": "flush", 
+    "pkg_version": "0.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "flush_0.9.12-3.1_i386.deb", 
+    "pkg": "flush", 
+    "pkg_version": "0.9.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "flush_0.9.12-3_i386.deb", 
+    "pkg": "flush", 
+    "pkg_version": "0.9.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "flush-0.9.12-7.fc20.x86_64.rpm", 
+    "pkg": "flush", 
+    "pkg_version": "0.9.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "flush-0.9.9-i486-1dj.txz", 
+    "pkg": "flush", 
+    "pkg_version": "0.9.9", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "flush_0.9.12-3ubuntu8_i386.deb", 
+    "pkg": "flush", 
+    "pkg_version": "0.9.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "flush_0.9.12-3ubuntu7_i386.deb", 
+    "pkg": "flush", 
+    "pkg_version": "0.9.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

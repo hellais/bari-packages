@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libvaladoc3_0.23.2~git20140902-3_i386.deb", 
+    "pkg": "libvaladoc3", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

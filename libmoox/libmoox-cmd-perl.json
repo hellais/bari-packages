@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmoox-cmd-perl_0.011-1_all.deb", 
+    "pkg": "libmoox-cmd-perl", 
+    "pkg_version": "0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

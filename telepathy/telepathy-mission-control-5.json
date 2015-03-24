@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "telepathy-mission-control-5_5.16.3-1_i386.deb", 
+    "pkg": "telepathy-mission-control-5", 
+    "pkg_version": "5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "telepathy-mission-control-5_5.16.3-1_i386.deb", 
+    "pkg": "telepathy-mission-control-5", 
+    "pkg_version": "5.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "telepathy-mission-control-5_5.12.3-1_i386.deb", 
+    "pkg": "telepathy-mission-control-5", 
+    "pkg_version": "5.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "telepathy-mission-control-5_5.16.2-1ubuntu3_i386.deb", 
+    "pkg": "telepathy-mission-control-5", 
+    "pkg_version": "5.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "telepathy-mission-control-5_5.16.1-1ubuntu3_i386.deb", 
+    "pkg": "telepathy-mission-control-5", 
+    "pkg_version": "5.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

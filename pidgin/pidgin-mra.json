@@ -1,0 +1,55 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "pidgin-mra-0.1.4.2-alt1.x86_64.rpm", 
+    "pkg": "pidgin-mra", 
+    "pkg_version": "0.1.4.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "pidgin-mra-0.1.4.2-alt1.x86_64.rpm", 
+    "pkg": "pidgin-mra", 
+    "pkg_version": "0.1.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "pidgin-mra-0.1.4.2-alt1.x86_64.rpm", 
+    "pkg": "pidgin-mra", 
+    "pkg_version": "0.1.4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "pidgin-mra-0.1.4.2-alt1.x86_64.rpm", 
+    "pkg": "pidgin-mra", 
+    "pkg_version": "0.1.4.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Freestylers", 
+    "pkg_full_name": "pidgin-mra-0.1.4.2-x86_64-1_fs.tgz", 
+    "pkg": "pidgin-mra", 
+    "pkg_version": "0.1.4.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Freestylers", 
+    "pkg_full_name": "pidgin-mra-0.1.4.2-x86_64-1_fs.tgz", 
+    "pkg": "pidgin-mra", 
+    "pkg_version": "0.1.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

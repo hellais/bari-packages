@@ -1,0 +1,110 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libzypp_14.29.1-2_i386.deb", 
+    "pkg": "libzypp_1", 
+    "pkg_version": "4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libzypp_14.29.1-2_i386.deb", 
+    "pkg": "libzypp_1", 
+    "pkg_version": "4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libzypp-14.30.0-2-omv2015.0.x86_64.rpm", 
+    "pkg": "libzypp-1", 
+    "pkg_version": "4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libzypp_14.29.1-2_i386.deb", 
+    "pkg": "libzypp_1", 
+    "pkg_version": "4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "libzypp-13.3.0-0.20140110.2-omv2014.0.x86_64.rpm", 
+    "pkg": "libzypp-1", 
+    "pkg_version": "3.3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libzypp_14.29.1-2_i386.deb", 
+    "pkg": "libzypp_1", 
+    "pkg_version": "4.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libzypp-13.3.0-0.20130619.2-omv2013.0.x86_64.rpm", 
+    "pkg": "libzypp-1", 
+    "pkg_version": "3.3.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libzypp_14.29.1-2_i386.deb", 
+    "pkg": "libzypp_1", 
+    "pkg_version": "4.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libzypp-14.37.0-1.1.x86_64.rpm", 
+    "pkg": "libzypp-1", 
+    "pkg_version": "4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libzypp_14.29.1-2_i386.deb", 
+    "pkg": "libzypp_1", 
+    "pkg_version": "4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "libzypp-14.36.0-18.1.x86_64.rpm", 
+    "pkg": "libzypp-1", 
+    "pkg_version": "4.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libzypp_14.29.1-2_i386.deb", 
+    "pkg": "libzypp_1", 
+    "pkg_version": "4.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }
+]

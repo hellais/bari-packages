@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libobt2_3.5.2-8_i386.deb", 
+    "pkg": "libobt2", 
+    "pkg_version": "3.5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libobt2_3.5.2-8_i386.deb", 
+    "pkg": "libobt2", 
+    "pkg_version": "3.5.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "libobt2_3.5.2-6~bpo70+1_i386.deb", 
+    "pkg": "libobt2", 
+    "pkg_version": "3.5.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libobt2-3.5.2-10-omv2015.0.i586.rpm", 
+    "pkg": "libobt2", 
+    "pkg_version": "3.5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libobt2_3.5.2-7_i386.deb", 
+    "pkg": "libobt2", 
+    "pkg_version": "3.5.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

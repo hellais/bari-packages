@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "docbook-xsl-saxon-1.0.0-4.jpp6.noarch.rpm", 
+    "pkg": "docbook-xsl-saxon", 
+    "pkg_version": "1.0.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "docbook-xsl-saxon-1.0.0-4.jpp6.noarch.rpm", 
+    "pkg": "docbook-xsl-saxon", 
+    "pkg_version": "1.0.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "docbook-xsl-saxon_1.00.dfsg.1-5_all.deb", 
+    "pkg": "docbook-xsl-saxon", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "docbook-xsl-saxon_1.00.dfsg.1-5_all.deb", 
+    "pkg": "docbook-xsl-saxon", 
+    "pkg_version": "1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "docbook-xsl-saxon_1.00.dfsg.1-5_all.deb", 
+    "pkg": "docbook-xsl-saxon", 
+    "pkg_version": "1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "docbook-xsl-saxon-1.0.0-4.jpp6.noarch.rpm", 
+    "pkg": "docbook-xsl-saxon", 
+    "pkg_version": "1.0.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "docbook-xsl-saxon-1.0.0-4.jpp6.noarch.rpm", 
+    "pkg": "docbook-xsl-saxon", 
+    "pkg_version": "1.0.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "docbook-xsl-saxon-1.0.0-4.jpp6.noarch.rpm", 
+    "pkg": "docbook-xsl-saxon", 
+    "pkg_version": "1.0.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "docbook-xsl-saxon_1.00.dfsg.1-5_all.deb", 
+    "pkg": "docbook-xsl-saxon", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "docbook-xsl-saxon_1.00.dfsg.1-5_all.deb", 
+    "pkg": "docbook-xsl-saxon", 
+    "pkg_version": "1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

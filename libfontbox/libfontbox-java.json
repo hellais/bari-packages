@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libfontbox-java_1.8.7+dfsg-1_all.deb", 
+    "pkg": "libfontbox-java", 
+    "pkg_version": "1.8.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libfontbox-java_1.8.7+dfsg-1_all.deb", 
+    "pkg": "libfontbox-java", 
+    "pkg_version": "1.8.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libfontbox-java_1.7.0+dfsg-4_all.deb", 
+    "pkg": "libfontbox-java", 
+    "pkg_version": "1.7.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libfontbox-java_1.8.6+dfsg-1_all.deb", 
+    "pkg": "libfontbox-java", 
+    "pkg_version": "1.8.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libfontbox-java_1.8.4+dfsg-1_all.deb", 
+    "pkg": "libfontbox-java", 
+    "pkg_version": "1.8.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

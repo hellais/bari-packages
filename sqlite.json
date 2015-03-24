@@ -1,0 +1,252 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "sqlite-2.8.17-alt2.2.x86_64.rpm", 
+    "pkg": "sqlite", 
+    "pkg_version": "2.8.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Core", 
+    "pkg_full_name": "sqlite-3.8.8.3-1-x86_64.pkg.tar.xz", 
+    "pkg": "sqlite", 
+    "pkg_version": "3.8.8.3", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "sqlite-3.7.17-4.el7.x86_64.rpm", 
+    "pkg": "sqlite", 
+    "pkg_version": "3.7.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Ghettoforge Plus", 
+    "pkg_full_name": "sqlite-3.7.15.2-2.gf.el6.x86_64.rpm", 
+    "pkg": "sqlite", 
+    "pkg_version": "3.7.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EL GIS Plus", 
+    "pkg_full_name": "sqlite-3.5.9-2.el5.elgis.x86_64.rpm", 
+    "pkg": "sqlite", 
+    "pkg_version": "3.5.9", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sqlite_2.8.17-12_i386.deb", 
+    "pkg": "sqlite", 
+    "pkg_version": "2.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sqlite_2.8.17-12_i386.deb", 
+    "pkg": "sqlite", 
+    "pkg_version": "2.8.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sqlite_2.8.17-7_i386.deb", 
+    "pkg": "sqlite", 
+    "pkg_version": "2.8.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "sqlite-3.8.8.3-1.fc23.x86_64.rpm", 
+    "pkg": "sqlite", 
+    "pkg_version": "3.8.8.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "sqlite-3.8.8-2.fc22.x86_64.rpm", 
+    "pkg": "sqlite", 
+    "pkg_version": "3.8.8", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "sqlite-3.8.8.3-1.fc21.x86_64.rpm", 
+    "pkg": "sqlite", 
+    "pkg_version": "3.8.8.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "sqlite-3.8.8.3-1.fc20.x86_64.rpm", 
+    "pkg": "sqlite", 
+    "pkg_version": "3.8.8.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "sqlite3-3.8.8.3-1.1.x86_64.rpm", 
+    "pkg": "sqlite3", 
+    "pkg_version": "3.8.8.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "sqlite-3.8.8.3-1.fc20.x86_64.rpm", 
+    "pkg": "sqlite", 
+    "pkg_version": "3.8.8.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "sqlite3-3.8.6-1.2.x86_64.rpm", 
+    "pkg": "sqlite3", 
+    "pkg_version": "3.8.6", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "sqlite-3.8.8.3-1.fc20.x86_64.rpm", 
+    "pkg": "sqlite", 
+    "pkg_version": "3.8.8.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "sqlite3-3.7.17-2.1.2.i586.rpm", 
+    "pkg": "sqlite3", 
+    "pkg_version": "3.7.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "sqlite-3.8.8.3-1.fc20.x86_64.rpm", 
+    "pkg": "sqlite", 
+    "pkg_version": "3.8.8.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "sqlite3-3.7.17-2.1.2.i586.rpm", 
+    "pkg": "sqlite3", 
+    "pkg_version": "3.7.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "sqlite-3.7.17-x86_64-1.txz", 
+    "pkg": "sqlite", 
+    "pkg_version": "3.7.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "sqlite3-3.7.17-2.1.2.i586.rpm", 
+    "pkg": "sqlite3", 
+    "pkg_version": "3.7.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware Patches", 
+    "pkg_full_name": "sqlite-3.7.14.1-x86_64-1_slack14.0.txz", 
+    "pkg": "sqlite", 
+    "pkg_version": "3.7.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "sqlite3-3.7.17-2.1.2.i586.rpm", 
+    "pkg": "sqlite3", 
+    "pkg_version": "3.7.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "sqlite-3.7.5-x86_64-1.txz", 
+    "pkg": "sqlite", 
+    "pkg_version": "3.7.5", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "sqlite3-3.7.17-2.1.2.i586.rpm", 
+    "pkg": "sqlite3", 
+    "pkg_version": "3.7.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "sqlite_2.8.17-10ubuntu2_i386.deb", 
+    "pkg": "sqlite", 
+    "pkg_version": "2.8.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "sqlite3-3.7.17-2.1.2.i586.rpm", 
+    "pkg": "sqlite3", 
+    "pkg_version": "3.7.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "sqlite_2.8.17-10ubuntu2_i386.deb", 
+    "pkg": "sqlite", 
+    "pkg_version": "2.8.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

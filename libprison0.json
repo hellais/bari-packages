@@ -1,0 +1,127 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libprison0-1.1.1-alt1.x86_64.rpm", 
+    "pkg": "libprison0", 
+    "pkg_version": "1.1.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libprison0_1.1.1-1_i386.deb", 
+    "pkg": "libprison0", 
+    "pkg_version": "1.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libprison0_1.1.1-1_i386.deb", 
+    "pkg": "libprison0", 
+    "pkg_version": "1.1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libprison0_1.0+dfsg-1_i386.deb", 
+    "pkg": "libprison0", 
+    "pkg_version": "1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libprison0-1.2.0-0.20141220.1-omv2015.0.i586.rpm", 
+    "pkg": "libprison0", 
+    "pkg_version": "1.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libprison0-1.0-2-omv2014.0.i586.rpm", 
+    "pkg": "libprison0", 
+    "pkg_version": "1.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libprison0-1.0-1-omv2013.0.i586.rpm", 
+    "pkg": "libprison0", 
+    "pkg_version": "1.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libprison0-1.1.1-4.3.x86_64.rpm", 
+    "pkg": "libprison0", 
+    "pkg_version": "1.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libprison0-1.1.1-2.2.2.x86_64.rpm", 
+    "pkg": "libprison0", 
+    "pkg_version": "1.1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libprison0-1.0-12.1.2.i586.rpm", 
+    "pkg": "libprison0", 
+    "pkg_version": "1.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "libprison0-1.1.1-1-rosa2014.1.i586.rpm", 
+    "pkg": "libprison0", 
+    "pkg_version": "1.1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "libprison0-1.0-2-rosa2012.1.i586.rpm", 
+    "pkg": "libprison0", 
+    "pkg_version": "1.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libprison0_1.1.1-1_i386.deb", 
+    "pkg": "libprison0", 
+    "pkg_version": "1.1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libprison0_1.0+dfsg-1_i386.deb", 
+    "pkg": "libprison0", 
+    "pkg_version": "1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

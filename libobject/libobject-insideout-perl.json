@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libobject-insideout-perl_3.98-1_all.deb", 
+    "pkg": "libobject-insideout-perl", 
+    "pkg_version": "3.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libobject-insideout-perl_3.98-1_all.deb", 
+    "pkg": "libobject-insideout-perl", 
+    "pkg_version": "3.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libobject-insideout-perl_3.87-1_all.deb", 
+    "pkg": "libobject-insideout-perl", 
+    "pkg_version": "3.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libobject-insideout-perl_3.97-1_all.deb", 
+    "pkg": "libobject-insideout-perl", 
+    "pkg_version": "3.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libobject-insideout-perl_3.97-1_all.deb", 
+    "pkg": "libobject-insideout-perl", 
+    "pkg_version": "3.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

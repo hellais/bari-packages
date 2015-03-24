@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libparse-pmfile-perl_0.29-1_all.deb", 
+    "pkg": "libparse-pmfile-perl", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

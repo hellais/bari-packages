@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-clips_1.0.7.348+clips-1_i386.deb", 
+    "pkg": "python-clips", 
+    "pkg_version": "1.0.7.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-clips_1.0.7.348+clips-1_i386.deb", 
+    "pkg": "python-clips", 
+    "pkg_version": "1.0.7.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-clips_1.0.7.348+clips-1_i386.deb", 
+    "pkg": "python-clips", 
+    "pkg_version": "1.0.7.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

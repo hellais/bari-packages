@@ -1,0 +1,117 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "x265-1.4-alt1.x86_64.rpm", 
+    "pkg": "x265", 
+    "pkg_version": "1.4", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "x265-1.5-1-x86_64.pkg.tar.xz", 
+    "pkg": "x265", 
+    "pkg_version": "1.5", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "x265-1.2-6.el7.nux.x86_64.rpm", 
+    "pkg": "x265", 
+    "pkg_version": "1.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "x265_1.5-dmo1_i386.deb", 
+    "pkg": "x265", 
+    "pkg_version": "1.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "x265_1.5-dmo1_i386.deb", 
+    "pkg": "x265", 
+    "pkg_version": "1.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "x265-1.2-5.fc21.x86_64.rpm", 
+    "pkg": "x265", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free Updates", 
+    "pkg_full_name": "x265-1.2-6.fc21.x86_64.rpm", 
+    "pkg": "x265", 
+    "pkg_version": "1.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free Updates", 
+    "pkg_full_name": "x265-1.2-5.fc20.x86_64.rpm", 
+    "pkg": "x265", 
+    "pkg_version": "1.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Restricted", 
+    "pkg_full_name": "x265-0.0.1-0.8713.1-omv2015.0.x86_64.rpm", 
+    "pkg": "x265", 
+    "pkg_version": "0.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "x265-1.5-1.7.x86_64.rpm", 
+    "pkg": "x265", 
+    "pkg_version": "1.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "x265-1.5-1.7.x86_64.rpm", 
+    "pkg": "x265", 
+    "pkg_version": "1.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Restricted", 
+    "pkg_full_name": "x265-1.1-1-plf2014.1.x86_64.rpm", 
+    "pkg": "x265", 
+    "pkg_version": "1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Restricted Updates", 
+    "pkg_full_name": "x265-1.1-1-plf2012.1.x86_64.rpm", 
+    "pkg": "x265", 
+    "pkg_version": "1.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

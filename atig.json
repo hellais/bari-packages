@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "atig_0.4.5-1_i386.deb", 
+    "pkg": "atig", 
+    "pkg_version": "0.4.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

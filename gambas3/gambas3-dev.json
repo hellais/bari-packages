@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gambas3-dev_3.5.4-2+b1_i386.deb", 
+    "pkg": "gambas3-dev", 
+    "pkg_version": "3.5.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gambas3-dev_3.5.4-2+b1_i386.deb", 
+    "pkg": "gambas3-dev", 
+    "pkg_version": "3.5.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gambas3-dev_3.1.1-2+b2_amd64.deb", 
+    "pkg": "gambas3-dev", 
+    "pkg_version": "3.1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gambas3-dev_3.5.4-2ubuntu1_i386.deb", 
+    "pkg": "gambas3-dev", 
+    "pkg_version": "3.5.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

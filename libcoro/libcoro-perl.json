@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcoro-perl_6.410-1_i386.deb", 
+    "pkg": "libcoro-perl", 
+    "pkg_version": "6.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcoro-perl_6.410-1_i386.deb", 
+    "pkg": "libcoro-perl", 
+    "pkg_version": "6.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcoro-perl_6.080-3_i386.deb", 
+    "pkg": "libcoro-perl", 
+    "pkg_version": "6.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libcoro-perl_6.390-1build1_i386.deb", 
+    "pkg": "libcoro-perl", 
+    "pkg_version": "6.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libcoro-perl_6.330-1_i386.deb", 
+    "pkg": "libcoro-perl", 
+    "pkg_version": "6.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

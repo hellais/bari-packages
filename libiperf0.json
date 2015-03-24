@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libiperf0_3.0.7-1_i386.deb", 
+    "pkg": "libiperf0", 
+    "pkg_version": "3.0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libiperf0_3.0.7-1_i386.deb", 
+    "pkg": "libiperf0", 
+    "pkg_version": "3.0.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libiperf0-3.0.10-1.1.x86_64.rpm", 
+    "pkg": "libiperf0", 
+    "pkg_version": "3.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libiperf0-3.0.5-2.1.2.x86_64.rpm", 
+    "pkg": "libiperf0", 
+    "pkg_version": "3.0.5", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }
+]

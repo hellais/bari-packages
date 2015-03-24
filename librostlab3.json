@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "librostlab3_1.0.20-4_i386.deb", 
+    "pkg": "librostlab3", 
+    "pkg_version": "1.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "librostlab3_1.0.20-4_i386.deb", 
+    "pkg": "librostlab3", 
+    "pkg_version": "1.0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "librostlab3_1.0.20-1_i386.deb", 
+    "pkg": "librostlab3", 
+    "pkg_version": "1.0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "librostlab3_1.0.20-4_i386.deb", 
+    "pkg": "librostlab3", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

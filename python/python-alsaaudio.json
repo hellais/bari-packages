@@ -1,0 +1,101 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-alsaaudio_0.7-1_i386.deb", 
+    "pkg": "python-alsaaudio", 
+    "pkg_version": "0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-alsaaudio_0.7-1_i386.deb", 
+    "pkg": "python-alsaaudio", 
+    "pkg_version": "0.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-alsaaudio_0.5+svn36-1+b2_i386.deb", 
+    "pkg": "python-alsaaudio", 
+    "pkg_version": "0.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-alsaaudio-0.7-7.fc22.x86_64.rpm", 
+    "pkg": "python-alsaaudio", 
+    "pkg_version": "0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-alsaaudio-0.7-7.fc22.x86_64.rpm", 
+    "pkg": "python-alsaaudio", 
+    "pkg_version": "0.7", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-alsaaudio-0.7-7.fc21.x86_64.rpm", 
+    "pkg": "python-alsaaudio", 
+    "pkg_version": "0.7", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-alsaaudio-0.7-5.fc20.x86_64.rpm", 
+    "pkg": "python-alsaaudio", 
+    "pkg_version": "0.7", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "python-alsaaudio-0.7-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "python-alsaaudio", 
+    "pkg_version": "0.7", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "python-alsaaudio-0.7-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "python-alsaaudio", 
+    "pkg_version": "0.7", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-alsaaudio_0.7-1_i386.deb", 
+    "pkg": "python-alsaaudio", 
+    "pkg_version": "0.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-alsaaudio_0.7-1_i386.deb", 
+    "pkg": "python-alsaaudio", 
+    "pkg_version": "0.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

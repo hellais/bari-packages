@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libservice-wrapper-doc_3.5.25-2_all.deb", 
+    "pkg": "libservice-wrapper-doc", 
+    "pkg_version": "3.5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libservice-wrapper-doc_3.5.22-2_all.deb", 
+    "pkg": "libservice-wrapper-doc", 
+    "pkg_version": "3.5.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libservice-wrapper-doc_3.5.22-2ubuntu1_all.deb", 
+    "pkg": "libservice-wrapper-doc", 
+    "pkg_version": "3.5.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

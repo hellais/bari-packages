@@ -1,0 +1,91 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "wmsystemtray-1.4-alt1.x86_64.rpm", 
+    "pkg": "wmsystemtray", 
+    "pkg_version": "1.4", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "wmsystemtray_1.4-3_i386.deb", 
+    "pkg": "wmsystemtray", 
+    "pkg_version": "1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "wmsystemtray_1.4-2_i386.deb", 
+    "pkg": "wmsystemtray", 
+    "pkg_version": "1.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "wmsystemtray-1.4-1.fc22.x86_64.rpm", 
+    "pkg": "wmsystemtray", 
+    "pkg_version": "1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "wmsystemtray-1.4-1.fc22.x86_64.rpm", 
+    "pkg": "wmsystemtray", 
+    "pkg_version": "1.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "wmsystemtray-1.4-1.fc21.x86_64.rpm", 
+    "pkg": "wmsystemtray", 
+    "pkg_version": "1.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "wmsystemtray-1.4-1.fc20.x86_64.rpm", 
+    "pkg": "wmsystemtray", 
+    "pkg_version": "1.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Alien Bob", 
+    "pkg_full_name": "wmsystemtray-1.4-x86_64-1alien.tgz", 
+    "pkg": "wmsystemtray", 
+    "pkg_version": "1.4", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Alien Bob", 
+    "pkg_full_name": "wmsystemtray-1.4-x86_64-1alien.tgz", 
+    "pkg": "wmsystemtray", 
+    "pkg_version": "1.4", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "wmsystemtray_1.4-2_i386.deb", 
+    "pkg": "wmsystemtray", 
+    "pkg_version": "1.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

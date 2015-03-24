@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-pyld_0.6.2-1_all.deb", 
+    "pkg": "python3-pyld", 
+    "pkg_version": "0.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

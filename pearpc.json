@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pearpc_0.5.dfsg-2.1_i386.deb", 
+    "pkg": "pearpc", 
+    "pkg_version": "0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pearpc_0.4.0-5_i386.deb", 
+    "pkg": "pearpc", 
+    "pkg_version": "0.4.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "pearpc-0.5-12.1.x86_64.rpm", 
+    "pkg": "pearpc", 
+    "pkg_version": "0.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "pearpc-0.5-12.1.x86_64.rpm", 
+    "pkg": "pearpc", 
+    "pkg_version": "0.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Emulators", 
+    "pkg_full_name": "pearpc-0.5-1.77.x86_64.rpm", 
+    "pkg": "pearpc", 
+    "pkg_version": "0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "pearpc_0.5.dfsg-2.1_i386.deb", 
+    "pkg": "pearpc", 
+    "pkg_version": "0.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "pearpc_0.5.dfsg-2.1_i386.deb", 
+    "pkg": "pearpc", 
+    "pkg_version": "0.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

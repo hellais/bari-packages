@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xen-system-amd64_4.4.1-8_i386.deb", 
+    "pkg": "xen-system-amd64", 
+    "pkg_version": "4.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xen-system-amd64_4.4.1-8_i386.deb", 
+    "pkg": "xen-system-amd64", 
+    "pkg_version": "4.4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "xen-system-amd64_4.1.4-3+deb7u5_i386.deb", 
+    "pkg": "xen-system-amd64", 
+    "pkg_version": "4.1.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "xen-system-amd64_4.4.1-0ubuntu0.14.10.4_i386.deb", 
+    "pkg": "xen-system-amd64", 
+    "pkg_version": "4.4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libclass-c3-perl_0.26-1_all.deb", 
+    "pkg": "libclass-c3-perl", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libclass-c3-perl_0.26-1_all.deb", 
+    "pkg": "libclass-c3-perl", 
+    "pkg_version": "0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libclass-c3-perl_0.24-1_all.deb", 
+    "pkg": "libclass-c3-perl", 
+    "pkg_version": "0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libclass-c3-perl_0.26-1_all.deb", 
+    "pkg": "libclass-c3-perl", 
+    "pkg_version": "0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libclass-c3-perl_0.25-1_all.deb", 
+    "pkg": "libclass-c3-perl", 
+    "pkg_version": "0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

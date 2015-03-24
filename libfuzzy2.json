@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libfuzzy2_2.12-1_i386.deb", 
+    "pkg": "libfuzzy2", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libfuzzy2_2.12-1_i386.deb", 
+    "pkg": "libfuzzy2", 
+    "pkg_version": "2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "libfuzzy2-2.12-17.3.x86_64.rpm", 
+    "pkg": "libfuzzy2", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "libfuzzy2-2.12-17.1.x86_64.rpm", 
+    "pkg": "libfuzzy2", 
+    "pkg_version": "2.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "libfuzzy2-2.12-17.2.x86_64.rpm", 
+    "pkg": "libfuzzy2", 
+    "pkg_version": "2.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libfuzzy2_2.7-2ubuntu1_i386.deb", 
+    "pkg": "libfuzzy2", 
+    "pkg_version": "2.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libfuzzy2_2.7-2ubuntu1_i386.deb", 
+    "pkg": "libfuzzy2", 
+    "pkg_version": "2.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

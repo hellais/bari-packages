@@ -1,0 +1,352 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "moodle2.5-2.5.9.20141110-alt1.noarch.rpm", 
+    "pkg": "moodle", 
+    "pkg_version": "2.5", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "moodle-2.6.8-1.el6.noarch.rpm", 
+    "pkg": "moodle", 
+    "pkg_version": "2.6.8", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "NauLinux School", 
+    "pkg_full_name": "moodle-1.8.8-3.Nau5x.noarch.rpm", 
+    "pkg": "moodle", 
+    "pkg_version": "1.8.8", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "moodle_2.7.7+dfsg-2_all.deb", 
+    "pkg": "moodle", 
+    "pkg_version": "2.7.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "moodle-2.8.3-1.fc22.noarch.rpm", 
+    "pkg": "moodle", 
+    "pkg_version": "2.8.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "moodle-2.8.3-1.fc22.noarch.rpm", 
+    "pkg": "moodle", 
+    "pkg_version": "2.8.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "moodle-2.7.5-1.fc21.noarch.rpm", 
+    "pkg": "moodle", 
+    "pkg_version": "2.7.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "moodle-2.5.9-1.fc20.noarch.rpm", 
+    "pkg": "moodle", 
+    "pkg_version": "2.5.9", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "moodle-2.2-4-omv2013.0.noarch.rpm", 
+    "pkg": "moodle", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "moodle-2.2-3-omv2013.0.noarch.rpm", 
+    "pkg": "moodle", 
+    "pkg_version": "2.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "moodle-2.2-3-omv2013.0.noarch.rpm", 
+    "pkg": "moodle", 
+    "pkg_version": "2.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "moodle2_8-2.8.5-1.1.noarch.rpm", 
+    "pkg": "moodle2_8", 
+    "pkg_version": "2.8.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "moodle1-1.9.19-1.14.noarch.rpm", 
+    "pkg": "moodle1", 
+    "pkg_version": "1.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "moodle-2.0.2-1.1.noarch.rpm", 
+    "pkg": "moodle", 
+    "pkg_version": "2.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "moodle2-2.7.5-1.1.noarch.rpm", 
+    "pkg": "moodle2", 
+    "pkg_version": "2.7.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "moodle2_8-2.8.5-1.1.noarch.rpm", 
+    "pkg": "moodle2_8", 
+    "pkg_version": "2.8.5", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "moodle1-1.9.19-1.1.noarch.rpm", 
+    "pkg": "moodle1", 
+    "pkg_version": "1.9.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "moodle-2.0.2-1.1.noarch.rpm", 
+    "pkg": "moodle", 
+    "pkg_version": "2.0.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "moodle2-2.7.5-1.1.noarch.rpm", 
+    "pkg": "moodle2", 
+    "pkg_version": "2.7.5", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "moodle2_8-2.8.5-1.1.noarch.rpm", 
+    "pkg": "moodle2_8", 
+    "pkg_version": "2.8.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "moodle1-1.9.19-1.1.noarch.rpm", 
+    "pkg": "moodle1", 
+    "pkg_version": "1.9.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "moodle-2.0.2-1.1.noarch.rpm", 
+    "pkg": "moodle", 
+    "pkg_version": "2.0.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "moodle2-2.7.5-1.1.noarch.rpm", 
+    "pkg": "moodle2", 
+    "pkg_version": "2.7.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "moodle2_8-2.8.5-1.1.noarch.rpm", 
+    "pkg": "moodle2_8", 
+    "pkg_version": "2.8.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "moodle1-1.9.19-1.1.noarch.rpm", 
+    "pkg": "moodle1", 
+    "pkg_version": "1.9.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "moodle-2.2-5-rosa2014.1.noarch.rpm", 
+    "pkg": "moodle", 
+    "pkg_version": "2.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "moodle2-2.7.5-1.1.noarch.rpm", 
+    "pkg": "moodle2", 
+    "pkg_version": "2.7.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "moodle2_8-2.8.5-1.1.noarch.rpm", 
+    "pkg": "moodle2_8", 
+    "pkg_version": "2.8.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "moodle1-1.9.19-1.1.noarch.rpm", 
+    "pkg": "moodle1", 
+    "pkg_version": "1.9.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "moodle-2.2-4-rosa2012.1.noarch.rpm", 
+    "pkg": "moodle", 
+    "pkg_version": "2.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "moodle2-2.7.5-1.1.noarch.rpm", 
+    "pkg": "moodle2", 
+    "pkg_version": "2.7.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "moodle2_8-2.8.5-1.1.noarch.rpm", 
+    "pkg": "moodle2_8", 
+    "pkg_version": "2.8.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "moodle1-1.9.19-1.1.noarch.rpm", 
+    "pkg": "moodle1", 
+    "pkg_version": "1.9.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "moodle_2.6.3-1_all.deb", 
+    "pkg": "moodle", 
+    "pkg_version": "2.6.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "moodle2-2.7.5-1.1.noarch.rpm", 
+    "pkg": "moodle2", 
+    "pkg_version": "2.7.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "moodle2_8-2.8.5-1.1.noarch.rpm", 
+    "pkg": "moodle2_8", 
+    "pkg_version": "2.8.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "moodle1-1.9.19-1.1.noarch.rpm", 
+    "pkg": "moodle1", 
+    "pkg_version": "1.9.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "moodle_2.5.4-1ubuntu1_all.deb", 
+    "pkg": "moodle", 
+    "pkg_version": "2.5.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "moodle2-2.7.5-1.1.noarch.rpm", 
+    "pkg": "moodle2", 
+    "pkg_version": "2.7.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

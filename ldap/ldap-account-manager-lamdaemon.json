@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "ldap-account-manager-lamdaemon-2.9.0-0.el5.1.noarch.rpm", 
+    "pkg": "ldap-account-manager-lamdaemon", 
+    "pkg_version": "2.9.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ldap-account-manager-lamdaemon_4.7.1-1_all.deb", 
+    "pkg": "ldap-account-manager-lamdaemon", 
+    "pkg_version": "4.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ldap-account-manager-lamdaemon_4.7.1-1_all.deb", 
+    "pkg": "ldap-account-manager-lamdaemon", 
+    "pkg_version": "4.7.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ldap-account-manager-lamdaemon_3.7-2_all.deb", 
+    "pkg": "ldap-account-manager-lamdaemon", 
+    "pkg_version": "3.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ldap-account-manager-lamdaemon_4.6-1_all.deb", 
+    "pkg": "ldap-account-manager-lamdaemon", 
+    "pkg_version": "4.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ldap-account-manager-lamdaemon_4.4-1_all.deb", 
+    "pkg": "ldap-account-manager-lamdaemon", 
+    "pkg_version": "4.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

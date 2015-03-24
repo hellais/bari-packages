@@ -1,0 +1,162 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "latex2rtf-2.3.8-alt1.x86_64.rpm", 
+    "pkg": "latex2rtf", 
+    "pkg_version": "2.3.8", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "latex2rtf-2.3.8-1-x86_64.pkg.tar.xz", 
+    "pkg": "latex2rtf", 
+    "pkg_version": "2.3.8", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "latex2rtf-2.3.6-1.el6.x86_64.rpm", 
+    "pkg": "latex2rtf", 
+    "pkg_version": "2.3.6", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Nogin.org Random", 
+    "pkg_full_name": "latex2rtf-1.9.19-1.el5.i386.rpm", 
+    "pkg": "latex2rtf", 
+    "pkg_version": "1.9.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "latex2rtf_2.3.8-1_i386.deb", 
+    "pkg": "latex2rtf", 
+    "pkg_version": "2.3.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "latex2rtf_2.3.8-1_i386.deb", 
+    "pkg": "latex2rtf", 
+    "pkg_version": "2.3.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "latex2rtf_1.9.19-4.2_i386.deb", 
+    "pkg": "latex2rtf", 
+    "pkg_version": "1.9.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "latex2rtf-2.3.8-5.fc23.x86_64.rpm", 
+    "pkg": "latex2rtf", 
+    "pkg_version": "2.3.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "latex2rtf-2.3.8-5.fc22.x86_64.rpm", 
+    "pkg": "latex2rtf", 
+    "pkg_version": "2.3.8", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "latex2rtf-2.3.8-4.fc21.x86_64.rpm", 
+    "pkg": "latex2rtf", 
+    "pkg_version": "2.3.8", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "latex2rtf-2.3.6-1.fc20.x86_64.rpm", 
+    "pkg": "latex2rtf", 
+    "pkg_version": "2.3.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "latex2rtf-2.1.0-2-omv2013.0.x86_64.rpm", 
+    "pkg": "latex2rtf", 
+    "pkg_version": "2.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "latex2rtf-2.1.0-2-omv2013.0.x86_64.rpm", 
+    "pkg": "latex2rtf", 
+    "pkg_version": "2.1.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "latex2rtf-2.1.0-2-omv2013.0.x86_64.rpm", 
+    "pkg": "latex2rtf", 
+    "pkg_version": "2.1.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "latex2rtf-2.3.8-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "latex2rtf", 
+    "pkg_version": "2.3.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "latex2rtf-2.1.0-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "latex2rtf", 
+    "pkg_version": "2.1.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "latex2rtf_2.3.7a-0.1_i386.deb", 
+    "pkg": "latex2rtf", 
+    "pkg_version": "2.3.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "latex2rtf_2.3.5-0.1_i386.deb", 
+    "pkg": "latex2rtf", 
+    "pkg_version": "2.3.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

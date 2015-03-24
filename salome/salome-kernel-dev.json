@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "salome-kernel-dev_6.5.0-8.1+b1_i386.deb", 
+    "pkg": "salome-kernel-dev", 
+    "pkg_version": "6.5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "salome-kernel-dev_6.5.0-8ubuntu1_i386.deb", 
+    "pkg": "salome-kernel-dev", 
+    "pkg_version": "6.5.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gimp-plugin-registry_7.20140602+b1_i386.deb", 
+    "pkg": "gimp-plugin-registry", 
+    "pkg_version": "7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gimp-plugin-registry_7.20140602+b1_i386.deb", 
+    "pkg": "gimp-plugin-registry", 
+    "pkg_version": "7.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gimp-plugin-registry_5.20120621_i386.deb", 
+    "pkg": "gimp-plugin-registry", 
+    "pkg_version": "5.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gimp-plugin-registry_5.20120621ubuntu3_i386.deb", 
+    "pkg": "gimp-plugin-registry", 
+    "pkg_version": "5.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gimp-plugin-registry_5.20120621ubuntu3_i386.deb", 
+    "pkg": "gimp-plugin-registry", 
+    "pkg_version": "5.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

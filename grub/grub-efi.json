@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "grub-efi_2.02~beta2-22_i386.deb", 
+    "pkg": "grub-efi", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "grub-efi_2.02~beta2-21_i386.deb", 
+    "pkg": "grub-efi", 
+    "pkg_version": "2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "grub-efi_1.99-27+deb7u2_i386.deb", 
+    "pkg": "grub-efi", 
+    "pkg_version": "1.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "grub-efi-0.97-10-omv2015.0.x86_64.rpm", 
+    "pkg": "grub-efi", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "grub-efi-0.97-7-omv2014.0.x86_64.rpm", 
+    "pkg": "grub-efi", 
+    "pkg_version": "0.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "grub-efi-0.97-1-omv2013.0.x86_64.rpm", 
+    "pkg": "grub-efi", 
+    "pkg_version": "0.9", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "grub-efi-0.97-102-rosa2014.1.x86_64.rpm", 
+    "pkg": "grub-efi", 
+    "pkg_version": "0.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "grub-efi-0.97-94-rosa2012.1.x86_64.rpm", 
+    "pkg": "grub-efi", 
+    "pkg_version": "0.9", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "grub-efi_2.02~beta2-15_i386.deb", 
+    "pkg": "grub-efi", 
+    "pkg_version": "2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "grub-efi_2.02~beta2-9ubuntu1_i386.deb", 
+    "pkg": "grub-efi", 
+    "pkg_version": "2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

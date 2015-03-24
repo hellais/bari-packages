@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mythtv-status_0.10.6-1_all.deb", 
+    "pkg": "mythtv-status", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mythtv-status_0.10.6-1_all.deb", 
+    "pkg": "mythtv-status", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mythtv-status_0.10.2-3_all.deb", 
+    "pkg": "mythtv-status", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "mythtv-status-0.9.0-8.fc21.noarch.rpm", 
+    "pkg": "mythtv-status", 
+    "pkg_version": "0.9.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "mythtv-status-0.9.0-8.fc21.noarch.rpm", 
+    "pkg": "mythtv-status", 
+    "pkg_version": "0.9.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "mythtv-status-0.9.0-7.fc19.noarch.rpm", 
+    "pkg": "mythtv-status", 
+    "pkg_version": "0.9.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mythtv-status_0.10.4-1_all.deb", 
+    "pkg": "mythtv-status", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mythtv-status_0.10.4-1_all.deb", 
+    "pkg": "mythtv-status", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

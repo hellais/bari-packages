@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libstreambuffer-java_1.5.1-1_all.deb", 
+    "pkg": "libstreambuffer-java", 
+    "pkg_version": "1.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libstreambuffer-java_1.5.1-1_all.deb", 
+    "pkg": "libstreambuffer-java", 
+    "pkg_version": "1.5.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libstreambuffer-java_1.5.1-1_all.deb", 
+    "pkg": "libstreambuffer-java", 
+    "pkg_version": "1.5.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

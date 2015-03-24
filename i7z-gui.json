@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "i7z-gui_0.27.2+git2013.10.12-g5023138-2_i386.deb", 
+    "pkg": "i7z-gui", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "i7z-gui_0.27.2+git2013.10.12-g5023138-2_i386.deb", 
+    "pkg": "i7z-gui", 
+    "pkg_version": "0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "i7z-gui_0.27.2-2ubuntu1_i386.deb", 
+    "pkg": "i7z-gui", 
+    "pkg_version": "0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

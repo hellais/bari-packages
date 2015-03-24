@@ -1,0 +1,73 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libtiffxx5-4.0.3-alt1.x86_64.rpm", 
+    "pkg": "libtiffxx5", 
+    "pkg_version": "4.0.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtiffxx5_4.0.3-12.3_i386.deb", 
+    "pkg": "libtiffxx5", 
+    "pkg_version": "4.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtiffxx5_4.0.3-12.2_i386.deb", 
+    "pkg": "libtiffxx5", 
+    "pkg_version": "4.0.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "libtiffxx5_4.0.2-6+deb7u3_i386.deb", 
+    "pkg": "libtiffxx5", 
+    "pkg_version": "4.0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libtiffxx5-4.0.3-13-omv2015.0.i586.rpm", 
+    "pkg": "libtiffxx5", 
+    "pkg_version": "4.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libtiffxx5-4.0.3-7-omv2014.0.i586.rpm", 
+    "pkg": "libtiffxx5", 
+    "pkg_version": "4.0.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libtiffxx5-4.0.3-5-omv2013.0.i586.rpm", 
+    "pkg": "libtiffxx5", 
+    "pkg_version": "4.0.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libtiffxx5_4.0.3-10build1_i386.deb", 
+    "pkg": "libtiffxx5", 
+    "pkg_version": "4.0.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

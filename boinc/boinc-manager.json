@@ -1,0 +1,172 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "boinc-manager-7.4.42-alt1.1.x86_64.rpm", 
+    "pkg": "boinc-manager", 
+    "pkg_version": "7.4.4", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "boinc-manager-7.2.33-3.git1994cc8.el6.x86_64.rpm", 
+    "pkg": "boinc-manager", 
+    "pkg_version": "7.2.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "boinc-manager_7.4.23+dfsg-2_i386.deb", 
+    "pkg": "boinc-manager", 
+    "pkg_version": "7.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "boinc-manager_7.4.23+dfsg-1_i386.deb", 
+    "pkg": "boinc-manager", 
+    "pkg_version": "7.4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "boinc-manager_7.0.27+dfsg-5_i386.deb", 
+    "pkg": "boinc-manager", 
+    "pkg_version": "7.0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "boinc-manager-7.2.42-3.gitdd0d630.fc22.x86_64.rpm", 
+    "pkg": "boinc-manager", 
+    "pkg_version": "7.2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "boinc-manager-7.2.42-3.gitdd0d630.fc22.x86_64.rpm", 
+    "pkg": "boinc-manager", 
+    "pkg_version": "7.2.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "boinc-manager-7.2.42-3.gitdd0d630.fc21.x86_64.rpm", 
+    "pkg": "boinc-manager", 
+    "pkg_version": "7.2.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "boinc-manager-7.2.42-1.gitdd0d630.fc20.x86_64.rpm", 
+    "pkg": "boinc-manager", 
+    "pkg_version": "7.2.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "boinc-manager-7.2.42-3-omv2014.1.x86_64.rpm", 
+    "pkg": "boinc-manager", 
+    "pkg_version": "7.2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "boinc-manager-7.2.42-3-omv2014.0.x86_64.rpm", 
+    "pkg": "boinc-manager", 
+    "pkg_version": "7.2.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib Updates", 
+    "pkg_full_name": "boinc-manager-7.2.42-1-omv2013.0.x86_64.rpm", 
+    "pkg": "boinc-manager", 
+    "pkg_version": "7.2.4", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "boinc-manager-7.2.42-4.2.x86_64.rpm", 
+    "pkg": "boinc-manager", 
+    "pkg_version": "7.2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "boinc-manager-7.2.42-2.1.5.x86_64.rpm", 
+    "pkg": "boinc-manager", 
+    "pkg_version": "7.2.4", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "boinc-manager-6.12.43-6.8.1.x86_64.rpm", 
+    "pkg": "boinc-manager", 
+    "pkg_version": "6.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "boinc-manager-7.2.42-4-rosa2014.1.x86_64.rpm", 
+    "pkg": "boinc-manager", 
+    "pkg_version": "7.2.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "boinc-manager-7.2.42-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "boinc-manager", 
+    "pkg_version": "7.2.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "boinc-manager_7.4.8+dfsg-3ubuntu1_i386.deb", 
+    "pkg": "boinc-manager", 
+    "pkg_version": "7.4.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "boinc-manager_7.2.42+dfsg-1_i386.deb", 
+    "pkg": "boinc-manager", 
+    "pkg_version": "7.2.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

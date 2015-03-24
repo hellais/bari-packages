@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "autofs5-hesiod_5.0.8-2_all.deb", 
+    "pkg": "autofs5-hesiod", 
+    "pkg_version": "5.0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "autofs-hesiod_5.0.8-2_i386.deb", 
+    "pkg": "autofs-hesiod", 
+    "pkg_version": "5.0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "autofs5-hesiod_5.0.8-1_all.deb", 
+    "pkg": "autofs5-hesiod", 
+    "pkg_version": "5.0.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "autofs-hesiod_5.0.8-1_i386.deb", 
+    "pkg": "autofs-hesiod", 
+    "pkg_version": "5.0.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "autofs5-hesiod_5.0.7-3_all.deb", 
+    "pkg": "autofs5-hesiod", 
+    "pkg_version": "5.0.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "autofs-hesiod_5.0.7-3_i386.deb", 
+    "pkg": "autofs-hesiod", 
+    "pkg_version": "5.0.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "autofs5-hesiod_5.0.8-1ubuntu1_all.deb", 
+    "pkg": "autofs5-hesiod", 
+    "pkg_version": "5.0.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "autofs-hesiod_5.0.8-1ubuntu1_i386.deb", 
+    "pkg": "autofs-hesiod", 
+    "pkg_version": "5.0.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "autofs5-hesiod_5.0.7-3ubuntu3.1_all.deb", 
+    "pkg": "autofs5-hesiod", 
+    "pkg_version": "5.0.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "autofs-hesiod_5.0.7-3ubuntu3.1_i386.deb", 
+    "pkg": "autofs-hesiod", 
+    "pkg_version": "5.0.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

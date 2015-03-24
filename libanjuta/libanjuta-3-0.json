@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libanjuta-3-0_3.14.0-1_i386.deb", 
+    "pkg": "libanjuta-3-0", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libanjuta-3-0_3.14.0-1_i386.deb", 
+    "pkg": "libanjuta-3-0", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libanjuta-3-0_3.4.3-1_i386.deb", 
+    "pkg": "libanjuta-3-0", 
+    "pkg_version": "3.4.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libanjuta-3-0-3.14.1-1.2.x86_64.rpm", 
+    "pkg": "libanjuta-3-0", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libanjuta-3-0-3.14.0-1.4.x86_64.rpm", 
+    "pkg": "libanjuta-3-0", 
+    "pkg_version": "3.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "libanjuta-3-0-3.10.2-14.9.x86_64.rpm", 
+    "pkg": "libanjuta-3-0", 
+    "pkg_version": "3.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libanjuta-3-0_3.12.0-1_i386.deb", 
+    "pkg": "libanjuta-3-0", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libanjuta-3-0_3.10.2-0ubuntu2_i386.deb", 
+    "pkg": "libanjuta-3-0", 
+    "pkg_version": "3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

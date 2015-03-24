@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "phpunit-mock-object_2.2.1-2_all.deb", 
+    "pkg": "phpunit-mock-object", 
+    "pkg_version": "2.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "phpunit-mock-object_2.2.1-2_all.deb", 
+    "pkg": "phpunit-mock-object", 
+    "pkg_version": "2.2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "phpunit-mock-object_1.1.1-2_all.deb", 
+    "pkg": "phpunit-mock-object", 
+    "pkg_version": "1.1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "phpunit-mock-object_1.2.3-1_all.deb", 
+    "pkg": "phpunit-mock-object", 
+    "pkg_version": "1.2.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

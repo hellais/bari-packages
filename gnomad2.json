@@ -1,0 +1,154 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "gnomad2-2.9.6-alt1_10.x86_64.rpm", 
+    "pkg": "gnomad2", 
+    "pkg_version": "2.9.6", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnomad2_2.9.6-4_i386.deb", 
+    "pkg": "gnomad2", 
+    "pkg_version": "2.9.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnomad2_2.9.6-4_i386.deb", 
+    "pkg": "gnomad2", 
+    "pkg_version": "2.9.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnomad2_2.9.6-4_i386.deb", 
+    "pkg": "gnomad2", 
+    "pkg_version": "2.9.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnomad2-2.9.6-10.fc22.x86_64.rpm", 
+    "pkg": "gnomad2", 
+    "pkg_version": "2.9.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnomad2-2.9.6-10.fc22.x86_64.rpm", 
+    "pkg": "gnomad2", 
+    "pkg_version": "2.9.6", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnomad2-2.9.6-10.fc21.x86_64.rpm", 
+    "pkg": "gnomad2", 
+    "pkg_version": "2.9.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnomad2-2.9.6-7.fc20.x86_64.rpm", 
+    "pkg": "gnomad2", 
+    "pkg_version": "2.9.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "gnomad2-2.9.6-3-omv2015.0.x86_64.rpm", 
+    "pkg": "gnomad2", 
+    "pkg_version": "2.9.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "gnomad2-2.9.6-2-omv2013.0.x86_64.rpm", 
+    "pkg": "gnomad2", 
+    "pkg_version": "2.9.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "gnomad2-2.9.6-2-omv2013.0.x86_64.rpm", 
+    "pkg": "gnomad2", 
+    "pkg_version": "2.9.6", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "gnomad2-2.9.6-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "gnomad2", 
+    "pkg_version": "2.9.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "gnomad2-2.9.6-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "gnomad2", 
+    "pkg_version": "2.9.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "gnomad2-2.9.6-i486-2sl.txz", 
+    "pkg": "gnomad2", 
+    "pkg_version": "2.9.6", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "gnomad2-2.9.6-i486-1sl.txz", 
+    "pkg": "gnomad2", 
+    "pkg_version": "2.9.6", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnomad2_2.9.6-4_i386.deb", 
+    "pkg": "gnomad2", 
+    "pkg_version": "2.9.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnomad2_2.9.6-4_i386.deb", 
+    "pkg": "gnomad2", 
+    "pkg_version": "2.9.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

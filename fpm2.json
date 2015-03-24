@@ -1,0 +1,136 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "fpm2-0.79-alt1_10.x86_64.rpm", 
+    "pkg": "fpm2", 
+    "pkg_version": "0.7", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "fpm2-0.71-2.el5.x86_64.rpm", 
+    "pkg": "fpm2", 
+    "pkg_version": "0.7", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fpm2_0.79-3_i386.deb", 
+    "pkg": "fpm2", 
+    "pkg_version": "0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fpm2_0.79-3_i386.deb", 
+    "pkg": "fpm2", 
+    "pkg_version": "0.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fpm2_0.79-3_i386.deb", 
+    "pkg": "fpm2", 
+    "pkg_version": "0.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "fpm2-0.79-10.fc22.x86_64.rpm", 
+    "pkg": "fpm2", 
+    "pkg_version": "0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "fpm2-0.79-10.fc22.x86_64.rpm", 
+    "pkg": "fpm2", 
+    "pkg_version": "0.7", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "fpm2-0.79-10.fc21.x86_64.rpm", 
+    "pkg": "fpm2", 
+    "pkg_version": "0.7", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "fpm2-0.79-8.fc20.x86_64.rpm", 
+    "pkg": "fpm2", 
+    "pkg_version": "0.7", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "fpm2-0.79-5.11.x86_64.rpm", 
+    "pkg": "fpm2", 
+    "pkg_version": "0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "fpm2-0.79-5.10.x86_64.rpm", 
+    "pkg": "fpm2", 
+    "pkg_version": "0.7", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Freestylers", 
+    "pkg_full_name": "fpm2-0.79-x86_64-1_fs.tgz", 
+    "pkg": "fpm2", 
+    "pkg_version": "0.7", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "fpm2-0.79-i486-3sl.txz", 
+    "pkg": "fpm2", 
+    "pkg_version": "0.7", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "fpm2_0.79-3_i386.deb", 
+    "pkg": "fpm2", 
+    "pkg_version": "0.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "fpm2_0.79-3_i386.deb", 
+    "pkg": "fpm2", 
+    "pkg_version": "0.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "python-jdcal-1.0-1-any.pkg.tar.xz", 
+    "pkg": "python-jdcal", 
+    "pkg_version": "1.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python-jdcal_1.0-1~nd+1_all.deb", 
+    "pkg": "python-jdcal", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python-jdcal_1.0-1~nd80+1_all.deb", 
+    "pkg": "python-jdcal", 
+    "pkg_version": "1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python-jdcal_1.0-1~nd70+1_all.deb", 
+    "pkg": "python-jdcal", 
+    "pkg_version": "1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python-jdcal_1.0-1~nd14.04+1+nd14.10+1_all.deb", 
+    "pkg": "python-jdcal", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

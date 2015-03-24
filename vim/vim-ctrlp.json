@@ -1,0 +1,19 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "vim-ctrlp-1.79-2-any.pkg.tar.xz", 
+    "pkg": "vim-ctrlp", 
+    "pkg_version": "1.7", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-ctrlp_1.79+git20141013-1_all.deb", 
+    "pkg": "vim-ctrlp", 
+    "pkg_version": "1.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

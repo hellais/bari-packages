@@ -1,0 +1,91 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "screenfetch-3.6.5-1-any.pkg.tar.xz", 
+    "pkg": "screenfetch", 
+    "pkg_version": "3.6.5", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "screenfetch_3.6.5-2_all.deb", 
+    "pkg": "screenfetch", 
+    "pkg_version": "3.6.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "screenfetch_3.6.5-1_all.deb", 
+    "pkg": "screenfetch", 
+    "pkg_version": "3.6.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "screenfetch_3.6.2-1~bpo70+1_all.deb", 
+    "pkg": "screenfetch", 
+    "pkg_version": "3.6.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "screenfetch-3.6.5-1.20140929git0fb57330.fc23.noarch.rpm", 
+    "pkg": "screenfetch", 
+    "pkg_version": "3.6.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "screenfetch-3.6.2-7.20140914gitdec1cd6c.fc22.noarch.rpm", 
+    "pkg": "screenfetch", 
+    "pkg_version": "3.6.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "screenfetch-3.6.5-1.20140929git0fb57330.fc21.noarch.rpm", 
+    "pkg": "screenfetch", 
+    "pkg_version": "3.6.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "screenfetch-3.6.5-1.1.noarch.rpm", 
+    "pkg": "screenfetch", 
+    "pkg_version": "3.6.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "screenfetch-dev-3.6.5-1-rosa2014.1.noarch.rpm", 
+    "pkg": "screenfetch-dev", 
+    "pkg_version": "3.6.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "screenfetch-3.6.5-1.1.noarch.rpm", 
+    "pkg": "screenfetch", 
+    "pkg_version": "3.6.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

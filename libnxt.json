@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libnxt_0.3-2_i386.deb", 
+    "pkg": "libnxt", 
+    "pkg_version": "0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libnxt_0.3-2_i386.deb", 
+    "pkg": "libnxt", 
+    "pkg_version": "0.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "libnxt-0.3-10.fc22.x86_64.rpm", 
+    "pkg": "libnxt", 
+    "pkg_version": "0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "libnxt-0.3-10.fc22.x86_64.rpm", 
+    "pkg": "libnxt", 
+    "pkg_version": "0.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "libnxt-0.3-10.fc21.x86_64.rpm", 
+    "pkg": "libnxt", 
+    "pkg_version": "0.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "libnxt-0.3-8.fc20.x86_64.rpm", 
+    "pkg": "libnxt", 
+    "pkg_version": "0.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libnxt_0.3-2_i386.deb", 
+    "pkg": "libnxt", 
+    "pkg_version": "0.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

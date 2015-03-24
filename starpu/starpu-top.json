@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "starpu-top_1.1.3+dfsg-3_i386.deb", 
+    "pkg": "starpu-top", 
+    "pkg_version": "1.1.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "starpu-top_1.1.3+dfsg-3_i386.deb", 
+    "pkg": "starpu-top", 
+    "pkg_version": "1.1.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "starpu-top_1.0.1+dfsg-1_i386.deb", 
+    "pkg": "starpu-top", 
+    "pkg_version": "1.0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "starpu-top_1.1.2+dfsg-1build1_i386.deb", 
+    "pkg": "starpu-top", 
+    "pkg_version": "1.1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

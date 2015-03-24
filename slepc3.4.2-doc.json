@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "slepc3.4.2-doc_3.4.2.dfsg-2_all.deb", 
+    "pkg": "slepc", 
+    "pkg_version": "3.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "slepc3.4.2-doc_3.4.2.dfsg-2_all.deb", 
+    "pkg": "slepc", 
+    "pkg_version": "3.4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "slepc3.4.2-doc_3.4.2.dfsg-2_all.deb", 
+    "pkg": "slepc", 
+    "pkg_version": "3.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

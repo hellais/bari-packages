@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "birdfont_1.7-1_i386.deb", 
+    "pkg": "birdfont", 
+    "pkg_version": "1.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "birdfont-1.9.3-6.1.x86_64.rpm", 
+    "pkg": "birdfont", 
+    "pkg_version": "1.9.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "birdfont-1.9.3-6.1.x86_64.rpm", 
+    "pkg": "birdfont", 
+    "pkg_version": "1.9.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

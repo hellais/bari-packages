@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Russian Fedora Nonfree", 
+    "pkg_full_name": "psi-plus-sounds-0.15-0.1.20110924gita883f82.el6.R.noarch.rpm", 
+    "pkg": "psi-plus-sounds", 
+    "pkg_version": "0.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "psi-plus-sounds_0.16.330-1_all.deb", 
+    "pkg": "psi-plus-sounds", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "psi-plus-sounds_0.16.330-1_all.deb", 
+    "pkg": "psi-plus-sounds", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "psi-plus-sounds_0.15.5338-1_all.deb", 
+    "pkg": "psi-plus-sounds", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Russian Fedora Nonfree", 
+    "pkg_full_name": "psi-plus-sounds-0.16-0.1.20130124gita883f82.fc21.R.noarch.rpm", 
+    "pkg": "psi-plus-sounds", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Russian Fedora Nonfree", 
+    "pkg_full_name": "psi-plus-sounds-0.16-0.1.20130124gita883f82.fc21.R.noarch.rpm", 
+    "pkg": "psi-plus-sounds", 
+    "pkg_version": "0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Russian Fedora Nonfree", 
+    "pkg_full_name": "psi-plus-sounds-0.16-0.1.20130124gita883f82.fc20.R.noarch.rpm", 
+    "pkg": "psi-plus-sounds", 
+    "pkg_version": "0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "psi-plus-sounds_0.16.330-1_all.deb", 
+    "pkg": "psi-plus-sounds", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

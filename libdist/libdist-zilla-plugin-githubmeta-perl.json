@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libdist-zilla-plugin-githubmeta-perl_0.46-1_all.deb", 
+    "pkg": "libdist-zilla-plugin-githubmeta-perl", 
+    "pkg_version": "0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

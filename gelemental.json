@@ -1,0 +1,101 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gelemental_1.2.0-9_i386.deb", 
+    "pkg": "gelemental", 
+    "pkg_version": "1.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gelemental_1.2.0-9_i386.deb", 
+    "pkg": "gelemental", 
+    "pkg_version": "1.2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gelemental_1.2.0-8_i386.deb", 
+    "pkg": "gelemental", 
+    "pkg_version": "1.2.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "gelemental-1.2.0-10.1.x86_64.rpm", 
+    "pkg": "gelemental", 
+    "pkg_version": "1.2.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "gelemental-1.2.0-10.1.x86_64.rpm", 
+    "pkg": "gelemental", 
+    "pkg_version": "1.2.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "gelemental-1.2.0-5.45.x86_64.rpm", 
+    "pkg": "gelemental", 
+    "pkg_version": "1.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "gelemental-1.2.0-5.1.x86_64.rpm", 
+    "pkg": "gelemental", 
+    "pkg_version": "1.2.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "gelemental-1.2.0-5.1.x86_64.rpm", 
+    "pkg": "gelemental", 
+    "pkg_version": "1.2.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Freestylers", 
+    "pkg_full_name": "gelemental-1.2.0-x86_64-3_fs.tgz", 
+    "pkg": "gelemental", 
+    "pkg_version": "1.2.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gelemental_1.2.0-9ubuntu1_i386.deb", 
+    "pkg": "gelemental", 
+    "pkg_version": "1.2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gelemental_1.2.0-9ubuntu1_i386.deb", 
+    "pkg": "gelemental", 
+    "pkg_version": "1.2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

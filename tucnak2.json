@@ -1,0 +1,128 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tucnak2_2.48-2.2_i386.deb", 
+    "pkg": "tucnak2", 
+    "pkg_version": "2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tucnak2_2.48-2.2_i386.deb", 
+    "pkg": "tucnak2", 
+    "pkg_version": "2.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tucnak2_2.47-2+deb7u1_i386.deb", 
+    "pkg": "tucnak2", 
+    "pkg_version": "2.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "tucnak2-2.31-10.fc22.x86_64.rpm", 
+    "pkg": "tucnak2", 
+    "pkg_version": "2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "tucnak2-2.31-10.fc22.x86_64.rpm", 
+    "pkg": "tucnak2", 
+    "pkg_version": "2.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "tucnak2-2.31-10.fc21.x86_64.rpm", 
+    "pkg": "tucnak2", 
+    "pkg_version": "2.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "tucnak2-2.31-8.fc20.x86_64.rpm", 
+    "pkg": "tucnak2", 
+    "pkg_version": "2.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "tucnak2-2.48-1-omv2013.0.x86_64.rpm", 
+    "pkg": "tucnak2", 
+    "pkg_version": "2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "tucnak2-2.48-1-omv2013.0.x86_64.rpm", 
+    "pkg": "tucnak2", 
+    "pkg_version": "2.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "tucnak2-2.48-1-omv2013.0.x86_64.rpm", 
+    "pkg": "tucnak2", 
+    "pkg_version": "2.4", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "tucnak2-2.48-4-rosa2014.1.x86_64.rpm", 
+    "pkg": "tucnak2", 
+    "pkg_version": "2.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "tucnak2-2.48-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "tucnak2", 
+    "pkg_version": "2.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "tucnak2_2.48-2.2_i386.deb", 
+    "pkg": "tucnak2", 
+    "pkg_version": "2.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "tucnak2_2.48-2.2_i386.deb", 
+    "pkg": "tucnak2", 
+    "pkg_version": "2.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

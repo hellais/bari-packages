@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-django-guardian_1.2.4+git20141127-0.2_all.deb", 
+    "pkg": "python3-django-guardian", 
+    "pkg_version": "1.2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-django-guardian_1.2.4+git20141127-0.2_all.deb", 
+    "pkg": "python3-django-guardian", 
+    "pkg_version": "1.2.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

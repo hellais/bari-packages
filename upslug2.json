@@ -1,0 +1,91 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "upslug2-0.0-alt1_0.12.20071107.svn39.x86_64.rpm", 
+    "pkg": "upslug2", 
+    "pkg_version": "0.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "upslug2-0.0-alt1_0.12.20071107.svn39.x86_64.rpm", 
+    "pkg": "upslug2", 
+    "pkg_version": "0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "upslug2-0.0-alt1_0.12.20071107.svn39.x86_64.rpm", 
+    "pkg": "upslug2", 
+    "pkg_version": "0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "upslug2-0.0-alt1_0.12.20071107.svn39.x86_64.rpm", 
+    "pkg": "upslug2", 
+    "pkg_version": "0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "upslug2-0.0-0.12.20071107.svn39.fc22.x86_64.rpm", 
+    "pkg": "upslug2", 
+    "pkg_version": "0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "upslug2-0.0-0.12.20071107.svn39.fc22.x86_64.rpm", 
+    "pkg": "upslug2", 
+    "pkg_version": "0.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "upslug2-0.0-0.12.20071107.svn39.fc21.x86_64.rpm", 
+    "pkg": "upslug2", 
+    "pkg_version": "0.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "upslug2-0.0-0.10.20071107.svn39.fc20.x86_64.rpm", 
+    "pkg": "upslug2", 
+    "pkg_version": "0.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "upslug2-0.0-0.10.20071107.svn39.fc20.x86_64.rpm", 
+    "pkg": "upslug2", 
+    "pkg_version": "0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "upslug2-0.0-0.10.20071107.svn39.fc20.x86_64.rpm", 
+    "pkg": "upslug2", 
+    "pkg_version": "0.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

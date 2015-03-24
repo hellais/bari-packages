@@ -1,0 +1,28 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "slurm-master-14.03.4.2-alt1.x86_64.rpm", 
+    "pkg": "slurm-master-1", 
+    "pkg_version": "4.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "slurm-master-14.03.4.2-alt1.x86_64.rpm", 
+    "pkg": "slurm-master-1", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "slurmctld_14.03.9-5_i386.deb", 
+    "pkg": "slurmctld_1", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

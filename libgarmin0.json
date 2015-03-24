@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "libgarmin0-0-0.1.20090212svn.1-rosa.lts2012.0.i586.rpm", 
+    "pkg": "libgarmin0-0", 
+    "pkg_version": "0.1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "libgarmin0-0.1-0.0.svn320.2.mga4.i586.rpm", 
+    "pkg": "libgarmin0", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "libgarmin0-0-0.1.20090212svn.1-rosa.lts2012.0.i586.rpm", 
+    "pkg": "libgarmin0-0", 
+    "pkg_version": "0.1.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "libgarmin0-0.1-0.0.svn320.2.mga4.i586.rpm", 
+    "pkg": "libgarmin0", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

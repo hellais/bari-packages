@@ -1,0 +1,200 @@
+[
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "python3-pip-1.3.1-4.el7.nux.noarch.rpm", 
+    "pkg": "python3-pip", 
+    "pkg_version": "1.3.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-pip_1.5.6-5_all.deb", 
+    "pkg": "python3-pip", 
+    "pkg_version": "1.5.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-pip_1.5.6-5_all.deb", 
+    "pkg": "python3-pip", 
+    "pkg_version": "1.5.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-pip_1.1-3_all.deb", 
+    "pkg": "python3-pip", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-pip-6.0.8-1.fc23.noarch.rpm", 
+    "pkg": "python3-pip", 
+    "pkg_version": "6.0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-pip-1.5.6-4.fc22.noarch.rpm", 
+    "pkg": "python3-pip", 
+    "pkg_version": "1.5.6", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python3-pip-1.5.6-3.fc21.noarch.rpm", 
+    "pkg": "python3-pip", 
+    "pkg_version": "1.5.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-pip-1.4.1-1.fc20.noarch.rpm", 
+    "pkg": "python3-pip", 
+    "pkg_version": "1.4.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-pip-1.5.6-3-omv2015.0.noarch.rpm", 
+    "pkg": "python-pip", 
+    "pkg_version": "1.5.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core Updates", 
+    "pkg_full_name": "python3-pip-1.4.1-4.2.mga4.noarch.rpm", 
+    "pkg": "python3-pip", 
+    "pkg_version": "1.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-pip-1.5.6-3-omv2015.0.noarch.rpm", 
+    "pkg": "python-pip", 
+    "pkg_version": "1.5.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python3-pip-6.0.8-1.1.noarch.rpm", 
+    "pkg": "python3-pip", 
+    "pkg_version": "6.0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-pip-1.5.6-3-omv2015.0.noarch.rpm", 
+    "pkg": "python-pip", 
+    "pkg_version": "1.5.6", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python3-pip-1.5.6-2.1.3.noarch.rpm", 
+    "pkg": "python3-pip", 
+    "pkg_version": "1.5.6", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-pip-1.5.6-3-omv2015.0.noarch.rpm", 
+    "pkg": "python-pip", 
+    "pkg_version": "1.5.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "python3-pip-1.4.1-3.5.1.noarch.rpm", 
+    "pkg": "python3-pip", 
+    "pkg_version": "1.4.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-pip-1.5.6-3-omv2015.0.noarch.rpm", 
+    "pkg": "python-pip", 
+    "pkg_version": "1.5.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "python3-pip-1.5.6-3-rosa2014.1.noarch.rpm", 
+    "pkg": "python3-pip", 
+    "pkg_version": "1.5.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-pip-1.5.6-3-omv2015.0.noarch.rpm", 
+    "pkg": "python-pip", 
+    "pkg_version": "1.5.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "python3-pip-1.4.1-1-rosa2012.1.noarch.rpm", 
+    "pkg": "python3-pip", 
+    "pkg_version": "1.4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-pip-1.5.6-3-omv2015.0.noarch.rpm", 
+    "pkg": "python-pip", 
+    "pkg_version": "1.5.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python3-pip_1.5.6-2_all.deb", 
+    "pkg": "python3-pip", 
+    "pkg_version": "1.5.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

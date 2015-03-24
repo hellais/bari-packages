@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dict-freedict-ckb-kmr_2014.10.22-2_all.deb", 
+    "pkg": "dict-freedict-ckb-kmr_201", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dict-freedict-ckb-kmr_2014.10.22-2_all.deb", 
+    "pkg": "dict-freedict-ckb-kmr_201", 
+    "pkg_version": "4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "dict-freedict-ckb-kmr_2014.02.17-1_all.deb", 
+    "pkg": "dict-freedict-ckb-kmr_201", 
+    "pkg_version": "4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

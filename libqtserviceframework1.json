@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libqtserviceframework1_1.2.0-3+b1_i386.deb", 
+    "pkg": "libqtserviceframework1", 
+    "pkg_version": "1.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libqtserviceframework1_1.2.0-3+b1_i386.deb", 
+    "pkg": "libqtserviceframework1", 
+    "pkg_version": "1.2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libqtserviceframework1_1.2.0-3_i386.deb", 
+    "pkg": "libqtserviceframework1", 
+    "pkg_version": "1.2.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libqtserviceframework1-1.2.0-11-omv2015.0.i586.rpm", 
+    "pkg": "libqtserviceframework1", 
+    "pkg_version": "1.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libqtserviceframework1-1.2.0-5-omv2014.0.i586.rpm", 
+    "pkg": "libqtserviceframework1", 
+    "pkg_version": "1.2.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libqtserviceframework1-1.2.0-4-omv2013.0.i586.rpm", 
+    "pkg": "libqtserviceframework1", 
+    "pkg_version": "1.2.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libqtserviceframework1-1.2.0-5-rosa2014.1.i586.rpm", 
+    "pkg": "libqtserviceframework1", 
+    "pkg_version": "1.2.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "libqtserviceframework1-1.2.0-4-rosa2012.1.i586.rpm", 
+    "pkg": "libqtserviceframework1", 
+    "pkg_version": "1.2.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libqtserviceframework1_1.2.0-3ubuntu5_i386.deb", 
+    "pkg": "libqtserviceframework1", 
+    "pkg_version": "1.2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libqtserviceframework1_1.2.0-3ubuntu5_i386.deb", 
+    "pkg": "libqtserviceframework1", 
+    "pkg_version": "1.2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

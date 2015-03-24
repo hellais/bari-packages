@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mate-system-tools_1.8.1+dfsg1-2_i386.deb", 
+    "pkg": "mate-system-tools", 
+    "pkg_version": "1.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mate-system-tools_1.8.1+dfsg1-2_i386.deb", 
+    "pkg": "mate-system-tools", 
+    "pkg_version": "1.8.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "mate-system-tools-1.8.1-1-omv2015.0.x86_64.rpm", 
+    "pkg": "mate-system-tools", 
+    "pkg_version": "1.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "mate-system-tools-1.8.0-1-omv2014.0.x86_64.rpm", 
+    "pkg": "mate-system-tools", 
+    "pkg_version": "1.8.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "mate-system-tools-1.8.0-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "mate-system-tools", 
+    "pkg_version": "1.8.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

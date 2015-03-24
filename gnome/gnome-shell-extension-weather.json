@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "gnome-shell-extension-weather-0-0.14.git7587e23.fc21.noarch.rpm", 
+    "pkg": "gnome-shell-extension-weather-0", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "gnome-shell-extension-weather-0-0.14.git7587e23.fc21.noarch.rpm", 
+    "pkg": "gnome-shell-extension-weather-0", 
+    "pkg_version": "0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "gnome-shell-extension-weather-0-0.13.git7587e23.fc20.noarch.rpm", 
+    "pkg": "gnome-shell-extension-weather-0", 
+    "pkg_version": "0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "gnome-shell-extension-weather-0-0.13.git7587e23.fc20.noarch.rpm", 
+    "pkg": "gnome-shell-extension-weather-0", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

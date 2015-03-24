@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "freeradius-iodbc_2.2.5+dfsg-0.2_i386.deb", 
+    "pkg": "freeradius-iodbc", 
+    "pkg_version": "2.2.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "freeradius-iodbc_2.2.5+dfsg-0.2_i386.deb", 
+    "pkg": "freeradius-iodbc", 
+    "pkg_version": "2.2.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "freeradius-iodbc_2.1.12+dfsg-1.2_i386.deb", 
+    "pkg": "freeradius-iodbc", 
+    "pkg_version": "2.1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "freeradius-iodbc_2.1.12+dfsg-1.3ubuntu2_i386.deb", 
+    "pkg": "freeradius-iodbc", 
+    "pkg_version": "2.1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "freeradius-iodbc_2.1.12+dfsg-1.2ubuntu8_i386.deb", 
+    "pkg": "freeradius-iodbc", 
+    "pkg_version": "2.1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

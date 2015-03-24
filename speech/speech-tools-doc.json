@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "speech-tools-doc_2.1~release-8_all.deb", 
+    "pkg": "speech-tools-doc", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "speech-tools-doc_2.1~release-8_all.deb", 
+    "pkg": "speech-tools-doc", 
+    "pkg_version": "2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "speech-tools-doc_1.4.2-8_all.deb", 
+    "pkg": "speech-tools-doc", 
+    "pkg_version": "1.4.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "speech-tools-doc_2.1~release-7_all.deb", 
+    "pkg": "speech-tools-doc", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "speech-tools-doc_1.4.2-8_all.deb", 
+    "pkg": "speech-tools-doc", 
+    "pkg_version": "1.4.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

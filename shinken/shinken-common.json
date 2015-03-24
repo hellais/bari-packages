@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "shinken-common_2.0.3-4_all.deb", 
+    "pkg": "shinken-common", 
+    "pkg_version": "2.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "shinken-common_2.0.3-4_all.deb", 
+    "pkg": "shinken-common", 
+    "pkg_version": "2.0.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "shinken-common_1.4.2-3_i386.deb", 
+    "pkg": "shinken-common", 
+    "pkg_version": "1.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tvnamer_2.3-1_all.deb", 
+    "pkg": "tvnamer", 
+    "pkg_version": "2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tvnamer_2.3-1_all.deb", 
+    "pkg": "tvnamer", 
+    "pkg_version": "2.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tvnamer_2.2.1-1_all.deb", 
+    "pkg": "tvnamer", 
+    "pkg_version": "2.2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "tvnamer-2.2.1-1.12.x86_64.rpm", 
+    "pkg": "tvnamer", 
+    "pkg_version": "2.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "tvnamer-2.2.1-1.3.x86_64.rpm", 
+    "pkg": "tvnamer", 
+    "pkg_version": "2.2.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "tvnamer_2.2.1-1_all.deb", 
+    "pkg": "tvnamer", 
+    "pkg_version": "2.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

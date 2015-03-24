@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-compass-core_1.0.1~dfsg-3_all.deb", 
+    "pkg": "ruby-compass-core", 
+    "pkg_version": "1.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

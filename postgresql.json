@@ -1,0 +1,576 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "postgresql9.4-9.4.1-alt1.x86_64.rpm", 
+    "pkg": "postgresql", 
+    "pkg_version": "9.4", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "postgresql-9.4.1-1-x86_64.pkg.tar.xz", 
+    "pkg": "postgresql", 
+    "pkg_version": "9.4.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "postgresql-9.2.7-1.el7.x86_64.rpm", 
+    "pkg": "postgresql", 
+    "pkg_version": "9.2.7", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "postgresql-8.4.20-1.el6_5.x86_64.rpm", 
+    "pkg": "postgresql", 
+    "pkg_version": "8.4.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "postgresql-8.1.23-10.el5_10.x86_64.rpm", 
+    "pkg": "postgresql", 
+    "pkg_version": "8.1.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "postgresql84-8.4.20-1.el5_10.x86_64.rpm", 
+    "pkg": "postgresql84", 
+    "pkg_version": "8.4.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "postgresql_9.4+166_all.deb", 
+    "pkg": "postgresql", 
+    "pkg_version": "9.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "postgresql84-8.4.20-1.el5_10.x86_64.rpm", 
+    "pkg": "postgresql84", 
+    "pkg_version": "8.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "postgresql_9.4+165_all.deb", 
+    "pkg": "postgresql", 
+    "pkg_version": "9.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "postgresql84-8.4.20-1.el5_10.x86_64.rpm", 
+    "pkg": "postgresql84", 
+    "pkg_version": "8.4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "postgresql_9.1+134wheezy4_all.deb", 
+    "pkg": "postgresql", 
+    "pkg_version": "9.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "postgresql84-8.4.20-1.el5_10.x86_64.rpm", 
+    "pkg": "postgresql84", 
+    "pkg_version": "8.4.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "postgresql-9.4.1-1.fc22.x86_64.rpm", 
+    "pkg": "postgresql", 
+    "pkg_version": "9.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "postgresql84-8.4.20-1.el5_10.x86_64.rpm", 
+    "pkg": "postgresql84", 
+    "pkg_version": "8.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "postgresql-9.4.1-1.fc22.x86_64.rpm", 
+    "pkg": "postgresql", 
+    "pkg_version": "9.4.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "postgresql84-8.4.20-1.el5_10.x86_64.rpm", 
+    "pkg": "postgresql84", 
+    "pkg_version": "8.4.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "postgresql-9.3.6-1.fc21.x86_64.rpm", 
+    "pkg": "postgresql", 
+    "pkg_version": "9.3.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "postgresql84-8.4.20-1.el5_10.x86_64.rpm", 
+    "pkg": "postgresql84", 
+    "pkg_version": "8.4.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "postgresql-9.3.6-1.fc20.x86_64.rpm", 
+    "pkg": "postgresql", 
+    "pkg_version": "9.3.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CERT Forensics Tools", 
+    "pkg_full_name": "postgresql93-9.3.0-1PGDG.fc20.x86_64.rpm", 
+    "pkg": "postgresql93", 
+    "pkg_version": "9.3.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "postgresql84-8.4.20-1.el5_10.x86_64.rpm", 
+    "pkg": "postgresql84", 
+    "pkg_version": "8.4.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "postgresql-9.4.0-1-omv2015.0.x86_64.rpm", 
+    "pkg": "postgresql", 
+    "pkg_version": "9.4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CERT Forensics Tools", 
+    "pkg_full_name": "postgresql93-9.3.0-1PGDG.fc20.x86_64.rpm", 
+    "pkg": "postgresql93", 
+    "pkg_version": "9.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "postgresql84-8.4.20-1.el5_10.x86_64.rpm", 
+    "pkg": "postgresql84", 
+    "pkg_version": "8.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "postgresql-9.3.5-1-omv2014.0.x86_64.rpm", 
+    "pkg": "postgresql", 
+    "pkg_version": "9.3.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CERT Forensics Tools", 
+    "pkg_full_name": "postgresql93-9.3.0-1PGDG.fc20.x86_64.rpm", 
+    "pkg": "postgresql93", 
+    "pkg_version": "9.3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "postgresql84-8.4.20-1.el5_10.x86_64.rpm", 
+    "pkg": "postgresql84", 
+    "pkg_version": "8.4.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "postgresql-9.2.3-7-omv2013.0.x86_64.rpm", 
+    "pkg": "postgresql", 
+    "pkg_version": "9.2.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CERT Forensics Tools", 
+    "pkg_full_name": "postgresql93-9.3.0-1PGDG.fc20.x86_64.rpm", 
+    "pkg": "postgresql93", 
+    "pkg_version": "9.3.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "postgresql84-8.4.20-1.el5_10.x86_64.rpm", 
+    "pkg": "postgresql84", 
+    "pkg_version": "8.4.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "postgresql-9.3-4.1.noarch.rpm", 
+    "pkg": "postgresql", 
+    "pkg_version": "9.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "postgresql93-9.3.5-3.2.x86_64.rpm", 
+    "pkg": "postgresql93", 
+    "pkg_version": "9.3.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "postgresql84-8.4.20-1.el5_10.x86_64.rpm", 
+    "pkg": "postgresql84", 
+    "pkg_version": "8.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "postgresql-9.3-3.1.2.noarch.rpm", 
+    "pkg": "postgresql", 
+    "pkg_version": "9.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "postgresql93-9.3.6-2.4.1.x86_64.rpm", 
+    "pkg": "postgresql93", 
+    "pkg_version": "9.3.6", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "postgresql84-8.4.20-1.el5_10.x86_64.rpm", 
+    "pkg": "postgresql84", 
+    "pkg_version": "8.4.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "postgresql-9.2-4.1.2.noarch.rpm", 
+    "pkg": "postgresql", 
+    "pkg_version": "9.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "postgresql93-9.3.6-2.4.1.x86_64.rpm", 
+    "pkg": "postgresql93", 
+    "pkg_version": "9.3.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "postgresql84-8.4.20-1.el5_10.x86_64.rpm", 
+    "pkg": "postgresql84", 
+    "pkg_version": "8.4.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "postgresql92-9.2.7-4.4.1.x86_64.rpm", 
+    "pkg": "postgresql92", 
+    "pkg_version": "9.2.7", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "postgresql-9.3.3-12-rosa2014.1.x86_64.rpm", 
+    "pkg": "postgresql", 
+    "pkg_version": "9.3.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "postgresql93-9.3.6-2.4.1.x86_64.rpm", 
+    "pkg": "postgresql93", 
+    "pkg_version": "9.3.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "postgresql84-8.4.20-1.el5_10.x86_64.rpm", 
+    "pkg": "postgresql84", 
+    "pkg_version": "8.4.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "postgresql92-9.2.7-4.4.1.x86_64.rpm", 
+    "pkg": "postgresql92", 
+    "pkg_version": "9.2.7", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "postgresql-9.3.3-11-rosa2012.1.x86_64.rpm", 
+    "pkg": "postgresql", 
+    "pkg_version": "9.3.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "postgresql93-9.3.6-2.4.1.x86_64.rpm", 
+    "pkg": "postgresql93", 
+    "pkg_version": "9.3.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "postgresql84-8.4.20-1.el5_10.x86_64.rpm", 
+    "pkg": "postgresql84", 
+    "pkg_version": "8.4.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "postgresql92-9.2.7-4.4.1.x86_64.rpm", 
+    "pkg": "postgresql92", 
+    "pkg_version": "9.2.7", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "postgresql-9.2.3-x86_64-3sl.txz", 
+    "pkg": "postgresql", 
+    "pkg_version": "9.2.3", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "postgresql93-9.3.6-2.4.1.x86_64.rpm", 
+    "pkg": "postgresql93", 
+    "pkg_version": "9.3.6", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "postgresql84-8.4.20-1.el5_10.x86_64.rpm", 
+    "pkg": "postgresql84", 
+    "pkg_version": "8.4.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "postgresql92-9.2.7-4.4.1.x86_64.rpm", 
+    "pkg": "postgresql92", 
+    "pkg_version": "9.2.7", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "postgresql-9.1.2-x86_64-1sl.txz", 
+    "pkg": "postgresql", 
+    "pkg_version": "9.1.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "postgresql93-9.3.6-2.4.1.x86_64.rpm", 
+    "pkg": "postgresql93", 
+    "pkg_version": "9.3.6", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "postgresql84-8.4.20-1.el5_10.x86_64.rpm", 
+    "pkg": "postgresql84", 
+    "pkg_version": "8.4.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "postgresql92-9.2.7-4.4.1.x86_64.rpm", 
+    "pkg": "postgresql92", 
+    "pkg_version": "9.2.7", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "postgresql_9.4+162_all.deb", 
+    "pkg": "postgresql", 
+    "pkg_version": "9.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "postgresql93-9.3.6-2.4.1.x86_64.rpm", 
+    "pkg": "postgresql93", 
+    "pkg_version": "9.3.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "postgresql84-8.4.20-1.el5_10.x86_64.rpm", 
+    "pkg": "postgresql84", 
+    "pkg_version": "8.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "postgresql92-9.2.7-4.4.1.x86_64.rpm", 
+    "pkg": "postgresql92", 
+    "pkg_version": "9.2.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Proposed Main", 
+    "pkg_full_name": "postgresql_9.3+154ubuntu1_all.deb", 
+    "pkg": "postgresql", 
+    "pkg_version": "9.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "postgresql93-9.3.6-2.4.1.x86_64.rpm", 
+    "pkg": "postgresql93", 
+    "pkg_version": "9.3.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "postgresql84-8.4.20-1.el5_10.x86_64.rpm", 
+    "pkg": "postgresql84", 
+    "pkg_version": "8.4.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "postgresql92-9.2.7-4.4.1.x86_64.rpm", 
+    "pkg": "postgresql92", 
+    "pkg_version": "9.2.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

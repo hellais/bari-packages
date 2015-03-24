@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "netdiscover_0.3beta6+20080409-5.1_i386.deb", 
+    "pkg": "netdiscover", 
+    "pkg_version": "0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "netdiscover_0.3beta6+20080409-5.1_i386.deb", 
+    "pkg": "netdiscover", 
+    "pkg_version": "0.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "netdiscover_0.3beta6+20080409-5_i386.deb", 
+    "pkg": "netdiscover", 
+    "pkg_version": "0.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "netdiscover-0.3-0.beta7.5-rosa2014.1.x86_64.rpm", 
+    "pkg": "netdiscover", 
+    "pkg_version": "0.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "netdiscover-0.3-0.beta7.5-rosa2012.1.x86_64.rpm", 
+    "pkg": "netdiscover", 
+    "pkg_version": "0.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "netdiscover_0.3beta6+20080409-5.1_i386.deb", 
+    "pkg": "netdiscover", 
+    "pkg_version": "0.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "netdiscover_0.3beta6+20080409-5.1_i386.deb", 
+    "pkg": "netdiscover", 
+    "pkg_version": "0.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,857 @@
+[
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "usbutils-0.71-2.1.x86_64.rpm", 
+    "pkg": "usbutils", 
+    "pkg_version": "0.7", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "usbutils-0.71-2.1.x86_64.rpm", 
+    "pkg": "usbutils", 
+    "pkg_version": "0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "usbutils-0.71-2.1.x86_64.rpm", 
+    "pkg": "usbutils", 
+    "pkg_version": "0.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "usbutils-0.71-2.1.x86_64.rpm", 
+    "pkg": "usbutils", 
+    "pkg_version": "0.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "usbutils-0.71-2.1.x86_64.rpm", 
+    "pkg": "usbutils", 
+    "pkg_version": "0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "usbutils-0.71-2.1.x86_64.rpm", 
+    "pkg": "usbutils", 
+    "pkg_version": "0.7", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "usbutils-0.71-2.1.x86_64.rpm", 
+    "pkg": "usbutils", 
+    "pkg_version": "0.7", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "usbutils-0.71-2.1.x86_64.rpm", 
+    "pkg": "usbutils", 
+    "pkg_version": "0.7", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "usbutils-008-2-omv2015.0.x86_64.rpm", 
+    "pkg": "usbutils-008-2-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "usbutils-0.71-2.1.x86_64.rpm", 
+    "pkg": "usbutils", 
+    "pkg_version": "0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "usbutils-008-2-omv2015.0.x86_64.rpm", 
+    "pkg": "usbutils-008-2-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "usbutils-0.71-2.1.x86_64.rpm", 
+    "pkg": "usbutils", 
+    "pkg_version": "0.7", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "usbutils-007-2-omv2014.0.x86_64.rpm", 
+    "pkg": "usbutils-007-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "usbutils-007-1-omv2013.0.x86_64.rpm", 
+    "pkg": "usbutils-007-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "usbutils-008-2-omv2015.0.x86_64.rpm", 
+    "pkg": "usbutils-008-2-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "usbutils-0.71-2.1.x86_64.rpm", 
+    "pkg": "usbutils", 
+    "pkg_version": "0.7", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "usbutils-007-2-omv2014.0.x86_64.rpm", 
+    "pkg": "usbutils-007-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "usbutils-007-1-omv2013.0.x86_64.rpm", 
+    "pkg": "usbutils-007-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "usbutils-008-2.2.x86_64.rpm", 
+    "pkg": "usbutils-008", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "usbutils-008-2-omv2015.0.x86_64.rpm", 
+    "pkg": "usbutils-008-2-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "usbutils-0.71-2.1.x86_64.rpm", 
+    "pkg": "usbutils", 
+    "pkg_version": "0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "usbutils-007-2-omv2014.0.x86_64.rpm", 
+    "pkg": "usbutils-007-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "usbutils-007-1-omv2013.0.x86_64.rpm", 
+    "pkg": "usbutils-007-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "usbutils-008-2.2.x86_64.rpm", 
+    "pkg": "usbutils-008", 
+    "pkg_version": "2.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "usbutils-0.71-2.1.x86_64.rpm", 
+    "pkg": "usbutils", 
+    "pkg_version": "0.7", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "usbutils-007-4.1.2.x86_64.rpm", 
+    "pkg": "usbutils-007", 
+    "pkg_version": "4.1.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "usbutils-008-2-omv2015.0.x86_64.rpm", 
+    "pkg": "usbutils-008-2-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "usbutils-007-2-omv2014.0.x86_64.rpm", 
+    "pkg": "usbutils-007-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "usbutils-007-1-omv2013.0.x86_64.rpm", 
+    "pkg": "usbutils-007-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "usbutils-008-2.2.x86_64.rpm", 
+    "pkg": "usbutils-008", 
+    "pkg_version": "2.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "usbutils-0.71-2.1.x86_64.rpm", 
+    "pkg": "usbutils", 
+    "pkg_version": "0.7", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "usbutils-007-2.1.2.i586.rpm", 
+    "pkg": "usbutils-007", 
+    "pkg_version": "2.1.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "usbutils-008-2-omv2015.0.x86_64.rpm", 
+    "pkg": "usbutils-008-2-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "usbutils-007-2-omv2014.0.x86_64.rpm", 
+    "pkg": "usbutils-007-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "usbutils-007-1-omv2013.0.x86_64.rpm", 
+    "pkg": "usbutils-007-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "usbutils-008-2.2.x86_64.rpm", 
+    "pkg": "usbutils-008", 
+    "pkg_version": "2.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "usbutils-007-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "usbutils-007-2-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "usbutils-0.71-2.1.x86_64.rpm", 
+    "pkg": "usbutils", 
+    "pkg_version": "0.7", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "usbutils-007-2.1.2.i586.rpm", 
+    "pkg": "usbutils-007", 
+    "pkg_version": "2.1.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "usbutils-008-2-omv2015.0.x86_64.rpm", 
+    "pkg": "usbutils-008-2-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "usbutils-007-2-omv2014.0.x86_64.rpm", 
+    "pkg": "usbutils-007-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "usbutils-007-1-omv2013.0.x86_64.rpm", 
+    "pkg": "usbutils-007-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "usbutils-008-2.2.x86_64.rpm", 
+    "pkg": "usbutils-008", 
+    "pkg_version": "2.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "usbutils-007-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "usbutils-007-2-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "usbutils-007-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "usbutils-007-1-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "usbutils-0.71-2.1.x86_64.rpm", 
+    "pkg": "usbutils", 
+    "pkg_version": "0.7", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "usbutils-007-2.1.2.i586.rpm", 
+    "pkg": "usbutils-007", 
+    "pkg_version": "2.1.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "usbutils-006-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "usbutils-006-1-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "usbutils-008-2-omv2015.0.x86_64.rpm", 
+    "pkg": "usbutils-008-2-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "usbutils-007-2-omv2014.0.x86_64.rpm", 
+    "pkg": "usbutils-007-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "usbutils-007-1-omv2013.0.x86_64.rpm", 
+    "pkg": "usbutils-007-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "usbutils-008-2.2.x86_64.rpm", 
+    "pkg": "usbutils-008", 
+    "pkg_version": "2.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "usbutils-007-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "usbutils-007-2-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "usbutils-007-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "usbutils-007-1-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "usbutils-0.91-3-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "usbutils", 
+    "pkg_version": "0.9", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "usbutils-007-2.1.2.i586.rpm", 
+    "pkg": "usbutils-007", 
+    "pkg_version": "2.1.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "usbutils-006-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "usbutils-006-1-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "usbutils-008-2-omv2015.0.x86_64.rpm", 
+    "pkg": "usbutils-008-2-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "usbutils-007-2-omv2014.0.x86_64.rpm", 
+    "pkg": "usbutils-007-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "usbutils-007-1-omv2013.0.x86_64.rpm", 
+    "pkg": "usbutils-007-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "usbutils-008-2.2.x86_64.rpm", 
+    "pkg": "usbutils-008", 
+    "pkg_version": "2.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "usbutils-007-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "usbutils-007-2-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "usbutils-007-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "usbutils-007-1-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "usbutils-0.91-3-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "usbutils", 
+    "pkg_version": "0.9", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "usbutils-007-2.1.2.i586.rpm", 
+    "pkg": "usbutils-007", 
+    "pkg_version": "2.1.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "usbutils-006-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "usbutils-006-1-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "usbutils-008-2-omv2015.0.x86_64.rpm", 
+    "pkg": "usbutils-008-2-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "usbutils-007-2-omv2014.0.x86_64.rpm", 
+    "pkg": "usbutils-007-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "usbutils-007-1-omv2013.0.x86_64.rpm", 
+    "pkg": "usbutils-007-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "usbutils-008-2.2.x86_64.rpm", 
+    "pkg": "usbutils-008", 
+    "pkg_version": "2.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "usbutils-007-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "usbutils-007-2-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "usbutils-007-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "usbutils-007-1-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "usbutils-0.91-3-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "usbutils", 
+    "pkg_version": "0.9", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "usbutils-007-2.1.2.i586.rpm", 
+    "pkg": "usbutils-007", 
+    "pkg_version": "2.1.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "usbutils-006-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "usbutils-006-1-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "usbutils-008-2-omv2015.0.x86_64.rpm", 
+    "pkg": "usbutils-008-2-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "usbutils-007-2-omv2014.0.x86_64.rpm", 
+    "pkg": "usbutils-007-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "usbutils-007-1-omv2013.0.x86_64.rpm", 
+    "pkg": "usbutils-007-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "usbutils-008-2.2.x86_64.rpm", 
+    "pkg": "usbutils-008", 
+    "pkg_version": "2.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "usbutils-007-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "usbutils-007-2-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "usbutils-007-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "usbutils-007-1-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "usbutils-0.91-3-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "usbutils", 
+    "pkg_version": "0.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "usbutils-007-2.1.2.i586.rpm", 
+    "pkg": "usbutils-007", 
+    "pkg_version": "2.1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "usbutils-006-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "usbutils-006-1-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "usbutils-008-2-omv2015.0.x86_64.rpm", 
+    "pkg": "usbutils-008-2-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "usbutils-007-2-omv2014.0.x86_64.rpm", 
+    "pkg": "usbutils-007-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "usbutils-007-1-omv2013.0.x86_64.rpm", 
+    "pkg": "usbutils-007-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "usbutils-008-2.2.x86_64.rpm", 
+    "pkg": "usbutils-008", 
+    "pkg_version": "2.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "usbutils-007-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "usbutils-007-2-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "usbutils-007-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "usbutils-007-1-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "usbutils-0.91-3-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "usbutils", 
+    "pkg_version": "0.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "usbutils-007-2.1.2.i586.rpm", 
+    "pkg": "usbutils-007", 
+    "pkg_version": "2.1.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "usbutils-006-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "usbutils-006-1-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "usbutils-008-2-omv2015.0.x86_64.rpm", 
+    "pkg": "usbutils-008-2-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "usbutils-007-2-omv2014.0.x86_64.rpm", 
+    "pkg": "usbutils-007-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

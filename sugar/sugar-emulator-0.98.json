@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sugar-emulator-0.98_0.98.8-1_all.deb", 
+    "pkg": "sugar-emulator", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sugar-emulator-0.98_0.98.8-1_all.deb", 
+    "pkg": "sugar-emulator", 
+    "pkg_version": "0.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "sugar-emulator-0.98_0.98.8-1_all.deb", 
+    "pkg": "sugar-emulator", 
+    "pkg_version": "0.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

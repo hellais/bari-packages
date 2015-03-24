@@ -1,0 +1,145 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "python-jsonschema-2.4.0-1-any.pkg.tar.xz", 
+    "pkg": "python-jsonschema", 
+    "pkg_version": "2.4.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-jsonschema-2.3.0-1.el7.noarch.rpm", 
+    "pkg": "python-jsonschema", 
+    "pkg_version": "2.3.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-jsonschema-2.3.0-1.el6.noarch.rpm", 
+    "pkg": "python-jsonschema", 
+    "pkg_version": "2.3.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-jsonschema_2.3.0-1_all.deb", 
+    "pkg": "python-jsonschema", 
+    "pkg_version": "2.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-jsonschema_2.3.0-1_all.deb", 
+    "pkg": "python-jsonschema", 
+    "pkg_version": "2.3.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-jsonschema_0.2-1_all.deb", 
+    "pkg": "python-jsonschema", 
+    "pkg_version": "0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-jsonschema-2.4.0-1.fc22.noarch.rpm", 
+    "pkg": "python-jsonschema", 
+    "pkg_version": "2.4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-jsonschema-2.4.0-1.fc22.noarch.rpm", 
+    "pkg": "python-jsonschema", 
+    "pkg_version": "2.4.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-jsonschema-2.3.0-3.fc21.noarch.rpm", 
+    "pkg": "python-jsonschema", 
+    "pkg_version": "2.3.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-jsonschema-2.0.0-2.fc20.noarch.rpm", 
+    "pkg": "python-jsonschema", 
+    "pkg_version": "2.0.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-jsonschema-2.4.0-2.1.noarch.rpm", 
+    "pkg": "python-jsonschema", 
+    "pkg_version": "2.4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-jsonschema-2.4.0-1.2.noarch.rpm", 
+    "pkg": "python-jsonschema", 
+    "pkg_version": "2.4.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-jsonschema-2.0.0-2.1.2.noarch.rpm", 
+    "pkg": "python-jsonschema", 
+    "pkg_version": "2.0.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "python-jsonschema-2.3.0-3-rosa2014.1.noarch.rpm", 
+    "pkg": "python-jsonschema", 
+    "pkg_version": "2.3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "python-jsonschema-2.3.0-2-rosa2012.1.noarch.rpm", 
+    "pkg": "python-jsonschema", 
+    "pkg_version": "2.3.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python-jsonschema_2.3.0-1build1_all.deb", 
+    "pkg": "python-jsonschema", 
+    "pkg_version": "2.3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

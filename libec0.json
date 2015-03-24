@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "libec0-20120830-7-omv2014.1.i586.rpm", 
+    "pkg": "libec0-20120830-7-omv201", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "libec0-20120830-7-omv2014.1.i586.rpm", 
+    "pkg": "libec0-20120830-7-omv201", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "libec0-20120830-3-omv2013.0.i586.rpm", 
+    "pkg": "libec0-20120830-3-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "libec0-20120830-7-omv2014.1.i586.rpm", 
+    "pkg": "libec0-20120830-7-omv201", 
+    "pkg_version": "4.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "libec0-20120830-3-omv2013.0.i586.rpm", 
+    "pkg": "libec0-20120830-3-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "libec0-20120830-7-omv2014.1.i586.rpm", 
+    "pkg": "libec0-20120830-7-omv201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "libec0-20120830-3-omv2013.0.i586.rpm", 
+    "pkg": "libec0-20120830-3-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

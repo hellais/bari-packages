@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "exiftags-1.01-1.el6.rf.x86_64.rpm", 
+    "pkg": "exiftags", 
+    "pkg_version": "1.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "exiftags-1.01-1.el5.rf.x86_64.rpm", 
+    "pkg": "exiftags", 
+    "pkg_version": "1.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "exiftags_1.01-6+b1_i386.deb", 
+    "pkg": "exiftags", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "exiftags_1.01-6+b1_i386.deb", 
+    "pkg": "exiftags", 
+    "pkg_version": "1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "exiftags_1.01-5_i386.deb", 
+    "pkg": "exiftags", 
+    "pkg_version": "1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Freestylers", 
+    "pkg_full_name": "exiftags-1.01-x86_64-1_fs.tgz", 
+    "pkg": "exiftags", 
+    "pkg_version": "1.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "exiftags_1.01-6_i386.deb", 
+    "pkg": "exiftags", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "exiftags_1.01-6_i386.deb", 
+    "pkg": "exiftags", 
+    "pkg_version": "1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

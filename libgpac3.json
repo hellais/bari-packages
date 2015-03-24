@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgpac3_0.5.0+svn5324~dfsg1-1+b3_i386.deb", 
+    "pkg": "libgpac3", 
+    "pkg_version": "0.5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgpac3_0.5.0+svn5324~dfsg1-1+b3_i386.deb", 
+    "pkg": "libgpac3", 
+    "pkg_version": "0.5.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Restricted", 
+    "pkg_full_name": "libgpac3-0.5.0-0.svn5277.2-omv2015.0.i586.rpm", 
+    "pkg": "libgpac3", 
+    "pkg_version": "0.5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }
+]

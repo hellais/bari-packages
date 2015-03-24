@@ -1,0 +1,28 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "sqlmap-0.9-alt1.noarch.rpm", 
+    "pkg": "sqlmap", 
+    "pkg_version": "0.9", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sqlmap_0.9.150320-1_all.deb", 
+    "pkg": "sqlmap", 
+    "pkg_version": "0.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "sqlmap-0.9-5-rosa2014.1.x86_64.rpm", 
+    "pkg": "sqlmap", 
+    "pkg_version": "0.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

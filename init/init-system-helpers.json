@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "init-system-helpers_1.18~nd+1_all.deb", 
+    "pkg": "init-system-helpers", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "init-system-helpers_1.18~nd80+1_all.deb", 
+    "pkg": "init-system-helpers", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "init-system-helpers_1.18~nd70+1_all.deb", 
+    "pkg": "init-system-helpers", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "init-system-helpers_1.20ubuntu3_all.deb", 
+    "pkg": "init-system-helpers", 
+    "pkg_version": "1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "init-system-helpers_1.14_all.deb", 
+    "pkg": "init-system-helpers", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

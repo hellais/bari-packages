@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcatalyst-plugin-stacktrace-perl_0.12-2_all.deb", 
+    "pkg": "libcatalyst-plugin-stacktrace-perl", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcatalyst-plugin-stacktrace-perl_0.12-2_all.deb", 
+    "pkg": "libcatalyst-plugin-stacktrace-perl", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

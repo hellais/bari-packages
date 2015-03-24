@@ -1,0 +1,91 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libcalendarsupport4-4.14.6-alt1.x86_64.rpm", 
+    "pkg": "libcalendarsupport4", 
+    "pkg_version": "4.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcalendarsupport4_4.14.2-2_i386.deb", 
+    "pkg": "libcalendarsupport4", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcalendarsupport4_4.14.1-1_i386.deb", 
+    "pkg": "libcalendarsupport4", 
+    "pkg_version": "4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libcalendarsupport4-4.14.3-2-omv2015.0.i586.rpm", 
+    "pkg": "libcalendarsupport4", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "libcalendarsupport4-4.14.3-1-omv2014.0.i586.rpm", 
+    "pkg": "libcalendarsupport4", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libcalendarsupport4-4.11.0-1-omv2013.0.i586.rpm", 
+    "pkg": "libcalendarsupport4", 
+    "pkg_version": "4.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "libcalendarsupport4-4.14.4-1-rosa2014.1.i586.rpm", 
+    "pkg": "libcalendarsupport4", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "libcalendarsupport4-4.12.4-1-rosa2012.1.i586.rpm", 
+    "pkg": "libcalendarsupport4", 
+    "pkg_version": "4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libcalendarsupport4_4.14.1-0ubuntu2_i386.deb", 
+    "pkg": "libcalendarsupport4", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "libcalendarsupport4_4.13.3-0ubuntu0.1_i386.deb", 
+    "pkg": "libcalendarsupport4", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

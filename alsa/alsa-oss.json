@@ -1,0 +1,387 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "alsa-oss-1.0.28-alt1.x86_64.rpm", 
+    "pkg": "alsa-oss", 
+    "pkg_version": "1.0.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "alsa-oss-1.0.28-1-x86_64.pkg.tar.xz", 
+    "pkg": "alsa-oss", 
+    "pkg_version": "1.0.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "alsa-oss-1.0.17-4.el6.nux.x86_64.rpm", 
+    "pkg": "alsa-oss", 
+    "pkg_version": "1.0.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Nogin.org Random", 
+    "pkg_full_name": "alsa-oss-1.0.17-3.el5.i386.rpm", 
+    "pkg": "alsa-oss", 
+    "pkg_version": "1.0.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "alsa-oss_1.0.28-1_i386.deb", 
+    "pkg": "alsa-oss", 
+    "pkg_version": "1.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "alsa-oss_1.0.28-1_i386.deb", 
+    "pkg": "alsa-oss", 
+    "pkg_version": "1.0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "alsa-oss_1.0.25-1_i386.deb", 
+    "pkg": "alsa-oss", 
+    "pkg_version": "1.0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lib64alsa-oss0-1.0.28-4-omv2015.0.x86_64.rpm", 
+    "pkg": "lib64alsa-oss0", 
+    "pkg_version": "1.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libalsa-oss0-1.0.28-4-omv2015.0.i586.rpm", 
+    "pkg": "libalsa-oss0", 
+    "pkg_version": "1.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "alsa-oss_1.0.25-1_i386.deb", 
+    "pkg": "alsa-oss", 
+    "pkg_version": "1.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lib64alsa-oss0-1.0.25-8-omv2014.0.x86_64.rpm", 
+    "pkg": "lib64alsa-oss0", 
+    "pkg_version": "1.0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libalsa-oss0-1.0.25-8-omv2014.0.i586.rpm", 
+    "pkg": "libalsa-oss0", 
+    "pkg_version": "1.0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "alsa-oss_1.0.25-1_i386.deb", 
+    "pkg": "alsa-oss", 
+    "pkg_version": "1.0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lib64alsa-oss0-1.0.25-7-omv2013.0.x86_64.rpm", 
+    "pkg": "lib64alsa-oss0", 
+    "pkg_version": "1.0.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libalsa-oss0-1.0.25-6-omv2013.0.i586.rpm", 
+    "pkg": "libalsa-oss0", 
+    "pkg_version": "1.0.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "alsa-oss_1.0.25-1_i386.deb", 
+    "pkg": "alsa-oss", 
+    "pkg_version": "1.0.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lib64alsa-oss0-1.0.25-7-omv2013.0.x86_64.rpm", 
+    "pkg": "lib64alsa-oss0", 
+    "pkg_version": "1.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libalsa-oss0-1.0.25-6-omv2013.0.i586.rpm", 
+    "pkg": "libalsa-oss0", 
+    "pkg_version": "1.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "alsa-oss-1.0.28-3.2.x86_64.rpm", 
+    "pkg": "alsa-oss", 
+    "pkg_version": "1.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lib64alsa-oss0-1.0.25-7-omv2013.0.x86_64.rpm", 
+    "pkg": "lib64alsa-oss0", 
+    "pkg_version": "1.0.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libalsa-oss0-1.0.25-6-omv2013.0.i586.rpm", 
+    "pkg": "libalsa-oss0", 
+    "pkg_version": "1.0.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "alsa-oss-1.0.28-2.1.2.x86_64.rpm", 
+    "pkg": "alsa-oss", 
+    "pkg_version": "1.0.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lib64alsa-oss0-1.0.25-7-omv2013.0.x86_64.rpm", 
+    "pkg": "lib64alsa-oss0", 
+    "pkg_version": "1.0.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libalsa-oss0-1.0.25-6-omv2013.0.i586.rpm", 
+    "pkg": "libalsa-oss0", 
+    "pkg_version": "1.0.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "alsa-oss-1.0.25-8.4.1.x86_64.rpm", 
+    "pkg": "alsa-oss", 
+    "pkg_version": "1.0.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "lib64alsa-oss0-1.0.25-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "lib64alsa-oss0", 
+    "pkg_version": "1.0.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libalsa-oss0-1.0.25-2-rosa2012.1.i586.rpm", 
+    "pkg": "libalsa-oss0", 
+    "pkg_version": "1.0.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "alsa-oss-1.0.25-8.4.1.x86_64.rpm", 
+    "pkg": "alsa-oss", 
+    "pkg_version": "1.0.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "lib64alsa-oss0-1.0.17-8-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "lib64alsa-oss0", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libalsa-oss0-1.0.17-8-rosa.lts2012.0.i586.rpm", 
+    "pkg": "libalsa-oss0", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "alsa-oss-1.0.25-x86_64-1.txz", 
+    "pkg": "alsa-oss", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "lib64alsa-oss0-1.0.17-8-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "lib64alsa-oss0", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libalsa-oss0-1.0.17-8-rosa.lts2012.0.i586.rpm", 
+    "pkg": "libalsa-oss0", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "alsa-oss-1.0.25-x86_64-1.txz", 
+    "pkg": "alsa-oss", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "lib64alsa-oss0-1.0.17-8-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "lib64alsa-oss0", 
+    "pkg_version": "1.0.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libalsa-oss0-1.0.17-8-rosa.lts2012.0.i586.rpm", 
+    "pkg": "libalsa-oss0", 
+    "pkg_version": "1.0.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "alsa-oss-1.0.17-x86_64-1.txz", 
+    "pkg": "alsa-oss", 
+    "pkg_version": "1.0.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "lib64alsa-oss0-1.0.17-8-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "lib64alsa-oss0", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libalsa-oss0-1.0.17-8-rosa.lts2012.0.i586.rpm", 
+    "pkg": "libalsa-oss0", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "alsa-oss_1.0.28-1ubuntu1_i386.deb", 
+    "pkg": "alsa-oss", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "lib64alsa-oss0-1.0.17-8-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "lib64alsa-oss0", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libalsa-oss0-1.0.17-8-rosa.lts2012.0.i586.rpm", 
+    "pkg": "libalsa-oss0", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "alsa-oss_1.0.25-1ubuntu1_i386.deb", 
+    "pkg": "alsa-oss", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

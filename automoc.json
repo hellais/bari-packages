@@ -1,0 +1,217 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "automoc-0.9.88-alt1.qa1.x86_64.rpm", 
+    "pkg": "automoc", 
+    "pkg_version": "0.9.8", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "automoc-1.0-0.20.rc3.el7.x86_64.rpm", 
+    "pkg": "automoc", 
+    "pkg_version": "1.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "automoc-1.0-0.14.rc3.el6.x86_64.rpm", 
+    "pkg": "automoc", 
+    "pkg_version": "1.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "automoc_1.0~version-0.9.88-5_i386.deb", 
+    "pkg": "automoc", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "automoc_1.0~version-0.9.88-5_i386.deb", 
+    "pkg": "automoc", 
+    "pkg_version": "1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "automoc_1.0~version-0.9.88-5_i386.deb", 
+    "pkg": "automoc", 
+    "pkg_version": "1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "automoc-1.0-0.21.rc3.fc22.x86_64.rpm", 
+    "pkg": "automoc", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "automoc-1.0-0.21.rc3.fc22.x86_64.rpm", 
+    "pkg": "automoc", 
+    "pkg_version": "1.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "automoc-1.0-0.21.rc3.fc21.x86_64.rpm", 
+    "pkg": "automoc", 
+    "pkg_version": "1.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "automoc-1.0-0.19.rc3.fc20.x86_64.rpm", 
+    "pkg": "automoc", 
+    "pkg_version": "1.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "automoc4-0.9.88-13-omv2015.0.x86_64.rpm", 
+    "pkg": "automoc4", 
+    "pkg_version": "0.9.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "automoc-1.0-0.19.rc3.fc20.x86_64.rpm", 
+    "pkg": "automoc", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "automoc4-0.9.88-7-omv2014.0.x86_64.rpm", 
+    "pkg": "automoc4", 
+    "pkg_version": "0.9.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "automoc-1.0-0.19.rc3.fc20.x86_64.rpm", 
+    "pkg": "automoc", 
+    "pkg_version": "1.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "automoc4-0.9.88-6-omv2013.0.x86_64.rpm", 
+    "pkg": "automoc4", 
+    "pkg_version": "0.9.8", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "automoc-1.0-0.19.rc3.fc20.x86_64.rpm", 
+    "pkg": "automoc", 
+    "pkg_version": "1.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "automoc4-0.9.88-7-rosa2014.1.x86_64.rpm", 
+    "pkg": "automoc4", 
+    "pkg_version": "0.9.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "automoc-1.0-0.19.rc3.fc20.x86_64.rpm", 
+    "pkg": "automoc", 
+    "pkg_version": "1.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "automoc4-0.9.88-6-rosa2012.1.x86_64.rpm", 
+    "pkg": "automoc4", 
+    "pkg_version": "0.9.8", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "automoc-1.0-0.19.rc3.fc20.x86_64.rpm", 
+    "pkg": "automoc", 
+    "pkg_version": "1.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "automoc4-0.9.88-6-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "automoc4", 
+    "pkg_version": "0.9.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "automoc_1.0~version-0.9.88-5build1_i386.deb", 
+    "pkg": "automoc", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "automoc4-0.9.88-6-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "automoc4", 
+    "pkg_version": "0.9.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "automoc_1.0~version-0.9.88-5build1_i386.deb", 
+    "pkg": "automoc", 
+    "pkg_version": "1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

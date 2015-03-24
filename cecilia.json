@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cecilia_5.0.9-1.1_all.deb", 
+    "pkg": "cecilia", 
+    "pkg_version": "5.0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cecilia_5.0.9-1.1_all.deb", 
+    "pkg": "cecilia", 
+    "pkg_version": "5.0.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cecilia_2.0.5-2.2_all.deb", 
+    "pkg": "cecilia", 
+    "pkg_version": "2.0.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "cecilia-2.0.5-282.1.noarch.rpm", 
+    "pkg": "cecilia", 
+    "pkg_version": "2.0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "cecilia-2.0.5-281.1.2.noarch.rpm", 
+    "pkg": "cecilia", 
+    "pkg_version": "2.0.5", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "cecilia-2.0.5-279.1.2.noarch.rpm", 
+    "pkg": "cecilia", 
+    "pkg_version": "2.0.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "cecilia_5.0.9-1_all.deb", 
+    "pkg": "cecilia", 
+    "pkg_version": "5.0.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "cecilia_5.0.9-1_all.deb", 
+    "pkg": "cecilia", 
+    "pkg_version": "5.0.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xnbd-server_0.3.0-1_i386.deb", 
+    "pkg": "xnbd-server", 
+    "pkg_version": "0.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xnbd-server_0.3.0-1_i386.deb", 
+    "pkg": "xnbd-server", 
+    "pkg_version": "0.3.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xnbd-server_0.1.0-pre-hg20-e75b93a47722-3_i386.deb", 
+    "pkg": "xnbd-server", 
+    "pkg_version": "0.1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xnbd-server_0.3.0-1ubuntu1_i386.deb", 
+    "pkg": "xnbd-server", 
+    "pkg_version": "0.3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xnbd-server_0.2.0~rc2-hg1-abf8cc7a1ab0-2_i386.deb", 
+    "pkg": "xnbd-server", 
+    "pkg_version": "0.2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

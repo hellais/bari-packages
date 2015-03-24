@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ofono_1.15-2_i386.deb", 
+    "pkg": "ofono", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ofono_1.15-2_i386.deb", 
+    "pkg": "ofono", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ofono_1.6-2_i386.deb", 
+    "pkg": "ofono", 
+    "pkg_version": "1.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ofono-1.14-3.fc22.x86_64.rpm", 
+    "pkg": "ofono", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ofono-1.14-3.fc22.x86_64.rpm", 
+    "pkg": "ofono", 
+    "pkg_version": "1.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ofono-1.14-3.fc21.x86_64.rpm", 
+    "pkg": "ofono", 
+    "pkg_version": "1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "ofono-1.14-1.fc20.x86_64.rpm", 
+    "pkg": "ofono", 
+    "pkg_version": "1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ofono-1.16-1.1.x86_64.rpm", 
+    "pkg": "ofono", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ofono_1.12.bzr6880+14.10.20141010-0ubuntu1_i386.deb", 
+    "pkg": "ofono", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ofono_1.12.bzr6858+14.04.20140318-0ubuntu1_i386.deb", 
+    "pkg": "ofono", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

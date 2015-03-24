@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libphone-ui-shr-data_0.1+git20130901-3_i386.deb", 
+    "pkg": "libphone-ui-shr-data", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libphone-ui-shr-data_0.1+git20130901-3_i386.deb", 
+    "pkg": "libphone-ui-shr-data", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libphone-ui-shr-data_0.1+git20110827-3+b1_i386.deb", 
+    "pkg": "libphone-ui-shr-data", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libphone-ui-shr-data_0.1+git20130901-3_i386.deb", 
+    "pkg": "libphone-ui-shr-data", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

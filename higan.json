@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "openSUSE Emulators", 
+    "pkg_full_name": "higan-0.094-8.5.x86_64.rpm", 
+    "pkg": "higan", 
+    "pkg_version": "0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Emulators", 
+    "pkg_full_name": "higan-0.094-8.5.x86_64.rpm", 
+    "pkg": "higan", 
+    "pkg_version": "0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Emulators", 
+    "pkg_full_name": "higan-0.094-8.5.x86_64.rpm", 
+    "pkg": "higan", 
+    "pkg_version": "0.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

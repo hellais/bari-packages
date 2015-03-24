@@ -1,0 +1,279 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "josm-0-alt1_0.47.6115svnjpp7.noarch.rpm", 
+    "pkg": "josm-0-alt1", 
+    "pkg_version": "0.4", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "josm-0-alt1_0.47.6115svnjpp7.noarch.rpm", 
+    "pkg": "josm-0-alt1", 
+    "pkg_version": "0.4", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "josm-0-0.66.8109svn.el7.noarch.rpm", 
+    "pkg": "josm-0", 
+    "pkg_version": "0.6", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "josm-0-alt1_0.47.6115svnjpp7.noarch.rpm", 
+    "pkg": "josm-0-alt1", 
+    "pkg_version": "0.4", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "josm-0-0.66.8109svn.el7.noarch.rpm", 
+    "pkg": "josm-0", 
+    "pkg_version": "0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "josm_0.0.svn7643+dfsg1-1_all.deb", 
+    "pkg": "josm", 
+    "pkg_version": "0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "josm-0-alt1_0.47.6115svnjpp7.noarch.rpm", 
+    "pkg": "josm-0-alt1", 
+    "pkg_version": "0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "josm-0-0.66.8109svn.el7.noarch.rpm", 
+    "pkg": "josm-0", 
+    "pkg_version": "0.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "josm_0.0.svn7643+dfsg1-1_all.deb", 
+    "pkg": "josm", 
+    "pkg_version": "0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "josm-0-alt1_0.47.6115svnjpp7.noarch.rpm", 
+    "pkg": "josm-0-alt1", 
+    "pkg_version": "0.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "josm-0-0.66.8109svn.el7.noarch.rpm", 
+    "pkg": "josm-0", 
+    "pkg_version": "0.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "josm_0.0.svn5267+dfsg1-2_all.deb", 
+    "pkg": "josm", 
+    "pkg_version": "0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "josm-0-alt1_0.47.6115svnjpp7.noarch.rpm", 
+    "pkg": "josm-0-alt1", 
+    "pkg_version": "0.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "josm-0-0.66.8109svn.fc23.noarch.rpm", 
+    "pkg": "josm-0", 
+    "pkg_version": "0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "josm_0.0.svn5267+dfsg1-2_all.deb", 
+    "pkg": "josm", 
+    "pkg_version": "0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "josm-0-alt1_0.47.6115svnjpp7.noarch.rpm", 
+    "pkg": "josm-0-alt1", 
+    "pkg_version": "0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "josm-0-0.64.7906svn.fc22.noarch.rpm", 
+    "pkg": "josm-0", 
+    "pkg_version": "0.6", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "josm_0.0.svn5267+dfsg1-2_all.deb", 
+    "pkg": "josm", 
+    "pkg_version": "0.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "josm-0-alt1_0.47.6115svnjpp7.noarch.rpm", 
+    "pkg": "josm-0-alt1", 
+    "pkg_version": "0.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "josm-0-0.66.8109svn.fc21.noarch.rpm", 
+    "pkg": "josm-0", 
+    "pkg_version": "0.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "josm_0.0.svn5267+dfsg1-2_all.deb", 
+    "pkg": "josm", 
+    "pkg_version": "0.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "josm-0-alt1_0.47.6115svnjpp7.noarch.rpm", 
+    "pkg": "josm-0-alt1", 
+    "pkg_version": "0.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "josm-0-0.66.8109svn.fc20.noarch.rpm", 
+    "pkg": "josm-0", 
+    "pkg_version": "0.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "josm_0.0.svn5267+dfsg1-2_all.deb", 
+    "pkg": "josm", 
+    "pkg_version": "0.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "josm-0-alt1_0.47.6115svnjpp7.noarch.rpm", 
+    "pkg": "josm-0-alt1", 
+    "pkg_version": "0.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "josm-0-0.6502svn.2.mga4.noarch.rpm", 
+    "pkg": "josm-0", 
+    "pkg_version": "0.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "josm_0.0.svn6502+dfsg3-1_all.deb", 
+    "pkg": "josm", 
+    "pkg_version": "0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "josm-0-alt1_0.47.6115svnjpp7.noarch.rpm", 
+    "pkg": "josm-0-alt1", 
+    "pkg_version": "0.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "josm-0-0.6502svn.2.mga4.noarch.rpm", 
+    "pkg": "josm-0", 
+    "pkg_version": "0.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "josm_0.0.svn6502+dfsg3-1_all.deb", 
+    "pkg": "josm", 
+    "pkg_version": "0.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "josm-0-alt1_0.47.6115svnjpp7.noarch.rpm", 
+    "pkg": "josm-0-alt1", 
+    "pkg_version": "0.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

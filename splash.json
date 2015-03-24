@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "splash_2.5.0-1_i386.deb", 
+    "pkg": "splash", 
+    "pkg_version": "2.5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

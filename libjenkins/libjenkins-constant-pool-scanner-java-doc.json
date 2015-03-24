@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libjenkins-constant-pool-scanner-java-doc_1.2-1_all.deb", 
+    "pkg": "libjenkins-constant-pool-scanner-java-doc", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libjenkins-constant-pool-scanner-java-doc_1.2-1_all.deb", 
+    "pkg": "libjenkins-constant-pool-scanner-java-doc", 
+    "pkg_version": "1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libjenkins-constant-pool-scanner-java-doc_1.2-1_all.deb", 
+    "pkg": "libjenkins-constant-pool-scanner-java-doc", 
+    "pkg_version": "1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

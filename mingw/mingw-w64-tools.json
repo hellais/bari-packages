@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "mingw-w64-tools-3.1.999-0.3.trunk.git502c72.20140524.el7.x86_64.rpm", 
+    "pkg": "mingw-w64-tools", 
+    "pkg_version": "3.1.9", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mingw-w64-tools_3.2.0-2_i386.deb", 
+    "pkg": "mingw-w64-tools", 
+    "pkg_version": "3.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mingw-w64-tools_3.2.0-2_i386.deb", 
+    "pkg": "mingw-w64-tools", 
+    "pkg_version": "3.2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mingw-w64-tools_2.0.3-1_i386.deb", 
+    "pkg": "mingw-w64-tools", 
+    "pkg_version": "2.0.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mingw-w64-tools-3.1.999-0.6.trunk.git430863.20140530.fc22.x86_64.rpm", 
+    "pkg": "mingw-w64-tools", 
+    "pkg_version": "3.1.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mingw-w64-tools-3.1.999-0.6.trunk.git430863.20140530.fc22.x86_64.rpm", 
+    "pkg": "mingw-w64-tools", 
+    "pkg_version": "3.1.9", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mingw-w64-tools-3.1.999-0.6.trunk.git430863.20140530.fc21.x86_64.rpm", 
+    "pkg": "mingw-w64-tools", 
+    "pkg_version": "3.1.9", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "mingw-w64-tools-3.1.0-1.fc20.x86_64.rpm", 
+    "pkg": "mingw-w64-tools", 
+    "pkg_version": "3.1.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mingw-w64-tools_3.1.0-4_i386.deb", 
+    "pkg": "mingw-w64-tools", 
+    "pkg_version": "3.1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mingw-w64-tools_3.1.0-1_i386.deb", 
+    "pkg": "mingw-w64-tools", 
+    "pkg_version": "3.1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

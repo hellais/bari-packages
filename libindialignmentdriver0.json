@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libindialignmentdriver0_0.9.8.1-5.1+b1_i386.deb", 
+    "pkg": "libindialignmentdriver0", 
+    "pkg_version": "0.9.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

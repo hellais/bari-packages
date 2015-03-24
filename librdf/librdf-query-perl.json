@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "librdf-query-perl_2.913-1_all.deb", 
+    "pkg": "librdf-query-perl", 
+    "pkg_version": "2.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "librdf-query-perl_2.912-1_all.deb", 
+    "pkg": "librdf-query-perl", 
+    "pkg_version": "2.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "librdf-query-perl_2.908-1_all.deb", 
+    "pkg": "librdf-query-perl", 
+    "pkg_version": "2.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "librdf-query-perl_2.911-1_all.deb", 
+    "pkg": "librdf-query-perl", 
+    "pkg_version": "2.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "librdf-query-perl_2.910-2_all.deb", 
+    "pkg": "librdf-query-perl", 
+    "pkg_version": "2.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

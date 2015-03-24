@@ -1,0 +1,127 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gkermit-1.00-alt1.qa1.x86_64.rpm", 
+    "pkg": "gkermit", 
+    "pkg_version": "1.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "gkermit-1.00-16.el7.x86_64.rpm", 
+    "pkg": "gkermit", 
+    "pkg_version": "1.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "gkermit-1.00-11.el6.x86_64.rpm", 
+    "pkg": "gkermit", 
+    "pkg_version": "1.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gkermit_1.0-9_i386.deb", 
+    "pkg": "gkermit", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gkermit_1.0-9_i386.deb", 
+    "pkg": "gkermit", 
+    "pkg_version": "1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gkermit_1.0-9_i386.deb", 
+    "pkg": "gkermit", 
+    "pkg_version": "1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gkermit-1.00-16.fc22.x86_64.rpm", 
+    "pkg": "gkermit", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gkermit-1.00-16.fc22.x86_64.rpm", 
+    "pkg": "gkermit", 
+    "pkg_version": "1.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gkermit-1.00-15.fc21.x86_64.rpm", 
+    "pkg": "gkermit", 
+    "pkg_version": "1.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gkermit-1.00-13.fc20.x86_64.rpm", 
+    "pkg": "gkermit", 
+    "pkg_version": "1.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "gkermit-1.00-11-rosa2014.1.x86_64.rpm", 
+    "pkg": "gkermit", 
+    "pkg_version": "1.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "gkermit-1.00-8-rosa2012.1.x86_64.rpm", 
+    "pkg": "gkermit", 
+    "pkg_version": "1.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gkermit_1.0-9_i386.deb", 
+    "pkg": "gkermit", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gkermit_1.0-9_i386.deb", 
+    "pkg": "gkermit", 
+    "pkg_version": "1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

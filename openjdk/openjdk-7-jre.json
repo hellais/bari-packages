@@ -1,0 +1,101 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "openjdk-7-jre_7u75-2.5.4-3_i386.deb", 
+    "pkg": "openjdk-7-jre_7u75", 
+    "pkg_version": "2.5.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "openjdk-7-jre_7u75-2.5.4-2_i386.deb", 
+    "pkg": "openjdk-7-jre_7u75", 
+    "pkg_version": "2.5.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "openjdk-7-jre_7u3-2.1.7-1_i386.deb", 
+    "pkg": "openjdk-7-jre_7u3", 
+    "pkg_version": "2.1.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "openjdk-7-jre_7u75-2.5.4-1~deb7u1_i386.deb", 
+    "pkg": "openjdk-7-jre_7u75", 
+    "pkg_version": "2.5.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "openjdk-7-jre_7u3-2.1.7-1_i386.deb", 
+    "pkg": "openjdk-7-jre_7u3", 
+    "pkg_version": "2.1.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "openjdk-7-jre_7u75-2.5.4-1~utopic1_i386.deb", 
+    "pkg": "openjdk-7-jre_7u75", 
+    "pkg_version": "2.5.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "openjdk-7-jre_7u65-2.5.2-4_i386.deb", 
+    "pkg": "openjdk-7-jre_7u65", 
+    "pkg_version": "2.5.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "openjdk-7-jre_7u3-2.1.7-1_i386.deb", 
+    "pkg": "openjdk-7-jre_7u3", 
+    "pkg_version": "2.1.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "openjdk-7-jre_7u51-2.4.6-1ubuntu4_i386.deb", 
+    "pkg": "openjdk-7-jre_7u51", 
+    "pkg_version": "2.4.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "openjdk-7-jre_7u75-2.5.4-1~trusty1_i386.deb", 
+    "pkg": "openjdk-7-jre_7u75", 
+    "pkg_version": "2.5.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "openjdk-7-jre_7u65-2.5.2-4_i386.deb", 
+    "pkg": "openjdk-7-jre_7u65", 
+    "pkg_version": "2.5.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

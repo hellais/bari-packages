@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-qpid-proton-doc-0.8-1.el7.noarch.rpm", 
+    "pkg": "python-qpid-proton-doc", 
+    "pkg_version": "0.8", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-qpid-proton-doc-0.8-1.el6.noarch.rpm", 
+    "pkg": "python-qpid-proton-doc", 
+    "pkg_version": "0.8", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-qpid-proton-doc_0.7-2_all.deb", 
+    "pkg": "python-qpid-proton-doc", 
+    "pkg_version": "0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-qpid-proton-doc_0.7-2_all.deb", 
+    "pkg": "python-qpid-proton-doc", 
+    "pkg_version": "0.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-qpid-proton-doc-0.8-1.fc22.noarch.rpm", 
+    "pkg": "python-qpid-proton-doc", 
+    "pkg_version": "0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-qpid-proton-doc-0.8-1.fc22.noarch.rpm", 
+    "pkg": "python-qpid-proton-doc", 
+    "pkg_version": "0.8", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python-qpid-proton-doc-0.8-1.fc21.noarch.rpm", 
+    "pkg": "python-qpid-proton-doc", 
+    "pkg_version": "0.8", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

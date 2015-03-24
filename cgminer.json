@@ -1,0 +1,55 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "cgminer-4.9.1-1-x86_64.pkg.tar.xz", 
+    "pkg": "cgminer", 
+    "pkg_version": "4.9.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "cgminer-1.6.2-1.el6.rf.x86_64.rpm", 
+    "pkg": "cgminer", 
+    "pkg_version": "1.6.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "cgminer-1.6.2-1.el5.rf.x86_64.rpm", 
+    "pkg": "cgminer", 
+    "pkg_version": "1.6.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cgminer_4.7.0-2_i386.deb", 
+    "pkg": "cgminer", 
+    "pkg_version": "4.7.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cgminer_4.7.0-2_i386.deb", 
+    "pkg": "cgminer", 
+    "pkg_version": "4.7.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "cgminer_4.4.2-1_i386.deb", 
+    "pkg": "cgminer", 
+    "pkg_version": "4.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

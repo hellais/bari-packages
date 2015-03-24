@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "libopenmeeg1_2.0.0.dfsg-4~nd+1_i386.deb", 
+    "pkg": "libopenmeeg1", 
+    "pkg_version": "2.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "libopenmeeg1_2.0.0.dfsg-4~nd70+1_i386.deb", 
+    "pkg": "libopenmeeg1", 
+    "pkg_version": "2.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "libopenmeeg1_2.0.0.dfsg-4~nd70+1_i386.deb", 
+    "pkg": "libopenmeeg1", 
+    "pkg_version": "2.0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libopenmeeg1_2.0.0.dfsg-5.1ubuntu1_i386.deb", 
+    "pkg": "libopenmeeg1", 
+    "pkg_version": "2.0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

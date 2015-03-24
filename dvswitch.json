@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dvswitch_0.8.3.6-1.2_i386.deb", 
+    "pkg": "dvswitch", 
+    "pkg_version": "0.8.3.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dvswitch_0.8.3.6-1+b2_i386.deb", 
+    "pkg": "dvswitch", 
+    "pkg_version": "0.8.3.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "dvswitch-git-20140408git_jw01-1.22.x86_64.rpm", 
+    "pkg": "dvswitch-git-20140408git_jw01", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dvswitch_0.8.3.6-1+b2_i386.deb", 
+    "pkg": "dvswitch", 
+    "pkg_version": "0.8.3.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "dvswitch-git-20140408git_jw01-1.4.x86_64.rpm", 
+    "pkg": "dvswitch-git-20140408git_jw01", 
+    "pkg_version": "1.4", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dvswitch_0.8.3.6-1+b2_i386.deb", 
+    "pkg": "dvswitch", 
+    "pkg_version": "0.8.3.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "dvswitch-git-20140408git_jw01-1.4.x86_64.rpm", 
+    "pkg": "dvswitch-git-20140408git_jw01", 
+    "pkg_version": "1.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "dvswitch_0.8.3.6-1.2ubuntu2_i386.deb", 
+    "pkg": "dvswitch", 
+    "pkg_version": "0.8.3.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "dvswitch-git-20140408git_jw01-1.4.x86_64.rpm", 
+    "pkg": "dvswitch-git-20140408git_jw01", 
+    "pkg_version": "1.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "dvswitch_0.8.3.6-1.2build1_i386.deb", 
+    "pkg": "dvswitch", 
+    "pkg_version": "0.8.3.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

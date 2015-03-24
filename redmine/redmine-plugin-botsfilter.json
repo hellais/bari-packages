@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "redmine-plugin-botsfilter_1.02-2_i386.deb", 
+    "pkg": "redmine-plugin-botsfilter", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "redmine-plugin-botsfilter_1.02-2_i386.deb", 
+    "pkg": "redmine-plugin-botsfilter", 
+    "pkg_version": "1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libjetty8-java-doc_8.1.16-4_all.deb", 
+    "pkg": "libjetty8-java-doc", 
+    "pkg_version": "8.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libjetty8-java-doc_8.1.16-4_all.deb", 
+    "pkg": "libjetty8-java-doc", 
+    "pkg_version": "8.1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libjetty8-java-doc_8.1.3-4_all.deb", 
+    "pkg": "libjetty8-java-doc", 
+    "pkg_version": "8.1.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libjetty8-java-doc_8.1.3-9_all.deb", 
+    "pkg": "libjetty8-java-doc", 
+    "pkg_version": "8.1.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

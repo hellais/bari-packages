@@ -1,0 +1,217 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "git-merge-changelog-0.1.114.caf1b31-alt2.x86_64.rpm", 
+    "pkg": "git-merge-changelog", 
+    "pkg_version": "0.1.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "git-merge-changelog-0-13.20141214git.el7.x86_64.rpm", 
+    "pkg": "git-merge-changelog-0-1", 
+    "pkg_version": "3.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "git-merge-changelog-0.1.114.caf1b31-alt2.x86_64.rpm", 
+    "pkg": "git-merge-changelog", 
+    "pkg_version": "0.1.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "git-merge-changelog-0-13.20141214git.el7.x86_64.rpm", 
+    "pkg": "git-merge-changelog-0-1", 
+    "pkg_version": "3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "git-merge-changelog-0.1.114.caf1b31-alt2.x86_64.rpm", 
+    "pkg": "git-merge-changelog", 
+    "pkg_version": "0.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "git-merge-changelog-0-13.20141214git.el7.x86_64.rpm", 
+    "pkg": "git-merge-changelog-0-1", 
+    "pkg_version": "3.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "git-merge-changelog-0.1.114.caf1b31-alt2.x86_64.rpm", 
+    "pkg": "git-merge-changelog", 
+    "pkg_version": "0.1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "git-merge-changelog-0-13.20141214git.fc22.x86_64.rpm", 
+    "pkg": "git-merge-changelog-0-1", 
+    "pkg_version": "3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "git-merge-changelog-0.1.114.caf1b31-alt2.x86_64.rpm", 
+    "pkg": "git-merge-changelog", 
+    "pkg_version": "0.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "git-merge-changelog-0-13.20141214git.fc22.x86_64.rpm", 
+    "pkg": "git-merge-changelog-0-1", 
+    "pkg_version": "3.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "git-merge-changelog-0.1.114.caf1b31-alt2.x86_64.rpm", 
+    "pkg": "git-merge-changelog", 
+    "pkg_version": "0.1.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "git-merge-changelog-0-13.20141214git.fc21.x86_64.rpm", 
+    "pkg": "git-merge-changelog-0-1", 
+    "pkg_version": "3.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "git-merge-changelog-0.1.114.caf1b31-alt2.x86_64.rpm", 
+    "pkg": "git-merge-changelog", 
+    "pkg_version": "0.1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "git-merge-changelog-0-13.20141214git.fc20.x86_64.rpm", 
+    "pkg": "git-merge-changelog-0-1", 
+    "pkg_version": "3.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "git-merge-changelog-0.1.114.caf1b31-alt2.x86_64.rpm", 
+    "pkg": "git-merge-changelog", 
+    "pkg_version": "0.1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "git-merge-changelog-0-13.20141214git.fc20.x86_64.rpm", 
+    "pkg": "git-merge-changelog-0-1", 
+    "pkg_version": "3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "git-merge-changelog-20120413-6.2.x86_64.rpm", 
+    "pkg": "git-merge-changelog-20120413", 
+    "pkg_version": "6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "git-merge-changelog-0.1.114.caf1b31-alt2.x86_64.rpm", 
+    "pkg": "git-merge-changelog", 
+    "pkg_version": "0.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "git-merge-changelog-0-13.20141214git.fc20.x86_64.rpm", 
+    "pkg": "git-merge-changelog-0-1", 
+    "pkg_version": "3.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "git-merge-changelog-20120413-4.1.2.x86_64.rpm", 
+    "pkg": "git-merge-changelog-20120413", 
+    "pkg_version": "4.1.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "git-merge-changelog-0.1.114.caf1b31-alt2.x86_64.rpm", 
+    "pkg": "git-merge-changelog", 
+    "pkg_version": "0.1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "git-merge-changelog-0-13.20141214git.fc20.x86_64.rpm", 
+    "pkg": "git-merge-changelog-0-1", 
+    "pkg_version": "3.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "git-merge-changelog-20120413-2.1.3.i586.rpm", 
+    "pkg": "git-merge-changelog-20120413", 
+    "pkg_version": "2.1.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "git-merge-changelog-0.1.114.caf1b31-alt2.x86_64.rpm", 
+    "pkg": "git-merge-changelog", 
+    "pkg_version": "0.1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "evolution-rss-0.0.7-1.el5.rf.x86_64.rpm", 
+    "pkg": "evolution-rss", 
+    "pkg_version": "0.0.7", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "evolution-rss_0.3.95~20140414-2+b1_i386.deb", 
+    "pkg": "evolution-rss", 
+    "pkg_version": "0.3.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "evolution-rss_0.3.95~20140414-2+b1_i386.deb", 
+    "pkg": "evolution-rss", 
+    "pkg_version": "0.3.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "evolution-rss_0.3.91-2_i386.deb", 
+    "pkg": "evolution-rss", 
+    "pkg_version": "0.3.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "evolution-rss-0.3.94-11.fc23.x86_64.rpm", 
+    "pkg": "evolution-rss", 
+    "pkg_version": "0.3.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "evolution-rss-0.3.94-11.fc22.x86_64.rpm", 
+    "pkg": "evolution-rss", 
+    "pkg_version": "0.3.9", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "evolution-rss-0.3.94-9.fc21.x86_64.rpm", 
+    "pkg": "evolution-rss", 
+    "pkg_version": "0.3.9", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "evolution-rss-0.3.94-3.fc20.x86_64.rpm", 
+    "pkg": "evolution-rss", 
+    "pkg_version": "0.3.9", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "evolution-plugin-rss-0.3.95~git20141120.b2253df-1.2.x86_64.rpm", 
+    "pkg": "evolution-plugin-rss", 
+    "pkg_version": "0.3.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "evolution-rss-0.3.94-3.fc20.x86_64.rpm", 
+    "pkg": "evolution-rss", 
+    "pkg_version": "0.3.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "evolution-plugin-rss-0.3.95~git20141120.b2253df-8.5.2.x86_64.rpm", 
+    "pkg": "evolution-plugin-rss", 
+    "pkg_version": "0.3.9", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "evolution-rss-0.3.94-3.fc20.x86_64.rpm", 
+    "pkg": "evolution-rss", 
+    "pkg_version": "0.3.9", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "evolution-plugin-rss-0.3.93-5.1.3.i586.rpm", 
+    "pkg": "evolution-plugin-rss", 
+    "pkg_version": "0.3.9", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "evolution-rss-0.3.94-3.fc20.x86_64.rpm", 
+    "pkg": "evolution-rss", 
+    "pkg_version": "0.3.9", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "evolution-plugin-rss-0.3.93-5.1.3.i586.rpm", 
+    "pkg": "evolution-plugin-rss", 
+    "pkg_version": "0.3.9", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "evolution-rss-0.2.5-i486-1sl.txz", 
+    "pkg": "evolution-rss", 
+    "pkg_version": "0.2.5", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "evolution-plugin-rss-0.3.93-5.1.3.i586.rpm", 
+    "pkg": "evolution-plugin-rss", 
+    "pkg_version": "0.3.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "evolution-rss_0.3.95~20140414-2build1_i386.deb", 
+    "pkg": "evolution-rss", 
+    "pkg_version": "0.3.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "evolution-plugin-rss-0.3.93-5.1.3.i586.rpm", 
+    "pkg": "evolution-plugin-rss", 
+    "pkg_version": "0.3.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "evolution-rss_0.3.93-2ubuntu2_i386.deb", 
+    "pkg": "evolution-rss", 
+    "pkg_version": "0.3.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

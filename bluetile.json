@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bluetile_0.6-3_i386.deb", 
+    "pkg": "bluetile", 
+    "pkg_version": "0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bluetile_0.6-1_i386.deb", 
+    "pkg": "bluetile", 
+    "pkg_version": "0.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "bluetile-0.6-27.fc22.x86_64.rpm", 
+    "pkg": "bluetile", 
+    "pkg_version": "0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "bluetile-0.6-27.fc22.x86_64.rpm", 
+    "pkg": "bluetile", 
+    "pkg_version": "0.6", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "bluetile-0.6-26.fc21.x86_64.rpm", 
+    "pkg": "bluetile", 
+    "pkg_version": "0.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "bluetile-0.6-24.fc20.x86_64.rpm", 
+    "pkg": "bluetile", 
+    "pkg_version": "0.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "bluetile_0.6-3_i386.deb", 
+    "pkg": "bluetile", 
+    "pkg_version": "0.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "bluetile_0.6-3_i386.deb", 
+    "pkg": "bluetile", 
+    "pkg_version": "0.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

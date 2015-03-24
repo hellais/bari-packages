@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgtkspellmm-3.0-dev_3.0.3+dfsg-1_i386.deb", 
+    "pkg": "libgtkspellmm", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

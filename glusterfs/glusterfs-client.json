@@ -1,0 +1,397 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libglusterfsclient-2.0.9-alt0.42.g779b491.1.x86_64.rpm", 
+    "pkg": "libglusterfsclient", 
+    "pkg_version": "2.0.9", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libglusterfsclient-2.0.9-alt0.42.g779b491.1.x86_64.rpm", 
+    "pkg": "libglusterfsclient", 
+    "pkg_version": "2.0.9", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "glusterfs-fuse-3.4.0.59rhs-1.el7.centos.x86_64.rpm", 
+    "pkg": "glusterfs-fuse", 
+    "pkg_version": "3.4.0.5", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libglusterfsclient-2.0.9-alt0.42.g779b491.1.x86_64.rpm", 
+    "pkg": "libglusterfsclient", 
+    "pkg_version": "2.0.9", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "glusterfs-fuse-3.6.0.29-2.el6.x86_64.rpm", 
+    "pkg": "glusterfs-fuse", 
+    "pkg_version": "3.6.0.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "glusterfs-client_3.5.2-2_i386.deb", 
+    "pkg": "glusterfs-client", 
+    "pkg_version": "3.5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libglusterfsclient-2.0.9-alt0.42.g779b491.1.x86_64.rpm", 
+    "pkg": "libglusterfsclient", 
+    "pkg_version": "2.0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "glusterfs-fuse-3.6.0.29-2.el6.x86_64.rpm", 
+    "pkg": "glusterfs-fuse", 
+    "pkg_version": "3.6.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "glusterfs-client_3.5.2-1_i386.deb", 
+    "pkg": "glusterfs-client", 
+    "pkg_version": "3.5.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libglusterfsclient-2.0.9-alt0.42.g779b491.1.x86_64.rpm", 
+    "pkg": "libglusterfsclient", 
+    "pkg_version": "2.0.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "glusterfs-fuse-3.6.0.29-2.el6.x86_64.rpm", 
+    "pkg": "glusterfs-fuse", 
+    "pkg_version": "3.6.0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "glusterfs-client_3.2.7-3+deb7u1_i386.deb", 
+    "pkg": "glusterfs-client", 
+    "pkg_version": "3.2.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libglusterfsclient-2.0.9-alt0.42.g779b491.1.x86_64.rpm", 
+    "pkg": "libglusterfsclient", 
+    "pkg_version": "2.0.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "glusterfs-fuse-3.6.0.29-2.el6.x86_64.rpm", 
+    "pkg": "glusterfs-fuse", 
+    "pkg_version": "3.6.0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "glusterfs-client_3.2.7-3+deb7u1_i386.deb", 
+    "pkg": "glusterfs-client", 
+    "pkg_version": "3.2.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libglusterfsclient-2.0.9-alt0.42.g779b491.1.x86_64.rpm", 
+    "pkg": "libglusterfsclient", 
+    "pkg_version": "2.0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "glusterfs-fuse-3.6.2-2.fc23.x86_64.rpm", 
+    "pkg": "glusterfs-fuse", 
+    "pkg_version": "3.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "glusterfs-client_3.2.7-3+deb7u1_i386.deb", 
+    "pkg": "glusterfs-client", 
+    "pkg_version": "3.2.7", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libglusterfsclient-2.0.9-alt0.42.g779b491.1.x86_64.rpm", 
+    "pkg": "libglusterfsclient", 
+    "pkg_version": "2.0.9", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "glusterfs-fuse-3.6.2-2.fc22.x86_64.rpm", 
+    "pkg": "glusterfs-fuse", 
+    "pkg_version": "3.6.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "glusterfs-client_3.2.7-3+deb7u1_i386.deb", 
+    "pkg": "glusterfs-client", 
+    "pkg_version": "3.2.7", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libglusterfsclient-2.0.9-alt0.42.g779b491.1.x86_64.rpm", 
+    "pkg": "libglusterfsclient", 
+    "pkg_version": "2.0.9", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "glusterfs-fuse-3.5.3-1.fc21.x86_64.rpm", 
+    "pkg": "glusterfs-fuse", 
+    "pkg_version": "3.5.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "glusterfs-client_3.2.7-3+deb7u1_i386.deb", 
+    "pkg": "glusterfs-client", 
+    "pkg_version": "3.2.7", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libglusterfsclient-2.0.9-alt0.42.g779b491.1.x86_64.rpm", 
+    "pkg": "libglusterfsclient", 
+    "pkg_version": "2.0.9", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "glusterfs-fuse-3.5.3-1.fc20.x86_64.rpm", 
+    "pkg": "glusterfs-fuse", 
+    "pkg_version": "3.5.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "glusterfs-client-3.4.3-1-omv2014.1.x86_64.rpm", 
+    "pkg": "glusterfs-client", 
+    "pkg_version": "3.4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libglusterfsclient-2.0.9-alt0.42.g779b491.1.x86_64.rpm", 
+    "pkg": "libglusterfsclient", 
+    "pkg_version": "2.0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "glusterfs-fuse-3.5.2-7.mga5.x86_64.rpm", 
+    "pkg": "glusterfs-fuse", 
+    "pkg_version": "3.5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "glusterfs-client-3.4.3-1-omv2014.0.x86_64.rpm", 
+    "pkg": "glusterfs-client", 
+    "pkg_version": "3.4.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libglusterfsclient-2.0.9-alt0.42.g779b491.1.x86_64.rpm", 
+    "pkg": "libglusterfsclient", 
+    "pkg_version": "2.0.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "glusterfs-fuse-3.5.2-7.mga5.x86_64.rpm", 
+    "pkg": "glusterfs-fuse", 
+    "pkg_version": "3.5.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "glusterfs-client-3.2.6-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "glusterfs-client", 
+    "pkg_version": "3.2.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libglusterfsclient-2.0.9-alt0.42.g779b491.1.x86_64.rpm", 
+    "pkg": "libglusterfsclient", 
+    "pkg_version": "2.0.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "glusterfs-fuse-3.5.2-7.mga5.x86_64.rpm", 
+    "pkg": "glusterfs-fuse", 
+    "pkg_version": "3.5.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "glusterfs-client-3.2.6-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "glusterfs-client", 
+    "pkg_version": "3.2.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libglusterfsclient-2.0.9-alt0.42.g779b491.1.x86_64.rpm", 
+    "pkg": "libglusterfsclient", 
+    "pkg_version": "2.0.9", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "glusterfs-fuse-3.5.2-7.mga5.x86_64.rpm", 
+    "pkg": "glusterfs-fuse", 
+    "pkg_version": "3.5.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "glusterfs-client_3.4.2-1ubuntu1_i386.deb", 
+    "pkg": "glusterfs-client", 
+    "pkg_version": "3.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libglusterfsclient-2.0.9-alt0.42.g779b491.1.x86_64.rpm", 
+    "pkg": "libglusterfsclient", 
+    "pkg_version": "2.0.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "glusterfs-fuse-3.5.2-7.mga5.x86_64.rpm", 
+    "pkg": "glusterfs-fuse", 
+    "pkg_version": "3.5.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "glusterfs-client_3.4.2-1ubuntu1_i386.deb", 
+    "pkg": "glusterfs-client", 
+    "pkg_version": "3.4.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libglusterfsclient-2.0.9-alt0.42.g779b491.1.x86_64.rpm", 
+    "pkg": "libglusterfsclient", 
+    "pkg_version": "2.0.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "glusterfs-fuse-3.5.2-7.mga5.x86_64.rpm", 
+    "pkg": "glusterfs-fuse", 
+    "pkg_version": "3.5.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

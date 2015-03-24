@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmariadb-client-lgpl-dev_2.0.0-1_i386.deb", 
+    "pkg": "libmariadb-client-lgpl-dev", 
+    "pkg_version": "2.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

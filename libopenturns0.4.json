@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libopenturns0.4_1.3-2_i386.deb", 
+    "pkg": "libopenturns", 
+    "pkg_version": "0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgeos-doc_3.4.2-6_all.deb", 
+    "pkg": "libgeos-doc", 
+    "pkg_version": "3.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgeos-doc_3.4.2-6_all.deb", 
+    "pkg": "libgeos-doc", 
+    "pkg_version": "3.4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgeos-doc_3.3.3-1.1_all.deb", 
+    "pkg": "libgeos-doc", 
+    "pkg_version": "3.3.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "libgeos-doc-3.4.2-2.19.noarch.rpm", 
+    "pkg": "libgeos-doc", 
+    "pkg_version": "3.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "libgeos-doc-3.4.2-2.10.noarch.rpm", 
+    "pkg": "libgeos-doc", 
+    "pkg_version": "3.4.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libgeos-doc_3.4.2-5_all.deb", 
+    "pkg": "libgeos-doc", 
+    "pkg_version": "3.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libgeos-doc_3.4.2-4ubuntu1_all.deb", 
+    "pkg": "libgeos-doc", 
+    "pkg_version": "3.4.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

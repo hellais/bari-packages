@@ -1,0 +1,55 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "udevil-0.4.3-1-x86_64.pkg.tar.xz", 
+    "pkg": "udevil", 
+    "pkg_version": "0.4.3", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "udevil_0.4.3-1_i386.deb", 
+    "pkg": "udevil", 
+    "pkg_version": "0.4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "udevil_0.4.3-1_i386.deb", 
+    "pkg": "udevil", 
+    "pkg_version": "0.4.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "udevil_0.4.3-1~bpo70+1_i386.deb", 
+    "pkg": "udevil", 
+    "pkg_version": "0.4.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Slackel", 
+    "pkg_full_name": "udevil-0.4.3-x86_64-1dj.txz", 
+    "pkg": "udevil", 
+    "pkg_version": "0.4.3", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "udevil_0.4.3-1_i386.deb", 
+    "pkg": "udevil", 
+    "pkg_version": "0.4.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

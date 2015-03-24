@@ -1,0 +1,128 @@
+[
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "openvswitch-test-1.7.1-6.puias6.noarch.rpm", 
+    "pkg": "openvswitch-test", 
+    "pkg_version": "1.7.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "openvswitch-test_2.3.0+git20140819-3_all.deb", 
+    "pkg": "openvswitch-test", 
+    "pkg_version": "2.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "openvswitch-test_2.3.0+git20140819-3_all.deb", 
+    "pkg": "openvswitch-test", 
+    "pkg_version": "2.3.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Proposed Updates Main", 
+    "pkg_full_name": "openvswitch-test_1.4.2+git20120612-9.1~deb7u1.1_all.deb", 
+    "pkg": "openvswitch-test", 
+    "pkg_version": "1.4.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "openvswitch-test-2.3.1-2.git20150113.fc22.noarch.rpm", 
+    "pkg": "openvswitch-test", 
+    "pkg_version": "2.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "openvswitch-test-2.3.1-2.git20150113.fc22.noarch.rpm", 
+    "pkg": "openvswitch-test", 
+    "pkg_version": "2.3.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "openvswitch-test-2.3.1-2.git20150113.fc21.noarch.rpm", 
+    "pkg": "openvswitch-test", 
+    "pkg_version": "2.3.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "openvswitch-test-2.3.1-2.git20150113.fc20.noarch.rpm", 
+    "pkg": "openvswitch-test", 
+    "pkg_version": "2.3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "openvswitch-test-2.3.1-1.2.x86_64.rpm", 
+    "pkg": "openvswitch-test", 
+    "pkg_version": "2.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "openvswitch-test-1.11.0-0.29.1.x86_64.rpm", 
+    "pkg": "openvswitch-test", 
+    "pkg_version": "1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "openvswitch-test-1.7.1-3-rosa2014.1.noarch.rpm", 
+    "pkg": "openvswitch-test", 
+    "pkg_version": "1.7.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "openvswitch-test-1.7.1-2-rosa2012.1.noarch.rpm", 
+    "pkg": "openvswitch-test", 
+    "pkg_version": "1.7.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "openvswitch-test_2.1.3-0ubuntu1_all.deb", 
+    "pkg": "openvswitch-test", 
+    "pkg_version": "2.1.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "openvswitch-test_2.0.2-0ubuntu0.14.04.1_all.deb", 
+    "pkg": "openvswitch-test", 
+    "pkg_version": "2.0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

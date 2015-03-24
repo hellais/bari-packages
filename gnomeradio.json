@@ -1,0 +1,64 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "gnomeradio-1.8-alt2_24.x86_64.rpm", 
+    "pkg": "gnomeradio", 
+    "pkg_version": "1.8", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnomeradio_1.8-2_i386.deb", 
+    "pkg": "gnomeradio", 
+    "pkg_version": "1.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnomeradio_1.8-2_i386.deb", 
+    "pkg": "gnomeradio", 
+    "pkg_version": "1.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnomeradio_1.8-2_i386.deb", 
+    "pkg": "gnomeradio", 
+    "pkg_version": "1.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnomeradio-1.8-22.fc20.x86_64.rpm", 
+    "pkg": "gnomeradio", 
+    "pkg_version": "1.8", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnomeradio_1.8-2ubuntu30_i386.deb", 
+    "pkg": "gnomeradio", 
+    "pkg_version": "1.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnomeradio_1.8-2ubuntu26_i386.deb", 
+    "pkg": "gnomeradio", 
+    "pkg_version": "1.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

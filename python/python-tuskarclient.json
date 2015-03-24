@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-tuskarclient_0.1.4-1_all.deb", 
+    "pkg": "python-tuskarclient", 
+    "pkg_version": "0.1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-tuskarclient_0.1.4-1_all.deb", 
+    "pkg": "python-tuskarclient", 
+    "pkg_version": "0.1.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-tuskarclient-0.1.15-1.fc22.noarch.rpm", 
+    "pkg": "python-tuskarclient", 
+    "pkg_version": "0.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-tuskarclient-0.1.15-1.fc22.noarch.rpm", 
+    "pkg": "python-tuskarclient", 
+    "pkg_version": "0.1.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-tuskarclient-0.1.4-2.fc21.noarch.rpm", 
+    "pkg": "python-tuskarclient", 
+    "pkg_version": "0.1.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python-tuskarclient-0.1.3-1.fc20.noarch.rpm", 
+    "pkg": "python-tuskarclient", 
+    "pkg_version": "0.1.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

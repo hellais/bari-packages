@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gwibber-service-qaiku_3.0.0.1-2.2_all.deb", 
+    "pkg": "gwibber-service-qaiku", 
+    "pkg_version": "3.0.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

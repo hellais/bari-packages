@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "icinga-cgi_1.11.6-1+b4_i386.deb", 
+    "pkg": "icinga-cgi", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "icinga-cgi_1.11.6-1+b4_i386.deb", 
+    "pkg": "icinga-cgi", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "icinga-cgi_1.7.1-7_i386.deb", 
+    "pkg": "icinga-cgi", 
+    "pkg_version": "1.7.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "icinga-cgi_1.11.6-1build1_i386.deb", 
+    "pkg": "icinga-cgi", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "icinga-cgi_1.10.3-1_i386.deb", 
+    "pkg": "icinga-cgi", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

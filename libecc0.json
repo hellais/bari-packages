@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libecc0_0.44.10-1_i386.deb", 
+    "pkg": "libecc0", 
+    "pkg_version": "0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libecc0_0.44.10-1_i386.deb", 
+    "pkg": "libecc0", 
+    "pkg_version": "0.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libecc0_0.44.10-0ubuntu1_i386.deb", 
+    "pkg": "libecc0", 
+    "pkg_version": "0.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

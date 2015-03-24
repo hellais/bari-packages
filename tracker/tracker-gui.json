@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tracker-gui_1.2.4-2_i386.deb", 
+    "pkg": "tracker-gui", 
+    "pkg_version": "1.2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tracker-gui_1.2.4-2_i386.deb", 
+    "pkg": "tracker-gui", 
+    "pkg_version": "1.2.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tracker-gui_0.14.1-3_i386.deb", 
+    "pkg": "tracker-gui", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "tracker-gui-1.2.5-2.1.x86_64.rpm", 
+    "pkg": "tracker-gui", 
+    "pkg_version": "1.2.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "tracker-gui-1.2.5-6.13.x86_64.rpm", 
+    "pkg": "tracker-gui", 
+    "pkg_version": "1.2.5", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "tracker-gui-0.16.3-2.5.1.x86_64.rpm", 
+    "pkg": "tracker-gui", 
+    "pkg_version": "0.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "tracker-gui_1.0.6-0ubuntu1_i386.deb", 
+    "pkg": "tracker-gui", 
+    "pkg_version": "1.0.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "tracker-gui_0.16.5-0ubuntu0.1_i386.deb", 
+    "pkg": "tracker-gui", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

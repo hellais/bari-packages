@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "trove-doc_2014.1.3-8_all.deb", 
+    "pkg": "trove-doc_201", 
+    "pkg_version": "4.1.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

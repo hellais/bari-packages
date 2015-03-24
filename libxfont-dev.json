@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libxfont-dev_1.5.1-1_i386.deb", 
+    "pkg": "libxfont-dev", 
+    "pkg_version": "1.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libxfont-dev_1.5.1-1_i386.deb", 
+    "pkg": "libxfont-dev", 
+    "pkg_version": "1.5.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "libxfont-dev_1.4.5-5_i386.deb", 
+    "pkg": "libxfont-dev", 
+    "pkg_version": "1.4.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "libxfont-dev_1.4.99.901-1ubuntu0.1_i386.deb", 
+    "pkg": "libxfont-dev", 
+    "pkg_version": "1.4.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "libxfont-dev_1.4.7-1ubuntu0.2_i386.deb", 
+    "pkg": "libxfont-dev", 
+    "pkg_version": "1.4.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

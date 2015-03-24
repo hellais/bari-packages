@@ -1,0 +1,207 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "os-prober-1.61-alt1.x86_64.rpm", 
+    "pkg": "os-prober", 
+    "pkg_version": "1.6", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "os-prober-1.64-1-x86_64.pkg.tar.xz", 
+    "pkg": "os-prober", 
+    "pkg_version": "1.6", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "os-prober-1.58-5.el7.x86_64.rpm", 
+    "pkg": "os-prober", 
+    "pkg_version": "1.5", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "os-prober_1.65_i386.deb", 
+    "pkg": "os-prober", 
+    "pkg_version": "1.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "os-prober_1.65_i386.deb", 
+    "pkg": "os-prober", 
+    "pkg_version": "1.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "os-prober_1.58_i386.deb", 
+    "pkg": "os-prober", 
+    "pkg_version": "1.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "os-prober-1.65-2.fc22.x86_64.rpm", 
+    "pkg": "os-prober", 
+    "pkg_version": "1.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "os-prober-1.65-2.fc22.x86_64.rpm", 
+    "pkg": "os-prober", 
+    "pkg_version": "1.6", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "os-prober-1.65-2.fc21.x86_64.rpm", 
+    "pkg": "os-prober", 
+    "pkg_version": "1.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "os-prober-1.58-8.fc20.x86_64.rpm", 
+    "pkg": "os-prober", 
+    "pkg_version": "1.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "os-prober-1.64-2-omv2015.0.x86_64.rpm", 
+    "pkg": "os-prober", 
+    "pkg_version": "1.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "os-prober-1.63-3-omv2014.0.x86_64.rpm", 
+    "pkg": "os-prober", 
+    "pkg_version": "1.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "os-prober-1.63-2-omv2013.0.x86_64.rpm", 
+    "pkg": "os-prober", 
+    "pkg_version": "1.6", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "os-prober-1.65-2.1.x86_64.rpm", 
+    "pkg": "os-prober", 
+    "pkg_version": "1.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "os-prober-1.61-12.2.2.x86_64.rpm", 
+    "pkg": "os-prober", 
+    "pkg_version": "1.6", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "os-prober-1.61-3.1.2.i586.rpm", 
+    "pkg": "os-prober", 
+    "pkg_version": "1.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "os-prober-1.63-7-rosa2014.1.x86_64.rpm", 
+    "pkg": "os-prober", 
+    "pkg_version": "1.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "os-prober-1.63-4-rosa2012.1.x86_64.rpm", 
+    "pkg": "os-prober", 
+    "pkg_version": "1.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "os-prober-1.63-x86_64-1.txz", 
+    "pkg": "os-prober", 
+    "pkg_version": "1.6", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "os-prober-1.56-x86_64-1dj.txz", 
+    "pkg": "os-prober", 
+    "pkg_version": "1.5", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "os-prober-1.49-x86_64-1ab.txz", 
+    "pkg": "os-prober", 
+    "pkg_version": "1.4", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "os-prober_1.63ubuntu1_i386.deb", 
+    "pkg": "os-prober", 
+    "pkg_version": "1.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "os-prober_1.63ubuntu1_i386.deb", 
+    "pkg": "os-prober", 
+    "pkg_version": "1.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

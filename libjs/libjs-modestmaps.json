@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libjs-modestmaps_3.3.6+ds1-1.1_all.deb", 
+    "pkg": "libjs-modestmaps", 
+    "pkg_version": "3.3.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libjs-modestmaps_3.3.6+ds1-1.1_all.deb", 
+    "pkg": "libjs-modestmaps", 
+    "pkg_version": "3.3.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libjs-modestmaps_3.3.6+ds1-1.1_all.deb", 
+    "pkg": "libjs-modestmaps", 
+    "pkg_version": "3.3.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

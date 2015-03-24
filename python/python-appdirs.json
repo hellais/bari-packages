@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-appdirs_1.3.0-2_all.deb", 
+    "pkg": "python-appdirs", 
+    "pkg_version": "1.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-appdirs_1.3.0-2_all.deb", 
+    "pkg": "python-appdirs", 
+    "pkg_version": "1.3.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "python-appdirs_1.3.0-1~bpo70+1_all.deb", 
+    "pkg": "python-appdirs", 
+    "pkg_version": "1.3.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "python-appdirs-1.4.0-1-rosa2014.1.noarch.rpm", 
+    "pkg": "python-appdirs", 
+    "pkg_version": "1.4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-appdirs_1.3.0-2_all.deb", 
+    "pkg": "python-appdirs", 
+    "pkg_version": "1.3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

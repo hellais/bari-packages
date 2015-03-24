@@ -1,0 +1,164 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "ansible-1.8.4-1.el7.noarch.rpm", 
+    "pkg": "ansible", 
+    "pkg_version": "1.8.4", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "ansible-1.4.3-1.sdl6.noarch.rpm", 
+    "pkg": "ansible", 
+    "pkg_version": "1.4.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "ansible-1.4.3-1.sdl6.noarch.rpm", 
+    "pkg": "ansible", 
+    "pkg_version": "1.4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ansible-fireball_1.7.2+dfsg-2_all.deb", 
+    "pkg": "ansible-fireball", 
+    "pkg_version": "1.7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "ansible-1.4.3-1.sdl6.noarch.rpm", 
+    "pkg": "ansible", 
+    "pkg_version": "1.4.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ansible-fireball_1.7.2+dfsg-2_all.deb", 
+    "pkg": "ansible-fireball", 
+    "pkg_version": "1.7.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "ansible-1.4.3-1.sdl6.noarch.rpm", 
+    "pkg": "ansible", 
+    "pkg_version": "1.4.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "ansible-fireball_1.7.2+dfsg-2~bpo70+1_all.deb", 
+    "pkg": "ansible-fireball", 
+    "pkg_version": "1.7.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ansible-1.8.4-1.fc23.noarch.rpm", 
+    "pkg": "ansible", 
+    "pkg_version": "1.8.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "ansible-fireball_1.7.2+dfsg-2~bpo70+1_all.deb", 
+    "pkg": "ansible-fireball", 
+    "pkg_version": "1.7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ansible-1.8.4-1.fc22.noarch.rpm", 
+    "pkg": "ansible", 
+    "pkg_version": "1.8.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "ansible-fireball_1.7.2+dfsg-2~bpo70+1_all.deb", 
+    "pkg": "ansible-fireball", 
+    "pkg_version": "1.7.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "ansible-1.8.4-1.fc21.noarch.rpm", 
+    "pkg": "ansible", 
+    "pkg_version": "1.8.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "ansible-fireball_1.7.2+dfsg-2~bpo70+1_all.deb", 
+    "pkg": "ansible-fireball", 
+    "pkg_version": "1.7.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "ansible-1.8.4-1.fc20.noarch.rpm", 
+    "pkg": "ansible", 
+    "pkg_version": "1.8.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "ansible-fireball_1.7.2+dfsg-2~bpo70+1_all.deb", 
+    "pkg": "ansible-fireball", 
+    "pkg_version": "1.7.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "ansible-1.8.4-1.fc20.noarch.rpm", 
+    "pkg": "ansible", 
+    "pkg_version": "1.8.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ansible-fireball_1.7.2+dfsg-1_all.deb", 
+    "pkg": "ansible-fireball", 
+    "pkg_version": "1.7.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

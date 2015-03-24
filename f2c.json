@@ -1,0 +1,398 @@
+[
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "f2c-20031026-3.0.1.el7.x86_64.rpm", 
+    "pkg": "f2c-20031026", 
+    "pkg_version": "3.0.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "f2c-20031026-3.0.1.el6.x86_64.rpm", 
+    "pkg": "f2c-20031026", 
+    "pkg_version": "3.0.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "f2c-20031026-3.0.1.el5.x86_64.rpm", 
+    "pkg": "f2c-20031026", 
+    "pkg_version": "3.0.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "f2c-20031026-3.0.1.el5.x86_64.rpm", 
+    "pkg": "f2c-20031026", 
+    "pkg_version": "3.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "f2c-20031026-3.0.1.el5.x86_64.rpm", 
+    "pkg": "f2c-20031026", 
+    "pkg_version": "3.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "f2c-20031026-3.0.1.el5.x86_64.rpm", 
+    "pkg": "f2c-20031026", 
+    "pkg_version": "3.0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "f2c-20031026-3.0.1.el5.x86_64.rpm", 
+    "pkg": "f2c-20031026", 
+    "pkg_version": "3.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "f2c-20031026-3.0.1.el5.x86_64.rpm", 
+    "pkg": "f2c-20031026", 
+    "pkg_version": "3.0.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "f2c-20031026-3.0.1.el5.x86_64.rpm", 
+    "pkg": "f2c-20031026", 
+    "pkg_version": "3.0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "f2c-20031026-3.0.1.fc20.x86_64.rpm", 
+    "pkg": "f2c-20031026", 
+    "pkg_version": "3.0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "f2c-20031026-3.0.1.fc20.x86_64.rpm", 
+    "pkg": "f2c-20031026", 
+    "pkg_version": "3.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "f2c-20110801-3-omv2013.0.x86_64.rpm", 
+    "pkg": "f2c-20110801-3-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "f2c-0.11-1218.2.x86_64.rpm", 
+    "pkg": "f2c", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "f2c-20031026-3.0.1.fc20.x86_64.rpm", 
+    "pkg": "f2c-20031026", 
+    "pkg_version": "3.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "f2c-20110801-3-omv2013.0.x86_64.rpm", 
+    "pkg": "f2c-20110801-3-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "f2c-0.11-1217.1.2.x86_64.rpm", 
+    "pkg": "f2c", 
+    "pkg_version": "0.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "f2c-20031026-3.0.1.fc20.x86_64.rpm", 
+    "pkg": "f2c-20031026", 
+    "pkg_version": "3.0.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "f2c-20110801-3-omv2013.0.x86_64.rpm", 
+    "pkg": "f2c-20110801-3-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "f2c-0.11-1215.1.2.i586.rpm", 
+    "pkg": "f2c", 
+    "pkg_version": "0.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "f2c-20031026-3.0.1.fc20.x86_64.rpm", 
+    "pkg": "f2c-20031026", 
+    "pkg_version": "3.0.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "f2c-20110801-3-omv2013.0.x86_64.rpm", 
+    "pkg": "f2c-20110801-3-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "f2c-0.11-1215.1.2.i586.rpm", 
+    "pkg": "f2c", 
+    "pkg_version": "0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "f2c-20110801-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "f2c-20110801-3-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "f2c-20031026-3.0.1.fc20.x86_64.rpm", 
+    "pkg": "f2c-20031026", 
+    "pkg_version": "3.0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "f2c-20110801-3-omv2013.0.x86_64.rpm", 
+    "pkg": "f2c-20110801-3-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "f2c-20031026-5-rosa2014.1.x86_64.rpm", 
+    "pkg": "f2c-20031026-5-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "f2c-0.11-1215.1.2.i586.rpm", 
+    "pkg": "f2c", 
+    "pkg_version": "0.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "f2c-20031026-3.0.1-rosa2012.1.x86_64.rpm", 
+    "pkg": "f2c-20031026", 
+    "pkg_version": "3.0.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "f2c-20110801-3-omv2013.0.x86_64.rpm", 
+    "pkg": "f2c-20110801-3-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "f2c-20031026-5-rosa2014.1.x86_64.rpm", 
+    "pkg": "f2c-20031026-5-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "f2c-20110801-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "f2c-20110801-3-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "f2c-20031026-4-rosa2012.1.x86_64.rpm", 
+    "pkg": "f2c-20031026-4-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "f2c-0.11-1215.1.2.i586.rpm", 
+    "pkg": "f2c", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "f2c-20031026-3.0.1-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "f2c-20031026", 
+    "pkg_version": "3.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "f2c-20110801-3-omv2013.0.x86_64.rpm", 
+    "pkg": "f2c-20110801-3-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "f2c-20031026-5-rosa2014.1.x86_64.rpm", 
+    "pkg": "f2c-20031026-5-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "f2c-20110801-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "f2c-20110801-3-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "f2c-20031026-4-rosa2012.1.x86_64.rpm", 
+    "pkg": "f2c-20031026-4-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "f2c-0.11-1215.1.2.i586.rpm", 
+    "pkg": "f2c", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "f2c-20031026-3.0.1-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "f2c-20031026", 
+    "pkg_version": "3.0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "f2c-20110801-3-omv2013.0.x86_64.rpm", 
+    "pkg": "f2c-20110801-3-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "f2c-20031026-5-rosa2014.1.x86_64.rpm", 
+    "pkg": "f2c-20031026-5-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "f2c-20110801-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "f2c-20110801-3-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "f2c-20031026-4-rosa2012.1.x86_64.rpm", 
+    "pkg": "f2c-20031026-4-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

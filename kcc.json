@@ -1,0 +1,100 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "kcc-2.3-alt1_37.x86_64.rpm", 
+    "pkg": "kcc", 
+    "pkg_version": "2.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "kcc-2.3-24.2.2.x86_64.rpm", 
+    "pkg": "kcc", 
+    "pkg_version": "2.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kcc_2.3-12_i386.deb", 
+    "pkg": "kcc", 
+    "pkg_version": "2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kcc_2.3-12_i386.deb", 
+    "pkg": "kcc", 
+    "pkg_version": "2.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kcc_2.3-12_i386.deb", 
+    "pkg": "kcc", 
+    "pkg_version": "2.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kcc-2.3-37.x86_64.rpm", 
+    "pkg": "kcc", 
+    "pkg_version": "2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kcc-2.3-37.x86_64.rpm", 
+    "pkg": "kcc", 
+    "pkg_version": "2.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kcc-2.3-36.x86_64.rpm", 
+    "pkg": "kcc", 
+    "pkg_version": "2.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kcc-2.3-35.x86_64.rpm", 
+    "pkg": "kcc", 
+    "pkg_version": "2.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "kcc_2.3-12_i386.deb", 
+    "pkg": "kcc", 
+    "pkg_version": "2.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "kcc_2.3-12_i386.deb", 
+    "pkg": "kcc", 
+    "pkg_version": "2.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

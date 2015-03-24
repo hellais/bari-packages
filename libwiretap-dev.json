@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwiretap-dev_1.12.1+g01b65bf-3_i386.deb", 
+    "pkg": "libwiretap-dev", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwiretap-dev_1.12.1+g01b65bf-3_i386.deb", 
+    "pkg": "libwiretap-dev", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "libwiretap-dev_1.8.2-5wheezy14_i386.deb", 
+    "pkg": "libwiretap-dev", 
+    "pkg_version": "1.8.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "libwiretap-dev_1.12.1+g01b65bf-2~ubuntu14.10.2_i386.deb", 
+    "pkg": "libwiretap-dev", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libwiretap-dev_1.10.6-1_i386.deb", 
+    "pkg": "libwiretap-dev", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

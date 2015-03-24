@@ -1,0 +1,64 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "tora-2.1.4-alt1.svn4502.1.x86_64.rpm", 
+    "pkg": "tora", 
+    "pkg_version": "2.1.4", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "tora-2.1.2-1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "tora", 
+    "pkg_version": "2.1.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tora_2.1.3-2+b2_i386.deb", 
+    "pkg": "tora", 
+    "pkg_version": "2.1.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tora_2.1.3-2+b2_i386.deb", 
+    "pkg": "tora", 
+    "pkg_version": "2.1.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tora_2.1.3-2_i386.deb", 
+    "pkg": "tora", 
+    "pkg_version": "2.1.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "tora_2.1.3-2build2_i386.deb", 
+    "pkg": "tora", 
+    "pkg_version": "2.1.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "tora_2.1.3-2build2_i386.deb", 
+    "pkg": "tora", 
+    "pkg_version": "2.1.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

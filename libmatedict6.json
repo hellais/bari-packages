@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmatedict6_1.8.1+dfsg1-2_i386.deb", 
+    "pkg": "libmatedict6", 
+    "pkg_version": "1.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmatedict6_1.8.1+dfsg1-2_i386.deb", 
+    "pkg": "libmatedict6", 
+    "pkg_version": "1.8.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "libmatedict6_1.8.0+dfsg1-4~bpo70+1_i386.deb", 
+    "pkg": "libmatedict6", 
+    "pkg_version": "1.8.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "libmatedict6-1.8.1-2-omv2015.0.i586.rpm", 
+    "pkg": "libmatedict6", 
+    "pkg_version": "1.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "libmatedict6-1.8.0-1-omv2014.0.i586.rpm", 
+    "pkg": "libmatedict6", 
+    "pkg_version": "1.8.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libmatedict6-1.8.1-1.2.x86_64.rpm", 
+    "pkg": "libmatedict6", 
+    "pkg_version": "1.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libmatedict6-1.8.1-1.1.x86_64.rpm", 
+    "pkg": "libmatedict6", 
+    "pkg_version": "1.8.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "libmatedict6-1.4.0-1-rosa2012.1.i586.rpm", 
+    "pkg": "libmatedict6", 
+    "pkg_version": "1.4.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

@@ -1,0 +1,353 @@
+[
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kover-6-9-omv2015.0.x86_64.rpm", 
+    "pkg": "kover-6-9-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kover-6-9-omv2015.0.x86_64.rpm", 
+    "pkg": "kover-6-9-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kover-6-2-omv2014.0.x86_64.rpm", 
+    "pkg": "kover-6-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kover-6-9-omv2015.0.x86_64.rpm", 
+    "pkg": "kover-6-9-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kover-6-2-omv2014.0.x86_64.rpm", 
+    "pkg": "kover-6-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kover-6-1-omv2013.0.x86_64.rpm", 
+    "pkg": "kover-6-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE KDE Extra", 
+    "pkg_full_name": "kover-6-1.7.x86_64.rpm", 
+    "pkg": "kover-6", 
+    "pkg_version": "1.7", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kover-6-9-omv2015.0.x86_64.rpm", 
+    "pkg": "kover-6-9-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kover-6-2-omv2014.0.x86_64.rpm", 
+    "pkg": "kover-6-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kover-6-1-omv2013.0.x86_64.rpm", 
+    "pkg": "kover-6-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE KDE Extra", 
+    "pkg_full_name": "kover-6-1.40.x86_64.rpm", 
+    "pkg": "kover-6", 
+    "pkg_version": "1.4", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kover-6-9-omv2015.0.x86_64.rpm", 
+    "pkg": "kover-6-9-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kover-6-2-omv2014.0.x86_64.rpm", 
+    "pkg": "kover-6-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kover-6-1-omv2013.0.x86_64.rpm", 
+    "pkg": "kover-6-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE KDE Extra", 
+    "pkg_full_name": "kover-6-1.40.x86_64.rpm", 
+    "pkg": "kover-6", 
+    "pkg_version": "1.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kover-6-9-omv2015.0.x86_64.rpm", 
+    "pkg": "kover-6-9-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kover-6-2-omv2014.0.x86_64.rpm", 
+    "pkg": "kover-6-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "kover-6-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "kover-6-1-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kover-6-1-omv2013.0.x86_64.rpm", 
+    "pkg": "kover-6-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kover-6-2-omv2014.0.x86_64.rpm", 
+    "pkg": "kover-6-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "kover-4-6-rosa2012.1.x86_64.rpm", 
+    "pkg": "kover-4-6-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "kover-6-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "kover-6-1-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kover-6-9-omv2015.0.x86_64.rpm", 
+    "pkg": "kover-6-9-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kover-6-1-omv2013.0.x86_64.rpm", 
+    "pkg": "kover-6-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE KDE Extra", 
+    "pkg_full_name": "kover-6-1.40.x86_64.rpm", 
+    "pkg": "kover-6", 
+    "pkg_version": "1.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kover-6-2-omv2014.0.x86_64.rpm", 
+    "pkg": "kover-6-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "kover-4-6-rosa2012.1.x86_64.rpm", 
+    "pkg": "kover-4-6-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "kover-6-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "kover-6-1-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "kover-4-6-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "kover-4-6-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kover-6-9-omv2015.0.x86_64.rpm", 
+    "pkg": "kover-6-9-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kover-6-1-omv2013.0.x86_64.rpm", 
+    "pkg": "kover-6-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE KDE Extra", 
+    "pkg_full_name": "kover-6-1.40.x86_64.rpm", 
+    "pkg": "kover-6", 
+    "pkg_version": "1.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kover-6-2-omv2014.0.x86_64.rpm", 
+    "pkg": "kover-6-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "kover-4-6-rosa2012.1.x86_64.rpm", 
+    "pkg": "kover-4-6-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "kover-6-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "kover-6-1-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "kover-4-6-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "kover-4-6-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kover-6-9-omv2015.0.x86_64.rpm", 
+    "pkg": "kover-6-9-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kover-6-1-omv2013.0.x86_64.rpm", 
+    "pkg": "kover-6-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE KDE Extra", 
+    "pkg_full_name": "kover-6-1.40.x86_64.rpm", 
+    "pkg": "kover-6", 
+    "pkg_version": "1.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

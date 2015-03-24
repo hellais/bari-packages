@@ -1,0 +1,100 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "mythes-ne-1.1-alt1_7.noarch.rpm", 
+    "pkg": "mythes-ne", 
+    "pkg_version": "1.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "mythes-ne-1.1-6.el7.noarch.rpm", 
+    "pkg": "mythes-ne", 
+    "pkg_version": "1.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mythes-ne_3.3.0-4_all.deb", 
+    "pkg": "mythes-ne", 
+    "pkg_version": "3.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mythes-ne_3.3.0-4_all.deb", 
+    "pkg": "mythes-ne", 
+    "pkg_version": "3.3.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mythes-ne_3.3.0-4_all.deb", 
+    "pkg": "mythes-ne", 
+    "pkg_version": "3.3.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mythes-ne-1.1-7.fc21.noarch.rpm", 
+    "pkg": "mythes-ne", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mythes-ne-1.1-7.fc21.noarch.rpm", 
+    "pkg": "mythes-ne", 
+    "pkg_version": "1.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mythes-ne-1.1-7.fc21.noarch.rpm", 
+    "pkg": "mythes-ne", 
+    "pkg_version": "1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mythes-ne-1.1-6.fc20.noarch.rpm", 
+    "pkg": "mythes-ne", 
+    "pkg_version": "1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "mythes-ne_4.2.1-0ubuntu3_all.deb", 
+    "pkg": "mythes-ne", 
+    "pkg_version": "4.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "mythes-ne_4.2.1-0ubuntu1.1_all.deb", 
+    "pkg": "mythes-ne", 
+    "pkg_version": "4.2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

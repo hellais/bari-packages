@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgexiv2-2_0.10.2-2_i386.deb", 
+    "pkg": "libgexiv2-2", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgexiv2-2_0.10.2-2_i386.deb", 
+    "pkg": "libgexiv2-2", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libgexiv2-2-0.10.2-1.1.x86_64.rpm", 
+    "pkg": "libgexiv2-2", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libgexiv2-2-0.7.0-2.1.4.x86_64.rpm", 
+    "pkg": "libgexiv2-2", 
+    "pkg_version": "0.7.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libgexiv2-2-0.6.1-2.1.2.i586.rpm", 
+    "pkg": "libgexiv2-2", 
+    "pkg_version": "0.6.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libgexiv2-2_0.10.1-1build1_i386.deb", 
+    "pkg": "libgexiv2-2", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

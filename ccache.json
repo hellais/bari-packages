@@ -1,0 +1,216 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ccache-3.0.1-alt1.1.x86_64.rpm", 
+    "pkg": "ccache", 
+    "pkg_version": "3.0.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "ccache-3.2.1-1-x86_64.pkg.tar.xz", 
+    "pkg": "ccache", 
+    "pkg_version": "3.2.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "ccache-3.1.9-3.el7.x86_64.rpm", 
+    "pkg": "ccache", 
+    "pkg_version": "3.1.9", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "ccache-2.4-1.2.el6.rf.x86_64.rpm", 
+    "pkg": "ccache", 
+    "pkg_version": "2.4", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "ccache-2.4-10.el5.x86_64.rpm", 
+    "pkg": "ccache", 
+    "pkg_version": "2.4", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ccache_3.1.10-1_i386.deb", 
+    "pkg": "ccache", 
+    "pkg_version": "3.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ccache_3.1.10-1_i386.deb", 
+    "pkg": "ccache", 
+    "pkg_version": "3.1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ccache_3.1.7-1_i386.deb", 
+    "pkg": "ccache", 
+    "pkg_version": "3.1.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ccache-3.2.1-1.fc22.x86_64.rpm", 
+    "pkg": "ccache", 
+    "pkg_version": "3.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ccache-3.2.1-1.fc22.x86_64.rpm", 
+    "pkg": "ccache", 
+    "pkg_version": "3.2.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ccache-3.1.10-1.fc21.x86_64.rpm", 
+    "pkg": "ccache", 
+    "pkg_version": "3.1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ccache-3.1.9-4.fc20.x86_64.rpm", 
+    "pkg": "ccache", 
+    "pkg_version": "3.1.9", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "ccache-3.1.9-6-omv2015.0.x86_64.rpm", 
+    "pkg": "ccache", 
+    "pkg_version": "3.1.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "ccache-3.1.9-1-omv2013.0.x86_64.rpm", 
+    "pkg": "ccache", 
+    "pkg_version": "3.1.9", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ccache-3.1.9-6.2.x86_64.rpm", 
+    "pkg": "ccache", 
+    "pkg_version": "3.1.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ccache-3.1.9-5.1.2.x86_64.rpm", 
+    "pkg": "ccache", 
+    "pkg_version": "3.1.9", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ccache-3.1.9-3.1.2.i586.rpm", 
+    "pkg": "ccache", 
+    "pkg_version": "3.1.9", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "ccache-3.1.7-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "ccache", 
+    "pkg_version": "3.1.7", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "ccache-3.1.7-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "ccache", 
+    "pkg_version": "3.1.7", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "ccache-3.1.9-x86_64-1.txz", 
+    "pkg": "ccache", 
+    "pkg_version": "3.1.9", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "ccache-3.1.8-x86_64-1.txz", 
+    "pkg": "ccache", 
+    "pkg_version": "3.1.8", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "ccache-3.1.4-x86_64-1.txz", 
+    "pkg": "ccache", 
+    "pkg_version": "3.1.4", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "ccache_3.1.9-1_i386.deb", 
+    "pkg": "ccache", 
+    "pkg_version": "3.1.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "ccache_3.1.9-1_i386.deb", 
+    "pkg": "ccache", 
+    "pkg_version": "3.1.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

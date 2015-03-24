@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "erlang-xmlrpc-1.13-6.el7.x86_64.rpm", 
+    "pkg": "erlang-xmlrpc", 
+    "pkg_version": "1.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "erlang-xmlrpc-1.13-2.el6.x86_64.rpm", 
+    "pkg": "erlang-xmlrpc", 
+    "pkg_version": "1.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "erlang-xmlrpc_0.2014.03.17-2_i386.deb", 
+    "pkg": "erlang-xmlrpc", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "erlang-xmlrpc_0.2014.03.17-2_i386.deb", 
+    "pkg": "erlang-xmlrpc", 
+    "pkg_version": "0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "erlang-xmlrpc-1.13-9.fc22.x86_64.rpm", 
+    "pkg": "erlang-xmlrpc", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "erlang-xmlrpc-1.13-9.fc22.x86_64.rpm", 
+    "pkg": "erlang-xmlrpc", 
+    "pkg_version": "1.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "erlang-xmlrpc-1.13-9.fc21.x86_64.rpm", 
+    "pkg": "erlang-xmlrpc", 
+    "pkg_version": "1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "erlang-xmlrpc-1.13-7.fc20.x86_64.rpm", 
+    "pkg": "erlang-xmlrpc", 
+    "pkg_version": "1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

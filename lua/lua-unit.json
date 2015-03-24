@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lua-unit_3.0-1_all.deb", 
+    "pkg": "lua-unit", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lua-unit_3.0-1_all.deb", 
+    "pkg": "lua-unit", 
+    "pkg_version": "3.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "lua-unit_1.5+gita58da93-2_all.deb", 
+    "pkg": "lua-unit", 
+    "pkg_version": "1.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

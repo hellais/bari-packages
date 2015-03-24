@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtotem-plparser18_3.10.3-1_i386.deb", 
+    "pkg": "libtotem-plparser18", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtotem-plparser18_3.10.3-1_i386.deb", 
+    "pkg": "libtotem-plparser18", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libtotem-plparser18-3.10.3-2-omv2015.0.i586.rpm", 
+    "pkg": "libtotem-plparser18", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libtotem-plparser18-3.10.4-1.1.x86_64.rpm", 
+    "pkg": "libtotem-plparser18", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libtotem-plparser18-3.10.3-1.1.x86_64.rpm", 
+    "pkg": "libtotem-plparser18", 
+    "pkg_version": "3.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "libtotem-plparser18-3.10.1-10.1.x86_64.rpm", 
+    "pkg": "libtotem-plparser18", 
+    "pkg_version": "3.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libtotem-plparser18-3.10.2-3-rosa2014.1.i586.rpm", 
+    "pkg": "libtotem-plparser18", 
+    "pkg_version": "3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libtotem-plparser18_3.10.2-3ubuntu1_i386.deb", 
+    "pkg": "libtotem-plparser18", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

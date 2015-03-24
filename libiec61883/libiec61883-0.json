@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libiec61883-0_1.2.0-0.2_i386.deb", 
+    "pkg": "libiec61883-0", 
+    "pkg_version": "1.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libiec61883-0_1.2.0-0.2_i386.deb", 
+    "pkg": "libiec61883-0", 
+    "pkg_version": "1.2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libiec61883-0_1.2.0-0.1_i386.deb", 
+    "pkg": "libiec61883-0", 
+    "pkg_version": "1.2.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libiec61883-0_1.2.0-0.1ubuntu3_i386.deb", 
+    "pkg": "libiec61883-0", 
+    "pkg_version": "1.2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libiec61883-0_1.2.0-0.1ubuntu3_i386.deb", 
+    "pkg": "libiec61883-0", 
+    "pkg_version": "1.2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "tetex-latex-feynmf-1.08-alt3.1.1.noarch.rpm", 
+    "pkg": "tetex-latex-feynmf", 
+    "pkg_version": "1.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "tetex-latex-feynmf-1.08-alt3.1.1.noarch.rpm", 
+    "pkg": "tetex-latex-feynmf", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "feynmf_1.08-9_all.deb", 
+    "pkg": "feynmf", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "tetex-latex-feynmf-1.08-alt3.1.1.noarch.rpm", 
+    "pkg": "tetex-latex-feynmf", 
+    "pkg_version": "1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "feynmf_1.08-9_all.deb", 
+    "pkg": "feynmf", 
+    "pkg_version": "1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "tetex-latex-feynmf-1.08-alt3.1.1.noarch.rpm", 
+    "pkg": "tetex-latex-feynmf", 
+    "pkg_version": "1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "feynmf_1.08-8_all.deb", 
+    "pkg": "feynmf", 
+    "pkg_version": "1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "tetex-latex-feynmf-1.08-alt3.1.1.noarch.rpm", 
+    "pkg": "tetex-latex-feynmf", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "feynmf_1.08-9_all.deb", 
+    "pkg": "feynmf", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "tetex-latex-feynmf-1.08-alt3.1.1.noarch.rpm", 
+    "pkg": "tetex-latex-feynmf", 
+    "pkg_version": "1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "feynmf_1.08-9_all.deb", 
+    "pkg": "feynmf", 
+    "pkg_version": "1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

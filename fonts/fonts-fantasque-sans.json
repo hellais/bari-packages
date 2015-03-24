@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fonts-fantasque-sans_1.6.4~dfsg-1_all.deb", 
+    "pkg": "fonts-fantasque-sans", 
+    "pkg_version": "1.6.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

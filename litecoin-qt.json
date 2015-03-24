@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "litecoin-qt_0.8.7.5-1_i386.deb", 
+    "pkg": "litecoin-qt", 
+    "pkg_version": "0.8.7.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "litecoin-qt-0.8.6.2-11.1.x86_64.rpm", 
+    "pkg": "litecoin-qt", 
+    "pkg_version": "0.8.6.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "litecoin-qt-0.8.6.2-11.1.x86_64.rpm", 
+    "pkg": "litecoin-qt", 
+    "pkg_version": "0.8.6.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

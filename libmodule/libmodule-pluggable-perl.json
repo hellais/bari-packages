@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmodule-pluggable-perl_5.1-1_all.deb", 
+    "pkg": "libmodule-pluggable-perl", 
+    "pkg_version": "5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmodule-pluggable-perl_5.1-1_all.deb", 
+    "pkg": "libmodule-pluggable-perl", 
+    "pkg_version": "5.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "perl-modules_5.14.2-21+deb7u2_all.deb", 
+    "pkg": "perl-modules", 
+    "pkg_version": "5.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmodule-pluggable-perl_5.1-1_all.deb", 
+    "pkg": "libmodule-pluggable-perl", 
+    "pkg_version": "5.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "perl-modules_5.14.2-21+deb7u2_all.deb", 
+    "pkg": "perl-modules", 
+    "pkg_version": "5.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libmodule-pluggable-perl_5.1-1_all.deb", 
+    "pkg": "libmodule-pluggable-perl", 
+    "pkg_version": "5.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "perl-modules_5.14.2-21+deb7u2_all.deb", 
+    "pkg": "perl-modules", 
+    "pkg_version": "5.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libmodule-pluggable-perl_5.1-1_all.deb", 
+    "pkg": "libmodule-pluggable-perl", 
+    "pkg_version": "5.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

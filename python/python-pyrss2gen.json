@@ -1,0 +1,128 @@
+[
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "python-pyrss2gen-1.0.0-2.2.el5.rf.noarch.rpm", 
+    "pkg": "python-pyrss2gen", 
+    "pkg_version": "1.0.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-pyrss2gen_1.1-1_all.deb", 
+    "pkg": "python-pyrss2gen", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-pyrss2gen_1.1-1_all.deb", 
+    "pkg": "python-pyrss2gen", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-pyrss2gen_1.0.0-9_all.deb", 
+    "pkg": "python-pyrss2gen", 
+    "pkg_version": "1.0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-pyrss2gen_1.0.0-9_all.deb", 
+    "pkg": "python-pyrss2gen", 
+    "pkg_version": "1.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Network Utilities", 
+    "pkg_full_name": "python-PyRSS2Gen-1.1-2.6.noarch.rpm", 
+    "pkg": "python-PyRSS2Gen", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-pyrss2gen_1.0.0-9_all.deb", 
+    "pkg": "python-pyrss2gen", 
+    "pkg_version": "1.0.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Network Utilities", 
+    "pkg_full_name": "python-PyRSS2Gen-1.1-2.1.noarch.rpm", 
+    "pkg": "python-PyRSS2Gen", 
+    "pkg_version": "1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-pyrss2gen_1.0.0-9_all.deb", 
+    "pkg": "python-pyrss2gen", 
+    "pkg_version": "1.0.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Network Utilities", 
+    "pkg_full_name": "python-PyRSS2Gen-1.1-2.1.noarch.rpm", 
+    "pkg": "python-PyRSS2Gen", 
+    "pkg_version": "1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-pyrss2gen_1.1-1_all.deb", 
+    "pkg": "python-pyrss2gen", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Network Utilities", 
+    "pkg_full_name": "python-PyRSS2Gen-1.1-2.1.noarch.rpm", 
+    "pkg": "python-PyRSS2Gen", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-pyrss2gen_1.1-1_all.deb", 
+    "pkg": "python-pyrss2gen", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Network Utilities", 
+    "pkg_full_name": "python-PyRSS2Gen-1.1-2.1.noarch.rpm", 
+    "pkg": "python-PyRSS2Gen", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

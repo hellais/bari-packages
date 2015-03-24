@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-zope.publisher_3.12.6-2_all.deb", 
+    "pkg": "python-zope.publisher", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-zope.publisher_3.12.6-2_all.deb", 
+    "pkg": "python-zope.publisher", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-zope.publisher_3.12.6-2_all.deb", 
+    "pkg": "python-zope.publisher", 
+    "pkg_version": "3.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "python-zope.publisher-4.0.0a4-3-rosa2014.1.noarch.rpm", 
+    "pkg": "python-zope.publisher", 
+    "pkg_version": "4.0.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "python-zope.publisher-4.0.0a4-1-rosa2012.1.noarch.rpm", 
+    "pkg": "python-zope.publisher", 
+    "pkg_version": "4.0.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-zope.publisher_3.12.6-2ubuntu1_all.deb", 
+    "pkg": "python-zope.publisher", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-zope.publisher_3.12.6-2ubuntu1_all.deb", 
+    "pkg": "python-zope.publisher", 
+    "pkg_version": "3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

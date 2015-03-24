@@ -1,0 +1,126 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "sqlite-doc-2.8.17-alt2.2.noarch.rpm", 
+    "pkg": "sqlite-doc", 
+    "pkg_version": "2.8.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Core", 
+    "pkg_full_name": "sqlite-doc-3.8.8.3-1-x86_64.pkg.tar.xz", 
+    "pkg": "sqlite-doc", 
+    "pkg_version": "3.8.8.3", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "sqlite-doc-3.7.17-4.el7.noarch.rpm", 
+    "pkg": "sqlite-doc", 
+    "pkg_version": "3.7.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Ghettoforge Plus", 
+    "pkg_full_name": "sqlite-doc-3.7.15.2-2.gf.el6.noarch.rpm", 
+    "pkg": "sqlite-doc", 
+    "pkg_version": "3.7.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Atomic", 
+    "pkg_full_name": "sqlite-doc-3.7.0.1-1.el5.art.x86_64.rpm", 
+    "pkg": "sqlite-doc", 
+    "pkg_version": "3.7.0.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sqlite-doc_2.8.17-12_all.deb", 
+    "pkg": "sqlite-doc", 
+    "pkg_version": "2.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sqlite-doc_2.8.17-12_all.deb", 
+    "pkg": "sqlite-doc", 
+    "pkg_version": "2.8.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sqlite-doc_2.8.17-7_all.deb", 
+    "pkg": "sqlite-doc", 
+    "pkg_version": "2.8.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "sqlite-doc-3.8.8.3-1.fc23.noarch.rpm", 
+    "pkg": "sqlite-doc", 
+    "pkg_version": "3.8.8.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "sqlite-doc-3.8.8-2.fc22.noarch.rpm", 
+    "pkg": "sqlite-doc", 
+    "pkg_version": "3.8.8", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "sqlite-doc-3.8.8.3-1.fc21.noarch.rpm", 
+    "pkg": "sqlite-doc", 
+    "pkg_version": "3.8.8.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "sqlite-doc-3.8.8.3-1.fc20.noarch.rpm", 
+    "pkg": "sqlite-doc", 
+    "pkg_version": "3.8.8.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "sqlite-doc_2.8.17-10ubuntu2_all.deb", 
+    "pkg": "sqlite-doc", 
+    "pkg_version": "2.8.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "sqlite-doc_2.8.17-10ubuntu2_all.deb", 
+    "pkg": "sqlite-doc", 
+    "pkg_version": "2.8.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

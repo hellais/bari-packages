@@ -1,0 +1,198 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "psiconv-0.9.8-alt1_17.x86_64.rpm", 
+    "pkg": "psiconv", 
+    "pkg_version": "0.9.8", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "psiconv-0.9.8-15-x86_64.pkg.tar.xz", 
+    "pkg": "psiconv", 
+    "pkg_version": "0.9.8", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "psiconv-0.9.8-5.el6.x86_64.rpm", 
+    "pkg": "psiconv", 
+    "pkg_version": "0.9.8", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "psiconv-0.9.8-1.el5.x86_64.rpm", 
+    "pkg": "psiconv", 
+    "pkg_version": "0.9.8", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "psiconv_0.9.8-4.1+b1_i386.deb", 
+    "pkg": "psiconv", 
+    "pkg_version": "0.9.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "psiconv-0.9.8-17.fc22.x86_64.rpm", 
+    "pkg": "psiconv", 
+    "pkg_version": "0.9.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "psiconv-0.9.8-17.fc22.x86_64.rpm", 
+    "pkg": "psiconv", 
+    "pkg_version": "0.9.8", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "psiconv-0.9.8-17.fc21.x86_64.rpm", 
+    "pkg": "psiconv", 
+    "pkg_version": "0.9.8", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "psiconv-0.9.8-14.fc20.x86_64.rpm", 
+    "pkg": "psiconv", 
+    "pkg_version": "0.9.8", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "psiconv-0.9.8-28-omv2015.0.x86_64.rpm", 
+    "pkg": "psiconv", 
+    "pkg_version": "0.9.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "psiconv-0.9.8-22-omv2014.0.x86_64.rpm", 
+    "pkg": "psiconv", 
+    "pkg_version": "0.9.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "psiconv-0.9.8-21-omv2013.0.x86_64.rpm", 
+    "pkg": "psiconv", 
+    "pkg_version": "0.9.8", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "psiconv-0.9.9-1.2.x86_64.rpm", 
+    "pkg": "psiconv", 
+    "pkg_version": "0.9.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "psiconv-0.9.8-253.1.3.x86_64.rpm", 
+    "pkg": "psiconv", 
+    "pkg_version": "0.9.8", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "psiconv-0.9.8-251.1.2.i586.rpm", 
+    "pkg": "psiconv", 
+    "pkg_version": "0.9.8", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "psiconv-0.9.8-27-rosa2014.1.x86_64.rpm", 
+    "pkg": "psiconv", 
+    "pkg_version": "0.9.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "psiconv-0.9.8-21-rosa2012.1.x86_64.rpm", 
+    "pkg": "psiconv", 
+    "pkg_version": "0.9.8", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "psiconv-0.9.8-x86_64-10sl.txz", 
+    "pkg": "psiconv", 
+    "pkg_version": "0.9.8", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "psiconv-0.9.8-x86_64-2sl.txz", 
+    "pkg": "psiconv", 
+    "pkg_version": "0.9.8", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "psiconv-0.9.8-x86_64-1sl.txz", 
+    "pkg": "psiconv", 
+    "pkg_version": "0.9.8", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "psiconv_0.9.8-4.1build2_i386.deb", 
+    "pkg": "psiconv", 
+    "pkg_version": "0.9.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "psiconv_0.9.8-4.1build2_i386.deb", 
+    "pkg": "psiconv", 
+    "pkg_version": "0.9.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

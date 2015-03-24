@@ -1,0 +1,190 @@
+[
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "calligra-l10n-sk-2.9.1-1-any.pkg.tar.xz", 
+    "pkg": "calligra-l10n-sk", 
+    "pkg_version": "2.9.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "calligra-l10n-sk-2.8.7-1.el7.noarch.rpm", 
+    "pkg": "calligra-l10n-sk", 
+    "pkg_version": "2.8.7", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "calligra-l10n-sk_2.8.5-1_all.deb", 
+    "pkg": "calligra-l10n-sk", 
+    "pkg_version": "2.8.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "calligra-l10n-sk_2.8.5-1_all.deb", 
+    "pkg": "calligra-l10n-sk", 
+    "pkg_version": "2.8.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "calligra-l10n-sk_2.4.3-1_all.deb", 
+    "pkg": "calligra-l10n-sk", 
+    "pkg_version": "2.4.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "calligra-l10n-sk-2.9.1-1.fc23.noarch.rpm", 
+    "pkg": "calligra-l10n-sk", 
+    "pkg_version": "2.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "calligra-l10n-sk-2.8.7-1.fc22.noarch.rpm", 
+    "pkg": "calligra-l10n-sk", 
+    "pkg_version": "2.8.7", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "calligra-l10n-sk-2.9.1-1.fc21.noarch.rpm", 
+    "pkg": "calligra-l10n-sk", 
+    "pkg_version": "2.9.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "calligra-l10n-sk-2.8.7-1.fc20.noarch.rpm", 
+    "pkg": "calligra-l10n-sk", 
+    "pkg_version": "2.8.7", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "calligra-l10n-sk-2.8.7-1-omv2015.0.noarch.rpm", 
+    "pkg": "calligra-l10n-sk", 
+    "pkg_version": "2.8.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "calligra-l10n-sk-2.8.7-0.1-omv2014.0.noarch.rpm", 
+    "pkg": "calligra-l10n-sk", 
+    "pkg_version": "2.8.7", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "calligra-l10n-sk-2.7.2-1-omv2013.0.noarch.rpm", 
+    "pkg": "calligra-l10n-sk", 
+    "pkg_version": "2.7.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "calligra-l10n-sk-2.9.1-1.1.noarch.rpm", 
+    "pkg": "calligra-l10n-sk", 
+    "pkg_version": "2.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "calligra-l10n-sk-2.9.0-2.4.1.noarch.rpm", 
+    "pkg": "calligra-l10n-sk", 
+    "pkg_version": "2.9.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "calligra-l10n-sk-2.7.5-8.5.noarch.rpm", 
+    "pkg": "calligra-l10n-sk", 
+    "pkg_version": "2.7.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "calligra-l10n-sk-2.9.0-1-rosa2014.1.noarch.rpm", 
+    "pkg": "calligra-l10n-sk", 
+    "pkg_version": "2.9.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "calligra-l10n-sk-2.8.1-1-rosa2012.1.noarch.rpm", 
+    "pkg": "calligra-l10n-sk", 
+    "pkg_version": "2.8.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "calligra-l10n-sk-2.7.4-noarch-1.txz", 
+    "pkg": "calligra-l10n-sk", 
+    "pkg_version": "2.7.4", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "calligra-l10n-sk-2.4.3-noarch-1.txz", 
+    "pkg": "calligra-l10n-sk", 
+    "pkg_version": "2.4.3", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "calligra-l10n-sk_2.8.6-0ubuntu1_all.deb", 
+    "pkg": "calligra-l10n-sk", 
+    "pkg_version": "2.8.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "calligra-l10n-sk_2.8.1-0ubuntu1_all.deb", 
+    "pkg": "calligra-l10n-sk", 
+    "pkg_version": "2.8.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

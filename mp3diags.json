@@ -1,0 +1,118 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "mp3diags-1.0.11.076-alt1.3.1.x86_64.rpm", 
+    "pkg": "mp3diags", 
+    "pkg_version": "1.0.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "mp3diags_1.2.02-dmo1_i386.deb", 
+    "pkg": "mp3diags", 
+    "pkg_version": "1.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "mp3diags_1.2.02-dmo1_i386.deb", 
+    "pkg": "mp3diags", 
+    "pkg_version": "1.2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mp3diags_1.0.11.076-3_i386.deb", 
+    "pkg": "mp3diags", 
+    "pkg_version": "1.0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "mp3diags-1.0.11.076-4.1.x86_64.rpm", 
+    "pkg": "mp3diags", 
+    "pkg_version": "1.0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "mp3diags-1.0.11.076-4.1.x86_64.rpm", 
+    "pkg": "mp3diags", 
+    "pkg_version": "1.0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "mp3diags-1.0.11.076-1.127.x86_64.rpm", 
+    "pkg": "mp3diags", 
+    "pkg_version": "1.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "mp3diags-1.0.11.076-1.6.x86_64.rpm", 
+    "pkg": "mp3diags", 
+    "pkg_version": "1.0.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "mp3diags-1.2.276-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "mp3diags", 
+    "pkg_version": "1.2.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "mp3diags-1.2.00-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "mp3diags", 
+    "pkg_version": "1.2.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackers", 
+    "pkg_full_name": "mp3diags-1.2.02-x86_64-1cf.txz", 
+    "pkg": "mp3diags", 
+    "pkg_version": "1.2.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Multiverse", 
+    "pkg_full_name": "mp3diags_1.2.01-1_i386.deb", 
+    "pkg": "mp3diags", 
+    "pkg_version": "1.2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Multiverse", 
+    "pkg_full_name": "mp3diags_1.0.12.079-2build1_i386.deb", 
+    "pkg": "mp3diags", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

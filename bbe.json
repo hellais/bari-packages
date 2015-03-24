@@ -1,0 +1,99 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "bbe-0.2.2-alt5.qa1.x86_64.rpm", 
+    "pkg": "bbe", 
+    "pkg_version": "0.2.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "bbe-0.2.2-1-x86_64.pkg.tar.xz", 
+    "pkg": "bbe", 
+    "pkg_version": "0.2.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "bbe-0.2.2-1.el6.rf.i686.rpm", 
+    "pkg": "bbe", 
+    "pkg_version": "0.2.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "bbe-0.2.2-1.el5.rf.x86_64.rpm", 
+    "pkg": "bbe", 
+    "pkg_version": "0.2.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bbe_0.2.2-2_i386.deb", 
+    "pkg": "bbe", 
+    "pkg_version": "0.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bbe_0.2.2-2_i386.deb", 
+    "pkg": "bbe", 
+    "pkg_version": "0.2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bbe_0.2.2-1_i386.deb", 
+    "pkg": "bbe", 
+    "pkg_version": "0.2.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "bbe-0.2.2-20080102.1.x86_64.rpm", 
+    "pkg": "bbe", 
+    "pkg_version": "0.2.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "bbe-0.2.2-20080102.1.x86_64.rpm", 
+    "pkg": "bbe", 
+    "pkg_version": "0.2.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "bbe_0.2.2-2ubuntu1_i386.deb", 
+    "pkg": "bbe", 
+    "pkg_version": "0.2.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "bbe_0.2.2-2ubuntu1_i386.deb", 
+    "pkg": "bbe", 
+    "pkg_version": "0.2.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-mixlib-log-1.4.0-alt1.noarch.rpm", 
+    "pkg": "ruby-mixlib-log", 
+    "pkg_version": "1.4.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-mixlib-log_1.4.1-1_all.deb", 
+    "pkg": "ruby-mixlib-log", 
+    "pkg_version": "1.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-mixlib-log_1.4.1-1_all.deb", 
+    "pkg": "ruby-mixlib-log", 
+    "pkg_version": "1.4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-mixlib-log_1.4.1-1_all.deb", 
+    "pkg": "ruby-mixlib-log", 
+    "pkg_version": "1.4.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ruby-mixlib-log_1.4.1-1build1_all.deb", 
+    "pkg": "ruby-mixlib-log", 
+    "pkg_version": "1.4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

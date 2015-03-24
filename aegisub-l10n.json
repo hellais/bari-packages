@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "aegisub-l10n_3.2.2-dmo1_all.deb", 
+    "pkg": "aegisub-l10n", 
+    "pkg_version": "3.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "aegisub-l10n_3.2.2-dmo1_all.deb", 
+    "pkg": "aegisub-l10n", 
+    "pkg_version": "3.2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "aegisub-l10n_2.1.9-1_all.deb", 
+    "pkg": "aegisub-l10n", 
+    "pkg_version": "2.1.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "aegisub-l10n_3.1.2-1build1_all.deb", 
+    "pkg": "aegisub-l10n", 
+    "pkg_version": "3.1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

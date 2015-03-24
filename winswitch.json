@@ -1,0 +1,55 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "winswitch-0.12.20-alt2.x86_64.rpm", 
+    "pkg": "winswitch", 
+    "pkg_version": "0.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "winswitch_0.12.20+dfsg-1_all.deb", 
+    "pkg": "winswitch", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "winswitch_0.12.20+dfsg-1_all.deb", 
+    "pkg": "winswitch", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "winswitch-0.12.20-5.1.x86_64.rpm", 
+    "pkg": "winswitch", 
+    "pkg_version": "0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "winswitch-0.12.20-5.1.x86_64.rpm", 
+    "pkg": "winswitch", 
+    "pkg_version": "0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "winswitch_0.12.20+dfsg-1_all.deb", 
+    "pkg": "winswitch", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

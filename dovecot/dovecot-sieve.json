@@ -1,0 +1,164 @@
+[
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "dovecot-pigeonhole-0.4.2-32.1.el7.x86_64.rpm", 
+    "pkg": "dovecot-pigeonhole", 
+    "pkg_version": "0.4.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "dovecot-pigeonhole-0.4.2-32.1.el6.x86_64.rpm", 
+    "pkg": "dovecot-pigeonhole", 
+    "pkg_version": "0.4.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "dovecot-pigeonhole-1.2.11-3.centos5.x86_64.rpm", 
+    "pkg": "dovecot-pigeonhole", 
+    "pkg_version": "1.2.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "dovecot-sieve-1.2.10-2.el5.x86_64.rpm", 
+    "pkg": "dovecot-sieve", 
+    "pkg_version": "1.2.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "dovecot-pigeonhole-1.2.11-3.centos5.x86_64.rpm", 
+    "pkg": "dovecot-pigeonhole", 
+    "pkg_version": "1.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dovecot-sieve_2.2.13-11_i386.deb", 
+    "pkg": "dovecot-sieve", 
+    "pkg_version": "2.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "dovecot-pigeonhole-1.2.11-3.centos5.x86_64.rpm", 
+    "pkg": "dovecot-pigeonhole", 
+    "pkg_version": "1.2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dovecot-sieve_2.2.13-11_i386.deb", 
+    "pkg": "dovecot-sieve", 
+    "pkg_version": "2.2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "dovecot-pigeonhole-1.2.11-3.centos5.x86_64.rpm", 
+    "pkg": "dovecot-pigeonhole", 
+    "pkg_version": "1.2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "dovecot-sieve_2.1.7-7+deb7u1_i386.deb", 
+    "pkg": "dovecot-sieve", 
+    "pkg_version": "2.1.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "dovecot-pigeonhole-0.4.2-32.1.fc20.x86_64.rpm", 
+    "pkg": "dovecot-pigeonhole", 
+    "pkg_version": "0.4.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "dovecot-sieve_2.1.7-7+deb7u1_i386.deb", 
+    "pkg": "dovecot-sieve", 
+    "pkg_version": "2.1.7", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "dovecot-pigeonhole-0.4.2-32.1.fc20.x86_64.rpm", 
+    "pkg": "dovecot-pigeonhole", 
+    "pkg_version": "0.4.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "dovecot-sieve-0.1.18-x86_64-1tm.txz", 
+    "pkg": "dovecot-sieve", 
+    "pkg_version": "0.1.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "dovecot-pigeonhole-0.4.2-32.1.fc20.x86_64.rpm", 
+    "pkg": "dovecot-pigeonhole", 
+    "pkg_version": "0.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "dovecot-sieve_2.2.9-1ubuntu5_i386.deb", 
+    "pkg": "dovecot-sieve", 
+    "pkg_version": "2.2.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "dovecot-pigeonhole-0.4.2-32.1.fc20.x86_64.rpm", 
+    "pkg": "dovecot-pigeonhole", 
+    "pkg_version": "0.4.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "dovecot-sieve_2.2.9-1ubuntu2.1_i386.deb", 
+    "pkg": "dovecot-sieve", 
+    "pkg_version": "2.2.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

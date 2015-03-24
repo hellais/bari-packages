@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bootstrap-vz_0.9.0-1_all.deb", 
+    "pkg": "bootstrap-vz", 
+    "pkg_version": "0.9.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

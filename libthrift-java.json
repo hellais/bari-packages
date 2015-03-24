@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "libthrift-java-0.9.1-12.el7.noarch.rpm", 
+    "pkg": "libthrift-java", 
+    "pkg_version": "0.9.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libthrift-java_0.9.1-2_all.deb", 
+    "pkg": "libthrift-java", 
+    "pkg_version": "0.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libthrift-java_0.9.1-2_all.deb", 
+    "pkg": "libthrift-java", 
+    "pkg_version": "0.9.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "libthrift-java-0.9.1-13.fc22.3.noarch.rpm", 
+    "pkg": "libthrift-java", 
+    "pkg_version": "0.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "libthrift-java-0.9.1-13.fc22.3.noarch.rpm", 
+    "pkg": "libthrift-java", 
+    "pkg_version": "0.9.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "libthrift-java-0.9.1-13.fc21.1.noarch.rpm", 
+    "pkg": "libthrift-java", 
+    "pkg_version": "0.9.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "libthrift-java-0.9.1-10.fc20.noarch.rpm", 
+    "pkg": "libthrift-java", 
+    "pkg_version": "0.9.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libthrift-java_0.9.1-1ubuntu1_all.deb", 
+    "pkg": "libthrift-java", 
+    "pkg_version": "0.9.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

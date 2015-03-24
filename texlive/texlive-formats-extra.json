@@ -1,0 +1,100 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "texlive-formats-extra-2008.0-alt0.16.noarch.rpm", 
+    "pkg": "texlive-formats-extra-200", 
+    "pkg_version": "8.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "texlive-formats-extra-2008.0-alt0.16.noarch.rpm", 
+    "pkg": "texlive-formats-extra-200", 
+    "pkg_version": "8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "texlive-formats-extra_2014.20141024-1_all.deb", 
+    "pkg": "texlive-formats-extra_201", 
+    "pkg_version": "4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "texlive-formats-extra-2008.0-alt0.16.noarch.rpm", 
+    "pkg": "texlive-formats-extra-200", 
+    "pkg_version": "8.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "texlive-formats-extra_2014.20141024-1_all.deb", 
+    "pkg": "texlive-formats-extra_201", 
+    "pkg_version": "4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "texlive-formats-extra-2008.0-alt0.16.noarch.rpm", 
+    "pkg": "texlive-formats-extra-200", 
+    "pkg_version": "8.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "texlive-formats-extra_2012.20120611-2_all.deb", 
+    "pkg": "texlive-formats-extra_201", 
+    "pkg_version": "2.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "texlive-formats-extra-2008.0-alt0.16.noarch.rpm", 
+    "pkg": "texlive-formats-extra-200", 
+    "pkg_version": "8.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "texlive-formats-extra_2014.20140717-1_all.deb", 
+    "pkg": "texlive-formats-extra_201", 
+    "pkg_version": "4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "texlive-formats-extra-2008.0-alt0.16.noarch.rpm", 
+    "pkg": "texlive-formats-extra-200", 
+    "pkg_version": "8.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "texlive-formats-extra_2013.20140215-2_all.deb", 
+    "pkg": "texlive-formats-extra_201", 
+    "pkg_version": "3.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

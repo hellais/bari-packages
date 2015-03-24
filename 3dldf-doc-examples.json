@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "3dldf-doc-examples_2.0.3+dfsg-2_all.deb", 
+    "pkg": "3dldf-doc-examples", 
+    "pkg_version": "2.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

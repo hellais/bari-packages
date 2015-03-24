@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-axiom_0.7.1-2_all.deb", 
+    "pkg": "python-axiom", 
+    "pkg_version": "0.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-axiom_0.7.1-2_all.deb", 
+    "pkg": "python-axiom", 
+    "pkg_version": "0.7.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-axiom_0.6.0-3_all.deb", 
+    "pkg": "python-axiom", 
+    "pkg_version": "0.6.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-axiom-0.7.2-1-omv2015.0.noarch.rpm", 
+    "pkg": "python-axiom", 
+    "pkg_version": "0.7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "python-axiom-0.6.0-5-omv2014.0.noarch.rpm", 
+    "pkg": "python-axiom", 
+    "pkg_version": "0.6.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-axiom-0.6.0-4-omv2013.0.noarch.rpm", 
+    "pkg": "python-axiom", 
+    "pkg_version": "0.6.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "python-axiom-0.7.1-2-rosa2014.1.noarch.rpm", 
+    "pkg": "python-axiom", 
+    "pkg_version": "0.7.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "python-axiom-0.6.0-4-rosa2012.1.noarch.rpm", 
+    "pkg": "python-axiom", 
+    "pkg_version": "0.6.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-axiom_0.7.1-2_all.deb", 
+    "pkg": "python-axiom", 
+    "pkg_version": "0.7.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-axiom_0.6.0-4_all.deb", 
+    "pkg": "python-axiom", 
+    "pkg_version": "0.6.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

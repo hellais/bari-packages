@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-setuptools-git_1.1-1_all.deb", 
+    "pkg": "python-setuptools-git", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-setuptools-git_1.1-1_all.deb", 
+    "pkg": "python-setuptools-git", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-setuptools-git-1.0b1-8.2.noarch.rpm", 
+    "pkg": "python-setuptools-git", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-setuptools-git-1.0b1-7.1.4.noarch.rpm", 
+    "pkg": "python-setuptools-git", 
+    "pkg_version": "1.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-setuptools-git-1.0b1-4.1.2.noarch.rpm", 
+    "pkg": "python-setuptools-git", 
+    "pkg_version": "1.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python-setuptools-git_1.0b1-0ubuntu3_all.deb", 
+    "pkg": "python-setuptools-git", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

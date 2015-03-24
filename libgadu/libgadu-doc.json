@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "libgadu-doc-1.12.0-0.5.rc2.el7.nux.noarch.rpm", 
+    "pkg": "libgadu-doc", 
+    "pkg_version": "1.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgadu-doc_1.12.0-5_all.deb", 
+    "pkg": "libgadu-doc", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgadu-doc_1.12.0-5_all.deb", 
+    "pkg": "libgadu-doc", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "libgadu-doc_1.11.2-1+deb7u2_all.deb", 
+    "pkg": "libgadu-doc", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "libgadu-doc-1.12.1-1.fc22.noarch.rpm", 
+    "pkg": "libgadu-doc", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "libgadu-doc-1.12.1-1.fc22.noarch.rpm", 
+    "pkg": "libgadu-doc", 
+    "pkg_version": "1.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "libgadu-doc-1.12.1-1.fc21.noarch.rpm", 
+    "pkg": "libgadu-doc", 
+    "pkg_version": "1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "libgadu-doc-1.12.1-1.fc20.noarch.rpm", 
+    "pkg": "libgadu-doc", 
+    "pkg_version": "1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libgadu-doc_1.12.0-3_all.deb", 
+    "pkg": "libgadu-doc", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libgadu-doc_1.11.3-1_all.deb", 
+    "pkg": "libgadu-doc", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "openjdk-7-doc_7u75-2.5.4-3_all.deb", 
+    "pkg": "openjdk-7-doc_7u75", 
+    "pkg_version": "2.5.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "openjdk-7-doc_7u75-2.5.4-2_all.deb", 
+    "pkg": "openjdk-7-doc_7u75", 
+    "pkg_version": "2.5.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "openjdk-7-doc_7u75-2.5.4-1~deb7u1_all.deb", 
+    "pkg": "openjdk-7-doc_7u75", 
+    "pkg_version": "2.5.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "openjdk-7-doc_7u3-2.1.7-1_all.deb", 
+    "pkg": "openjdk-7-doc_7u3", 
+    "pkg_version": "2.1.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "openjdk-7-doc_7u75-2.5.4-1~utopic1_all.deb", 
+    "pkg": "openjdk-7-doc_7u75", 
+    "pkg_version": "2.5.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "openjdk-7-doc_7u65-2.5.2-4_all.deb", 
+    "pkg": "openjdk-7-doc_7u65", 
+    "pkg_version": "2.5.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "openjdk-7-doc_7u3-2.1.7-1_all.deb", 
+    "pkg": "openjdk-7-doc_7u3", 
+    "pkg_version": "2.1.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "openjdk-7-doc_7u75-2.5.4-1~trusty1_all.deb", 
+    "pkg": "openjdk-7-doc_7u75", 
+    "pkg_version": "2.5.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "openjdk-7-doc_7u51-2.4.6-1ubuntu4_all.deb", 
+    "pkg": "openjdk-7-doc_7u51", 
+    "pkg_version": "2.4.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "openjdk-7-doc_7u65-2.5.2-4_all.deb", 
+    "pkg": "openjdk-7-doc_7u65", 
+    "pkg_version": "2.5.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "openjdk-7-doc_7u3-2.1.7-1_all.deb", 
+    "pkg": "openjdk-7-doc_7u3", 
+    "pkg_version": "2.1.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

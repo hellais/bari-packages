@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libconfig-doc_1.4.9-2_all.deb", 
+    "pkg": "libconfig-doc", 
+    "pkg_version": "1.4.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libconfig-doc_1.4.9-2_all.deb", 
+    "pkg": "libconfig-doc", 
+    "pkg_version": "1.4.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libconfig-doc_1.4.8-5_all.deb", 
+    "pkg": "libconfig-doc", 
+    "pkg_version": "1.4.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libconfig-doc_1.4.9-2_all.deb", 
+    "pkg": "libconfig-doc", 
+    "pkg_version": "1.4.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

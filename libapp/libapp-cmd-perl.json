@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libapp-cmd-perl_0.327-1_all.deb", 
+    "pkg": "libapp-cmd-perl", 
+    "pkg_version": "0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libapp-cmd-perl_0.324-1_all.deb", 
+    "pkg": "libapp-cmd-perl", 
+    "pkg_version": "0.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libapp-cmd-perl_0.318-1_all.deb", 
+    "pkg": "libapp-cmd-perl", 
+    "pkg_version": "0.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libapp-cmd-perl_0.323-1_all.deb", 
+    "pkg": "libapp-cmd-perl", 
+    "pkg_version": "0.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libapp-cmd-perl_0.323-1_all.deb", 
+    "pkg": "libapp-cmd-perl", 
+    "pkg_version": "0.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

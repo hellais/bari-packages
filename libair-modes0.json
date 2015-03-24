@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libair-modes0_0.0.0.e47992d-5_i386.deb", 
+    "pkg": "libair-modes0", 
+    "pkg_version": "0.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libair-modes0_0.0.0.e47992d-5_i386.deb", 
+    "pkg": "libair-modes0", 
+    "pkg_version": "0.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "libair-modes0_0.0.0.e47992d-5~bpo70+1_i386.deb", 
+    "pkg": "libair-modes0", 
+    "pkg_version": "0.0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libair-modes0_0.0.0.e47992d-4_i386.deb", 
+    "pkg": "libair-modes0", 
+    "pkg_version": "0.0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

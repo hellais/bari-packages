@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-pandoc-citeproc-dev_0.4.0.1-1_i386.deb", 
+    "pkg": "libghc-pandoc-citeproc-dev", 
+    "pkg_version": "0.4.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-pandoc-citeproc-dev_0.4.0.1-1_i386.deb", 
+    "pkg": "libghc-pandoc-citeproc-dev", 
+    "pkg_version": "0.4.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-pandoc-citeproc-dev_0.3.0.1-1build6_i386.deb", 
+    "pkg": "libghc-pandoc-citeproc-dev", 
+    "pkg_version": "0.3.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

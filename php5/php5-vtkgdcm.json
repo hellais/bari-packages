@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php5-vtkgdcm_2.4.4-3_i386.deb", 
+    "pkg": "php5-vtkgdcm", 
+    "pkg_version": "2.4.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php5-vtkgdcm_2.4.4-3_i386.deb", 
+    "pkg": "php5-vtkgdcm", 
+    "pkg_version": "2.4.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php5-vtkgdcm_2.2.0-14.1_i386.deb", 
+    "pkg": "php5-vtkgdcm", 
+    "pkg_version": "2.2.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "php5-vtkgdcm_2.2.4-1.1ubuntu7_i386.deb", 
+    "pkg": "php5-vtkgdcm", 
+    "pkg_version": "2.2.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

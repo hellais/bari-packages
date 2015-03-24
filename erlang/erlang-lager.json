@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "erlang-lager-1.2.2-1.el6.x86_64.rpm", 
+    "pkg": "erlang-lager", 
+    "pkg_version": "1.2.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "erlang-lager_2.0.3-1_i386.deb", 
+    "pkg": "erlang-lager", 
+    "pkg_version": "2.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "erlang-lager_2.0.3-1_i386.deb", 
+    "pkg": "erlang-lager", 
+    "pkg_version": "2.0.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "erlang-lager-1.2.2-5.fc22.x86_64.rpm", 
+    "pkg": "erlang-lager", 
+    "pkg_version": "1.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "erlang-lager-1.2.2-5.fc22.x86_64.rpm", 
+    "pkg": "erlang-lager", 
+    "pkg_version": "1.2.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "erlang-lager-1.2.2-5.fc21.x86_64.rpm", 
+    "pkg": "erlang-lager", 
+    "pkg_version": "1.2.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "erlang-lager-1.2.2-2.fc20.x86_64.rpm", 
+    "pkg": "erlang-lager", 
+    "pkg_version": "1.2.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

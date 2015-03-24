@@ -1,0 +1,46 @@
+[
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "kdevelop-python-1.7.0-3-x86_64.pkg.tar.xz", 
+    "pkg": "kdevelop-python", 
+    "pkg_version": "1.7.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kdevelop-python_1.7.0-1_i386.deb", 
+    "pkg": "kdevelop-python", 
+    "pkg_version": "1.7.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kdevelop-python_1.7.0-1_i386.deb", 
+    "pkg": "kdevelop-python", 
+    "pkg_version": "1.7.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kdevelop-python-1.7.1-1.py3.fc22.x86_64.rpm", 
+    "pkg": "kdevelop-python", 
+    "pkg_version": "1.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kdevelop-python-1.7.1-1.py3.fc22.x86_64.rpm", 
+    "pkg": "kdevelop-python", 
+    "pkg_version": "1.7.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

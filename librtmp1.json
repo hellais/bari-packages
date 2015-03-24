@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "librtmp1_2.4+20130918.git79459a2-dmo6_i386.deb", 
+    "pkg": "librtmp1", 
+    "pkg_version": "2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "librtmp1_2.4+20130918.git79459a2-dmo6_i386.deb", 
+    "pkg": "librtmp1", 
+    "pkg_version": "2.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "librtmp1-2.4-0.git20150202.2-omv2015.0.i586.rpm", 
+    "pkg": "librtmp1", 
+    "pkg_version": "2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "librtmp1-2.4.git20150115-1.1.x86_64.rpm", 
+    "pkg": "librtmp1", 
+    "pkg_version": "2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "librtmp1-2.4.git20150115-1.1.x86_64.rpm", 
+    "pkg": "librtmp1", 
+    "pkg_version": "2.4", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }
+]

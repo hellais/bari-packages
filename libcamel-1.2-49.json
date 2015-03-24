@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcamel-1.2-49_3.12.9~git20141128.5242b0-2+deb8u1_i386.deb", 
+    "pkg": "libcamel", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcamel-1.2-49_3.12.9~git20141128.5242b0-2+deb8u1_i386.deb", 
+    "pkg": "libcamel", 
+    "pkg_version": "1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

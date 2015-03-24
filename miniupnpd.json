@@ -1,0 +1,55 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "miniupnpd-1.9-1-x86_64.pkg.tar.xz", 
+    "pkg": "miniupnpd", 
+    "pkg_version": "1.9", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "miniupnpd_1.8.20140523-4_i386.deb", 
+    "pkg": "miniupnpd", 
+    "pkg_version": "1.8.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "miniupnpd_1.8.20140523-4_i386.deb", 
+    "pkg": "miniupnpd", 
+    "pkg_version": "1.8.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "miniupnpd-1.8.20140523-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "miniupnpd", 
+    "pkg_version": "1.8.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "miniupnpd-1.7.20121005-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "miniupnpd", 
+    "pkg_version": "1.7.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "miniupnpd_1.8.20140523-2_i386.deb", 
+    "pkg": "miniupnpd", 
+    "pkg_version": "1.8.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "melting-gui_4.3.1+dfsg-1_all.deb", 
+    "pkg": "melting-gui", 
+    "pkg_version": "4.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "melting-gui_4.3.1+dfsg-1_all.deb", 
+    "pkg": "melting-gui", 
+    "pkg_version": "4.3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "melting-gui_4.3c-2_all.deb", 
+    "pkg": "melting-gui", 
+    "pkg_version": "4.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "melting-gui_4.3.1+dfsg-1_all.deb", 
+    "pkg": "melting-gui", 
+    "pkg_version": "4.3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "melting-gui_4.3.1+dfsg-1_all.deb", 
+    "pkg": "melting-gui", 
+    "pkg_version": "4.3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

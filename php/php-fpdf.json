@@ -1,0 +1,128 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "php-fpdf-1.6-4.el6.noarch.rpm", 
+    "pkg": "php-fpdf", 
+    "pkg_version": "1.6", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "End Point", 
+    "pkg_full_name": "php-fpdf-1.6-5.ep.noarch.rpm", 
+    "pkg": "php-fpdf", 
+    "pkg_version": "1.6", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php-fpdf_1.7.dfsg-1_all.deb", 
+    "pkg": "php-fpdf", 
+    "pkg_version": "1.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php-fpdf_1.7.dfsg-1_all.deb", 
+    "pkg": "php-fpdf", 
+    "pkg_version": "1.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php-fpdf_1.7.dfsg-1_all.deb", 
+    "pkg": "php-fpdf", 
+    "pkg_version": "1.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "php-fpdf-1.6-10.fc21.noarch.rpm", 
+    "pkg": "php-fpdf", 
+    "pkg_version": "1.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "php-fpdf-1.6-10.fc21.noarch.rpm", 
+    "pkg": "php-fpdf", 
+    "pkg_version": "1.6", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "php-fpdf-1.6-10.fc21.noarch.rpm", 
+    "pkg": "php-fpdf", 
+    "pkg_version": "1.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "php-fpdf-1.6-9.fc20.noarch.rpm", 
+    "pkg": "php-fpdf", 
+    "pkg_version": "1.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib Updates", 
+    "pkg_full_name": "php-fpdf-1.6-6-omv2014.0.noarch.rpm", 
+    "pkg": "php-fpdf", 
+    "pkg_version": "1.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "php-fpdf-1.6-7-rosa2014.1.noarch.rpm", 
+    "pkg": "php-fpdf", 
+    "pkg_version": "1.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "php-fpdf-1.6-6-rosa2012.1.noarch.rpm", 
+    "pkg": "php-fpdf", 
+    "pkg_version": "1.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "php-fpdf_1.7.dfsg-1_all.deb", 
+    "pkg": "php-fpdf", 
+    "pkg_version": "1.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "php-fpdf_1.7.dfsg-1_all.deb", 
+    "pkg": "php-fpdf", 
+    "pkg_version": "1.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

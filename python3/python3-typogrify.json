@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-typogrify_2.0.7-1_all.deb", 
+    "pkg": "python3-typogrify", 
+    "pkg_version": "2.0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

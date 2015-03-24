@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-hourglass-prof_0.2.2-1_i386.deb", 
+    "pkg": "libghc-hourglass-prof", 
+    "pkg_version": "0.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-hourglass-prof_0.2.2-1_i386.deb", 
+    "pkg": "libghc-hourglass-prof", 
+    "pkg_version": "0.2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Contrib", 
+    "pkg_full_name": "libstarpu-contribmpi-1.1-2_1.1.3+dfsg-3+b1_i386.deb", 
+    "pkg": "libstarpu-contribmpi", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libstarpumpi-1.1-2_1.1.3+dfsg-3_i386.deb", 
+    "pkg": "libstarpumpi", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Contrib", 
+    "pkg_full_name": "libstarpu-contribmpi-1.1-2_1.1.3+dfsg-3+b1_i386.deb", 
+    "pkg": "libstarpu-contribmpi", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libstarpumpi-1.1-2_1.1.3+dfsg-3_i386.deb", 
+    "pkg": "libstarpumpi", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Multiverse", 
+    "pkg_full_name": "libstarpu-contribmpi-1.1-2_1.1.2+dfsg-2build1_i386.deb", 
+    "pkg": "libstarpu-contribmpi", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libstarpumpi-1.1-2_1.1.2+dfsg-1build1_i386.deb", 
+    "pkg": "libstarpumpi", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

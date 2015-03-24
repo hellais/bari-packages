@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kamailio-java-modules_4.2.0-2_i386.deb", 
+    "pkg": "kamailio-java-modules", 
+    "pkg_version": "4.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kamailio-java-modules_4.2.0-2_i386.deb", 
+    "pkg": "kamailio-java-modules", 
+    "pkg_version": "4.2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

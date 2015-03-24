@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ss-dev_2.0-1.42.12-1.1_i386.deb", 
+    "pkg": "ss-dev", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ss-dev_2.0-1.42.12-1.1_i386.deb", 
+    "pkg": "ss-dev", 
+    "pkg_version": "2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "ss-dev_2.0-1.42.5-1.1+deb7u1_i386.deb", 
+    "pkg": "ss-dev", 
+    "pkg_version": "2.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "ss-dev_2.0-1.42.10-1.1ubuntu1.2_i386.deb", 
+    "pkg": "ss-dev", 
+    "pkg_version": "2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "ss-dev_2.0-1.42.9-3ubuntu1.2_i386.deb", 
+    "pkg": "ss-dev", 
+    "pkg_version": "2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

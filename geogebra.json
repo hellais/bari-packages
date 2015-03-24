@@ -1,0 +1,127 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "geogebra-5.0.74.0-1-any.pkg.tar.xz", 
+    "pkg": "geogebra", 
+    "pkg_version": "5.0.7", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "geogebra_4.0.34.0+dfsg1-3_all.deb", 
+    "pkg": "geogebra", 
+    "pkg_version": "4.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "geogebra_4.0.34.0+dfsg1-3_all.deb", 
+    "pkg": "geogebra", 
+    "pkg_version": "4.0.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "geogebra_4.0.34.0+dfsg1-1_all.deb", 
+    "pkg": "geogebra", 
+    "pkg_version": "4.0.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "geogebra-3.2.47.0-2-omv2013.0.noarch.rpm", 
+    "pkg": "geogebra", 
+    "pkg_version": "3.2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "geogebra-3.2.47.0-2-omv2013.0.noarch.rpm", 
+    "pkg": "geogebra", 
+    "pkg_version": "3.2.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "geogebra-3.2.47.0-2-omv2013.0.noarch.rpm", 
+    "pkg": "geogebra", 
+    "pkg_version": "3.2.4", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "geogebra-4.2.58.0-1.5.noarch.rpm", 
+    "pkg": "geogebra", 
+    "pkg_version": "4.2.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "geogebra-4.2.58.0-1.1.noarch.rpm", 
+    "pkg": "geogebra", 
+    "pkg_version": "4.2.5", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "geogebra-4.2.58.0-1.1.noarch.rpm", 
+    "pkg": "geogebra", 
+    "pkg_version": "4.2.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "geogebra-3.2.47.0-3-rosa2014.1.noarch.rpm", 
+    "pkg": "geogebra", 
+    "pkg_version": "3.2.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "geogebra-3.2.47.0-2-rosa2012.1.noarch.rpm", 
+    "pkg": "geogebra", 
+    "pkg_version": "3.2.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "geogebra_4.0.34.0+dfsg1-3_all.deb", 
+    "pkg": "geogebra", 
+    "pkg_version": "4.0.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "geogebra_4.0.34.0+dfsg1-2_all.deb", 
+    "pkg": "geogebra", 
+    "pkg_version": "4.0.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

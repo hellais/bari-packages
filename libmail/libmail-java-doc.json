@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmail-java-doc_1.5.2-3_all.deb", 
+    "pkg": "libmail-java-doc", 
+    "pkg_version": "1.5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

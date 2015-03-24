@@ -1,0 +1,91 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "lordsawar-0.2.0-alt1.2.x86_64.rpm", 
+    "pkg": "lordsawar", 
+    "pkg_version": "0.2.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lordsawar_0.2.0-2.1_i386.deb", 
+    "pkg": "lordsawar", 
+    "pkg_version": "0.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lordsawar_0.2.0-2.1_i386.deb", 
+    "pkg": "lordsawar", 
+    "pkg_version": "0.2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lordsawar_0.2.0-2.1_i386.deb", 
+    "pkg": "lordsawar", 
+    "pkg_version": "0.2.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lordsawar-0.2.0-15.fc22.x86_64.rpm", 
+    "pkg": "lordsawar", 
+    "pkg_version": "0.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lordsawar-0.2.0-15.fc22.x86_64.rpm", 
+    "pkg": "lordsawar", 
+    "pkg_version": "0.2.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lordsawar-0.2.0-13.fc21.x86_64.rpm", 
+    "pkg": "lordsawar", 
+    "pkg_version": "0.2.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lordsawar-0.2.0-11.fc20.x86_64.rpm", 
+    "pkg": "lordsawar", 
+    "pkg_version": "0.2.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "lordsawar_0.2.0-2.1_i386.deb", 
+    "pkg": "lordsawar", 
+    "pkg_version": "0.2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "lordsawar_0.2.0-2.1_i386.deb", 
+    "pkg": "lordsawar", 
+    "pkg_version": "0.2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

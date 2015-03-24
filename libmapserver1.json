@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmapserver1_6.4.1-5+b3_i386.deb", 
+    "pkg": "libmapserver1", 
+    "pkg_version": "6.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmapserver1_6.4.1-5+b3_i386.deb", 
+    "pkg": "libmapserver1", 
+    "pkg_version": "6.4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libmapserver1_6.4.1-5build1_i386.deb", 
+    "pkg": "libmapserver1", 
+    "pkg_version": "6.4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gddccontrol-0.4.2-alt17.20140603git9d89d8c.x86_64.rpm", 
+    "pkg": "gddccontrol", 
+    "pkg_version": "0.4.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gddccontrol_0.4.2-11_i386.deb", 
+    "pkg": "gddccontrol", 
+    "pkg_version": "0.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gddccontrol_0.4.2-11_i386.deb", 
+    "pkg": "gddccontrol", 
+    "pkg_version": "0.4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

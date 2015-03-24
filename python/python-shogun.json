@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-shogun_3.2.0-5.2_i386.deb", 
+    "pkg": "python-shogun", 
+    "pkg_version": "3.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-shogun_3.2.0-4_i386.deb", 
+    "pkg": "python-shogun", 
+    "pkg_version": "3.2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-shogun-3.2.0.1-0.33.git20141224.d71e19a.fc22.x86_64.rpm", 
+    "pkg": "python-shogun", 
+    "pkg_version": "3.2.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-shogun-3.2.0.1-0.33.git20141224.d71e19a.fc22.x86_64.rpm", 
+    "pkg": "python-shogun", 
+    "pkg_version": "3.2.0.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-shogun-3.2.0.1-0.27.git20140804.96f3cf3.fc21.x86_64.rpm", 
+    "pkg": "python-shogun", 
+    "pkg_version": "3.2.0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python-shogun-3.2.0.1-0.10.git20140313.9b6dcd2.fc20.x86_64.rpm", 
+    "pkg": "python-shogun", 
+    "pkg_version": "3.2.0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

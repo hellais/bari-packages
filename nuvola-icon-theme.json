@@ -1,0 +1,155 @@
+[
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "nuvola-icon-theme-4.10.5-4.el7.noarch.rpm", 
+    "pkg": "nuvola-icon-theme", 
+    "pkg_version": "4.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "nuvola-icon-theme-4.3.4-7.el6.noarch.rpm", 
+    "pkg": "nuvola-icon-theme", 
+    "pkg_version": "4.3.4", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nuvola-icon-theme_4.14.2-1_all.deb", 
+    "pkg": "nuvola-icon-theme", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nuvola-icon-theme_4.14.2-1_all.deb", 
+    "pkg": "nuvola-icon-theme", 
+    "pkg_version": "4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nuvola-icon-theme_4.8.4-5_all.deb", 
+    "pkg": "nuvola-icon-theme", 
+    "pkg_version": "4.8.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "nuvola-icon-theme-14.12.3-2.fc23.noarch.rpm", 
+    "pkg": "nuvola-icon-theme-1", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nuvola-icon-theme_4.8.4-5_all.deb", 
+    "pkg": "nuvola-icon-theme", 
+    "pkg_version": "4.8.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "nuvola-icon-theme-14.12.1-1.fc22.noarch.rpm", 
+    "pkg": "nuvola-icon-theme-1", 
+    "pkg_version": "4.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nuvola-icon-theme_4.8.4-5_all.deb", 
+    "pkg": "nuvola-icon-theme", 
+    "pkg_version": "4.8.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "nuvola-icon-theme-14.12.3-2.fc21.noarch.rpm", 
+    "pkg": "nuvola-icon-theme-1", 
+    "pkg_version": "4.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "nuvola-icon-theme-4.14.3-1.fc21.noarch.rpm", 
+    "pkg": "nuvola-icon-theme", 
+    "pkg_version": "4.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "nuvola-icon-theme-14.12.3-2.fc20.noarch.rpm", 
+    "pkg": "nuvola-icon-theme-1", 
+    "pkg_version": "4.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "nuvola-icon-theme-4.11.3-1.fc20.noarch.rpm", 
+    "pkg": "nuvola-icon-theme", 
+    "pkg_version": "4.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "nuvola-icon-theme-14.12.3-2.fc20.noarch.rpm", 
+    "pkg": "nuvola-icon-theme-1", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "nuvola-icon-theme_4.14.1-0ubuntu1_all.deb", 
+    "pkg": "nuvola-icon-theme", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "nuvola-icon-theme-14.12.3-2.fc20.noarch.rpm", 
+    "pkg": "nuvola-icon-theme-1", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "nuvola-icon-theme_4.13.3-0ubuntu0.1_all.deb", 
+    "pkg": "nuvola-icon-theme", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,550 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "lsb-4.0-alt5.x86_64.rpm", 
+    "pkg": "lsb", 
+    "pkg_version": "4.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "lsb-4.0-alt5.x86_64.rpm", 
+    "pkg": "lsb", 
+    "pkg_version": "4.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "redhat-lsb-4.1-24.el7.x86_64.rpm", 
+    "pkg": "redhat-lsb", 
+    "pkg_version": "4.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "lsb-4.0-alt5.x86_64.rpm", 
+    "pkg": "lsb", 
+    "pkg_version": "4.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "redhat-lsb-4.0-7.el6.centos.x86_64.rpm", 
+    "pkg": "redhat-lsb", 
+    "pkg_version": "4.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "lsb-4.0-alt5.x86_64.rpm", 
+    "pkg": "lsb", 
+    "pkg_version": "4.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "redhat-lsb-4.0-2.1.4.el5.x86_64.rpm", 
+    "pkg": "redhat-lsb", 
+    "pkg_version": "4.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lsb_4.1+Debian13+nmu1_all.deb", 
+    "pkg": "lsb", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "redhat-lsb-4.0-2.1.4.el5.x86_64.rpm", 
+    "pkg": "redhat-lsb", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lsb_4.1+Debian13+nmu1_all.deb", 
+    "pkg": "lsb", 
+    "pkg_version": "4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "redhat-lsb-4.0-2.1.4.el5.x86_64.rpm", 
+    "pkg": "redhat-lsb", 
+    "pkg_version": "4.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lsb_4.1+Debian8+deb7u1_all.deb", 
+    "pkg": "lsb", 
+    "pkg_version": "4.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "redhat-lsb-4.0-2.1.4.el5.x86_64.rpm", 
+    "pkg": "redhat-lsb", 
+    "pkg_version": "4.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lsb_4.1+Debian8+deb7u1_all.deb", 
+    "pkg": "lsb", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "redhat-lsb-4.1-29.fc23.x86_64.rpm", 
+    "pkg": "redhat-lsb", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lsb_4.1+Debian8+deb7u1_all.deb", 
+    "pkg": "lsb", 
+    "pkg_version": "4.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "redhat-lsb-4.1-29.fc22.x86_64.rpm", 
+    "pkg": "redhat-lsb", 
+    "pkg_version": "4.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lsb_4.1+Debian8+deb7u1_all.deb", 
+    "pkg": "lsb", 
+    "pkg_version": "4.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "redhat-lsb-4.1-29.fc21.x86_64.rpm", 
+    "pkg": "redhat-lsb", 
+    "pkg_version": "4.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lsb_4.1+Debian8+deb7u1_all.deb", 
+    "pkg": "lsb", 
+    "pkg_version": "4.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "redhat-lsb-4.1-21.1.fc20.x86_64.rpm", 
+    "pkg": "redhat-lsb", 
+    "pkg_version": "4.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lsb-lib-5.0-0.alpha.2-omv2015.0.i586.rpm", 
+    "pkg": "lsb-lib", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mint Upstream", 
+    "pkg_full_name": "lsb_4.1+Debian11ubuntu6mint1_all.deb", 
+    "pkg": "lsb", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lsb-lib64-5.0-0.alpha.2-omv2015.0.x86_64.rpm", 
+    "pkg": "lsb-lib64", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "redhat-lsb-4.1-21.1.fc20.x86_64.rpm", 
+    "pkg": "redhat-lsb", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lsb-lib-4.1-16-omv2014.0.i586.rpm", 
+    "pkg": "lsb-lib", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mint Upstream", 
+    "pkg_full_name": "lsb_4.1+Debian11ubuntu6mint1_all.deb", 
+    "pkg": "lsb", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lsb-lib64-4.1-16-omv2014.0.x86_64.rpm", 
+    "pkg": "lsb-lib64", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "redhat-lsb-4.1-21.1.fc20.x86_64.rpm", 
+    "pkg": "redhat-lsb", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lsb-lib-4.1-11-omv2013.0.i586.rpm", 
+    "pkg": "lsb-lib", 
+    "pkg_version": "4.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mint Upstream", 
+    "pkg_full_name": "lsb_4.1+Debian11ubuntu6mint1_all.deb", 
+    "pkg": "lsb", 
+    "pkg_version": "4.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lsb-lib64-4.1-11-omv2013.0.x86_64.rpm", 
+    "pkg": "lsb-lib64", 
+    "pkg_version": "4.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "redhat-lsb-4.1-21.1.fc20.x86_64.rpm", 
+    "pkg": "redhat-lsb", 
+    "pkg_version": "4.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lsb-lib-4.1-11-omv2013.0.i586.rpm", 
+    "pkg": "lsb-lib", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "lsb-4.0-27.1.x86_64.rpm", 
+    "pkg": "lsb", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lsb-lib64-4.1-11-omv2013.0.x86_64.rpm", 
+    "pkg": "lsb-lib64", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "redhat-lsb-4.1-21.1.fc20.x86_64.rpm", 
+    "pkg": "redhat-lsb", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lsb-lib-4.1-11-omv2013.0.i586.rpm", 
+    "pkg": "lsb-lib", 
+    "pkg_version": "4.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "lsb-4.0-26.1.2.x86_64.rpm", 
+    "pkg": "lsb", 
+    "pkg_version": "4.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lsb-lib64-4.1-11-omv2013.0.x86_64.rpm", 
+    "pkg": "lsb-lib64", 
+    "pkg_version": "4.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "redhat-lsb-4.1-21.1.fc20.x86_64.rpm", 
+    "pkg": "redhat-lsb", 
+    "pkg_version": "4.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lsb-lib-4.1-11-omv2013.0.i586.rpm", 
+    "pkg": "lsb-lib", 
+    "pkg_version": "4.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "lsb-4.0-22.3.1.i586.rpm", 
+    "pkg": "lsb", 
+    "pkg_version": "4.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lsb-lib64-4.1-11-omv2013.0.x86_64.rpm", 
+    "pkg": "lsb-lib64", 
+    "pkg_version": "4.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "redhat-lsb-4.1-21.1.fc20.x86_64.rpm", 
+    "pkg": "redhat-lsb", 
+    "pkg_version": "4.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "lsb-lib-5.0-0.alpha.1-rosa2014.1.i586.rpm", 
+    "pkg": "lsb-lib", 
+    "pkg_version": "5.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "lsb-4.0-22.3.1.i586.rpm", 
+    "pkg": "lsb", 
+    "pkg_version": "4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "lsb-lib64-5.0-0.alpha.1-rosa2014.1.x86_64.rpm", 
+    "pkg": "lsb-lib64", 
+    "pkg_version": "5.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "redhat-lsb-4.1-21.1.fc20.x86_64.rpm", 
+    "pkg": "redhat-lsb", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "lsb-lib-4.1-10-rosa2012.1.i586.rpm", 
+    "pkg": "lsb-lib", 
+    "pkg_version": "4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "lsb-4.0-22.3.1.i586.rpm", 
+    "pkg": "lsb", 
+    "pkg_version": "4.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "lsb-lib64-4.1-10-rosa2012.1.x86_64.rpm", 
+    "pkg": "lsb-lib64", 
+    "pkg_version": "4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "redhat-lsb-4.1-21.1.fc20.x86_64.rpm", 
+    "pkg": "redhat-lsb", 
+    "pkg_version": "4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "lsb-lib-4.1-7-rosa.lts2012.0.i586.rpm", 
+    "pkg": "lsb-lib", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "lsb_4.1+Debian11ubuntu8_all.deb", 
+    "pkg": "lsb", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "lsb-lib64-4.1-7-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "lsb-lib64", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "redhat-lsb-4.1-21.1.fc20.x86_64.rpm", 
+    "pkg": "redhat-lsb", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "lsb-lib-4.1-7-rosa.lts2012.0.i586.rpm", 
+    "pkg": "lsb-lib", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "lsb_4.1+Debian11ubuntu6_all.deb", 
+    "pkg": "lsb", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "lsb-lib64-4.1-7-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "lsb-lib64", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "redhat-lsb-4.1-21.1.fc20.x86_64.rpm", 
+    "pkg": "redhat-lsb", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

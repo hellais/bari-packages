@@ -1,0 +1,316 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "freedink-engine-108.4-alt2.x86_64.rpm", 
+    "pkg": "freedink-engine-10", 
+    "pkg_version": "8.4", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "freedink-engine_108.4-1_i386.deb", 
+    "pkg": "freedink-engine_10", 
+    "pkg_version": "8.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "freedink-engine-108.4-alt2.x86_64.rpm", 
+    "pkg": "freedink-engine-10", 
+    "pkg_version": "8.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "freedink-engine_108.4-1_i386.deb", 
+    "pkg": "freedink-engine_10", 
+    "pkg_version": "8.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "freedink-engine-108.4-alt2.x86_64.rpm", 
+    "pkg": "freedink-engine-10", 
+    "pkg_version": "8.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "freedink-engine_108.4-1~bpo70+1_i386.deb", 
+    "pkg": "freedink-engine_10", 
+    "pkg_version": "8.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "freedink-engine_1.08.20120427-2.1_i386.deb", 
+    "pkg": "freedink-engine", 
+    "pkg_version": "1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "freedink-engine-108.4-alt2.x86_64.rpm", 
+    "pkg": "freedink-engine-10", 
+    "pkg_version": "8.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "freedink-engine_108.4-1~bpo70+1_i386.deb", 
+    "pkg": "freedink-engine_10", 
+    "pkg_version": "8.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "freedink-engine_1.08.20120427-2.1_i386.deb", 
+    "pkg": "freedink-engine", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "freedink-engine-108.4-1.fc22.x86_64.rpm", 
+    "pkg": "freedink-engine-10", 
+    "pkg_version": "8.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "freedink-engine_108.4-1~bpo70+1_i386.deb", 
+    "pkg": "freedink-engine_10", 
+    "pkg_version": "8.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "freedink-engine_1.08.20120427-2.1_i386.deb", 
+    "pkg": "freedink-engine", 
+    "pkg_version": "1.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "freedink-engine-108.4-1.fc22.x86_64.rpm", 
+    "pkg": "freedink-engine-10", 
+    "pkg_version": "8.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "freedink-engine_108.4-1~bpo70+1_i386.deb", 
+    "pkg": "freedink-engine_10", 
+    "pkg_version": "8.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "freedink-engine_1.08.20120427-2.1_i386.deb", 
+    "pkg": "freedink-engine", 
+    "pkg_version": "1.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "freedink-engine-108.4-1.fc21.x86_64.rpm", 
+    "pkg": "freedink-engine-10", 
+    "pkg_version": "8.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "freedink-engine_108.4-1~bpo70+1_i386.deb", 
+    "pkg": "freedink-engine_10", 
+    "pkg_version": "8.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "freedink-engine-1.08.20121209-3.fc20.x86_64.rpm", 
+    "pkg": "freedink-engine", 
+    "pkg_version": "1.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "freedink-engine-108.4-1.fc21.x86_64.rpm", 
+    "pkg": "freedink-engine-10", 
+    "pkg_version": "8.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "freedink-engine_108.4-1~bpo70+1_i386.deb", 
+    "pkg": "freedink-engine_10", 
+    "pkg_version": "8.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "freedink-engine-1.08.20120427-4.66.x86_64.rpm", 
+    "pkg": "freedink-engine", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "freedink-engine-108.4-1.fc21.x86_64.rpm", 
+    "pkg": "freedink-engine-10", 
+    "pkg_version": "8.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "freedink-engine_108.4-1~bpo70+1_i386.deb", 
+    "pkg": "freedink-engine_10", 
+    "pkg_version": "8.4", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "freedink-engine-1.08.20120427-4.1.x86_64.rpm", 
+    "pkg": "freedink-engine", 
+    "pkg_version": "1.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "freedink-engine-108.4-1.fc21.x86_64.rpm", 
+    "pkg": "freedink-engine-10", 
+    "pkg_version": "8.4", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "freedink-engine_108.4-1~bpo70+1_i386.deb", 
+    "pkg": "freedink-engine_10", 
+    "pkg_version": "8.4", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "freedink-engine-1.08.20120427-4.2.x86_64.rpm", 
+    "pkg": "freedink-engine", 
+    "pkg_version": "1.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "freedink-engine-108.4-1.fc21.x86_64.rpm", 
+    "pkg": "freedink-engine-10", 
+    "pkg_version": "8.4", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "freedink-engine_108.2-1_i386.deb", 
+    "pkg": "freedink-engine_10", 
+    "pkg_version": "8.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "freedink-engine-1.08.20120427-4.2.x86_64.rpm", 
+    "pkg": "freedink-engine", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "freedink-engine-108.4-1.fc21.x86_64.rpm", 
+    "pkg": "freedink-engine-10", 
+    "pkg_version": "8.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "freedink-engine_108.2-1_i386.deb", 
+    "pkg": "freedink-engine_10", 
+    "pkg_version": "8.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "freedink-engine_1.08.20120427-2.1ubuntu1_i386.deb", 
+    "pkg": "freedink-engine", 
+    "pkg_version": "1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "freedink-engine-108.4-1.fc21.x86_64.rpm", 
+    "pkg": "freedink-engine-10", 
+    "pkg_version": "8.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "drraw-2.2-alt1_0.13.b2.noarch.rpm", 
+    "pkg": "drraw", 
+    "pkg_version": "2.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "drraw-2.2-0.6.b2.el6.noarch.rpm", 
+    "pkg": "drraw", 
+    "pkg_version": "2.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "drraw-2.2-0.6.b2.el5.noarch.rpm", 
+    "pkg": "drraw", 
+    "pkg_version": "2.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "drraw_2.2b2-4_all.deb", 
+    "pkg": "drraw", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "drraw_2.2b2-4_all.deb", 
+    "pkg": "drraw", 
+    "pkg_version": "2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "drraw_2.2b2-4_all.deb", 
+    "pkg": "drraw", 
+    "pkg_version": "2.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "drraw-2.2-0.13.b2.fc21.noarch.rpm", 
+    "pkg": "drraw", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "drraw-2.2-0.13.b2.fc21.noarch.rpm", 
+    "pkg": "drraw", 
+    "pkg_version": "2.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "drraw-2.2-0.13.b2.fc21.noarch.rpm", 
+    "pkg": "drraw", 
+    "pkg_version": "2.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "drraw-2.2-0.12.b2.fc20.noarch.rpm", 
+    "pkg": "drraw", 
+    "pkg_version": "2.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "drraw_2.2b2-4_all.deb", 
+    "pkg": "drraw", 
+    "pkg_version": "2.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "drraw_2.2b2-4_all.deb", 
+    "pkg": "drraw", 
+    "pkg_version": "2.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

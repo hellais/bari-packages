@@ -1,0 +1,154 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "julia-2:0.3.6-1-x86_64.pkg.tar.xz", 
+    "pkg": "julia-2:", 
+    "pkg_version": "0.3.6", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "julia-2:0.3.6-1-x86_64.pkg.tar.xz", 
+    "pkg": "julia-2:", 
+    "pkg_version": "0.3.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "julia_0.3.2-2_i386.deb", 
+    "pkg": "julia", 
+    "pkg_version": "0.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "julia-2:0.3.6-1-x86_64.pkg.tar.xz", 
+    "pkg": "julia-2:", 
+    "pkg_version": "0.3.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "julia_0.3.2-2_i386.deb", 
+    "pkg": "julia", 
+    "pkg_version": "0.3.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "julia-2:0.3.6-1-x86_64.pkg.tar.xz", 
+    "pkg": "julia-2:", 
+    "pkg_version": "0.3.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "julia-0.3.6-2.fc23.x86_64.rpm", 
+    "pkg": "julia", 
+    "pkg_version": "0.3.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "julia-2:0.3.6-1-x86_64.pkg.tar.xz", 
+    "pkg": "julia-2:", 
+    "pkg_version": "0.3.6", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "julia-0.3.6-1.fc22.x86_64.rpm", 
+    "pkg": "julia", 
+    "pkg_version": "0.3.6", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "julia-2:0.3.6-1-x86_64.pkg.tar.xz", 
+    "pkg": "julia-2:", 
+    "pkg_version": "0.3.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "julia-0.3.6-2.fc21.x86_64.rpm", 
+    "pkg": "julia", 
+    "pkg_version": "0.3.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "julia-2:0.3.6-1-x86_64.pkg.tar.xz", 
+    "pkg": "julia-2:", 
+    "pkg_version": "0.3.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "julia-0.3.6-2.fc20.x86_64.rpm", 
+    "pkg": "julia", 
+    "pkg_version": "0.3.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "julia-2:0.3.6-1-x86_64.pkg.tar.xz", 
+    "pkg": "julia-2:", 
+    "pkg_version": "0.3.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "julia-0.3.6-1.1.x86_64.rpm", 
+    "pkg": "julia", 
+    "pkg_version": "0.3.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "julia-2:0.3.6-1-x86_64.pkg.tar.xz", 
+    "pkg": "julia-2:", 
+    "pkg_version": "0.3.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "julia_0.2.1+dfsg-3_i386.deb", 
+    "pkg": "julia", 
+    "pkg_version": "0.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

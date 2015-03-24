@@ -1,0 +1,100 @@
+[
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "kmenuedit-5.2.1-1-x86_64.pkg.tar.xz", 
+    "pkg": "kmenuedit", 
+    "pkg_version": "5.2.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kmenuedit_4.11.13-2_i386.deb", 
+    "pkg": "kmenuedit", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kmenuedit_4.11.13-2_i386.deb", 
+    "pkg": "kmenuedit", 
+    "pkg_version": "4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kmenuedit_4.8.4-6_i386.deb", 
+    "pkg": "kmenuedit", 
+    "pkg_version": "4.8.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kmenuedit-5.2.2-1.fc23.x86_64.rpm", 
+    "pkg": "kmenuedit", 
+    "pkg_version": "5.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kmenuedit-5.2.0-1.fc22.x86_64.rpm", 
+    "pkg": "kmenuedit", 
+    "pkg_version": "5.2.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "kmenuedit-4.11.16-3.fc21.x86_64.rpm", 
+    "pkg": "kmenuedit", 
+    "pkg_version": "4.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "kmenuedit-4.11.16-3.fc20.x86_64.rpm", 
+    "pkg": "kmenuedit", 
+    "pkg_version": "4.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kmenuedit-5.2.0-1-omv2015.0.x86_64.rpm", 
+    "pkg": "kmenuedit", 
+    "pkg_version": "5.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "kmenuedit_4.11.12-0ubuntu1.1_i386.deb", 
+    "pkg": "kmenuedit", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "kmenuedit_4.11.11-0ubuntu0.2_i386.deb", 
+    "pkg": "kmenuedit", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

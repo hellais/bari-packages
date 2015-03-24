@@ -1,0 +1,127 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "ldc-1:0.15.1-4-x86_64.pkg.tar.xz", 
+    "pkg": "ldc-1:", 
+    "pkg_version": "0.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ldc_0.14.0.dfsg-1_i386.deb", 
+    "pkg": "ldc", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "ldc-1:0.15.1-4-x86_64.pkg.tar.xz", 
+    "pkg": "ldc-1:", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ldc_0.14.0.dfsg-1_i386.deb", 
+    "pkg": "ldc", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "ldc-1:0.15.1-4-x86_64.pkg.tar.xz", 
+    "pkg": "ldc-1:", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ldc-0.15.2.beta1-67.fc23.x86_64.rpm", 
+    "pkg": "ldc", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "ldc-1:0.15.1-4-x86_64.pkg.tar.xz", 
+    "pkg": "ldc-1:", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ldc-0.15.1-65.fc22.x86_64.rpm", 
+    "pkg": "ldc", 
+    "pkg_version": "0.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "ldc-1:0.15.1-4-x86_64.pkg.tar.xz", 
+    "pkg": "ldc-1:", 
+    "pkg_version": "0.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ldc-0.13.0-61.fc21.x86_64.rpm", 
+    "pkg": "ldc", 
+    "pkg_version": "0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "ldc-1:0.15.1-4-x86_64.pkg.tar.xz", 
+    "pkg": "ldc-1:", 
+    "pkg_version": "0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ldc-0.13.0-61.fc21.x86_64.rpm", 
+    "pkg": "ldc", 
+    "pkg_version": "0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "ldc-1:0.15.1-4-x86_64.pkg.tar.xz", 
+    "pkg": "ldc-1:", 
+    "pkg_version": "0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "ldc-2-57.20140305git6e908ff.fc20.x86_64.rpm", 
+    "pkg": "ldc-2-5", 
+    "pkg_version": "7.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

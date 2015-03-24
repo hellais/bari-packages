@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liblingua-en-syllable-perl_0.251-1_all.deb", 
+    "pkg": "liblingua-en-syllable-perl", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liblingua-en-syllable-perl_0.251-1_all.deb", 
+    "pkg": "liblingua-en-syllable-perl", 
+    "pkg_version": "0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "liblingua-en-syllable-perl_0.251-1_all.deb", 
+    "pkg": "liblingua-en-syllable-perl", 
+    "pkg_version": "0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

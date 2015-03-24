@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sweethome3d-textures-editor_1.4-1_all.deb", 
+    "pkg": "sweethome3d-textures-editor", 
+    "pkg_version": "1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sweethome3d-textures-editor_1.3-1_all.deb", 
+    "pkg": "sweethome3d-textures-editor", 
+    "pkg_version": "1.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "sweethome3d-textures-editor_1.3-1_all.deb", 
+    "pkg": "sweethome3d-textures-editor", 
+    "pkg_version": "1.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

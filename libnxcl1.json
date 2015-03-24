@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libnxcl1_0.9-3.1_i386.deb", 
+    "pkg": "libnxcl1", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libnxcl1_0.9-3.1_i386.deb", 
+    "pkg": "libnxcl1", 
+    "pkg_version": "0.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libnxcl1_0.9-3.1_i386.deb", 
+    "pkg": "libnxcl1", 
+    "pkg_version": "0.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libnxcl1-0.9-87.2.x86_64.rpm", 
+    "pkg": "libnxcl1", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libnxcl1-0.9-86.1.5.x86_64.rpm", 
+    "pkg": "libnxcl1", 
+    "pkg_version": "0.9", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libnxcl1-0.9-84.1.2.i586.rpm", 
+    "pkg": "libnxcl1", 
+    "pkg_version": "0.9", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libnxcl1_0.9-3.1ubuntu1_i386.deb", 
+    "pkg": "libnxcl1", 
+    "pkg_version": "0.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libnxcl1_0.9-3.1ubuntu1_i386.deb", 
+    "pkg": "libnxcl1", 
+    "pkg_version": "0.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

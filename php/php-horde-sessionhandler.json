@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php-horde-sessionhandler_2.2.4-4_all.deb", 
+    "pkg": "php-horde-sessionhandler", 
+    "pkg_version": "2.2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php-horde-sessionhandler_2.2.4-4_all.deb", 
+    "pkg": "php-horde-sessionhandler", 
+    "pkg_version": "2.2.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "php-horde-sessionhandler_2.2.4-1_all.deb", 
+    "pkg": "php-horde-sessionhandler", 
+    "pkg_version": "2.2.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

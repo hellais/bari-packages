@@ -1,0 +1,217 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "rpm-4.0.4-alt100.82.x86_64.rpm", 
+    "pkg": "rpm", 
+    "pkg_version": "4.0.4", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "rpm-4.11.1-18.el7_0.x86_64.rpm", 
+    "pkg": "rpm", 
+    "pkg_version": "4.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Russian Fedora Fixes Updates", 
+    "pkg_full_name": "rpm-4.8.0-19.el6_2.1.R.x86_64.rpm", 
+    "pkg": "rpm", 
+    "pkg_version": "4.8.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "rpm-4.4.2.3-36.el5_11.x86_64.rpm", 
+    "pkg": "rpm", 
+    "pkg_version": "4.4.2.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rpm_4.11.3-1.1_i386.deb", 
+    "pkg": "rpm", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rpm_4.11.3-1.1_i386.deb", 
+    "pkg": "rpm", 
+    "pkg_version": "4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "rpm_4.10.0-5+deb7u2_i386.deb", 
+    "pkg": "rpm", 
+    "pkg_version": "4.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rpm-4.12.0.1-9.fc23.x86_64.rpm", 
+    "pkg": "rpm", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rpm-4.12.0.1-7.fc22.x86_64.rpm", 
+    "pkg": "rpm", 
+    "pkg_version": "4.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "rpm-4.12.0.1-5.fc21.x86_64.rpm", 
+    "pkg": "rpm", 
+    "pkg_version": "4.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "rpm-4.11.2-2.fc20.x86_64.rpm", 
+    "pkg": "rpm", 
+    "pkg_version": "4.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "rpm-5.4.15-13-omv2015.0.x86_64.rpm", 
+    "pkg": "rpm", 
+    "pkg_version": "5.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "rpm-5.4.10-61-omv2014.0.x86_64.rpm", 
+    "pkg": "rpm", 
+    "pkg_version": "5.4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "rpm-5.4.10-49-omv2013.0.x86_64.rpm", 
+    "pkg": "rpm", 
+    "pkg_version": "5.4.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "rpm-4.12.0.1-5.1.x86_64.rpm", 
+    "pkg": "rpm", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "rpm-4.11.3-4.1.x86_64.rpm", 
+    "pkg": "rpm", 
+    "pkg_version": "4.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "rpm-4.11.1-6.9.1.x86_64.rpm", 
+    "pkg": "rpm", 
+    "pkg_version": "4.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "rpm-5.4.10-56-rosa2014.1.x86_64.rpm", 
+    "pkg": "rpm", 
+    "pkg_version": "5.4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "rpm-5.4.10-27-rosa2012.1.x86_64.rpm", 
+    "pkg": "rpm", 
+    "pkg_version": "5.4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "rpm-4.10.0-x86_64-1.txz", 
+    "pkg": "rpm", 
+    "pkg_version": "4.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "rpm-4.10.0-x86_64-1.txz", 
+    "pkg": "rpm", 
+    "pkg_version": "4.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "rpm-4.8.1-x86_64-1.txz", 
+    "pkg": "rpm", 
+    "pkg_version": "4.8.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "rpm_4.11.2-3ubuntu0.1_i386.deb", 
+    "pkg": "rpm", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "rpm_4.11.1-3ubuntu0.1_i386.deb", 
+    "pkg": "rpm", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

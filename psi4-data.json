@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "psi4-data_4.0~beta5+dfsg-2_all.deb", 
+    "pkg": "psi4-data", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "psi4-data_4.0~beta5+dfsg-2_all.deb", 
+    "pkg": "psi4-data", 
+    "pkg_version": "4.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "psi4-data-4.0-0.17.c7deee9git.1.fc22.noarch.rpm", 
+    "pkg": "psi4-data", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "psi4-data-4.0-0.17.c7deee9git.1.fc22.noarch.rpm", 
+    "pkg": "psi4-data", 
+    "pkg_version": "4.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "psi4-data-4.0-0.16.c7deee9git.1.fc21.noarch.rpm", 
+    "pkg": "psi4-data", 
+    "pkg_version": "4.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "psi4-data-4.0-0.11.0c7ea92git.fc20.noarch.rpm", 
+    "pkg": "psi4-data", 
+    "pkg_version": "4.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "psi4-data_4.0~beta5+dfsg-2build1_all.deb", 
+    "pkg": "psi4-data", 
+    "pkg_version": "4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

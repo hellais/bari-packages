@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "twisted-doc_14.0.2-3_all.deb", 
+    "pkg": "twisted-doc_1", 
+    "pkg_version": "4.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "twisted-doc_14.0.2-3_all.deb", 
+    "pkg": "twisted-doc_1", 
+    "pkg_version": "4.0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "twisted-doc_12.0.0-1_all.deb", 
+    "pkg": "twisted-doc_1", 
+    "pkg_version": "2.0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "twisted-doc_14.0.2-1ubuntu1_all.deb", 
+    "pkg": "twisted-doc_1", 
+    "pkg_version": "4.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "twisted-doc_13.2.0-1ubuntu1_all.deb", 
+    "pkg": "twisted-doc_1", 
+    "pkg_version": "3.2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-warp-tls-doc_3.0.0-1_all.deb", 
+    "pkg": "libghc-warp-tls-doc", 
+    "pkg_version": "3.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-warp-tls-doc_3.0.0-1_all.deb", 
+    "pkg": "libghc-warp-tls-doc", 
+    "pkg_version": "3.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-warp-tls-doc_1.2.0.4-1_all.deb", 
+    "pkg": "libghc-warp-tls-doc", 
+    "pkg_version": "1.2.0.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-warp-tls-doc_3.0.0-1build5_all.deb", 
+    "pkg": "libghc-warp-tls-doc", 
+    "pkg_version": "3.0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

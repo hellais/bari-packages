@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "percona-xtradb-cluster-galera-2.x_2.11.2675-1_i386.deb", 
+    "pkg": "percona-xtradb-cluster-galera-2.x", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "percona-xtradb-cluster-galera-2.x_2.11.2675-1_i386.deb", 
+    "pkg": "percona-xtradb-cluster-galera-2.x", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

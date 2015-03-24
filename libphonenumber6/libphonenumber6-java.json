@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libphonenumber6-java_6.3~svn698-3_all.deb", 
+    "pkg": "libphonenumber6-java", 
+    "pkg_version": "6.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

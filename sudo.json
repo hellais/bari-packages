@@ -1,0 +1,405 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "sudo-1.6.8p12-alt12.x86_64.rpm", 
+    "pkg": "sudo", 
+    "pkg_version": "1.6.8", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Testing", 
+    "pkg_full_name": "sudo-1.8.13-1-x86_64.pkg.tar.xz", 
+    "pkg": "sudo", 
+    "pkg_version": "1.8.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "sudo-1.8.6p7-11.el7.x86_64.rpm", 
+    "pkg": "sudo", 
+    "pkg_version": "1.8.6", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "sudo-1.8.6p3-15.el6.x86_64.rpm", 
+    "pkg": "sudo", 
+    "pkg_version": "1.8.6", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "sudo-1.7.2p1-29.el5_10.x86_64.rpm", 
+    "pkg": "sudo", 
+    "pkg_version": "1.7.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sudo-ldap_1.8.12-1_i386.deb", 
+    "pkg": "sudo-ldap", 
+    "pkg_version": "1.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sudo_1.8.12-1_i386.deb", 
+    "pkg": "sudo", 
+    "pkg_version": "1.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sudo-ldap_1.8.10p3-1+deb8u2_i386.deb", 
+    "pkg": "sudo-ldap", 
+    "pkg_version": "1.8.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sudo_1.8.10p3-1+deb8u2_i386.deb", 
+    "pkg": "sudo", 
+    "pkg_version": "1.8.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "sudo-ldap_1.8.5p2-1+nmu2_i386.deb", 
+    "pkg": "sudo-ldap", 
+    "pkg_version": "1.8.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "sudo_1.8.5p2-1+nmu2_i386.deb", 
+    "pkg": "sudo", 
+    "pkg_version": "1.8.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "sudo-ldap_1.8.5p2-1+nmu2_i386.deb", 
+    "pkg": "sudo-ldap", 
+    "pkg_version": "1.8.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "sudo-1.8.12-1.fc23.x86_64.rpm", 
+    "pkg": "sudo", 
+    "pkg_version": "1.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "sudo-ldap_1.8.5p2-1+nmu2_i386.deb", 
+    "pkg": "sudo-ldap", 
+    "pkg_version": "1.8.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "sudo-1.8.12-1.fc22.x86_64.rpm", 
+    "pkg": "sudo", 
+    "pkg_version": "1.8.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "sudo-ldap_1.8.5p2-1+nmu2_i386.deb", 
+    "pkg": "sudo-ldap", 
+    "pkg_version": "1.8.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "sudo-1.8.12-1.fc21.x86_64.rpm", 
+    "pkg": "sudo", 
+    "pkg_version": "1.8.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "sudo-ldap_1.8.5p2-1+nmu2_i386.deb", 
+    "pkg": "sudo-ldap", 
+    "pkg_version": "1.8.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "sudo-1.8.12-1.fc20.x86_64.rpm", 
+    "pkg": "sudo", 
+    "pkg_version": "1.8.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "sudo-ldap_1.8.5p2-1+nmu2_i386.deb", 
+    "pkg": "sudo-ldap", 
+    "pkg_version": "1.8.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "sudo-1.8.10p1-4-omv2015.0.x86_64.rpm", 
+    "pkg": "sudo", 
+    "pkg_version": "1.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "sudo-ldap_1.8.5p2-1+nmu2_i386.deb", 
+    "pkg": "sudo-ldap", 
+    "pkg_version": "1.8.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "sudo-1.8.7-6-omv2014.0.x86_64.rpm", 
+    "pkg": "sudo", 
+    "pkg_version": "1.8.7", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "sudo-ldap_1.8.5p2-1+nmu2_i386.deb", 
+    "pkg": "sudo-ldap", 
+    "pkg_version": "1.8.5", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "sudo-1.8.7-1-omv2013.0.x86_64.rpm", 
+    "pkg": "sudo", 
+    "pkg_version": "1.8.7", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "sudo-ldap_1.8.5p2-1+nmu2_i386.deb", 
+    "pkg": "sudo-ldap", 
+    "pkg_version": "1.8.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "sudo-1.8.12-1.1.x86_64.rpm", 
+    "pkg": "sudo", 
+    "pkg_version": "1.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "sudo-ldap_1.8.5p2-1+nmu2_i386.deb", 
+    "pkg": "sudo-ldap", 
+    "pkg_version": "1.8.5", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "sudo-1.8.10p3-2.4.1.x86_64.rpm", 
+    "pkg": "sudo", 
+    "pkg_version": "1.8.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "sudo-ldap_1.8.5p2-1+nmu2_i386.deb", 
+    "pkg": "sudo-ldap", 
+    "pkg_version": "1.8.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "sudo-1.8.7-5.5.1.x86_64.rpm", 
+    "pkg": "sudo", 
+    "pkg_version": "1.8.7", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "sudo-ldap_1.8.5p2-1+nmu2_i386.deb", 
+    "pkg": "sudo-ldap", 
+    "pkg_version": "1.8.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "sudo-1.8.8-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "sudo", 
+    "pkg_version": "1.8.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "sudo-ldap_1.8.5p2-1+nmu2_i386.deb", 
+    "pkg": "sudo-ldap", 
+    "pkg_version": "1.8.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "sudo-1.8.8-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "sudo", 
+    "pkg_version": "1.8.8", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "sudo-ldap_1.8.5p2-1+nmu2_i386.deb", 
+    "pkg": "sudo-ldap", 
+    "pkg_version": "1.8.5", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware Patches", 
+    "pkg_full_name": "sudo-1.8.12-x86_64-1_slack14.1.txz", 
+    "pkg": "sudo", 
+    "pkg_version": "1.8.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "sudo-ldap_1.8.5p2-1+nmu2_i386.deb", 
+    "pkg": "sudo-ldap", 
+    "pkg_version": "1.8.5", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware Patches", 
+    "pkg_full_name": "sudo-1.8.12-x86_64-1_slack14.0.txz", 
+    "pkg": "sudo", 
+    "pkg_version": "1.8.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "sudo-ldap_1.8.5p2-1+nmu2_i386.deb", 
+    "pkg": "sudo-ldap", 
+    "pkg_version": "1.8.5", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware Patches", 
+    "pkg_full_name": "sudo-1.8.12-x86_64-1_slack13.37.txz", 
+    "pkg": "sudo", 
+    "pkg_version": "1.8.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "sudo-ldap_1.8.9p5-1ubuntu2.1_i386.deb", 
+    "pkg": "sudo-ldap", 
+    "pkg_version": "1.8.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "sudo_1.8.9p5-1ubuntu2.1_i386.deb", 
+    "pkg": "sudo", 
+    "pkg_version": "1.8.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "sudo-ldap_1.8.9p5-1ubuntu1.1_i386.deb", 
+    "pkg": "sudo-ldap", 
+    "pkg_version": "1.8.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "sudo_1.8.9p5-1ubuntu1.1_i386.deb", 
+    "pkg": "sudo", 
+    "pkg_version": "1.8.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

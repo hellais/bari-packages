@@ -1,0 +1,55 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "webhttrack-3.45.3-alt1.1.x86_64.rpm", 
+    "pkg": "webhttrack", 
+    "pkg_version": "3.4", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "webhttrack_3.48.21-1_i386.deb", 
+    "pkg": "webhttrack", 
+    "pkg_version": "3.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "webhttrack_3.48.20-1_i386.deb", 
+    "pkg": "webhttrack", 
+    "pkg_version": "3.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "webhttrack_3.46.1-1_i386.deb", 
+    "pkg": "webhttrack", 
+    "pkg_version": "3.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "webhttrack_3.48.19-1_i386.deb", 
+    "pkg": "webhttrack", 
+    "pkg_version": "3.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "webhttrack_3.48.1-4ubuntu1_i386.deb", 
+    "pkg": "webhttrack", 
+    "pkg_version": "3.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

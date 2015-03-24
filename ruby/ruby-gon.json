@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-gon_5.2.0-2_all.deb", 
+    "pkg": "ruby-gon", 
+    "pkg_version": "5.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

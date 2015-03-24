@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "hmmer-doc_3.1b1-3_all.deb", 
+    "pkg": "hmmer-doc", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "hmmer-doc_3.1b1-3_all.deb", 
+    "pkg": "hmmer-doc", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "hmmer-doc_3.0-4_all.deb", 
+    "pkg": "hmmer-doc", 
+    "pkg_version": "3.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "hmmer-doc-3.1b1-1.fc23.noarch.rpm", 
+    "pkg": "hmmer-doc", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "hmmer-doc_3.1b1-3_all.deb", 
+    "pkg": "hmmer-doc", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "hmmer-doc_3.1b1-3_all.deb", 
+    "pkg": "hmmer-doc", 
+    "pkg_version": "3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-bunch-1.0.1-4.el7.noarch.rpm", 
+    "pkg": "python-bunch", 
+    "pkg_version": "1.0.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-bunch-1.0.1-1.el6.noarch.rpm", 
+    "pkg": "python-bunch", 
+    "pkg_version": "1.0.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-bunch-1.0.0-1.el5.noarch.rpm", 
+    "pkg": "python-bunch", 
+    "pkg_version": "1.0.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-bunch_1.0.1-1_all.deb", 
+    "pkg": "python-bunch", 
+    "pkg_version": "1.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-bunch_1.0.1-1_all.deb", 
+    "pkg": "python-bunch", 
+    "pkg_version": "1.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-bunch-1.0.1-6.fc21.noarch.rpm", 
+    "pkg": "python-bunch", 
+    "pkg_version": "1.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-bunch-1.0.1-6.fc21.noarch.rpm", 
+    "pkg": "python-bunch", 
+    "pkg_version": "1.0.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-bunch-1.0.1-6.fc21.noarch.rpm", 
+    "pkg": "python-bunch", 
+    "pkg_version": "1.0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-bunch-1.0.1-5.fc20.noarch.rpm", 
+    "pkg": "python-bunch", 
+    "pkg_version": "1.0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-bunch_1.0.1-1_all.deb", 
+    "pkg": "python-bunch", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

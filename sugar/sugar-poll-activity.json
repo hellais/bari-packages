@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sugar-poll-activity_26+git20100521.d4def0b6-1.1_all.deb", 
+    "pkg": "sugar-poll-activity_26+git20100521.d4def0b6", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

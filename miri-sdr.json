@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "miri-sdr_0.0.4.59ba37-2_i386.deb", 
+    "pkg": "miri-sdr", 
+    "pkg_version": "0.0.4.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "miri-sdr_0.0.4.59ba37-2_i386.deb", 
+    "pkg": "miri-sdr", 
+    "pkg_version": "0.0.4.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "miri-sdr_0.0.4.59ba37-2~bpo70+1_i386.deb", 
+    "pkg": "miri-sdr", 
+    "pkg_version": "0.0.4.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

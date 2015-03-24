@@ -1,0 +1,127 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "git-remote-bzr-0.6.9-alt1.x86_64.rpm", 
+    "pkg": "git-remote-bzr", 
+    "pkg_version": "0.6.9", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "git-remote-bzr_0.2+20140705-2_all.deb", 
+    "pkg": "git-remote-bzr", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "git-remote-bzr_0.2+20140705-2_all.deb", 
+    "pkg": "git-remote-bzr", 
+    "pkg_version": "0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "git-remote-bzr_0.2+20140705-2_all.deb", 
+    "pkg": "git-remote-bzr", 
+    "pkg_version": "0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "git-bzr_1.9.1-1~bpo70+2_all.deb", 
+    "pkg": "git-bzr", 
+    "pkg_version": "1.9.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "git-remote-bzr-0.2-3.fc22.noarch.rpm", 
+    "pkg": "git-remote-bzr", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "git-bzr_1.9.1-1~bpo70+2_all.deb", 
+    "pkg": "git-bzr", 
+    "pkg_version": "1.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "git-remote-bzr-0.2-3.fc22.noarch.rpm", 
+    "pkg": "git-remote-bzr", 
+    "pkg_version": "0.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "git-bzr_1.9.1-1~bpo70+2_all.deb", 
+    "pkg": "git-bzr", 
+    "pkg_version": "1.9.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "git-remote-bzr-0.2-3.fc21.noarch.rpm", 
+    "pkg": "git-remote-bzr", 
+    "pkg_version": "0.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "git-bzr_1.9.1-1~bpo70+2_all.deb", 
+    "pkg": "git-bzr", 
+    "pkg_version": "1.9.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "git-remote-bzr_0.2+20140705-1_all.deb", 
+    "pkg": "git-remote-bzr", 
+    "pkg_version": "0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "git-bzr_1.9.1-1~bpo70+2_all.deb", 
+    "pkg": "git-bzr", 
+    "pkg_version": "1.9.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "bzr-git_0.6.12+bzr1629-1_all.deb", 
+    "pkg": "bzr-git", 
+    "pkg_version": "0.6.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

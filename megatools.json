@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "megatools-1.9.91-2.el7.nux.x86_64.rpm", 
+    "pkg": "megatools", 
+    "pkg_version": "1.9.9", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "megatools_1.9.94-1_i386.deb", 
+    "pkg": "megatools", 
+    "pkg_version": "1.9.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Russian Fedora Free", 
+    "pkg_full_name": "megatools-1.9.91-2.fc20.R.x86_64.rpm", 
+    "pkg": "megatools", 
+    "pkg_version": "1.9.9", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

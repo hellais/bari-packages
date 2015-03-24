@@ -1,0 +1,127 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "insserv-1.14.0-alt2.x86_64.rpm", 
+    "pkg": "insserv", 
+    "pkg_version": "1.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "insserv_1.14.0-5_i386.deb", 
+    "pkg": "insserv", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "insserv_1.14.0-5_i386.deb", 
+    "pkg": "insserv", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "insserv_1.14.0-5_i386.deb", 
+    "pkg": "insserv", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "insserv-compat-0.1-14.3.noarch.rpm", 
+    "pkg": "insserv-compat", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "insserv_1.14.0-5_i386.deb", 
+    "pkg": "insserv", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "insserv-compat-0.1-12.2.2.noarch.rpm", 
+    "pkg": "insserv-compat", 
+    "pkg_version": "0.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "insserv_1.14.0-5_i386.deb", 
+    "pkg": "insserv", 
+    "pkg_version": "1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "insserv-compat-0.1-8.1.2.i586.rpm", 
+    "pkg": "insserv-compat", 
+    "pkg_version": "0.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "insserv_1.14.0-5_i386.deb", 
+    "pkg": "insserv", 
+    "pkg_version": "1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "insserv-compat-0.1-8.1.2.i586.rpm", 
+    "pkg": "insserv-compat", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "insserv_1.14.0-5ubuntu2_i386.deb", 
+    "pkg": "insserv", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "insserv-compat-0.1-8.1.2.i586.rpm", 
+    "pkg": "insserv-compat", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "insserv_1.14.0-5ubuntu2_i386.deb", 
+    "pkg": "insserv", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

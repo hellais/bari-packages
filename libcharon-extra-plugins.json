@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcharon-extra-plugins_5.2.1-5_i386.deb", 
+    "pkg": "libcharon-extra-plugins", 
+    "pkg_version": "5.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcharon-extra-plugins_5.2.1-5_i386.deb", 
+    "pkg": "libcharon-extra-plugins", 
+    "pkg_version": "5.2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

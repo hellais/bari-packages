@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fofix_3.121-3_all.deb", 
+    "pkg": "fofix", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fofix_3.121-3_all.deb", 
+    "pkg": "fofix", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fofix_3.121-3_all.deb", 
+    "pkg": "fofix", 
+    "pkg_version": "3.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "fofix-3.121-3.162.noarch.rpm", 
+    "pkg": "fofix", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "fofix-3.121-3.1.noarch.rpm", 
+    "pkg": "fofix", 
+    "pkg_version": "3.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "fofix-3.121-3.3.noarch.rpm", 
+    "pkg": "fofix", 
+    "pkg_version": "3.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "fofix_3.121-3_all.deb", 
+    "pkg": "fofix", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "fofix_3.121-3_all.deb", 
+    "pkg": "fofix", 
+    "pkg_version": "3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

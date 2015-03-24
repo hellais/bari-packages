@@ -1,0 +1,171 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gpa-0.9.0-alt4.r1025.x86_64.rpm", 
+    "pkg": "gpa", 
+    "pkg_version": "0.9.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "gpa-0.9.7-1-x86_64.pkg.tar.xz", 
+    "pkg": "gpa", 
+    "pkg_version": "0.9.7", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "NauLinux School", 
+    "pkg_full_name": "gpa-0.7.4-2.el6.x86_64.rpm", 
+    "pkg": "gpa", 
+    "pkg_version": "0.7.4", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Scientific Linux Cyrillic Edition", 
+    "pkg_full_name": "gpa-0.7.4-2.Nau5x.i386.rpm", 
+    "pkg": "gpa", 
+    "pkg_version": "0.7.4", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gpa_0.9.5-2_i386.deb", 
+    "pkg": "gpa", 
+    "pkg_version": "0.9.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gpa_0.9.5-2_i386.deb", 
+    "pkg": "gpa", 
+    "pkg_version": "0.9.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gpa_0.9.0-4_i386.deb", 
+    "pkg": "gpa", 
+    "pkg_version": "0.9.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "gpa-0.9.3-3-omv2013.0.x86_64.rpm", 
+    "pkg": "gpa", 
+    "pkg_version": "0.9.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "gpa-0.9.3-2-omv2013.0.x86_64.rpm", 
+    "pkg": "gpa", 
+    "pkg_version": "0.9.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "gpa-0.9.3-2-omv2013.0.x86_64.rpm", 
+    "pkg": "gpa", 
+    "pkg_version": "0.9.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gpa-0.9.7-1.1.x86_64.rpm", 
+    "pkg": "gpa", 
+    "pkg_version": "0.9.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gpa-0.9.5-1.3.x86_64.rpm", 
+    "pkg": "gpa", 
+    "pkg_version": "0.9.5", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gpa-0.9.4-2.1.3.i586.rpm", 
+    "pkg": "gpa", 
+    "pkg_version": "0.9.4", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "gpa-0.9.3-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "gpa", 
+    "pkg_version": "0.9.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "gpa-0.9.3-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "gpa", 
+    "pkg_version": "0.9.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "gpa-0.9.4-x86_64-1.txz", 
+    "pkg": "gpa", 
+    "pkg_version": "0.9.4", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "gpa-0.9.3-x86_64-1.txz", 
+    "pkg": "gpa", 
+    "pkg_version": "0.9.3", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "gpa-0.7.5-x86_64-1.txz", 
+    "pkg": "gpa", 
+    "pkg_version": "0.7.5", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gpa_0.9.4-1_i386.deb", 
+    "pkg": "gpa", 
+    "pkg_version": "0.9.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

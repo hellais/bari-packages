@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgeocode-glib-doc_3.14.0-1_all.deb", 
+    "pkg": "libgeocode-glib-doc", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgeocode-glib-doc_3.14.0-1_all.deb", 
+    "pkg": "libgeocode-glib-doc", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgeocode-glib-doc_0.99.0-1_all.deb", 
+    "pkg": "libgeocode-glib-doc", 
+    "pkg_version": "0.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libgeocode-glib-doc_3.12.2-1_all.deb", 
+    "pkg": "libgeocode-glib-doc", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libgeocode-glib-doc_3.10.0-1ubuntu1_all.deb", 
+    "pkg": "libgeocode-glib-doc", 
+    "pkg_version": "3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

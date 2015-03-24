@@ -1,0 +1,82 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libmwaw-doc-0.3.4-alt1.noarch.rpm", 
+    "pkg": "libmwaw-doc", 
+    "pkg_version": "0.3.4", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "libmwaw-doc-0.1.11-3.el7.noarch.rpm", 
+    "pkg": "libmwaw-doc", 
+    "pkg_version": "0.1.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmwaw-doc_0.3.1-2_all.deb", 
+    "pkg": "libmwaw-doc", 
+    "pkg_version": "0.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmwaw-doc_0.3.1-2_all.deb", 
+    "pkg": "libmwaw-doc", 
+    "pkg_version": "0.3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "libmwaw-doc-0.3.4-3.fc22.noarch.rpm", 
+    "pkg": "libmwaw-doc", 
+    "pkg_version": "0.3.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "libmwaw-doc-0.3.4-3.fc22.noarch.rpm", 
+    "pkg": "libmwaw-doc", 
+    "pkg_version": "0.3.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "libmwaw-doc-0.3.4-2.fc21.noarch.rpm", 
+    "pkg": "libmwaw-doc", 
+    "pkg_version": "0.3.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "libmwaw-doc-0.2.0-4.fc20.noarch.rpm", 
+    "pkg": "libmwaw-doc", 
+    "pkg_version": "0.2.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libmwaw-doc_0.3.1-1_all.deb", 
+    "pkg": "libmwaw-doc", 
+    "pkg_version": "0.3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

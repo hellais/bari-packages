@@ -1,0 +1,55 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gosmore-0.0.0.20101111-alt4.svn.24204.qa1.x86_64.rpm", 
+    "pkg": "gosmore", 
+    "pkg_version": "0.0.0.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gosmore_0.0.0.20100711-2.1_i386.deb", 
+    "pkg": "gosmore", 
+    "pkg_version": "0.0.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gosmore_0.0.0.20100711-2.1_i386.deb", 
+    "pkg": "gosmore", 
+    "pkg_version": "0.0.0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gosmore_0.0.0.20100711-2.1_i386.deb", 
+    "pkg": "gosmore", 
+    "pkg_version": "0.0.0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gosmore_0.0.0.20100711-2.1ubuntu1_i386.deb", 
+    "pkg": "gosmore", 
+    "pkg_version": "0.0.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gosmore_0.0.0.20100711-2.1ubuntu1_i386.deb", 
+    "pkg": "gosmore", 
+    "pkg_version": "0.0.0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

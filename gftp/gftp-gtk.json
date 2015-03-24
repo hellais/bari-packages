@@ -1,0 +1,46 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gftp-gtk-2.0.19-alt2.qa1.x86_64.rpm", 
+    "pkg": "gftp-gtk", 
+    "pkg_version": "2.0.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gftp-gtk_2.0.19-4_i386.deb", 
+    "pkg": "gftp-gtk", 
+    "pkg_version": "2.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gftp-gtk_2.0.19-4_i386.deb", 
+    "pkg": "gftp-gtk", 
+    "pkg_version": "2.0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gftp-gtk_2.0.19-4ubuntu2_i386.deb", 
+    "pkg": "gftp-gtk", 
+    "pkg_version": "2.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gftp-gtk_2.0.19-4ubuntu2_i386.deb", 
+    "pkg": "gftp-gtk", 
+    "pkg_version": "2.0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

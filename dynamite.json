@@ -1,0 +1,163 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "dynamite-0.1.1-4-x86_64.pkg.tar.xz", 
+    "pkg": "dynamite", 
+    "pkg_version": "0.1.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "dynamite-0.1-2.el6.rf.x86_64.rpm", 
+    "pkg": "dynamite", 
+    "pkg_version": "0.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "dynamite-0.1-2.el5.rf.x86_64.rpm", 
+    "pkg": "dynamite", 
+    "pkg_version": "0.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dynamite_0.1.1-2_i386.deb", 
+    "pkg": "dynamite", 
+    "pkg_version": "0.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dynamite_0.1.1-2_i386.deb", 
+    "pkg": "dynamite", 
+    "pkg_version": "0.1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dynamite_0.1.1-2_i386.deb", 
+    "pkg": "dynamite", 
+    "pkg_version": "0.1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "dynamite-0.1.1-11.fc22.x86_64.rpm", 
+    "pkg": "dynamite", 
+    "pkg_version": "0.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "dynamite-0.1.1-11.fc22.x86_64.rpm", 
+    "pkg": "dynamite", 
+    "pkg_version": "0.1.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "dynamite-0.1.1-11.fc21.x86_64.rpm", 
+    "pkg": "dynamite", 
+    "pkg_version": "0.1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "dynamite-0.1.1-9.fc20.x86_64.rpm", 
+    "pkg": "dynamite", 
+    "pkg_version": "0.1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "dynamite-0.1.1-11-omv2015.0.x86_64.rpm", 
+    "pkg": "dynamite", 
+    "pkg_version": "0.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "dynamite-0.1.1-5-omv2014.0.x86_64.rpm", 
+    "pkg": "dynamite", 
+    "pkg_version": "0.1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "dynamite-0.1.1-4-omv2013.0.x86_64.rpm", 
+    "pkg": "dynamite", 
+    "pkg_version": "0.1.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "dynamite-0.1.1-6.1.x86_64.rpm", 
+    "pkg": "dynamite", 
+    "pkg_version": "0.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "dynamite-0.1.1-4-rosa2014.1.x86_64.rpm", 
+    "pkg": "dynamite", 
+    "pkg_version": "0.1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "dynamite-0.1.1-4-rosa2012.1.x86_64.rpm", 
+    "pkg": "dynamite", 
+    "pkg_version": "0.1.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "dynamite_0.1.1-2_i386.deb", 
+    "pkg": "dynamite", 
+    "pkg_version": "0.1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "dynamite_0.1.1-2_i386.deb", 
+    "pkg": "dynamite", 
+    "pkg_version": "0.1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

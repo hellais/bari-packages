@@ -1,0 +1,83 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-zope.component_4.2.1-2_all.deb", 
+    "pkg": "python-zope.component", 
+    "pkg_version": "4.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-zope.component_4.2.1-2_all.deb", 
+    "pkg": "python-zope.component", 
+    "pkg_version": "4.2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-zope.component_3.10.0-3_all.deb", 
+    "pkg": "python-zope.component", 
+    "pkg_version": "3.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-zope.component-4.2.0-3.2.noarch.rpm", 
+    "pkg": "python-zope.component", 
+    "pkg_version": "4.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-zope.component-4.2.0-2.1.5.noarch.rpm", 
+    "pkg": "python-zope.component", 
+    "pkg_version": "4.2.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "python-zope.component-4.1.0-2-rosa2014.1.noarch.rpm", 
+    "pkg": "python-zope.component", 
+    "pkg_version": "4.1.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "python-zope.component-4.1.0-1-rosa2012.1.noarch.rpm", 
+    "pkg": "python-zope.component", 
+    "pkg_version": "4.1.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-zope.component_4.2.1-2ubuntu2_all.deb", 
+    "pkg": "python-zope.component", 
+    "pkg_version": "4.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-zope.component_4.0.2-0ubuntu1_all.deb", 
+    "pkg": "python-zope.component", 
+    "pkg_version": "4.0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

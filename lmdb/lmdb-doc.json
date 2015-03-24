@@ -1,0 +1,83 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "lmdb-doc-0.9.13-2.el7.noarch.rpm", 
+    "pkg": "lmdb-doc", 
+    "pkg_version": "0.9.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "lmdb-doc-0.9.13-2.el6.noarch.rpm", 
+    "pkg": "lmdb-doc", 
+    "pkg_version": "0.9.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lmdb-doc_0.9.14-1_all.deb", 
+    "pkg": "lmdb-doc", 
+    "pkg_version": "0.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lmdb-doc_0.9.14-1_all.deb", 
+    "pkg": "lmdb-doc", 
+    "pkg_version": "0.9.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lmdb-doc-0.9.14-1.fc22.noarch.rpm", 
+    "pkg": "lmdb-doc", 
+    "pkg_version": "0.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lmdb-doc-0.9.14-1.fc22.noarch.rpm", 
+    "pkg": "lmdb-doc", 
+    "pkg_version": "0.9.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "lmdb-doc-0.9.14-1.fc21.noarch.rpm", 
+    "pkg": "lmdb-doc", 
+    "pkg_version": "0.9.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "lmdb-doc-0.9.14-1.fc20.noarch.rpm", 
+    "pkg": "lmdb-doc", 
+    "pkg_version": "0.9.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "lmdb-doc_0.9.11-1_all.deb", 
+    "pkg": "lmdb-doc", 
+    "pkg_version": "0.9.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

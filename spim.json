@@ -1,0 +1,137 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "spim_8.0+dfsg-6_i386.deb", 
+    "pkg": "spim", 
+    "pkg_version": "8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "spim_8.0+dfsg-6_i386.deb", 
+    "pkg": "spim", 
+    "pkg_version": "8.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "spim_8.0+dfsg-5.1_i386.deb", 
+    "pkg": "spim", 
+    "pkg_version": "8.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "spim-20111122-0.8.svn.fc22.x86_64.rpm", 
+    "pkg": "spim-20111122", 
+    "pkg_version": "0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "spim_8.0+dfsg-5.1_i386.deb", 
+    "pkg": "spim", 
+    "pkg_version": "8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "spim-20111122-0.8.svn.fc22.x86_64.rpm", 
+    "pkg": "spim-20111122", 
+    "pkg_version": "0.8", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "spim_8.0+dfsg-5.1_i386.deb", 
+    "pkg": "spim", 
+    "pkg_version": "8.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "spim-20111122-0.8.svn.fc21.x86_64.rpm", 
+    "pkg": "spim-20111122", 
+    "pkg_version": "0.8", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "spim_8.0+dfsg-5.1_i386.deb", 
+    "pkg": "spim", 
+    "pkg_version": "8.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "spim-20111122-0.6.svn.fc20.x86_64.rpm", 
+    "pkg": "spim-20111122", 
+    "pkg_version": "0.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "spim_8.0+dfsg-5.1_i386.deb", 
+    "pkg": "spim", 
+    "pkg_version": "8.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "spim-20111122-0.6.svn.fc20.x86_64.rpm", 
+    "pkg": "spim-20111122", 
+    "pkg_version": "0.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "spim_8.0+dfsg-6_i386.deb", 
+    "pkg": "spim", 
+    "pkg_version": "8.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "spim-20111122-0.6.svn.fc20.x86_64.rpm", 
+    "pkg": "spim-20111122", 
+    "pkg_version": "0.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "spim_8.0+dfsg-6_i386.deb", 
+    "pkg": "spim", 
+    "pkg_version": "8.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

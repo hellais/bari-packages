@@ -1,0 +1,405 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gdb-7.5.0.20121002-alt5.x86_64.rpm", 
+    "pkg": "gdb", 
+    "pkg_version": "7.5.0.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gdb-7.9-1-x86_64.pkg.tar.xz", 
+    "pkg": "gdb", 
+    "pkg_version": "7.9", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "gdb-7.6.1-51.el7.x86_64.rpm", 
+    "pkg": "gdb", 
+    "pkg_version": "7.6.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "gdb-7.2-75.el6.x86_64.rpm", 
+    "pkg": "gdb", 
+    "pkg_version": "7.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "gdb-7.0.1-45.el5.centos.x86_64.rpm", 
+    "pkg": "gdb", 
+    "pkg_version": "7.0.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdb_7.7.1+dfsg-5_i386.deb", 
+    "pkg": "gdb", 
+    "pkg_version": "7.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdb-minimal_7.7.1+dfsg-5_i386.deb", 
+    "pkg": "gdb-minimal", 
+    "pkg_version": "7.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdb_7.7.1+dfsg-5_i386.deb", 
+    "pkg": "gdb", 
+    "pkg_version": "7.7.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdb-minimal_7.7.1+dfsg-5_i386.deb", 
+    "pkg": "gdb-minimal", 
+    "pkg_version": "7.7.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdb_7.4.1+dfsg-0.1_i386.deb", 
+    "pkg": "gdb", 
+    "pkg_version": "7.4.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdb-minimal_7.7.1+dfsg-5_i386.deb", 
+    "pkg": "gdb-minimal", 
+    "pkg_version": "7.7.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gdb-7.9-10.fc23.x86_64.rpm", 
+    "pkg": "gdb", 
+    "pkg_version": "7.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdb-minimal_7.7.1+dfsg-5_i386.deb", 
+    "pkg": "gdb-minimal", 
+    "pkg_version": "7.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gdb-7.8.90.20150214-7.fc22.x86_64.rpm", 
+    "pkg": "gdb", 
+    "pkg_version": "7.8.9", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdb-minimal_7.7.1+dfsg-5_i386.deb", 
+    "pkg": "gdb-minimal", 
+    "pkg_version": "7.7.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "gdb-7.8.2-38.fc21.x86_64.rpm", 
+    "pkg": "gdb", 
+    "pkg_version": "7.8.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdb-minimal_7.7.1+dfsg-5_i386.deb", 
+    "pkg": "gdb-minimal", 
+    "pkg_version": "7.7.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "gdb-7.7.1-22.fc20.x86_64.rpm", 
+    "pkg": "gdb", 
+    "pkg_version": "7.7.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdb-minimal_7.7.1+dfsg-5_i386.deb", 
+    "pkg": "gdb-minimal", 
+    "pkg_version": "7.7.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gdb-7.7.1_2014.06_1-4-omv2015.0.x86_64.rpm", 
+    "pkg": "gdb", 
+    "pkg_version": "7.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdb-minimal_7.7.1+dfsg-5_i386.deb", 
+    "pkg": "gdb-minimal", 
+    "pkg_version": "7.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gdb-7.5_2012.12-6-omv2014.0.x86_64.rpm", 
+    "pkg": "gdb", 
+    "pkg_version": "7.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdb-minimal_7.7.1+dfsg-5_i386.deb", 
+    "pkg": "gdb-minimal", 
+    "pkg_version": "7.7.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gdb-7.5_2012.12-5-omv2013.0.x86_64.rpm", 
+    "pkg": "gdb", 
+    "pkg_version": "7.5", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdb-minimal_7.7.1+dfsg-5_i386.deb", 
+    "pkg": "gdb-minimal", 
+    "pkg_version": "7.7.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gdb-7.9-2.1.x86_64.rpm", 
+    "pkg": "gdb", 
+    "pkg_version": "7.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdb-minimal_7.7.1+dfsg-5_i386.deb", 
+    "pkg": "gdb-minimal", 
+    "pkg_version": "7.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gdb-7.8-2.2.1.x86_64.rpm", 
+    "pkg": "gdb", 
+    "pkg_version": "7.8", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdb-minimal_7.7.1+dfsg-5_i386.deb", 
+    "pkg": "gdb-minimal", 
+    "pkg_version": "7.7.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gdb-7.6.50.20130731-3.1.2.i586.rpm", 
+    "pkg": "gdb", 
+    "pkg_version": "7.6.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdb-minimal_7.7.1+dfsg-5_i386.deb", 
+    "pkg": "gdb-minimal", 
+    "pkg_version": "7.7.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "gdb-7.7.1_2014.06_1-4-rosa2014.1.x86_64.rpm", 
+    "pkg": "gdb", 
+    "pkg_version": "7.7.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdb-minimal_7.7.1+dfsg-5_i386.deb", 
+    "pkg": "gdb-minimal", 
+    "pkg_version": "7.7.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "gdb-7.3.50.20110722-4-rosa2012.1.x86_64.rpm", 
+    "pkg": "gdb", 
+    "pkg_version": "7.3.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdb-minimal_7.7.1+dfsg-5_i386.deb", 
+    "pkg": "gdb-minimal", 
+    "pkg_version": "7.7.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "gdb-7.6.1-x86_64-1.txz", 
+    "pkg": "gdb", 
+    "pkg_version": "7.6.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdb-minimal_7.7.1+dfsg-5_i386.deb", 
+    "pkg": "gdb-minimal", 
+    "pkg_version": "7.7.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "gdb-7.5-x86_64-1.txz", 
+    "pkg": "gdb", 
+    "pkg_version": "7.5", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdb-minimal_7.7.1+dfsg-5_i386.deb", 
+    "pkg": "gdb-minimal", 
+    "pkg_version": "7.7.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "gdb-7.2-x86_64-2.txz", 
+    "pkg": "gdb", 
+    "pkg_version": "7.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdb-minimal_7.7.1+dfsg-5_i386.deb", 
+    "pkg": "gdb-minimal", 
+    "pkg_version": "7.7.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "gdb_7.8-1ubuntu4_i386.deb", 
+    "pkg": "gdb", 
+    "pkg_version": "7.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdb-minimal_7.7.1+dfsg-5_i386.deb", 
+    "pkg": "gdb-minimal", 
+    "pkg_version": "7.7.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "gdb_7.7.1-0ubuntu5~14.04.2_i386.deb", 
+    "pkg": "gdb", 
+    "pkg_version": "7.7.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdb-minimal_7.7.1+dfsg-5_i386.deb", 
+    "pkg": "gdb-minimal", 
+    "pkg_version": "7.7.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

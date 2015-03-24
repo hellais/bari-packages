@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "syslog-nagios-bridge_1.0.1-4_i386.deb", 
+    "pkg": "syslog-nagios-bridge", 
+    "pkg_version": "1.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

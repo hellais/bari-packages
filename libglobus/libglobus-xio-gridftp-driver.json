@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libglobus-xio-gridftp-driver_2.10-1_i386.deb", 
+    "pkg": "libglobus-xio-gridftp-driver", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "notmuch-mutt-0.19-2-x86_64.pkg.tar.xz", 
+    "pkg": "notmuch-mutt", 
+    "pkg_version": "0.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "notmuch-mutt_0.18.2-1_all.deb", 
+    "pkg": "notmuch-mutt", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "notmuch-mutt_0.18.2-1_all.deb", 
+    "pkg": "notmuch-mutt", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "notmuch-mutt_0.13.2-1_all.deb", 
+    "pkg": "notmuch-mutt", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "notmuch-mutt-0.19-2.fc22.noarch.rpm", 
+    "pkg": "notmuch-mutt", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "notmuch-mutt-0.19-2.fc22.noarch.rpm", 
+    "pkg": "notmuch-mutt", 
+    "pkg_version": "0.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "notmuch-mutt-0.19-1.fc21.noarch.rpm", 
+    "pkg": "notmuch-mutt", 
+    "pkg_version": "0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "notmuch-mutt-0.16-2.fc20.noarch.rpm", 
+    "pkg": "notmuch-mutt", 
+    "pkg_version": "0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "notmuch-mutt_0.17-3_all.deb", 
+    "pkg": "notmuch-mutt", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

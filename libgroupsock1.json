@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgroupsock1_2014.01.13-1_i386.deb", 
+    "pkg": "libgroupsock1_201", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgroupsock1_2014.01.13-1_i386.deb", 
+    "pkg": "libgroupsock1_201", 
+    "pkg_version": "4.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libgroupsock1-2014.01.07-7-omv2014.0.i586.rpm", 
+    "pkg": "libgroupsock1-201", 
+    "pkg_version": "4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgroupsock1_2014.01.13-1_i386.deb", 
+    "pkg": "libgroupsock1_201", 
+    "pkg_version": "4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libgroupsock1-2014.01.07-7-omv2014.0.i586.rpm", 
+    "pkg": "libgroupsock1-201", 
+    "pkg_version": "4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libgroupsock1_2014.01.13-1_i386.deb", 
+    "pkg": "libgroupsock1_201", 
+    "pkg_version": "4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

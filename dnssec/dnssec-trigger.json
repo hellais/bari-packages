@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "dnssec-trigger-0.11-21.el7.x86_64.rpm", 
+    "pkg": "dnssec-trigger", 
+    "pkg_version": "0.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "dnssec-trigger-0.10-5.el6.x86_64.rpm", 
+    "pkg": "dnssec-trigger", 
+    "pkg_version": "0.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dnssec-trigger_0.13~svn685-4_i386.deb", 
+    "pkg": "dnssec-trigger", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dnssec-trigger_0.13~svn685-4_i386.deb", 
+    "pkg": "dnssec-trigger", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "dnssec-trigger-0.12-19.fc23.x86_64.rpm", 
+    "pkg": "dnssec-trigger", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "dnssec-trigger-0.12-18.fc22.x86_64.rpm", 
+    "pkg": "dnssec-trigger", 
+    "pkg_version": "0.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "dnssec-trigger-0.12-19.fc21.x86_64.rpm", 
+    "pkg": "dnssec-trigger", 
+    "pkg_version": "0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "dnssec-trigger-0.12-14.fc20.x86_64.rpm", 
+    "pkg": "dnssec-trigger", 
+    "pkg_version": "0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

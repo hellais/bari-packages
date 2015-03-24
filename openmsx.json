@@ -1,0 +1,118 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "openmsx-0.11.0-alt1_1.x86_64.rpm", 
+    "pkg": "openmsx", 
+    "pkg_version": "0.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "openmsx_0.10.1-2_i386.deb", 
+    "pkg": "openmsx", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "openmsx_0.10.1-2_i386.deb", 
+    "pkg": "openmsx", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "openmsx_0.8.2-2.1_i386.deb", 
+    "pkg": "openmsx", 
+    "pkg_version": "0.8.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "openmsx-0.11.0-1.fc22.x86_64.rpm", 
+    "pkg": "openmsx", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "openmsx-0.11.0-1.fc22.x86_64.rpm", 
+    "pkg": "openmsx", 
+    "pkg_version": "0.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "openmsx-0.11.0-1.fc21.x86_64.rpm", 
+    "pkg": "openmsx", 
+    "pkg_version": "0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "openmsx-0.10.1-1.fc20.x86_64.rpm", 
+    "pkg": "openmsx", 
+    "pkg_version": "0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Emulators", 
+    "pkg_full_name": "openmsx-0.7.2-2.58.x86_64.rpm", 
+    "pkg": "openmsx", 
+    "pkg_version": "0.7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "openmsx-0.11.0-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "openmsx", 
+    "pkg_version": "0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "openmsx-0.9.1-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "openmsx", 
+    "pkg_version": "0.9.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "openmsx_0.10.1-1_i386.deb", 
+    "pkg": "openmsx", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "openmsx_0.10.0-1ubuntu1_i386.deb", 
+    "pkg": "openmsx", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

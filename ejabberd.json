@@ -1,0 +1,422 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ejabberd-2.1.10-alt1.x86_64.rpm", 
+    "pkg": "ejabberd", 
+    "pkg_version": "2.1.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ejabberd-2.1.10-alt1.x86_64.rpm", 
+    "pkg": "ejabberd", 
+    "pkg_version": "2.1.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "ejabberd-15.02-2-x86_64.pkg.tar.xz", 
+    "pkg": "ejabberd-1", 
+    "pkg_version": "5.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "NauLinux School", 
+    "pkg_full_name": "ejabberd-2.0.3-1.Nau5x.i386.rpm", 
+    "pkg": "ejabberd", 
+    "pkg_version": "2.0.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "ejabberd-15.02-2-x86_64.pkg.tar.xz", 
+    "pkg": "ejabberd-1", 
+    "pkg_version": "5.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ejabberd_14.07-4_i386.deb", 
+    "pkg": "ejabberd_1", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NauLinux School", 
+    "pkg_full_name": "ejabberd-2.0.3-1.Nau5x.i386.rpm", 
+    "pkg": "ejabberd", 
+    "pkg_version": "2.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "ejabberd-15.02-2-x86_64.pkg.tar.xz", 
+    "pkg": "ejabberd-1", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ejabberd_14.07-4_i386.deb", 
+    "pkg": "ejabberd_1", 
+    "pkg_version": "4.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NauLinux School", 
+    "pkg_full_name": "ejabberd-2.0.3-1.Nau5x.i386.rpm", 
+    "pkg": "ejabberd", 
+    "pkg_version": "2.0.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "ejabberd-15.02-2-x86_64.pkg.tar.xz", 
+    "pkg": "ejabberd-1", 
+    "pkg_version": "5.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ejabberd_14.07-4_i386.deb", 
+    "pkg": "ejabberd_1", 
+    "pkg_version": "4.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "ejabberd_2.1.10-4+deb7u1_i386.deb", 
+    "pkg": "ejabberd", 
+    "pkg_version": "2.1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "ejabberd-15.02-2-x86_64.pkg.tar.xz", 
+    "pkg": "ejabberd-1", 
+    "pkg_version": "5.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ejabberd_14.07-4_i386.deb", 
+    "pkg": "ejabberd_1", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "ejabberd_2.1.10-4+deb7u1_i386.deb", 
+    "pkg": "ejabberd", 
+    "pkg_version": "2.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ejabberd-14.07-6.fc22.x86_64.rpm", 
+    "pkg": "ejabberd-1", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ejabberd_14.07-4_i386.deb", 
+    "pkg": "ejabberd_1", 
+    "pkg_version": "4.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "ejabberd_2.1.10-4+deb7u1_i386.deb", 
+    "pkg": "ejabberd", 
+    "pkg_version": "2.1.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ejabberd-14.07-6.fc22.x86_64.rpm", 
+    "pkg": "ejabberd-1", 
+    "pkg_version": "4.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ejabberd_14.07-4_i386.deb", 
+    "pkg": "ejabberd_1", 
+    "pkg_version": "4.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "ejabberd_2.1.10-4+deb7u1_i386.deb", 
+    "pkg": "ejabberd", 
+    "pkg_version": "2.1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ejabberd-14.07-6.fc21.x86_64.rpm", 
+    "pkg": "ejabberd-1", 
+    "pkg_version": "4.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ejabberd_14.07-4_i386.deb", 
+    "pkg": "ejabberd_1", 
+    "pkg_version": "4.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Olea", 
+    "pkg_full_name": "ejabberd-2.0.5-3.i386.rpm", 
+    "pkg": "ejabberd", 
+    "pkg_version": "2.0.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ejabberd-14.07-6.fc21.x86_64.rpm", 
+    "pkg": "ejabberd-1", 
+    "pkg_version": "4.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ejabberd_14.07-4_i386.deb", 
+    "pkg": "ejabberd_1", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "ejabberd-2.1.11-1-omv2013.0.i586.rpm", 
+    "pkg": "ejabberd", 
+    "pkg_version": "2.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ejabberd-14.07-6.fc21.x86_64.rpm", 
+    "pkg": "ejabberd-1", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ejabberd_14.07-4_i386.deb", 
+    "pkg": "ejabberd_1", 
+    "pkg_version": "4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "ejabberd-2.1.11-1-omv2013.0.i586.rpm", 
+    "pkg": "ejabberd", 
+    "pkg_version": "2.1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ejabberd-14.07-6.fc21.x86_64.rpm", 
+    "pkg": "ejabberd-1", 
+    "pkg_version": "4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ejabberd_14.07-4_i386.deb", 
+    "pkg": "ejabberd_1", 
+    "pkg_version": "4.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "ejabberd-2.1.11-1-omv2013.0.i586.rpm", 
+    "pkg": "ejabberd", 
+    "pkg_version": "2.1.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ejabberd-14.07-6.fc21.x86_64.rpm", 
+    "pkg": "ejabberd-1", 
+    "pkg_version": "4.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ejabberd_14.07-4_i386.deb", 
+    "pkg": "ejabberd_1", 
+    "pkg_version": "4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "ejabberd-2.1.13-5-rosa2014.1.x86_64.rpm", 
+    "pkg": "ejabberd", 
+    "pkg_version": "2.1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ejabberd-14.07-6.fc21.x86_64.rpm", 
+    "pkg": "ejabberd-1", 
+    "pkg_version": "4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ejabberd_14.07-4_i386.deb", 
+    "pkg": "ejabberd_1", 
+    "pkg_version": "4.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "ejabberd-2.1.13-4-rosa2012.1.x86_64.rpm", 
+    "pkg": "ejabberd", 
+    "pkg_version": "2.1.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ejabberd-14.07-6.fc21.x86_64.rpm", 
+    "pkg": "ejabberd-1", 
+    "pkg_version": "4.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ejabberd_14.07-4_i386.deb", 
+    "pkg": "ejabberd_1", 
+    "pkg_version": "4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ejabberd_2.1.11-1ubuntu3_i386.deb", 
+    "pkg": "ejabberd", 
+    "pkg_version": "2.1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ejabberd-14.07-6.fc21.x86_64.rpm", 
+    "pkg": "ejabberd-1", 
+    "pkg_version": "4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ejabberd_14.07-4_i386.deb", 
+    "pkg": "ejabberd_1", 
+    "pkg_version": "4.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "ejabberd_2.1.11-1ubuntu2.1_i386.deb", 
+    "pkg": "ejabberd", 
+    "pkg_version": "2.1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ejabberd-14.07-6.fc21.x86_64.rpm", 
+    "pkg": "ejabberd-1", 
+    "pkg_version": "4.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

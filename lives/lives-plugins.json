@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lives-plugins_2.2.8~ds0-1_i386.deb", 
+    "pkg": "lives-plugins", 
+    "pkg_version": "2.2.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lives-plugins_2.2.6~ds0-1_i386.deb", 
+    "pkg": "lives-plugins", 
+    "pkg_version": "2.2.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

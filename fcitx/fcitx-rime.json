@@ -1,0 +1,64 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "fcitx-rime-0.3.1-2-x86_64.pkg.tar.xz", 
+    "pkg": "fcitx-rime", 
+    "pkg_version": "0.3.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fcitx-rime_0.3.1-1_i386.deb", 
+    "pkg": "fcitx-rime", 
+    "pkg_version": "0.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fcitx-rime_0.3.1-1_i386.deb", 
+    "pkg": "fcitx-rime", 
+    "pkg_version": "0.3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "fcitx-rime-0.3.1-3.1.x86_64.rpm", 
+    "pkg": "fcitx-rime", 
+    "pkg_version": "0.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "fcitx-rime-0.3.1-2.1.3.x86_64.rpm", 
+    "pkg": "fcitx-rime", 
+    "pkg_version": "0.3.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "fcitx-rime-0.2.2-2.1.1.i586.rpm", 
+    "pkg": "fcitx-rime", 
+    "pkg_version": "0.2.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "fcitx-rime_0.3.1-1_i386.deb", 
+    "pkg": "fcitx-rime", 
+    "pkg_version": "0.3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

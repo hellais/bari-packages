@@ -1,0 +1,91 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gpaste-3.14.1-alt1.x86_64.rpm", 
+    "pkg": "gpaste", 
+    "pkg_version": "3.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "gpaste-3.3.1-1.el7.x86_64.rpm", 
+    "pkg": "gpaste", 
+    "pkg_version": "3.3.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gpaste_3.14-2_i386.deb", 
+    "pkg": "gpaste", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gpaste_3.14-2_i386.deb", 
+    "pkg": "gpaste", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gpaste-3.14.2-1.fc23.x86_64.rpm", 
+    "pkg": "gpaste", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gpaste-3.14.1-1.fc22.x86_64.rpm", 
+    "pkg": "gpaste", 
+    "pkg_version": "3.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "gpaste-3.14.2-1.fc21.x86_64.rpm", 
+    "pkg": "gpaste", 
+    "pkg_version": "3.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "gpaste-3.10.4.1-1.fc20.x86_64.rpm", 
+    "pkg": "gpaste", 
+    "pkg_version": "3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gpaste-3.14-2.1.x86_64.rpm", 
+    "pkg": "gpaste", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "gpaste-3.14-2.4.1.x86_64.rpm", 
+    "pkg": "gpaste", 
+    "pkg_version": "3.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }
+]

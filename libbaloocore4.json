@@ -1,0 +1,73 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libbaloocore4-4.14.3-alt1.x86_64.rpm", 
+    "pkg": "libbaloocore4", 
+    "pkg_version": "4.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libbaloocore4_4.14.2-1_i386.deb", 
+    "pkg": "libbaloocore4", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libbaloocore4_4.14.2-1_i386.deb", 
+    "pkg": "libbaloocore4", 
+    "pkg_version": "4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libbaloocore4-4.14.3-5-omv2015.0.i586.rpm", 
+    "pkg": "libbaloocore4", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "libbaloocore4-4.14.3-1-omv2014.0.i586.rpm", 
+    "pkg": "libbaloocore4", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "libbaloocore4-4.14.3-3-rosa2014.1.i586.rpm", 
+    "pkg": "libbaloocore4", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libbaloocore4_4.14.1-0ubuntu1_i386.deb", 
+    "pkg": "libbaloocore4", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "libbaloocore4_4.13.3-0ubuntu0.2_i386.deb", 
+    "pkg": "libbaloocore4", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

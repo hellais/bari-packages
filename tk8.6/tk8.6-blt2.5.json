@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tk8.6-blt2.5_2.5.3+dfsg-1_i386.deb", 
+    "pkg": "tk", 
+    "pkg_version": "8.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

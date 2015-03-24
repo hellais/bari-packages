@@ -1,0 +1,82 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "guestfsd-1.29.2-alt1.1.x86_64.rpm", 
+    "pkg": "guestfsd", 
+    "pkg_version": "1.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "guestfsd_1.28.6-1_i386.deb", 
+    "pkg": "guestfsd", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "guestfsd_1.28.1-1_i386.deb", 
+    "pkg": "guestfsd", 
+    "pkg_version": "1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "guestfsd_1.18.1-1+deb7u3_i386.deb", 
+    "pkg": "guestfsd", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "guestfsd-1.26.9-2.2.x86_64.rpm", 
+    "pkg": "guestfsd", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "guestfsd-1.26.9-1.9.x86_64.rpm", 
+    "pkg": "guestfsd", 
+    "pkg_version": "1.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "guestfsd-1.22.7-1.1.i586.rpm", 
+    "pkg": "guestfsd", 
+    "pkg_version": "1.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "guestfsd_1.26.7-1ubuntu2_i386.deb", 
+    "pkg": "guestfsd", 
+    "pkg_version": "1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "guestfsd_1.24.5-1_i386.deb", 
+    "pkg": "guestfsd", 
+    "pkg_version": "1.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

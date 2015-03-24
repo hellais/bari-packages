@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcpanel-json-xs-perl_3.0104-1+b1_i386.deb", 
+    "pkg": "libcpanel-json-xs-perl", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcpanel-json-xs-perl_3.0104-1+b1_i386.deb", 
+    "pkg": "libcpanel-json-xs-perl", 
+    "pkg_version": "3.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libcpanel-json-xs-perl_3.0104-1build1_i386.deb", 
+    "pkg": "libcpanel-json-xs-perl", 
+    "pkg_version": "3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

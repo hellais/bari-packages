@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-pmock_0.3.1+s20140625-2_all.deb", 
+    "pkg": "python-pmock", 
+    "pkg_version": "0.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-pmock_0.3.1+s20140625-2_all.deb", 
+    "pkg": "python-pmock", 
+    "pkg_version": "0.3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

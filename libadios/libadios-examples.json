@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libadios-examples_1.7.0-4_i386.deb", 
+    "pkg": "libadios-examples", 
+    "pkg_version": "1.7.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

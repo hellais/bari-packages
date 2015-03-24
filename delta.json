@@ -1,0 +1,137 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "delta_2006.08.03-6_i386.deb", 
+    "pkg": "delta_200", 
+    "pkg_version": "6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "delta_2006.08.03-6_i386.deb", 
+    "pkg": "delta_200", 
+    "pkg_version": "6.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "delta_2006.08.03-3_i386.deb", 
+    "pkg": "delta_200", 
+    "pkg_version": "6.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "delta_2006.08.03-3_i386.deb", 
+    "pkg": "delta_200", 
+    "pkg_version": "6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "delta-2006.08.03-4-omv2015.0.x86_64.rpm", 
+    "pkg": "delta-200", 
+    "pkg_version": "6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "delta_2006.08.03-3_i386.deb", 
+    "pkg": "delta_200", 
+    "pkg_version": "6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "delta-2006.08.03-96.1.x86_64.rpm", 
+    "pkg": "delta-200", 
+    "pkg_version": "6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "delta_2006.08.03-3_i386.deb", 
+    "pkg": "delta_200", 
+    "pkg_version": "6.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "delta-2006.08.03-95.1.2.x86_64.rpm", 
+    "pkg": "delta-200", 
+    "pkg_version": "6.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "delta_2006.08.03-3_i386.deb", 
+    "pkg": "delta_200", 
+    "pkg_version": "6.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "delta-2006.08.03-93.1.2.i586.rpm", 
+    "pkg": "delta-200", 
+    "pkg_version": "6.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "delta_2006.08.03-6_i386.deb", 
+    "pkg": "delta_200", 
+    "pkg_version": "6.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "delta-2006.08.03-93.1.2.i586.rpm", 
+    "pkg": "delta-200", 
+    "pkg_version": "6.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "delta_2006.08.03-6_i386.deb", 
+    "pkg": "delta_200", 
+    "pkg_version": "6.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "delta-2006.08.03-93.1.2.i586.rpm", 
+    "pkg": "delta-200", 
+    "pkg_version": "6.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

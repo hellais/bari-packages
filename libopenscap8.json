@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libopenscap8_1.0.9-1+b2_i386.deb", 
+    "pkg": "libopenscap8", 
+    "pkg_version": "1.0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libopenscap8_1.0.9-1+b2_i386.deb", 
+    "pkg": "libopenscap8", 
+    "pkg_version": "1.0.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "libopenscap8-1.2.1-106.3.x86_64.rpm", 
+    "pkg": "libopenscap8", 
+    "pkg_version": "1.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "libopenscap8-1.2.1-106.1.x86_64.rpm", 
+    "pkg": "libopenscap8", 
+    "pkg_version": "1.2.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "libopenscap8-1.2.1-106.2.x86_64.rpm", 
+    "pkg": "libopenscap8", 
+    "pkg_version": "1.2.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "libopenscap8-1.0.0-4-rosa2014.1.i586.rpm", 
+    "pkg": "libopenscap8", 
+    "pkg_version": "1.0.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libopenscap8_1.0.9-1build1_i386.deb", 
+    "pkg": "libopenscap8", 
+    "pkg_version": "1.0.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

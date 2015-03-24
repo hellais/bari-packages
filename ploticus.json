@@ -1,0 +1,119 @@
+[
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "ploticus-2.41-1.el6.rf.x86_64.rpm", 
+    "pkg": "ploticus", 
+    "pkg_version": "2.4", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "ploticus-2.41-1.el5.rf.x86_64.rpm", 
+    "pkg": "ploticus", 
+    "pkg_version": "2.4", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ploticus_2.42-3+b2_i386.deb", 
+    "pkg": "ploticus", 
+    "pkg_version": "2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ploticus_2.42-3+b2_i386.deb", 
+    "pkg": "ploticus", 
+    "pkg_version": "2.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ploticus_2.41-5_i386.deb", 
+    "pkg": "ploticus", 
+    "pkg_version": "2.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "ploticus-2.41-16.1.x86_64.rpm", 
+    "pkg": "ploticus", 
+    "pkg_version": "2.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "ploticus-2.41-16.1.x86_64.rpm", 
+    "pkg": "ploticus", 
+    "pkg_version": "2.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Network Utilities", 
+    "pkg_full_name": "ploticus-2.41-5.2.x86_64.rpm", 
+    "pkg": "ploticus", 
+    "pkg_version": "2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Network Utilities", 
+    "pkg_full_name": "ploticus-2.41-5.1.x86_64.rpm", 
+    "pkg": "ploticus", 
+    "pkg_version": "2.4", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Network Utilities", 
+    "pkg_full_name": "ploticus-2.41-5.1.x86_64.rpm", 
+    "pkg": "ploticus", 
+    "pkg_version": "2.4", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "ploticus-2.42-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "ploticus", 
+    "pkg_version": "2.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ploticus_2.42-3_i386.deb", 
+    "pkg": "ploticus", 
+    "pkg_version": "2.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ploticus_2.42-1_i386.deb", 
+    "pkg": "ploticus", 
+    "pkg_version": "2.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

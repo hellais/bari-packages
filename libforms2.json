@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libforms2_1.2.3-1.2+b1_i386.deb", 
+    "pkg": "libforms2", 
+    "pkg_version": "1.2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libforms2_1.2.3-1.2+b1_i386.deb", 
+    "pkg": "libforms2", 
+    "pkg_version": "1.2.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libforms2_1.0.93sp1-2_i386.deb", 
+    "pkg": "libforms2", 
+    "pkg_version": "1.0.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libforms2-1.2.4-1-omv2015.0.i586.rpm", 
+    "pkg": "libforms2", 
+    "pkg_version": "1.2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libforms2-1.0.93.sp1-5-omv2014.0.i586.rpm", 
+    "pkg": "libforms2", 
+    "pkg_version": "1.0.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libforms2-1.0.93.sp1-4-omv2013.0.i586.rpm", 
+    "pkg": "libforms2", 
+    "pkg_version": "1.0.9", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libforms2-1.0.93.sp1-6-rosa2014.1.i586.rpm", 
+    "pkg": "libforms2", 
+    "pkg_version": "1.0.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libforms2-1.0.93.sp1-3-rosa2012.1.i586.rpm", 
+    "pkg": "libforms2", 
+    "pkg_version": "1.0.9", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libforms2_1.2.3-1ubuntu1_i386.deb", 
+    "pkg": "libforms2", 
+    "pkg_version": "1.2.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libforms2_1.0.93sp1-2ubuntu3_i386.deb", 
+    "pkg": "libforms2", 
+    "pkg_version": "1.0.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

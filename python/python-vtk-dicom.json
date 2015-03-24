@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-vtk-dicom_0.5.5-2_i386.deb", 
+    "pkg": "python-vtk-dicom", 
+    "pkg_version": "0.5.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-vtk-dicom_0.5.5-2_i386.deb", 
+    "pkg": "python-vtk-dicom", 
+    "pkg_version": "0.5.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "acfax_981011-14.1_i386.deb", 
+    "pkg": "acfax_981011-1", 
+    "pkg_version": "4.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "acfax-981011-3-omv2013.0.x86_64.rpm", 
+    "pkg": "acfax-981011-3-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "acfax_981011-14.1_i386.deb", 
+    "pkg": "acfax_981011-1", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "acfax-981011-3-omv2013.0.x86_64.rpm", 
+    "pkg": "acfax-981011-3-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "acfax_981011-14.1_i386.deb", 
+    "pkg": "acfax_981011-1", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "acfax-981011-3-omv2013.0.x86_64.rpm", 
+    "pkg": "acfax-981011-3-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "acfax_981011-14.1_i386.deb", 
+    "pkg": "acfax_981011-1", 
+    "pkg_version": "4.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "acfax-981011-3-omv2013.0.x86_64.rpm", 
+    "pkg": "acfax-981011-3-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "acfax_981011-14.1_i386.deb", 
+    "pkg": "acfax_981011-1", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "acfax-981011-4-rosa2014.1.x86_64.rpm", 
+    "pkg": "acfax-981011-4-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "acfax-981011-3-omv2013.0.x86_64.rpm", 
+    "pkg": "acfax-981011-3-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "acfax_981011-14.1_i386.deb", 
+    "pkg": "acfax_981011-1", 
+    "pkg_version": "4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "acfax-981011-4-rosa2014.1.x86_64.rpm", 
+    "pkg": "acfax-981011-4-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "acfax-981011-3-rosa2012.1.x86_64.rpm", 
+    "pkg": "acfax-981011-3-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "acfax-981011-3-omv2013.0.x86_64.rpm", 
+    "pkg": "acfax-981011-3-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "acfax_981011-14.1_i386.deb", 
+    "pkg": "acfax_981011-1", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "acfax-981011-4-rosa2014.1.x86_64.rpm", 
+    "pkg": "acfax-981011-4-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "acfax-981011-3-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "acfax-981011-3-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "acfax-981011-3-rosa2012.1.x86_64.rpm", 
+    "pkg": "acfax-981011-3-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "acfax-981011-3-omv2013.0.x86_64.rpm", 
+    "pkg": "acfax-981011-3-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "acfax_981011-14.1_i386.deb", 
+    "pkg": "acfax_981011-1", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "acfax-981011-4-rosa2014.1.x86_64.rpm", 
+    "pkg": "acfax-981011-4-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "acfax-981011-3-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "acfax-981011-3-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "acfax-981011-3-rosa2012.1.x86_64.rpm", 
+    "pkg": "acfax-981011-3-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

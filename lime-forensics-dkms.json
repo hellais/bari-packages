@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lime-forensics-dkms_1.3~svn.r21-2_all.deb", 
+    "pkg": "lime-forensics-dkms", 
+    "pkg_version": "1.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lime-forensics-dkms_1.3~svn.r21-2_all.deb", 
+    "pkg": "lime-forensics-dkms", 
+    "pkg_version": "1.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "lime-forensics-dkms_1.3~svn.r21-1~bpo70+1_all.deb", 
+    "pkg": "lime-forensics-dkms", 
+    "pkg_version": "1.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "lime-forensics-dkms_1.3~svn.r18-1_all.deb", 
+    "pkg": "lime-forensics-dkms", 
+    "pkg_version": "1.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

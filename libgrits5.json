@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgrits5_0.8.1-1_i386.deb", 
+    "pkg": "libgrits5", 
+    "pkg_version": "0.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgrits5_0.8.1-1_i386.deb", 
+    "pkg": "libgrits5", 
+    "pkg_version": "0.8.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "libgrits5-0.8-1-rosa2014.1.i586.rpm", 
+    "pkg": "libgrits5", 
+    "pkg_version": "0.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libgrits5_0.8.1-1_i386.deb", 
+    "pkg": "libgrits5", 
+    "pkg_version": "0.8.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

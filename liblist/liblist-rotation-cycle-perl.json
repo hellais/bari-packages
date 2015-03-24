@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liblist-rotation-cycle-perl_1.009-1_all.deb", 
+    "pkg": "liblist-rotation-cycle-perl", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liblist-rotation-cycle-perl_1.009-1_all.deb", 
+    "pkg": "liblist-rotation-cycle-perl", 
+    "pkg_version": "1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "liblist-rotation-cycle-perl_1.009-1_all.deb", 
+    "pkg": "liblist-rotation-cycle-perl", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gstreamer1.0-plugins-base_1.4.4-2_i386.deb", 
+    "pkg": "gstreamer", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gstreamer1.0-plugins-base_1.4.4-2_i386.deb", 
+    "pkg": "gstreamer", 
+    "pkg_version": "1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "gstreamer1.0-plugins-base_1.2.4-1~bpo70+1_i386.deb", 
+    "pkg": "gstreamer", 
+    "pkg_version": "1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gstreamer1.0-plugins-base-1.4.4-1-omv2015.0.x86_64.rpm", 
+    "pkg": "gstreamer", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gstreamer1.0-plugins-base-1.2.3-1-omv2014.0.x86_64.rpm", 
+    "pkg": "gstreamer", 
+    "pkg_version": "1.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gstreamer1.0-plugins-base-1.0.5-6-omv2013.0.x86_64.rpm", 
+    "pkg": "gstreamer", 
+    "pkg_version": "1.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "gstreamer1.0-plugins-base-1.2.4-4-rosa2014.1.x86_64.rpm", 
+    "pkg": "gstreamer", 
+    "pkg_version": "1.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "gstreamer1.0-plugins-base-1.0.10-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "gstreamer", 
+    "pkg_version": "1.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "gstreamer1.0-plugins-base_1.4.3-1ubuntu1_i386.deb", 
+    "pkg": "gstreamer", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

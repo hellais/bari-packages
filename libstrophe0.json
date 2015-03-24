@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libstrophe0_0.8.7-1_i386.deb", 
+    "pkg": "libstrophe0", 
+    "pkg_version": "0.8.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

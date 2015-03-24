@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "velvetoptimiser_2.2.5-2_all.deb", 
+    "pkg": "velvetoptimiser", 
+    "pkg_version": "2.2.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "velvetoptimiser_2.2.5-2_all.deb", 
+    "pkg": "velvetoptimiser", 
+    "pkg_version": "2.2.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

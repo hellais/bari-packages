@@ -1,0 +1,55 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-uuidtools-2.1.0-alt1.1.noarch.rpm", 
+    "pkg": "ruby-uuidtools", 
+    "pkg_version": "2.1.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-uuidtools_2.1.4-2_all.deb", 
+    "pkg": "ruby-uuidtools", 
+    "pkg_version": "2.1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-uuidtools_2.1.4-2_all.deb", 
+    "pkg": "ruby-uuidtools", 
+    "pkg_version": "2.1.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-uuidtools_2.1.2-2_all.deb", 
+    "pkg": "ruby-uuidtools", 
+    "pkg_version": "2.1.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ruby-uuidtools_2.1.4-1build1_all.deb", 
+    "pkg": "ruby-uuidtools", 
+    "pkg_version": "2.1.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ruby-uuidtools_2.1.4-1_all.deb", 
+    "pkg": "ruby-uuidtools", 
+    "pkg_version": "2.1.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

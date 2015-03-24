@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsubtitleeditor0_0.33.0-3_i386.deb", 
+    "pkg": "libsubtitleeditor0", 
+    "pkg_version": "0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsubtitleeditor0_0.33.0-3_i386.deb", 
+    "pkg": "libsubtitleeditor0", 
+    "pkg_version": "0.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsubtitleeditor0_0.33.0-1_i386.deb", 
+    "pkg": "libsubtitleeditor0", 
+    "pkg_version": "0.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "libsubtitleeditor0-0.41.1-1-rosa2014.1.i586.rpm", 
+    "pkg": "libsubtitleeditor0", 
+    "pkg_version": "0.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "libsubtitleeditor0-0.41.0-1-rosa2012.1.i586.rpm", 
+    "pkg": "libsubtitleeditor0", 
+    "pkg_version": "0.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libsubtitleeditor0_0.41.0-2ubuntu1_i386.deb", 
+    "pkg": "libsubtitleeditor0", 
+    "pkg_version": "0.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libsubtitleeditor0_0.41.0-2ubuntu1_i386.deb", 
+    "pkg": "libsubtitleeditor0", 
+    "pkg_version": "0.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

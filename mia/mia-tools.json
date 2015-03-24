@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "mia-tools_2.0.13-1~nd+1_i386.deb", 
+    "pkg": "mia-tools", 
+    "pkg_version": "2.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "mia-tools_2.0.13-1~nd80+1_i386.deb", 
+    "pkg": "mia-tools", 
+    "pkg_version": "2.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "mia-tools_2.0.13-1~nd70+1_i386.deb", 
+    "pkg": "mia-tools", 
+    "pkg_version": "2.0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mia-tools_2.2.0-1_i386.deb", 
+    "pkg": "mia-tools", 
+    "pkg_version": "2.2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

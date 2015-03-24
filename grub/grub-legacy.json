@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "grub-legacy_0.97-70_i386.deb", 
+    "pkg": "grub-legacy", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "grub-legacy_0.97-70_i386.deb", 
+    "pkg": "grub-legacy", 
+    "pkg_version": "0.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "grub-legacy_0.97-67_i386.deb", 
+    "pkg": "grub-legacy", 
+    "pkg_version": "0.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

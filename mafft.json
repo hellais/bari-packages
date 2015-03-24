@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mafft_7.205-1_i386.deb", 
+    "pkg": "mafft", 
+    "pkg_version": "7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mafft_7.205-1_i386.deb", 
+    "pkg": "mafft", 
+    "pkg_version": "7.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mafft_6.864-1_i386.deb", 
+    "pkg": "mafft", 
+    "pkg_version": "6.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Freestylers", 
+    "pkg_full_name": "mafft-7.149-x86_64-1_fs.tgz", 
+    "pkg": "mafft", 
+    "pkg_version": "7.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mafft_7.164-1_i386.deb", 
+    "pkg": "mafft", 
+    "pkg_version": "7.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mafft_7.123-1_i386.deb", 
+    "pkg": "mafft", 
+    "pkg_version": "7.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

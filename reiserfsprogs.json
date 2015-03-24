@@ -1,0 +1,135 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "reiserfsprogs-3.6.24-alt2.x86_64.rpm", 
+    "pkg": "reiserfsprogs", 
+    "pkg_version": "3.6.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Core", 
+    "pkg_full_name": "reiserfsprogs-3.6.24-1-x86_64.pkg.tar.xz", 
+    "pkg": "reiserfsprogs", 
+    "pkg_version": "3.6.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "reiserfsprogs_3.6.24-2_i386.deb", 
+    "pkg": "reiserfsprogs", 
+    "pkg_version": "3.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "reiserfsprogs_3.6.24-1_i386.deb", 
+    "pkg": "reiserfsprogs", 
+    "pkg_version": "3.6.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "reiserfsprogs_3.6.21-1_i386.deb", 
+    "pkg": "reiserfsprogs", 
+    "pkg_version": "3.6.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "reiserfsprogs-3.6.24-2-omv2015.0.x86_64.rpm", 
+    "pkg": "reiserfsprogs", 
+    "pkg_version": "3.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "reiserfsprogs-3.6.21-6-omv2014.0.x86_64.rpm", 
+    "pkg": "reiserfsprogs", 
+    "pkg_version": "3.6.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "reiserfsprogs-3.6.21-5-omv2013.0.x86_64.rpm", 
+    "pkg": "reiserfsprogs", 
+    "pkg_version": "3.6.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "reiserfsprogs-3.6.21-4-rosa2014.1.x86_64.rpm", 
+    "pkg": "reiserfsprogs", 
+    "pkg_version": "3.6.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "reiserfsprogs-3.6.21-4-rosa2012.1.x86_64.rpm", 
+    "pkg": "reiserfsprogs", 
+    "pkg_version": "3.6.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "reiserfsprogs-3.6.23-x86_64-1.txz", 
+    "pkg": "reiserfsprogs", 
+    "pkg_version": "3.6.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "reiserfsprogs-3.6.21-x86_64-1.txz", 
+    "pkg": "reiserfsprogs", 
+    "pkg_version": "3.6.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "reiserfsprogs-3.6.21-x86_64-1.txz", 
+    "pkg": "reiserfsprogs", 
+    "pkg_version": "3.6.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "reiserfsprogs_3.6.24-1_i386.deb", 
+    "pkg": "reiserfsprogs", 
+    "pkg_version": "3.6.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "reiserfsprogs_3.6.24-1_i386.deb", 
+    "pkg": "reiserfsprogs", 
+    "pkg_version": "3.6.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

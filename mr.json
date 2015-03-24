@@ -1,0 +1,190 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "mr-1.13-alt1.noarch.rpm", 
+    "pkg": "mr", 
+    "pkg_version": "1.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "mr-1.05-1.el6.noarch.rpm", 
+    "pkg": "mr", 
+    "pkg_version": "1.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Silfreed.net", 
+    "pkg_full_name": "mr-0.42-1.el5.noarch.rpm", 
+    "pkg": "mr", 
+    "pkg_version": "0.4", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "myrepos_1.20141024.1_all.deb", 
+    "pkg": "myrepos", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mr_1.16_all.deb", 
+    "pkg": "mr", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "myrepos_1.20141024_all.deb", 
+    "pkg": "myrepos", 
+    "pkg_version": "1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mr_1.16_all.deb", 
+    "pkg": "mr", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "myrepos_1.20141024~bpo70+1_all.deb", 
+    "pkg": "myrepos", 
+    "pkg_version": "1.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mr_1.12_all.deb", 
+    "pkg": "mr", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "myrepos-1.20141024-1.fc22.noarch.rpm", 
+    "pkg": "myrepos", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mr_1.12_all.deb", 
+    "pkg": "mr", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "myrepos-1.20141024-1.fc22.noarch.rpm", 
+    "pkg": "myrepos", 
+    "pkg_version": "1.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mr_1.12_all.deb", 
+    "pkg": "mr", 
+    "pkg_version": "1.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "myrepos-1.20141024-1.fc21.noarch.rpm", 
+    "pkg": "myrepos", 
+    "pkg_version": "1.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mr_1.12_all.deb", 
+    "pkg": "mr", 
+    "pkg_version": "1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "myrepos-1.20141024-1.fc20.noarch.rpm", 
+    "pkg": "myrepos", 
+    "pkg_version": "1.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mr-1.15-3.fc20.noarch.rpm", 
+    "pkg": "mr", 
+    "pkg_version": "1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "myrepos_1.20140613_all.deb", 
+    "pkg": "myrepos", 
+    "pkg_version": "1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mr_1.16_all.deb", 
+    "pkg": "mr", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "myrepos_1.20130826_all.deb", 
+    "pkg": "myrepos", 
+    "pkg_version": "1.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mr_1.16_all.deb", 
+    "pkg": "mr", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

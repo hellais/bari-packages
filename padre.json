@@ -1,0 +1,191 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "padre_1.00+dfsg-3_all.deb", 
+    "pkg": "padre", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "padre_1.00+dfsg-3_all.deb", 
+    "pkg": "padre", 
+    "pkg_version": "1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "padre_0.96+dfsg1-2_all.deb", 
+    "pkg": "padre", 
+    "pkg_version": "0.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "padre_0.96+dfsg1-2_all.deb", 
+    "pkg": "padre", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "perl-Padre-0.90-14.fc22.noarch.rpm", 
+    "pkg": "perl-Padre", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "padre_0.96+dfsg1-2_all.deb", 
+    "pkg": "padre", 
+    "pkg_version": "0.9", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "perl-Padre-0.90-14.fc22.noarch.rpm", 
+    "pkg": "perl-Padre", 
+    "pkg_version": "0.9", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "padre_0.96+dfsg1-2_all.deb", 
+    "pkg": "padre", 
+    "pkg_version": "0.9", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "perl-Padre-0.90-12.fc21.noarch.rpm", 
+    "pkg": "perl-Padre", 
+    "pkg_version": "0.9", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "padre_0.96+dfsg1-2_all.deb", 
+    "pkg": "padre", 
+    "pkg_version": "0.9", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "perl-Padre-0.90-10.fc20.noarch.rpm", 
+    "pkg": "perl-Padre", 
+    "pkg_version": "0.9", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "padre-0.960.0-5-omv2013.0.noarch.rpm", 
+    "pkg": "padre", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "perl-Padre-0.90-10.fc20.noarch.rpm", 
+    "pkg": "perl-Padre", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "padre-1.0.0-1-rosa2014.1.noarch.rpm", 
+    "pkg": "padre", 
+    "pkg_version": "1.0.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "perl-Padre-0.90-10.fc20.noarch.rpm", 
+    "pkg": "perl-Padre", 
+    "pkg_version": "0.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "padre-0.960.0-5-rosa2012.1.noarch.rpm", 
+    "pkg": "padre", 
+    "pkg_version": "0.9", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "perl-Padre-0.90-10.fc20.noarch.rpm", 
+    "pkg": "perl-Padre", 
+    "pkg_version": "0.9", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "padre_1.00+dfsg-3_all.deb", 
+    "pkg": "padre", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "perl-Padre-0.90-10.fc20.noarch.rpm", 
+    "pkg": "perl-Padre", 
+    "pkg_version": "0.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "padre_1.00+dfsg-1_all.deb", 
+    "pkg": "padre", 
+    "pkg_version": "1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "perl-Padre-0.90-10.fc20.noarch.rpm", 
+    "pkg": "perl-Padre", 
+    "pkg_version": "0.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

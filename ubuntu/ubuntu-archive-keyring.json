@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ubuntu-archive-keyring_2012.05.19-2_all.deb", 
+    "pkg": "ubuntu-archive-keyring_201", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ubuntu-archive-keyring_2012.05.19-1_all.deb", 
+    "pkg": "ubuntu-archive-keyring_201", 
+    "pkg_version": "2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

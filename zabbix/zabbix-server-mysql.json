@@ -1,0 +1,145 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "zabbix-server-mysql-2.4.4-alt1.x86_64.rpm", 
+    "pkg": "zabbix-server-mysql", 
+    "pkg_version": "2.4.4", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Atomic", 
+    "pkg_full_name": "zabbix-server-mysql-2.4.4-4.el7.art.x86_64.rpm", 
+    "pkg": "zabbix-server-mysql", 
+    "pkg_version": "2.4.4", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "zabbix-server-mysql-1.8.2-4.puias6.x86_64.rpm", 
+    "pkg": "zabbix-server-mysql", 
+    "pkg_version": "1.8.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "zabbix-server-mysql-1.8.2-4.PU_IAS.5.x86_64.rpm", 
+    "pkg": "zabbix-server-mysql", 
+    "pkg_version": "1.8.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "zabbix-server-mysql_2.2.7+dfsg-2_i386.deb", 
+    "pkg": "zabbix-server-mysql", 
+    "pkg_version": "2.2.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "zabbix-server-mysql_2.2.7+dfsg-2_i386.deb", 
+    "pkg": "zabbix-server-mysql", 
+    "pkg_version": "2.2.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "zabbix-server-mysql_2.2.8-1~dotdeb.1_i386.deb", 
+    "pkg": "zabbix-server-mysql", 
+    "pkg_version": "2.2.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "zabbix-server-mysql-2.4.4-1.fc23.x86_64.rpm", 
+    "pkg": "zabbix-server-mysql", 
+    "pkg_version": "2.4.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "zabbix-server-mysql-2.4.3-1.fc22.x86_64.rpm", 
+    "pkg": "zabbix-server-mysql", 
+    "pkg_version": "2.4.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "zabbix-server-mysql-2.2.8-1.fc21.x86_64.rpm", 
+    "pkg": "zabbix-server-mysql", 
+    "pkg_version": "2.2.8", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "zabbix-server-mysql-2.0.14-1.fc20.x86_64.rpm", 
+    "pkg": "zabbix-server-mysql", 
+    "pkg_version": "2.0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "zabbix-server-mysql-2.0.14-2-omv2015.0.x86_64.rpm", 
+    "pkg": "zabbix-server-mysql", 
+    "pkg_version": "2.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "zabbix-server-mysql-2.0.14-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "zabbix-server-mysql", 
+    "pkg_version": "2.0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "zabbix-server-mysql-2.0.14-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "zabbix-server-mysql", 
+    "pkg_version": "2.0.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "zabbix-server-mysql_2.2.5+dfsg-1ubuntu1_i386.deb", 
+    "pkg": "zabbix-server-mysql", 
+    "pkg_version": "2.2.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "zabbix-server-mysql_2.2.2+dfsg-1ubuntu1_i386.deb", 
+    "pkg": "zabbix-server-mysql", 
+    "pkg_version": "2.2.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

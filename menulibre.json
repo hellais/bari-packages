@@ -1,0 +1,64 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "menulibre-13.04.17-alt1.noarch.rpm", 
+    "pkg": "menulibre-1", 
+    "pkg_version": "3.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "menulibre-13.04.17-alt1.noarch.rpm", 
+    "pkg": "menulibre-1", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "menulibre_2.0.6-1_all.deb", 
+    "pkg": "menulibre", 
+    "pkg_version": "2.0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "menulibre-13.04.17-alt1.noarch.rpm", 
+    "pkg": "menulibre-1", 
+    "pkg_version": "3.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "menulibre_2.0.6-1_all.deb", 
+    "pkg": "menulibre", 
+    "pkg_version": "2.0.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "menulibre-13.04.17-4.mga4.noarch.rpm", 
+    "pkg": "menulibre-1", 
+    "pkg_version": "3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "menulibre_2.0.6-1ubuntu1_all.deb", 
+    "pkg": "menulibre", 
+    "pkg_version": "2.0.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

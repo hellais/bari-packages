@@ -1,0 +1,109 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "freeradius-utils-2.2.0-alt4.1.x86_64.rpm", 
+    "pkg": "freeradius-utils", 
+    "pkg_version": "2.2.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "freeradius-utils-3.0.1-6.el7.x86_64.rpm", 
+    "pkg": "freeradius-utils", 
+    "pkg_version": "3.0.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Lux", 
+    "pkg_full_name": "freeradius-utils-2.1.12-4.el6.lux.1.x86_64.rpm", 
+    "pkg": "freeradius-utils", 
+    "pkg_version": "2.1.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "freeradius-utils_2.2.5+dfsg-0.2_i386.deb", 
+    "pkg": "freeradius-utils", 
+    "pkg_version": "2.2.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "freeradius-utils_2.2.5+dfsg-0.2_i386.deb", 
+    "pkg": "freeradius-utils", 
+    "pkg_version": "2.2.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "freeradius-utils_2.1.12+dfsg-1.2_i386.deb", 
+    "pkg": "freeradius-utils", 
+    "pkg_version": "2.1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "freeradius-utils-3.0.4-4.fc23.x86_64.rpm", 
+    "pkg": "freeradius-utils", 
+    "pkg_version": "3.0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "freeradius-utils-3.0.4-4.fc22.x86_64.rpm", 
+    "pkg": "freeradius-utils", 
+    "pkg_version": "3.0.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "freeradius-utils-3.0.4-4.fc21.x86_64.rpm", 
+    "pkg": "freeradius-utils", 
+    "pkg_version": "3.0.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "freeradius-utils-3.0.3-2.fc20.x86_64.rpm", 
+    "pkg": "freeradius-utils", 
+    "pkg_version": "3.0.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "freeradius-utils_2.1.12+dfsg-1.3ubuntu2_i386.deb", 
+    "pkg": "freeradius-utils", 
+    "pkg_version": "2.1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "freeradius-utils_2.1.12+dfsg-1.2ubuntu8_i386.deb", 
+    "pkg": "freeradius-utils", 
+    "pkg_version": "2.1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

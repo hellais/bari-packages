@@ -1,0 +1,100 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "eclipse-subclipse-1.8.20-alt1_1jpp7.noarch.rpm", 
+    "pkg": "eclipse-subclipse", 
+    "pkg_version": "1.8.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "eclipse-subclipse-1.6.5-6.el6.x86_64.rpm", 
+    "pkg": "eclipse-subclipse", 
+    "pkg_version": "1.6.5", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "eclipse-subclipse_1.10.3-1_all.deb", 
+    "pkg": "eclipse-subclipse", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "eclipse-subclipse_1.10.3-1_all.deb", 
+    "pkg": "eclipse-subclipse", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "eclipse-subclipse-1.10.5-2.fc22.noarch.rpm", 
+    "pkg": "eclipse-subclipse", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "eclipse-subclipse-1.10.5-2.fc22.noarch.rpm", 
+    "pkg": "eclipse-subclipse", 
+    "pkg_version": "1.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "eclipse-subclipse-1.10.5-1.fc21.noarch.rpm", 
+    "pkg": "eclipse-subclipse", 
+    "pkg_version": "1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "eclipse-subclipse-1.10.5-1.fc20.noarch.rpm", 
+    "pkg": "eclipse-subclipse", 
+    "pkg_version": "1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "eclipse-subclipse-1.10.5-1.1-omv2015.0.noarch.rpm", 
+    "pkg": "eclipse-subclipse", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "eclipse-subclipse-1.10.2-2.0-omv2014.0.noarch.rpm", 
+    "pkg": "eclipse-subclipse", 
+    "pkg_version": "1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "eclipse-subclipse_1.10.3-1_all.deb", 
+    "pkg": "eclipse-subclipse", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libxmltooling-java-doc_1.4.2-4_all.deb", 
+    "pkg": "libxmltooling-java-doc", 
+    "pkg_version": "1.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libxmltooling-java-doc_1.4.2-4_all.deb", 
+    "pkg": "libxmltooling-java-doc", 
+    "pkg_version": "1.4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

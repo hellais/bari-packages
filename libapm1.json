@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libapm1_3.2.2-15_i386.deb", 
+    "pkg": "libapm1", 
+    "pkg_version": "3.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libapm1_3.2.2-15_i386.deb", 
+    "pkg": "libapm1", 
+    "pkg_version": "3.2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libapm1_3.2.2-14_i386.deb", 
+    "pkg": "libapm1", 
+    "pkg_version": "3.2.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libapm1-3.2.2-36-omv2015.0.i586.rpm", 
+    "pkg": "libapm1", 
+    "pkg_version": "3.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libapm1-3.2.2-29-omv2014.0.i586.rpm", 
+    "pkg": "libapm1", 
+    "pkg_version": "3.2.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libapm1-3.2.2-28-omv2013.0.i586.rpm", 
+    "pkg": "libapm1", 
+    "pkg_version": "3.2.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "libapm1-3.2.2-32-rosa2014.1.i586.rpm", 
+    "pkg": "libapm1", 
+    "pkg_version": "3.2.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libapm1-3.2.2-28-rosa2012.1.i586.rpm", 
+    "pkg": "libapm1", 
+    "pkg_version": "3.2.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libapm1_3.2.2-14build1_i386.deb", 
+    "pkg": "libapm1", 
+    "pkg_version": "3.2.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libapm1_3.2.2-14build1_i386.deb", 
+    "pkg": "libapm1", 
+    "pkg_version": "3.2.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

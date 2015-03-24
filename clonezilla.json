@@ -1,0 +1,37 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "clonezilla-3.10.11-4-any.pkg.tar.xz", 
+    "pkg": "clonezilla", 
+    "pkg_version": "3.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "clonezilla_3.10.11-1_all.deb", 
+    "pkg": "clonezilla", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "clonezilla_3.10.11-1_all.deb", 
+    "pkg": "clonezilla", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "clonezilla_3.10.11-1_all.deb", 
+    "pkg": "clonezilla", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

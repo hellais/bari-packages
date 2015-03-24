@@ -1,0 +1,216 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "dblatex-0.3-alt1.1.1.noarch.rpm", 
+    "pkg": "dblatex", 
+    "pkg_version": "0.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "dblatex-0.3.4-2-any.pkg.tar.xz", 
+    "pkg": "dblatex", 
+    "pkg_version": "0.3.4", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "dblatex-0.3.4-11.el7.noarch.rpm", 
+    "pkg": "dblatex", 
+    "pkg_version": "0.3.4", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "dblatex-0.2.8-2.el5.noarch.rpm", 
+    "pkg": "dblatex", 
+    "pkg_version": "0.2.8", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dblatex_0.3.5-2_all.deb", 
+    "pkg": "dblatex", 
+    "pkg_version": "0.3.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dblatex_0.3.5-2_all.deb", 
+    "pkg": "dblatex", 
+    "pkg_version": "0.3.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dblatex_0.3.4-2_all.deb", 
+    "pkg": "dblatex", 
+    "pkg_version": "0.3.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "dblatex-0.3.5-2.fc21.noarch.rpm", 
+    "pkg": "dblatex", 
+    "pkg_version": "0.3.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "dblatex-0.3.5-2.fc21.noarch.rpm", 
+    "pkg": "dblatex", 
+    "pkg_version": "0.3.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "dblatex-0.3.5-2.fc21.noarch.rpm", 
+    "pkg": "dblatex", 
+    "pkg_version": "0.3.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "dblatex-0.3.5-1.fc20.noarch.rpm", 
+    "pkg": "dblatex", 
+    "pkg_version": "0.3.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "dblatex-0.3.5-4-omv2015.0.noarch.rpm", 
+    "pkg": "dblatex", 
+    "pkg_version": "0.3.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "dblatex-0.3.4-4-omv2014.0.noarch.rpm", 
+    "pkg": "dblatex", 
+    "pkg_version": "0.3.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "dblatex-0.3.4-1-omv2013.0.noarch.rpm", 
+    "pkg": "dblatex", 
+    "pkg_version": "0.3.4", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "dblatex-0.3.5-1.1.noarch.rpm", 
+    "pkg": "dblatex", 
+    "pkg_version": "0.3.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "dblatex-0.3.4-4.1.4.noarch.rpm", 
+    "pkg": "dblatex", 
+    "pkg_version": "0.3.4", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "dblatex-0.3.4-2.1.2.noarch.rpm", 
+    "pkg": "dblatex", 
+    "pkg_version": "0.3.4", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "dblatex-0.3.4-5-rosa2014.1.noarch.rpm", 
+    "pkg": "dblatex", 
+    "pkg_version": "0.3.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "dblatex-0.3.4-4-rosa2012.1.noarch.rpm", 
+    "pkg": "dblatex", 
+    "pkg_version": "0.3.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Alien Bob", 
+    "pkg_full_name": "dblatex-0.3-x86_64-1alien.tgz", 
+    "pkg": "dblatex", 
+    "pkg_version": "0.3", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Alien Bob", 
+    "pkg_full_name": "dblatex-0.3-x86_64-1alien.tgz", 
+    "pkg": "dblatex", 
+    "pkg_version": "0.3", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Alien Bob", 
+    "pkg_full_name": "dblatex-0.3-x86_64-1alien.tgz", 
+    "pkg": "dblatex", 
+    "pkg_version": "0.3", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "dblatex_0.3.5-1_all.deb", 
+    "pkg": "dblatex", 
+    "pkg_version": "0.3.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "dblatex_0.3.4-3build1_all.deb", 
+    "pkg": "dblatex", 
+    "pkg_version": "0.3.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

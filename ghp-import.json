@@ -1,0 +1,19 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ghp-import-0.4.1-alt1.git20141001.noarch.rpm", 
+    "pkg": "ghp-import", 
+    "pkg_version": "0.4.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ghp-import_0.4.1-1_i386.deb", 
+    "pkg": "ghp-import", 
+    "pkg_version": "0.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

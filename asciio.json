@@ -1,0 +1,83 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "asciio_1.02.71-1_all.deb", 
+    "pkg": "asciio", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "asciio_1.02.71-1_all.deb", 
+    "pkg": "asciio", 
+    "pkg_version": "1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "asciio_1.02.71-1_all.deb", 
+    "pkg": "asciio", 
+    "pkg_version": "1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "asciio-1.02.71-18.fc22.noarch.rpm", 
+    "pkg": "asciio", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "asciio-1.02.71-18.fc22.noarch.rpm", 
+    "pkg": "asciio", 
+    "pkg_version": "1.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "asciio-1.02.71-17.fc21.noarch.rpm", 
+    "pkg": "asciio", 
+    "pkg_version": "1.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "asciio-1.02.71-16.fc20.noarch.rpm", 
+    "pkg": "asciio", 
+    "pkg_version": "1.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "asciio_1.02.71-1_all.deb", 
+    "pkg": "asciio", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "asciio_1.02.71-1_all.deb", 
+    "pkg": "asciio", 
+    "pkg_version": "1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

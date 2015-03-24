@@ -1,0 +1,146 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ipadic_2.7.0+main-3_i386.deb", 
+    "pkg": "ipadic", 
+    "pkg_version": "2.7.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "naist-jdic_0.4.3-5_all.deb", 
+    "pkg": "naist-jdic", 
+    "pkg_version": "0.4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ipadic_2.7.0+main-3_i386.deb", 
+    "pkg": "ipadic", 
+    "pkg_version": "2.7.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "naist-jdic_0.4.3-4_all.deb", 
+    "pkg": "naist-jdic", 
+    "pkg_version": "0.4.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ipadic_2.7.0+main-3_i386.deb", 
+    "pkg": "ipadic", 
+    "pkg_version": "2.7.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "naist-jdic_0.4.3-3.1_all.deb", 
+    "pkg": "naist-jdic", 
+    "pkg_version": "0.4.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ipadic-2.6.3-264.2.noarch.rpm", 
+    "pkg": "ipadic", 
+    "pkg_version": "2.6.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "naist-jdic_0.4.3-3.1_all.deb", 
+    "pkg": "naist-jdic", 
+    "pkg_version": "0.4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ipadic-2.6.3-263.1.5.noarch.rpm", 
+    "pkg": "ipadic", 
+    "pkg_version": "2.6.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "naist-jdic_0.4.3-3.1_all.deb", 
+    "pkg": "naist-jdic", 
+    "pkg_version": "0.4.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ipadic-2.6.3-260.1.4.noarch.rpm", 
+    "pkg": "ipadic", 
+    "pkg_version": "2.6.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "naist-jdic_0.4.3-3.1_all.deb", 
+    "pkg": "naist-jdic", 
+    "pkg_version": "0.4.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Multiverse", 
+    "pkg_full_name": "ipadic_2.7.0+main-3_i386.deb", 
+    "pkg": "ipadic", 
+    "pkg_version": "2.7.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "naist-jdic_0.4.3-3.1_all.deb", 
+    "pkg": "naist-jdic", 
+    "pkg_version": "0.4.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Multiverse", 
+    "pkg_full_name": "ipadic_2.7.0+main-3_i386.deb", 
+    "pkg": "ipadic", 
+    "pkg_version": "2.7.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "naist-jdic_0.4.3-3.1_all.deb", 
+    "pkg": "naist-jdic", 
+    "pkg_version": "0.4.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

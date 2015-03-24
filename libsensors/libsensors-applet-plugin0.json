@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsensors-applet-plugin0_3.0.0+git4-4_i386.deb", 
+    "pkg": "libsensors-applet-plugin0", 
+    "pkg_version": "3.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsensors-applet-plugin0_3.0.0+git4-4_i386.deb", 
+    "pkg": "libsensors-applet-plugin0", 
+    "pkg_version": "3.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsensors-applet-plugin0_3.0.0-0.2_i386.deb", 
+    "pkg": "libsensors-applet-plugin0", 
+    "pkg_version": "3.0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "libsensors-applet-plugin0-3.0.0-2.20131013.1-rosa2012.1.i586.rpm", 
+    "pkg": "libsensors-applet-plugin0", 
+    "pkg_version": "3.0.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libsensors-applet-plugin0_3.0.0+git4-4ubuntu1_i386.deb", 
+    "pkg": "libsensors-applet-plugin0", 
+    "pkg_version": "3.0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

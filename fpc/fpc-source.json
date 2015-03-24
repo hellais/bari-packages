@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fpc-source_2.6.4+dfsg-4_all.deb", 
+    "pkg": "fpc-source", 
+    "pkg_version": "2.6.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fpc-source_2.6.4+dfsg-4_all.deb", 
+    "pkg": "fpc-source", 
+    "pkg_version": "2.6.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fpc-source_2.6.0-9_all.deb", 
+    "pkg": "fpc-source", 
+    "pkg_version": "2.6.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Freestylers", 
+    "pkg_full_name": "fpc-source-2.6.2-noarch-1_fs.tgz", 
+    "pkg": "fpc-source", 
+    "pkg_version": "2.6.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "fpc-source-2.4.4-noarch-1ab.txz", 
+    "pkg": "fpc-source", 
+    "pkg_version": "2.4.4", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "fpc-source_2.6.4+dfsg-3_all.deb", 
+    "pkg": "fpc-source", 
+    "pkg_version": "2.6.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "fpc-source_2.6.2-8_all.deb", 
+    "pkg": "fpc-source", 
+    "pkg_version": "2.6.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

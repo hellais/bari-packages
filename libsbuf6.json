@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsbuf6_10.1~svn273304-1_i386.deb", 
+    "pkg": "libsbuf6_1", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsbuf6_10.1~svn273304-1_i386.deb", 
+    "pkg": "libsbuf6_1", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsbuf6_10.1~svn273304-1_i386.deb", 
+    "pkg": "libsbuf6_1", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsbuf6_9.0+ds1-4_i386.deb", 
+    "pkg": "libsbuf6", 
+    "pkg_version": "9.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libsbuf6_10.0-7_i386.deb", 
+    "pkg": "libsbuf6_1", 
+    "pkg_version": "0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsbuf6_9.0+ds1-4_i386.deb", 
+    "pkg": "libsbuf6", 
+    "pkg_version": "9.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

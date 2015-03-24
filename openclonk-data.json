@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "openclonk-data_5.5.1-2_all.deb", 
+    "pkg": "openclonk-data", 
+    "pkg_version": "5.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "openclonk-data_5.5.1-2_all.deb", 
+    "pkg": "openclonk-data", 
+    "pkg_version": "5.5.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Nonfree Updates Testing", 
+    "pkg_full_name": "openclonk-data-6.0-1.fc21.noarch.rpm", 
+    "pkg": "openclonk-data", 
+    "pkg_version": "6.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "openclonk-data_5.4.1-1build1_all.deb", 
+    "pkg": "openclonk-data", 
+    "pkg_version": "5.4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

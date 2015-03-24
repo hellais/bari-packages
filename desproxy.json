@@ -1,0 +1,73 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "desproxy-0.1.0-alt0.2.qa2.x86_64.rpm", 
+    "pkg": "desproxy", 
+    "pkg_version": "0.1.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "desproxy-0.1.0-0.pre2.2.el6.rf.x86_64.rpm", 
+    "pkg": "desproxy", 
+    "pkg_version": "0.1.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "desproxy-0.1.0-0.pre2.2.el5.rf.x86_64.rpm", 
+    "pkg": "desproxy", 
+    "pkg_version": "0.1.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "desproxy_0.1.0~pre3-8_i386.deb", 
+    "pkg": "desproxy", 
+    "pkg_version": "0.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "desproxy_0.1.0~pre3-8_i386.deb", 
+    "pkg": "desproxy", 
+    "pkg_version": "0.1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "desproxy_0.1.0~pre3-8_i386.deb", 
+    "pkg": "desproxy", 
+    "pkg_version": "0.1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "desproxy_0.1.0~pre3-8_i386.deb", 
+    "pkg": "desproxy", 
+    "pkg_version": "0.1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "desproxy_0.1.0~pre3-8_i386.deb", 
+    "pkg": "desproxy", 
+    "pkg_version": "0.1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

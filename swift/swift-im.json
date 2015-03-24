@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "swift-im_2.0+dev6-1+b1_i386.deb", 
+    "pkg": "swift-im", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "swift-im_2.0+dev6-1+b1_i386.deb", 
+    "pkg": "swift-im", 
+    "pkg_version": "2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "swift-im_2.0~beta1+dev47-1_i386.deb", 
+    "pkg": "swift-im", 
+    "pkg_version": "2.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "swift-im_2.0+dev6-1build1_i386.deb", 
+    "pkg": "swift-im", 
+    "pkg_version": "2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

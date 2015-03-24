@@ -1,0 +1,46 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-mkrf-0.2.3-alt2.1.noarch.rpm", 
+    "pkg": "ruby-mkrf", 
+    "pkg_version": "0.2.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-mkrf_0.2.3+dfsg-5_all.deb", 
+    "pkg": "ruby-mkrf", 
+    "pkg_version": "0.2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-mkrf_0.2.3+dfsg-5_all.deb", 
+    "pkg": "ruby-mkrf", 
+    "pkg_version": "0.2.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-mkrf_0.2.3+dfsg-2_all.deb", 
+    "pkg": "ruby-mkrf", 
+    "pkg_version": "0.2.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ruby-mkrf_0.2.3+dfsg-5build1_all.deb", 
+    "pkg": "ruby-mkrf", 
+    "pkg_version": "0.2.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

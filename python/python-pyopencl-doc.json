@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-pyopencl-doc_2014.1-3_all.deb", 
+    "pkg": "python-pyopencl-doc_201", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-pyopencl-doc_2014.1-3_all.deb", 
+    "pkg": "python-pyopencl-doc_201", 
+    "pkg_version": "4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Contrib", 
+    "pkg_full_name": "python-pyopencl-doc_2012.1.dfsg-1_all.deb", 
+    "pkg": "python-pyopencl-doc_201", 
+    "pkg_version": "2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Multiverse", 
+    "pkg_full_name": "python-pyopencl-doc_2014.1-2_all.deb", 
+    "pkg": "python-pyopencl-doc_201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

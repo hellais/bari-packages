@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwxsqlite3-3.0-0_3.2.0~dfsg1-1_i386.deb", 
+    "pkg": "libwxsqlite3", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "targetcli-2.1.fb35-alt1.noarch.rpm", 
+    "pkg": "targetcli", 
+    "pkg_version": "2.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "targetcli-2.1.fb34-1.el7.noarch.rpm", 
+    "pkg": "targetcli", 
+    "pkg_version": "2.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "targetcli_3.0+git0.7e32595e-2_all.deb", 
+    "pkg": "targetcli", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "targetcli_2.0rc1-2_all.deb", 
+    "pkg": "targetcli", 
+    "pkg_version": "2.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "targetcli-2.1.fb39-1.fc22.noarch.rpm", 
+    "pkg": "targetcli", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "targetcli-2.1.fb39-1.fc22.noarch.rpm", 
+    "pkg": "targetcli", 
+    "pkg_version": "2.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "targetcli-2.1.fb39-1.fc21.noarch.rpm", 
+    "pkg": "targetcli", 
+    "pkg_version": "2.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "targetcli-2.1.fb38-1.fc20.noarch.rpm", 
+    "pkg": "targetcli", 
+    "pkg_version": "2.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "targetcli-2.1-1.1.x86_64.rpm", 
+    "pkg": "targetcli", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "targetcli_2.1-1_all.deb", 
+    "pkg": "targetcli", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "targetcli_2.1-1_all.deb", 
+    "pkg": "targetcli", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

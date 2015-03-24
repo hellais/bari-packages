@@ -1,0 +1,119 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "volti_0.2.3-5_all.deb", 
+    "pkg": "volti", 
+    "pkg_version": "0.2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "volti_0.2.3-5_all.deb", 
+    "pkg": "volti", 
+    "pkg_version": "0.2.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "volti_0.2.3-5_all.deb", 
+    "pkg": "volti", 
+    "pkg_version": "0.2.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "volti-0.2.3-6.1.noarch.rpm", 
+    "pkg": "volti", 
+    "pkg_version": "0.2.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "volti-0.2.3-6.1.noarch.rpm", 
+    "pkg": "volti", 
+    "pkg_version": "0.2.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "volti-0.2.3-2.96.x86_64.rpm", 
+    "pkg": "volti", 
+    "pkg_version": "0.2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "volti-0.2.3-2.3.x86_64.rpm", 
+    "pkg": "volti", 
+    "pkg_version": "0.2.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "volti-0.2.3-4-rosa2014.1.noarch.rpm", 
+    "pkg": "volti", 
+    "pkg_version": "0.2.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "volti-0.2.3-3-rosa2012.1.noarch.rpm", 
+    "pkg": "volti", 
+    "pkg_version": "0.2.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackel", 
+    "pkg_full_name": "volti-0.2.3-i486-2dj.txz", 
+    "pkg": "volti", 
+    "pkg_version": "0.2.3", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "volti-0.2.3-x86_64-1gv.txz", 
+    "pkg": "volti", 
+    "pkg_version": "0.2.3", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "volti-0.2.3-i686-3sl.txz", 
+    "pkg": "volti", 
+    "pkg_version": "0.2.3", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "volti_0.2.3-5_all.deb", 
+    "pkg": "volti", 
+    "pkg_version": "0.2.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

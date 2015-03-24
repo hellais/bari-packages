@@ -1,0 +1,100 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "xdiskusage-1.51-1-x86_64.pkg.tar.xz", 
+    "pkg": "xdiskusage", 
+    "pkg_version": "1.5", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xdiskusage_1.48-10.1_i386.deb", 
+    "pkg": "xdiskusage", 
+    "pkg_version": "1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xdiskusage_1.48-10.1_i386.deb", 
+    "pkg": "xdiskusage", 
+    "pkg_version": "1.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xdiskusage_1.48-10.1_i386.deb", 
+    "pkg": "xdiskusage", 
+    "pkg_version": "1.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "xdiskusage-1.48.1-21.1.x86_64.rpm", 
+    "pkg": "xdiskusage", 
+    "pkg_version": "1.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "xdiskusage-1.48.1-21.1.x86_64.rpm", 
+    "pkg": "xdiskusage", 
+    "pkg_version": "1.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xdiskusage-1.51-1.1.x86_64.rpm", 
+    "pkg": "xdiskusage", 
+    "pkg_version": "1.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xdiskusage-1.48.1-19.1.3.x86_64.rpm", 
+    "pkg": "xdiskusage", 
+    "pkg_version": "1.4", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xdiskusage-1.48.1-17.1.2.i586.rpm", 
+    "pkg": "xdiskusage", 
+    "pkg_version": "1.4", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xdiskusage_1.48-10.1_i386.deb", 
+    "pkg": "xdiskusage", 
+    "pkg_version": "1.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xdiskusage_1.48-10.1_i386.deb", 
+    "pkg": "xdiskusage", 
+    "pkg_version": "1.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

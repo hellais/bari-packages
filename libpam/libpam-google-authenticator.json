@@ -1,0 +1,118 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libpam-google-authenticator-1.0-alt1.x86_64.rpm", 
+    "pkg": "libpam-google-authenticator", 
+    "pkg_version": "1.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libpam-google-authenticator-1.0-alt1.x86_64.rpm", 
+    "pkg": "libpam-google-authenticator", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libpam-google-authenticator-1.0-alt1.x86_64.rpm", 
+    "pkg": "libpam-google-authenticator", 
+    "pkg_version": "1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libpam-google-authenticator-1.0-alt1.x86_64.rpm", 
+    "pkg": "libpam-google-authenticator", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "pam-google-authenticator-1.0-3.4.x86_64.rpm", 
+    "pkg": "pam-google-authenticator", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libpam-google-authenticator-1.0-alt1.x86_64.rpm", 
+    "pkg": "libpam-google-authenticator", 
+    "pkg_version": "1.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "pam-google-authenticator-1.0-3.1.x86_64.rpm", 
+    "pkg": "pam-google-authenticator", 
+    "pkg_version": "1.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libpam-google-authenticator-1.0-alt1.x86_64.rpm", 
+    "pkg": "libpam-google-authenticator", 
+    "pkg_version": "1.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "pam-google-authenticator-1.0-3.1.x86_64.rpm", 
+    "pkg": "pam-google-authenticator", 
+    "pkg_version": "1.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libpam-google-authenticator-1.0-alt1.x86_64.rpm", 
+    "pkg": "libpam-google-authenticator", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "pam-google-authenticator-1.0-3.1.x86_64.rpm", 
+    "pkg": "pam-google-authenticator", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libpam-google-authenticator-1.0-alt1.x86_64.rpm", 
+    "pkg": "libpam-google-authenticator", 
+    "pkg_version": "1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "pam-google-authenticator-1.0-3.1.x86_64.rpm", 
+    "pkg": "pam-google-authenticator", 
+    "pkg_version": "1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-pandoc-types-doc_1.12.4.1-1_all.deb", 
+    "pkg": "libghc-pandoc-types-doc", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-pandoc-types-doc_1.12.4.1-1_all.deb", 
+    "pkg": "libghc-pandoc-types-doc", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-pandoc-types-doc_1.9.1-1_all.deb", 
+    "pkg": "libghc-pandoc-types-doc", 
+    "pkg_version": "1.9.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-pandoc-types-doc_1.12.3.3-1build1_all.deb", 
+    "pkg": "libghc-pandoc-types-doc", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-pandoc-types-doc_1.12.3-1build1_all.deb", 
+    "pkg": "libghc-pandoc-types-doc", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

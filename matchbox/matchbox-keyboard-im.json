@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "matchbox-keyboard-im_0.1+svn20080916-10_i386.deb", 
+    "pkg": "matchbox-keyboard-im", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "matchbox-keyboard-im_0.1+svn20080916-10_i386.deb", 
+    "pkg": "matchbox-keyboard-im", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "matchbox-keyboard-im_0.1+svn20080916-9+b1_i386.deb", 
+    "pkg": "matchbox-keyboard-im", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "matchbox-keyboard-im_0.1+svn20080916-9_i386.deb", 
+    "pkg": "matchbox-keyboard-im", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "matchbox-keyboard-im_0.1+svn20080916-9_i386.deb", 
+    "pkg": "matchbox-keyboard-im", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

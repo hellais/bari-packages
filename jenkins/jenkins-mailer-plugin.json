@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jenkins-mailer-plugin_1.11-1_all.deb", 
+    "pkg": "jenkins-mailer-plugin", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jenkins-mailer-plugin_1.11-1_all.deb", 
+    "pkg": "jenkins-mailer-plugin", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "jenkins-mailer-plugin-1.15-1.fc22.noarch.rpm", 
+    "pkg": "jenkins-mailer-plugin", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "jenkins-mailer-plugin-1.15-1.fc22.noarch.rpm", 
+    "pkg": "jenkins-mailer-plugin", 
+    "pkg_version": "1.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

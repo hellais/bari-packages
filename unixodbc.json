@@ -1,0 +1,73 @@
+[
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "unixodbc-2.3.2-1-x86_64.pkg.tar.xz", 
+    "pkg": "unixodbc", 
+    "pkg_version": "2.3.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "unixodbc_2.3.1-3_i386.deb", 
+    "pkg": "unixodbc", 
+    "pkg_version": "2.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "unixodbc_2.3.1-3_i386.deb", 
+    "pkg": "unixodbc", 
+    "pkg_version": "2.3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "unixodbc_2.2.14p2-5_i386.deb", 
+    "pkg": "unixodbc", 
+    "pkg_version": "2.2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "SlackPack", 
+    "pkg_full_name": "unixodbc-2.3.2-x86_64-2gds.txz", 
+    "pkg": "unixodbc", 
+    "pkg_version": "2.3.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "SlackPack", 
+    "pkg_full_name": "unixodbc-2.3.2-x86_64-1gds.txz", 
+    "pkg": "unixodbc", 
+    "pkg_version": "2.3.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "unixodbc_2.3.1-3_i386.deb", 
+    "pkg": "unixodbc", 
+    "pkg_version": "2.3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "unixodbc_2.2.14p2-5ubuntu5_i386.deb", 
+    "pkg": "unixodbc", 
+    "pkg_version": "2.2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

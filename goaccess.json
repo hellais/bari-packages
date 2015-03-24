@@ -1,0 +1,126 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "goaccess-0.8.5-alt1.x86_64.rpm", 
+    "pkg": "goaccess", 
+    "pkg_version": "0.8.5", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community Testing", 
+    "pkg_full_name": "goaccess-0.9-1-x86_64.pkg.tar.xz", 
+    "pkg": "goaccess", 
+    "pkg_version": "0.9", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "goaccess-0.8.5-1.el7.x86_64.rpm", 
+    "pkg": "goaccess", 
+    "pkg_version": "0.8.5", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "goaccess-0.8.5-1.el6.x86_64.rpm", 
+    "pkg": "goaccess", 
+    "pkg_version": "0.8.5", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "goaccess_0.8.3-1_i386.deb", 
+    "pkg": "goaccess", 
+    "pkg_version": "0.8.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "goaccess_0.8.3-1_i386.deb", 
+    "pkg": "goaccess", 
+    "pkg_version": "0.8.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "goaccess_0.5-1_i386.deb", 
+    "pkg": "goaccess", 
+    "pkg_version": "0.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "goaccess-0.8.5-1.fc22.x86_64.rpm", 
+    "pkg": "goaccess", 
+    "pkg_version": "0.8.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "goaccess-0.8.5-1.fc22.x86_64.rpm", 
+    "pkg": "goaccess", 
+    "pkg_version": "0.8.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "goaccess-0.8.5-1.fc21.x86_64.rpm", 
+    "pkg": "goaccess", 
+    "pkg_version": "0.8.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Olea", 
+    "pkg_full_name": "goaccess-0.7.1-1.fc20.x86_64.rpm", 
+    "pkg": "goaccess", 
+    "pkg_version": "0.7.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Slackers", 
+    "pkg_full_name": "goaccess-0.9-x86_64-1cf.txz", 
+    "pkg": "goaccess", 
+    "pkg_version": "0.9", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "goaccess_0.8-1_i386.deb", 
+    "pkg": "goaccess", 
+    "pkg_version": "0.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "goaccess_0.6-1_i386.deb", 
+    "pkg": "goaccess", 
+    "pkg_version": "0.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

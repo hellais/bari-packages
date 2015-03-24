@@ -1,0 +1,145 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kdeadmin-3.5.13.2-alt2.1.x86_64.rpm", 
+    "pkg": "kdeadmin", 
+    "pkg_version": "3.5.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "kdeadmin-4.10.5-3.el7.x86_64.rpm", 
+    "pkg": "kdeadmin", 
+    "pkg_version": "4.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "kdeadmin-4.3.4-5.el6.x86_64.rpm", 
+    "pkg": "kdeadmin", 
+    "pkg_version": "4.3.4", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "kdeadmin-3.5.4-4.el5.x86_64.rpm", 
+    "pkg": "kdeadmin", 
+    "pkg_version": "3.5.4", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kdeadmin_4.12+5.84_all.deb", 
+    "pkg": "kdeadmin", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kdeadmin_4.12+5.84_all.deb", 
+    "pkg": "kdeadmin", 
+    "pkg_version": "4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kdeadmin_4.8.4-3_all.deb", 
+    "pkg": "kdeadmin", 
+    "pkg_version": "4.8.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kdeadmin-4.14.3-1.fc22.noarch.rpm", 
+    "pkg": "kdeadmin", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kdeadmin-4.14.3-1.fc22.noarch.rpm", 
+    "pkg": "kdeadmin", 
+    "pkg_version": "4.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kdeadmin-4.14.3-1.fc21.noarch.rpm", 
+    "pkg": "kdeadmin", 
+    "pkg_version": "4.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "kdeadmin-4.14.3-1.fc20.noarch.rpm", 
+    "pkg": "kdeadmin", 
+    "pkg_version": "4.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "kdeadmin-4.10.5-x86_64-1.txz", 
+    "pkg": "kdeadmin", 
+    "pkg_version": "4.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "kdeadmin-4.8.5-x86_64-1.txz", 
+    "pkg": "kdeadmin", 
+    "pkg_version": "4.8.5", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "kdeadmin-4.5.5-x86_64-2.txz", 
+    "pkg": "kdeadmin", 
+    "pkg_version": "4.5.5", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "kdeadmin-4.5.5-x86_64-2.txz", 
+    "pkg": "kdeadmin", 
+    "pkg_version": "4.5.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "kdeadmin-4.5.5-x86_64-2.txz", 
+    "pkg": "kdeadmin", 
+    "pkg_version": "4.5.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

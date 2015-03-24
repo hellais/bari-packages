@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-profitbricks-client_1.0.0-2_all.deb", 
+    "pkg": "python-profitbricks-client", 
+    "pkg_version": "1.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-profitbricks-client_1.0.0-2_all.deb", 
+    "pkg": "python-profitbricks-client", 
+    "pkg_version": "1.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "python-profitbricks-client_1.0.0-2~bpo70+1_all.deb", 
+    "pkg": "python-profitbricks-client", 
+    "pkg_version": "1.0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

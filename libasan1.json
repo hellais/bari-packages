@@ -1,0 +1,91 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libasan1-4.9.2-alt3.x86_64.rpm", 
+    "pkg": "libasan1", 
+    "pkg_version": "4.9.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libasan1_4.9.2-10_i386.deb", 
+    "pkg": "libasan1", 
+    "pkg_version": "4.9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libasan1_4.9.2-10_i386.deb", 
+    "pkg": "libasan1", 
+    "pkg_version": "4.9.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libasan1-4.9.3_2015.03-3-omv2015.0.x86_64.rpm", 
+    "pkg": "libasan1", 
+    "pkg_version": "4.9.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libasan1-4.9.3_2015.03-3-omv2015.0.x86_64.rpm", 
+    "pkg": "libasan1", 
+    "pkg_version": "4.9.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libasan1-gcc49-4.9.2+r218474-1.4.x86_64.rpm", 
+    "pkg": "libasan1-gcc49", 
+    "pkg_version": "4.9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libasan1-4.9.3_2015.03-3-omv2015.0.x86_64.rpm", 
+    "pkg": "libasan1", 
+    "pkg_version": "4.9.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libasan1-gcc49-4.9.0+r211729-2.1.7.x86_64.rpm", 
+    "pkg": "libasan1-gcc49", 
+    "pkg_version": "4.9.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libasan1-4.9.2_2014.08-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "libasan1", 
+    "pkg_version": "4.9.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libasan1-gcc49-4.9.0+r211729-2.1.7.x86_64.rpm", 
+    "pkg": "libasan1-gcc49", 
+    "pkg_version": "4.9.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "compass-h5bp-plugin_0.1.2-4_all.deb", 
+    "pkg": "compass-h5bp-plugin", 
+    "pkg_version": "0.1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "compass-h5bp-plugin_0.1.2-4_all.deb", 
+    "pkg": "compass-h5bp-plugin", 
+    "pkg_version": "0.1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "compass-h5bp-plugin_0.0.5-1_all.deb", 
+    "pkg": "compass-h5bp-plugin", 
+    "pkg_version": "0.0.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "compass-h5bp-plugin_0.1.2-2_all.deb", 
+    "pkg": "compass-h5bp-plugin", 
+    "pkg_version": "0.1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

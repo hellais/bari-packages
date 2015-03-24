@@ -1,0 +1,90 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "qt5-doc-5.4.1-alt1.noarch.rpm", 
+    "pkg": "qt5-doc", 
+    "pkg_version": "5.4.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "qt5-doc-5.4.1-2-x86_64.pkg.tar.xz", 
+    "pkg": "qt5-doc", 
+    "pkg_version": "5.4.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qt5-doc_5.3.2-3_all.deb", 
+    "pkg": "qt5-doc", 
+    "pkg_version": "5.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qt5-doc_5.3.2-3_all.deb", 
+    "pkg": "qt5-doc", 
+    "pkg_version": "5.3.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "qt5-doc_5.3.2-3~bpo70+1_all.deb", 
+    "pkg": "qt5-doc", 
+    "pkg_version": "5.3.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "qt5-doc-5.2.1-3-omv2014.0.noarch.rpm", 
+    "pkg": "qt5-doc", 
+    "pkg_version": "5.2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "qt5-doc-5.1.1-4-omv2013.0.noarch.rpm", 
+    "pkg": "qt5-doc", 
+    "pkg_version": "5.1.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "qt5-doc-5.4.1-1-rosa2014.1.noarch.rpm", 
+    "pkg": "qt5-doc", 
+    "pkg_version": "5.4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "qt5-doc-5.2.1-3-rosa2012.1.noarch.rpm", 
+    "pkg": "qt5-doc", 
+    "pkg_version": "5.2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "qt5-doc_5.3.0-2ubuntu2_all.deb", 
+    "pkg": "qt5-doc", 
+    "pkg_version": "5.3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

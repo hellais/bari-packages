@@ -1,0 +1,91 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "gnome-pie-0.5.7-1-x86_64.pkg.tar.xz", 
+    "pkg": "gnome-pie", 
+    "pkg_version": "0.5.7", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-pie_0.5.6-1_i386.deb", 
+    "pkg": "gnome-pie", 
+    "pkg_version": "0.5.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-pie_0.5.5-1_i386.deb", 
+    "pkg": "gnome-pie", 
+    "pkg_version": "0.5.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-pie_0.5.3-1_i386.deb", 
+    "pkg": "gnome-pie", 
+    "pkg_version": "0.5.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnome-pie-0.5.5-6.20130330git0a5aa2.fc22.x86_64.rpm", 
+    "pkg": "gnome-pie", 
+    "pkg_version": "0.5.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnome-pie-0.5.5-6.20130330git0a5aa2.fc22.x86_64.rpm", 
+    "pkg": "gnome-pie", 
+    "pkg_version": "0.5.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnome-pie-0.5.5-6.20130330git0a5aa2.fc21.x86_64.rpm", 
+    "pkg": "gnome-pie", 
+    "pkg_version": "0.5.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnome-pie-0.5.5-3.20130330git0a5aa2.fc20.x86_64.rpm", 
+    "pkg": "gnome-pie", 
+    "pkg_version": "0.5.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnome-pie_0.5.5-1_i386.deb", 
+    "pkg": "gnome-pie", 
+    "pkg_version": "0.5.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnome-pie_0.5.4-1build2_i386.deb", 
+    "pkg": "gnome-pie", 
+    "pkg_version": "0.5.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

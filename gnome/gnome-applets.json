@@ -1,0 +1,109 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnome-applets-3.14.0-alt1.x86_64.rpm", 
+    "pkg": "gnome-applets", 
+    "pkg_version": "3.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "gnome-applets-2.28.0-7.el6.centos.x86_64.rpm", 
+    "pkg": "gnome-applets", 
+    "pkg_version": "2.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "gnome-applets-2.16.0.1-19.el5.x86_64.rpm", 
+    "pkg": "gnome-applets", 
+    "pkg_version": "2.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-applets_3.8.1-1_i386.deb", 
+    "pkg": "gnome-applets", 
+    "pkg_version": "3.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-applets_3.8.1-1_i386.deb", 
+    "pkg": "gnome-applets", 
+    "pkg_version": "3.8.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-applets_3.4.1-3_i386.deb", 
+    "pkg": "gnome-applets", 
+    "pkg_version": "3.4.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gnome-applets-3.8.1-2-omv2015.0.x86_64.rpm", 
+    "pkg": "gnome-applets", 
+    "pkg_version": "3.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gnome-applets-3.5.92-4-omv2014.0.x86_64.rpm", 
+    "pkg": "gnome-applets", 
+    "pkg_version": "3.5.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gnome-applets-3.5.92-3-omv2013.0.x86_64.rpm", 
+    "pkg": "gnome-applets", 
+    "pkg_version": "3.5.9", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "gnome-applets-3.5.92-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "gnome-applets", 
+    "pkg_version": "3.5.9", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnome-applets_3.8.1-1ubuntu1_i386.deb", 
+    "pkg": "gnome-applets", 
+    "pkg_version": "3.8.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnome-applets_3.5.92-0ubuntu3_i386.deb", 
+    "pkg": "gnome-applets", 
+    "pkg_version": "3.5.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

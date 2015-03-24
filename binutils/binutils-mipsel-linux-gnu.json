@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Emdebian", 
+    "pkg_full_name": "binutils-mipsel-linux-gnu_2.23.91.20131123-1_amd64.deb", 
+    "pkg": "binutils-mipsel-linux-gnu", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "binutils-mipsel-linux-gnu_2.24.90.20141023-1_i386.deb", 
+    "pkg": "binutils-mipsel-linux-gnu", 
+    "pkg_version": "2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

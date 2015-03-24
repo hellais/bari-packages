@@ -1,0 +1,119 @@
+[
+  {
+    "pkg_repo": "Gnash", 
+    "pkg_full_name": "gnash-tools_0.8.11~git.master21579-1~sid_i386.deb", 
+    "pkg": "gnash-tools", 
+    "pkg_version": "0.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Gnash", 
+    "pkg_full_name": "gnash-tools_0.8.11~git.master21704-1~wheezy_i386.deb", 
+    "pkg": "gnash-tools", 
+    "pkg_version": "0.8.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "gnash-tools-0.8.10-9-omv2014.1.x86_64.rpm", 
+    "pkg": "gnash-tools", 
+    "pkg_version": "0.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib Updates", 
+    "pkg_full_name": "gnash-tools-0.8.10-8-omv2014.0.x86_64.rpm", 
+    "pkg": "gnash-tools", 
+    "pkg_version": "0.8.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "gnash-tools-0.8.10-7-omv2013.0.x86_64.rpm", 
+    "pkg": "gnash-tools", 
+    "pkg_version": "0.8.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "gnash-0.8.10.99+git20150316.1510-1.1.x86_64.rpm", 
+    "pkg": "gnash", 
+    "pkg_version": "0.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "gnash-tools-0.8.10-7-omv2013.0.x86_64.rpm", 
+    "pkg": "gnash-tools", 
+    "pkg_version": "0.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "gnash-0.8.10.99+git20150316.1510-1.1.x86_64.rpm", 
+    "pkg": "gnash", 
+    "pkg_version": "0.8.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "gnash-tools-0.8.10-7-omv2013.0.x86_64.rpm", 
+    "pkg": "gnash-tools", 
+    "pkg_version": "0.8.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "gnash-0.8.10.99+git20150316.1510-1.1.x86_64.rpm", 
+    "pkg": "gnash", 
+    "pkg_version": "0.8.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnash-tools_0.8.11~git20140419-1ubuntu2_i386.deb", 
+    "pkg": "gnash-tools", 
+    "pkg_version": "0.8.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "gnash-0.8.10.99+git20150316.1510-1.1.x86_64.rpm", 
+    "pkg": "gnash", 
+    "pkg_version": "0.8.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnash-tools_0.8.11~git20130903-3ubuntu1_i386.deb", 
+    "pkg": "gnash-tools", 
+    "pkg_version": "0.8.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

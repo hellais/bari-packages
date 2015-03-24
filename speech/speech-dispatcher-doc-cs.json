@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "speech-dispatcher-doc-cs_0.8-7_all.deb", 
+    "pkg": "speech-dispatcher-doc-cs", 
+    "pkg_version": "0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "speech-dispatcher-doc-cs_0.8-7_all.deb", 
+    "pkg": "speech-dispatcher-doc-cs", 
+    "pkg_version": "0.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "speech-dispatcher-doc-cs_0.7.1-6.2_all.deb", 
+    "pkg": "speech-dispatcher-doc-cs", 
+    "pkg_version": "0.7.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "speech-dispatcher-doc-cs_0.8-6ubuntu2_all.deb", 
+    "pkg": "speech-dispatcher-doc-cs", 
+    "pkg_version": "0.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "speech-dispatcher-doc-cs_0.8-5ubuntu1_all.deb", 
+    "pkg": "speech-dispatcher-doc-cs", 
+    "pkg_version": "0.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

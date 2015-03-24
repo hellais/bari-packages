@@ -1,0 +1,73 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "playitslowly-1.4.0-alt1.noarch.rpm", 
+    "pkg": "playitslowly", 
+    "pkg_version": "1.4.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "playitslowly_1.4.0-1_all.deb", 
+    "pkg": "playitslowly", 
+    "pkg_version": "1.4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "playitslowly_1.4.0-1_all.deb", 
+    "pkg": "playitslowly", 
+    "pkg_version": "1.4.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "playitslowly_1.4.0-1_all.deb", 
+    "pkg": "playitslowly", 
+    "pkg_version": "1.4.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Johannes Sch\u00f6pfer", 
+    "pkg_full_name": "playitslowly-1.4.0-x86_64-1jsc.txz", 
+    "pkg": "playitslowly", 
+    "pkg_version": "1.4.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Johannes Sch\u00f6pfer", 
+    "pkg_full_name": "playitslowly-1.4.0-x86_64-1jsc.txz", 
+    "pkg": "playitslowly", 
+    "pkg_version": "1.4.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "playitslowly_1.4.0-1_all.deb", 
+    "pkg": "playitslowly", 
+    "pkg_version": "1.4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "playitslowly_1.4.0-1_all.deb", 
+    "pkg": "playitslowly", 
+    "pkg_version": "1.4.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

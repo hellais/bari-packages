@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-elektra_0.8.7-4_i386.deb", 
+    "pkg": "python3-elektra", 
+    "pkg_version": "0.8.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

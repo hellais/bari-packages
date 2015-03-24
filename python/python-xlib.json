@@ -1,0 +1,209 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-xlib-0.15-0.8.rc1.el7.noarch.rpm", 
+    "pkg": "python-xlib", 
+    "pkg_version": "0.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "python-xlib-0.15-0.5.rc1.el6.nux.noarch.rpm", 
+    "pkg": "python-xlib", 
+    "pkg_version": "0.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "python-xlib-0.13-1.el5.rf.x86_64.rpm", 
+    "pkg": "python-xlib", 
+    "pkg_version": "0.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-xlib_0.14+20091101-1_all.deb", 
+    "pkg": "python-xlib", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-xlib_0.14+20091101-1_all.deb", 
+    "pkg": "python-xlib", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-xlib_0.14+20091101-1_all.deb", 
+    "pkg": "python-xlib", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-xlib-0.15-0.10.rc1.fc21.noarch.rpm", 
+    "pkg": "python-xlib", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-xlib-0.15-0.10.rc1.fc21.noarch.rpm", 
+    "pkg": "python-xlib", 
+    "pkg_version": "0.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-xlib-0.15-0.10.rc1.fc21.noarch.rpm", 
+    "pkg": "python-xlib", 
+    "pkg_version": "0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-xlib-0.15-0.9.rc1.fc20.noarch.rpm", 
+    "pkg": "python-xlib", 
+    "pkg_version": "0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-xlib-0.15-0.rc1.1-omv2013.0.noarch.rpm", 
+    "pkg": "python-xlib", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-xlib-0.15-0.rc1.1-omv2013.0.noarch.rpm", 
+    "pkg": "python-xlib", 
+    "pkg_version": "0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-xlib-0.15-0.rc1.1-omv2013.0.noarch.rpm", 
+    "pkg": "python-xlib", 
+    "pkg_version": "0.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-xlib-0.14-108.2.x86_64.rpm", 
+    "pkg": "python-xlib", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-xlib-0.14-107.1.4.x86_64.rpm", 
+    "pkg": "python-xlib", 
+    "pkg_version": "0.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-xlib-0.14-105.1.2.i586.rpm", 
+    "pkg": "python-xlib", 
+    "pkg_version": "0.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "python-xlib-0.15-0.rc1.1-rosa2014.1.noarch.rpm", 
+    "pkg": "python-xlib", 
+    "pkg_version": "0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "python-xlib-0.15-0.rc1.1-rosa2012.1.noarch.rpm", 
+    "pkg": "python-xlib", 
+    "pkg_version": "0.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackel", 
+    "pkg_full_name": "python-xlib-0.15rc1-x86_64-1dj.txz", 
+    "pkg": "python-xlib", 
+    "pkg_version": "0.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "python-xlib-0.15rc1-i686-7sl.txz", 
+    "pkg": "python-xlib", 
+    "pkg_version": "0.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "python-xlib-0.15rc1-i686-5sl.txz", 
+    "pkg": "python-xlib", 
+    "pkg_version": "0.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-xlib_0.14+20091101-1ubuntu2_all.deb", 
+    "pkg": "python-xlib", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-xlib_0.14+20091101-1ubuntu2_all.deb", 
+    "pkg": "python-xlib", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

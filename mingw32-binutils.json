@@ -1,0 +1,118 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "mingw32-binutils-2.19.51.0.14-alt1.1.qa1.x86_64.rpm", 
+    "pkg": "mingw32-binutils", 
+    "pkg_version": "2.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "mingw32-binutils-2.25-1.el7.x86_64.rpm", 
+    "pkg": "mingw32-binutils", 
+    "pkg_version": "2.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "mingw32-binutils-2.25-2.el6.x86_64.rpm", 
+    "pkg": "mingw32-binutils", 
+    "pkg_version": "2.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Atomic", 
+    "pkg_full_name": "mingw32-binutils-2.19.51.0.14-1.el5.art.x86_64.rpm", 
+    "pkg": "mingw32-binutils", 
+    "pkg_version": "2.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mingw32-binutils_2.25-5+5.2_all.deb", 
+    "pkg": "mingw32-binutils", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mingw32-binutils_2.25-5+5.2_all.deb", 
+    "pkg": "mingw32-binutils", 
+    "pkg_version": "2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mingw32-binutils_2.20-0.2_i386.deb", 
+    "pkg": "mingw32-binutils", 
+    "pkg_version": "2.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mingw32-binutils-2.25-1.fc22.x86_64.rpm", 
+    "pkg": "mingw32-binutils", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mingw32-binutils-2.25-1.fc22.x86_64.rpm", 
+    "pkg": "mingw32-binutils", 
+    "pkg_version": "2.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "mingw32-binutils-2.25-1.fc21.x86_64.rpm", 
+    "pkg": "mingw32-binutils", 
+    "pkg_version": "2.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "mingw32-binutils-2.24-5.fc20.x86_64.rpm", 
+    "pkg": "mingw32-binutils", 
+    "pkg_version": "2.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mingw32-binutils_2.24.51.20140727-1ubuntu1+4_all.deb", 
+    "pkg": "mingw32-binutils", 
+    "pkg_version": "2.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mingw32-binutils_2.20-0.2ubuntu1_i386.deb", 
+    "pkg": "mingw32-binutils", 
+    "pkg_version": "2.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

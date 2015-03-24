@@ -1,0 +1,110 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-desktop-testing_2013.1-2_i386.deb", 
+    "pkg": "gnome-desktop-testing_201", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-desktop-testing_2013.1-2_i386.deb", 
+    "pkg": "gnome-desktop-testing_201", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnome-desktop-testing-2014.1-3.fc22.x86_64.rpm", 
+    "pkg": "gnome-desktop-testing-201", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-desktop-testing_2013.1-2_i386.deb", 
+    "pkg": "gnome-desktop-testing_201", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnome-desktop-testing-2014.1-3.fc22.x86_64.rpm", 
+    "pkg": "gnome-desktop-testing-201", 
+    "pkg_version": "4.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-desktop-testing_2013.1-2_i386.deb", 
+    "pkg": "gnome-desktop-testing_201", 
+    "pkg_version": "3.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnome-desktop-testing-2014.1-3.fc21.x86_64.rpm", 
+    "pkg": "gnome-desktop-testing-201", 
+    "pkg_version": "4.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-desktop-testing_2013.1-2_i386.deb", 
+    "pkg": "gnome-desktop-testing_201", 
+    "pkg_version": "3.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnome-desktop-testing-2013.1-2.fc20.x86_64.rpm", 
+    "pkg": "gnome-desktop-testing-201", 
+    "pkg_version": "3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-desktop-testing_2013.1-2_i386.deb", 
+    "pkg": "gnome-desktop-testing_201", 
+    "pkg_version": "3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnome-desktop-testing-2013.1-2.fc20.x86_64.rpm", 
+    "pkg": "gnome-desktop-testing-201", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnome-desktop-testing_2013.1-2_i386.deb", 
+    "pkg": "gnome-desktop-testing_201", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-botocore-0.58.0-2.el7.noarch.rpm", 
+    "pkg": "python-botocore", 
+    "pkg_version": "0.5", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-botocore_0.81.0-1_all.deb", 
+    "pkg": "python-botocore", 
+    "pkg_version": "0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-botocore_0.62.0-1_all.deb", 
+    "pkg": "python-botocore", 
+    "pkg_version": "0.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-botocore-0.79.0-1.fc22.noarch.rpm", 
+    "pkg": "python-botocore", 
+    "pkg_version": "0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-botocore-0.79.0-1.fc22.noarch.rpm", 
+    "pkg": "python-botocore", 
+    "pkg_version": "0.7", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-botocore-0.58.0-2.fc21.noarch.rpm", 
+    "pkg": "python-botocore", 
+    "pkg_version": "0.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-botocore-0.82.0-1.1.noarch.rpm", 
+    "pkg": "python-botocore", 
+    "pkg_version": "0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "python-botocore-0.82.0-2.8.1.noarch.rpm", 
+    "pkg": "python-botocore", 
+    "pkg_version": "0.8", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-botocore_0.55.0-1_all.deb", 
+    "pkg": "python-botocore", 
+    "pkg_version": "0.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

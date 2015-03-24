@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libjson-c-doc_0.11-4_all.deb", 
+    "pkg": "libjson-c-doc", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libjson-c-doc_0.11-4_all.deb", 
+    "pkg": "libjson-c-doc", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "libjson-c-doc_0.11-3~bpo7+1_all.deb", 
+    "pkg": "libjson-c-doc", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libjson-c-doc-0.12-1.3.noarch.rpm", 
+    "pkg": "libjson-c-doc", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libjson-c-doc-0.12-1.1.noarch.rpm", 
+    "pkg": "libjson-c-doc", 
+    "pkg_version": "0.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libjson-c-doc_0.11-4ubuntu1_all.deb", 
+    "pkg": "libjson-c-doc", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "trayer-1.1.5-alt1.x86_64.rpm", 
+    "pkg": "trayer", 
+    "pkg_version": "1.1.5", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "trayer-1.0-8-x86_64.pkg.tar.xz", 
+    "pkg": "trayer", 
+    "pkg_version": "1.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "trayer_1.1.5-1_i386.deb", 
+    "pkg": "trayer", 
+    "pkg_version": "1.1.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "trayer_1.1.5-1_i386.deb", 
+    "pkg": "trayer", 
+    "pkg_version": "1.1.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "trayer_1.1.4-2_i386.deb", 
+    "pkg": "trayer", 
+    "pkg_version": "1.1.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "trayer_1.1.5-1_i386.deb", 
+    "pkg": "trayer", 
+    "pkg_version": "1.1.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "trayer_1.1.5-1_i386.deb", 
+    "pkg": "trayer", 
+    "pkg_version": "1.1.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "tuxpuck-0.8.2-alt1.qa3.x86_64.rpm", 
+    "pkg": "tuxpuck", 
+    "pkg_version": "0.8.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tuxpuck_0.8.2-6+b1_i386.deb", 
+    "pkg": "tuxpuck", 
+    "pkg_version": "0.8.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tuxpuck_0.8.2-6+b1_i386.deb", 
+    "pkg": "tuxpuck", 
+    "pkg_version": "0.8.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tuxpuck_0.8.2-2.2_i386.deb", 
+    "pkg": "tuxpuck", 
+    "pkg_version": "0.8.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "tuxpuck-0.8.2-20.fc22.x86_64.rpm", 
+    "pkg": "tuxpuck", 
+    "pkg_version": "0.8.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "tuxpuck-0.8.2-20.fc22.x86_64.rpm", 
+    "pkg": "tuxpuck", 
+    "pkg_version": "0.8.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "tuxpuck-0.8.2-20.fc21.x86_64.rpm", 
+    "pkg": "tuxpuck", 
+    "pkg_version": "0.8.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "tuxpuck-0.8.2-18.fc20.x86_64.rpm", 
+    "pkg": "tuxpuck", 
+    "pkg_version": "0.8.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "tuxpuck-0.8.2-22-rosa2014.1.x86_64.rpm", 
+    "pkg": "tuxpuck", 
+    "pkg_version": "0.8.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "tuxpuck-0.8.2-20-rosa2012.1.x86_64.rpm", 
+    "pkg": "tuxpuck", 
+    "pkg_version": "0.8.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "tuxpuck_0.8.2-6_i386.deb", 
+    "pkg": "tuxpuck", 
+    "pkg_version": "0.8.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "tuxpuck_0.8.2-5_i386.deb", 
+    "pkg": "tuxpuck", 
+    "pkg_version": "0.8.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

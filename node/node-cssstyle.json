@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "node-cssstyle_0.2.14-1_all.deb", 
+    "pkg": "node-cssstyle", 
+    "pkg_version": "0.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

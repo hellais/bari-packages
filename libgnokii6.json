@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgnokii6_0.6.30+dfsg-1+b3_i386.deb", 
+    "pkg": "libgnokii6", 
+    "pkg_version": "0.6.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgnokii6_0.6.30+dfsg-1+b3_i386.deb", 
+    "pkg": "libgnokii6", 
+    "pkg_version": "0.6.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgnokii6_0.6.30+dfsg-1+b1_i386.deb", 
+    "pkg": "libgnokii6", 
+    "pkg_version": "0.6.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

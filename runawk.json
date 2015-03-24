@@ -1,0 +1,28 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "runawk-1.4.4-alt1.x86_64.rpm", 
+    "pkg": "runawk", 
+    "pkg_version": "1.4.4", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "runawk_1.5.1-1_i386.deb", 
+    "pkg": "runawk", 
+    "pkg_version": "1.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "runawk_1.5.1-1_i386.deb", 
+    "pkg": "runawk", 
+    "pkg_version": "1.5.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

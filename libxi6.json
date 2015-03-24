@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libxi6_1.7.4-1+b2_i386.deb", 
+    "pkg": "libxi6", 
+    "pkg_version": "1.7.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libxi6_1.7.4-1+b2_i386.deb", 
+    "pkg": "libxi6", 
+    "pkg_version": "1.7.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "libxi6_1.6.1-1+deb7u1_i386.deb", 
+    "pkg": "libxi6", 
+    "pkg_version": "1.6.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libxi6-1.7.4-2-omv2015.0.i586.rpm", 
+    "pkg": "libxi6", 
+    "pkg_version": "1.7.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libxi6-1.7.2-4-omv2014.0.i586.rpm", 
+    "pkg": "libxi6", 
+    "pkg_version": "1.7.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libxi6-1.7.2-1-omv2013.0.i586.rpm", 
+    "pkg": "libxi6", 
+    "pkg_version": "1.7.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libxi6-1.7.4-1-rosa2014.1.i586.rpm", 
+    "pkg": "libxi6", 
+    "pkg_version": "1.7.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "libxi6-1.7.2-3-rosa2012.1.i586.rpm", 
+    "pkg": "libxi6", 
+    "pkg_version": "1.7.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libxi6_1.7.4-1_i386.deb", 
+    "pkg": "libxi6", 
+    "pkg_version": "1.7.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libxi6_1.7.1.901-1ubuntu1_i386.deb", 
+    "pkg": "libxi6", 
+    "pkg_version": "1.7.1.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

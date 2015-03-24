@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libkf5attica5_5.0.0-1_i386.deb", 
+    "pkg": "libkf5attica5", 
+    "pkg_version": "5.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "libkf5attica5-5.7.0-3-rosa2014.1.i586.rpm", 
+    "pkg": "libkf5attica5", 
+    "pkg_version": "5.7.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

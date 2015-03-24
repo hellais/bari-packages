@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsaxonhe-java_9.5.1.1+dfsg-1_all.deb", 
+    "pkg": "libsaxonhe-java", 
+    "pkg_version": "9.5.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsaxonhe-java_9.5.1.1+dfsg-1_all.deb", 
+    "pkg": "libsaxonhe-java", 
+    "pkg_version": "9.5.1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libsaxonhe-java_9.4.0.7.dfsg-2_all.deb", 
+    "pkg": "libsaxonhe-java", 
+    "pkg_version": "9.4.0.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

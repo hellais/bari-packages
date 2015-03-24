@@ -1,0 +1,83 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libaqbanking34_5.4.3beta-2+b1_i386.deb", 
+    "pkg": "libaqbanking34", 
+    "pkg_version": "5.4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libaqbanking34_5.4.3beta-2+b1_i386.deb", 
+    "pkg": "libaqbanking34", 
+    "pkg_version": "5.4.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libaqbanking34_5.0.24-3_i386.deb", 
+    "pkg": "libaqbanking34", 
+    "pkg_version": "5.0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libaqbanking34-5.0.25-10-omv2015.0.i586.rpm", 
+    "pkg": "libaqbanking34", 
+    "pkg_version": "5.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libaqbanking34-5.0.25-4-omv2014.0.i586.rpm", 
+    "pkg": "libaqbanking34", 
+    "pkg_version": "5.0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libaqbanking34-5.0.25-3-omv2013.0.i586.rpm", 
+    "pkg": "libaqbanking34", 
+    "pkg_version": "5.0.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libaqbanking34-5.0.25-2-rosa2014.1.i586.rpm", 
+    "pkg": "libaqbanking34", 
+    "pkg_version": "5.0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libaqbanking34-5.0.25-1-rosa2012.1.i586.rpm", 
+    "pkg": "libaqbanking34", 
+    "pkg_version": "5.0.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libaqbanking34_5.4.3beta-2_i386.deb", 
+    "pkg": "libaqbanking34", 
+    "pkg_version": "5.4.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qt5-style-plugins_5.0.0-1_i386.deb", 
+    "pkg": "qt5-style-plugins", 
+    "pkg_version": "5.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "qt5-style-plugins-5.0.0-1-omv2015.0.x86_64.rpm", 
+    "pkg": "qt5-style-plugins", 
+    "pkg_version": "5.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "qt5-style-plugins-0-0.20130213.2-omv2014.0.x86_64.rpm", 
+    "pkg": "qt5-style-plugins-0", 
+    "pkg_version": "0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "qt5-style-plugins-5.0.0-1-omv2015.0.x86_64.rpm", 
+    "pkg": "qt5-style-plugins", 
+    "pkg_version": "5.0.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "qt5-style-plugins-0-0.20130213.2-omv2013.0.x86_64.rpm", 
+    "pkg": "qt5-style-plugins-0", 
+    "pkg_version": "0.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "qt5-style-plugins-5.0.0-1-omv2015.0.x86_64.rpm", 
+    "pkg": "qt5-style-plugins", 
+    "pkg_version": "5.0.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "qt5-style-plugins-0-0.20130213.2-omv2013.0.x86_64.rpm", 
+    "pkg": "qt5-style-plugins-0", 
+    "pkg_version": "0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "qt5-style-plugins-5.0.0-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "qt5-style-plugins", 
+    "pkg_version": "5.0.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

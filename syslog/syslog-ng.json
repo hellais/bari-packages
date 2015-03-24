@@ -1,0 +1,153 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "syslog-ng-3.6.1-alt1.x86_64.rpm", 
+    "pkg": "syslog-ng", 
+    "pkg_version": "3.6.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "syslog-ng-3.6.2-1-x86_64.pkg.tar.xz", 
+    "pkg": "syslog-ng", 
+    "pkg_version": "3.6.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "syslog-ng-3.5.6-1.el7.x86_64.rpm", 
+    "pkg": "syslog-ng", 
+    "pkg_version": "3.5.6", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "syslog-ng-3.2.5-4.el6.x86_64.rpm", 
+    "pkg": "syslog-ng", 
+    "pkg_version": "3.2.5", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Silfreed.net", 
+    "pkg_full_name": "syslog-ng-2.1.4-1.el5.i386.rpm", 
+    "pkg": "syslog-ng", 
+    "pkg_version": "2.1.4", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "syslog-ng_3.5.6-2_all.deb", 
+    "pkg": "syslog-ng", 
+    "pkg_version": "3.5.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "syslog-ng_3.5.6-2_all.deb", 
+    "pkg": "syslog-ng", 
+    "pkg_version": "3.5.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "syslog-ng_3.3.5-4_all.deb", 
+    "pkg": "syslog-ng", 
+    "pkg_version": "3.3.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "syslog-ng-3.6.2-2.fc22.x86_64.rpm", 
+    "pkg": "syslog-ng", 
+    "pkg_version": "3.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "syslog-ng-3.6.2-2.fc22.x86_64.rpm", 
+    "pkg": "syslog-ng", 
+    "pkg_version": "3.6.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "syslog-ng-3.5.6-3.fc21.x86_64.rpm", 
+    "pkg": "syslog-ng", 
+    "pkg_version": "3.5.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "syslog-ng-3.4.7-1.fc20.x86_64.rpm", 
+    "pkg": "syslog-ng", 
+    "pkg_version": "3.4.7", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "syslog-ng-3.5.6-5.1.x86_64.rpm", 
+    "pkg": "syslog-ng", 
+    "pkg_version": "3.5.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "syslog-ng-3.5.6-3.1.4.x86_64.rpm", 
+    "pkg": "syslog-ng", 
+    "pkg_version": "3.5.6", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "syslog-ng-3.4.7-2.8.2.x86_64.rpm", 
+    "pkg": "syslog-ng", 
+    "pkg_version": "3.4.7", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "syslog-ng_3.5.5-2_all.deb", 
+    "pkg": "syslog-ng", 
+    "pkg_version": "3.5.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "syslog-ng_3.5.3-1_all.deb", 
+    "pkg": "syslog-ng", 
+    "pkg_version": "3.5.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

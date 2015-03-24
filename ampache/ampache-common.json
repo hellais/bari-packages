@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ampache-common_3.6-rzb2752+dfsg-5_all.deb", 
+    "pkg": "ampache-common", 
+    "pkg_version": "3.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ampache-common_3.6-rzb2752+dfsg-5_all.deb", 
+    "pkg": "ampache-common", 
+    "pkg_version": "3.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "ampache-common_3.6-git408e713+dfsg-4~bpo70+1_all.deb", 
+    "pkg": "ampache-common", 
+    "pkg_version": "3.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ampache-common_3.6-rzb2779+dfsg-0ubuntu3_all.deb", 
+    "pkg": "ampache-common", 
+    "pkg_version": "3.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

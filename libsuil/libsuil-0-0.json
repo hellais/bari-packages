@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsuil-0-0_0.8.2~dfsg0-1_i386.deb", 
+    "pkg": "libsuil-0-0", 
+    "pkg_version": "0.8.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsuil-0-0_0.8.2~dfsg0-1_i386.deb", 
+    "pkg": "libsuil-0-0", 
+    "pkg_version": "0.8.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsuil-0-0_0.6.4~dfsg0-3_i386.deb", 
+    "pkg": "libsuil-0-0", 
+    "pkg_version": "0.6.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libsuil-0-0_0.8.0~dfsg0-1_i386.deb", 
+    "pkg": "libsuil-0-0", 
+    "pkg_version": "0.8.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libsuil-0-0_0.6.16~dfsg0-1_i386.deb", 
+    "pkg": "libsuil-0-0", 
+    "pkg_version": "0.6.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

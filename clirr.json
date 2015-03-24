@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "clirr-0.6-6.jpp6.noarch.rpm", 
+    "pkg": "clirr", 
+    "pkg_version": "0.6", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "clirr-0.6-6.jpp6.noarch.rpm", 
+    "pkg": "clirr", 
+    "pkg_version": "0.6", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "clirr_0.6-5_all.deb", 
+    "pkg": "clirr", 
+    "pkg_version": "0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "clirr_0.6-5_all.deb", 
+    "pkg": "clirr", 
+    "pkg_version": "0.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "clirr_0.6-3_all.deb", 
+    "pkg": "clirr", 
+    "pkg_version": "0.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "clirr-0.6-6.jpp6.noarch.rpm", 
+    "pkg": "clirr", 
+    "pkg_version": "0.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "clirr-0.6-6.jpp6.noarch.rpm", 
+    "pkg": "clirr", 
+    "pkg_version": "0.6", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "clirr-0.6-6.jpp6.noarch.rpm", 
+    "pkg": "clirr", 
+    "pkg_version": "0.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "clirr_0.6-5_all.deb", 
+    "pkg": "clirr", 
+    "pkg_version": "0.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "clirr_0.6-5_all.deb", 
+    "pkg": "clirr", 
+    "pkg_version": "0.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "metastore-0.0-alt1.qa1.x86_64.rpm", 
+    "pkg": "metastore", 
+    "pkg_version": "0.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "metastore-0.0-alt1.qa1.x86_64.rpm", 
+    "pkg": "metastore", 
+    "pkg_version": "0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "metastore-0.0-alt1.qa1.x86_64.rpm", 
+    "pkg": "metastore", 
+    "pkg_version": "0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "metastore-0.0-alt1.qa1.x86_64.rpm", 
+    "pkg": "metastore", 
+    "pkg_version": "0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "metastore-0.0-alt1.qa1.x86_64.rpm", 
+    "pkg": "metastore", 
+    "pkg_version": "0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "metastore-1-0.git20130503.1.mga5.x86_64.rpm", 
+    "pkg": "metastore-1-0.git2013050", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "metastore-0.0-alt1.qa1.x86_64.rpm", 
+    "pkg": "metastore", 
+    "pkg_version": "0.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "metastore-1-0.git20130503.1.mga5.x86_64.rpm", 
+    "pkg": "metastore-1-0.git2013050", 
+    "pkg_version": "3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

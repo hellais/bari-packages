@@ -1,0 +1,110 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ibus-mozc_1.15.1857.102-1+b1_i386.deb", 
+    "pkg": "ibus-mozc", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ibus-mozc_1.15.1857.102-1+b1_i386.deb", 
+    "pkg": "ibus-mozc", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ibus-mozc_1.5.1090.102-4+deb7u1_i386.deb", 
+    "pkg": "ibus-mozc", 
+    "pkg_version": "1.5.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ibus-mozc-1.15.1814.102-3.fc22.x86_64.rpm", 
+    "pkg": "ibus-mozc", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ibus-mozc-1.15.1814.102-3.fc22.x86_64.rpm", 
+    "pkg": "ibus-mozc", 
+    "pkg_version": "1.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ibus-mozc-1.15.1814.102-3.fc21.x86_64.rpm", 
+    "pkg": "ibus-mozc", 
+    "pkg_version": "1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "ibus-mozc-1.15.1814.102-1.fc20.x86_64.rpm", 
+    "pkg": "ibus-mozc", 
+    "pkg_version": "1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ibus-mozc-2.16.2037.102-1.1.x86_64.rpm", 
+    "pkg": "ibus-mozc", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "ibus-mozc-1.15.1868.102-4.1.x86_64.rpm", 
+    "pkg": "ibus-mozc", 
+    "pkg_version": "1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ibus-mozc-1.11.1522.102-2.2.1.i586.rpm", 
+    "pkg": "ibus-mozc", 
+    "pkg_version": "1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ibus-mozc_1.15.1857.102-1_i386.deb", 
+    "pkg": "ibus-mozc", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ibus-mozc_1.13.1651.102-2_i386.deb", 
+    "pkg": "ibus-mozc", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

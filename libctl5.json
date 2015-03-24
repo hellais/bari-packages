@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libctl5_3.2.2-2_i386.deb", 
+    "pkg": "libctl5", 
+    "pkg_version": "3.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libctl5_3.2.2-2_i386.deb", 
+    "pkg": "libctl5", 
+    "pkg_version": "3.2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libctl5-3.2.2-1.1.x86_64.rpm", 
+    "pkg": "libctl5", 
+    "pkg_version": "3.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }
+]

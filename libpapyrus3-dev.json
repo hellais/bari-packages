@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpapyrus3-dev_3.7.1-1_i386.deb", 
+    "pkg": "libpapyrus3-dev", 
+    "pkg_version": "3.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpapyrus3-dev_3.7.1-1_i386.deb", 
+    "pkg": "libpapyrus3-dev", 
+    "pkg_version": "3.7.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libpapyrus3-dev_3.7.1-1_i386.deb", 
+    "pkg": "libpapyrus3-dev", 
+    "pkg_version": "3.7.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

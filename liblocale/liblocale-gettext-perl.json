@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liblocale-gettext-perl_1.05-8+b1_i386.deb", 
+    "pkg": "liblocale-gettext-perl", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liblocale-gettext-perl_1.05-8+b1_i386.deb", 
+    "pkg": "liblocale-gettext-perl", 
+    "pkg_version": "1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liblocale-gettext-perl_1.05-7+b1_i386.deb", 
+    "pkg": "liblocale-gettext-perl", 
+    "pkg_version": "1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "liblocale-gettext-perl_1.05-8build1_i386.deb", 
+    "pkg": "liblocale-gettext-perl", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "liblocale-gettext-perl_1.05-7build3_i386.deb", 
+    "pkg": "liblocale-gettext-perl", 
+    "pkg_version": "1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

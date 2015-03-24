@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "exim4-base_4.84-8_i386.deb", 
+    "pkg": "exim4-base", 
+    "pkg_version": "4.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "exim4-base_4.84-8_i386.deb", 
+    "pkg": "exim4-base", 
+    "pkg_version": "4.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "exim4-base_4.80-7+deb7u1_i386.deb", 
+    "pkg": "exim4-base", 
+    "pkg_version": "4.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "exim4-base_4.84~RC1-3ubuntu2_i386.deb", 
+    "pkg": "exim4-base", 
+    "pkg_version": "4.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "exim4-base_4.82-3ubuntu2_i386.deb", 
+    "pkg": "exim4-base", 
+    "pkg_version": "4.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

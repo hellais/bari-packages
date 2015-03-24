@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtntnet12_2.2.1-1_i386.deb", 
+    "pkg": "libtntnet12", 
+    "pkg_version": "2.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtntnet12_2.2.1-1_i386.deb", 
+    "pkg": "libtntnet12", 
+    "pkg_version": "2.2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "libtntnet12-2.2.1-1.54.x86_64.rpm", 
+    "pkg": "libtntnet12", 
+    "pkg_version": "2.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "libtntnet12-2.2.1-1.39.x86_64.rpm", 
+    "pkg": "libtntnet12", 
+    "pkg_version": "2.2.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libtntnet12_2.2.1-1_i386.deb", 
+    "pkg": "libtntnet12", 
+    "pkg_version": "2.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

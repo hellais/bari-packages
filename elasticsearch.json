@@ -1,0 +1,46 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "elasticsearch-1.4.4-1-x86_64.pkg.tar.xz", 
+    "pkg": "elasticsearch", 
+    "pkg_version": "1.4.4", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "elasticsearch-0.20.4-3.puias6.noarch.rpm", 
+    "pkg": "elasticsearch", 
+    "pkg_version": "0.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "elasticsearch_1.0.3+dfsg-5_all.deb", 
+    "pkg": "elasticsearch", 
+    "pkg_version": "1.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "elasticsearch_1.0.3+dfsg-5_all.deb", 
+    "pkg": "elasticsearch", 
+    "pkg_version": "1.0.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "elasticsearch-1.4.4-0.fc23.noarch.rpm", 
+    "pkg": "elasticsearch", 
+    "pkg_version": "1.4.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

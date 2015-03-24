@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtomoyotools3_2.5.0-20140601-3_i386.deb", 
+    "pkg": "libtomoyotools3", 
+    "pkg_version": "2.5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtomoyotools3_2.5.0-20140601-1_i386.deb", 
+    "pkg": "libtomoyotools3", 
+    "pkg_version": "2.5.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtomoyotools3_2.5.0-20120414-2_i386.deb", 
+    "pkg": "libtomoyotools3", 
+    "pkg_version": "2.5.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libtomoyotools3_2.5.0-20140601-1_i386.deb", 
+    "pkg": "libtomoyotools3", 
+    "pkg_version": "2.5.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

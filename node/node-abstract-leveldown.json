@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "node-abstract-leveldown_2.0.1-1_all.deb", 
+    "pkg": "node-abstract-leveldown", 
+    "pkg_version": "2.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-cairo-dev_1.10.0+dfsg-4_all.deb", 
+    "pkg": "python3-cairo-dev", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-cairo-dev_1.10.0+dfsg-4_all.deb", 
+    "pkg": "python3-cairo-dev", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-cairo-dev_1.10.0+dfsg-2_all.deb", 
+    "pkg": "python3-cairo-dev", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python3-cairo-dev_1.10.0+dfsg-4_all.deb", 
+    "pkg": "python3-cairo-dev", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python3-cairo-dev_1.10.0+dfsg-3ubuntu2_all.deb", 
+    "pkg": "python3-cairo-dev", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-gitdb-0.5.4-5.el7.x86_64.rpm", 
+    "pkg": "python-gitdb", 
+    "pkg_version": "0.5.4", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-gitdb-0.5.4-2.el6.x86_64.rpm", 
+    "pkg": "python-gitdb", 
+    "pkg_version": "0.5.4", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python-gitdb_0.6.4-1~nd+1_i386.deb", 
+    "pkg": "python-gitdb", 
+    "pkg_version": "0.6.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python-gitdb_0.6.4-1~nd80+1_i386.deb", 
+    "pkg": "python-gitdb", 
+    "pkg_version": "0.6.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python-gitdb_0.6.4-1~nd70+1_i386.deb", 
+    "pkg": "python-gitdb", 
+    "pkg_version": "0.6.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-gitdb-0.5.4-8.fc22.x86_64.rpm", 
+    "pkg": "python-gitdb", 
+    "pkg_version": "0.5.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-gitdb-0.5.4-8.fc22.x86_64.rpm", 
+    "pkg": "python-gitdb", 
+    "pkg_version": "0.5.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-gitdb-0.5.4-8.fc21.x86_64.rpm", 
+    "pkg": "python-gitdb", 
+    "pkg_version": "0.5.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-gitdb-0.5.4-6.fc20.x86_64.rpm", 
+    "pkg": "python-gitdb", 
+    "pkg_version": "0.5.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-gitdb-0.5.4-10.2.x86_64.rpm", 
+    "pkg": "python-gitdb", 
+    "pkg_version": "0.5.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-gitdb-0.5.4-9.1.4.x86_64.rpm", 
+    "pkg": "python-gitdb", 
+    "pkg_version": "0.5.4", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-gitdb-0.5.4-7.1.2.i586.rpm", 
+    "pkg": "python-gitdb", 
+    "pkg_version": "0.5.4", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "python-gitdb-0.5.4-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "python-gitdb", 
+    "pkg_version": "0.5.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "python-gitdb-0.5.4-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "python-gitdb", 
+    "pkg_version": "0.5.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-gitdb_0.5.4-1_i386.deb", 
+    "pkg": "python-gitdb", 
+    "pkg_version": "0.5.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

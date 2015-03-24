@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "clamav-docs_0.98.6+dfsg-1_all.deb", 
+    "pkg": "clamav-docs", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "clamav-docs_0.98.6+dfsg-1_all.deb", 
+    "pkg": "clamav-docs", 
+    "pkg_version": "0.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Proposed Updates Main", 
+    "pkg_full_name": "clamav-docs_0.98.6+dfsg-0+deb7u1_all.deb", 
+    "pkg": "clamav-docs", 
+    "pkg_version": "0.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "clamav-docs_0.98.6+dfsg-0ubuntu0.14.10.1_all.deb", 
+    "pkg": "clamav-docs", 
+    "pkg_version": "0.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "clamav-docs_0.98.6+dfsg-0ubuntu0.14.04.1_all.deb", 
+    "pkg": "clamav-docs", 
+    "pkg_version": "0.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gxkb-0.7.3-alt1.x86_64.rpm", 
+    "pkg": "gxkb", 
+    "pkg_version": "0.7.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gxkb_0.7.3-1_i386.deb", 
+    "pkg": "gxkb", 
+    "pkg_version": "0.7.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gxkb_0.7.2-1_i386.deb", 
+    "pkg": "gxkb", 
+    "pkg_version": "0.7.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

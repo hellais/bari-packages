@@ -1,0 +1,83 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-cloud-sptheme-1.5-1.el6.noarch.rpm", 
+    "pkg": "python-cloud-sptheme", 
+    "pkg_version": "1.5", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-cloud-sptheme_1.6-1_all.deb", 
+    "pkg": "python-cloud-sptheme", 
+    "pkg_version": "1.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-cloud-sptheme_1.6-1_all.deb", 
+    "pkg": "python-cloud-sptheme", 
+    "pkg_version": "1.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "python-cloud-sptheme_1.6-1~bpo70+1_all.deb", 
+    "pkg": "python-cloud-sptheme", 
+    "pkg_version": "1.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-cloud-sptheme-1.6-2.fc21.noarch.rpm", 
+    "pkg": "python-cloud-sptheme", 
+    "pkg_version": "1.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-cloud-sptheme-1.6-2.fc21.noarch.rpm", 
+    "pkg": "python-cloud-sptheme", 
+    "pkg_version": "1.6", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-cloud-sptheme-1.6-2.fc21.noarch.rpm", 
+    "pkg": "python-cloud-sptheme", 
+    "pkg_version": "1.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-cloud-sptheme-1.5-3.fc20.noarch.rpm", 
+    "pkg": "python-cloud-sptheme", 
+    "pkg_version": "1.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-cloud-sptheme_1.6-1_all.deb", 
+    "pkg": "python-cloud-sptheme", 
+    "pkg_version": "1.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

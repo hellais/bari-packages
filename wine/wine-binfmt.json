@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "wine-binfmt_1.6.2-20_i386.deb", 
+    "pkg": "wine-binfmt", 
+    "pkg_version": "1.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

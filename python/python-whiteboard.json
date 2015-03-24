@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-whiteboard_1.0+git20140207-0.1_all.deb", 
+    "pkg": "python-whiteboard", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-whiteboard_1.0+git20140207-0.1_all.deb", 
+    "pkg": "python-whiteboard", 
+    "pkg_version": "1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-whiteboard_1.0+git20111009-1_all.deb", 
+    "pkg": "python-whiteboard", 
+    "pkg_version": "1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "python-whiteboard-1.0.git.1385751271-3.87.noarch.rpm", 
+    "pkg": "python-whiteboard", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "python-whiteboard-1.0.git.1385751271-3.1.noarch.rpm", 
+    "pkg": "python-whiteboard", 
+    "pkg_version": "1.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "python-whiteboard-1.0.git.1385751271-3.1.noarch.rpm", 
+    "pkg": "python-whiteboard", 
+    "pkg_version": "1.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-whiteboard_1.0+git20140207-0.1_all.deb", 
+    "pkg": "python-whiteboard", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-whiteboard_1.0+git20140207-0.1_all.deb", 
+    "pkg": "python-whiteboard", 
+    "pkg_version": "1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

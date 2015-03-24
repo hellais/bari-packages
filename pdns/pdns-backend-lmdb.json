@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pdns-backend-lmdb_3.4.1-4_i386.deb", 
+    "pkg": "pdns-backend-lmdb", 
+    "pkg_version": "3.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pdns-backend-lmdb_3.4.1-4_i386.deb", 
+    "pkg": "pdns-backend-lmdb", 
+    "pkg_version": "3.4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pdns-backend-lmdb-3.4.3-1.fc23.x86_64.rpm", 
+    "pkg": "pdns-backend-lmdb", 
+    "pkg_version": "3.4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pdns-backend-lmdb-3.4.2-2.fc22.x86_64.rpm", 
+    "pkg": "pdns-backend-lmdb", 
+    "pkg_version": "3.4.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "pdns-backend-lmdb-3.4.3-1.fc21.x86_64.rpm", 
+    "pkg": "pdns-backend-lmdb", 
+    "pkg_version": "3.4.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

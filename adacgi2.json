@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "adacgi2_1.6-19_i386.deb", 
+    "pkg": "adacgi2", 
+    "pkg_version": "1.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "adacgi2_1.6-19_i386.deb", 
+    "pkg": "adacgi2", 
+    "pkg_version": "1.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

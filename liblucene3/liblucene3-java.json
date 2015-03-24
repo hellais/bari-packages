@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liblucene3-java_3.6.2+dfsg-5_all.deb", 
+    "pkg": "liblucene3-java", 
+    "pkg_version": "3.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liblucene3-java_3.6.2+dfsg-5_all.deb", 
+    "pkg": "liblucene3-java", 
+    "pkg_version": "3.6.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "liblucene3-java_3.6.0+dfsg-1+deb7u1_all.deb", 
+    "pkg": "liblucene3-java", 
+    "pkg_version": "3.6.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "liblucene3-java_3.6.2+dfsg-3_all.deb", 
+    "pkg": "liblucene3-java", 
+    "pkg_version": "3.6.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

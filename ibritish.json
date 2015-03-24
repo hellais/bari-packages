@@ -1,0 +1,119 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ibritish_3.3.02-6_all.deb", 
+    "pkg": "ibritish", 
+    "pkg_version": "3.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ibritish_3.3.02-6_all.deb", 
+    "pkg": "ibritish", 
+    "pkg_version": "3.3.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ibritish_3.3.02-6_all.deb", 
+    "pkg": "ibritish", 
+    "pkg_version": "3.3.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ibritish_3.3.02-6_all.deb", 
+    "pkg": "ibritish", 
+    "pkg_version": "3.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ispell-british-3.3.02-113.1.x86_64.rpm", 
+    "pkg": "ispell-british", 
+    "pkg_version": "3.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ibritish_3.3.02-6_all.deb", 
+    "pkg": "ibritish", 
+    "pkg_version": "3.3.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ispell-british-3.3.02-109.1.2.x86_64.rpm", 
+    "pkg": "ispell-british", 
+    "pkg_version": "3.3.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ibritish_3.3.02-6_all.deb", 
+    "pkg": "ibritish", 
+    "pkg_version": "3.3.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ispell-british-3.3.02-106.1.2.i586.rpm", 
+    "pkg": "ispell-british", 
+    "pkg_version": "3.3.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ibritish_3.3.02-6_all.deb", 
+    "pkg": "ibritish", 
+    "pkg_version": "3.3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ispell-british-3.3.02-106.1.2.i586.rpm", 
+    "pkg": "ispell-british", 
+    "pkg_version": "3.3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ibritish_3.3.02-6_all.deb", 
+    "pkg": "ibritish", 
+    "pkg_version": "3.3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ispell-british-3.3.02-106.1.2.i586.rpm", 
+    "pkg": "ispell-british", 
+    "pkg_version": "3.3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,479 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "pcb-0.20110918-3.el6.x86_64.rpm", 
+    "pkg": "pcb", 
+    "pkg_version": "0.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "pcb-0.20100929-1.el5.x86_64.rpm", 
+    "pkg": "pcb", 
+    "pkg_version": "0.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "pcb-0.20100929-1.el5.x86_64.rpm", 
+    "pkg": "pcb", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "pcb-0.20100929-1.el5.x86_64.rpm", 
+    "pkg": "pcb", 
+    "pkg_version": "0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "pcb-0.20100929-1.el5.x86_64.rpm", 
+    "pkg": "pcb", 
+    "pkg_version": "0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pcb-0.20140316-5.fc22.x86_64.rpm", 
+    "pkg": "pcb", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pcb-0.20140316-5.fc22.x86_64.rpm", 
+    "pkg": "pcb", 
+    "pkg_version": "0.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pcb-0.20140316-4.fc21.x86_64.rpm", 
+    "pkg": "pcb", 
+    "pkg_version": "0.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pcb-0.20110918-12.fc20.x86_64.rpm", 
+    "pkg": "pcb", 
+    "pkg_version": "0.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pcb-0.20110918-12.fc20.x86_64.rpm", 
+    "pkg": "pcb", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "pcb-20110918-1-omv2013.0.x86_64.rpm", 
+    "pkg": "pcb-20110918-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pcb-0.20110918-12.fc20.x86_64.rpm", 
+    "pkg": "pcb", 
+    "pkg_version": "0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "pcb-20110918-1-omv2013.0.x86_64.rpm", 
+    "pkg": "pcb-20110918-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pcb-0.20110918-12.fc20.x86_64.rpm", 
+    "pkg": "pcb", 
+    "pkg_version": "0.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "pcb-20110918-1-omv2013.0.x86_64.rpm", 
+    "pkg": "pcb-20110918-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pcb-0.20110918-12.fc20.x86_64.rpm", 
+    "pkg": "pcb", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "pcb-20110918-1-omv2013.0.x86_64.rpm", 
+    "pkg": "pcb-20110918-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pcb-20140316-6.1.x86_64.rpm", 
+    "pkg": "pcb-20140316", 
+    "pkg_version": "6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pcb-0.20110918-12.fc20.x86_64.rpm", 
+    "pkg": "pcb", 
+    "pkg_version": "0.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "pcb-20110918-1-omv2013.0.x86_64.rpm", 
+    "pkg": "pcb-20110918-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pcb-20140316-2.1.6.x86_64.rpm", 
+    "pkg": "pcb-20140316", 
+    "pkg_version": "2.1.6", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pcb-0.20110918-12.fc20.x86_64.rpm", 
+    "pkg": "pcb", 
+    "pkg_version": "0.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "pcb-20110918-1-omv2013.0.x86_64.rpm", 
+    "pkg": "pcb-20110918-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pcb-20110918-2.1.3.i586.rpm", 
+    "pkg": "pcb-20110918", 
+    "pkg_version": "2.1.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pcb-20140316-2.1.6.x86_64.rpm", 
+    "pkg": "pcb-20140316", 
+    "pkg_version": "2.1.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pcb-0.20110918-12.fc20.x86_64.rpm", 
+    "pkg": "pcb", 
+    "pkg_version": "0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "pcb-20110918-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "pcb-20110918-3-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "pcb-20110918-1-omv2013.0.x86_64.rpm", 
+    "pkg": "pcb-20110918-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pcb-20110918-2.1.3.i586.rpm", 
+    "pkg": "pcb-20110918", 
+    "pkg_version": "2.1.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pcb-20140316-2.1.6.x86_64.rpm", 
+    "pkg": "pcb-20140316", 
+    "pkg_version": "2.1.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pcb-20110918-2.1.3.i586.rpm", 
+    "pkg": "pcb-20110918", 
+    "pkg_version": "2.1.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pcb-20140316-2.1.6.x86_64.rpm", 
+    "pkg": "pcb-20140316", 
+    "pkg_version": "2.1.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "pcb-20110918-1-omv2013.0.x86_64.rpm", 
+    "pkg": "pcb-20110918-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "pcb-20110918-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "pcb-20110918-1-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pcb-0.20110918-12.fc20.x86_64.rpm", 
+    "pkg": "pcb", 
+    "pkg_version": "0.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "pcb-20110918-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "pcb-20110918-2-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "pcb-20110918-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "pcb-20110918-3-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pcb-20110918-2.1.3.i586.rpm", 
+    "pkg": "pcb-20110918", 
+    "pkg_version": "2.1.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pcb-20140316-2.1.6.x86_64.rpm", 
+    "pkg": "pcb-20140316", 
+    "pkg_version": "2.1.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "pcb-20110918-1-omv2013.0.x86_64.rpm", 
+    "pkg": "pcb-20110918-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "pcb-20091103-1-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "pcb-20091103-1-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "pcb-20110918-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "pcb-20110918-1-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pcb-0.20110918-12.fc20.x86_64.rpm", 
+    "pkg": "pcb", 
+    "pkg_version": "0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "pcb-20110918-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "pcb-20110918-2-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "pcb-20110918-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "pcb-20110918-3-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pcb-20110918-2.1.3.i586.rpm", 
+    "pkg": "pcb-20110918", 
+    "pkg_version": "2.1.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pcb-20140316-2.1.6.x86_64.rpm", 
+    "pkg": "pcb-20140316", 
+    "pkg_version": "2.1.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "pcb-20110918-1-omv2013.0.x86_64.rpm", 
+    "pkg": "pcb-20110918-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "pcb-20091103-1-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "pcb-20091103-1-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "pcb-20110918-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "pcb-20110918-1-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pcb-0.20110918-12.fc20.x86_64.rpm", 
+    "pkg": "pcb", 
+    "pkg_version": "0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "pcb-20110918-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "pcb-20110918-2-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "pcb-20110918-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "pcb-20110918-3-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

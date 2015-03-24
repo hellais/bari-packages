@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-tasty-hspec-prof_0.1.0.1-1+b3_amd64.deb", 
+    "pkg": "libghc-tasty-hspec-prof", 
+    "pkg_version": "0.1.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-tasty-hspec-prof_0.1.0.1-1+b3_amd64.deb", 
+    "pkg": "libghc-tasty-hspec-prof", 
+    "pkg_version": "0.1.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-tasty-hspec-prof_0.1.0.1-1build1_i386.deb", 
+    "pkg": "libghc-tasty-hspec-prof", 
+    "pkg_version": "0.1.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

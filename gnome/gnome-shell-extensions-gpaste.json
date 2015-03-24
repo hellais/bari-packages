@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-shell-extensions-gpaste_3.14-2_all.deb", 
+    "pkg": "gnome-shell-extensions-gpaste", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

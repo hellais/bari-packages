@@ -1,0 +1,155 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "whiptail_0.52.17-1+b1_i386.deb", 
+    "pkg": "whiptail", 
+    "pkg_version": "0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "whiptail_0.52.17-1+b1_i386.deb", 
+    "pkg": "whiptail", 
+    "pkg_version": "0.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "whiptail_0.52.14-11.1_i386.deb", 
+    "pkg": "whiptail", 
+    "pkg_version": "0.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "whiptail_0.52.14-11.1_i386.deb", 
+    "pkg": "whiptail", 
+    "pkg_version": "0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "newt-0.52.18-1-omv2015.0.x86_64.rpm", 
+    "pkg": "newt", 
+    "pkg_version": "0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "whiptail_0.52.14-11.1_i386.deb", 
+    "pkg": "whiptail", 
+    "pkg_version": "0.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "newt-0.52.16-6-omv2014.0.x86_64.rpm", 
+    "pkg": "newt", 
+    "pkg_version": "0.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "whiptail_0.52.14-11.1_i386.deb", 
+    "pkg": "whiptail", 
+    "pkg_version": "0.5", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "newt-0.52.14-8-omv2013.0.x86_64.rpm", 
+    "pkg": "newt", 
+    "pkg_version": "0.5", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "whiptail_0.52.14-11.1_i386.deb", 
+    "pkg": "whiptail", 
+    "pkg_version": "0.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "newt-0.52.14-5-rosa2014.1.x86_64.rpm", 
+    "pkg": "newt", 
+    "pkg_version": "0.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "whiptail_0.52.14-11.1_i386.deb", 
+    "pkg": "whiptail", 
+    "pkg_version": "0.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "newt-0.52.14-3-rosa2012.1.x86_64.rpm", 
+    "pkg": "newt", 
+    "pkg_version": "0.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "whiptail_0.52.15-3ubuntu1_i386.deb", 
+    "pkg": "whiptail", 
+    "pkg_version": "0.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "newt-0.52.11-4-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "newt", 
+    "pkg_version": "0.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "whiptail_0.52.15-2ubuntu5_i386.deb", 
+    "pkg": "whiptail", 
+    "pkg_version": "0.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "newt-0.52.11-4-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "newt", 
+    "pkg_version": "0.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

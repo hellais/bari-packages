@@ -1,0 +1,144 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ansible-1.8.4-alt1.noarch.rpm", 
+    "pkg": "ansible", 
+    "pkg_version": "1.8.4", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "ansible-1.8.4-1-any.pkg.tar.xz", 
+    "pkg": "ansible", 
+    "pkg_version": "1.8.4", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "ansible-1.8.4-1.el7.noarch.rpm", 
+    "pkg": "ansible", 
+    "pkg_version": "1.8.4", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "ansible-1.1-2.el6.rf.noarch.rpm", 
+    "pkg": "ansible", 
+    "pkg_version": "1.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ansible_1.7.2+dfsg-2_all.deb", 
+    "pkg": "ansible", 
+    "pkg_version": "1.7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ansible_1.7.2+dfsg-2_all.deb", 
+    "pkg": "ansible", 
+    "pkg_version": "1.7.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "ansible_1.7.2+dfsg-2~bpo70+1_all.deb", 
+    "pkg": "ansible", 
+    "pkg_version": "1.7.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ansible-1.8.4-1.fc23.noarch.rpm", 
+    "pkg": "ansible", 
+    "pkg_version": "1.8.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ansible-1.8.4-1.fc22.noarch.rpm", 
+    "pkg": "ansible", 
+    "pkg_version": "1.8.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "ansible-1.8.4-1.fc21.noarch.rpm", 
+    "pkg": "ansible", 
+    "pkg_version": "1.8.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "ansible-1.8.4-1.fc20.noarch.rpm", 
+    "pkg": "ansible", 
+    "pkg_version": "1.8.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ansible-1.8.4-1.1.noarch.rpm", 
+    "pkg": "ansible", 
+    "pkg_version": "1.8.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ansible-1.7.1-2.1.4.noarch.rpm", 
+    "pkg": "ansible", 
+    "pkg_version": "1.7.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "ansible-1.7.2-1-rosa2014.1.noarch.rpm", 
+    "pkg": "ansible", 
+    "pkg_version": "1.7.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Freestylers", 
+    "pkg_full_name": "ansible-1.2.1-x86_64-1_fs.tgz", 
+    "pkg": "ansible", 
+    "pkg_version": "1.2.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ansible_1.7.2+dfsg-1_all.deb", 
+    "pkg": "ansible", 
+    "pkg_version": "1.7.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

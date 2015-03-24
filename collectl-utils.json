@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "collectl-utils-3.2.0-1.puias6.noarch.rpm", 
+    "pkg": "collectl-utils", 
+    "pkg_version": "3.2.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "collectl-utils_4.8.1-2_all.deb", 
+    "pkg": "collectl-utils", 
+    "pkg_version": "4.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "collectl-utils_4.8.1-2_all.deb", 
+    "pkg": "collectl-utils", 
+    "pkg_version": "4.8.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "collectl-utils_3.2.1-1_all.deb", 
+    "pkg": "collectl-utils", 
+    "pkg_version": "3.2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "collectl-utils_4.7.1-1_all.deb", 
+    "pkg": "collectl-utils", 
+    "pkg_version": "4.7.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

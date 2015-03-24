@@ -1,0 +1,127 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "cpqarrayd-2.3-alt1.qa1.x86_64.rpm", 
+    "pkg": "cpqarrayd", 
+    "pkg_version": "2.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "cpqarrayd-2.3-12.el6.x86_64.rpm", 
+    "pkg": "cpqarrayd", 
+    "pkg_version": "2.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "cpqarrayd-2.3-6.el5.x86_64.rpm", 
+    "pkg": "cpqarrayd", 
+    "pkg_version": "2.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cpqarrayd_2.3-3_i386.deb", 
+    "pkg": "cpqarrayd", 
+    "pkg_version": "2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cpqarrayd_2.3-3_i386.deb", 
+    "pkg": "cpqarrayd", 
+    "pkg_version": "2.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cpqarrayd_2.3-1.3_i386.deb", 
+    "pkg": "cpqarrayd", 
+    "pkg_version": "2.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "cpqarrayd-2.3-18-omv2015.0.x86_64.rpm", 
+    "pkg": "cpqarrayd", 
+    "pkg_version": "2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "cpqarrayd-2.3-12-omv2014.0.x86_64.rpm", 
+    "pkg": "cpqarrayd", 
+    "pkg_version": "2.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "cpqarrayd-2.3-11-omv2013.0.x86_64.rpm", 
+    "pkg": "cpqarrayd", 
+    "pkg_version": "2.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "cpqarrayd-2.3-12-rosa2014.1.x86_64.rpm", 
+    "pkg": "cpqarrayd", 
+    "pkg_version": "2.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "cpqarrayd-2.3-11-rosa2012.1.x86_64.rpm", 
+    "pkg": "cpqarrayd", 
+    "pkg_version": "2.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Helmut Hullen", 
+    "pkg_full_name": "cpqarrayd-2.3-i486-1hln.tgz", 
+    "pkg": "cpqarrayd", 
+    "pkg_version": "2.3", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "cpqarrayd_2.3-1.3_i386.deb", 
+    "pkg": "cpqarrayd", 
+    "pkg_version": "2.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "cpqarrayd_2.3-1.3_i386.deb", 
+    "pkg": "cpqarrayd", 
+    "pkg_version": "2.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

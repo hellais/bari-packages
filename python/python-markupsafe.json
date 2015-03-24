@@ -1,0 +1,289 @@
+[
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "python-markupsafe-0.23-1-x86_64.pkg.tar.xz", 
+    "pkg": "python-markupsafe", 
+    "pkg_version": "0.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "python-markupsafe-0.11-10.el7.x86_64.rpm", 
+    "pkg": "python-markupsafe", 
+    "pkg_version": "0.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "python-markupsafe-0.9.2-4.el6.x86_64.rpm", 
+    "pkg": "python-markupsafe", 
+    "pkg_version": "0.9.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "python-markupsafe-0.11-1.el5.rf.x86_64.rpm", 
+    "pkg": "python-markupsafe", 
+    "pkg_version": "0.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-markupsafe_0.23-1+b1_i386.deb", 
+    "pkg": "python-markupsafe", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-markupsafe_0.23-1+b1_i386.deb", 
+    "pkg": "python-markupsafe", 
+    "pkg_version": "0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-markupsafe_0.15-1_i386.deb", 
+    "pkg": "python-markupsafe", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-markupsafe-0.23-6.fc22.x86_64.rpm", 
+    "pkg": "python-markupsafe", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-markupsafe-0.23-6.fc22.x86_64.rpm", 
+    "pkg": "python-markupsafe", 
+    "pkg_version": "0.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-markupsafe-0.23-6.fc21.x86_64.rpm", 
+    "pkg": "python-markupsafe", 
+    "pkg_version": "0.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-markupsafe-0.18-1.fc20.x86_64.rpm", 
+    "pkg": "python-markupsafe", 
+    "pkg_version": "0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-markupsafe-0.23-5-omv2015.0.x86_64.rpm", 
+    "pkg": "python-markupsafe", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-markupsafe-0.18-3-omv2014.0.x86_64.rpm", 
+    "pkg": "python-markupsafe", 
+    "pkg_version": "0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-markupsafe-0.18-1-omv2013.0.x86_64.rpm", 
+    "pkg": "python-markupsafe", 
+    "pkg_version": "0.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-markupsafe-0.18-1-omv2013.0.x86_64.rpm", 
+    "pkg": "python-markupsafe", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-MarkupSafe-0.23-3.2.x86_64.rpm", 
+    "pkg": "python-MarkupSafe", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-markupsafe-0.18-1-omv2013.0.x86_64.rpm", 
+    "pkg": "python-markupsafe", 
+    "pkg_version": "0.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-MarkupSafe-0.23-2.1.4.x86_64.rpm", 
+    "pkg": "python-MarkupSafe", 
+    "pkg_version": "0.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-markupsafe-0.18-1-omv2013.0.x86_64.rpm", 
+    "pkg": "python-markupsafe", 
+    "pkg_version": "0.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-MarkupSafe-0.18-2.1.2.i586.rpm", 
+    "pkg": "python-MarkupSafe", 
+    "pkg_version": "0.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "python-markupsafe-0.23-4-rosa2014.1.x86_64.rpm", 
+    "pkg": "python-markupsafe", 
+    "pkg_version": "0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-MarkupSafe-0.18-2.1.2.i586.rpm", 
+    "pkg": "python-MarkupSafe", 
+    "pkg_version": "0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "python-markupsafe-0.18-3-rosa2012.1.x86_64.rpm", 
+    "pkg": "python-markupsafe", 
+    "pkg_version": "0.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-MarkupSafe-0.18-2.1.2.i586.rpm", 
+    "pkg": "python-MarkupSafe", 
+    "pkg_version": "0.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "python-markupsafe-0.18-x86_64-1rl.txz", 
+    "pkg": "python-markupsafe", 
+    "pkg_version": "0.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-MarkupSafe-0.18-2.1.2.i586.rpm", 
+    "pkg": "python-MarkupSafe", 
+    "pkg_version": "0.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "python-markupsafe-0.15-x86_64-1fg.txz", 
+    "pkg": "python-markupsafe", 
+    "pkg_version": "0.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-MarkupSafe-0.18-2.1.2.i586.rpm", 
+    "pkg": "python-MarkupSafe", 
+    "pkg_version": "0.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python-markupsafe_0.23-1_i386.deb", 
+    "pkg": "python-markupsafe", 
+    "pkg_version": "0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-MarkupSafe-0.18-2.1.2.i586.rpm", 
+    "pkg": "python-MarkupSafe", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python-markupsafe_0.18-1build2_i386.deb", 
+    "pkg": "python-markupsafe", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-MarkupSafe-0.18-2.1.2.i586.rpm", 
+    "pkg": "python-MarkupSafe", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

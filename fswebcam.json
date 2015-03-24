@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "fswebcam-20140113-3.2.x86_64.rpm", 
+    "pkg": "fswebcam-20140113", 
+    "pkg_version": "3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "fswebcam-20140113-2.1.2.x86_64.rpm", 
+    "pkg": "fswebcam-20140113", 
+    "pkg_version": "2.1.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "fswebcam-20140113-2.1.2.x86_64.rpm", 
+    "pkg": "fswebcam-20140113", 
+    "pkg_version": "2.1.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "fswebcam-20140113-2.1.2.x86_64.rpm", 
+    "pkg": "fswebcam-20140113", 
+    "pkg_version": "2.1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "fswebcam-20140113-2.1.2.x86_64.rpm", 
+    "pkg": "fswebcam-20140113", 
+    "pkg_version": "2.1.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

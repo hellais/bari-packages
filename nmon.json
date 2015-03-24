@@ -1,0 +1,254 @@
+[
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "nmon-14g-1-omv2013.0.x86_64.rpm", 
+    "pkg": "nmon-14g-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "nmon-14g-1-omv2013.0.x86_64.rpm", 
+    "pkg": "nmon-14g-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "nmon-14g-1-omv2013.0.x86_64.rpm", 
+    "pkg": "nmon-14g-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "nmon-14g-1-omv2013.0.x86_64.rpm", 
+    "pkg": "nmon-14g-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "nmon-15a-1.1.x86_64.rpm", 
+    "pkg": "nmon-15a", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "nmon-14g-1-omv2013.0.x86_64.rpm", 
+    "pkg": "nmon-14g-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Network Utilities", 
+    "pkg_full_name": "nmon-15a-7.1.x86_64.rpm", 
+    "pkg": "nmon-15a", 
+    "pkg_version": "7.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "nmon-14g-1-omv2013.0.x86_64.rpm", 
+    "pkg": "nmon-14g-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Network Utilities", 
+    "pkg_full_name": "nmon-15a-7.1.x86_64.rpm", 
+    "pkg": "nmon-15a", 
+    "pkg_version": "7.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "nmon-14g-1-omv2013.0.x86_64.rpm", 
+    "pkg": "nmon-14g-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Network Utilities", 
+    "pkg_full_name": "nmon-15a-7.1.x86_64.rpm", 
+    "pkg": "nmon-15a", 
+    "pkg_version": "7.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "nmon-14g-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "nmon-14g-2-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "nmon-14g-1-omv2013.0.x86_64.rpm", 
+    "pkg": "nmon-14g-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "nmon-14g-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "nmon-14g-1-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Network Utilities", 
+    "pkg_full_name": "nmon-15a-7.1.x86_64.rpm", 
+    "pkg": "nmon-15a", 
+    "pkg_version": "7.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "nmon-14g-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "nmon-14g-2-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "nmon-14g-1-omv2013.0.x86_64.rpm", 
+    "pkg": "nmon-14g-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "nmon-14g-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "nmon-14g-1-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Network Utilities", 
+    "pkg_full_name": "nmon-15a-7.1.x86_64.rpm", 
+    "pkg": "nmon-15a", 
+    "pkg_version": "7.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "nmon-14g-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "nmon-14g-2-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "nmon-14g-1-omv2013.0.x86_64.rpm", 
+    "pkg": "nmon-14g-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "nmon-14g-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "nmon-14g-1-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Network Utilities", 
+    "pkg_full_name": "nmon-15a-7.1.x86_64.rpm", 
+    "pkg": "nmon-15a", 
+    "pkg_version": "7.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "nmon-14g-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "nmon-14g-2-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "nmon-14g-1-omv2013.0.x86_64.rpm", 
+    "pkg": "nmon-14g-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "nmon-14g-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "nmon-14g-1-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Network Utilities", 
+    "pkg_full_name": "nmon-15a-7.1.x86_64.rpm", 
+    "pkg": "nmon-15a", 
+    "pkg_version": "7.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "nmon-14g-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "nmon-14g-2-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

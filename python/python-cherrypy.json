@@ -1,0 +1,253 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "python-cherrypy-3.6.0-1-any.pkg.tar.xz", 
+    "pkg": "python-cherrypy", 
+    "pkg_version": "3.6.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-cherrypy-3.2.2-4.el7.noarch.rpm", 
+    "pkg": "python-cherrypy", 
+    "pkg_version": "3.2.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Russian Fedora Free Updates", 
+    "pkg_full_name": "python-cherrypy-3.1.2-1.el6.R.noarch.rpm", 
+    "pkg": "python-cherrypy", 
+    "pkg_version": "3.1.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "python-cherrypy-3.1.2-1.el5.rf.noarch.rpm", 
+    "pkg": "python-cherrypy", 
+    "pkg_version": "3.1.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-cherrypy_2.3.0-4_all.deb", 
+    "pkg": "python-cherrypy", 
+    "pkg_version": "2.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-cherrypy_2.3.0-3_all.deb", 
+    "pkg": "python-cherrypy", 
+    "pkg_version": "2.3.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-cherrypy_2.3.0-3_all.deb", 
+    "pkg": "python-cherrypy", 
+    "pkg_version": "2.3.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-cherrypy-3.5.0-1.fc22.noarch.rpm", 
+    "pkg": "python-cherrypy", 
+    "pkg_version": "3.5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-cherrypy-3.5.0-1.fc22.noarch.rpm", 
+    "pkg": "python-cherrypy", 
+    "pkg_version": "3.5.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-cherrypy-3.2.2-6.fc21.noarch.rpm", 
+    "pkg": "python-cherrypy", 
+    "pkg_version": "3.2.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-cherrypy-3.2.2-5.fc20.noarch.rpm", 
+    "pkg": "python-cherrypy", 
+    "pkg_version": "3.2.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-cherrypy-3.6.0-2-omv2015.0.noarch.rpm", 
+    "pkg": "python-cherrypy", 
+    "pkg_version": "3.6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-cherrypy-3.2.4-2-omv2014.0.noarch.rpm", 
+    "pkg": "python-cherrypy", 
+    "pkg_version": "3.2.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-cherrypy-3.2.2-1-omv2013.0.noarch.rpm", 
+    "pkg": "python-cherrypy", 
+    "pkg_version": "3.2.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-CherryPy-3.6.0-1.1.noarch.rpm", 
+    "pkg": "python-CherryPy", 
+    "pkg_version": "3.6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-cherrypy-3.2.2-1-omv2013.0.noarch.rpm", 
+    "pkg": "python-cherrypy", 
+    "pkg_version": "3.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-CherryPy-3.3.0-2.1.4.noarch.rpm", 
+    "pkg": "python-CherryPy", 
+    "pkg_version": "3.3.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-cherrypy-3.2.2-1-omv2013.0.noarch.rpm", 
+    "pkg": "python-cherrypy", 
+    "pkg_version": "3.2.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-CherryPy-3.2.2-8.1.2.noarch.rpm", 
+    "pkg": "python-CherryPy", 
+    "pkg_version": "3.2.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-cherrypy-3.2.2-1-omv2013.0.noarch.rpm", 
+    "pkg": "python-cherrypy", 
+    "pkg_version": "3.2.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-CherryPy-3.2.2-8.1.2.noarch.rpm", 
+    "pkg": "python-CherryPy", 
+    "pkg_version": "3.2.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "python-cherrypy-3.6.0-1-rosa2014.1.noarch.rpm", 
+    "pkg": "python-cherrypy", 
+    "pkg_version": "3.6.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-CherryPy-3.2.2-8.1.2.noarch.rpm", 
+    "pkg": "python-CherryPy", 
+    "pkg_version": "3.2.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "python-cherrypy-3.2.4-2-rosa2012.1.noarch.rpm", 
+    "pkg": "python-cherrypy", 
+    "pkg_version": "3.2.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-CherryPy-3.2.2-8.1.2.noarch.rpm", 
+    "pkg": "python-CherryPy", 
+    "pkg_version": "3.2.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-cherrypy_2.3.0-3build1_all.deb", 
+    "pkg": "python-cherrypy", 
+    "pkg_version": "2.3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-CherryPy-3.2.2-8.1.2.noarch.rpm", 
+    "pkg": "python-CherryPy", 
+    "pkg_version": "3.2.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-cherrypy_2.3.0-3build1_all.deb", 
+    "pkg": "python-cherrypy", 
+    "pkg_version": "2.3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

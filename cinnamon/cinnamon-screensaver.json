@@ -1,0 +1,81 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "cinnamon-screensaver-2.4.0-alt1.x86_64.rpm", 
+    "pkg": "cinnamon-screensaver", 
+    "pkg_version": "2.4.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "cinnamon-screensaver-2.4.1-1-x86_64.pkg.tar.xz", 
+    "pkg": "cinnamon-screensaver", 
+    "pkg_version": "2.4.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "cinnamon-screensaver-2.0.3-2.el7.x86_64.rpm", 
+    "pkg": "cinnamon-screensaver", 
+    "pkg_version": "2.0.3", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cinnamon-screensaver_2.2.4-6_i386.deb", 
+    "pkg": "cinnamon-screensaver", 
+    "pkg_version": "2.2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cinnamon-screensaver_2.2.4-6_i386.deb", 
+    "pkg": "cinnamon-screensaver", 
+    "pkg_version": "2.2.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "cinnamon-screensaver-2.4.1-2.fc23.x86_64.rpm", 
+    "pkg": "cinnamon-screensaver", 
+    "pkg_version": "2.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "cinnamon-screensaver-2.4.1-1.fc22.x86_64.rpm", 
+    "pkg": "cinnamon-screensaver", 
+    "pkg_version": "2.4.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "cinnamon-screensaver-2.4.0-1.fc21.x86_64.rpm", 
+    "pkg": "cinnamon-screensaver", 
+    "pkg_version": "2.4.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "cinnamon-screensaver-2.4.0-1.fc20.x86_64.rpm", 
+    "pkg": "cinnamon-screensaver", 
+    "pkg_version": "2.4.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

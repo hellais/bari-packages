@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "binutils-powerpc64le-linux-gnu_2.25-4_i386.deb", 
+    "pkg": "binutils-powerpc64le-linux-gnu", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "binutils-powerpc64le-linux-gnu_2.24.90.20141023-1_i386.deb", 
+    "pkg": "binutils-powerpc64le-linux-gnu", 
+    "pkg_version": "2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "binutils-powerpc64le-linux-gnu_2.24.90.20141014-0ubuntu2cross0.9_i386.deb", 
+    "pkg": "binutils-powerpc64le-linux-gnu", 
+    "pkg_version": "2.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

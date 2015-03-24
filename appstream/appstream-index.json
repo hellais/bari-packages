@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "appstream-index_0.7.4-2_i386.deb", 
+    "pkg": "appstream-index", 
+    "pkg_version": "0.7.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "appstream-index_0.7.3-1_i386.deb", 
+    "pkg": "appstream-index", 
+    "pkg_version": "0.7.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "appstream-index_0.7.2-1_i386.deb", 
+    "pkg": "appstream-index", 
+    "pkg_version": "0.7.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

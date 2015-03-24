@@ -1,0 +1,101 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smlnj_110.76-2_i386.deb", 
+    "pkg": "smlnj_11", 
+    "pkg_version": "0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smlnj_110.76-2_i386.deb", 
+    "pkg": "smlnj_11", 
+    "pkg_version": "0.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smlnj_110.74-2_i386.deb", 
+    "pkg": "smlnj_11", 
+    "pkg_version": "0.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "smlnj-110.74-9.2.i586.rpm", 
+    "pkg": "smlnj-11", 
+    "pkg_version": "0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smlnj_110.74-2_i386.deb", 
+    "pkg": "smlnj_11", 
+    "pkg_version": "0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "smlnj-110.74-8.1.5.i586.rpm", 
+    "pkg": "smlnj-11", 
+    "pkg_version": "0.7", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smlnj_110.74-2_i386.deb", 
+    "pkg": "smlnj_11", 
+    "pkg_version": "0.7", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "smlnj-110.74-6.1.4.i586.rpm", 
+    "pkg": "smlnj-11", 
+    "pkg_version": "0.7", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smlnj_110.74-2_i386.deb", 
+    "pkg": "smlnj_11", 
+    "pkg_version": "0.7", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "smlnj-110.74-6.1.4.i586.rpm", 
+    "pkg": "smlnj-11", 
+    "pkg_version": "0.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "smlnj_110.76-2_i386.deb", 
+    "pkg": "smlnj_11", 
+    "pkg_version": "0.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

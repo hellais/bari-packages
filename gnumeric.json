@@ -1,0 +1,216 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnumeric-1.12.21-alt1.x86_64.rpm", 
+    "pkg": "gnumeric", 
+    "pkg_version": "1.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gnumeric-1.12.20-1-x86_64.pkg.tar.xz", 
+    "pkg": "gnumeric", 
+    "pkg_version": "1.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "PUIAS", 
+    "pkg_full_name": "gnumeric-1.10.10-1.puias6.1.x86_64.rpm", 
+    "pkg": "gnumeric", 
+    "pkg_version": "1.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Scientific Linux Cyrillic Edition", 
+    "pkg_full_name": "gnumeric-1.6.3-5.Nau5x.i386.rpm", 
+    "pkg": "gnumeric", 
+    "pkg_version": "1.6.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnumeric_1.12.18-2_i386.deb", 
+    "pkg": "gnumeric", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnumeric_1.12.18-1_i386.deb", 
+    "pkg": "gnumeric", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnumeric_1.10.17-1.1_i386.deb", 
+    "pkg": "gnumeric", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnumeric-1.12.20-1.fc22.x86_64.rpm", 
+    "pkg": "gnumeric", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnumeric-1.12.20-1.fc22.x86_64.rpm", 
+    "pkg": "gnumeric", 
+    "pkg_version": "1.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "gnumeric-1.12.20-1.fc21.x86_64.rpm", 
+    "pkg": "gnumeric", 
+    "pkg_version": "1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "gnumeric-1.12.20-1.fc20.x86_64.rpm", 
+    "pkg": "gnumeric", 
+    "pkg_version": "1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gnumeric-1.12.18-2-omv2015.0.x86_64.rpm", 
+    "pkg": "gnumeric", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gnumeric-1.12.1-2-omv2014.0.x86_64.rpm", 
+    "pkg": "gnumeric", 
+    "pkg_version": "1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gnumeric-1.12.1-1-omv2013.0.x86_64.rpm", 
+    "pkg": "gnumeric", 
+    "pkg_version": "1.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gnumeric-1.12.21-1.1.x86_64.rpm", 
+    "pkg": "gnumeric", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gnumeric-1.12.18-1.7.x86_64.rpm", 
+    "pkg": "gnumeric", 
+    "pkg_version": "1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "gnumeric-1.12.7-2.5.3.x86_64.rpm", 
+    "pkg": "gnumeric", 
+    "pkg_version": "1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "gnumeric-1.12.9-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "gnumeric", 
+    "pkg_version": "1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "gnumeric-1.12.9-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "gnumeric", 
+    "pkg_version": "1.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "gnumeric-1.12.15-x86_64-1sl.txz", 
+    "pkg": "gnumeric", 
+    "pkg_version": "1.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "gnumeric-1.10.17-x86_64-2sl.txz", 
+    "pkg": "gnumeric", 
+    "pkg_version": "1.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "gnumeric-1.10.17-x86_64-1sl.txz", 
+    "pkg": "gnumeric", 
+    "pkg_version": "1.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnumeric_1.12.17-1build1_i386.deb", 
+    "pkg": "gnumeric", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnumeric_1.12.9-1_i386.deb", 
+    "pkg": "gnumeric", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

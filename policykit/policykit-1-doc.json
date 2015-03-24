@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "WTF", 
+    "pkg_full_name": "policykit-1-doc_0.105-8~wtf2_all.deb", 
+    "pkg": "policykit-1-doc", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "policykit-1-doc_0.105-8_all.deb", 
+    "pkg": "policykit-1-doc", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "policykit-1-doc_0.105-3_all.deb", 
+    "pkg": "policykit-1-doc", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Proposed Main", 
+    "pkg_full_name": "policykit-1-doc_0.105-4ubuntu2.14.10.1_all.deb", 
+    "pkg": "policykit-1-doc", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Proposed Main", 
+    "pkg_full_name": "policykit-1-doc_0.105-4ubuntu2.14.04.1_all.deb", 
+    "pkg": "policykit-1-doc", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

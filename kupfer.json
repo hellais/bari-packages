@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "kupfer-208-7.1.el6.nux.noarch.rpm", 
+    "pkg": "kupfer-208", 
+    "pkg_version": "7.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "kupfer-208-7.1.el6.nux.noarch.rpm", 
+    "pkg": "kupfer-208", 
+    "pkg_version": "7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "kupfer-208-7.1.el6.nux.noarch.rpm", 
+    "pkg": "kupfer-208", 
+    "pkg_version": "7.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "kupfer-208-7.1.el6.nux.noarch.rpm", 
+    "pkg": "kupfer-208", 
+    "pkg_version": "7.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "kupfer-208-7.1.el6.nux.noarch.rpm", 
+    "pkg": "kupfer-208", 
+    "pkg_version": "7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "kupfer-208-7.1.el6.nux.noarch.rpm", 
+    "pkg": "kupfer-208", 
+    "pkg_version": "7.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "kupfer-208-7.1.el6.nux.noarch.rpm", 
+    "pkg": "kupfer-208", 
+    "pkg_version": "7.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "kupfer-208-7.1.el6.nux.noarch.rpm", 
+    "pkg": "kupfer-208", 
+    "pkg_version": "7.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "kupfer-208-7.1.el6.nux.noarch.rpm", 
+    "pkg": "kupfer-208", 
+    "pkg_version": "7.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "kupfer-208-7.1.el6.nux.noarch.rpm", 
+    "pkg": "kupfer-208", 
+    "pkg_version": "7.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

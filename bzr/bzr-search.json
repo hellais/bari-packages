@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bzr-search_1.7.0~bzr94-3_all.deb", 
+    "pkg": "bzr-search", 
+    "pkg_version": "1.7.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bzr-search_1.7.0~bzr94-3_all.deb", 
+    "pkg": "bzr-search", 
+    "pkg_version": "1.7.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bzr-search_1.7.0~bzr94-1_all.deb", 
+    "pkg": "bzr-search", 
+    "pkg_version": "1.7.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "bzr-search_1.7.0~bzr94-3_all.deb", 
+    "pkg": "bzr-search", 
+    "pkg_version": "1.7.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "bzr-search_1.7.0~bzr94-2_all.deb", 
+    "pkg": "bzr-search", 
+    "pkg_version": "1.7.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

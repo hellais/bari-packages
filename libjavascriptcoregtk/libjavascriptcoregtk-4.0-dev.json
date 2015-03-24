@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libjavascriptcoregtk-4.0-dev_2.6.2+dfsg1-4_i386.deb", 
+    "pkg": "libjavascriptcoregtk", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

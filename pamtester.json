@@ -1,0 +1,100 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "pamtester-0.1.12-alt1.qa1.x86_64.rpm", 
+    "pkg": "pamtester", 
+    "pkg_version": "0.1.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "pamtester-0.1.2-1.el7.rf.x86_64.rpm", 
+    "pkg": "pamtester", 
+    "pkg_version": "0.1.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "pamtester-0.1.2-1.el6.rf.x86_64.rpm", 
+    "pkg": "pamtester", 
+    "pkg_version": "0.1.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "pamtester-0.1.2-1.el5.rf.x86_64.rpm", 
+    "pkg": "pamtester", 
+    "pkg_version": "0.1.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pamtester_0.1.2-2_i386.deb", 
+    "pkg": "pamtester", 
+    "pkg_version": "0.1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pamtester_0.1.2-2_i386.deb", 
+    "pkg": "pamtester", 
+    "pkg_version": "0.1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pamtester-0.1.2-6.fc22.x86_64.rpm", 
+    "pkg": "pamtester", 
+    "pkg_version": "0.1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pamtester-0.1.2-6.fc22.x86_64.rpm", 
+    "pkg": "pamtester", 
+    "pkg_version": "0.1.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pamtester-0.1.2-6.fc21.x86_64.rpm", 
+    "pkg": "pamtester", 
+    "pkg_version": "0.1.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pamtester-0.1.2-4.fc20.x86_64.rpm", 
+    "pkg": "pamtester", 
+    "pkg_version": "0.1.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "pamtester_0.1.2-1_i386.deb", 
+    "pkg": "pamtester", 
+    "pkg_version": "0.1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

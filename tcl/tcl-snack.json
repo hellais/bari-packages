@@ -1,0 +1,118 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "tcl-snack-2.2.10-alt4.qa1.x86_64.rpm", 
+    "pkg": "tcl-snack", 
+    "pkg_version": "2.2.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tcl-snack_2.2.10.20090623-dfsg-4_i386.deb", 
+    "pkg": "tcl-snack", 
+    "pkg_version": "2.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tcl-snack_2.2.10.20090623-dfsg-4_i386.deb", 
+    "pkg": "tcl-snack", 
+    "pkg_version": "2.2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "tcl-snack-2.2.10-25.fc22.x86_64.rpm", 
+    "pkg": "tcl-snack", 
+    "pkg_version": "2.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "tcl-snack-2.2.10-25.fc22.x86_64.rpm", 
+    "pkg": "tcl-snack", 
+    "pkg_version": "2.2.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "tcl-snack-2.2.10-25.fc21.x86_64.rpm", 
+    "pkg": "tcl-snack", 
+    "pkg_version": "2.2.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "tcl-snack-2.2.10-20.fc20.x86_64.rpm", 
+    "pkg": "tcl-snack", 
+    "pkg_version": "2.2.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "tcl-snack-2.2.10-9-omv2013.0.i586.rpm", 
+    "pkg": "tcl-snack", 
+    "pkg_version": "2.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "tcl-snack-2.2.10-9-omv2013.0.i586.rpm", 
+    "pkg": "tcl-snack", 
+    "pkg_version": "2.2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "tcl-snack-2.2.10-9-omv2013.0.i586.rpm", 
+    "pkg": "tcl-snack", 
+    "pkg_version": "2.2.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "tcl-snack-2.2.10-10-rosa2014.1.x86_64.rpm", 
+    "pkg": "tcl-snack", 
+    "pkg_version": "2.2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "tcl-snack-2.2.10-9-rosa2012.1.x86_64.rpm", 
+    "pkg": "tcl-snack", 
+    "pkg_version": "2.2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "tcl-snack_2.2.10.20090623-dfsg-4_i386.deb", 
+    "pkg": "tcl-snack", 
+    "pkg_version": "2.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

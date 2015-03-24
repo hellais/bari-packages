@@ -1,0 +1,281 @@
+[
+  {
+    "pkg_repo": "Russian Fedora Free Updates", 
+    "pkg_full_name": "gcompris-sound-fi-12.01-1.el6.R.noarch.rpm", 
+    "pkg": "gcompris-sound-fi-1", 
+    "pkg_version": "2.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "NauLinux School", 
+    "pkg_full_name": "gcompris-sound-fi-9.5-4.el6.noarch.rpm", 
+    "pkg": "gcompris-sound-fi", 
+    "pkg_version": "9.5", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Russian Fedora Free Updates", 
+    "pkg_full_name": "gcompris-sound-fi-12.01-1.el6.R.noarch.rpm", 
+    "pkg": "gcompris-sound-fi-1", 
+    "pkg_version": "2.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "NauLinux School", 
+    "pkg_full_name": "gcompris-sound-fi-8.3.1-2.Nau5x.i386.rpm", 
+    "pkg": "gcompris-sound-fi", 
+    "pkg_version": "8.3.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Russian Fedora Free Updates", 
+    "pkg_full_name": "gcompris-sound-fi-12.01-1.el6.R.noarch.rpm", 
+    "pkg": "gcompris-sound-fi-1", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gcompris-sound-fi_14.12-1_all.deb", 
+    "pkg": "gcompris-sound-fi_1", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NauLinux School", 
+    "pkg_full_name": "gcompris-sound-fi-8.3.1-2.Nau5x.i386.rpm", 
+    "pkg": "gcompris-sound-fi", 
+    "pkg_version": "8.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Russian Fedora Free Updates", 
+    "pkg_full_name": "gcompris-sound-fi-12.01-1.el6.R.noarch.rpm", 
+    "pkg": "gcompris-sound-fi-1", 
+    "pkg_version": "2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gcompris-sound-fi_14.12-1_all.deb", 
+    "pkg": "gcompris-sound-fi_1", 
+    "pkg_version": "4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NauLinux School", 
+    "pkg_full_name": "gcompris-sound-fi-8.3.1-2.Nau5x.i386.rpm", 
+    "pkg": "gcompris-sound-fi", 
+    "pkg_version": "8.3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Russian Fedora Free Updates", 
+    "pkg_full_name": "gcompris-sound-fi-12.01-1.el6.R.noarch.rpm", 
+    "pkg": "gcompris-sound-fi-1", 
+    "pkg_version": "2.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gcompris-sound-fi_12.01-1_all.deb", 
+    "pkg": "gcompris-sound-fi_1", 
+    "pkg_version": "2.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NauLinux School", 
+    "pkg_full_name": "gcompris-sound-fi-8.3.1-2.Nau5x.i386.rpm", 
+    "pkg": "gcompris-sound-fi", 
+    "pkg_version": "8.3.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gcompris-sound-fi-15.02-1.fc23.noarch.rpm", 
+    "pkg": "gcompris-sound-fi-1", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gcompris-sound-fi_12.01-1_all.deb", 
+    "pkg": "gcompris-sound-fi_1", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "NauLinux School", 
+    "pkg_full_name": "gcompris-sound-fi-8.3.1-2.Nau5x.i386.rpm", 
+    "pkg": "gcompris-sound-fi", 
+    "pkg_version": "8.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gcompris-sound-fi-14.12-1.fc22.noarch.rpm", 
+    "pkg": "gcompris-sound-fi-1", 
+    "pkg_version": "4.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gcompris-sound-fi_12.01-1_all.deb", 
+    "pkg": "gcompris-sound-fi_1", 
+    "pkg_version": "2.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "NauLinux School", 
+    "pkg_full_name": "gcompris-sound-fi-8.3.1-2.Nau5x.i386.rpm", 
+    "pkg": "gcompris-sound-fi", 
+    "pkg_version": "8.3.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "gcompris-sound-fi-14.12-1.fc21.noarch.rpm", 
+    "pkg": "gcompris-sound-fi-1", 
+    "pkg_version": "4.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gcompris-sound-fi_12.01-1_all.deb", 
+    "pkg": "gcompris-sound-fi_1", 
+    "pkg_version": "2.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "NauLinux School", 
+    "pkg_full_name": "gcompris-sound-fi-8.3.1-2.Nau5x.i386.rpm", 
+    "pkg": "gcompris-sound-fi", 
+    "pkg_version": "8.3.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "gcompris-sound-fi-14.05-1.fc20.noarch.rpm", 
+    "pkg": "gcompris-sound-fi-1", 
+    "pkg_version": "4.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gcompris-sound-fi_12.01-1_all.deb", 
+    "pkg": "gcompris-sound-fi_1", 
+    "pkg_version": "2.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "NauLinux School", 
+    "pkg_full_name": "gcompris-sound-fi-8.3.1-2.Nau5x.i386.rpm", 
+    "pkg": "gcompris-sound-fi", 
+    "pkg_version": "8.3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "gcompris-sound-fi-14.05-1.fc20.noarch.rpm", 
+    "pkg": "gcompris-sound-fi-1", 
+    "pkg_version": "4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gcompris-sound-fi_14.05-1_all.deb", 
+    "pkg": "gcompris-sound-fi_1", 
+    "pkg_version": "4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "NauLinux School", 
+    "pkg_full_name": "gcompris-sound-fi-8.3.1-2.Nau5x.i386.rpm", 
+    "pkg": "gcompris-sound-fi", 
+    "pkg_version": "8.3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "gcompris-sound-fi-14.05-1.fc20.noarch.rpm", 
+    "pkg": "gcompris-sound-fi-1", 
+    "pkg_version": "4.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gcompris-sound-fi_13.11-1_all.deb", 
+    "pkg": "gcompris-sound-fi_1", 
+    "pkg_version": "3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "NauLinux School", 
+    "pkg_full_name": "gcompris-sound-fi-8.3.1-2.Nau5x.i386.rpm", 
+    "pkg": "gcompris-sound-fi", 
+    "pkg_version": "8.3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

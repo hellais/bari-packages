@@ -1,0 +1,218 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "adduser_3.113+nmu3_all.deb", 
+    "pkg": "adduser", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "adduser_3.113+nmu3_all.deb", 
+    "pkg": "adduser", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "adduser_3.113+nmu3_all.deb", 
+    "pkg": "adduser", 
+    "pkg_version": "3.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "shadow-utils-4.1.5.1-6.mga4.x86_64.rpm", 
+    "pkg": "shadow-utils", 
+    "pkg_version": "4.1.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "shadow-4.2.1-13-omv2015.0.x86_64.rpm", 
+    "pkg": "shadow", 
+    "pkg_version": "4.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "adduser_3.113+nmu3_all.deb", 
+    "pkg": "adduser", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "shadow-utils-4.1.5.1-13-omv2014.0.x86_64.rpm", 
+    "pkg": "shadow-utils", 
+    "pkg_version": "4.1.5.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "shadow-4.2.1-13-omv2015.0.x86_64.rpm", 
+    "pkg": "shadow", 
+    "pkg_version": "4.2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "adduser_3.113+nmu3_all.deb", 
+    "pkg": "adduser", 
+    "pkg_version": "3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "shadow-utils-4.1.5.1-8-omv2013.0.x86_64.rpm", 
+    "pkg": "shadow-utils", 
+    "pkg_version": "4.1.5.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "shadow-4.2.1-13-omv2015.0.x86_64.rpm", 
+    "pkg": "shadow", 
+    "pkg_version": "4.2.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "adduser_3.113+nmu3_all.deb", 
+    "pkg": "adduser", 
+    "pkg_version": "3.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "shadow-utils-4.1.5.1-14-rosa2014.1.x86_64.rpm", 
+    "pkg": "shadow-utils", 
+    "pkg_version": "4.1.5.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "shadow-4.2.1-13-omv2015.0.x86_64.rpm", 
+    "pkg": "shadow", 
+    "pkg_version": "4.2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "adduser_3.113+nmu3_all.deb", 
+    "pkg": "adduser", 
+    "pkg_version": "3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "shadow-utils-4.1.5.1-6-rosa2012.1.x86_64.rpm", 
+    "pkg": "shadow-utils", 
+    "pkg_version": "4.1.5.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "shadow-4.2.1-13-omv2015.0.x86_64.rpm", 
+    "pkg": "shadow", 
+    "pkg_version": "4.2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "adduser_3.113+nmu3_all.deb", 
+    "pkg": "adduser", 
+    "pkg_version": "3.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "shadow-utils-4.1.4.2-12-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "shadow-utils", 
+    "pkg_version": "4.1.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "shadow-4.2.1-13-omv2015.0.x86_64.rpm", 
+    "pkg": "shadow", 
+    "pkg_version": "4.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "adduser_3.113+nmu3ubuntu3_all.deb", 
+    "pkg": "adduser", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "shadow-utils-4.1.4.2-12-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "shadow-utils", 
+    "pkg_version": "4.1.4.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "shadow-4.2.1-13-omv2015.0.x86_64.rpm", 
+    "pkg": "shadow", 
+    "pkg_version": "4.2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "adduser_3.113+nmu3ubuntu3_all.deb", 
+    "pkg": "adduser", 
+    "pkg_version": "3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-glob-doc_0.7.5-1_all.deb", 
+    "pkg": "libghc-glob-doc", 
+    "pkg_version": "0.7.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

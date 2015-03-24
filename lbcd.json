@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "lbcd-3.3.0-3.puias6.x86_64.rpm", 
+    "pkg": "lbcd", 
+    "pkg_version": "3.3.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lbcd_3.5.1-2+b1_i386.deb", 
+    "pkg": "lbcd", 
+    "pkg_version": "3.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lbcd_3.5.1-2+b1_i386.deb", 
+    "pkg": "lbcd", 
+    "pkg_version": "3.5.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lbcd_3.3.0-1_i386.deb", 
+    "pkg": "lbcd", 
+    "pkg_version": "3.3.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "lbcd_3.5.0-3_i386.deb", 
+    "pkg": "lbcd", 
+    "pkg_version": "3.5.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "lbcd_3.5.0-3_i386.deb", 
+    "pkg": "lbcd", 
+    "pkg_version": "3.5.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

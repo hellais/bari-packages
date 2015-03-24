@@ -1,0 +1,100 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gpp-2.24-alt1.qa1.x86_64.rpm", 
+    "pkg": "gpp", 
+    "pkg_version": "2.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "gpp-0.7.0-1.x86_64.rpm", 
+    "pkg": "gpp", 
+    "pkg_version": "0.7.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gpp_2.24-3_i386.deb", 
+    "pkg": "gpp", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gpp_2.24-3_i386.deb", 
+    "pkg": "gpp", 
+    "pkg_version": "2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gpp_2.24-3_i386.deb", 
+    "pkg": "gpp", 
+    "pkg_version": "2.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gpp-0.7.0-12.fc22.x86_64.rpm", 
+    "pkg": "gpp", 
+    "pkg_version": "0.7.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gpp-0.7.0-12.fc22.x86_64.rpm", 
+    "pkg": "gpp", 
+    "pkg_version": "0.7.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gpp-0.7.0-12.fc21.x86_64.rpm", 
+    "pkg": "gpp", 
+    "pkg_version": "0.7.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gpp-0.7.0-10.fc20.x86_64.rpm", 
+    "pkg": "gpp", 
+    "pkg_version": "0.7.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gpp_2.24-3_i386.deb", 
+    "pkg": "gpp", 
+    "pkg_version": "2.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gpp_2.24-3_i386.deb", 
+    "pkg": "gpp", 
+    "pkg_version": "2.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

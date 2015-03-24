@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "krita-sketch_2.8.5+dfsg-1+b2_amd64.deb", 
+    "pkg": "krita-sketch", 
+    "pkg_version": "2.8.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

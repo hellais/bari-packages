@@ -1,0 +1,91 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xgridfit-2.2-alt3_11.a.20100725cvs.noarch.rpm", 
+    "pkg": "xgridfit", 
+    "pkg_version": "2.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xgridfit_2.3-1_all.deb", 
+    "pkg": "xgridfit", 
+    "pkg_version": "2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xgridfit_2.3-1_all.deb", 
+    "pkg": "xgridfit", 
+    "pkg_version": "2.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xgridfit_2.2a-2_all.deb", 
+    "pkg": "xgridfit", 
+    "pkg_version": "2.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xgridfit-2.2-11.a.20100725cvs.fc21.noarch.rpm", 
+    "pkg": "xgridfit", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xgridfit-2.2-11.a.20100725cvs.fc21.noarch.rpm", 
+    "pkg": "xgridfit", 
+    "pkg_version": "2.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xgridfit-2.2-11.a.20100725cvs.fc21.noarch.rpm", 
+    "pkg": "xgridfit", 
+    "pkg_version": "2.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xgridfit-2.2-10.a.20100725cvs.fc20.noarch.rpm", 
+    "pkg": "xgridfit", 
+    "pkg_version": "2.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xgridfit_2.3-1_all.deb", 
+    "pkg": "xgridfit", 
+    "pkg_version": "2.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xgridfit_2.3-1_all.deb", 
+    "pkg": "xgridfit", 
+    "pkg_version": "2.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

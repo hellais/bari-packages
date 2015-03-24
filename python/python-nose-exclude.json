@@ -1,0 +1,101 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-nose-exclude-0.1.9-3.el7.noarch.rpm", 
+    "pkg": "python-nose-exclude", 
+    "pkg_version": "0.1.9", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-nose-exclude_0.2.0-3_all.deb", 
+    "pkg": "python-nose-exclude", 
+    "pkg_version": "0.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-nose-exclude_0.2.0-3_all.deb", 
+    "pkg": "python-nose-exclude", 
+    "pkg_version": "0.2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-nose-exclude-0.2.0-3.fc21.noarch.rpm", 
+    "pkg": "python-nose-exclude", 
+    "pkg_version": "0.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-nose-exclude-0.2.0-3.fc21.noarch.rpm", 
+    "pkg": "python-nose-exclude", 
+    "pkg_version": "0.2.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-nose-exclude-0.2.0-3.fc21.noarch.rpm", 
+    "pkg": "python-nose-exclude", 
+    "pkg_version": "0.2.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-nose-exclude-0.1.10-1.fc20.noarch.rpm", 
+    "pkg": "python-nose-exclude", 
+    "pkg_version": "0.1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-nose-exclude-0.1.10-5.2.noarch.rpm", 
+    "pkg": "python-nose-exclude", 
+    "pkg_version": "0.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-nose-exclude-0.1.10-4.1.4.noarch.rpm", 
+    "pkg": "python-nose-exclude", 
+    "pkg_version": "0.1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-nose-exclude-0.1.10-2.1.2.noarch.rpm", 
+    "pkg": "python-nose-exclude", 
+    "pkg_version": "0.1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-nose-exclude_0.2.0-3_all.deb", 
+    "pkg": "python-nose-exclude", 
+    "pkg_version": "0.2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

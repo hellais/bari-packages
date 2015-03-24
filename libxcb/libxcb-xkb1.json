@@ -1,0 +1,83 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libxcb-xkb1_1.10-3+b1_i386.deb", 
+    "pkg": "libxcb-xkb1", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libxcb-xkb1_1.10-3+b1_i386.deb", 
+    "pkg": "libxcb-xkb1", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "libxcb-xkb1_1.10-3~bpo70+1_i386.deb", 
+    "pkg": "libxcb-xkb1", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libxcb-xkb1-1.11-3-omv2015.0.i586.rpm", 
+    "pkg": "libxcb-xkb1", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libxcb-xkb1-1.10-4-omv2014.0.i586.rpm", 
+    "pkg": "libxcb-xkb1", 
+    "pkg_version": "1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libxcb-xkb1-1.11-3.2.x86_64.rpm", 
+    "pkg": "libxcb-xkb1", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libxcb-xkb1-1.11-2.1.2.x86_64.rpm", 
+    "pkg": "libxcb-xkb1", 
+    "pkg_version": "1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libxcb-xkb1-1.10-4-rosa2014.1.i586.rpm", 
+    "pkg": "libxcb-xkb1", 
+    "pkg_version": "1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libxcb-xkb1_1.10-2ubuntu1_i386.deb", 
+    "pkg": "libxcb-xkb1", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

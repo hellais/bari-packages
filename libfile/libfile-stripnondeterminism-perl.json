@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libfile-stripnondeterminism-perl_0.005-2_all.deb", 
+    "pkg": "libfile-stripnondeterminism-perl", 
+    "pkg_version": "0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

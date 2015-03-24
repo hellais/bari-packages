@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libfcgi-ruby1.9.1_0.9.2.1-1_all.deb", 
+    "pkg": "libfcgi-ruby", 
+    "pkg_version": "1.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-fcgi_0.9.2.1-1+b3_i386.deb", 
+    "pkg": "ruby-fcgi", 
+    "pkg_version": "0.9.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libfcgi-ruby1.9.1_0.9.2.1-1_all.deb", 
+    "pkg": "libfcgi-ruby", 
+    "pkg_version": "1.9.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-fcgi_0.9.2.1-1+b3_i386.deb", 
+    "pkg": "ruby-fcgi", 
+    "pkg_version": "0.9.2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libfcgi-ruby1.9.1_0.8.8-1_i386.deb", 
+    "pkg": "libfcgi-ruby", 
+    "pkg_version": "1.9.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-fcgi_0.9.2.1-1+b3_i386.deb", 
+    "pkg": "ruby-fcgi", 
+    "pkg_version": "0.9.2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libfcgi-ruby1.9.1_0.9.2.1-1build1_all.deb", 
+    "pkg": "libfcgi-ruby", 
+    "pkg_version": "1.9.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ruby-fcgi_0.9.2.1-1build1_i386.deb", 
+    "pkg": "ruby-fcgi", 
+    "pkg_version": "0.9.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libfcgi-ruby1.9.1_0.9.2.1-1_all.deb", 
+    "pkg": "libfcgi-ruby", 
+    "pkg_version": "1.9.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ruby-fcgi_0.9.2.1-1_i386.deb", 
+    "pkg": "ruby-fcgi", 
+    "pkg_version": "0.9.2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

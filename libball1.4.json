@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libball1.4_1.4.2+20140406-1+b2_i386.deb", 
+    "pkg": "libball", 
+    "pkg_version": "1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libball1.4_1.4.2+20140406-1+b2_i386.deb", 
+    "pkg": "libball", 
+    "pkg_version": "1.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libball1.4_1.4.1+20111206-4_i386.deb", 
+    "pkg": "libball", 
+    "pkg_version": "1.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libball1.4_1.4.2+20140406-1_i386.deb", 
+    "pkg": "libball", 
+    "pkg_version": "1.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "febootstrap-2.7-1.el6.x86_64.rpm", 
+    "pkg": "febootstrap", 
+    "pkg_version": "2.7", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "febootstrap-3.20-1.el5.x86_64.rpm", 
+    "pkg": "febootstrap", 
+    "pkg_version": "3.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "febootstrap_5.1.12-2_all.deb", 
+    "pkg": "febootstrap", 
+    "pkg_version": "5.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "febootstrap_5.1.11-1_all.deb", 
+    "pkg": "febootstrap", 
+    "pkg_version": "5.1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "febootstrap_3.17-1_i386.deb", 
+    "pkg": "febootstrap", 
+    "pkg_version": "3.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "febootstrap_5.1.9-1ubuntu2_all.deb", 
+    "pkg": "febootstrap", 
+    "pkg_version": "5.1.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "febootstrap_4.1.6-1_all.deb", 
+    "pkg": "febootstrap", 
+    "pkg_version": "4.1.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

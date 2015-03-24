@@ -1,0 +1,101 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "maxima-src-5.23.2-1.el6.x86_64.rpm", 
+    "pkg": "maxima-src", 
+    "pkg_version": "5.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "maxima-src-5.20.1-4.el5.x86_64.rpm", 
+    "pkg": "maxima-src", 
+    "pkg_version": "5.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "maxima-src_5.35.1-1_all.deb", 
+    "pkg": "maxima-src", 
+    "pkg_version": "5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "maxima-src_5.34.1-2_all.deb", 
+    "pkg": "maxima-src", 
+    "pkg_version": "5.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "maxima-src_5.27.0-3_all.deb", 
+    "pkg": "maxima-src", 
+    "pkg_version": "5.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "maxima-src-5.35.1-4.fc23.x86_64.rpm", 
+    "pkg": "maxima-src", 
+    "pkg_version": "5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "maxima-src-5.35.1-4.fc22.x86_64.rpm", 
+    "pkg": "maxima-src", 
+    "pkg_version": "5.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "maxima-src-5.34.1-1.fc21.x86_64.rpm", 
+    "pkg": "maxima-src", 
+    "pkg_version": "5.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "maxima-src-5.31.3-1.fc20.x86_64.rpm", 
+    "pkg": "maxima-src", 
+    "pkg_version": "5.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "maxima-src_5.33.0-14_all.deb", 
+    "pkg": "maxima-src", 
+    "pkg_version": "5.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "maxima-src_5.32.1-1_all.deb", 
+    "pkg": "maxima-src", 
+    "pkg_version": "5.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

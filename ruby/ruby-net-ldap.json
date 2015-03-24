@@ -1,0 +1,55 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-net-ldap-1.1.0-alt1.2.noarch.rpm", 
+    "pkg": "ruby-net-ldap", 
+    "pkg_version": "1.1.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-net-ldap_0.8.0-1_all.deb", 
+    "pkg": "ruby-net-ldap", 
+    "pkg_version": "0.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-net-ldap_0.8.0-1_all.deb", 
+    "pkg": "ruby-net-ldap", 
+    "pkg_version": "0.8.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-net-ldap_0.3.1-2_all.deb", 
+    "pkg": "ruby-net-ldap", 
+    "pkg_version": "0.3.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ruby-net-ldap_0.3.1-3build1_all.deb", 
+    "pkg": "ruby-net-ldap", 
+    "pkg_version": "0.3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ruby-net-ldap_0.3.1-3_all.deb", 
+    "pkg": "ruby-net-ldap", 
+    "pkg_version": "0.3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

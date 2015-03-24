@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libparted2_3.2-7_i386.deb", 
+    "pkg": "libparted2", 
+    "pkg_version": "3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libparted2_3.2-6_i386.deb", 
+    "pkg": "libparted2", 
+    "pkg_version": "3.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libparted2-3.2-3-omv2015.0.i586.rpm", 
+    "pkg": "libparted2", 
+    "pkg_version": "3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libparted2-3.1-7-omv2014.0.i586.rpm", 
+    "pkg": "libparted2", 
+    "pkg_version": "3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libparted2-3.1-6-omv2013.0.i586.rpm", 
+    "pkg": "libparted2", 
+    "pkg_version": "3.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libparted2-3.1-7-rosa2014.1.i586.rpm", 
+    "pkg": "libparted2", 
+    "pkg_version": "3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "libparted2-3.1-5-rosa2012.1.i586.rpm", 
+    "pkg": "libparted2", 
+    "pkg_version": "3.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

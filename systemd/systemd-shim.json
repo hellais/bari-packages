@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "systemd-shim_8-1ubuntu0.1_i386.deb", 
+    "pkg": "systemd-shim_8-1ubuntu", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcpan-meta-perl_2.142690-1_all.deb", 
+    "pkg": "libcpan-meta-perl", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "perl-modules_5.20.2-2_all.deb", 
+    "pkg": "perl-modules", 
+    "pkg_version": "5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcpan-meta-perl_2.142690-1_all.deb", 
+    "pkg": "libcpan-meta-perl", 
+    "pkg_version": "2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "perl-modules_5.20.2-2_all.deb", 
+    "pkg": "perl-modules", 
+    "pkg_version": "5.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcpan-meta-perl_2.120921-1_all.deb", 
+    "pkg": "libcpan-meta-perl", 
+    "pkg_version": "2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "perl-modules_5.14.2-21+deb7u2_all.deb", 
+    "pkg": "perl-modules", 
+    "pkg_version": "5.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libcpan-meta-perl_2.142060-1_all.deb", 
+    "pkg": "libcpan-meta-perl", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "perl-modules_5.20.1-1_all.deb", 
+    "pkg": "perl-modules", 
+    "pkg_version": "5.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libcpan-meta-perl_2.133380-2_all.deb", 
+    "pkg": "libcpan-meta-perl", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "perl-modules_5.18.2-2ubuntu1_all.deb", 
+    "pkg": "perl-modules", 
+    "pkg_version": "5.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

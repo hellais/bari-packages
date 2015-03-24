@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-mersenne-random-pure64-prof_0.2.0.4-1_i386.deb", 
+    "pkg": "libghc-mersenne-random-pure64-prof", 
+    "pkg_version": "0.2.0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-mersenne-random-pure64-prof_0.2.0.4-1_i386.deb", 
+    "pkg": "libghc-mersenne-random-pure64-prof", 
+    "pkg_version": "0.2.0.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-mersenne-random-pure64-prof_0.2.0.4-1_i386.deb", 
+    "pkg": "libghc-mersenne-random-pure64-prof", 
+    "pkg_version": "0.2.0.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

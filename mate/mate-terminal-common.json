@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mate-terminal-common_1.8.1+dfsg1-4_all.deb", 
+    "pkg": "mate-terminal-common", 
+    "pkg_version": "1.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mate-terminal-common_1.8.1+dfsg1-4_all.deb", 
+    "pkg": "mate-terminal-common", 
+    "pkg_version": "1.8.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "mate-terminal-common_1.8.0+dfsg1-3~bpo70+1_all.deb", 
+    "pkg": "mate-terminal-common", 
+    "pkg_version": "1.8.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

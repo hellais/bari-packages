@@ -1,0 +1,415 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "scala-2.11.6-2-any.pkg.tar.xz", 
+    "pkg": "scala", 
+    "pkg_version": "2.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "scala29-2.9.3-1.jpp6.noarch.rpm", 
+    "pkg": "scala29", 
+    "pkg_version": "2.9.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "scala28-2.8.1-4.jpp6.noarch.rpm", 
+    "pkg": "scala28", 
+    "pkg_version": "2.8.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "scala-2.11.6-2-any.pkg.tar.xz", 
+    "pkg": "scala", 
+    "pkg_version": "2.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "scala29-2.9.3-1.jpp6.noarch.rpm", 
+    "pkg": "scala29", 
+    "pkg_version": "2.9.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "scala28-2.8.1-4.jpp6.noarch.rpm", 
+    "pkg": "scala28", 
+    "pkg_version": "2.8.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "scala-2.11.6-2-any.pkg.tar.xz", 
+    "pkg": "scala", 
+    "pkg_version": "2.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "scala29-2.9.3-1.jpp6.noarch.rpm", 
+    "pkg": "scala29", 
+    "pkg_version": "2.9.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "scala28-2.8.1-4.jpp6.noarch.rpm", 
+    "pkg": "scala28", 
+    "pkg_version": "2.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scala_2.9.2+dfsg-2_all.deb", 
+    "pkg": "scala", 
+    "pkg_version": "2.9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "scala29-2.9.3-1.jpp6.noarch.rpm", 
+    "pkg": "scala29", 
+    "pkg_version": "2.9.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "scala28-2.8.1-4.jpp6.noarch.rpm", 
+    "pkg": "scala28", 
+    "pkg_version": "2.8.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scala_2.9.2+dfsg-2_all.deb", 
+    "pkg": "scala", 
+    "pkg_version": "2.9.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "scala29-2.9.3-1.jpp6.noarch.rpm", 
+    "pkg": "scala29", 
+    "pkg_version": "2.9.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "scala28-2.8.1-4.jpp6.noarch.rpm", 
+    "pkg": "scala28", 
+    "pkg_version": "2.8.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scala_2.9.2+dfsg-1_all.deb", 
+    "pkg": "scala", 
+    "pkg_version": "2.9.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "scala29-2.9.3-1.jpp6.noarch.rpm", 
+    "pkg": "scala29", 
+    "pkg_version": "2.9.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "scala28-2.8.1-4.jpp6.noarch.rpm", 
+    "pkg": "scala28", 
+    "pkg_version": "2.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "scala-2.10.4-2.fc22.noarch.rpm", 
+    "pkg": "scala", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "scala29-2.9.3-1.jpp6.noarch.rpm", 
+    "pkg": "scala29", 
+    "pkg_version": "2.9.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "scala28-2.8.1-4.jpp6.noarch.rpm", 
+    "pkg": "scala28", 
+    "pkg_version": "2.8.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "scala-2.10.4-2.fc22.noarch.rpm", 
+    "pkg": "scala", 
+    "pkg_version": "2.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "scala29-2.9.3-1.jpp6.noarch.rpm", 
+    "pkg": "scala29", 
+    "pkg_version": "2.9.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "scala28-2.8.1-4.jpp6.noarch.rpm", 
+    "pkg": "scala28", 
+    "pkg_version": "2.8.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "scala-2.10.3-11.fc21.noarch.rpm", 
+    "pkg": "scala", 
+    "pkg_version": "2.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "scala29-2.9.3-1.jpp6.noarch.rpm", 
+    "pkg": "scala29", 
+    "pkg_version": "2.9.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "scala28-2.8.1-4.jpp6.noarch.rpm", 
+    "pkg": "scala28", 
+    "pkg_version": "2.8.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "scala-2.10.3-8.fc20.noarch.rpm", 
+    "pkg": "scala", 
+    "pkg_version": "2.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "scala29-2.9.3-1.jpp6.noarch.rpm", 
+    "pkg": "scala29", 
+    "pkg_version": "2.9.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "scala28-2.8.1-4.jpp6.noarch.rpm", 
+    "pkg": "scala28", 
+    "pkg_version": "2.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "scala-2.10.4-3.3-omv2015.0.noarch.rpm", 
+    "pkg": "scala", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "scala29-2.9.3-1.jpp6.noarch.rpm", 
+    "pkg": "scala29", 
+    "pkg_version": "2.9.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "scala28-2.8.1-4.jpp6.noarch.rpm", 
+    "pkg": "scala28", 
+    "pkg_version": "2.8.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "scala-2.10.4-3.3-omv2015.0.noarch.rpm", 
+    "pkg": "scala", 
+    "pkg_version": "2.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "scala29-2.9.3-1.jpp6.noarch.rpm", 
+    "pkg": "scala29", 
+    "pkg_version": "2.9.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "scala28-2.8.1-4.jpp6.noarch.rpm", 
+    "pkg": "scala28", 
+    "pkg_version": "2.8.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "scala-2.10.4-3.3-omv2015.0.noarch.rpm", 
+    "pkg": "scala", 
+    "pkg_version": "2.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "scala29-2.9.3-1.jpp6.noarch.rpm", 
+    "pkg": "scala29", 
+    "pkg_version": "2.9.3", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "scala28-2.8.1-4.jpp6.noarch.rpm", 
+    "pkg": "scala28", 
+    "pkg_version": "2.8.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "scala-2.8.1-noarch-1cd.txz", 
+    "pkg": "scala", 
+    "pkg_version": "2.8.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "scala29-2.9.3-1.jpp6.noarch.rpm", 
+    "pkg": "scala29", 
+    "pkg_version": "2.9.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "scala28-2.8.1-4.jpp6.noarch.rpm", 
+    "pkg": "scala28", 
+    "pkg_version": "2.8.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "scala_2.9.2+dfsg-2_all.deb", 
+    "pkg": "scala", 
+    "pkg_version": "2.9.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "scala29-2.9.3-1.jpp6.noarch.rpm", 
+    "pkg": "scala29", 
+    "pkg_version": "2.9.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "scala28-2.8.1-4.jpp6.noarch.rpm", 
+    "pkg": "scala28", 
+    "pkg_version": "2.8.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "scala_2.9.2+dfsg-2_all.deb", 
+    "pkg": "scala", 
+    "pkg_version": "2.9.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

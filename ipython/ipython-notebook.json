@@ -1,0 +1,190 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "ipython-notebook-3.0.0-4-any.pkg.tar.xz", 
+    "pkg": "ipython-notebook", 
+    "pkg_version": "3.0.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "ipython-notebook-3.0.0-4-any.pkg.tar.xz", 
+    "pkg": "ipython-notebook", 
+    "pkg_version": "3.0.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "python-ipython-notebook-0.13.2-6.el6.noarch.rpm", 
+    "pkg": "python-ipython-notebook", 
+    "pkg_version": "0.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ipython-notebook_2.3.0-2_all.deb", 
+    "pkg": "ipython-notebook", 
+    "pkg_version": "2.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "python-ipython-notebook-0.13.2-6.el6.noarch.rpm", 
+    "pkg": "python-ipython-notebook", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ipython-notebook_2.3.0-2_all.deb", 
+    "pkg": "ipython-notebook", 
+    "pkg_version": "2.3.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "python-ipython-notebook-0.13.2-6.el6.noarch.rpm", 
+    "pkg": "python-ipython-notebook", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ipython-notebook_0.13.1-2+deb7u1_all.deb", 
+    "pkg": "ipython-notebook", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "python-ipython-notebook-0.13.2-6.el6.noarch.rpm", 
+    "pkg": "python-ipython-notebook", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ipython-notebook_0.13.1-2+deb7u1_all.deb", 
+    "pkg": "ipython-notebook", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-ipython-notebook-2.4.1-1.fc23.noarch.rpm", 
+    "pkg": "python-ipython-notebook", 
+    "pkg_version": "2.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ipython-notebook_0.13.1-2+deb7u1_all.deb", 
+    "pkg": "ipython-notebook", 
+    "pkg_version": "0.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-ipython-notebook-2.3.0-1.fc22.noarch.rpm", 
+    "pkg": "python-ipython-notebook", 
+    "pkg_version": "2.3.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ipython-notebook_0.13.1-2+deb7u1_all.deb", 
+    "pkg": "ipython-notebook", 
+    "pkg_version": "0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "python-ipython-notebook-2.4.1-1.fc21.noarch.rpm", 
+    "pkg": "python-ipython-notebook", 
+    "pkg_version": "2.4.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ipython-notebook_0.13.1-2+deb7u1_all.deb", 
+    "pkg": "ipython-notebook", 
+    "pkg_version": "0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python-ipython-notebook-0.13.2-4.fc20.noarch.rpm", 
+    "pkg": "python-ipython-notebook", 
+    "pkg_version": "0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ipython-notebook_2.3.0-1_all.deb", 
+    "pkg": "ipython-notebook", 
+    "pkg_version": "2.3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python-ipython-notebook-0.13.2-4.fc20.noarch.rpm", 
+    "pkg": "python-ipython-notebook", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ipython-notebook_1.2.1-2_all.deb", 
+    "pkg": "ipython-notebook", 
+    "pkg_version": "1.2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python-ipython-notebook-0.13.2-4.fc20.noarch.rpm", 
+    "pkg": "python-ipython-notebook", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

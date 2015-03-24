@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "netscript-2.4_5.4.10_all.deb", 
+    "pkg": "netscript", 
+    "pkg_version": "2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ifupdown_0.7.53.1_i386.deb", 
+    "pkg": "ifupdown", 
+    "pkg_version": "0.7.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "netscript-2.4_5.4.10_all.deb", 
+    "pkg": "netscript", 
+    "pkg_version": "2.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ifupdown_0.7.53.1_i386.deb", 
+    "pkg": "ifupdown", 
+    "pkg_version": "0.7.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "netscript-2.4_5.2.12_all.deb", 
+    "pkg": "netscript", 
+    "pkg_version": "2.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ifupdown_0.7.8_i386.deb", 
+    "pkg": "ifupdown", 
+    "pkg_version": "0.7.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "netscript-2.4-upstart_5.3.0ubuntu1_all.deb", 
+    "pkg": "netscript", 
+    "pkg_version": "2.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "ifupdown_0.7.48.1ubuntu5_i386.deb", 
+    "pkg": "ifupdown", 
+    "pkg_version": "0.7.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "netscript-2.4-upstart_5.3.0ubuntu1_all.deb", 
+    "pkg": "netscript", 
+    "pkg_version": "2.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "ifupdown_0.7.47.2ubuntu4.1_i386.deb", 
+    "pkg": "ifupdown", 
+    "pkg_version": "0.7.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

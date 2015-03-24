@@ -1,0 +1,173 @@
+[
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "xpaint-2.9.8.2-1.el7.x86_64.rpm", 
+    "pkg": "xpaint", 
+    "pkg_version": "2.9.8.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "xpaint-2.9.9.4-1.el6.x86_64.rpm", 
+    "pkg": "xpaint", 
+    "pkg_version": "2.9.9.4", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "xpaint-2.9.8.2-1.el5.x86_64.rpm", 
+    "pkg": "xpaint", 
+    "pkg_version": "2.9.8.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xpaint_2.9.1.4-3.1+b2_i386.deb", 
+    "pkg": "xpaint", 
+    "pkg_version": "2.9.1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xpaint_2.9.1.4-3.1+b2_i386.deb", 
+    "pkg": "xpaint", 
+    "pkg_version": "2.9.1.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xpaint_2.9.1.4-3+b2_i386.deb", 
+    "pkg": "xpaint", 
+    "pkg_version": "2.9.1.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xpaint-2.9.9.4-3.fc22.x86_64.rpm", 
+    "pkg": "xpaint", 
+    "pkg_version": "2.9.9.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xpaint-2.9.9.4-3.fc22.x86_64.rpm", 
+    "pkg": "xpaint", 
+    "pkg_version": "2.9.9.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xpaint-2.9.9.4-3.fc21.x86_64.rpm", 
+    "pkg": "xpaint", 
+    "pkg_version": "2.9.9.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xpaint-2.9.9.4-1.fc20.x86_64.rpm", 
+    "pkg": "xpaint", 
+    "pkg_version": "2.9.9.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "xpaint-2.9.10.3-1.1.x86_64.rpm", 
+    "pkg": "xpaint", 
+    "pkg_version": "2.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "xpaint-2.9.10.3-1.1.x86_64.rpm", 
+    "pkg": "xpaint", 
+    "pkg_version": "2.9.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "xpaint-2.9.10.2-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "xpaint", 
+    "pkg_version": "2.9.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "xpaint-2.9.10.2-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "xpaint", 
+    "pkg_version": "2.9.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "xpaint-2.8.16-x86_64-1.txz", 
+    "pkg": "xpaint", 
+    "pkg_version": "2.8.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "xpaint-2.8.16-x86_64-1.txz", 
+    "pkg": "xpaint", 
+    "pkg_version": "2.8.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "xpaint-2.8.16-x86_64-1.txz", 
+    "pkg": "xpaint", 
+    "pkg_version": "2.8.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xpaint_2.9.1.4-3.1_i386.deb", 
+    "pkg": "xpaint", 
+    "pkg_version": "2.9.1.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xpaint_2.9.1.4-3ubuntu1_i386.deb", 
+    "pkg": "xpaint", 
+    "pkg_version": "2.9.1.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

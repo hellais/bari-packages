@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcppunit-subunit0_0.0.18-4_i386.deb", 
+    "pkg": "libcppunit-subunit0", 
+    "pkg_version": "0.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcppunit-subunit0_0.0.18-4_i386.deb", 
+    "pkg": "libcppunit-subunit0", 
+    "pkg_version": "0.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcppunit-subunit0_0.0.8+bzr176-1_i386.deb", 
+    "pkg": "libcppunit-subunit0", 
+    "pkg_version": "0.0.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libcppunit-subunit0_0.0.18-4_i386.deb", 
+    "pkg": "libcppunit-subunit0", 
+    "pkg_version": "0.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libcppunit-subunit0_0.0.18-0ubuntu7_i386.deb", 
+    "pkg": "libcppunit-subunit0", 
+    "pkg_version": "0.0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

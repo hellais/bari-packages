@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libptexenc-dev_2014.20140926.35254-6_i386.deb", 
+    "pkg": "libptexenc-dev_201", 
+    "pkg_version": "4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libptexenc-dev_2014.20140926.35254-6_i386.deb", 
+    "pkg": "libptexenc-dev_201", 
+    "pkg_version": "4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libptexenc-dev_2012.20120628-4_i386.deb", 
+    "pkg": "libptexenc-dev_201", 
+    "pkg_version": "2.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libptexenc-dev_2014.20140528.34243-5_i386.deb", 
+    "pkg": "libptexenc-dev_201", 
+    "pkg_version": "4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

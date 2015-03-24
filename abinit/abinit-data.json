@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "abinit-data_7.8.2-2_all.deb", 
+    "pkg": "abinit-data", 
+    "pkg_version": "7.8.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

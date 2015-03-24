@@ -1,0 +1,100 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "bogl-bterm-0.1.18-alt1_28.x86_64.rpm", 
+    "pkg": "bogl-bterm", 
+    "pkg_version": "0.1.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "bogl-bterm-0.1.18-13.el5_4.x86_64.rpm", 
+    "pkg": "bogl-bterm", 
+    "pkg_version": "0.1.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bogl-bterm_0.1.18-9_i386.deb", 
+    "pkg": "bogl-bterm", 
+    "pkg_version": "0.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bogl-bterm_0.1.18-9_i386.deb", 
+    "pkg": "bogl-bterm", 
+    "pkg_version": "0.1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bogl-bterm_0.1.18-8+b1_i386.deb", 
+    "pkg": "bogl-bterm", 
+    "pkg_version": "0.1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "bogl-bterm-0.1.18-28.fc22.x86_64.rpm", 
+    "pkg": "bogl-bterm", 
+    "pkg_version": "0.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "bogl-bterm-0.1.18-28.fc22.x86_64.rpm", 
+    "pkg": "bogl-bterm", 
+    "pkg_version": "0.1.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "bogl-bterm-0.1.18-28.fc21.x86_64.rpm", 
+    "pkg": "bogl-bterm", 
+    "pkg_version": "0.1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "bogl-bterm-0.1.18-25.fc20.x86_64.rpm", 
+    "pkg": "bogl-bterm", 
+    "pkg_version": "0.1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "bogl-bterm_0.1.18-9ubuntu1_i386.deb", 
+    "pkg": "bogl-bterm", 
+    "pkg_version": "0.1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "bogl-bterm_0.1.18-9ubuntu1_i386.deb", 
+    "pkg": "bogl-bterm", 
+    "pkg_version": "0.1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

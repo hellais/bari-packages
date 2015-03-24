@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "flightcrew_0.7.2+dfsg-1_i386.deb", 
+    "pkg": "flightcrew", 
+    "pkg_version": "0.7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

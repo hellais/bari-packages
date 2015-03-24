@@ -1,0 +1,162 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "foomatic-db-4.0.20150227-alt1.noarch.rpm", 
+    "pkg": "foomatic-db", 
+    "pkg_version": "4.0.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "foomatic-db-4.0.20150227-alt1.noarch.rpm", 
+    "pkg": "foomatic-db", 
+    "pkg_version": "4.0.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "foomatic-db-4.0-40.20130911.el7.noarch.rpm", 
+    "pkg": "foomatic-db", 
+    "pkg_version": "4.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "foomatic-db-4.0-7.20091126.el6.noarch.rpm", 
+    "pkg": "foomatic-db", 
+    "pkg_version": "4.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "foomatic-db-4.0-7.20091126.el6.noarch.rpm", 
+    "pkg": "foomatic-db", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "foomatic-db-4.0-7.20091126.el6.noarch.rpm", 
+    "pkg": "foomatic-db", 
+    "pkg_version": "4.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "foomatic-db-4.0-7.20091126.el6.noarch.rpm", 
+    "pkg": "foomatic-db", 
+    "pkg_version": "4.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "foomatic-db-4.0-44.20140707.fc21.noarch.rpm", 
+    "pkg": "foomatic-db", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "foomatic-db-4.0-44.20140707.fc21.noarch.rpm", 
+    "pkg": "foomatic-db", 
+    "pkg_version": "4.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "foomatic-db-4.0-44.20140707.fc21.noarch.rpm", 
+    "pkg": "foomatic-db", 
+    "pkg_version": "4.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "foomatic-db-4.0-39.20130604.fc20.noarch.rpm", 
+    "pkg": "foomatic-db", 
+    "pkg_version": "4.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "foomatic-db-4.0-2.20140325.1-omv2015.0.noarch.rpm", 
+    "pkg": "foomatic-db", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "foomatic-db-4.0-2.20140325.1-omv2014.0.noarch.rpm", 
+    "pkg": "foomatic-db", 
+    "pkg_version": "4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "foomatic-db-4.0-2.20130115.2-omv2013.0.noarch.rpm", 
+    "pkg": "foomatic-db", 
+    "pkg_version": "4.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "foomatic-db-4.0-3.20130928.2-rosa2014.1.noarch.rpm", 
+    "pkg": "foomatic-db", 
+    "pkg_version": "4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "foomatic-db-4.0-3.20130928.2-rosa2012.1.noarch.rpm", 
+    "pkg": "foomatic-db", 
+    "pkg_version": "4.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "foomatic-db-4.0-2.20110503.3-rosa.lts2012.0.noarch.rpm", 
+    "pkg": "foomatic-db", 
+    "pkg_version": "4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "foomatic-db-4.0-2.20110503.3-rosa.lts2012.0.noarch.rpm", 
+    "pkg": "foomatic-db", 
+    "pkg_version": "4.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

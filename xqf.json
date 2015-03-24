@@ -1,0 +1,109 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xqf-1.0.5-alt2.1.qa1.x86_64.rpm", 
+    "pkg": "xqf", 
+    "pkg_version": "1.0.5", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xqf_1.0.6-1_i386.deb", 
+    "pkg": "xqf", 
+    "pkg_version": "1.0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xqf_1.0.6-1_i386.deb", 
+    "pkg": "xqf", 
+    "pkg_version": "1.0.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xqf_1.0.5-2_i386.deb", 
+    "pkg": "xqf", 
+    "pkg_version": "1.0.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "xqf-1.0.5-12-omv2013.0.x86_64.rpm", 
+    "pkg": "xqf", 
+    "pkg_version": "1.0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib Updates", 
+    "pkg_full_name": "xqf-1.0.5-12-omv2013.0.i586.rpm", 
+    "pkg": "xqf", 
+    "pkg_version": "1.0.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib Updates", 
+    "pkg_full_name": "xqf-1.0.5-12-omv2013.0.i586.rpm", 
+    "pkg": "xqf", 
+    "pkg_version": "1.0.5", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "xqf-1.0.5-13-rosa2014.1.x86_64.rpm", 
+    "pkg": "xqf", 
+    "pkg_version": "1.0.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "xqf-1.0.5-11-rosa2012.1.x86_64.rpm", 
+    "pkg": "xqf", 
+    "pkg_version": "1.0.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Alphageek", 
+    "pkg_full_name": "xqf-1.0.5-i486-1_ejt.txz", 
+    "pkg": "xqf", 
+    "pkg_version": "1.0.5", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xqf_1.0.5-3_i386.deb", 
+    "pkg": "xqf", 
+    "pkg_version": "1.0.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xqf_1.0.5-3_i386.deb", 
+    "pkg": "xqf", 
+    "pkg_version": "1.0.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

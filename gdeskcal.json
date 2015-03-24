@@ -1,0 +1,83 @@
+[
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "gdeskcal-1.01-5.el6.nux.noarch.rpm", 
+    "pkg": "gdeskcal", 
+    "pkg_version": "1.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdeskcal_0.57.1-2.2_all.deb", 
+    "pkg": "gdeskcal", 
+    "pkg_version": "0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdeskcal_0.57.1-2.2_all.deb", 
+    "pkg": "gdeskcal", 
+    "pkg_version": "0.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdeskcal_0.57.1-2.1_all.deb", 
+    "pkg": "gdeskcal", 
+    "pkg_version": "0.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "gdeskcal-1.01-8-omv2015.0.x86_64.rpm", 
+    "pkg": "gdeskcal", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "gdeskcal-1.01-8-rosa2014.1.x86_64.rpm", 
+    "pkg": "gdeskcal", 
+    "pkg_version": "1.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "gdeskcal-1.01-7-rosa2012.1.x86_64.rpm", 
+    "pkg": "gdeskcal", 
+    "pkg_version": "1.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gdeskcal_0.57.1-2.2ubuntu1_all.deb", 
+    "pkg": "gdeskcal", 
+    "pkg_version": "0.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gdeskcal_0.57.1-2.2ubuntu1_all.deb", 
+    "pkg": "gdeskcal", 
+    "pkg_version": "0.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

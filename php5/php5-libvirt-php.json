@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php5-libvirt-php_0.4.8-1_i386.deb", 
+    "pkg": "php5-libvirt-php", 
+    "pkg_version": "0.4.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

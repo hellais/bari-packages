@@ -1,0 +1,101 @@
+[
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "kde-workspace-4.10.5-18.el7.x86_64.rpm", 
+    "pkg": "kde-workspace", 
+    "pkg_version": "4.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kde-workspace_4.11.13-2_all.deb", 
+    "pkg": "kde-workspace", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kde-workspace_4.11.13-2_all.deb", 
+    "pkg": "kde-workspace", 
+    "pkg_version": "4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kde-workspace_4.8.4-6_all.deb", 
+    "pkg": "kde-workspace", 
+    "pkg_version": "4.8.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kde-workspace-4.11.15-5.fc22.x86_64.rpm", 
+    "pkg": "kde-workspace", 
+    "pkg_version": "4.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "kde-workspace-4.11.16-3.fc21.x86_64.rpm", 
+    "pkg": "kde-workspace", 
+    "pkg_version": "4.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "kde-workspace-4.11.16-3.fc20.x86_64.rpm", 
+    "pkg": "kde-workspace", 
+    "pkg_version": "4.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "kde-workspace-4.10.5-x86_64-2.txz", 
+    "pkg": "kde-workspace", 
+    "pkg_version": "4.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "kde-workspace-4.8.5-x86_64-1.txz", 
+    "pkg": "kde-workspace", 
+    "pkg_version": "4.8.5", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "kde-workspace_4.11.12-0ubuntu1.1_all.deb", 
+    "pkg": "kde-workspace", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "kde-workspace_4.11.11-0ubuntu0.2_all.deb", 
+    "pkg": "kde-workspace", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

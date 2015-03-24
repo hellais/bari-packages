@@ -1,0 +1,871 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "netcat-4.0.20100725-alt1.x86_64.rpm", 
+    "pkg": "netcat", 
+    "pkg_version": "4.0.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "netcat-4.0.20100725-alt1.x86_64.rpm", 
+    "pkg": "netcat", 
+    "pkg_version": "4.0.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gnu-netcat-0.7.1-5-x86_64.pkg.tar.xz", 
+    "pkg": "gnu-netcat", 
+    "pkg_version": "0.7.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "openbsd-netcat-1.105_7-7-x86_64.pkg.tar.xz", 
+    "pkg": "openbsd-netcat", 
+    "pkg_version": "1.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "netcat_1.10-41_all.deb", 
+    "pkg": "netcat", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gnu-netcat-0.7.1-5-x86_64.pkg.tar.xz", 
+    "pkg": "gnu-netcat", 
+    "pkg_version": "0.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "openbsd-netcat-1.105_7-7-x86_64.pkg.tar.xz", 
+    "pkg": "openbsd-netcat", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "netcat-traditional_1.10-41_i386.deb", 
+    "pkg": "netcat-traditional", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "netcat-openbsd_1.105-7_i386.deb", 
+    "pkg": "netcat-openbsd", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "netcat_1.10-41_all.deb", 
+    "pkg": "netcat", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gnu-netcat-0.7.1-5-x86_64.pkg.tar.xz", 
+    "pkg": "gnu-netcat", 
+    "pkg_version": "0.7.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "openbsd-netcat-1.105_7-7-x86_64.pkg.tar.xz", 
+    "pkg": "openbsd-netcat", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "netcat-traditional_1.10-41_i386.deb", 
+    "pkg": "netcat-traditional", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "netcat-openbsd_1.105-7_i386.deb", 
+    "pkg": "netcat-openbsd", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "netcat_1.10-40_all.deb", 
+    "pkg": "netcat", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gnu-netcat-0.7.1-5-x86_64.pkg.tar.xz", 
+    "pkg": "gnu-netcat", 
+    "pkg_version": "0.7.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "openbsd-netcat-1.105_7-7-x86_64.pkg.tar.xz", 
+    "pkg": "openbsd-netcat", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "netcat-traditional_1.10-40_i386.deb", 
+    "pkg": "netcat-traditional", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "netcat-openbsd_1.105-7_i386.deb", 
+    "pkg": "netcat-openbsd", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gnu-netcat-0.7.1-5-x86_64.pkg.tar.xz", 
+    "pkg": "gnu-netcat", 
+    "pkg_version": "0.7.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "openbsd-netcat-1.105_7-7-x86_64.pkg.tar.xz", 
+    "pkg": "openbsd-netcat", 
+    "pkg_version": "1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "netcat-traditional_1.10-40_i386.deb", 
+    "pkg": "netcat-traditional", 
+    "pkg_version": "1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "netcat_1.10-40_all.deb", 
+    "pkg": "netcat", 
+    "pkg_version": "1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "netcat-openbsd_1.105-7_i386.deb", 
+    "pkg": "netcat-openbsd", 
+    "pkg_version": "1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "netcat-gnu-0.7.1-10.1.x86_64.rpm", 
+    "pkg": "netcat-gnu", 
+    "pkg_version": "0.7.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gnu-netcat-0.7.1-5-x86_64.pkg.tar.xz", 
+    "pkg": "gnu-netcat", 
+    "pkg_version": "0.7.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "openbsd-netcat-1.105_7-7-x86_64.pkg.tar.xz", 
+    "pkg": "openbsd-netcat", 
+    "pkg_version": "1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "netcat-traditional_1.10-40_i386.deb", 
+    "pkg": "netcat-traditional", 
+    "pkg_version": "1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "netcat_1.10-40_all.deb", 
+    "pkg": "netcat", 
+    "pkg_version": "1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "netcat-openbsd_1.105-7_i386.deb", 
+    "pkg": "netcat-openbsd", 
+    "pkg_version": "1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "netcat-gnu-0.7.1-10.1.x86_64.rpm", 
+    "pkg": "netcat-gnu", 
+    "pkg_version": "0.7.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gnu-netcat-0.7.1-5-x86_64.pkg.tar.xz", 
+    "pkg": "gnu-netcat", 
+    "pkg_version": "0.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "openbsd-netcat-1.105_7-7-x86_64.pkg.tar.xz", 
+    "pkg": "openbsd-netcat", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "netcat-traditional-1.10-48-omv2015.0.x86_64.rpm", 
+    "pkg": "netcat-traditional", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "netcat_1.10-40_all.deb", 
+    "pkg": "netcat", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "netcat-openbsd-1.89-6.mga4.x86_64.rpm", 
+    "pkg": "netcat-openbsd", 
+    "pkg_version": "1.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "netcat-gnu-0.7.1-19-omv2015.0.x86_64.rpm", 
+    "pkg": "netcat-gnu", 
+    "pkg_version": "0.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gnu-netcat-0.7.1-5-x86_64.pkg.tar.xz", 
+    "pkg": "gnu-netcat", 
+    "pkg_version": "0.7.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "openbsd-netcat-1.105_7-7-x86_64.pkg.tar.xz", 
+    "pkg": "openbsd-netcat", 
+    "pkg_version": "1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "netcat-traditional-1.10-42-omv2014.0.x86_64.rpm", 
+    "pkg": "netcat-traditional", 
+    "pkg_version": "1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "netcat_1.10-40_all.deb", 
+    "pkg": "netcat", 
+    "pkg_version": "1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "netcat-openbsd-1.89-6.mga4.x86_64.rpm", 
+    "pkg": "netcat-openbsd", 
+    "pkg_version": "1.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "netcat-gnu-0.7.1-13-omv2014.0.x86_64.rpm", 
+    "pkg": "netcat-gnu", 
+    "pkg_version": "0.7.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gnu-netcat-0.7.1-5-x86_64.pkg.tar.xz", 
+    "pkg": "gnu-netcat", 
+    "pkg_version": "0.7.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "openbsd-netcat-1.105_7-7-x86_64.pkg.tar.xz", 
+    "pkg": "openbsd-netcat", 
+    "pkg_version": "1.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "netcat-traditional-1.10-41-omv2013.0.x86_64.rpm", 
+    "pkg": "netcat-traditional", 
+    "pkg_version": "1.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "netcat_1.10-40_all.deb", 
+    "pkg": "netcat", 
+    "pkg_version": "1.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "netcat-openbsd-1.89-6.mga4.x86_64.rpm", 
+    "pkg": "netcat-openbsd", 
+    "pkg_version": "1.8", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "netcat-gnu-0.7.1-12-omv2013.0.x86_64.rpm", 
+    "pkg": "netcat-gnu", 
+    "pkg_version": "0.7.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gnu-netcat-0.7.1-5-x86_64.pkg.tar.xz", 
+    "pkg": "gnu-netcat", 
+    "pkg_version": "0.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "openbsd-netcat-1.105_7-7-x86_64.pkg.tar.xz", 
+    "pkg": "openbsd-netcat", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "netcat-traditional-1.10-41-omv2013.0.x86_64.rpm", 
+    "pkg": "netcat-traditional", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "netcat_1.10-40_all.deb", 
+    "pkg": "netcat", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "netcat-openbsd-1.89-94.2.x86_64.rpm", 
+    "pkg": "netcat-openbsd", 
+    "pkg_version": "1.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "netcat-gnu-0.7.1-12-omv2013.0.x86_64.rpm", 
+    "pkg": "netcat-gnu", 
+    "pkg_version": "0.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gnu-netcat-0.7.1-5-x86_64.pkg.tar.xz", 
+    "pkg": "gnu-netcat", 
+    "pkg_version": "0.7.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "openbsd-netcat-1.105_7-7-x86_64.pkg.tar.xz", 
+    "pkg": "openbsd-netcat", 
+    "pkg_version": "1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "netcat-traditional-1.10-41-omv2013.0.x86_64.rpm", 
+    "pkg": "netcat-traditional", 
+    "pkg_version": "1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "netcat_1.10-40_all.deb", 
+    "pkg": "netcat", 
+    "pkg_version": "1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "netcat-openbsd-1.89-93.1.3.x86_64.rpm", 
+    "pkg": "netcat-openbsd", 
+    "pkg_version": "1.8", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "netcat-gnu-0.7.1-12-omv2013.0.x86_64.rpm", 
+    "pkg": "netcat-gnu", 
+    "pkg_version": "0.7.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gnu-netcat-0.7.1-5-x86_64.pkg.tar.xz", 
+    "pkg": "gnu-netcat", 
+    "pkg_version": "0.7.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "openbsd-netcat-1.105_7-7-x86_64.pkg.tar.xz", 
+    "pkg": "openbsd-netcat", 
+    "pkg_version": "1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "netcat-traditional-1.10-41-omv2013.0.x86_64.rpm", 
+    "pkg": "netcat-traditional", 
+    "pkg_version": "1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "netcat_1.10-40_all.deb", 
+    "pkg": "netcat", 
+    "pkg_version": "1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "netcat-openbsd-1.89-90.1.2.i586.rpm", 
+    "pkg": "netcat-openbsd", 
+    "pkg_version": "1.8", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "netcat-gnu-0.7.1-12-omv2013.0.x86_64.rpm", 
+    "pkg": "netcat-gnu", 
+    "pkg_version": "0.7.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gnu-netcat-0.7.1-5-x86_64.pkg.tar.xz", 
+    "pkg": "gnu-netcat", 
+    "pkg_version": "0.7.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "openbsd-netcat-1.105_7-7-x86_64.pkg.tar.xz", 
+    "pkg": "openbsd-netcat", 
+    "pkg_version": "1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "netcat-traditional-1.10-38-rosa2014.1.x86_64.rpm", 
+    "pkg": "netcat-traditional", 
+    "pkg_version": "1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "netcat_1.10-40_all.deb", 
+    "pkg": "netcat", 
+    "pkg_version": "1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "netcat-openbsd-1.89-4-rosa2014.1.x86_64.rpm", 
+    "pkg": "netcat-openbsd", 
+    "pkg_version": "1.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "netcat-gnu-0.7.1-13-rosa2014.1.x86_64.rpm", 
+    "pkg": "netcat-gnu", 
+    "pkg_version": "0.7.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gnu-netcat-0.7.1-5-x86_64.pkg.tar.xz", 
+    "pkg": "gnu-netcat", 
+    "pkg_version": "0.7.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "openbsd-netcat-1.105_7-7-x86_64.pkg.tar.xz", 
+    "pkg": "openbsd-netcat", 
+    "pkg_version": "1.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "netcat-traditional-1.10-38-rosa2012.1.x86_64.rpm", 
+    "pkg": "netcat-traditional", 
+    "pkg_version": "1.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "netcat_1.10-40_all.deb", 
+    "pkg": "netcat", 
+    "pkg_version": "1.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "netcat-openbsd-1.89-3-rosa2012.1.x86_64.rpm", 
+    "pkg": "netcat-openbsd", 
+    "pkg_version": "1.8", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "netcat-gnu-0.7.1-12-rosa2012.1.x86_64.rpm", 
+    "pkg": "netcat-gnu", 
+    "pkg_version": "0.7.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gnu-netcat-0.7.1-5-x86_64.pkg.tar.xz", 
+    "pkg": "gnu-netcat", 
+    "pkg_version": "0.7.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "openbsd-netcat-1.105_7-7-x86_64.pkg.tar.xz", 
+    "pkg": "openbsd-netcat", 
+    "pkg_version": "1.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "netcat-traditional-1.10-37-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "netcat-traditional", 
+    "pkg_version": "1.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Freestylers", 
+    "pkg_full_name": "netcat-0.7.1-x86_64-1_fs.tgz", 
+    "pkg": "netcat", 
+    "pkg_version": "0.7.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "netcat-openbsd-1.89-3-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "netcat-openbsd", 
+    "pkg_version": "1.8", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "netcat-gnu-0.7.1-11-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "netcat-gnu", 
+    "pkg_version": "0.7.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gnu-netcat-0.7.1-5-x86_64.pkg.tar.xz", 
+    "pkg": "gnu-netcat", 
+    "pkg_version": "0.7.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "openbsd-netcat-1.105_7-7-x86_64.pkg.tar.xz", 
+    "pkg": "openbsd-netcat", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "netcat-traditional_1.10-40_i386.deb", 
+    "pkg": "netcat-traditional", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "netcat_1.10-40_all.deb", 
+    "pkg": "netcat", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "netcat-openbsd_1.105-7ubuntu1_i386.deb", 
+    "pkg": "netcat-openbsd", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "netcat-gnu-0.7.1-11-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "netcat-gnu", 
+    "pkg_version": "0.7.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gnu-netcat-0.7.1-5-x86_64.pkg.tar.xz", 
+    "pkg": "gnu-netcat", 
+    "pkg_version": "0.7.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "openbsd-netcat-1.105_7-7-x86_64.pkg.tar.xz", 
+    "pkg": "openbsd-netcat", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "netcat-traditional_1.10-40_i386.deb", 
+    "pkg": "netcat-traditional", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "netcat_1.10-40_all.deb", 
+    "pkg": "netcat", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "netcat-openbsd_1.105-7ubuntu1_i386.deb", 
+    "pkg": "netcat-openbsd", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "netcat-gnu-0.7.1-11-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "netcat-gnu", 
+    "pkg_version": "0.7.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

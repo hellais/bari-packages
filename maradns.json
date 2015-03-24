@@ -1,0 +1,127 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "maradns-2.0.09-alt1_3.x86_64.rpm", 
+    "pkg": "maradns", 
+    "pkg_version": "2.0.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "maradns_2.0.09-4_i386.deb", 
+    "pkg": "maradns", 
+    "pkg_version": "2.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "maradns_1.4.12-5_i386.deb", 
+    "pkg": "maradns", 
+    "pkg_version": "1.4.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "maradns-2.0.11-1.fc22.x86_64.rpm", 
+    "pkg": "maradns", 
+    "pkg_version": "2.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "maradns-2.0.11-1.fc22.x86_64.rpm", 
+    "pkg": "maradns", 
+    "pkg_version": "2.0.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "maradns-2.0.11-1.fc21.x86_64.rpm", 
+    "pkg": "maradns", 
+    "pkg_version": "2.0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "maradns-2.0.11-1.fc20.x86_64.rpm", 
+    "pkg": "maradns", 
+    "pkg_version": "2.0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "maradns-1.4.06-2-omv2013.0.x86_64.rpm", 
+    "pkg": "maradns", 
+    "pkg_version": "1.4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "maradns-1.4.06-2-omv2013.0.x86_64.rpm", 
+    "pkg": "maradns", 
+    "pkg_version": "1.4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "maradns-1.4.06-2-omv2013.0.x86_64.rpm", 
+    "pkg": "maradns", 
+    "pkg_version": "1.4.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "maradns-1.4.06-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "maradns", 
+    "pkg_version": "1.4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "maradns-1.4.06-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "maradns", 
+    "pkg_version": "1.4.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "maradns_2.0.09-3_i386.deb", 
+    "pkg": "maradns", 
+    "pkg_version": "2.0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "maradns_2.0.09-2_i386.deb", 
+    "pkg": "maradns", 
+    "pkg_version": "2.0.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

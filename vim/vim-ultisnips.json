@@ -1,0 +1,19 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "vim-ultisnips-3.0-4-any.pkg.tar.xz", 
+    "pkg": "vim-ultisnips", 
+    "pkg_version": "3.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-ultisnips_3.0-1_all.deb", 
+    "pkg": "vim-ultisnips", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

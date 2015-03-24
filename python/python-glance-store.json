@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-glance-store_0.1.10-1_all.deb", 
+    "pkg": "python-glance-store", 
+    "pkg_version": "0.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-glance-store_0.1.8-1_all.deb", 
+    "pkg": "python-glance-store", 
+    "pkg_version": "0.1.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-glance-store-0.1.10-2.fc22.noarch.rpm", 
+    "pkg": "python-glance-store", 
+    "pkg_version": "0.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-glance-store-0.1.10-2.fc22.noarch.rpm", 
+    "pkg": "python-glance-store", 
+    "pkg_version": "0.1.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

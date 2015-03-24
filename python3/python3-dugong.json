@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-dugong_3.5+dfsg-1_all.deb", 
+    "pkg": "python3-dugong", 
+    "pkg_version": "3.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-dugong_3.3+dfsg-3_all.deb", 
+    "pkg": "python3-dugong", 
+    "pkg_version": "3.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-dugong-3.3-1.fc22.noarch.rpm", 
+    "pkg": "python3-dugong", 
+    "pkg_version": "3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-dugong-3.3-1.fc22.noarch.rpm", 
+    "pkg": "python3-dugong", 
+    "pkg_version": "3.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-dugong-3.3-1.fc21.noarch.rpm", 
+    "pkg": "python3-dugong", 
+    "pkg_version": "3.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python3-dugong-3.2-1.fc20.noarch.rpm", 
+    "pkg": "python3-dugong", 
+    "pkg_version": "3.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

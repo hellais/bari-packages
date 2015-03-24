@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fso-frameworkd_0.9.5.9+git20110512-5_all.deb", 
+    "pkg": "fso-frameworkd", 
+    "pkg_version": "0.9.5.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fso-frameworkd_0.9.5.9+git20110512-5_all.deb", 
+    "pkg": "fso-frameworkd", 
+    "pkg_version": "0.9.5.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fso-frameworkd_0.9.5.9+git20110512-4_all.deb", 
+    "pkg": "fso-frameworkd", 
+    "pkg_version": "0.9.5.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "fso-frameworkd_0.9.5.9+git20110512-4ubuntu1_i386.deb", 
+    "pkg": "fso-frameworkd", 
+    "pkg_version": "0.9.5.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "fso-frameworkd_0.9.5.9+git20110512-4ubuntu1_i386.deb", 
+    "pkg": "fso-frameworkd", 
+    "pkg_version": "0.9.5.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

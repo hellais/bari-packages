@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "texlive-lang-european_2014.20141024-1_all.deb", 
+    "pkg": "texlive-lang-european_201", 
+    "pkg_version": "4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "texlive-lang-european_2014.20141024-1_all.deb", 
+    "pkg": "texlive-lang-european_201", 
+    "pkg_version": "4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "texlive-lang-european_2014.20140717-1_all.deb", 
+    "pkg": "texlive-lang-european_201", 
+    "pkg_version": "4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

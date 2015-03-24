@@ -1,0 +1,299 @@
+[
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "salt-syndic-2014.7.2-1.el7.noarch.rpm", 
+    "pkg": "salt-syndic-201", 
+    "pkg_version": "4.7.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "salt-syndic-2014.7.2-1.el6.noarch.rpm", 
+    "pkg": "salt-syndic-201", 
+    "pkg_version": "4.7.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "salt-syndic_2014.1.13+ds-3_all.deb", 
+    "pkg": "salt-syndic_201", 
+    "pkg_version": "4.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "salt-syndic-2014.7.2-1.el6.noarch.rpm", 
+    "pkg": "salt-syndic-201", 
+    "pkg_version": "4.7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "salt-syndic_2014.1.13+ds-3_all.deb", 
+    "pkg": "salt-syndic_201", 
+    "pkg_version": "4.1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "salt-syndic-2014.7.2-1.el6.noarch.rpm", 
+    "pkg": "salt-syndic-201", 
+    "pkg_version": "4.7.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "salt-syndic_0.17.5+ds-1~bpo70+1_all.deb", 
+    "pkg": "salt-syndic", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "salt-syndic_2014.1.13+ds-3_all.deb", 
+    "pkg": "salt-syndic_201", 
+    "pkg_version": "4.1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "salt-syndic-2014.7.2-1.el6.noarch.rpm", 
+    "pkg": "salt-syndic-201", 
+    "pkg_version": "4.7.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "salt-syndic_0.17.5+ds-1~bpo70+1_all.deb", 
+    "pkg": "salt-syndic", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "salt-syndic_2014.1.13+ds-3_all.deb", 
+    "pkg": "salt-syndic_201", 
+    "pkg_version": "4.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "salt-syndic-2014.7.2-1.fc23.noarch.rpm", 
+    "pkg": "salt-syndic-201", 
+    "pkg_version": "4.7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "salt-syndic_0.17.5+ds-1~bpo70+1_all.deb", 
+    "pkg": "salt-syndic", 
+    "pkg_version": "0.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "salt-syndic_2014.1.13+ds-3_all.deb", 
+    "pkg": "salt-syndic_201", 
+    "pkg_version": "4.1.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "salt-syndic-2014.7.2-1.fc22.noarch.rpm", 
+    "pkg": "salt-syndic-201", 
+    "pkg_version": "4.7.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "salt-syndic_0.17.5+ds-1~bpo70+1_all.deb", 
+    "pkg": "salt-syndic", 
+    "pkg_version": "0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "salt-syndic_2014.1.13+ds-3_all.deb", 
+    "pkg": "salt-syndic_201", 
+    "pkg_version": "4.1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "salt-syndic-2014.7.2-1.fc21.noarch.rpm", 
+    "pkg": "salt-syndic-201", 
+    "pkg_version": "4.7.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "salt-syndic_0.17.5+ds-1~bpo70+1_all.deb", 
+    "pkg": "salt-syndic", 
+    "pkg_version": "0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "salt-syndic_2014.1.13+ds-3_all.deb", 
+    "pkg": "salt-syndic_201", 
+    "pkg_version": "4.1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "salt-syndic-2014.7.2-1.fc20.noarch.rpm", 
+    "pkg": "salt-syndic-201", 
+    "pkg_version": "4.7.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "salt-syndic_0.17.5+ds-1~bpo70+1_all.deb", 
+    "pkg": "salt-syndic", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "salt-syndic_2014.1.13+ds-3_all.deb", 
+    "pkg": "salt-syndic_201", 
+    "pkg_version": "4.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "salt-syndic-2014.7.2-1.1.noarch.rpm", 
+    "pkg": "salt-syndic-201", 
+    "pkg_version": "4.7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "salt-syndic_0.17.5+ds-1~bpo70+1_all.deb", 
+    "pkg": "salt-syndic", 
+    "pkg_version": "0.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "salt-syndic_2014.1.13+ds-3_all.deb", 
+    "pkg": "salt-syndic_201", 
+    "pkg_version": "4.1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "salt-syndic-2014.1.11-1.3.noarch.rpm", 
+    "pkg": "salt-syndic-201", 
+    "pkg_version": "4.1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "salt-syndic-0.16.4-2.1.3.noarch.rpm", 
+    "pkg": "salt-syndic", 
+    "pkg_version": "0.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "salt-syndic_2014.1.13+ds-3_all.deb", 
+    "pkg": "salt-syndic_201", 
+    "pkg_version": "4.1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "salt-syndic-2014.1.11-1.3.noarch.rpm", 
+    "pkg": "salt-syndic-201", 
+    "pkg_version": "4.1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "salt-syndic-0.16.4-2.1.3.noarch.rpm", 
+    "pkg": "salt-syndic", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "salt-syndic_2014.1.10+ds-1_all.deb", 
+    "pkg": "salt-syndic_201", 
+    "pkg_version": "4.1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "salt-syndic-2014.1.11-1.3.noarch.rpm", 
+    "pkg": "salt-syndic-201", 
+    "pkg_version": "4.1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

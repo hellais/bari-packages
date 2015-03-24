@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "lxde-core_0.5.0-4ubuntu4_all.deb", 
+    "pkg": "lxde-core", 
+    "pkg_version": "0.5.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "lxde-core_0.5.0-4ubuntu4_all.deb", 
+    "pkg": "lxde-core", 
+    "pkg_version": "0.5.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

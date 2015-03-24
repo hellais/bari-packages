@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "OpenNMS Unstable", 
+    "pkg_full_name": "librrdp-perl_1.0.40-2.onms_all.deb", 
+    "pkg": "librrdp-perl", 
+    "pkg_version": "1.0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenNMS Unstable", 
+    "pkg_full_name": "librrdp-perl_1.0.40-2.onms_all.deb", 
+    "pkg": "librrdp-perl", 
+    "pkg_version": "1.0.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenNMS Unstable", 
+    "pkg_full_name": "librrdp-perl_1.0.40-2.onms_all.deb", 
+    "pkg": "librrdp-perl", 
+    "pkg_version": "1.0.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "librrdp-perl_1.4.8-1.1ubuntu1_all.deb", 
+    "pkg": "librrdp-perl", 
+    "pkg_version": "1.4.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "librrdp-perl_1.4.7-2ubuntu5_all.deb", 
+    "pkg": "librrdp-perl", 
+    "pkg_version": "1.4.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

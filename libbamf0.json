@@ -1,0 +1,55 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libbamf0-0.5.0-alt3.x86_64.rpm", 
+    "pkg": "libbamf0", 
+    "pkg_version": "0.5.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libbamf0_0.2.118-1_i386.deb", 
+    "pkg": "libbamf0", 
+    "pkg_version": "0.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libbamf0_0.2.118-1_i386.deb", 
+    "pkg": "libbamf0", 
+    "pkg_version": "0.2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libbamf0_0.2.118-1_i386.deb", 
+    "pkg": "libbamf0", 
+    "pkg_version": "0.2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "libbamf0-0.2.118-2-rosa2014.1.i586.rpm", 
+    "pkg": "libbamf0", 
+    "pkg_version": "0.2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "libbamf0-0.2.118-1-rosa2012.1.i586.rpm", 
+    "pkg": "libbamf0", 
+    "pkg_version": "0.2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

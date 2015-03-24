@@ -1,0 +1,163 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "txt2pdbdoc-1.4.4-alt2.qa1.x86_64.rpm", 
+    "pkg": "txt2pdbdoc", 
+    "pkg_version": "1.4.4", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "txt2pdbdoc_1.4.4-6_i386.deb", 
+    "pkg": "txt2pdbdoc", 
+    "pkg_version": "1.4.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "txt2pdbdoc_1.4.4-6_i386.deb", 
+    "pkg": "txt2pdbdoc", 
+    "pkg_version": "1.4.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "txt2pdbdoc_1.4.4-6_i386.deb", 
+    "pkg": "txt2pdbdoc", 
+    "pkg_version": "1.4.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "txt2pdbdoc_1.4.4-6_i386.deb", 
+    "pkg": "txt2pdbdoc", 
+    "pkg_version": "1.4.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-pyrite-publisher-2.1.1-7-omv2013.0.x86_64.rpm", 
+    "pkg": "python-pyrite-publisher", 
+    "pkg_version": "2.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "txt2pdbdoc_1.4.4-6_i386.deb", 
+    "pkg": "txt2pdbdoc", 
+    "pkg_version": "1.4.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-pyrite-publisher-2.1.1-7-omv2013.0.x86_64.rpm", 
+    "pkg": "python-pyrite-publisher", 
+    "pkg_version": "2.1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "txt2pdbdoc_1.4.4-6_i386.deb", 
+    "pkg": "txt2pdbdoc", 
+    "pkg_version": "1.4.4", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-pyrite-publisher-2.1.1-7-omv2013.0.x86_64.rpm", 
+    "pkg": "python-pyrite-publisher", 
+    "pkg_version": "2.1.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "txt2pdbdoc_1.4.4-6_i386.deb", 
+    "pkg": "txt2pdbdoc", 
+    "pkg_version": "1.4.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "python-pyrite-publisher-2.1.1-8-rosa2014.1.x86_64.rpm", 
+    "pkg": "python-pyrite-publisher", 
+    "pkg_version": "2.1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "txt2pdbdoc_1.4.4-6_i386.deb", 
+    "pkg": "txt2pdbdoc", 
+    "pkg_version": "1.4.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "python-pyrite-publisher-2.1.1-7-rosa2012.1.x86_64.rpm", 
+    "pkg": "python-pyrite-publisher", 
+    "pkg_version": "2.1.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "txt2pdbdoc_1.4.4-6_i386.deb", 
+    "pkg": "txt2pdbdoc", 
+    "pkg_version": "1.4.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "python-pyrite-publisher-2.1.1-6-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "python-pyrite-publisher", 
+    "pkg_version": "2.1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "txt2pdbdoc_1.4.4-6_i386.deb", 
+    "pkg": "txt2pdbdoc", 
+    "pkg_version": "1.4.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "python-pyrite-publisher-2.1.1-6-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "python-pyrite-publisher", 
+    "pkg_version": "2.1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

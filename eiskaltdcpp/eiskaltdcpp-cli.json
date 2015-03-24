@@ -1,0 +1,46 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "eiskaltdcpp-cli-2.2.8-alt1.1.x86_64.rpm", 
+    "pkg": "eiskaltdcpp-cli", 
+    "pkg_version": "2.2.8", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "eiskaltdcpp-cli_2.2.9-3_all.deb", 
+    "pkg": "eiskaltdcpp-cli", 
+    "pkg_version": "2.2.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "eiskaltdcpp-cli_2.2.9-3_all.deb", 
+    "pkg": "eiskaltdcpp-cli", 
+    "pkg_version": "2.2.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "eiskaltdcpp-cli_2.2.9-3~bpo70+1_all.deb", 
+    "pkg": "eiskaltdcpp-cli", 
+    "pkg_version": "2.2.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "eiskaltdcpp-cli_2.2.9-3build1_all.deb", 
+    "pkg": "eiskaltdcpp-cli", 
+    "pkg_version": "2.2.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

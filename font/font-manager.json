@@ -1,0 +1,118 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "font-manager-0.7.1-alt1.x86_64.rpm", 
+    "pkg": "font-manager", 
+    "pkg_version": "0.7.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "font-manager_0.5.7-4_i386.deb", 
+    "pkg": "font-manager", 
+    "pkg_version": "0.5.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "font-manager_0.5.7-4_i386.deb", 
+    "pkg": "font-manager", 
+    "pkg_version": "0.5.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "font-manager_0.5.7-4_i386.deb", 
+    "pkg": "font-manager", 
+    "pkg_version": "0.5.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "font-manager-0.5.7-10.fc22.x86_64.rpm", 
+    "pkg": "font-manager", 
+    "pkg_version": "0.5.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "font-manager-0.5.7-10.fc22.x86_64.rpm", 
+    "pkg": "font-manager", 
+    "pkg_version": "0.5.7", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "font-manager-0.5.7-10.fc21.x86_64.rpm", 
+    "pkg": "font-manager", 
+    "pkg_version": "0.5.7", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "font-manager-0.5.7-8.fc20.x86_64.rpm", 
+    "pkg": "font-manager", 
+    "pkg_version": "0.5.7", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Johannes Sch\u00f6pfer", 
+    "pkg_full_name": "font-manager-0.5.7-x86_64-1jsc.txz", 
+    "pkg": "font-manager", 
+    "pkg_version": "0.5.7", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Johannes Sch\u00f6pfer", 
+    "pkg_full_name": "font-manager-0.5.7-x86_64-1jsc.txz", 
+    "pkg": "font-manager", 
+    "pkg_version": "0.5.7", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "font-manager-0.5.7-i486-1sl.txz", 
+    "pkg": "font-manager", 
+    "pkg_version": "0.5.7", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "font-manager_0.5.7-4_i386.deb", 
+    "pkg": "font-manager", 
+    "pkg_version": "0.5.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "font-manager_0.5.7-4_i386.deb", 
+    "pkg": "font-manager", 
+    "pkg_version": "0.5.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

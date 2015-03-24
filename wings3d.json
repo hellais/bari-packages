@@ -1,0 +1,64 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "wings3d-1.5.3-2-x86_64.pkg.tar.xz", 
+    "pkg": "wings3d", 
+    "pkg_version": "1.5.3", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "wings3d_1.5.3-2+b1_i386.deb", 
+    "pkg": "wings3d", 
+    "pkg_version": "1.5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "wings3d_1.5.3-2+b1_i386.deb", 
+    "pkg": "wings3d", 
+    "pkg_version": "1.5.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "wings3d_1.4.1-4_i386.deb", 
+    "pkg": "wings3d", 
+    "pkg_version": "1.4.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "wings3d-1.4.1-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "wings3d", 
+    "pkg_version": "1.4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "wings3d-1.4.1-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "wings3d", 
+    "pkg_version": "1.4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "wings3d-1.4.1-x86_64-1ab.txz", 
+    "pkg": "wings3d", 
+    "pkg_version": "1.4.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }
+]

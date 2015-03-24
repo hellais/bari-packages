@@ -1,0 +1,882 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "cpupower-3.17-alt1.x86_64.rpm", 
+    "pkg": "cpupower", 
+    "pkg_version": "3.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "cpufrequtils-008-alt1.1.x86_64.rpm", 
+    "pkg": "cpufrequtils-008-alt", 
+    "pkg_version": "1.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "cpupower-3.17-alt1.x86_64.rpm", 
+    "pkg": "cpupower", 
+    "pkg_version": "3.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "ELRepo Kernel", 
+    "pkg_full_name": "kernel-ml-tools-3.19.2-1.el7.elrepo.x86_64.rpm", 
+    "pkg": "kernel-ml-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Lux", 
+    "pkg_full_name": "kernel-plus-tools-3.10.0-123.13.2.el7.centos.plus.lux.1.x86_64.rpm", 
+    "pkg": "kernel-plus-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "kernel-tools-3.10.0-123.9.3.el7.x86_64.rpm", 
+    "pkg": "kernel-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "cpufrequtils-008-alt1.1.x86_64.rpm", 
+    "pkg": "cpufrequtils-008-alt", 
+    "pkg_version": "1.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "cpupower-3.17-alt1.x86_64.rpm", 
+    "pkg": "cpupower", 
+    "pkg_version": "3.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "ELRepo Kernel", 
+    "pkg_full_name": "kernel-ml-tools-3.19.2-1.el7.elrepo.x86_64.rpm", 
+    "pkg": "kernel-ml-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Lux", 
+    "pkg_full_name": "kernel-plus-tools-3.10.0-123.13.2.el7.centos.plus.lux.1.x86_64.rpm", 
+    "pkg": "kernel-plus-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "kernel-tools-3.10.0-123.9.3.el7.x86_64.rpm", 
+    "pkg": "kernel-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "cpufrequtils-008-alt1.1.x86_64.rpm", 
+    "pkg": "cpufrequtils-008-alt", 
+    "pkg_version": "1.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "cpupower-3.17-alt1.x86_64.rpm", 
+    "pkg": "cpupower", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ELRepo Kernel", 
+    "pkg_full_name": "kernel-ml-tools-3.19.2-1.el7.elrepo.x86_64.rpm", 
+    "pkg": "kernel-ml-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Lux", 
+    "pkg_full_name": "kernel-plus-tools-3.10.0-123.13.2.el7.centos.plus.lux.1.x86_64.rpm", 
+    "pkg": "kernel-plus-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "kernel-tools-3.10.0-123.9.3.el7.x86_64.rpm", 
+    "pkg": "kernel-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "cpufrequtils-008-alt1.1.x86_64.rpm", 
+    "pkg": "cpufrequtils-008-alt", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "cpupower-3.17-alt1.x86_64.rpm", 
+    "pkg": "cpupower", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ELRepo Kernel", 
+    "pkg_full_name": "kernel-ml-tools-3.19.2-1.el7.elrepo.x86_64.rpm", 
+    "pkg": "kernel-ml-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Lux", 
+    "pkg_full_name": "kernel-plus-tools-3.10.0-123.13.2.el7.centos.plus.lux.1.x86_64.rpm", 
+    "pkg": "kernel-plus-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "kernel-tools-3.10.0-123.9.3.el7.x86_64.rpm", 
+    "pkg": "kernel-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "cpufrequtils-008-alt1.1.x86_64.rpm", 
+    "pkg": "cpufrequtils-008-alt", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "cpupower-3.17-alt1.x86_64.rpm", 
+    "pkg": "cpupower", 
+    "pkg_version": "3.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ELRepo Kernel", 
+    "pkg_full_name": "kernel-ml-tools-3.19.2-1.el7.elrepo.x86_64.rpm", 
+    "pkg": "kernel-ml-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Lux", 
+    "pkg_full_name": "kernel-plus-tools-3.10.0-123.13.2.el7.centos.plus.lux.1.x86_64.rpm", 
+    "pkg": "kernel-plus-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "kernel-tools-3.10.0-123.9.3.el7.x86_64.rpm", 
+    "pkg": "kernel-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "cpufrequtils-008-alt1.1.x86_64.rpm", 
+    "pkg": "cpufrequtils-008-alt", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "cpupower-3.17-alt1.x86_64.rpm", 
+    "pkg": "cpupower", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ELRepo Kernel", 
+    "pkg_full_name": "kernel-ml-tools-3.19.2-1.el7.elrepo.x86_64.rpm", 
+    "pkg": "kernel-ml-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Lux", 
+    "pkg_full_name": "kernel-plus-tools-3.10.0-123.13.2.el7.centos.plus.lux.1.x86_64.rpm", 
+    "pkg": "kernel-plus-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kernel-tools-4.0.0-0.rc4.git2.1.fc23.x86_64.rpm", 
+    "pkg": "kernel-tools", 
+    "pkg_version": "4.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "cpufrequtils-008-alt1.1.x86_64.rpm", 
+    "pkg": "cpufrequtils-008-alt", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "cpupower-3.17-alt1.x86_64.rpm", 
+    "pkg": "cpupower", 
+    "pkg_version": "3.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ELRepo Kernel", 
+    "pkg_full_name": "kernel-ml-tools-3.19.2-1.el7.elrepo.x86_64.rpm", 
+    "pkg": "kernel-ml-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Lux", 
+    "pkg_full_name": "kernel-plus-tools-3.10.0-123.13.2.el7.centos.plus.lux.1.x86_64.rpm", 
+    "pkg": "kernel-plus-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kernel-tools-3.20.0-0.rc0.git10.1.fc22.x86_64.rpm", 
+    "pkg": "kernel-tools", 
+    "pkg_version": "3.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "cpufrequtils-008-alt1.1.x86_64.rpm", 
+    "pkg": "cpufrequtils-008-alt", 
+    "pkg_version": "1.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "cpupower-3.17-alt1.x86_64.rpm", 
+    "pkg": "cpupower", 
+    "pkg_version": "3.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ELRepo Kernel", 
+    "pkg_full_name": "kernel-ml-tools-3.19.2-1.el7.elrepo.x86_64.rpm", 
+    "pkg": "kernel-ml-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Lux", 
+    "pkg_full_name": "kernel-plus-tools-3.10.0-123.13.2.el7.centos.plus.lux.1.x86_64.rpm", 
+    "pkg": "kernel-plus-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Planet CCRMA Core", 
+    "pkg_full_name": "kernel-tools-3.14.29-200.rt26.1.fc21.ccrma.x86_64.rpm", 
+    "pkg": "kernel-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "cpufrequtils-008-alt1.1.x86_64.rpm", 
+    "pkg": "cpufrequtils-008-alt", 
+    "pkg_version": "1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "cpupower-3.17-alt1.x86_64.rpm", 
+    "pkg": "cpupower", 
+    "pkg_version": "3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ELRepo Kernel", 
+    "pkg_full_name": "kernel-ml-tools-3.19.2-1.el7.elrepo.x86_64.rpm", 
+    "pkg": "kernel-ml-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Lux", 
+    "pkg_full_name": "kernel-plus-tools-3.10.0-123.13.2.el7.centos.plus.lux.1.x86_64.rpm", 
+    "pkg": "kernel-plus-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Planet CCRMA Core Testing", 
+    "pkg_full_name": "kernel-tools-3.12.6-300.rt9.1.fc20.ccrma.x86_64.rpm", 
+    "pkg": "kernel-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "cpufrequtils-008-alt1.1.x86_64.rpm", 
+    "pkg": "cpufrequtils-008-alt", 
+    "pkg_version": "1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "cpupower-3.13-7.2.x86_64.rpm", 
+    "pkg": "cpupower", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ELRepo Kernel", 
+    "pkg_full_name": "kernel-ml-tools-3.19.2-1.el7.elrepo.x86_64.rpm", 
+    "pkg": "kernel-ml-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Lux", 
+    "pkg_full_name": "kernel-plus-tools-3.10.0-123.13.2.el7.centos.plus.lux.1.x86_64.rpm", 
+    "pkg": "kernel-plus-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Planet CCRMA Core Testing", 
+    "pkg_full_name": "kernel-tools-3.12.6-300.rt9.1.fc20.ccrma.x86_64.rpm", 
+    "pkg": "kernel-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "cpufrequtils-008-alt1.1.x86_64.rpm", 
+    "pkg": "cpufrequtils-008-alt", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "cpupower-3.13-6.1.2.x86_64.rpm", 
+    "pkg": "cpupower", 
+    "pkg_version": "3.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ELRepo Kernel", 
+    "pkg_full_name": "kernel-ml-tools-3.19.2-1.el7.elrepo.x86_64.rpm", 
+    "pkg": "kernel-ml-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Lux", 
+    "pkg_full_name": "kernel-plus-tools-3.10.0-123.13.2.el7.centos.plus.lux.1.x86_64.rpm", 
+    "pkg": "kernel-plus-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Planet CCRMA Core Testing", 
+    "pkg_full_name": "kernel-tools-3.12.6-300.rt9.1.fc20.ccrma.x86_64.rpm", 
+    "pkg": "kernel-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "cpufrequtils-008-alt1.1.x86_64.rpm", 
+    "pkg": "cpufrequtils-008-alt", 
+    "pkg_version": "1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "cpupower-3.8-3.1.2.i586.rpm", 
+    "pkg": "cpupower", 
+    "pkg_version": "3.8", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "cpufrequtils-008-22.1.1.i586.rpm", 
+    "pkg": "cpufrequtils-008-2", 
+    "pkg_version": "2.1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ELRepo Kernel", 
+    "pkg_full_name": "kernel-ml-tools-3.19.2-1.el7.elrepo.x86_64.rpm", 
+    "pkg": "kernel-ml-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Lux", 
+    "pkg_full_name": "kernel-plus-tools-3.10.0-123.13.2.el7.centos.plus.lux.1.x86_64.rpm", 
+    "pkg": "kernel-plus-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Planet CCRMA Core Testing", 
+    "pkg_full_name": "kernel-tools-3.12.6-300.rt9.1.fc20.ccrma.x86_64.rpm", 
+    "pkg": "kernel-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "cpufrequtils-008-alt1.1.x86_64.rpm", 
+    "pkg": "cpufrequtils-008-alt", 
+    "pkg_version": "1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "cpupower-3.8-3.1.2.i586.rpm", 
+    "pkg": "cpupower", 
+    "pkg_version": "3.8", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "cpufrequtils-008-22.1.1.i586.rpm", 
+    "pkg": "cpufrequtils-008-2", 
+    "pkg_version": "2.1.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "cpufrequtils-008-3-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "cpufrequtils-008-3-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ELRepo Kernel", 
+    "pkg_full_name": "kernel-ml-tools-3.19.2-1.el7.elrepo.x86_64.rpm", 
+    "pkg": "kernel-ml-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Lux", 
+    "pkg_full_name": "kernel-plus-tools-3.10.0-123.13.2.el7.centos.plus.lux.1.x86_64.rpm", 
+    "pkg": "kernel-plus-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Planet CCRMA Core Testing", 
+    "pkg_full_name": "kernel-tools-3.12.6-300.rt9.1.fc20.ccrma.x86_64.rpm", 
+    "pkg": "kernel-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "cpufrequtils-008-alt1.1.x86_64.rpm", 
+    "pkg": "cpufrequtils-008-alt", 
+    "pkg_version": "1.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "cpupower-3.8-3.1.2.i586.rpm", 
+    "pkg": "cpupower", 
+    "pkg_version": "3.8", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "cpufrequtils-008-22.1.1.i586.rpm", 
+    "pkg": "cpufrequtils-008-2", 
+    "pkg_version": "2.1.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "cpufrequtils-008-3-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "cpufrequtils-008-3-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ELRepo Kernel", 
+    "pkg_full_name": "kernel-ml-tools-3.19.2-1.el7.elrepo.x86_64.rpm", 
+    "pkg": "kernel-ml-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Lux", 
+    "pkg_full_name": "kernel-plus-tools-3.10.0-123.13.2.el7.centos.plus.lux.1.x86_64.rpm", 
+    "pkg": "kernel-plus-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Planet CCRMA Core Testing", 
+    "pkg_full_name": "kernel-tools-3.12.6-300.rt9.1.fc20.ccrma.x86_64.rpm", 
+    "pkg": "kernel-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "cpufrequtils-008-alt1.1.x86_64.rpm", 
+    "pkg": "cpufrequtils-008-alt", 
+    "pkg_version": "1.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "cpupower-3.8-3.1.2.i586.rpm", 
+    "pkg": "cpupower", 
+    "pkg_version": "3.8", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "cpufrequtils-008-22.1.1.i586.rpm", 
+    "pkg": "cpufrequtils-008-2", 
+    "pkg_version": "2.1.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "cpufrequtils-008-3-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "cpufrequtils-008-3-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ELRepo Kernel", 
+    "pkg_full_name": "kernel-ml-tools-3.19.2-1.el7.elrepo.x86_64.rpm", 
+    "pkg": "kernel-ml-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Lux", 
+    "pkg_full_name": "kernel-plus-tools-3.10.0-123.13.2.el7.centos.plus.lux.1.x86_64.rpm", 
+    "pkg": "kernel-plus-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Planet CCRMA Core Testing", 
+    "pkg_full_name": "kernel-tools-3.12.6-300.rt9.1.fc20.ccrma.x86_64.rpm", 
+    "pkg": "kernel-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "cpufrequtils-008-alt1.1.x86_64.rpm", 
+    "pkg": "cpufrequtils-008-alt", 
+    "pkg_version": "1.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "cpupower-3.8-3.1.2.i586.rpm", 
+    "pkg": "cpupower", 
+    "pkg_version": "3.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "cpufrequtils-008-22.1.1.i586.rpm", 
+    "pkg": "cpufrequtils-008-2", 
+    "pkg_version": "2.1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "cpufrequtils-008-3-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "cpufrequtils-008-3-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ELRepo Kernel", 
+    "pkg_full_name": "kernel-ml-tools-3.19.2-1.el7.elrepo.x86_64.rpm", 
+    "pkg": "kernel-ml-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Lux", 
+    "pkg_full_name": "kernel-plus-tools-3.10.0-123.13.2.el7.centos.plus.lux.1.x86_64.rpm", 
+    "pkg": "kernel-plus-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Planet CCRMA Core Testing", 
+    "pkg_full_name": "kernel-tools-3.12.6-300.rt9.1.fc20.ccrma.x86_64.rpm", 
+    "pkg": "kernel-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "cpufrequtils-008-alt1.1.x86_64.rpm", 
+    "pkg": "cpufrequtils-008-alt", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "cpupower-3.8-3.1.2.i586.rpm", 
+    "pkg": "cpupower", 
+    "pkg_version": "3.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "cpufrequtils-008-22.1.1.i586.rpm", 
+    "pkg": "cpufrequtils-008-2", 
+    "pkg_version": "2.1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "cpufrequtils-008-3-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "cpufrequtils-008-3-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ELRepo Kernel", 
+    "pkg_full_name": "kernel-ml-tools-3.19.2-1.el7.elrepo.x86_64.rpm", 
+    "pkg": "kernel-ml-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Lux", 
+    "pkg_full_name": "kernel-plus-tools-3.10.0-123.13.2.el7.centos.plus.lux.1.x86_64.rpm", 
+    "pkg": "kernel-plus-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Planet CCRMA Core Testing", 
+    "pkg_full_name": "kernel-tools-3.12.6-300.rt9.1.fc20.ccrma.x86_64.rpm", 
+    "pkg": "kernel-tools", 
+    "pkg_version": "3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "cpufrequtils-008-alt1.1.x86_64.rpm", 
+    "pkg": "cpufrequtils-008-alt", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

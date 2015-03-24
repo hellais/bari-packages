@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "librdf-storage-virtuoso_1.0.17-1+b1_i386.deb", 
+    "pkg": "librdf-storage-virtuoso", 
+    "pkg_version": "1.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "librdf-storage-virtuoso_1.0.17-1+b1_i386.deb", 
+    "pkg": "librdf-storage-virtuoso", 
+    "pkg_version": "1.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "librdf-storage-virtuoso_1.0.17-1_i386.deb", 
+    "pkg": "librdf-storage-virtuoso", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

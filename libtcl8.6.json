@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtcl8.6_8.6.2+dfsg-2_i386.deb", 
+    "pkg": "libtcl", 
+    "pkg_version": "8.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtcl8.6_8.6.2+dfsg-2_i386.deb", 
+    "pkg": "libtcl", 
+    "pkg_version": "8.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libtcl8.6-8.6-0.b1.11-rosa2014.1.i586.rpm", 
+    "pkg": "libtcl", 
+    "pkg_version": "8.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libtcl8.6-8.6-0.b1.11-rosa2012.1.i586.rpm", 
+    "pkg": "libtcl", 
+    "pkg_version": "8.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libtcl8.6_8.6.1-6ubuntu1_i386.deb", 
+    "pkg": "libtcl", 
+    "pkg_version": "8.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

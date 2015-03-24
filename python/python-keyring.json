@@ -1,0 +1,154 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "python-keyring-5.3-1-any.pkg.tar.xz", 
+    "pkg": "python-keyring", 
+    "pkg_version": "5.3", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-keyring-5.0-1.el7.noarch.rpm", 
+    "pkg": "python-keyring", 
+    "pkg_version": "5.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-keyring-0.7-1.el6.noarch.rpm", 
+    "pkg": "python-keyring", 
+    "pkg_version": "0.7", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-keyring_4.0-1_all.deb", 
+    "pkg": "python-keyring", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-keyring_4.0-1_all.deb", 
+    "pkg": "python-keyring", 
+    "pkg_version": "4.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-keyring_0.7.1-1+deb7u1_all.deb", 
+    "pkg": "python-keyring", 
+    "pkg_version": "0.7.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-keyring-5.0-1.fc22.noarch.rpm", 
+    "pkg": "python-keyring", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-keyring-5.0-1.fc22.noarch.rpm", 
+    "pkg": "python-keyring", 
+    "pkg_version": "5.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python-keyring-5.0-1.fc21.noarch.rpm", 
+    "pkg": "python-keyring", 
+    "pkg_version": "5.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python-keyring-5.0-1.fc20.noarch.rpm", 
+    "pkg": "python-keyring", 
+    "pkg_version": "5.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-keyring-4.0-2.2.noarch.rpm", 
+    "pkg": "python-keyring", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "python-keyring-4.0-2.5.1.noarch.rpm", 
+    "pkg": "python-keyring", 
+    "pkg_version": "4.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-keyring-3.0.5-1.1.noarch.rpm", 
+    "pkg": "python-keyring", 
+    "pkg_version": "3.0.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "python-keyring-4.0-1-rosa2014.1.noarch.rpm", 
+    "pkg": "python-keyring", 
+    "pkg_version": "4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "python-keyring-3.0.5-1-rosa2012.1.noarch.rpm", 
+    "pkg": "python-keyring", 
+    "pkg_version": "3.0.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python-keyring_4.0-1ubuntu1_all.deb", 
+    "pkg": "python-keyring", 
+    "pkg_version": "4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python-keyring_3.5-1_all.deb", 
+    "pkg": "python-keyring", 
+    "pkg_version": "3.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

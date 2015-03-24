@@ -1,0 +1,497 @@
+[
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "kdewebdev-3.5.10-14.el6.x86_64.rpm", 
+    "pkg": "kdewebdev", 
+    "pkg_version": "3.5.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "kdewebdev-3.5.10-14.el6.x86_64.rpm", 
+    "pkg": "kdewebdev", 
+    "pkg_version": "3.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kommander_4.14.1-1_i386.deb", 
+    "pkg": "kommander", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "kdewebdev-3.5.10-14.el6.x86_64.rpm", 
+    "pkg": "kdewebdev", 
+    "pkg_version": "3.5.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kommander_4.14.1-1_i386.deb", 
+    "pkg": "kommander", 
+    "pkg_version": "4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "kdewebdev-3.5.10-14.el6.x86_64.rpm", 
+    "pkg": "kdewebdev", 
+    "pkg_version": "3.5.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kommander_4.8.4-1_i386.deb", 
+    "pkg": "kommander", 
+    "pkg_version": "4.8.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kdewebdev-3.5.10-23.fc22.x86_64.rpm", 
+    "pkg": "kdewebdev", 
+    "pkg_version": "3.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kommander_4.8.4-1_i386.deb", 
+    "pkg": "kommander", 
+    "pkg_version": "4.8.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kdewebdev-3.5.10-23.fc22.x86_64.rpm", 
+    "pkg": "kdewebdev", 
+    "pkg_version": "3.5.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kommander_4.8.4-1_i386.deb", 
+    "pkg": "kommander", 
+    "pkg_version": "4.8.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kdewebdev-3.5.10-23.fc21.x86_64.rpm", 
+    "pkg": "kdewebdev", 
+    "pkg_version": "3.5.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kommander_4.8.4-1_i386.deb", 
+    "pkg": "kommander", 
+    "pkg_version": "4.8.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kdewebdev-3.5.10-21.fc20.x86_64.rpm", 
+    "pkg": "kdewebdev", 
+    "pkg_version": "3.5.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kommander_4.8.4-1_i386.deb", 
+    "pkg": "kommander", 
+    "pkg_version": "4.8.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kdewebdev-3.5.10-21.fc20.x86_64.rpm", 
+    "pkg": "kdewebdev", 
+    "pkg_version": "3.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kommander-4.14.3-2-omv2015.0.x86_64.rpm", 
+    "pkg": "kommander", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kdewebdev-3.5.10-21.fc20.x86_64.rpm", 
+    "pkg": "kdewebdev", 
+    "pkg_version": "3.5.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "kommander-4.14.3-2-omv2014.0.x86_64.rpm", 
+    "pkg": "kommander", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kdewebdev-3.5.10-21.fc20.x86_64.rpm", 
+    "pkg": "kdewebdev", 
+    "pkg_version": "3.5.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kommander-4.11.2-1-omv2013.0.i586.rpm", 
+    "pkg": "kommander", 
+    "pkg_version": "4.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kommander-runtime-14.12.3-1.1.x86_64.rpm", 
+    "pkg": "kommander-runtime-1", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kde3-kommander-3.5.10-48.2.x86_64.rpm", 
+    "pkg": "kde3-kommander", 
+    "pkg_version": "3.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kdewebdev-3.5.10-21.fc20.x86_64.rpm", 
+    "pkg": "kdewebdev", 
+    "pkg_version": "3.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kommander-4.11.2-1-omv2013.0.i586.rpm", 
+    "pkg": "kommander", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kommander-runtime-14.12.3-16.1.x86_64.rpm", 
+    "pkg": "kommander-runtime-1", 
+    "pkg_version": "4.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kommander-runtime-4.14.3-4.3.x86_64.rpm", 
+    "pkg": "kommander-runtime", 
+    "pkg_version": "4.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kde3-kommander-3.5.10-47.1.10.x86_64.rpm", 
+    "pkg": "kde3-kommander", 
+    "pkg_version": "3.5.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kdewebdev-3.5.10-21.fc20.x86_64.rpm", 
+    "pkg": "kdewebdev", 
+    "pkg_version": "3.5.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kommander-4.11.2-1-omv2013.0.i586.rpm", 
+    "pkg": "kommander", 
+    "pkg_version": "4.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kommander-runtime-14.12.3-16.1.x86_64.rpm", 
+    "pkg": "kommander-runtime-1", 
+    "pkg_version": "4.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kommander-runtime-4.11.5-136.1.x86_64.rpm", 
+    "pkg": "kommander-runtime", 
+    "pkg_version": "4.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kde3-kommander-3.5.10-45.1.3.i586.rpm", 
+    "pkg": "kde3-kommander", 
+    "pkg_version": "3.5.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kdewebdev-3.5.10-21.fc20.x86_64.rpm", 
+    "pkg": "kdewebdev", 
+    "pkg_version": "3.5.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kommander-4.11.2-1-omv2013.0.i586.rpm", 
+    "pkg": "kommander", 
+    "pkg_version": "4.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kommander-runtime-14.12.3-16.1.x86_64.rpm", 
+    "pkg": "kommander-runtime-1", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kommander-runtime-4.11.5-136.1.x86_64.rpm", 
+    "pkg": "kommander-runtime", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kde3-kommander-3.5.10-45.1.3.i586.rpm", 
+    "pkg": "kde3-kommander", 
+    "pkg_version": "3.5.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kdewebdev-3.5.10-21.fc20.x86_64.rpm", 
+    "pkg": "kdewebdev", 
+    "pkg_version": "3.5.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "kommander-4.14.3-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "kommander", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kommander-runtime-14.12.3-16.1.x86_64.rpm", 
+    "pkg": "kommander-runtime-1", 
+    "pkg_version": "4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kommander-runtime-4.11.5-136.1.x86_64.rpm", 
+    "pkg": "kommander-runtime", 
+    "pkg_version": "4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kde3-kommander-3.5.10-45.1.3.i586.rpm", 
+    "pkg": "kde3-kommander", 
+    "pkg_version": "3.5.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kdewebdev-3.5.10-21.fc20.x86_64.rpm", 
+    "pkg": "kdewebdev", 
+    "pkg_version": "3.5.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "kommander-4.12.4-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "kommander", 
+    "pkg_version": "4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kommander-runtime-14.12.3-16.1.x86_64.rpm", 
+    "pkg": "kommander-runtime-1", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kommander-runtime-4.11.5-136.1.x86_64.rpm", 
+    "pkg": "kommander-runtime", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kde3-kommander-3.5.10-45.1.3.i586.rpm", 
+    "pkg": "kde3-kommander", 
+    "pkg_version": "3.5.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kdewebdev-3.5.10-21.fc20.x86_64.rpm", 
+    "pkg": "kdewebdev", 
+    "pkg_version": "3.5.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "kommander_4.14.1-0ubuntu1_i386.deb", 
+    "pkg": "kommander", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kommander-runtime-14.12.3-16.1.x86_64.rpm", 
+    "pkg": "kommander-runtime-1", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kommander-runtime-4.11.5-136.1.x86_64.rpm", 
+    "pkg": "kommander-runtime", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kde3-kommander-3.5.10-45.1.3.i586.rpm", 
+    "pkg": "kde3-kommander", 
+    "pkg_version": "3.5.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kdewebdev-3.5.10-21.fc20.x86_64.rpm", 
+    "pkg": "kdewebdev", 
+    "pkg_version": "3.5.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "kommander_4.13.0-0ubuntu1_i386.deb", 
+    "pkg": "kommander", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

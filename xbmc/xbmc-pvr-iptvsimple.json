@@ -1,0 +1,110 @@
+[
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "xbmc-pvr-iptvsimple-13.0-2.20140716gitbe12a8d.el7.nux.x86_64.rpm", 
+    "pkg": "xbmc-pvr-iptvsimple-1", 
+    "pkg_version": "3.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "xbmc-pvr-iptvsimple-13.0-2.20140716gitbe12a8d.el7.nux.x86_64.rpm", 
+    "pkg": "xbmc-pvr-iptvsimple-1", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "xbmc-pvr-iptvsimple_14.2_i386.deb", 
+    "pkg": "xbmc-pvr-iptvsimple_1", 
+    "pkg_version": "4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "xbmc-pvr-iptvsimple-13.0-2.20140716gitbe12a8d.el7.nux.x86_64.rpm", 
+    "pkg": "xbmc-pvr-iptvsimple-1", 
+    "pkg_version": "3.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "xbmc-pvr-iptvsimple_14.2_i386.deb", 
+    "pkg": "xbmc-pvr-iptvsimple_1", 
+    "pkg_version": "4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "xbmc-pvr-iptvsimple-13.0-2.20140716gitbe12a8d.el7.nux.x86_64.rpm", 
+    "pkg": "xbmc-pvr-iptvsimple-1", 
+    "pkg_version": "3.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "xbmc-pvr-iptvsimple_13.0+git20140512+g91cc731+dfsg1-1~bpo70+1_i386.deb", 
+    "pkg": "xbmc-pvr-iptvsimple_1", 
+    "pkg_version": "3.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "xbmc-pvr-iptvsimple-13.0-2.20140716gitbe12a8d.fc21.x86_64.rpm", 
+    "pkg": "xbmc-pvr-iptvsimple-1", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "xbmc-pvr-iptvsimple_13.0+git20140512+g91cc731+dfsg1-1~bpo70+1_i386.deb", 
+    "pkg": "xbmc-pvr-iptvsimple_1", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "xbmc-pvr-iptvsimple-13.0-2.20140716gitbe12a8d.fc21.x86_64.rpm", 
+    "pkg": "xbmc-pvr-iptvsimple-1", 
+    "pkg_version": "3.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "xbmc-pvr-iptvsimple_13.0+git20140512+g91cc731+dfsg1-1~bpo70+1_i386.deb", 
+    "pkg": "xbmc-pvr-iptvsimple_1", 
+    "pkg_version": "3.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free Updates", 
+    "pkg_full_name": "kodi-pvr-iptvsimple-14.0-0.2.20150125gita0a437e.fc21.x86_64.rpm", 
+    "pkg": "kodi-pvr-iptvsimple-1", 
+    "pkg_version": "4.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

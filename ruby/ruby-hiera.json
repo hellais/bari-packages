@@ -1,0 +1,82 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-hiera-1.3.2-alt1.noarch.rpm", 
+    "pkg": "ruby-hiera", 
+    "pkg_version": "1.3.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-hiera_1.3.4-1_all.deb", 
+    "pkg": "ruby-hiera", 
+    "pkg_version": "1.3.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "hiera_1.3.4-1_all.deb", 
+    "pkg": "hiera", 
+    "pkg_version": "1.3.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-hiera_1.3.4-1_all.deb", 
+    "pkg": "ruby-hiera", 
+    "pkg_version": "1.3.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "hiera_1.3.4-1_all.deb", 
+    "pkg": "hiera", 
+    "pkg_version": "1.3.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-hiera_1.0.0~rc3-1_all.deb", 
+    "pkg": "ruby-hiera", 
+    "pkg_version": "1.0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "hiera_1.3.4-1~bpo70+1_all.deb", 
+    "pkg": "hiera", 
+    "pkg_version": "1.3.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "ruby-hiera_1.3.4-1_all.deb", 
+    "pkg": "ruby-hiera", 
+    "pkg_version": "1.3.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "hiera_1.3.4-1_all.deb", 
+    "pkg": "hiera", 
+    "pkg_version": "1.3.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-descendants-tracker_0.0.4-2_all.deb", 
+    "pkg": "ruby-descendants-tracker", 
+    "pkg_version": "0.0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-descendants-tracker_0.0.4-2_all.deb", 
+    "pkg": "ruby-descendants-tracker", 
+    "pkg_version": "0.0.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

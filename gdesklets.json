@@ -1,0 +1,117 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gdesklets-0.36.3-alt3.x86_64.rpm", 
+    "pkg": "gdesklets", 
+    "pkg_version": "0.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "gdesklets-0.36.3-5-x86_64.pkg.tar.xz", 
+    "pkg": "gdesklets", 
+    "pkg_version": "0.3", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "NauLinux School", 
+    "pkg_full_name": "gdesklets-0.36-1.Nau5x.i386.rpm", 
+    "pkg": "gdesklets", 
+    "pkg_version": "0.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdesklets_0.36.1-7_i386.deb", 
+    "pkg": "gdesklets", 
+    "pkg_version": "0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdesklets_0.36.1-7_i386.deb", 
+    "pkg": "gdesklets", 
+    "pkg_version": "0.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdesklets_0.36.1-5+b1_i386.deb", 
+    "pkg": "gdesklets", 
+    "pkg_version": "0.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gdesklets-0.36.3-13.fc20.x86_64.rpm", 
+    "pkg": "gdesklets", 
+    "pkg_version": "0.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "gdesklets-0.36.3-2-omv2013.0.x86_64.rpm", 
+    "pkg": "gdesklets", 
+    "pkg_version": "0.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "gdesklets-0.36.3-2-omv2013.0.x86_64.rpm", 
+    "pkg": "gdesklets", 
+    "pkg_version": "0.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "gdesklets-0.36.3-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "gdesklets", 
+    "pkg_version": "0.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "gdesklets-0.36.3-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "gdesklets", 
+    "pkg_version": "0.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gdesklets_0.36.1-7build2_i386.deb", 
+    "pkg": "gdesklets", 
+    "pkg_version": "0.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gdesklets_0.36.1-5_i386.deb", 
+    "pkg": "gdesklets", 
+    "pkg_version": "0.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

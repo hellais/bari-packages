@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libconfig-model-itself-perl_1.241-1_all.deb", 
+    "pkg": "libconfig-model-itself-perl", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libconfig-model-itself-perl_1.241-1_all.deb", 
+    "pkg": "libconfig-model-itself-perl", 
+    "pkg_version": "1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libconfig-model-itself-perl_1.232-1_all.deb", 
+    "pkg": "libconfig-model-itself-perl", 
+    "pkg_version": "1.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libconfig-model-itself-perl_1.240-1_all.deb", 
+    "pkg": "libconfig-model-itself-perl", 
+    "pkg_version": "1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libconfig-model-itself-perl_1.239-1_all.deb", 
+    "pkg": "libconfig-model-itself-perl", 
+    "pkg_version": "1.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

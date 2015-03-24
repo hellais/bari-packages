@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libbladerf-dev_0.2014.09~rc2-5_i386.deb", 
+    "pkg": "libbladerf-dev", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libbladerf-dev_0.2014.09~rc2-5_i386.deb", 
+    "pkg": "libbladerf-dev", 
+    "pkg_version": "0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "libbladerf-dev_0.2014.09~rc2-5~bpo70+1_i386.deb", 
+    "pkg": "libbladerf-dev", 
+    "pkg_version": "0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libbladerf-dev_0.10.7.47.ebe70c4-4_i386.deb", 
+    "pkg": "libbladerf-dev", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

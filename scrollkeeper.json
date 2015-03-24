@@ -1,0 +1,775 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "librarian-0.8.1-alt6.x86_64.rpm", 
+    "pkg": "librarian", 
+    "pkg_version": "0.8.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "librarian-0.8.1-alt6.x86_64.rpm", 
+    "pkg": "librarian", 
+    "pkg_version": "0.8.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "rarian-compat-0.8.1-11.el7.x86_64.rpm", 
+    "pkg": "rarian-compat", 
+    "pkg_version": "0.8.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "librarian-0.8.1-alt6.x86_64.rpm", 
+    "pkg": "librarian", 
+    "pkg_version": "0.8.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "rarian-compat-0.8.1-5.1.el6.x86_64.rpm", 
+    "pkg": "rarian-compat", 
+    "pkg_version": "0.8.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "librarian-0.8.1-alt6.x86_64.rpm", 
+    "pkg": "librarian", 
+    "pkg_version": "0.8.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "scrollkeeper-0.3.14-9.el5.x86_64.rpm", 
+    "pkg": "scrollkeeper", 
+    "pkg_version": "0.3.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "rarian-compat-0.8.1-5.1.el6.x86_64.rpm", 
+    "pkg": "rarian-compat", 
+    "pkg_version": "0.8.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "librarian-0.8.1-alt6.x86_64.rpm", 
+    "pkg": "librarian", 
+    "pkg_version": "0.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scrollkeeper_0.8.1-6_all.deb", 
+    "pkg": "scrollkeeper", 
+    "pkg_version": "0.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rarian-compat_0.8.1-6_i386.deb", 
+    "pkg": "rarian-compat", 
+    "pkg_version": "0.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "librarian-0.8.1-alt6.x86_64.rpm", 
+    "pkg": "librarian", 
+    "pkg_version": "0.8.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scrollkeeper_0.8.1-6_all.deb", 
+    "pkg": "scrollkeeper", 
+    "pkg_version": "0.8.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rarian-compat_0.8.1-6_i386.deb", 
+    "pkg": "rarian-compat", 
+    "pkg_version": "0.8.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "librarian-0.8.1-alt6.x86_64.rpm", 
+    "pkg": "librarian", 
+    "pkg_version": "0.8.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scrollkeeper_0.8.1-5_all.deb", 
+    "pkg": "scrollkeeper", 
+    "pkg_version": "0.8.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rarian-compat_0.8.1-5_i386.deb", 
+    "pkg": "rarian-compat", 
+    "pkg_version": "0.8.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "librarian-0.8.1-alt6.x86_64.rpm", 
+    "pkg": "librarian", 
+    "pkg_version": "0.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scrollkeeper_0.8.1-5_all.deb", 
+    "pkg": "scrollkeeper", 
+    "pkg_version": "0.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rarian-compat-0.8.1-12.fc22.x86_64.rpm", 
+    "pkg": "rarian-compat", 
+    "pkg_version": "0.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "librarian-0.8.1-alt6.x86_64.rpm", 
+    "pkg": "librarian", 
+    "pkg_version": "0.8.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scrollkeeper_0.8.1-5_all.deb", 
+    "pkg": "scrollkeeper", 
+    "pkg_version": "0.8.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rarian-compat-0.8.1-12.fc22.x86_64.rpm", 
+    "pkg": "rarian-compat", 
+    "pkg_version": "0.8.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "librarian-0.8.1-alt6.x86_64.rpm", 
+    "pkg": "librarian", 
+    "pkg_version": "0.8.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scrollkeeper_0.8.1-5_all.deb", 
+    "pkg": "scrollkeeper", 
+    "pkg_version": "0.8.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rarian-compat-0.8.1-12.fc21.x86_64.rpm", 
+    "pkg": "rarian-compat", 
+    "pkg_version": "0.8.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "librarian-0.8.1-alt6.x86_64.rpm", 
+    "pkg": "librarian", 
+    "pkg_version": "0.8.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scrollkeeper_0.8.1-5_all.deb", 
+    "pkg": "scrollkeeper", 
+    "pkg_version": "0.8.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rarian-compat-0.8.1-10.fc20.x86_64.rpm", 
+    "pkg": "rarian-compat", 
+    "pkg_version": "0.8.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "librarian-0.8.1-alt6.x86_64.rpm", 
+    "pkg": "librarian", 
+    "pkg_version": "0.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "rarian-0.8.1-18-omv2015.0.x86_64.rpm", 
+    "pkg": "rarian", 
+    "pkg_version": "0.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scrollkeeper_0.8.1-5_all.deb", 
+    "pkg": "scrollkeeper", 
+    "pkg_version": "0.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rarian-compat-0.8.1-10.fc20.x86_64.rpm", 
+    "pkg": "rarian-compat", 
+    "pkg_version": "0.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "librarian-0.8.1-alt6.x86_64.rpm", 
+    "pkg": "librarian", 
+    "pkg_version": "0.8.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "rarian-0.8.1-12-omv2014.0.x86_64.rpm", 
+    "pkg": "rarian", 
+    "pkg_version": "0.8.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scrollkeeper_0.8.1-5_all.deb", 
+    "pkg": "scrollkeeper", 
+    "pkg_version": "0.8.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rarian-compat-0.8.1-10.fc20.x86_64.rpm", 
+    "pkg": "rarian-compat", 
+    "pkg_version": "0.8.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "librarian-0.8.1-alt6.x86_64.rpm", 
+    "pkg": "librarian", 
+    "pkg_version": "0.8.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "rarian-0.8.1-11-omv2013.0.x86_64.rpm", 
+    "pkg": "rarian", 
+    "pkg_version": "0.8.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scrollkeeper_0.8.1-5_all.deb", 
+    "pkg": "scrollkeeper", 
+    "pkg_version": "0.8.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rarian-compat-0.8.1-10.fc20.x86_64.rpm", 
+    "pkg": "rarian-compat", 
+    "pkg_version": "0.8.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "librarian-0.8.1-alt6.x86_64.rpm", 
+    "pkg": "librarian", 
+    "pkg_version": "0.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "rarian-0.8.1-11-omv2013.0.x86_64.rpm", 
+    "pkg": "rarian", 
+    "pkg_version": "0.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "rarian-scrollkeeper-compat-0.8.1-38.2.x86_64.rpm", 
+    "pkg": "rarian-scrollkeeper-compat", 
+    "pkg_version": "0.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scrollkeeper_0.8.1-5_all.deb", 
+    "pkg": "scrollkeeper", 
+    "pkg_version": "0.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rarian-compat-0.8.1-10.fc20.x86_64.rpm", 
+    "pkg": "rarian-compat", 
+    "pkg_version": "0.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "librarian-0.8.1-alt6.x86_64.rpm", 
+    "pkg": "librarian", 
+    "pkg_version": "0.8.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "rarian-0.8.1-11-omv2013.0.x86_64.rpm", 
+    "pkg": "rarian", 
+    "pkg_version": "0.8.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "rarian-scrollkeeper-compat-0.8.1-37.1.2.x86_64.rpm", 
+    "pkg": "rarian-scrollkeeper-compat", 
+    "pkg_version": "0.8.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scrollkeeper_0.8.1-5_all.deb", 
+    "pkg": "scrollkeeper", 
+    "pkg_version": "0.8.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rarian-compat-0.8.1-10.fc20.x86_64.rpm", 
+    "pkg": "rarian-compat", 
+    "pkg_version": "0.8.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "librarian-0.8.1-alt6.x86_64.rpm", 
+    "pkg": "librarian", 
+    "pkg_version": "0.8.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "rarian-0.8.1-11-omv2013.0.x86_64.rpm", 
+    "pkg": "rarian", 
+    "pkg_version": "0.8.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "rarian-scrollkeeper-compat-0.8.1-37.1.2.x86_64.rpm", 
+    "pkg": "rarian-scrollkeeper-compat", 
+    "pkg_version": "0.8.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "scrollkeeper-0.3.14-274.1.2.i586.rpm", 
+    "pkg": "scrollkeeper", 
+    "pkg_version": "0.3.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rarian-compat-0.8.1-10.fc20.x86_64.rpm", 
+    "pkg": "rarian-compat", 
+    "pkg_version": "0.8.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "librarian-0.8.1-alt6.x86_64.rpm", 
+    "pkg": "librarian", 
+    "pkg_version": "0.8.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "rarian-0.8.1-12-rosa2014.1.x86_64.rpm", 
+    "pkg": "rarian", 
+    "pkg_version": "0.8.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "rarian-scrollkeeper-compat-0.8.1-37.1.2.x86_64.rpm", 
+    "pkg": "rarian-scrollkeeper-compat", 
+    "pkg_version": "0.8.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "scrollkeeper-0.3.14-274.1.2.i586.rpm", 
+    "pkg": "scrollkeeper", 
+    "pkg_version": "0.3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rarian-compat-0.8.1-10.fc20.x86_64.rpm", 
+    "pkg": "rarian-compat", 
+    "pkg_version": "0.8.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "librarian-0.8.1-alt6.x86_64.rpm", 
+    "pkg": "librarian", 
+    "pkg_version": "0.8.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "rarian-0.8.1-11-rosa2012.1.x86_64.rpm", 
+    "pkg": "rarian", 
+    "pkg_version": "0.8.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "rarian-scrollkeeper-compat-0.8.1-37.1.2.x86_64.rpm", 
+    "pkg": "rarian-scrollkeeper-compat", 
+    "pkg_version": "0.8.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "scrollkeeper-0.3.14-274.1.2.i586.rpm", 
+    "pkg": "scrollkeeper", 
+    "pkg_version": "0.3.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rarian-compat-0.8.1-10.fc20.x86_64.rpm", 
+    "pkg": "rarian-compat", 
+    "pkg_version": "0.8.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "librarian-0.8.1-alt6.x86_64.rpm", 
+    "pkg": "librarian", 
+    "pkg_version": "0.8.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "rarian-0.8.1-11-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "rarian", 
+    "pkg_version": "0.8.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "rarian-scrollkeeper-compat-0.8.1-37.1.2.x86_64.rpm", 
+    "pkg": "rarian-scrollkeeper-compat", 
+    "pkg_version": "0.8.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Freestylers", 
+    "pkg_full_name": "scrollkeeper-0.3.14-x86_64-2_fs.txz", 
+    "pkg": "scrollkeeper", 
+    "pkg_version": "0.3.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rarian-compat-0.8.1-10.fc20.x86_64.rpm", 
+    "pkg": "rarian-compat", 
+    "pkg_version": "0.8.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "librarian-0.8.1-alt6.x86_64.rpm", 
+    "pkg": "librarian", 
+    "pkg_version": "0.8.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "rarian-0.8.1-11-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "rarian", 
+    "pkg_version": "0.8.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "rarian-scrollkeeper-compat-0.8.1-37.1.2.x86_64.rpm", 
+    "pkg": "rarian-scrollkeeper-compat", 
+    "pkg_version": "0.8.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "SlackPack", 
+    "pkg_full_name": "scrollkeeper-0.3.14-x86_64-2gds.txz", 
+    "pkg": "scrollkeeper", 
+    "pkg_version": "0.3.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rarian-compat-0.8.1-10.fc20.x86_64.rpm", 
+    "pkg": "rarian-compat", 
+    "pkg_version": "0.8.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "librarian-0.8.1-alt6.x86_64.rpm", 
+    "pkg": "librarian", 
+    "pkg_version": "0.8.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "rarian-0.8.1-11-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "rarian", 
+    "pkg_version": "0.8.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "rarian-scrollkeeper-compat-0.8.1-37.1.2.x86_64.rpm", 
+    "pkg": "rarian-scrollkeeper-compat", 
+    "pkg_version": "0.8.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "scrollkeeper_0.8.1-6_all.deb", 
+    "pkg": "scrollkeeper", 
+    "pkg_version": "0.8.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "rarian-compat_0.8.1-6_i386.deb", 
+    "pkg": "rarian-compat", 
+    "pkg_version": "0.8.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "librarian-0.8.1-alt6.x86_64.rpm", 
+    "pkg": "librarian", 
+    "pkg_version": "0.8.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "rarian-0.8.1-11-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "rarian", 
+    "pkg_version": "0.8.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "rarian-scrollkeeper-compat-0.8.1-37.1.2.x86_64.rpm", 
+    "pkg": "rarian-scrollkeeper-compat", 
+    "pkg_version": "0.8.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "scrollkeeper_0.8.1-5ubuntu1_all.deb", 
+    "pkg": "scrollkeeper", 
+    "pkg_version": "0.8.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "rarian-compat_0.8.1-5ubuntu1_i386.deb", 
+    "pkg": "rarian-compat", 
+    "pkg_version": "0.8.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

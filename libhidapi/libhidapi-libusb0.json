@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libhidapi-libusb0_0.8.0~rc1+git20140201.3a66d4e+dfsg-3_i386.deb", 
+    "pkg": "libhidapi-libusb0", 
+    "pkg_version": "0.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libhidapi-libusb0_0.8.0~rc1+git20140201.3a66d4e+dfsg-3_i386.deb", 
+    "pkg": "libhidapi-libusb0", 
+    "pkg_version": "0.8.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libhidapi-libusb0-0.8.0~rc1-3.2.x86_64.rpm", 
+    "pkg": "libhidapi-libusb0", 
+    "pkg_version": "0.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libhidapi-libusb0-0.8.0~rc1-2.1.2.x86_64.rpm", 
+    "pkg": "libhidapi-libusb0", 
+    "pkg_version": "0.8.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libhidapi-libusb0_0.8.0~rc1+git20140201.3a66d4e+dfsg-3_i386.deb", 
+    "pkg": "libhidapi-libusb0", 
+    "pkg_version": "0.8.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

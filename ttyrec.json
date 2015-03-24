@@ -1,0 +1,91 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ttyrec-1.0.8-alt2.x86_64.rpm", 
+    "pkg": "ttyrec", 
+    "pkg_version": "1.0.8", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ttyrec_1.0.8-5_i386.deb", 
+    "pkg": "ttyrec", 
+    "pkg_version": "1.0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ttyrec_1.0.8-5_i386.deb", 
+    "pkg": "ttyrec", 
+    "pkg_version": "1.0.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ttyrec_1.0.8-5_i386.deb", 
+    "pkg": "ttyrec", 
+    "pkg_version": "1.0.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "ttyrec-1.0.8-5.1.x86_64.rpm", 
+    "pkg": "ttyrec", 
+    "pkg_version": "1.0.8", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "ttyrec-1.0.8-5.1.x86_64.rpm", 
+    "pkg": "ttyrec", 
+    "pkg_version": "1.0.8", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "ttyrec-1.0.8-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "ttyrec", 
+    "pkg_version": "1.0.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "ttyrec-1.0.8-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "ttyrec", 
+    "pkg_version": "1.0.8", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ttyrec_1.0.8-5_i386.deb", 
+    "pkg": "ttyrec", 
+    "pkg_version": "1.0.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ttyrec_1.0.8-5_i386.deb", 
+    "pkg": "ttyrec", 
+    "pkg_version": "1.0.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

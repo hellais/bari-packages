@@ -1,0 +1,154 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "avahi-dnsconfd-0.6.31-alt5.x86_64.rpm", 
+    "pkg": "avahi-dnsconfd", 
+    "pkg_version": "0.6.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "avahi-dnsconfd-0.6.31-13.el7.x86_64.rpm", 
+    "pkg": "avahi-dnsconfd", 
+    "pkg_version": "0.6.3", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "avahi-dnsconfd-0.6.25-15.el6.x86_64.rpm", 
+    "pkg": "avahi-dnsconfd", 
+    "pkg_version": "0.6.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "avahi-dnsconfd_0.6.31-4+b2_i386.deb", 
+    "pkg": "avahi-dnsconfd", 
+    "pkg_version": "0.6.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "avahi-dnsconfd_0.6.31-4+b2_i386.deb", 
+    "pkg": "avahi-dnsconfd", 
+    "pkg_version": "0.6.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "avahi-dnsconfd_0.6.31-2_i386.deb", 
+    "pkg": "avahi-dnsconfd", 
+    "pkg_version": "0.6.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "avahi-dnsconfd-0.6.31-30.fc22.x86_64.rpm", 
+    "pkg": "avahi-dnsconfd", 
+    "pkg_version": "0.6.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "avahi-dnsconfd-0.6.31-30.fc22.x86_64.rpm", 
+    "pkg": "avahi-dnsconfd", 
+    "pkg_version": "0.6.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "avahi-dnsconfd-0.6.31-30.fc21.x86_64.rpm", 
+    "pkg": "avahi-dnsconfd", 
+    "pkg_version": "0.6.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "avahi-dnsconfd-0.6.31-21.fc20.x86_64.rpm", 
+    "pkg": "avahi-dnsconfd", 
+    "pkg_version": "0.6.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "avahi-dnsconfd-0.6.31-20-omv2015.0.x86_64.rpm", 
+    "pkg": "avahi-dnsconfd", 
+    "pkg_version": "0.6.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "avahi-dnsconfd-0.6.31-15.1-omv2014.0.x86_64.rpm", 
+    "pkg": "avahi-dnsconfd", 
+    "pkg_version": "0.6.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "avahi-dnsconfd-0.6.31-14-omv2013.0.x86_64.rpm", 
+    "pkg": "avahi-dnsconfd", 
+    "pkg_version": "0.6.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "avahi-dnsconfd-0.6.31-16-rosa2014.1.x86_64.rpm", 
+    "pkg": "avahi-dnsconfd", 
+    "pkg_version": "0.6.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "avahi-dnsconfd-0.6.31-7-rosa2012.1.x86_64.rpm", 
+    "pkg": "avahi-dnsconfd", 
+    "pkg_version": "0.6.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "avahi-dnsconfd_0.6.31-4ubuntu3_i386.deb", 
+    "pkg": "avahi-dnsconfd", 
+    "pkg_version": "0.6.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "avahi-dnsconfd_0.6.31-4ubuntu1_i386.deb", 
+    "pkg": "avahi-dnsconfd", 
+    "pkg_version": "0.6.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

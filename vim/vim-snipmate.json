@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-snipmate_0.87-2_all.deb", 
+    "pkg": "vim-snipmate", 
+    "pkg_version": "0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-snipmate_0.87-2_all.deb", 
+    "pkg": "vim-snipmate", 
+    "pkg_version": "0.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

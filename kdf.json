@@ -1,0 +1,514 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kdeutils-kdf-3.5.13.2-alt2.1.x86_64.rpm", 
+    "pkg": "kdeutils-kdf", 
+    "pkg_version": "3.5.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "kdf-4.10.5-3.el7.x86_64.rpm", 
+    "pkg": "kdf", 
+    "pkg_version": "4.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kdeutils-kdf-3.5.13.2-alt2.1.x86_64.rpm", 
+    "pkg": "kdeutils-kdf", 
+    "pkg_version": "3.5.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kdf_4.14.0-1_i386.deb", 
+    "pkg": "kdf", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kdeutils-kdf-3.5.13.2-alt2.1.x86_64.rpm", 
+    "pkg": "kdeutils-kdf", 
+    "pkg_version": "3.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kdf_4.14.0-1_i386.deb", 
+    "pkg": "kdf", 
+    "pkg_version": "4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kdeutils-kdf-3.5.13.2-alt2.1.x86_64.rpm", 
+    "pkg": "kdeutils-kdf", 
+    "pkg_version": "3.5.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kdf_4.8.4-1_i386.deb", 
+    "pkg": "kdf", 
+    "pkg_version": "4.8.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kdeutils-kdf-3.5.13.2-alt2.1.x86_64.rpm", 
+    "pkg": "kdeutils-kdf", 
+    "pkg_version": "3.5.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kdf_4.8.4-1_i386.deb", 
+    "pkg": "kdf", 
+    "pkg_version": "4.8.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kdf-14.12.3-1.fc23.x86_64.rpm", 
+    "pkg": "kdf-1", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kdeutils-kdf-3.5.13.2-alt2.1.x86_64.rpm", 
+    "pkg": "kdeutils-kdf", 
+    "pkg_version": "3.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kdf_4.8.4-1_i386.deb", 
+    "pkg": "kdf", 
+    "pkg_version": "4.8.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kdf-14.12.1-1.fc22.x86_64.rpm", 
+    "pkg": "kdf-1", 
+    "pkg_version": "4.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kdeutils-kdf-3.5.13.2-alt2.1.x86_64.rpm", 
+    "pkg": "kdeutils-kdf", 
+    "pkg_version": "3.5.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kdf-4.14.3-1.fc21.x86_64.rpm", 
+    "pkg": "kdf", 
+    "pkg_version": "4.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "kdf-14.12.3-1.fc21.x86_64.rpm", 
+    "pkg": "kdf-1", 
+    "pkg_version": "4.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kdeutils-kdf-3.5.13.2-alt2.1.x86_64.rpm", 
+    "pkg": "kdeutils-kdf", 
+    "pkg_version": "3.5.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kdf-4.11.3-1.fc20.x86_64.rpm", 
+    "pkg": "kdf", 
+    "pkg_version": "4.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "kdf-14.12.3-1.fc20.x86_64.rpm", 
+    "pkg": "kdf-1", 
+    "pkg_version": "4.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kdeutils-kdf-3.5.13.2-alt2.1.x86_64.rpm", 
+    "pkg": "kdeutils-kdf", 
+    "pkg_version": "3.5.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Mint Import", 
+    "pkg_full_name": "kdf_4.14.2-0ubuntu1~ubuntu14.04~ppa1_i386.deb", 
+    "pkg": "kdf", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kdf-14.12.0-2-omv2015.0.x86_64.rpm", 
+    "pkg": "kdf-1", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kdeutils-kdf-3.5.13.2-alt2.1.x86_64.rpm", 
+    "pkg": "kdeutils-kdf", 
+    "pkg_version": "3.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "kdf-4.14.3-1-omv2014.0.x86_64.rpm", 
+    "pkg": "kdf", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kdf-14.12.0-2-omv2015.0.x86_64.rpm", 
+    "pkg": "kdf-1", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kdeutils-kdf-3.5.13.2-alt2.1.x86_64.rpm", 
+    "pkg": "kdeutils-kdf", 
+    "pkg_version": "3.5.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kdf-4.11.2-1-omv2013.0.x86_64.rpm", 
+    "pkg": "kdf", 
+    "pkg_version": "4.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kdf-14.12.0-2-omv2015.0.x86_64.rpm", 
+    "pkg": "kdf-1", 
+    "pkg_version": "4.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kdeutils-kdf-3.5.13.2-alt2.1.x86_64.rpm", 
+    "pkg": "kdeutils-kdf", 
+    "pkg_version": "3.5.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kdf-4.11.2-1-omv2013.0.x86_64.rpm", 
+    "pkg": "kdf", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kdf-14.12.3-1.1.x86_64.rpm", 
+    "pkg": "kdf-1", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kdeutils-kdf-3.5.13.2-alt2.1.x86_64.rpm", 
+    "pkg": "kdeutils-kdf", 
+    "pkg_version": "3.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kdf-4.14.3-4.2.x86_64.rpm", 
+    "pkg": "kdf", 
+    "pkg_version": "4.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kdf-14.12.3-16.2.x86_64.rpm", 
+    "pkg": "kdf-1", 
+    "pkg_version": "4.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kdeutils-kdf-3.5.13.2-alt2.1.x86_64.rpm", 
+    "pkg": "kdeutils-kdf", 
+    "pkg_version": "3.5.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kdf-4.11.5-154.3.x86_64.rpm", 
+    "pkg": "kdf", 
+    "pkg_version": "4.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kdf-14.12.3-16.2.x86_64.rpm", 
+    "pkg": "kdf-1", 
+    "pkg_version": "4.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kdeutils-kdf-3.5.13.2-alt2.1.x86_64.rpm", 
+    "pkg": "kdeutils-kdf", 
+    "pkg_version": "3.5.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "kdf-4.14.3-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "kdf", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kdf-14.12.3-16.2.x86_64.rpm", 
+    "pkg": "kdf-1", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kdeutils-kdf-3.5.13.2-alt2.1.x86_64.rpm", 
+    "pkg": "kdeutils-kdf", 
+    "pkg_version": "3.5.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "kdf-4.12.4-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "kdf", 
+    "pkg_version": "4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kdf-14.12.3-16.2.x86_64.rpm", 
+    "pkg": "kdf-1", 
+    "pkg_version": "4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kdeutils-kdf-3.5.13.2-alt2.1.x86_64.rpm", 
+    "pkg": "kdeutils-kdf", 
+    "pkg_version": "3.5.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "kdf-4.10.5-x86_64-1.txz", 
+    "pkg": "kdf", 
+    "pkg_version": "4.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kdf-14.12.3-16.2.x86_64.rpm", 
+    "pkg": "kdf-1", 
+    "pkg_version": "4.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kdeutils-kdf-3.5.13.2-alt2.1.x86_64.rpm", 
+    "pkg": "kdeutils-kdf", 
+    "pkg_version": "3.5.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "kdf-4.8.5-x86_64-1.txz", 
+    "pkg": "kdf", 
+    "pkg_version": "4.8.5", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kdf-14.12.3-16.2.x86_64.rpm", 
+    "pkg": "kdf-1", 
+    "pkg_version": "4.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kdeutils-kdf-3.5.13.2-alt2.1.x86_64.rpm", 
+    "pkg": "kdeutils-kdf", 
+    "pkg_version": "3.5.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "kdf_4.14.1-0ubuntu1_i386.deb", 
+    "pkg": "kdf", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kdf-14.12.3-16.2.x86_64.rpm", 
+    "pkg": "kdf-1", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kdeutils-kdf-3.5.13.2-alt2.1.x86_64.rpm", 
+    "pkg": "kdeutils-kdf", 
+    "pkg_version": "3.5.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "kdf_4.13.0-0ubuntu1_i386.deb", 
+    "pkg": "kdf", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kdf-14.12.3-16.2.x86_64.rpm", 
+    "pkg": "kdf-1", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kdeutils-kdf-3.5.13.2-alt2.1.x86_64.rpm", 
+    "pkg": "kdeutils-kdf", 
+    "pkg_version": "3.5.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

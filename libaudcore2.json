@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libaudcore2_3.5-2_i386.deb", 
+    "pkg": "libaudcore2", 
+    "pkg_version": "3.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libaudcore2_3.5-2_i386.deb", 
+    "pkg": "libaudcore2", 
+    "pkg_version": "3.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libaudcore2-3.5.1-2-omv2015.0.i586.rpm", 
+    "pkg": "libaudcore2", 
+    "pkg_version": "3.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "WebUpd8", 
+    "pkg_full_name": "libaudcore2_3.5.2-1~webupd8~utopic0_i386.deb", 
+    "pkg": "libaudcore2", 
+    "pkg_version": "3.5.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

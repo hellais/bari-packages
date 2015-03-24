@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cputool_0.0.7-1_i386.deb", 
+    "pkg": "cputool", 
+    "pkg_version": "0.0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

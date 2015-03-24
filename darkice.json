@@ -1,0 +1,271 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "darkice-0.19-alt1_11.x86_64.rpm", 
+    "pkg": "darkice", 
+    "pkg_version": "0.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "darkice-1.0-1.el7.x86_64.rpm", 
+    "pkg": "darkice", 
+    "pkg_version": "1.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "darkice-1.0-1.el6.x86_64.rpm", 
+    "pkg": "darkice", 
+    "pkg_version": "1.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "darkice-1.0-1.el5.x86_64.rpm", 
+    "pkg": "darkice", 
+    "pkg_version": "1.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "darkice-full_1.2-dmo2_i386.deb", 
+    "pkg": "darkice-full", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "darkice_1.2-0.2_i386.deb", 
+    "pkg": "darkice", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "darkice-full_1.2-dmo2_i386.deb", 
+    "pkg": "darkice-full", 
+    "pkg_version": "1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "darkice_1.2-0.2_i386.deb", 
+    "pkg": "darkice", 
+    "pkg_version": "1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "darkice-full_1.1-dmo2_i386.deb", 
+    "pkg": "darkice-full", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "darkice_1.0-1_i386.deb", 
+    "pkg": "darkice", 
+    "pkg_version": "1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "darkice-full_1.1-dmo2_i386.deb", 
+    "pkg": "darkice-full", 
+    "pkg_version": "1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "darkice-1.0-1.fc20.x86_64.rpm", 
+    "pkg": "darkice", 
+    "pkg_version": "1.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "darkice-full_1.1-dmo2_i386.deb", 
+    "pkg": "darkice-full", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "darkice-1.1-3-omv2015.0.x86_64.rpm", 
+    "pkg": "darkice", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "darkice-full_1.1-dmo2_i386.deb", 
+    "pkg": "darkice-full", 
+    "pkg_version": "1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "darkice-1.1-2-omv2013.0.x86_64.rpm", 
+    "pkg": "darkice", 
+    "pkg_version": "1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "darkice-full_1.1-dmo2_i386.deb", 
+    "pkg": "darkice-full", 
+    "pkg_version": "1.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "darkice-1.1-2-omv2013.0.x86_64.rpm", 
+    "pkg": "darkice", 
+    "pkg_version": "1.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "darkice-full_1.1-dmo2_i386.deb", 
+    "pkg": "darkice-full", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "darkice-1.1-2.66.x86_64.rpm", 
+    "pkg": "darkice", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "darkice-full_1.1-dmo2_i386.deb", 
+    "pkg": "darkice-full", 
+    "pkg_version": "1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "darkice-1.1-2.5.x86_64.rpm", 
+    "pkg": "darkice", 
+    "pkg_version": "1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "darkice-full_1.1-dmo2_i386.deb", 
+    "pkg": "darkice-full", 
+    "pkg_version": "1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "darkice-1.1-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "darkice", 
+    "pkg_version": "1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "darkice-full_1.1-dmo2_i386.deb", 
+    "pkg": "darkice-full", 
+    "pkg_version": "1.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "darkice-1.1-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "darkice", 
+    "pkg_version": "1.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "darkice-full_1.1-dmo2_i386.deb", 
+    "pkg": "darkice-full", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Multiverse", 
+    "pkg_full_name": "darkice_1.2-0.2_i386.deb", 
+    "pkg": "darkice", 
+    "pkg_version": "1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "darkice-full_1.1-dmo2_i386.deb", 
+    "pkg": "darkice-full", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Multiverse", 
+    "pkg_full_name": "darkice_1.0-1ubuntu1_i386.deb", 
+    "pkg": "darkice", 
+    "pkg_version": "1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

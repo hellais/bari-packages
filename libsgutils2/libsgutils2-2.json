@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsgutils2-2_1.39-1_i386.deb", 
+    "pkg": "libsgutils2-2", 
+    "pkg_version": "1.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsgutils2-2_1.39-1_i386.deb", 
+    "pkg": "libsgutils2-2", 
+    "pkg_version": "1.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsgutils2-2_1.33-1_i386.deb", 
+    "pkg": "libsgutils2-2", 
+    "pkg_version": "1.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libsgutils2-2-1.39-3.2.2.x86_64.rpm", 
+    "pkg": "libsgutils2-2", 
+    "pkg_version": "1.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "libsgutils2-2-1.36-3.4.1.x86_64.rpm", 
+    "pkg": "libsgutils2-2", 
+    "pkg_version": "1.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libsgutils2-2_1.38-1_i386.deb", 
+    "pkg": "libsgutils2-2", 
+    "pkg_version": "1.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libsgutils2-2_1.36-1ubuntu1_i386.deb", 
+    "pkg": "libsgutils2-2", 
+    "pkg_version": "1.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

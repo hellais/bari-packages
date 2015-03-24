@@ -1,0 +1,118 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "winff-1.5.3-2-x86_64.pkg.tar.xz", 
+    "pkg": "winff", 
+    "pkg_version": "1.5.3", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "winff_1.5.3-4_all.deb", 
+    "pkg": "winff", 
+    "pkg_version": "1.5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "winff_1.5.3-4_all.deb", 
+    "pkg": "winff", 
+    "pkg_version": "1.5.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "winff_1.4.2-3_i386.deb", 
+    "pkg": "winff", 
+    "pkg_version": "1.4.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "winff-1.5.0-14.2.x86_64.rpm", 
+    "pkg": "winff", 
+    "pkg_version": "1.5.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "winff-1.5.0-14.1.x86_64.rpm", 
+    "pkg": "winff", 
+    "pkg_version": "1.5.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "winff-1.5.3-1.88.i586.rpm", 
+    "pkg": "winff", 
+    "pkg_version": "1.5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "winff-1.5.3-1.33.x86_64.rpm", 
+    "pkg": "winff", 
+    "pkg_version": "1.5.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "winff-1.5.3-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "winff", 
+    "pkg_version": "1.5.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "winff-1.5.3-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "winff", 
+    "pkg_version": "1.5.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "winff-1.5.2-x86_64-1sl.txz", 
+    "pkg": "winff", 
+    "pkg_version": "1.5.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "winff_1.5.3-4ubuntu1_all.deb", 
+    "pkg": "winff", 
+    "pkg_version": "1.5.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "winff_1.5.3-3_all.deb", 
+    "pkg": "winff", 
+    "pkg_version": "1.5.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

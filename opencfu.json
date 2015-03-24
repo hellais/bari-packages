@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "opencfu_3.9.0-1_i386.deb", 
+    "pkg": "opencfu", 
+    "pkg_version": "3.9.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "opencfu-3.8.11-3.fc22.x86_64.rpm", 
+    "pkg": "opencfu", 
+    "pkg_version": "3.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "opencfu-3.8.11-3.fc22.x86_64.rpm", 
+    "pkg": "opencfu", 
+    "pkg_version": "3.8.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "opencfu-3.8.11-3.fc21.x86_64.rpm", 
+    "pkg": "opencfu", 
+    "pkg_version": "3.8.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

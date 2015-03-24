@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-language-python-dev_0.4.0-3_i386.deb", 
+    "pkg": "libghc-language-python-dev", 
+    "pkg_version": "0.4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

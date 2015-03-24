@@ -1,0 +1,181 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xpdf-3.03-alt1.1.x86_64.rpm", 
+    "pkg": "xpdf", 
+    "pkg_version": "3.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "xpdf-3.02-16.puias6.x86_64.rpm", 
+    "pkg": "xpdf", 
+    "pkg_version": "3.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "xpdf-3.02-8.el5.rf.x86_64.rpm", 
+    "pkg": "xpdf", 
+    "pkg_version": "3.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xpdf_3.03-17+b1_i386.deb", 
+    "pkg": "xpdf", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xpdf_3.03-17+b1_i386.deb", 
+    "pkg": "xpdf", 
+    "pkg_version": "3.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xpdf_3.03-10_i386.deb", 
+    "pkg": "xpdf", 
+    "pkg_version": "3.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xpdf-3.04-7.fc22.x86_64.rpm", 
+    "pkg": "xpdf", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xpdf-3.04-7.fc22.x86_64.rpm", 
+    "pkg": "xpdf", 
+    "pkg_version": "3.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "xpdf-3.04-6.fc21.x86_64.rpm", 
+    "pkg": "xpdf", 
+    "pkg_version": "3.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "xpdf-3.04-6.fc20.x86_64.rpm", 
+    "pkg": "xpdf", 
+    "pkg_version": "3.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "xpdf-3.03-2-omv2013.0.x86_64.rpm", 
+    "pkg": "xpdf", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "xpdf-3.03-2-omv2013.0.x86_64.rpm", 
+    "pkg": "xpdf", 
+    "pkg_version": "3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "xpdf-3.03-2-omv2013.0.x86_64.rpm", 
+    "pkg": "xpdf", 
+    "pkg_version": "3.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "xpdf-3.03-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "xpdf", 
+    "pkg_version": "3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "xpdf-3.03-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "xpdf", 
+    "pkg_version": "3.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "xpdf-3.03-x86_64-3.txz", 
+    "pkg": "xpdf", 
+    "pkg_version": "3.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware Patches", 
+    "pkg_full_name": "xpdf-3.03-x86_64-1_slack14.0.txz", 
+    "pkg": "xpdf", 
+    "pkg_version": "3.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware Patches", 
+    "pkg_full_name": "xpdf-3.03-x86_64-1_slack13.37.txz", 
+    "pkg": "xpdf", 
+    "pkg_version": "3.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xpdf_3.03-17build1_i386.deb", 
+    "pkg": "xpdf", 
+    "pkg_version": "3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xpdf_3.03-16+experimental2_i386.deb", 
+    "pkg": "xpdf", 
+    "pkg_version": "3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

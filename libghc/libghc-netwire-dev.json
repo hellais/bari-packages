@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-netwire-dev_5.0.0-1+b6_i386.deb", 
+    "pkg": "libghc-netwire-dev", 
+    "pkg_version": "5.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-netwire-dev_5.0.0-1+b6_i386.deb", 
+    "pkg": "libghc-netwire-dev", 
+    "pkg_version": "5.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-netwire-dev_3.1.0-2+b5_i386.deb", 
+    "pkg": "libghc-netwire-dev", 
+    "pkg_version": "3.1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-netwire-dev_5.0.0-1build4_i386.deb", 
+    "pkg": "libghc-netwire-dev", 
+    "pkg_version": "5.0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-netwire-dev_5.0.0-1build1_i386.deb", 
+    "pkg": "libghc-netwire-dev", 
+    "pkg_version": "5.0.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

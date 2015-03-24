@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "OpenNMS Unstable", 
+    "pkg_full_name": "libcommons-digester-java_1.1.1-1_all.deb", 
+    "pkg": "libcommons-digester-java", 
+    "pkg_version": "1.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenNMS Unstable", 
+    "pkg_full_name": "libcommons-digester-java_1.1.1-1_all.deb", 
+    "pkg": "libcommons-digester-java", 
+    "pkg_version": "1.1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenNMS Unstable", 
+    "pkg_full_name": "libcommons-digester-java_1.1.1-1_all.deb", 
+    "pkg": "libcommons-digester-java", 
+    "pkg_version": "1.1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libcommons-digester-java_1.8.1-4_all.deb", 
+    "pkg": "libcommons-digester-java", 
+    "pkg_version": "1.8.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libcommons-digester-java_1.8.1-4_all.deb", 
+    "pkg": "libcommons-digester-java", 
+    "pkg_version": "1.8.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

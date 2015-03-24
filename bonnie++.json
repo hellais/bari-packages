@@ -1,0 +1,225 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "bonnie++-1.97.1-alt1.x86_64.rpm", 
+    "pkg": "bonnie++", 
+    "pkg_version": "1.9", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "bonnie++-1.97-1-x86_64.pkg.tar.xz", 
+    "pkg": "bonnie++", 
+    "pkg_version": "1.9", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "bonnie++-1.96-1.el7.rf.x86_64.rpm", 
+    "pkg": "bonnie++", 
+    "pkg_version": "1.9", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "bonnie++-1.96-1.el6.rf.x86_64.rpm", 
+    "pkg": "bonnie++", 
+    "pkg_version": "1.9", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "bonnie++-1.96-1.el5.rf.x86_64.rpm", 
+    "pkg": "bonnie++", 
+    "pkg_version": "1.9", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bonnie++_1.97.1_i386.deb", 
+    "pkg": "bonnie++", 
+    "pkg_version": "1.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bonnie++_1.97.1_i386.deb", 
+    "pkg": "bonnie++", 
+    "pkg_version": "1.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bonnie++_1.96_i386.deb", 
+    "pkg": "bonnie++", 
+    "pkg_version": "1.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "bonnie++-1.96-8.fc22.x86_64.rpm", 
+    "pkg": "bonnie++", 
+    "pkg_version": "1.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "bonnie++-1.96-8.fc22.x86_64.rpm", 
+    "pkg": "bonnie++", 
+    "pkg_version": "1.9", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "bonnie++-1.96-8.fc21.x86_64.rpm", 
+    "pkg": "bonnie++", 
+    "pkg_version": "1.9", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "bonnie++-1.96-6.fc20.x86_64.rpm", 
+    "pkg": "bonnie++", 
+    "pkg_version": "1.9", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "bonnie++-1.96-4-omv2013.0.x86_64.rpm", 
+    "pkg": "bonnie++", 
+    "pkg_version": "1.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "bonnie++-1.96-4-omv2013.0.x86_64.rpm", 
+    "pkg": "bonnie++", 
+    "pkg_version": "1.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "bonnie++-1.96-4-omv2013.0.x86_64.rpm", 
+    "pkg": "bonnie++", 
+    "pkg_version": "1.9", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "bonnie++-1.97-4.2.x86_64.rpm", 
+    "pkg": "bonnie++", 
+    "pkg_version": "1.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "bonnie++-1.97-2.1.2.x86_64.rpm", 
+    "pkg": "bonnie++", 
+    "pkg_version": "1.9", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "bonnie++-1.96-9.1.2.i586.rpm", 
+    "pkg": "bonnie++", 
+    "pkg_version": "1.9", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "bonnie++-1.97-5-rosa2014.1.x86_64.rpm", 
+    "pkg": "bonnie++", 
+    "pkg_version": "1.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "bonnie++-1.97-4-rosa2012.1.x86_64.rpm", 
+    "pkg": "bonnie++", 
+    "pkg_version": "1.9", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Johannes Sch\u00f6pfer", 
+    "pkg_full_name": "bonnie++-1.03e-x86_64-1jsc.txz", 
+    "pkg": "bonnie++", 
+    "pkg_version": "1.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Johannes Sch\u00f6pfer", 
+    "pkg_full_name": "bonnie++-1.03e-x86_64-1jsc.txz", 
+    "pkg": "bonnie++", 
+    "pkg_version": "1.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Johannes Sch\u00f6pfer", 
+    "pkg_full_name": "bonnie++-1.03e-x86_64-1jsc.txz", 
+    "pkg": "bonnie++", 
+    "pkg_version": "1.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "bonnie++_1.97.1_i386.deb", 
+    "pkg": "bonnie++", 
+    "pkg_version": "1.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "bonnie++_1.97.1_i386.deb", 
+    "pkg": "bonnie++", 
+    "pkg_version": "1.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

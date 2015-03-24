@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "qpid-tools-0.30-12.el7.x86_64.rpm", 
+    "pkg": "qpid-tools", 
+    "pkg_version": "0.3", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "qpid-tools-0.14-6.el6_3.noarch.rpm", 
+    "pkg": "qpid-tools", 
+    "pkg_version": "0.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qpid-tools_0.16-1_all.deb", 
+    "pkg": "qpid-tools", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qpid-tools_0.14-1_all.deb", 
+    "pkg": "qpid-tools", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "qpid-tools-0.30-12.fc23.x86_64.rpm", 
+    "pkg": "qpid-tools", 
+    "pkg_version": "0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "qpid-tools-0.30-10.fc22.x86_64.rpm", 
+    "pkg": "qpid-tools", 
+    "pkg_version": "0.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "compat-qpid-tools-0.24-18.fc21.noarch.rpm", 
+    "pkg": "compat-qpid-tools", 
+    "pkg_version": "0.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "qpid-tools-0.30-12.fc21.x86_64.rpm", 
+    "pkg": "qpid-tools", 
+    "pkg_version": "0.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "compat-qpid-tools-0.24-18.fc21.noarch.rpm", 
+    "pkg": "compat-qpid-tools", 
+    "pkg_version": "0.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "qpid-tools-0.26-13.fc20.noarch.rpm", 
+    "pkg": "qpid-tools", 
+    "pkg_version": "0.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

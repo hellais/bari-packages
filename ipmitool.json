@@ -1,0 +1,378 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ipmitool-1.8.13-alt3.x86_64.rpm", 
+    "pkg": "ipmitool", 
+    "pkg_version": "1.8.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "ipmitool-1.8.15-1-x86_64.pkg.tar.xz", 
+    "pkg": "ipmitool", 
+    "pkg_version": "1.8.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ipmitool-1.8.13-7.el7.x86_64.rpm", 
+    "pkg": "ipmitool", 
+    "pkg_version": "1.8.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "ipmitool-1.8.11-21.el6.x86_64.rpm", 
+    "pkg": "ipmitool", 
+    "pkg_version": "1.8.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "ipmitool-1.8.11-21.el6.x86_64.rpm", 
+    "pkg": "ipmitool", 
+    "pkg_version": "1.8.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "OpenIPMI-tools-2.0.16-16.el5.x86_64.rpm", 
+    "pkg": "OpenIPMI-tools", 
+    "pkg_version": "2.0.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ipmitool_1.8.15-1_i386.deb", 
+    "pkg": "ipmitool", 
+    "pkg_version": "1.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "OpenIPMI-tools-2.0.16-16.el5.x86_64.rpm", 
+    "pkg": "OpenIPMI-tools", 
+    "pkg_version": "2.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ipmitool_1.8.14-4_i386.deb", 
+    "pkg": "ipmitool", 
+    "pkg_version": "1.8.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "OpenIPMI-tools-2.0.16-16.el5.x86_64.rpm", 
+    "pkg": "OpenIPMI-tools", 
+    "pkg_version": "2.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ipmitool_1.8.11-5_i386.deb", 
+    "pkg": "ipmitool", 
+    "pkg_version": "1.8.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "OpenIPMI-tools-2.0.16-16.el5.x86_64.rpm", 
+    "pkg": "OpenIPMI-tools", 
+    "pkg_version": "2.0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ipmitool-1.8.13-6.fc22.x86_64.rpm", 
+    "pkg": "ipmitool", 
+    "pkg_version": "1.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "OpenIPMI-tools-2.0.16-16.el5.x86_64.rpm", 
+    "pkg": "OpenIPMI-tools", 
+    "pkg_version": "2.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ipmitool-1.8.13-6.fc22.x86_64.rpm", 
+    "pkg": "ipmitool", 
+    "pkg_version": "1.8.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "OpenIPMI-tools-2.0.16-16.el5.x86_64.rpm", 
+    "pkg": "OpenIPMI-tools", 
+    "pkg_version": "2.0.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ipmitool-1.8.13-6.fc21.x86_64.rpm", 
+    "pkg": "ipmitool", 
+    "pkg_version": "1.8.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "OpenIPMI-tools-2.0.16-16.el5.x86_64.rpm", 
+    "pkg": "OpenIPMI-tools", 
+    "pkg_version": "2.0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ipmitool-1.8.13-3.fc20.x86_64.rpm", 
+    "pkg": "ipmitool", 
+    "pkg_version": "1.8.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "OpenIPMI-tools-2.0.16-16.el5.x86_64.rpm", 
+    "pkg": "OpenIPMI-tools", 
+    "pkg_version": "2.0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "ipmitool-1.8.15-2-omv2015.0.x86_64.rpm", 
+    "pkg": "ipmitool", 
+    "pkg_version": "1.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "OpenIPMI-tools-2.0.16-16.el5.x86_64.rpm", 
+    "pkg": "OpenIPMI-tools", 
+    "pkg_version": "2.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "ipmitool-1.8.11-13-omv2014.0.x86_64.rpm", 
+    "pkg": "ipmitool", 
+    "pkg_version": "1.8.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "OpenIPMI-tools-2.0.16-16.el5.x86_64.rpm", 
+    "pkg": "OpenIPMI-tools", 
+    "pkg_version": "2.0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "ipmitool-1.8.11-12-omv2013.0.x86_64.rpm", 
+    "pkg": "ipmitool", 
+    "pkg_version": "1.8.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "OpenIPMI-tools-2.0.16-16.el5.x86_64.rpm", 
+    "pkg": "OpenIPMI-tools", 
+    "pkg_version": "2.0.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ipmitool-1.8.13-5.2.x86_64.rpm", 
+    "pkg": "ipmitool", 
+    "pkg_version": "1.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "OpenIPMI-tools-2.0.16-16.el5.x86_64.rpm", 
+    "pkg": "OpenIPMI-tools", 
+    "pkg_version": "2.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ipmitool-1.8.13-4.1.2.x86_64.rpm", 
+    "pkg": "ipmitool", 
+    "pkg_version": "1.8.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "OpenIPMI-tools-2.0.16-16.el5.x86_64.rpm", 
+    "pkg": "OpenIPMI-tools", 
+    "pkg_version": "2.0.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ipmitool-1.8.12-12.1.2.i586.rpm", 
+    "pkg": "ipmitool", 
+    "pkg_version": "1.8.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "OpenIPMI-tools-2.0.16-16.el5.x86_64.rpm", 
+    "pkg": "OpenIPMI-tools", 
+    "pkg_version": "2.0.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "ipmitool-1.8.15-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "ipmitool", 
+    "pkg_version": "1.8.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "OpenIPMI-tools-2.0.16-16.el5.x86_64.rpm", 
+    "pkg": "OpenIPMI-tools", 
+    "pkg_version": "2.0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "ipmitool-1.8.13-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "ipmitool", 
+    "pkg_version": "1.8.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "OpenIPMI-tools-2.0.16-16.el5.x86_64.rpm", 
+    "pkg": "OpenIPMI-tools", 
+    "pkg_version": "2.0.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Freestylers", 
+    "pkg_full_name": "ipmitool-1.8.13-x86_64-1_fs.tgz", 
+    "pkg": "ipmitool", 
+    "pkg_version": "1.8.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "OpenIPMI-tools-2.0.16-16.el5.x86_64.rpm", 
+    "pkg": "OpenIPMI-tools", 
+    "pkg_version": "2.0.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ipmitool_1.8.14-4_i386.deb", 
+    "pkg": "ipmitool", 
+    "pkg_version": "1.8.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "OpenIPMI-tools-2.0.16-16.el5.x86_64.rpm", 
+    "pkg": "OpenIPMI-tools", 
+    "pkg_version": "2.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "ipmitool_1.8.13-1ubuntu0.2_i386.deb", 
+    "pkg": "ipmitool", 
+    "pkg_version": "1.8.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "OpenIPMI-tools-2.0.16-16.el5.x86_64.rpm", 
+    "pkg": "OpenIPMI-tools", 
+    "pkg_version": "2.0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

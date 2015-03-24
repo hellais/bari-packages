@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libindi-plugins_0.9.8.1-5.1+b1_i386.deb", 
+    "pkg": "libindi-plugins", 
+    "pkg_version": "0.9.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

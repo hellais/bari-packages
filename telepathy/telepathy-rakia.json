@@ -1,0 +1,117 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "telepathy-rakia-0.8.0-alt1.x86_64.rpm", 
+    "pkg": "telepathy-rakia", 
+    "pkg_version": "0.8.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "telepathy-rakia-0.8.0-1-x86_64.pkg.tar.xz", 
+    "pkg": "telepathy-rakia", 
+    "pkg_version": "0.8.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "telepathy-rakia_0.8.0-3_i386.deb", 
+    "pkg": "telepathy-rakia", 
+    "pkg_version": "0.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "telepathy-rakia_0.8.0-3_i386.deb", 
+    "pkg": "telepathy-rakia", 
+    "pkg_version": "0.8.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "telepathy-rakia_0.7.4-1_i386.deb", 
+    "pkg": "telepathy-rakia", 
+    "pkg_version": "0.7.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "telepathy-rakia-0.8.0-3.fc22.x86_64.rpm", 
+    "pkg": "telepathy-rakia", 
+    "pkg_version": "0.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "telepathy-rakia-0.8.0-3.fc22.x86_64.rpm", 
+    "pkg": "telepathy-rakia", 
+    "pkg_version": "0.8.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "telepathy-rakia-0.8.0-3.fc21.x86_64.rpm", 
+    "pkg": "telepathy-rakia", 
+    "pkg_version": "0.8.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "telepathy-rakia-0.8.0-1.fc20.x86_64.rpm", 
+    "pkg": "telepathy-rakia", 
+    "pkg_version": "0.8.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "telepathy-rakia-0.8.0-3.2.x86_64.rpm", 
+    "pkg": "telepathy-rakia", 
+    "pkg_version": "0.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "telepathy-rakia-0.8.0-2.1.4.x86_64.rpm", 
+    "pkg": "telepathy-rakia", 
+    "pkg_version": "0.8.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "telepathy-rakia-0.8.0-1.1.i586.rpm", 
+    "pkg": "telepathy-rakia", 
+    "pkg_version": "0.8.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "telepathy-rakia_0.8.0-2_i386.deb", 
+    "pkg": "telepathy-rakia", 
+    "pkg_version": "0.8.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnome-user-share-3.14.2-alt1.x86_64.rpm", 
+    "pkg": "gnome-user-share", 
+    "pkg_version": "3.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gnome-user-share-3.14.1-1-x86_64.pkg.tar.xz", 
+    "pkg": "gnome-user-share", 
+    "pkg_version": "3.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "gnome-user-share-2.28.2-3.el6.x86_64.rpm", 
+    "pkg": "gnome-user-share", 
+    "pkg_version": "2.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Scientific Linux Cyrillic Edition", 
+    "pkg_full_name": "gnome-user-share-0.10-6.1.Nau5x.i386.rpm", 
+    "pkg": "gnome-user-share", 
+    "pkg_version": "0.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-user-share_3.14.0-2_i386.deb", 
+    "pkg": "gnome-user-share", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-user-share_3.14.0-2_i386.deb", 
+    "pkg": "gnome-user-share", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-user-share_3.0.2-1_i386.deb", 
+    "pkg": "gnome-user-share", 
+    "pkg_version": "3.0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnome-user-share-3.14.2-1.fc22.x86_64.rpm", 
+    "pkg": "gnome-user-share", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnome-user-share-3.14.2-1.fc22.x86_64.rpm", 
+    "pkg": "gnome-user-share", 
+    "pkg_version": "3.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "gnome-user-share-3.14.2-1.fc21.x86_64.rpm", 
+    "pkg": "gnome-user-share", 
+    "pkg_version": "3.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnome-user-share-3.10.1-1.fc20.x86_64.rpm", 
+    "pkg": "gnome-user-share", 
+    "pkg_version": "3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gnome-user-share-3.14.0-2-omv2015.0.x86_64.rpm", 
+    "pkg": "gnome-user-share", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gnome-user-share-3.0.4-2-omv2014.0.x86_64.rpm", 
+    "pkg": "gnome-user-share", 
+    "pkg_version": "3.0.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gnome-user-share-3.0.4-1-omv2013.0.x86_64.rpm", 
+    "pkg": "gnome-user-share", 
+    "pkg_version": "3.0.4", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gnome-user-share-3.14.2-1.1.x86_64.rpm", 
+    "pkg": "gnome-user-share", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "gnome-user-share-3.14.2-4.1.x86_64.rpm", 
+    "pkg": "gnome-user-share", 
+    "pkg_version": "3.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "gnome-user-share-3.10.2-14.3.x86_64.rpm", 
+    "pkg": "gnome-user-share", 
+    "pkg_version": "3.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "gnome-user-share-3.10.2-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "gnome-user-share", 
+    "pkg_version": "3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "gnome-user-share-3.0.4-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "gnome-user-share", 
+    "pkg_version": "3.0.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "gnome-user-share_3.0.4-0ubuntu1_i386.deb", 
+    "pkg": "gnome-user-share", 
+    "pkg_version": "3.0.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "gnome-user-share_3.0.4-0ubuntu1_i386.deb", 
+    "pkg": "gnome-user-share", 
+    "pkg_version": "3.0.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "nas-1.9.4-1.el7.nux.x86_64.rpm", 
+    "pkg": "nas", 
+    "pkg_version": "1.9.4", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS", 
+    "pkg_full_name": "nas-1.9.1-2.puias6.x86_64.rpm", 
+    "pkg": "nas", 
+    "pkg_version": "1.9.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Scientific Linux Cyrillic Edition", 
+    "pkg_full_name": "nas-1.9.1-2.Nau5x.i386.rpm", 
+    "pkg": "nas", 
+    "pkg_version": "1.9.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nas_1.9.4-3_i386.deb", 
+    "pkg": "nas", 
+    "pkg_version": "1.9.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nas_1.9.4-3_i386.deb", 
+    "pkg": "nas", 
+    "pkg_version": "1.9.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "nas_1.9.3-5wheezy1_i386.deb", 
+    "pkg": "nas", 
+    "pkg_version": "1.9.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "nas-1.9.4-5.fc23.x86_64.rpm", 
+    "pkg": "nas", 
+    "pkg_version": "1.9.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "nas-1.9.4-2.fc21.x86_64.rpm", 
+    "pkg": "nas", 
+    "pkg_version": "1.9.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "nas-1.9.4-2.fc21.x86_64.rpm", 
+    "pkg": "nas", 
+    "pkg_version": "1.9.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "nas-1.9.4-1.fc20.x86_64.rpm", 
+    "pkg": "nas", 
+    "pkg_version": "1.9.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "nas-1.9.4-3-omv2015.0.x86_64.rpm", 
+    "pkg": "nas", 
+    "pkg_version": "1.9.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "nas-1.9.2-11-omv2014.0.x86_64.rpm", 
+    "pkg": "nas", 
+    "pkg_version": "1.9.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "nas-1.9.2-10-omv2013.0.x86_64.rpm", 
+    "pkg": "nas", 
+    "pkg_version": "1.9.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Multimedia Libs", 
+    "pkg_full_name": "nas-1.9.3-1.61.x86_64.rpm", 
+    "pkg": "nas", 
+    "pkg_version": "1.9.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Multimedia Libs", 
+    "pkg_full_name": "nas-1.9.3-1.1.x86_64.rpm", 
+    "pkg": "nas", 
+    "pkg_version": "1.9.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Multimedia Libs", 
+    "pkg_full_name": "nas-1.9.3-1.1.x86_64.rpm", 
+    "pkg": "nas", 
+    "pkg_version": "1.9.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "nas-1.9.4-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "nas", 
+    "pkg_version": "1.9.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "nas-1.9.2-6-rosa2012.1.x86_64.rpm", 
+    "pkg": "nas", 
+    "pkg_version": "1.9.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "nas_1.9.4-1_i386.deb", 
+    "pkg": "nas", 
+    "pkg_version": "1.9.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "nas_1.9.4-1_i386.deb", 
+    "pkg": "nas", 
+    "pkg_version": "1.9.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

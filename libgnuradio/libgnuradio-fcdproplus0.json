@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgnuradio-fcdproplus0_3.7.11-3_i386.deb", 
+    "pkg": "libgnuradio-fcdproplus0", 
+    "pkg_version": "3.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgnuradio-fcdproplus0_3.7.11-3_i386.deb", 
+    "pkg": "libgnuradio-fcdproplus0", 
+    "pkg_version": "3.7.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "libgnuradio-fcdproplus0_3.7.11-3~bpo70+1_i386.deb", 
+    "pkg": "libgnuradio-fcdproplus0", 
+    "pkg_version": "3.7.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libgnuradio-fcdproplus0_0.0.1.2.1edbe52-2_i386.deb", 
+    "pkg": "libgnuradio-fcdproplus0", 
+    "pkg_version": "0.0.1.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libjs-leaflet-markercluster_0.4.0~dfsg-1_all.deb", 
+    "pkg": "libjs-leaflet-markercluster", 
+    "pkg_version": "0.4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libjs-leaflet-markercluster_0.4.0~dfsg-1_all.deb", 
+    "pkg": "libjs-leaflet-markercluster", 
+    "pkg_version": "0.4.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libjs-leaflet-markercluster_0.4~dfsg-2_all.deb", 
+    "pkg": "libjs-leaflet-markercluster", 
+    "pkg_version": "0.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

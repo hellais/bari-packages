@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fonts-droid_4.4.4r2-6_all.deb", 
+    "pkg": "fonts-droid", 
+    "pkg_version": "4.4.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fonts-droid_4.4.4r2-6_all.deb", 
+    "pkg": "fonts-droid", 
+    "pkg_version": "4.4.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "fonts-droid_4.3-3~bpo70+1_all.deb", 
+    "pkg": "fonts-droid", 
+    "pkg_version": "4.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "fonts-droid_4.3-3ubuntu2_all.deb", 
+    "pkg": "fonts-droid", 
+    "pkg_version": "4.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "fonts-droid_4.3-3ubuntu1.1_all.deb", 
+    "pkg": "fonts-droid", 
+    "pkg_version": "4.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

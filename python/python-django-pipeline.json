@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-django-pipeline-1.3.24-1.el7.noarch.rpm", 
+    "pkg": "python-django-pipeline", 
+    "pkg_version": "1.3.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-django-pipeline-1.2.24-2.el6.noarch.rpm", 
+    "pkg": "python-django-pipeline", 
+    "pkg_version": "1.2.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-django-pipeline_1.4.4.1-1_all.deb", 
+    "pkg": "python-django-pipeline", 
+    "pkg_version": "1.4.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-django-pipeline_1.3.24-0.2_all.deb", 
+    "pkg": "python-django-pipeline", 
+    "pkg_version": "1.3.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-django-pipeline-1.3.24-2.fc21.noarch.rpm", 
+    "pkg": "python-django-pipeline", 
+    "pkg_version": "1.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-django-pipeline-1.3.24-2.fc21.noarch.rpm", 
+    "pkg": "python-django-pipeline", 
+    "pkg_version": "1.3.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-django-pipeline-1.3.24-2.fc21.noarch.rpm", 
+    "pkg": "python-django-pipeline", 
+    "pkg_version": "1.3.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-django-pipeline-1.2.24-3.fc20.noarch.rpm", 
+    "pkg": "python-django-pipeline", 
+    "pkg_version": "1.2.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-django-pipeline_1.3.24-0.2_all.deb", 
+    "pkg": "python-django-pipeline", 
+    "pkg_version": "1.3.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Mageia Core Updates", 
+    "pkg_full_name": "python-django14-pipeline-0.7.30-1.1.mga4.noarch.rpm", 
+    "pkg": "python-django14-pipeline", 
+    "pkg_version": "0.7.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

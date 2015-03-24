@@ -1,0 +1,128 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "clips-doc-6.30.0-0.2.20090722svn.el6.noarch.rpm", 
+    "pkg": "clips-doc", 
+    "pkg_version": "6.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "clips-doc-6.30.0-0.1.20090722svn.el5.x86_64.rpm", 
+    "pkg": "clips-doc", 
+    "pkg_version": "6.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "clips-doc_6.24-2_all.deb", 
+    "pkg": "clips-doc", 
+    "pkg_version": "6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "clips-doc_6.24-2_all.deb", 
+    "pkg": "clips-doc", 
+    "pkg_version": "6.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "clips-doc_6.24-2_all.deb", 
+    "pkg": "clips-doc", 
+    "pkg_version": "6.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "clips-doc-6.30.0-0.10.20090722svn.fc22.noarch.rpm", 
+    "pkg": "clips-doc", 
+    "pkg_version": "6.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "clips-doc-6.30.0-0.10.20090722svn.fc22.noarch.rpm", 
+    "pkg": "clips-doc", 
+    "pkg_version": "6.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "clips-doc-6.30.0-0.10.20090722svn.fc21.noarch.rpm", 
+    "pkg": "clips-doc", 
+    "pkg_version": "6.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "clips-doc-6.30.0-0.8.20090722svn.fc20.noarch.rpm", 
+    "pkg": "clips-doc", 
+    "pkg_version": "6.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "clips-doc-6.30.0-2.244.x86_64.rpm", 
+    "pkg": "clips-doc", 
+    "pkg_version": "6.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "clips-doc-6.30.0-2.1.x86_64.rpm", 
+    "pkg": "clips-doc", 
+    "pkg_version": "6.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "clips-doc-6.30.0-2.10.x86_64.rpm", 
+    "pkg": "clips-doc", 
+    "pkg_version": "6.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "clips-doc_6.24-2_all.deb", 
+    "pkg": "clips-doc", 
+    "pkg_version": "6.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "clips-doc_6.24-2_all.deb", 
+    "pkg": "clips-doc", 
+    "pkg_version": "6.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

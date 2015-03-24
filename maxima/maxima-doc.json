@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "maxima-doc_5.35.1-1_all.deb", 
+    "pkg": "maxima-doc", 
+    "pkg_version": "5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "maxima-doc_5.34.1-2_all.deb", 
+    "pkg": "maxima-doc", 
+    "pkg_version": "5.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "maxima-doc_5.27.0-3_all.deb", 
+    "pkg": "maxima-doc", 
+    "pkg_version": "5.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "maxima-doc_5.33.0-14_all.deb", 
+    "pkg": "maxima-doc", 
+    "pkg_version": "5.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "maxima-doc_5.32.1-1_all.deb", 
+    "pkg": "maxima-doc", 
+    "pkg_version": "5.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

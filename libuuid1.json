@@ -1,0 +1,119 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libuuid1_2.25.2-5_i386.deb", 
+    "pkg": "libuuid1", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libuuid1_2.25.2-5_i386.deb", 
+    "pkg": "libuuid1", 
+    "pkg_version": "2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libuuid1_2.20.1-5.3_i386.deb", 
+    "pkg": "libuuid1", 
+    "pkg_version": "2.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libuuid1-2.26-2-omv2015.0.i586.rpm", 
+    "pkg": "libuuid1", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "libuuid1-2.23.2-8-omv2014.0.i586.rpm", 
+    "pkg": "libuuid1", 
+    "pkg_version": "2.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libuuid1-2.23.1-5-omv2013.0.i586.rpm", 
+    "pkg": "libuuid1", 
+    "pkg_version": "2.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libuuid1-2.26-1.2.x86_64.rpm", 
+    "pkg": "libuuid1", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "libuuid1-2.25.1-9.1.x86_64.rpm", 
+    "pkg": "libuuid1", 
+    "pkg_version": "2.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "libuuid1-2.23.2-6.1.x86_64.rpm", 
+    "pkg": "libuuid1", 
+    "pkg_version": "2.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libuuid1-2.24.2-5-rosa2014.1.i586.rpm", 
+    "pkg": "libuuid1", 
+    "pkg_version": "2.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "libuuid1-2.24.2-4-rosa2012.1.i586.rpm", 
+    "pkg": "libuuid1", 
+    "pkg_version": "2.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libuuid1_2.25.1-3ubuntu4_i386.deb", 
+    "pkg": "libuuid1", 
+    "pkg_version": "2.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "libuuid1_2.20.1-5.1ubuntu20.4_i386.deb", 
+    "pkg": "libuuid1", 
+    "pkg_version": "2.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

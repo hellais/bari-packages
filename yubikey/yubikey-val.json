@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "yubikey-val-2.7-2.el6.noarch.rpm", 
+    "pkg": "yubikey-val", 
+    "pkg_version": "2.7", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "yubikey-val_2.28-1_all.deb", 
+    "pkg": "yubikey-val", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "yubikey-val_2.27-1_all.deb", 
+    "pkg": "yubikey-val", 
+    "pkg_version": "2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "yubikey-val-2.10-6.fc21.noarch.rpm", 
+    "pkg": "yubikey-val", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "yubikey-val-2.10-6.fc21.noarch.rpm", 
+    "pkg": "yubikey-val", 
+    "pkg_version": "2.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "yubikey-val-2.10-6.fc21.noarch.rpm", 
+    "pkg": "yubikey-val", 
+    "pkg_version": "2.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "yubikey-val-2.10-5.fc20.noarch.rpm", 
+    "pkg": "yubikey-val", 
+    "pkg_version": "2.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "yubikey-val_2.24-1_all.deb", 
+    "pkg": "yubikey-val", 
+    "pkg_version": "2.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dvdwizard_0.7.1-2_all.deb", 
+    "pkg": "dvdwizard", 
+    "pkg_version": "0.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "dvdwizard_0.7.1-dmo1_all.deb", 
+    "pkg": "dvdwizard", 
+    "pkg_version": "0.7.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "dvdwizard_0.7.1-dmo1_all.deb", 
+    "pkg": "dvdwizard", 
+    "pkg_version": "0.7.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "dvdwizard-0.7.1-2.9.noarch.rpm", 
+    "pkg": "dvdwizard", 
+    "pkg_version": "0.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "dvdwizard-0.7.1-2.4.noarch.rpm", 
+    "pkg": "dvdwizard", 
+    "pkg_version": "0.7.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Restricted", 
+    "pkg_full_name": "dvdwizard-0.7.0-2-plf2014.1.noarch.rpm", 
+    "pkg": "dvdwizard", 
+    "pkg_version": "0.7.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Restricted", 
+    "pkg_full_name": "dvdwizard-0.7.0-2-plf2012.1.noarch.rpm", 
+    "pkg": "dvdwizard", 
+    "pkg_version": "0.7.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "dvdwizard-0.7.1-i486-2sl.txz", 
+    "pkg": "dvdwizard", 
+    "pkg_version": "0.7.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "dvdwizard-0.7.1-x86-1sl.txz", 
+    "pkg": "dvdwizard", 
+    "pkg_version": "0.7.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Multiverse", 
+    "pkg_full_name": "dvdwizard_0.7.1-2_all.deb", 
+    "pkg": "dvdwizard", 
+    "pkg_version": "0.7.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Multiverse", 
+    "pkg_full_name": "dvdwizard_0.7.1-2_all.deb", 
+    "pkg": "dvdwizard", 
+    "pkg_version": "0.7.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fusioninventory-agent-task-deploy_2.3.10.1-1_all.deb", 
+    "pkg": "fusioninventory-agent-task-deploy", 
+    "pkg_version": "2.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fusioninventory-agent-task-deploy_2.3.10.1-1_all.deb", 
+    "pkg": "fusioninventory-agent-task-deploy", 
+    "pkg_version": "2.3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "fusioninventory-agent-task-deploy_2.3.10.1-1~bpo70+1_all.deb", 
+    "pkg": "fusioninventory-agent-task-deploy", 
+    "pkg_version": "2.3.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "fusioninventory-agent-task-deploy-2.3.16-1.fc23.noarch.rpm", 
+    "pkg": "fusioninventory-agent-task-deploy", 
+    "pkg_version": "2.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "fusioninventory-agent-task-deploy-2.3.15-3.fc22.noarch.rpm", 
+    "pkg": "fusioninventory-agent-task-deploy", 
+    "pkg_version": "2.3.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "fusioninventory-agent-task-deploy-2.3.16-1.fc21.noarch.rpm", 
+    "pkg": "fusioninventory-agent-task-deploy", 
+    "pkg_version": "2.3.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "fusioninventory-agent-task-deploy-2.3.16-1.fc20.noarch.rpm", 
+    "pkg": "fusioninventory-agent-task-deploy", 
+    "pkg_version": "2.3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "fusioninventory-agent-task-deploy_2.3.9.1-1_all.deb", 
+    "pkg": "fusioninventory-agent-task-deploy", 
+    "pkg_version": "2.3.9.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

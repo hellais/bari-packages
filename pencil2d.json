@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pencil2d_0.5.4~git20150223.f75630e+dfsg-1_i386.deb", 
+    "pkg": "pencil2d", 
+    "pkg_version": "0.5.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

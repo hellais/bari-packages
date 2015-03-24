@@ -1,0 +1,109 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "bzr-doc-2.6.0-alt2.noarch.rpm", 
+    "pkg": "bzr-doc", 
+    "pkg_version": "2.6.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "bzr-doc-2.5.1-14.el7.x86_64.rpm", 
+    "pkg": "bzr-doc", 
+    "pkg_version": "2.5.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "bzr-doc-2.1.1-2.el6.noarch.rpm", 
+    "pkg": "bzr-doc", 
+    "pkg_version": "2.1.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bzr-doc_2.6.0+bzr6595-6_all.deb", 
+    "pkg": "bzr-doc", 
+    "pkg_version": "2.6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bzr-doc_2.6.0+bzr6595-6_all.deb", 
+    "pkg": "bzr-doc", 
+    "pkg_version": "2.6.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bzr-doc_2.6.0~bzr6526-1_all.deb", 
+    "pkg": "bzr-doc", 
+    "pkg_version": "2.6.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "bzr-doc-2.6.0-8.fc23.noarch.rpm", 
+    "pkg": "bzr-doc", 
+    "pkg_version": "2.6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "bzr-doc-2.6.0-7.fc22.noarch.rpm", 
+    "pkg": "bzr-doc", 
+    "pkg_version": "2.6.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "bzr-doc-2.6.0-6.fc21.noarch.rpm", 
+    "pkg": "bzr-doc", 
+    "pkg_version": "2.6.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "bzr-doc-2.6.0-2.fc20.noarch.rpm", 
+    "pkg": "bzr-doc", 
+    "pkg_version": "2.6.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "bzr-doc_2.6.0+bzr6595-1ubuntu1_all.deb", 
+    "pkg": "bzr-doc", 
+    "pkg_version": "2.6.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "bzr-doc_2.6.0+bzr6593-1ubuntu1.1_all.deb", 
+    "pkg": "bzr-doc", 
+    "pkg_version": "2.6.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

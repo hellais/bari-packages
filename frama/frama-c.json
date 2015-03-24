@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "frama-c-1.11-1.fc23.x86_64.rpm", 
+    "pkg": "frama-c", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "frama-c-1.10-20.fc22.x86_64.rpm", 
+    "pkg": "frama-c", 
+    "pkg_version": "1.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "frama-c-1.10-20.fc21.x86_64.rpm", 
+    "pkg": "frama-c", 
+    "pkg_version": "1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "frama-c-1.10-5.fc20.x86_64.rpm", 
+    "pkg": "frama-c", 
+    "pkg_version": "1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "frama-c-1.9-0.20130601Fluorine.2.mga4.x86_64.rpm", 
+    "pkg": "frama-c", 
+    "pkg_version": "1.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "frama-c-1.9-0.20130601Fluorine.2.mga4.x86_64.rpm", 
+    "pkg": "frama-c", 
+    "pkg_version": "1.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

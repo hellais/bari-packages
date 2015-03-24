@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "cmtk_3.2.2-1~nd+1_i386.deb", 
+    "pkg": "cmtk", 
+    "pkg_version": "3.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "cmtk_3.2.2-1~nd80+1_i386.deb", 
+    "pkg": "cmtk", 
+    "pkg_version": "3.2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "cmtk_3.2.2-1~nd70+1_i386.deb", 
+    "pkg": "cmtk", 
+    "pkg_version": "3.2.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "cmtk_3.2.1-1_i386.deb", 
+    "pkg": "cmtk", 
+    "pkg_version": "3.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "cmtk_3.0.0-1ubuntu1_i386.deb", 
+    "pkg": "cmtk", 
+    "pkg_version": "3.0.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

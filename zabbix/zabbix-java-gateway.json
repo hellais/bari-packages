@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Atomic", 
+    "pkg_full_name": "zabbix-java-gateway-2.4.4-4.el7.art.x86_64.rpm", 
+    "pkg": "zabbix-java-gateway", 
+    "pkg_version": "2.4.4", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Atomic", 
+    "pkg_full_name": "zabbix-java-gateway-2.4.4-4.el6.art.x86_64.rpm", 
+    "pkg": "zabbix-java-gateway", 
+    "pkg_version": "2.4.4", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "zabbix-java-gateway_2.2.7+dfsg-2_all.deb", 
+    "pkg": "zabbix-java-gateway", 
+    "pkg_version": "2.2.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "zabbix-java-gateway_2.2.7+dfsg-2_all.deb", 
+    "pkg": "zabbix-java-gateway", 
+    "pkg_version": "2.2.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "zabbix-java-gateway_2.2.8-1~dotdeb.1_all.deb", 
+    "pkg": "zabbix-java-gateway", 
+    "pkg_version": "2.2.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Atomic", 
+    "pkg_full_name": "zabbix-java-gateway-2.4.4-4.fc21.art.x86_64.rpm", 
+    "pkg": "zabbix-java-gateway", 
+    "pkg_version": "2.4.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Atomic", 
+    "pkg_full_name": "zabbix-java-gateway-2.4.4-4.fc20.art.x86_64.rpm", 
+    "pkg": "zabbix-java-gateway", 
+    "pkg_version": "2.4.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "zabbix-java-gateway_2.2.5+dfsg-1ubuntu1_all.deb", 
+    "pkg": "zabbix-java-gateway", 
+    "pkg_version": "2.2.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

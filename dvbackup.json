@@ -1,0 +1,55 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "dvbackup-0.0.4-alt1.qa1.x86_64.rpm", 
+    "pkg": "dvbackup", 
+    "pkg_version": "0.0.4", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dvbackup_0.0.4-7_i386.deb", 
+    "pkg": "dvbackup", 
+    "pkg_version": "0.0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dvbackup_0.0.4-7_i386.deb", 
+    "pkg": "dvbackup", 
+    "pkg_version": "0.0.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dvbackup_0.0.4-7_i386.deb", 
+    "pkg": "dvbackup", 
+    "pkg_version": "0.0.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "dvbackup_0.0.4-7_i386.deb", 
+    "pkg": "dvbackup", 
+    "pkg_version": "0.0.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "dvbackup_0.0.4-7_i386.deb", 
+    "pkg": "dvbackup", 
+    "pkg_version": "0.0.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

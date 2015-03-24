@@ -1,0 +1,91 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "gdpc-2.2.5-alt1_12.x86_64.rpm", 
+    "pkg": "gdpc", 
+    "pkg_version": "2.2.5", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdpc_2.2.5-3_i386.deb", 
+    "pkg": "gdpc", 
+    "pkg_version": "2.2.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdpc_2.2.5-3_i386.deb", 
+    "pkg": "gdpc", 
+    "pkg_version": "2.2.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdpc_2.2.5-2_i386.deb", 
+    "pkg": "gdpc", 
+    "pkg_version": "2.2.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gdpc-2.2.5-12.fc22.x86_64.rpm", 
+    "pkg": "gdpc", 
+    "pkg_version": "2.2.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gdpc-2.2.5-12.fc22.x86_64.rpm", 
+    "pkg": "gdpc", 
+    "pkg_version": "2.2.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gdpc-2.2.5-12.fc21.x86_64.rpm", 
+    "pkg": "gdpc", 
+    "pkg_version": "2.2.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gdpc-2.2.5-10.fc20.x86_64.rpm", 
+    "pkg": "gdpc", 
+    "pkg_version": "2.2.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gdpc_2.2.5-3ubuntu1_i386.deb", 
+    "pkg": "gdpc", 
+    "pkg_version": "2.2.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gdpc_2.2.5-3ubuntu1_i386.deb", 
+    "pkg": "gdpc", 
+    "pkg_version": "2.2.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

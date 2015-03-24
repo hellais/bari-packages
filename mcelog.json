@@ -1,0 +1,324 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "mcelog-1.0.1-alt1.x86_64.rpm", 
+    "pkg": "mcelog", 
+    "pkg_version": "1.0.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "mcelog-1.0.1-alt1.x86_64.rpm", 
+    "pkg": "mcelog", 
+    "pkg_version": "1.0.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "mcelog-1.0-0.12.2577aeb.el7.x86_64.rpm", 
+    "pkg": "mcelog", 
+    "pkg_version": "1.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "mcelog-1.0-0.12.2577aeb.el7.x86_64.rpm", 
+    "pkg": "mcelog", 
+    "pkg_version": "1.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "mcelog-0.9pre-1.32.el5.x86_64.rpm", 
+    "pkg": "mcelog", 
+    "pkg_version": "0.9", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "mcelog-0.9pre-1.32.el5.x86_64.rpm", 
+    "pkg": "mcelog", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "mcelog-0.9pre-1.32.el5.x86_64.rpm", 
+    "pkg": "mcelog", 
+    "pkg_version": "0.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mcelog_1.0~pre3-72-gcbd4da4-1_i386.deb", 
+    "pkg": "mcelog", 
+    "pkg_version": "1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mcelog-101-1.9bfaad8f92c5.fc22.x86_64.rpm", 
+    "pkg": "mcelog-101", 
+    "pkg_version": "1.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mcelog_1.0~pre3-72-gcbd4da4-1_i386.deb", 
+    "pkg": "mcelog", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mcelog-101-1.9bfaad8f92c5.fc22.x86_64.rpm", 
+    "pkg": "mcelog-101", 
+    "pkg_version": "1.9", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mcelog_1.0~pre3-72-gcbd4da4-1_i386.deb", 
+    "pkg": "mcelog", 
+    "pkg_version": "1.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "mcelog-101-1.9bfaad8f92c5.fc21.x86_64.rpm", 
+    "pkg": "mcelog-101", 
+    "pkg_version": "1.9", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mcelog-1.0-0.13.f0d7654.fc21.x86_64.rpm", 
+    "pkg": "mcelog", 
+    "pkg_version": "1.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "mcelog-101-1.9bfaad8f92c5.fc20.x86_64.rpm", 
+    "pkg": "mcelog-101", 
+    "pkg_version": "1.9", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mcelog-1.0-0.11.f0d7654.fc20.x86_64.rpm", 
+    "pkg": "mcelog", 
+    "pkg_version": "1.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "mcelog-101-1.9bfaad8f92c5.fc20.x86_64.rpm", 
+    "pkg": "mcelog-101", 
+    "pkg_version": "1.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "mcelog-1.0.8-1.1.x86_64.rpm", 
+    "pkg": "mcelog", 
+    "pkg_version": "1.0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "mcelog-101-1.9bfaad8f92c5.fc20.x86_64.rpm", 
+    "pkg": "mcelog-101", 
+    "pkg_version": "1.9", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "mcelog-1.0.1-5.3.1.x86_64.rpm", 
+    "pkg": "mcelog", 
+    "pkg_version": "1.0.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "mcelog-101-1.9bfaad8f92c5.fc20.x86_64.rpm", 
+    "pkg": "mcelog-101", 
+    "pkg_version": "1.9", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "mcelog-1.0pre3.6e4e2a000124-19.4.1.x86_64.rpm", 
+    "pkg": "mcelog", 
+    "pkg_version": "1.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "mcelog-101-1.9bfaad8f92c5.fc20.x86_64.rpm", 
+    "pkg": "mcelog-101", 
+    "pkg_version": "1.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "mcelog-0.9-0.pre.git20090623.2-rosa2014.1.x86_64.rpm", 
+    "pkg": "mcelog", 
+    "pkg_version": "0.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "mcelog-101-1.9bfaad8f92c5.fc20.x86_64.rpm", 
+    "pkg": "mcelog-101", 
+    "pkg_version": "1.9", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "mcelog-0.9-0.pre.git20090623.2-rosa2012.1.x86_64.rpm", 
+    "pkg": "mcelog", 
+    "pkg_version": "0.9", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "mcelog-101-1.9bfaad8f92c5.fc20.x86_64.rpm", 
+    "pkg": "mcelog-101", 
+    "pkg_version": "1.9", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "mcelog-1.0pre3-x86_64-1.txz", 
+    "pkg": "mcelog", 
+    "pkg_version": "1.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "mcelog-101-1.9bfaad8f92c5.fc20.x86_64.rpm", 
+    "pkg": "mcelog-101", 
+    "pkg_version": "1.9", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "mcelog-1.0pre3-x86_64-1.txz", 
+    "pkg": "mcelog", 
+    "pkg_version": "1.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "mcelog-101-1.9bfaad8f92c5.fc20.x86_64.rpm", 
+    "pkg": "mcelog-101", 
+    "pkg_version": "1.9", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "mcelog-1.0pre3-x86_64-1.txz", 
+    "pkg": "mcelog", 
+    "pkg_version": "1.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "mcelog-101-1.9bfaad8f92c5.fc20.x86_64.rpm", 
+    "pkg": "mcelog-101", 
+    "pkg_version": "1.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "mcelog-1.0pre3-x86_64-1.txz", 
+    "pkg": "mcelog", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "mcelog-101-1.9bfaad8f92c5.fc20.x86_64.rpm", 
+    "pkg": "mcelog-101", 
+    "pkg_version": "1.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "mcelog-1.0pre3-x86_64-1.txz", 
+    "pkg": "mcelog", 
+    "pkg_version": "1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libzorp3.9_3.9.5-4_i386.deb", 
+    "pkg": "libzorp", 
+    "pkg_version": "3.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libzorp3.9_3.9.5-4_i386.deb", 
+    "pkg": "libzorp", 
+    "pkg_version": "3.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libzorp3.9_3.9.5-4_i386.deb", 
+    "pkg": "libzorp", 
+    "pkg_version": "3.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libzorp3.9_3.9.5-4_i386.deb", 
+    "pkg": "libzorp", 
+    "pkg_version": "3.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

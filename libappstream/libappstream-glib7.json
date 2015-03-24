@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libappstream-glib7_0.3.2-1_i386.deb", 
+    "pkg": "libappstream-glib7", 
+    "pkg_version": "0.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libappstream-glib7_0.3.0-1_i386.deb", 
+    "pkg": "libappstream-glib7", 
+    "pkg_version": "0.3.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libappstream-glib7-0.3.0-2-omv2015.0.i586.rpm", 
+    "pkg": "libappstream-glib7", 
+    "pkg_version": "0.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }
+]

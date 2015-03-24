@@ -1,0 +1,55 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "mate-settings-daemon-gstreamer-1.8.3-1-x86_64.pkg.tar.xz", 
+    "pkg": "mate-settings-daemon-gstreamer", 
+    "pkg_version": "1.8.3", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mate-settings-daemon-gstreamer_1.8.2-4_i386.deb", 
+    "pkg": "mate-settings-daemon-gstreamer", 
+    "pkg_version": "1.8.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mate-settings-daemon-gstreamer_1.8.2-4_i386.deb", 
+    "pkg": "mate-settings-daemon-gstreamer", 
+    "pkg_version": "1.8.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "mate-settings-daemon-gstreamer_1.8.1-1~bpo70+1_i386.deb", 
+    "pkg": "mate-settings-daemon-gstreamer", 
+    "pkg_version": "1.8.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "mate-settings-daemon-gstreamer-1.8.0-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "mate-settings-daemon-gstreamer", 
+    "pkg_version": "1.8.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "mate-settings-daemon-gstreamer-1.8.0-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "mate-settings-daemon-gstreamer", 
+    "pkg_version": "1.8.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "node-etag_1.4.0-1_all.deb", 
+    "pkg": "node-etag", 
+    "pkg_version": "1.4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

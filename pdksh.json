@@ -1,0 +1,352 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "pdksh-5.2.14-alt2.qa1.x86_64.rpm", 
+    "pkg": "pdksh", 
+    "pkg_version": "5.2.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "pdksh-5.2.14-37.el5_8.1.x86_64.rpm", 
+    "pkg": "pdksh", 
+    "pkg_version": "5.2.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "pdksh-5.2.14-37.el5_8.1.x86_64.rpm", 
+    "pkg": "pdksh", 
+    "pkg_version": "5.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "pdksh-5.2.14-37.el5_8.1.x86_64.rpm", 
+    "pkg": "pdksh", 
+    "pkg_version": "5.2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pdksh_40.9.20120630-7_all.deb", 
+    "pkg": "pdksh_4", 
+    "pkg_version": "0.9.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "pdksh-5.2.14-37.el5_8.1.x86_64.rpm", 
+    "pkg": "pdksh", 
+    "pkg_version": "5.2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pdksh_40.9.20120630-7_all.deb", 
+    "pkg": "pdksh_4", 
+    "pkg_version": "0.9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pdksh-5.2.14-39-omv2015.0.x86_64.rpm", 
+    "pkg": "pdksh", 
+    "pkg_version": "5.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pdksh_40.9.20120630-7_all.deb", 
+    "pkg": "pdksh_4", 
+    "pkg_version": "0.9.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pdksh-5.2.14-33-omv2014.0.x86_64.rpm", 
+    "pkg": "pdksh", 
+    "pkg_version": "5.2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pdksh_40.9.20120630-7_all.deb", 
+    "pkg": "pdksh_4", 
+    "pkg_version": "0.9.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pdksh-5.2.14-32-omv2013.0.x86_64.rpm", 
+    "pkg": "pdksh", 
+    "pkg_version": "5.2.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pdksh_40.9.20120630-7_all.deb", 
+    "pkg": "pdksh_4", 
+    "pkg_version": "0.9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "mksh-50e-1.1.x86_64.rpm", 
+    "pkg": "mksh-50e", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pdksh-5.2.14-32-omv2013.0.x86_64.rpm", 
+    "pkg": "pdksh", 
+    "pkg_version": "5.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pdksh_40.9.20120630-7_all.deb", 
+    "pkg": "pdksh_4", 
+    "pkg_version": "0.9.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "mksh-50d-1.1.x86_64.rpm", 
+    "pkg": "mksh-50d", 
+    "pkg_version": "1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "mksh-50e-1.1.x86_64.rpm", 
+    "pkg": "mksh-50e", 
+    "pkg_version": "1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pdksh-5.2.14-32-omv2013.0.x86_64.rpm", 
+    "pkg": "pdksh", 
+    "pkg_version": "5.2.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pdksh_40.9.20120630-7_all.deb", 
+    "pkg": "pdksh_4", 
+    "pkg_version": "0.9.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "mksh-50d-1.1.x86_64.rpm", 
+    "pkg": "mksh-50d", 
+    "pkg_version": "1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "mksh-50e-1.1.x86_64.rpm", 
+    "pkg": "mksh-50e", 
+    "pkg_version": "1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pdksh-5.2.14-948.1.2.i586.rpm", 
+    "pkg": "pdksh", 
+    "pkg_version": "5.2.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pdksh_40.9.20120630-7_all.deb", 
+    "pkg": "pdksh_4", 
+    "pkg_version": "0.9.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "mksh-50d-1.1.x86_64.rpm", 
+    "pkg": "mksh-50d", 
+    "pkg_version": "1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "mksh-50e-1.1.x86_64.rpm", 
+    "pkg": "mksh-50e", 
+    "pkg_version": "1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "pdksh-5.2.14-33-rosa2014.1.x86_64.rpm", 
+    "pkg": "pdksh", 
+    "pkg_version": "5.2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pdksh_40.9.20120630-7_all.deb", 
+    "pkg": "pdksh_4", 
+    "pkg_version": "0.9.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "mksh-50d-1.1.x86_64.rpm", 
+    "pkg": "mksh-50d", 
+    "pkg_version": "1.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "mksh-50e-1.1.x86_64.rpm", 
+    "pkg": "mksh-50e", 
+    "pkg_version": "1.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "pdksh-5.2.14-32-rosa2012.1.x86_64.rpm", 
+    "pkg": "pdksh", 
+    "pkg_version": "5.2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pdksh_40.9.20120630-7_all.deb", 
+    "pkg": "pdksh_4", 
+    "pkg_version": "0.9.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "mksh-50d-1.1.x86_64.rpm", 
+    "pkg": "mksh-50d", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "mksh-50e-1.1.x86_64.rpm", 
+    "pkg": "mksh-50e", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "pdksh-5.2.14-32-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "pdksh", 
+    "pkg_version": "5.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pdksh_40.9.20120630-7_all.deb", 
+    "pkg": "pdksh_4", 
+    "pkg_version": "0.9.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "mksh-50d-1.1.x86_64.rpm", 
+    "pkg": "mksh-50d", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "mksh-50e-1.1.x86_64.rpm", 
+    "pkg": "mksh-50e", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "pdksh-5.2.14-32-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "pdksh", 
+    "pkg_version": "5.2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

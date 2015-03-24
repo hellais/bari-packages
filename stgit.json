@@ -1,0 +1,190 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "stgit-0.17-alt1_1.noarch.rpm", 
+    "pkg": "stgit", 
+    "pkg_version": "0.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "stgit-0.17.1-2.el7.noarch.rpm", 
+    "pkg": "stgit", 
+    "pkg_version": "0.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "stgit-0.14.3-6.el6.noarch.rpm", 
+    "pkg": "stgit", 
+    "pkg_version": "0.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "KBS Extras Testing", 
+    "pkg_full_name": "stgit-0.13-2.el5.kb.noarch.rpm", 
+    "pkg": "stgit", 
+    "pkg_version": "0.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "stgit_0.17.1-1_all.deb", 
+    "pkg": "stgit", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "stgit_0.17.1-1_all.deb", 
+    "pkg": "stgit", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "stgit_0.15-1.1_all.deb", 
+    "pkg": "stgit", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "stgit-0.17.1-2.fc21.noarch.rpm", 
+    "pkg": "stgit", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "stgit-0.17.1-2.fc21.noarch.rpm", 
+    "pkg": "stgit", 
+    "pkg_version": "0.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "stgit-0.17.1-2.fc21.noarch.rpm", 
+    "pkg": "stgit", 
+    "pkg_version": "0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "stgit-0.17-4.fc20.noarch.rpm", 
+    "pkg": "stgit", 
+    "pkg_version": "0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "stgit-0.16-1-omv2013.0.noarch.rpm", 
+    "pkg": "stgit", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "stgit-0.15-2-omv2013.0.noarch.rpm", 
+    "pkg": "stgit", 
+    "pkg_version": "0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "stgit-0.15-2-omv2013.0.noarch.rpm", 
+    "pkg": "stgit", 
+    "pkg_version": "0.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "stgit-0.17.1-3.2.noarch.rpm", 
+    "pkg": "stgit", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "stgit-0.17.1-2.1.4.noarch.rpm", 
+    "pkg": "stgit", 
+    "pkg_version": "0.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "stgit-0.16-6.1.1.noarch.rpm", 
+    "pkg": "stgit", 
+    "pkg_version": "0.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "stgit-0.16-2-rosa2014.1.noarch.rpm", 
+    "pkg": "stgit", 
+    "pkg_version": "0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "stgit-0.16-1-rosa2012.1.noarch.rpm", 
+    "pkg": "stgit", 
+    "pkg_version": "0.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "stgit_0.17.1-1_all.deb", 
+    "pkg": "stgit", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "stgit_0.17.1-1_all.deb", 
+    "pkg": "stgit", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

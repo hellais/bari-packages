@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libdevice-usb-pcsensor-hidtemper-perl_0.04-1_i386.deb", 
+    "pkg": "libdevice-usb-pcsensor-hidtemper-perl", 
+    "pkg_version": "0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libdevice-usb-pcsensor-hidtemper-perl_0.04-1_i386.deb", 
+    "pkg": "libdevice-usb-pcsensor-hidtemper-perl", 
+    "pkg_version": "0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libdevice-usb-pcsensor-hidtemper-perl_0.0201-2_i386.deb", 
+    "pkg": "libdevice-usb-pcsensor-hidtemper-perl", 
+    "pkg_version": "0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libdevice-usb-pcsensor-hidtemper-perl_0.04-1_i386.deb", 
+    "pkg": "libdevice-usb-pcsensor-hidtemper-perl", 
+    "pkg_version": "0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libdevice-usb-pcsensor-hidtemper-perl_0.04-1_i386.deb", 
+    "pkg": "libdevice-usb-pcsensor-hidtemper-perl", 
+    "pkg_version": "0.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

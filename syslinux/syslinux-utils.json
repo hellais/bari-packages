@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "syslinux-utils_6.03+dfsg-5_i386.deb", 
+    "pkg": "syslinux-utils", 
+    "pkg_version": "6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "syslinux-utils_6.03+dfsg-5_i386.deb", 
+    "pkg": "syslinux-utils", 
+    "pkg_version": "6.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

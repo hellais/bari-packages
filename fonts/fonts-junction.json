@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fonts-junction_20110525.18de841-1_all.deb", 
+    "pkg": "fonts-junction_2011052", 
+    "pkg_version": "5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fonts-junction_20110525.18de841-1_all.deb", 
+    "pkg": "fonts-junction_2011052", 
+    "pkg_version": "5.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "fonts-junction_20110525.18de841-1_all.deb", 
+    "pkg": "fonts-junction_2011052", 
+    "pkg_version": "5.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

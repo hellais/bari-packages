@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgaviotatb1_0.4-2_i386.deb", 
+    "pkg": "libgaviotatb1", 
+    "pkg_version": "0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgaviotatb1_0.4-2_i386.deb", 
+    "pkg": "libgaviotatb1", 
+    "pkg_version": "0.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libgaviotatb1_0.4-1_i386.deb", 
+    "pkg": "libgaviotatb1", 
+    "pkg_version": "0.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

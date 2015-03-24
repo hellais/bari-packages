@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "peg_0.1.15-1_i386.deb", 
+    "pkg": "peg", 
+    "pkg_version": "0.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "peg_0.1.15-1_i386.deb", 
+    "pkg": "peg", 
+    "pkg_version": "0.1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "peg-0.1.13-8.1.x86_64.rpm", 
+    "pkg": "peg", 
+    "pkg_version": "0.1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "peg-0.1.13-8.1.x86_64.rpm", 
+    "pkg": "peg", 
+    "pkg_version": "0.1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "peg_0.1.15-1_i386.deb", 
+    "pkg": "peg", 
+    "pkg_version": "0.1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

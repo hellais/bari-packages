@@ -1,0 +1,73 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "rpm2html-1.9.7-alt1.2.x86_64.rpm", 
+    "pkg": "rpm2html", 
+    "pkg_version": "1.9.7", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "rpm2html-1.8.2-0.2.el5.rf.x86_64.rpm", 
+    "pkg": "rpm2html", 
+    "pkg_version": "1.8.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rpm2html_1.11.2-7_i386.deb", 
+    "pkg": "rpm2html", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rpm2html_1.11.2-7_i386.deb", 
+    "pkg": "rpm2html", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rpm2html_1.11.2-3_i386.deb", 
+    "pkg": "rpm2html", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Hany.sk", 
+    "pkg_full_name": "rpm2html-1.11.3-0.cvs20120219.fc20.x86_64.rpm", 
+    "pkg": "rpm2html", 
+    "pkg_version": "1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "rpm2html_1.11.2-6_i386.deb", 
+    "pkg": "rpm2html", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "rpm2html_1.11.2-6_i386.deb", 
+    "pkg": "rpm2html", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

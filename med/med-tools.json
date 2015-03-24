@@ -1,0 +1,101 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "med-tools-3.0.7-6.el7.x86_64.rpm", 
+    "pkg": "med-tools", 
+    "pkg_version": "3.0.7", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "med-tools-3.0.7-6.el6.x86_64.rpm", 
+    "pkg": "med-tools", 
+    "pkg_version": "3.0.7", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "med-tools_1.99_all.deb", 
+    "pkg": "med-tools", 
+    "pkg_version": "1.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "med-tools_1.99_all.deb", 
+    "pkg": "med-tools", 
+    "pkg_version": "1.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "med-tools_1.13.2_all.deb", 
+    "pkg": "med-tools", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "med-tools-3.0.7-7.fc22.x86_64.rpm", 
+    "pkg": "med-tools", 
+    "pkg_version": "3.0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "med-tools-3.0.7-7.fc22.x86_64.rpm", 
+    "pkg": "med-tools", 
+    "pkg_version": "3.0.7", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "med-tools-3.0.7-6.fc21.x86_64.rpm", 
+    "pkg": "med-tools", 
+    "pkg_version": "3.0.7", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "med-tools-3.0.7-4.fc20.x86_64.rpm", 
+    "pkg": "med-tools", 
+    "pkg_version": "3.0.7", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "med-tools_1.13.2ubuntu3_all.deb", 
+    "pkg": "med-tools", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "med-tools_1.13.2ubuntu3_all.deb", 
+    "pkg": "med-tools", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

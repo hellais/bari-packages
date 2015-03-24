@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libdatetime-timezone-perl_1.75-2+2015b_all.deb", 
+    "pkg": "libdatetime-timezone-perl", 
+    "pkg_version": "1.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libdatetime-timezone-perl_1.75-2+2015a_all.deb", 
+    "pkg": "libdatetime-timezone-perl", 
+    "pkg_version": "1.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Proposed Updates Main", 
+    "pkg_full_name": "libdatetime-timezone-perl_1.58-1+2015b_all.deb", 
+    "pkg": "libdatetime-timezone-perl", 
+    "pkg_version": "1.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libdatetime-timezone-perl_1.73-1+2014f_all.deb", 
+    "pkg": "libdatetime-timezone-perl", 
+    "pkg_version": "1.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libdatetime-timezone-perl_1.63-1+2013h_all.deb", 
+    "pkg": "libdatetime-timezone-perl", 
+    "pkg_version": "1.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

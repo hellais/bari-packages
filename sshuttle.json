@@ -1,0 +1,485 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "sshuttle-0-alt1_10.20120810git9ce2fa0.noarch.rpm", 
+    "pkg": "sshuttle-0-alt1_1", 
+    "pkg_version": "0.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "sshuttle-0-alt1_10.20120810git9ce2fa0.noarch.rpm", 
+    "pkg": "sshuttle-0-alt1_1", 
+    "pkg_version": "0.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "sshuttle-0.61-6-any.pkg.tar.xz", 
+    "pkg": "sshuttle", 
+    "pkg_version": "0.6", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "sshuttle-0-alt1_10.20120810git9ce2fa0.noarch.rpm", 
+    "pkg": "sshuttle-0-alt1_1", 
+    "pkg_version": "0.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "sshuttle-0.61-6-any.pkg.tar.xz", 
+    "pkg": "sshuttle", 
+    "pkg_version": "0.6", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "sshuttle-0-8.20120810git9ce2fa0.el7.noarch.rpm", 
+    "pkg": "sshuttle-0", 
+    "pkg_version": "8.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "sshuttle-0-alt1_10.20120810git9ce2fa0.noarch.rpm", 
+    "pkg": "sshuttle-0-alt1_1", 
+    "pkg_version": "0.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "sshuttle-0.61-6-any.pkg.tar.xz", 
+    "pkg": "sshuttle", 
+    "pkg_version": "0.6", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "sshuttle-0-7.20120810git9ce2fa0.el6.noarch.rpm", 
+    "pkg": "sshuttle-0", 
+    "pkg_version": "7.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "sshuttle-0-alt1_10.20120810git9ce2fa0.noarch.rpm", 
+    "pkg": "sshuttle-0-alt1_1", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sshuttle_0.54-2_all.deb", 
+    "pkg": "sshuttle", 
+    "pkg_version": "0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "sshuttle-0-7.20120810git9ce2fa0.el6.noarch.rpm", 
+    "pkg": "sshuttle-0", 
+    "pkg_version": "7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "sshuttle-0-alt1_10.20120810git9ce2fa0.noarch.rpm", 
+    "pkg": "sshuttle-0-alt1_1", 
+    "pkg_version": "0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sshuttle_0.54-2_all.deb", 
+    "pkg": "sshuttle", 
+    "pkg_version": "0.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "sshuttle-0-7.20120810git9ce2fa0.el6.noarch.rpm", 
+    "pkg": "sshuttle-0", 
+    "pkg_version": "7.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "sshuttle-0-alt1_10.20120810git9ce2fa0.noarch.rpm", 
+    "pkg": "sshuttle-0-alt1_1", 
+    "pkg_version": "0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sshuttle_0.54-2_all.deb", 
+    "pkg": "sshuttle", 
+    "pkg_version": "0.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "sshuttle-0-7.20120810git9ce2fa0.el6.noarch.rpm", 
+    "pkg": "sshuttle-0", 
+    "pkg_version": "7.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "sshuttle-0-alt1_10.20120810git9ce2fa0.noarch.rpm", 
+    "pkg": "sshuttle-0-alt1_1", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "sshuttle-0-10.20120810git9ce2fa0.fc21.noarch.rpm", 
+    "pkg": "sshuttle-0-1", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sshuttle_0.54-2_all.deb", 
+    "pkg": "sshuttle", 
+    "pkg_version": "0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "sshuttle-0-7.20120810git9ce2fa0.el6.noarch.rpm", 
+    "pkg": "sshuttle-0", 
+    "pkg_version": "7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "sshuttle-0-alt1_10.20120810git9ce2fa0.noarch.rpm", 
+    "pkg": "sshuttle-0-alt1_1", 
+    "pkg_version": "0.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "sshuttle-0-10.20120810git9ce2fa0.fc21.noarch.rpm", 
+    "pkg": "sshuttle-0-1", 
+    "pkg_version": "0.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sshuttle_0.54-2_all.deb", 
+    "pkg": "sshuttle", 
+    "pkg_version": "0.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "sshuttle-0-7.20120810git9ce2fa0.el6.noarch.rpm", 
+    "pkg": "sshuttle-0", 
+    "pkg_version": "7.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "sshuttle-0-alt1_10.20120810git9ce2fa0.noarch.rpm", 
+    "pkg": "sshuttle-0-alt1_1", 
+    "pkg_version": "0.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "sshuttle-0-10.20120810git9ce2fa0.fc21.noarch.rpm", 
+    "pkg": "sshuttle-0-1", 
+    "pkg_version": "0.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sshuttle_0.54-2_all.deb", 
+    "pkg": "sshuttle", 
+    "pkg_version": "0.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "sshuttle-0-7.20120810git9ce2fa0.el6.noarch.rpm", 
+    "pkg": "sshuttle-0", 
+    "pkg_version": "7.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "sshuttle-0-alt1_10.20120810git9ce2fa0.noarch.rpm", 
+    "pkg": "sshuttle-0-alt1_1", 
+    "pkg_version": "0.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "sshuttle-0-10.20120810git9ce2fa0.fc21.noarch.rpm", 
+    "pkg": "sshuttle-0-1", 
+    "pkg_version": "0.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sshuttle_0.54-2_all.deb", 
+    "pkg": "sshuttle", 
+    "pkg_version": "0.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "sshuttle-0-9.20120810git9ce2fa0.fc20.noarch.rpm", 
+    "pkg": "sshuttle-0", 
+    "pkg_version": "9.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "sshuttle-0-alt1_10.20120810git9ce2fa0.noarch.rpm", 
+    "pkg": "sshuttle-0-alt1_1", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "sshuttle-0-10.20120810git9ce2fa0.fc21.noarch.rpm", 
+    "pkg": "sshuttle-0-1", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "sshuttle-0.20110503-1.22.noarch.rpm", 
+    "pkg": "sshuttle", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "sshuttle-0-9.20120810git9ce2fa0.fc20.noarch.rpm", 
+    "pkg": "sshuttle-0", 
+    "pkg_version": "9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "sshuttle-0-alt1_10.20120810git9ce2fa0.noarch.rpm", 
+    "pkg": "sshuttle-0-alt1_1", 
+    "pkg_version": "0.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "sshuttle-0-10.20120810git9ce2fa0.fc21.noarch.rpm", 
+    "pkg": "sshuttle-0-1", 
+    "pkg_version": "0.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "sshuttle-0.20110503-1.2.noarch.rpm", 
+    "pkg": "sshuttle", 
+    "pkg_version": "0.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "sshuttle-0-9.20120810git9ce2fa0.fc20.noarch.rpm", 
+    "pkg": "sshuttle-0", 
+    "pkg_version": "9.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "sshuttle-0-alt1_10.20120810git9ce2fa0.noarch.rpm", 
+    "pkg": "sshuttle-0-alt1_1", 
+    "pkg_version": "0.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "sshuttle-0-10.20120810git9ce2fa0.fc21.noarch.rpm", 
+    "pkg": "sshuttle-0-1", 
+    "pkg_version": "0.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "sshuttle-0.20110503-1.4.noarch.rpm", 
+    "pkg": "sshuttle", 
+    "pkg_version": "0.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "sshuttle-0-9.20120810git9ce2fa0.fc20.noarch.rpm", 
+    "pkg": "sshuttle-0", 
+    "pkg_version": "9.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "sshuttle-0-alt1_10.20120810git9ce2fa0.noarch.rpm", 
+    "pkg": "sshuttle-0-alt1_1", 
+    "pkg_version": "0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "sshuttle-0-10.20120810git9ce2fa0.fc21.noarch.rpm", 
+    "pkg": "sshuttle-0-1", 
+    "pkg_version": "0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "sshuttle_0.54-2_all.deb", 
+    "pkg": "sshuttle", 
+    "pkg_version": "0.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "sshuttle-0-9.20120810git9ce2fa0.fc20.noarch.rpm", 
+    "pkg": "sshuttle-0", 
+    "pkg_version": "9.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "sshuttle-0-alt1_10.20120810git9ce2fa0.noarch.rpm", 
+    "pkg": "sshuttle-0-alt1_1", 
+    "pkg_version": "0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "sshuttle-0-10.20120810git9ce2fa0.fc21.noarch.rpm", 
+    "pkg": "sshuttle-0-1", 
+    "pkg_version": "0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "sshuttle_0.54-2_all.deb", 
+    "pkg": "sshuttle", 
+    "pkg_version": "0.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "sshuttle-0-9.20120810git9ce2fa0.fc20.noarch.rpm", 
+    "pkg": "sshuttle-0", 
+    "pkg_version": "9.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

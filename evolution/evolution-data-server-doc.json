@@ -1,0 +1,128 @@
+[
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "evolution-data-server-doc-3.8.5-24.el7_0.noarch.rpm", 
+    "pkg": "evolution-data-server-doc", 
+    "pkg_version": "3.8.5", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "evolution-data-server-doc-2.32.3-21.el6.noarch.rpm", 
+    "pkg": "evolution-data-server-doc", 
+    "pkg_version": "2.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "evolution-data-server-doc-1.12.3-18.el5.x86_64.rpm", 
+    "pkg": "evolution-data-server-doc", 
+    "pkg_version": "1.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "evolution-data-server-doc_3.12.9~git20141128.5242b0-2+deb8u1_all.deb", 
+    "pkg": "evolution-data-server-doc", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "evolution-data-server-doc_3.12.9~git20141128.5242b0-2+deb8u1_all.deb", 
+    "pkg": "evolution-data-server-doc", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "evolution-data-server-doc_3.4.4-3+deb7u1_all.deb", 
+    "pkg": "evolution-data-server-doc", 
+    "pkg_version": "3.4.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "evolution-data-server-doc-3.15.92-1.fc23.noarch.rpm", 
+    "pkg": "evolution-data-server-doc", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "evolution-data-server-doc-3.13.90-1.fc22.noarch.rpm", 
+    "pkg": "evolution-data-server-doc", 
+    "pkg_version": "3.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "evolution-data-server-doc-3.12.11-1.fc21.noarch.rpm", 
+    "pkg": "evolution-data-server-doc", 
+    "pkg_version": "3.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "evolution-data-server-doc-3.10.4-7.fc20.noarch.rpm", 
+    "pkg": "evolution-data-server-doc", 
+    "pkg_version": "3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "evolution-data-server-doc-3.12.11-1.1.x86_64.rpm", 
+    "pkg": "evolution-data-server-doc", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "evolution-data-server-doc-3.12.9-4.18.x86_64.rpm", 
+    "pkg": "evolution-data-server-doc", 
+    "pkg_version": "3.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "evolution-data-server-doc-3.10.4-42.1.x86_64.rpm", 
+    "pkg": "evolution-data-server-doc", 
+    "pkg_version": "3.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "evolution-data-server-doc_3.12.10-0ubuntu1~14.10.1_all.deb", 
+    "pkg": "evolution-data-server-doc", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,289 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "auctex-11.88-1-any.pkg.tar.xz", 
+    "pkg": "auctex-1", 
+    "pkg_version": "1.8", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "emacs-auctex-11.85-10.el6.noarch.rpm", 
+    "pkg": "emacs-auctex-1", 
+    "pkg_version": "1.8", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "auctex-11.88-1-any.pkg.tar.xz", 
+    "pkg": "auctex-1", 
+    "pkg_version": "1.8", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS Server", 
+    "pkg_full_name": "emacs-auctex-11.86-1.PU_IAS.5.noarch.rpm", 
+    "pkg": "emacs-auctex-1", 
+    "pkg_version": "1.8", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "auctex-11.88-1-any.pkg.tar.xz", 
+    "pkg": "auctex-1", 
+    "pkg_version": "1.8", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "auctex_11.88-1.1_all.deb", 
+    "pkg": "auctex_1", 
+    "pkg_version": "1.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "PUIAS Server", 
+    "pkg_full_name": "emacs-auctex-11.86-1.PU_IAS.5.noarch.rpm", 
+    "pkg": "emacs-auctex-1", 
+    "pkg_version": "1.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "auctex-11.88-1-any.pkg.tar.xz", 
+    "pkg": "auctex-1", 
+    "pkg_version": "1.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "auctex_11.87-3+deb8u1_all.deb", 
+    "pkg": "auctex_1", 
+    "pkg_version": "1.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "PUIAS Server", 
+    "pkg_full_name": "emacs-auctex-11.86-1.PU_IAS.5.noarch.rpm", 
+    "pkg": "emacs-auctex-1", 
+    "pkg_version": "1.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "auctex-11.88-1-any.pkg.tar.xz", 
+    "pkg": "auctex-1", 
+    "pkg_version": "1.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "auctex_11.86-11_all.deb", 
+    "pkg": "auctex_1", 
+    "pkg_version": "1.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "PUIAS Server", 
+    "pkg_full_name": "emacs-auctex-11.86-1.PU_IAS.5.noarch.rpm", 
+    "pkg": "emacs-auctex-1", 
+    "pkg_version": "1.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "auctex-11.88-1-any.pkg.tar.xz", 
+    "pkg": "auctex-1", 
+    "pkg_version": "1.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "auctex_11.86-11_all.deb", 
+    "pkg": "auctex_1", 
+    "pkg_version": "1.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "emacs-auctex-11.87-8.2.noarch.rpm", 
+    "pkg": "emacs-auctex-1", 
+    "pkg_version": "1.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "auctex-11.88-1-any.pkg.tar.xz", 
+    "pkg": "auctex-1", 
+    "pkg_version": "1.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "auctex_11.86-11_all.deb", 
+    "pkg": "auctex_1", 
+    "pkg_version": "1.8", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "emacs-auctex-11.87-6.1.11.noarch.rpm", 
+    "pkg": "emacs-auctex-1", 
+    "pkg_version": "1.8", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "auctex-11.88-1-any.pkg.tar.xz", 
+    "pkg": "auctex-1", 
+    "pkg_version": "1.8", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "auctex_11.86-11_all.deb", 
+    "pkg": "auctex_1", 
+    "pkg_version": "1.8", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "emacs-auctex-11.87-3.2.1.noarch.rpm", 
+    "pkg": "emacs-auctex-1", 
+    "pkg_version": "1.8", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "auctex-11.88-1-any.pkg.tar.xz", 
+    "pkg": "auctex-1", 
+    "pkg_version": "1.8", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "auctex_11.86-11_all.deb", 
+    "pkg": "auctex_1", 
+    "pkg_version": "1.8", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "emacs-auctex-11.86-4-rosa2012.1.noarch.rpm", 
+    "pkg": "emacs-auctex-1", 
+    "pkg_version": "1.8", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "auctex-11.88-1-any.pkg.tar.xz", 
+    "pkg": "auctex-1", 
+    "pkg_version": "1.8", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "auctex_11.87-1ubuntu2_all.deb", 
+    "pkg": "auctex_1", 
+    "pkg_version": "1.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "emacs-auctex-11.86-3-rosa.lts2012.0.noarch.rpm", 
+    "pkg": "emacs-auctex-1", 
+    "pkg_version": "1.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "auctex-11.88-1-any.pkg.tar.xz", 
+    "pkg": "auctex-1", 
+    "pkg_version": "1.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "auctex_11.87-1ubuntu2_all.deb", 
+    "pkg": "auctex_1", 
+    "pkg_version": "1.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "emacs-auctex-11.86-3-rosa.lts2012.0.noarch.rpm", 
+    "pkg": "emacs-auctex-1", 
+    "pkg_version": "1.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "auctex-11.88-1-any.pkg.tar.xz", 
+    "pkg": "auctex-1", 
+    "pkg_version": "1.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

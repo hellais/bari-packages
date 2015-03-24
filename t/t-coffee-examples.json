@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "t-coffee-examples_11.00.8cbe486-1_all.deb", 
+    "pkg": "t-coffee-examples_1", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "t-coffee-examples_11.00.8cbe486-1_all.deb", 
+    "pkg": "t-coffee-examples_1", 
+    "pkg_version": "1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "t-coffee-examples_11.00.8cbe486-1_all.deb", 
+    "pkg": "t-coffee-examples_1", 
+    "pkg_version": "1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "t-coffee-examples_9.02.r1228-2_all.deb", 
+    "pkg": "t-coffee-examples", 
+    "pkg_version": "9.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "t-coffee-examples_10.00.r1613-1_all.deb", 
+    "pkg": "t-coffee-examples_1", 
+    "pkg_version": "0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "t-coffee-examples_9.02.r1228-2_all.deb", 
+    "pkg": "t-coffee-examples", 
+    "pkg_version": "9.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "t-coffee-examples_10.00.r1613-1_all.deb", 
+    "pkg": "t-coffee-examples_1", 
+    "pkg_version": "0.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "t-coffee-examples_9.02.r1228-2_all.deb", 
+    "pkg": "t-coffee-examples", 
+    "pkg_version": "9.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

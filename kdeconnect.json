@@ -1,0 +1,73 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "kdeconnect-0.8-1-x86_64.pkg.tar.xz", 
+    "pkg": "kdeconnect", 
+    "pkg_version": "0.8", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kdeconnect_0.7.2-1_i386.deb", 
+    "pkg": "kdeconnect", 
+    "pkg_version": "0.7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kdeconnect_0.7.2-1_i386.deb", 
+    "pkg": "kdeconnect", 
+    "pkg_version": "0.7.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kdeconnect-0.7.3-3-omv2015.0.x86_64.rpm", 
+    "pkg": "kdeconnect", 
+    "pkg_version": "0.7.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "kdeconnect-0.7.3-1.1-omv2014.0.x86_64.rpm", 
+    "pkg": "kdeconnect", 
+    "pkg_version": "0.7.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "kdeconnect-0.8-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "kdeconnect", 
+    "pkg_version": "0.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "kdeconnect-0.8-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "kdeconnect", 
+    "pkg_version": "0.8", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "kdeconnect_0.7.1-0ubuntu3_i386.deb", 
+    "pkg": "kdeconnect", 
+    "pkg_version": "0.7.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

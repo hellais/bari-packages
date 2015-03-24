@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libparrot6.6.0_6.6.0-1_i386.deb", 
+    "pkg": "libparrot", 
+    "pkg_version": "6.6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

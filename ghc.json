@@ -1,0 +1,226 @@
+[
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "ghc-7.8.4-1-x86_64.pkg.tar.xz", 
+    "pkg": "ghc", 
+    "pkg_version": "7.8.4", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "ghc-7.6.3-18.2.sdl7.x86_64.rpm", 
+    "pkg": "ghc", 
+    "pkg_version": "7.6.3", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "ghc-7.4.2-11.sdl6.x86_64.rpm", 
+    "pkg": "ghc", 
+    "pkg_version": "7.4.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Nogin.org Random", 
+    "pkg_full_name": "ghc-6.8.3-1.el5.i386.rpm", 
+    "pkg": "ghc", 
+    "pkg_version": "6.8.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ghc_7.6.3-20_i386.deb", 
+    "pkg": "ghc", 
+    "pkg_version": "7.6.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ghc_7.6.3-20_i386.deb", 
+    "pkg": "ghc", 
+    "pkg_version": "7.6.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ghc_7.4.1-4_i386.deb", 
+    "pkg": "ghc", 
+    "pkg_version": "7.4.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ghc-7.8.4-42.1.fc23.x86_64.rpm", 
+    "pkg": "ghc", 
+    "pkg_version": "7.8.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ghc-7.8.4-42.fc22.x86_64.rpm", 
+    "pkg": "ghc", 
+    "pkg_version": "7.8.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "ghc-7.6.3-26.3.fc21.x86_64.rpm", 
+    "pkg": "ghc", 
+    "pkg_version": "7.6.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "ghc-7.6.3-18.3.fc20.x86_64.rpm", 
+    "pkg": "ghc", 
+    "pkg_version": "7.6.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ghc-7.8.3-5.1.x86_64.rpm", 
+    "pkg": "ghc", 
+    "pkg_version": "7.8.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ghc-7.6.3-11.2.6.x86_64.rpm", 
+    "pkg": "ghc", 
+    "pkg_version": "7.6.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ghc-7.6.3-4.1.4.i586.rpm", 
+    "pkg": "ghc", 
+    "pkg_version": "7.6.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "ghc-7.6.3-4-rosa2014.1.x86_64.rpm", 
+    "pkg": "ghc", 
+    "pkg_version": "7.6.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "ghc74-7.4.2-0.4-rosa2012.1.x86_64.rpm", 
+    "pkg": "ghc74", 
+    "pkg_version": "7.4.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "ghc-7.6.1-0.1-rosa2012.1.x86_64.rpm", 
+    "pkg": "ghc", 
+    "pkg_version": "7.6.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "ghc74-7.4.2-0.4-rosa2012.1.x86_64.rpm", 
+    "pkg": "ghc74", 
+    "pkg_version": "7.4.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "ghc-7.6.3-x86_64-1tjb.txz", 
+    "pkg": "ghc", 
+    "pkg_version": "7.6.3", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "ghc74-7.4.2-0.4-rosa2012.1.x86_64.rpm", 
+    "pkg": "ghc74", 
+    "pkg_version": "7.4.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "University of Queensland Vislab", 
+    "pkg_full_name": "ghc-7.4.2-i486-1_uqv.txz", 
+    "pkg": "ghc", 
+    "pkg_version": "7.4.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "ghc74-7.4.2-0.4-rosa2012.1.x86_64.rpm", 
+    "pkg": "ghc74", 
+    "pkg_version": "7.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ghc_7.6.3-19_i386.deb", 
+    "pkg": "ghc", 
+    "pkg_version": "7.6.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "ghc74-7.4.2-0.4-rosa2012.1.x86_64.rpm", 
+    "pkg": "ghc74", 
+    "pkg_version": "7.4.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ghc_7.6.3-10_i386.deb", 
+    "pkg": "ghc", 
+    "pkg_version": "7.6.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

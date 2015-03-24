@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmagickwand-6.q16-2_6.8.9.9-5_i386.deb", 
+    "pkg": "libmagickwand-6.q16-2", 
+    "pkg_version": "6.8.9.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

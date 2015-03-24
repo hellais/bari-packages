@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-trifecta-prof_1.4.3-1+b2_i386.deb", 
+    "pkg": "libghc-trifecta-prof", 
+    "pkg_version": "1.4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

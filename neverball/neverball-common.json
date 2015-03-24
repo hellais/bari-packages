@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "neverball-common_1.6.0-3_all.deb", 
+    "pkg": "neverball-common", 
+    "pkg_version": "1.6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "neverball-common_1.6.0-3_all.deb", 
+    "pkg": "neverball-common", 
+    "pkg_version": "1.6.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "neverball-common_1.5.4-5_all.deb", 
+    "pkg": "neverball-common", 
+    "pkg_version": "1.5.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "neverball-common_1.6.0-2_all.deb", 
+    "pkg": "neverball-common", 
+    "pkg_version": "1.6.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "neverball-common_1.5.4-6_all.deb", 
+    "pkg": "neverball-common", 
+    "pkg_version": "1.5.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

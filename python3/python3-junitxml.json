@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-junitxml_0.6-1.1_all.deb", 
+    "pkg": "python3-junitxml", 
+    "pkg_version": "0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-junitxml_0.6-1.1_all.deb", 
+    "pkg": "python3-junitxml", 
+    "pkg_version": "0.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-junitxml-0.7-3.fc21.noarch.rpm", 
+    "pkg": "python3-junitxml", 
+    "pkg_version": "0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-junitxml-0.7-3.fc21.noarch.rpm", 
+    "pkg": "python3-junitxml", 
+    "pkg_version": "0.7", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-junitxml-0.7-3.fc21.noarch.rpm", 
+    "pkg": "python3-junitxml", 
+    "pkg_version": "0.7", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python3-junitxml-0.7-1.fc20.noarch.rpm", 
+    "pkg": "python3-junitxml", 
+    "pkg_version": "0.7", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python3-junitxml_0.6-1.1build1_all.deb", 
+    "pkg": "python3-junitxml", 
+    "pkg_version": "0.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

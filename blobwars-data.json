@@ -1,0 +1,55 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "blobwars-data-1.19-3-any.pkg.tar.xz", 
+    "pkg": "blobwars-data", 
+    "pkg_version": "1.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "blobwars-data_1.19-2_all.deb", 
+    "pkg": "blobwars-data", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "blobwars-data_1.19-2_all.deb", 
+    "pkg": "blobwars-data", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "blobwars-data_1.19-2_all.deb", 
+    "pkg": "blobwars-data", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "blobwars-data_1.19-2ubuntu1_all.deb", 
+    "pkg": "blobwars-data", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "blobwars-data_1.19-2ubuntu1_all.deb", 
+    "pkg": "blobwars-data", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

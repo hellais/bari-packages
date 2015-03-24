@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ncurses-bin_5.9+20140913-1+b1_i386.deb", 
+    "pkg": "ncurses-bin", 
+    "pkg_version": "5.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ncurses-bin_5.9+20140913-1+b1_i386.deb", 
+    "pkg": "ncurses-bin", 
+    "pkg_version": "5.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ncurses-bin_5.9-10_i386.deb", 
+    "pkg": "ncurses-bin", 
+    "pkg_version": "5.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "ncurses-bin_5.9+20140712-2ubuntu1_i386.deb", 
+    "pkg": "ncurses-bin", 
+    "pkg_version": "5.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "ncurses-bin_5.9+20140118-1ubuntu1_i386.deb", 
+    "pkg": "ncurses-bin", 
+    "pkg_version": "5.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

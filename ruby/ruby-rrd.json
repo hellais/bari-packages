@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-rrd_1.4.8-1.2_i386.deb", 
+    "pkg": "ruby-rrd", 
+    "pkg_version": "1.4.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-rrd_1.4.8-1.2_i386.deb", 
+    "pkg": "ruby-rrd", 
+    "pkg_version": "1.4.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

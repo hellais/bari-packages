@@ -1,0 +1,64 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "leocad-0.80.1-alt1.x86_64.rpm", 
+    "pkg": "leocad", 
+    "pkg_version": "0.8", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "leocad_0.81+svn1775-1_i386.deb", 
+    "pkg": "leocad", 
+    "pkg_version": "0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "leocad_0.80.3-1_i386.deb", 
+    "pkg": "leocad", 
+    "pkg_version": "0.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "leocad-0.79.1-7.1.x86_64.rpm", 
+    "pkg": "leocad", 
+    "pkg_version": "0.7", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "leocad-0.79.1-7.1.x86_64.rpm", 
+    "pkg": "leocad", 
+    "pkg_version": "0.7", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Niels Horn", 
+    "pkg_full_name": "leocad-0.79.3-i486-1_nhh.tgz", 
+    "pkg": "leocad", 
+    "pkg_version": "0.7", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "leocad_0.80.2-1_i386.deb", 
+    "pkg": "leocad", 
+    "pkg_version": "0.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

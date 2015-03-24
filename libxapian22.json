@@ -1,0 +1,119 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libxapian22_1.2.19-1_i386.deb", 
+    "pkg": "libxapian22", 
+    "pkg_version": "1.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libxapian22_1.2.19-1_i386.deb", 
+    "pkg": "libxapian22", 
+    "pkg_version": "1.2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libxapian22_1.2.12-2_i386.deb", 
+    "pkg": "libxapian22", 
+    "pkg_version": "1.2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libxapian22-1.2.17-4-omv2015.0.i586.rpm", 
+    "pkg": "libxapian22", 
+    "pkg_version": "1.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libxapian22-1.2.17-1-omv2014.0.i586.rpm", 
+    "pkg": "libxapian22", 
+    "pkg_version": "1.2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libxapian22-1.2.13-4-omv2013.0.i586.rpm", 
+    "pkg": "libxapian22", 
+    "pkg_version": "1.2.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libxapian22-1.2.20-1.1.x86_64.rpm", 
+    "pkg": "libxapian22", 
+    "pkg_version": "1.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libxapian22-1.2.17-3.2.1.x86_64.rpm", 
+    "pkg": "libxapian22", 
+    "pkg_version": "1.2.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libxapian22-1.2.15-2.1.2.i586.rpm", 
+    "pkg": "libxapian22", 
+    "pkg_version": "1.2.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libxapian22-1.2.17-2-rosa2014.1.i586.rpm", 
+    "pkg": "libxapian22", 
+    "pkg_version": "1.2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libxapian22-1.2.12-1-rosa2012.1.i586.rpm", 
+    "pkg": "libxapian22", 
+    "pkg_version": "1.2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libxapian22_1.2.18-1ubuntu1_i386.deb", 
+    "pkg": "libxapian22", 
+    "pkg_version": "1.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libxapian22_1.2.16-2ubuntu1_i386.deb", 
+    "pkg": "libxapian22", 
+    "pkg_version": "1.2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

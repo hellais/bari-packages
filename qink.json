@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qink_0.3.5-3_i386.deb", 
+    "pkg": "qink", 
+    "pkg_version": "0.3.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

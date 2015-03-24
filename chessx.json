@@ -1,0 +1,83 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "chessx_1.2.2-1_i386.deb", 
+    "pkg": "chessx", 
+    "pkg_version": "1.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "chessx_1.2.2-1_i386.deb", 
+    "pkg": "chessx", 
+    "pkg_version": "1.2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "chessx-1.0.0-5.1.x86_64.rpm", 
+    "pkg": "chessx", 
+    "pkg_version": "1.0.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "chessx-1.0.0-5.1.x86_64.rpm", 
+    "pkg": "chessx", 
+    "pkg_version": "1.0.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "chessx-0.8-1.7.x86_64.rpm", 
+    "pkg": "chessx", 
+    "pkg_version": "0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "chessx-0.8-1.7.x86_64.rpm", 
+    "pkg": "chessx", 
+    "pkg_version": "0.8", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "chessx-0.9.6-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "chessx", 
+    "pkg_version": "0.9.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "chessx-0.9.6-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "chessx", 
+    "pkg_version": "0.9.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "chessx_1.2.0-1_i386.deb", 
+    "pkg": "chessx", 
+    "pkg_version": "1.2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

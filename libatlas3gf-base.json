@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libatlas3gf-base_3.10.2-7_all.deb", 
+    "pkg": "libatlas3gf-base", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libatlas3gf-base_3.10.2-7_all.deb", 
+    "pkg": "libatlas3gf-base", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libatlas3gf-base_3.8.4-9+deb7u1_all.deb", 
+    "pkg": "libatlas3gf-base", 
+    "pkg_version": "3.8.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libatlas3gf-base_3.10.2-2_all.deb", 
+    "pkg": "libatlas3gf-base", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libatlas3gf-base_3.10.1-4_all.deb", 
+    "pkg": "libatlas3gf-base", 
+    "pkg_version": "3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

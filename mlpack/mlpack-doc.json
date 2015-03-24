@@ -1,0 +1,73 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "mlpack-doc-1.0.6-alt2_2.x86_64.rpm", 
+    "pkg": "mlpack-doc", 
+    "pkg_version": "1.0.6", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "mlpack-doc-1.0.8-5.el6.x86_64.rpm", 
+    "pkg": "mlpack-doc", 
+    "pkg_version": "1.0.8", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mlpack-doc_1.0.10-1_all.deb", 
+    "pkg": "mlpack-doc", 
+    "pkg_version": "1.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mlpack-doc_1.0.10-1_all.deb", 
+    "pkg": "mlpack-doc", 
+    "pkg_version": "1.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mlpack-doc-1.0.11-2.fc22.x86_64.rpm", 
+    "pkg": "mlpack-doc", 
+    "pkg_version": "1.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mlpack-doc-1.0.11-2.fc22.x86_64.rpm", 
+    "pkg": "mlpack-doc", 
+    "pkg_version": "1.0.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "mlpack-doc-1.0.11-1.fc21.x86_64.rpm", 
+    "pkg": "mlpack-doc", 
+    "pkg_version": "1.0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "mlpack-doc-1.0.11-1.fc20.x86_64.rpm", 
+    "pkg": "mlpack-doc", 
+    "pkg_version": "1.0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "maradns-deadwood_2.0.09-4_i386.deb", 
+    "pkg": "maradns-deadwood", 
+    "pkg_version": "2.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "maradns-deadwood_2.0.09-3_i386.deb", 
+    "pkg": "maradns-deadwood", 
+    "pkg_version": "2.0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

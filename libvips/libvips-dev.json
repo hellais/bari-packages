@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libvips-dev_7.40.6-2+b1_i386.deb", 
+    "pkg": "libvips-dev", 
+    "pkg_version": "7.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libvips-dev_7.40.6-2+b1_i386.deb", 
+    "pkg": "libvips-dev", 
+    "pkg_version": "7.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libvips-dev_7.28.5-1+deb7u1_i386.deb", 
+    "pkg": "libvips-dev", 
+    "pkg_version": "7.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libvips-dev_7.38.6-1_i386.deb", 
+    "pkg": "libvips-dev", 
+    "pkg_version": "7.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libvips-dev_7.38.5-2_i386.deb", 
+    "pkg": "libvips-dev", 
+    "pkg_version": "7.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

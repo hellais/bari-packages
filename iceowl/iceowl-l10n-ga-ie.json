@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "iceowl-l10n-ga-ie_3.3-1_all.deb", 
+    "pkg": "iceowl-l10n-ga-ie", 
+    "pkg_version": "3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

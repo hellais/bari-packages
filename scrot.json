@@ -1,0 +1,207 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "scrot-0.8-alt2.qa1.x86_64.rpm", 
+    "pkg": "scrot", 
+    "pkg_version": "0.8", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "scrot-0.8.13-1-x86_64.pkg.tar.xz", 
+    "pkg": "scrot", 
+    "pkg_version": "0.8.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Psychotic Ninja", 
+    "pkg_full_name": "scrot-0.8-12.el7.psychotic.x86_64.rpm", 
+    "pkg": "scrot", 
+    "pkg_version": "0.8", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Psychotic Ninja", 
+    "pkg_full_name": "scrot-0.8-12.el6.psychotic.x86_64.rpm", 
+    "pkg": "scrot", 
+    "pkg_version": "0.8", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Psychotic Ninja", 
+    "pkg_full_name": "scrot-0.8-12.el5.psychotic.x86_64.rpm", 
+    "pkg": "scrot", 
+    "pkg_version": "0.8", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scrot_0.8-13_i386.deb", 
+    "pkg": "scrot", 
+    "pkg_version": "0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scrot_0.8-13_i386.deb", 
+    "pkg": "scrot", 
+    "pkg_version": "0.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scrot_0.8-13_i386.deb", 
+    "pkg": "scrot", 
+    "pkg_version": "0.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "scrot-0.8-12.fc22.x86_64.rpm", 
+    "pkg": "scrot", 
+    "pkg_version": "0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "scrot-0.8-12.fc22.x86_64.rpm", 
+    "pkg": "scrot", 
+    "pkg_version": "0.8", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "scrot-0.8-12.fc21.x86_64.rpm", 
+    "pkg": "scrot", 
+    "pkg_version": "0.8", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "scrot-0.8-10.fc20.x86_64.rpm", 
+    "pkg": "scrot", 
+    "pkg_version": "0.8", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "scrot-0.8-5-omv2015.0.x86_64.rpm", 
+    "pkg": "scrot", 
+    "pkg_version": "0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "scrot-0.8-3-omv2014.0.x86_64.rpm", 
+    "pkg": "scrot", 
+    "pkg_version": "0.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "scrot-0.8-3-omv2013.0.x86_64.rpm", 
+    "pkg": "scrot", 
+    "pkg_version": "0.8", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "scrot-0.8-1.2.x86_64.rpm", 
+    "pkg": "scrot", 
+    "pkg_version": "0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "scrot-0.8-6-rosa2014.1.x86_64.rpm", 
+    "pkg": "scrot", 
+    "pkg_version": "0.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "scrot-0.8-5-rosa2012.1.x86_64.rpm", 
+    "pkg": "scrot", 
+    "pkg_version": "0.8", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "scrot-0.8-x86_64-2tjb.txz", 
+    "pkg": "scrot", 
+    "pkg_version": "0.8", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "scrot-0.8-x86_64-2sl.txz", 
+    "pkg": "scrot", 
+    "pkg_version": "0.8", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "scrot-0.8-x86_64-1sl.txz", 
+    "pkg": "scrot", 
+    "pkg_version": "0.8", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "scrot_0.8-13_i386.deb", 
+    "pkg": "scrot", 
+    "pkg_version": "0.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "scrot_0.8-13_i386.deb", 
+    "pkg": "scrot", 
+    "pkg_version": "0.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

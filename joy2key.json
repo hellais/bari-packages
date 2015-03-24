@@ -1,0 +1,101 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "joy2key_1.6.3-1_i386.deb", 
+    "pkg": "joy2key", 
+    "pkg_version": "1.6.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "joy2key_1.6.3-1_i386.deb", 
+    "pkg": "joy2key", 
+    "pkg_version": "1.6.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "joy2key_1.6.3-1_i386.deb", 
+    "pkg": "joy2key", 
+    "pkg_version": "1.6.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "joy2key-1.6.3-4-omv2013.0.x86_64.rpm", 
+    "pkg": "joy2key", 
+    "pkg_version": "1.6.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "joy2key-1.6.3-4-omv2013.0.x86_64.rpm", 
+    "pkg": "joy2key", 
+    "pkg_version": "1.6.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "joy2key-1.6.3-4-omv2013.0.x86_64.rpm", 
+    "pkg": "joy2key", 
+    "pkg_version": "1.6.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "joy2key-1.6.3-5-rosa2014.1.x86_64.rpm", 
+    "pkg": "joy2key", 
+    "pkg_version": "1.6.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "joy2key-1.6.3-4-rosa2012.1.x86_64.rpm", 
+    "pkg": "joy2key", 
+    "pkg_version": "1.6.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Helmut Hullen", 
+    "pkg_full_name": "joy2key-1.6.1-i586-94suse.tgz", 
+    "pkg": "joy2key", 
+    "pkg_version": "1.6.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "joy2key_1.6.3-1_i386.deb", 
+    "pkg": "joy2key", 
+    "pkg_version": "1.6.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "joy2key_1.6.3-1_i386.deb", 
+    "pkg": "joy2key", 
+    "pkg_version": "1.6.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

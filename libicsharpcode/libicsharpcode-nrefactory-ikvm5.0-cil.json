@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libicsharpcode-nrefactory-ikvm5.0-cil_5.3.0+20130718.73b6d0f-1_all.deb", 
+    "pkg": "libicsharpcode-nrefactory-ikvm", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libicsharpcode-nrefactory-ikvm5.0-cil_5.3.0+20130718.73b6d0f-1_all.deb", 
+    "pkg": "libicsharpcode-nrefactory-ikvm", 
+    "pkg_version": "5.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libicsharpcode-nrefactory-ikvm5.0-cil_5.3.0+20130718.73b6d0f-1_all.deb", 
+    "pkg": "libicsharpcode-nrefactory-ikvm", 
+    "pkg_version": "5.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-pcap-dev_0.4.5.2-4+b2_i386.deb", 
+    "pkg": "libghc-pcap-dev", 
+    "pkg_version": "0.4.5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-pcap-dev_0.4.5.2-4+b2_i386.deb", 
+    "pkg": "libghc-pcap-dev", 
+    "pkg_version": "0.4.5.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-pcap-dev_0.4.5.2-4build1_i386.deb", 
+    "pkg": "libghc-pcap-dev", 
+    "pkg_version": "0.4.5.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

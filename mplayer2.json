@@ -1,0 +1,172 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "mplayer2-2.0-alt1_2.20121114git96c3415.x86_64.rpm", 
+    "pkg": "mplayer2", 
+    "pkg_version": "2.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Russian Fedora Free Updates", 
+    "pkg_full_name": "mplayer2-2.0.20120424gitb711624-1.el6.R.x86_64.rpm", 
+    "pkg": "mplayer2", 
+    "pkg_version": "2.0.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "mplayer2_2.0~git20130903-dmo7_i386.deb", 
+    "pkg": "mplayer2", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "mplayer2_2.0~git20130903-dmo7_i386.deb", 
+    "pkg": "mplayer2", 
+    "pkg_version": "2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "mplayer2_2.0~git20120817-dmo1_i386.deb", 
+    "pkg": "mplayer2", 
+    "pkg_version": "2.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "mplayer2-20130427-4.14.x86_64.rpm", 
+    "pkg": "mplayer2-20130427", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "mplayer2_2.0~git20120817-dmo1_i386.deb", 
+    "pkg": "mplayer2", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "mplayer2-20130427-4.7.x86_64.rpm", 
+    "pkg": "mplayer2-20130427", 
+    "pkg_version": "4.7", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "mplayer2_2.0~git20120817-dmo1_i386.deb", 
+    "pkg": "mplayer2", 
+    "pkg_version": "2.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "mplayer2-20130427-4.7.x86_64.rpm", 
+    "pkg": "mplayer2-20130427", 
+    "pkg_version": "4.7", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "mplayer2_2.0~git20120817-dmo1_i386.deb", 
+    "pkg": "mplayer2", 
+    "pkg_version": "2.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "mplayer2-20130427-4.7.x86_64.rpm", 
+    "pkg": "mplayer2-20130427", 
+    "pkg_version": "4.7", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "mplayer2_2.0~git20120817-dmo1_i386.deb", 
+    "pkg": "mplayer2", 
+    "pkg_version": "2.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "mplayer2-20130427-4.7.x86_64.rpm", 
+    "pkg": "mplayer2-20130427", 
+    "pkg_version": "4.7", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "mplayer2-2.0-x86_64-1gv.txz", 
+    "pkg": "mplayer2", 
+    "pkg_version": "2.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "mplayer2-20130427-4.7.x86_64.rpm", 
+    "pkg": "mplayer2-20130427", 
+    "pkg_version": "4.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mplayer2_2.0-728-g2c378c7-2ubuntu3_i386.deb", 
+    "pkg": "mplayer2", 
+    "pkg_version": "2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "mplayer2-20130427-4.7.x86_64.rpm", 
+    "pkg": "mplayer2-20130427", 
+    "pkg_version": "4.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mplayer2_2.0-701-gd4c5b7f-2ubuntu2_i386.deb", 
+    "pkg": "mplayer2", 
+    "pkg_version": "2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

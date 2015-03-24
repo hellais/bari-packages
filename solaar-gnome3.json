@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "solaar-gnome3_0.9.2+dfsg-4_all.deb", 
+    "pkg": "solaar-gnome3", 
+    "pkg_version": "0.9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

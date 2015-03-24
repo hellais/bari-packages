@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "binutils-multiarch-dev_2.25-5_i386.deb", 
+    "pkg": "binutils-multiarch-dev", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "binutils-multiarch-dev_2.25-5_i386.deb", 
+    "pkg": "binutils-multiarch-dev", 
+    "pkg_version": "2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "binutils-multiarch-dev_2.24.90.20141014-0ubuntu3.1_i386.deb", 
+    "pkg": "binutils-multiarch-dev", 
+    "pkg_version": "2.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

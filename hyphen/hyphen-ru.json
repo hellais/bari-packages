@@ -1,0 +1,83 @@
+[
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "hyphen-ru-0.20020727-9.el7.noarch.rpm", 
+    "pkg": "hyphen-ru", 
+    "pkg_version": "0.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "hyphen-ru-0.20020727-4.1.el6.noarch.rpm", 
+    "pkg": "hyphen-ru", 
+    "pkg_version": "0.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "hyphen-ru-0.20020727-4.1.el6.noarch.rpm", 
+    "pkg": "hyphen-ru", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "hyphen-ru-0.20020727-4.1.el6.noarch.rpm", 
+    "pkg": "hyphen-ru", 
+    "pkg_version": "0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "hyphen-ru-0.20020727-10.fc21.noarch.rpm", 
+    "pkg": "hyphen-ru", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "hyphen-ru-0.20020727-10.fc21.noarch.rpm", 
+    "pkg": "hyphen-ru", 
+    "pkg_version": "0.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "hyphen-ru-0.20020727-10.fc21.noarch.rpm", 
+    "pkg": "hyphen-ru", 
+    "pkg_version": "0.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "hyphen-ru-0.20020727-9.fc20.noarch.rpm", 
+    "pkg": "hyphen-ru", 
+    "pkg_version": "0.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "hyphen-ru-0.20020727-4.mga4.noarch.rpm", 
+    "pkg": "hyphen-ru", 
+    "pkg_version": "0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

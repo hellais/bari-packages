@@ -1,0 +1,503 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hunspell-ru-lebedev-io-0.99g5-alt12.1.noarch.rpm", 
+    "pkg": "hunspell-ru-lebedev-io", 
+    "pkg_version": "0.9", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hunspell-ru-lebedev-ie-0.99g5-alt12.1.noarch.rpm", 
+    "pkg": "hunspell-ru-lebedev-ie", 
+    "pkg_version": "0.9", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hunspell-ru-lebedev-0.99g5-alt12.1.noarch.rpm", 
+    "pkg": "hunspell-ru-lebedev", 
+    "pkg_version": "0.9", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "hunspell-ru-0.99g5-5.el7.noarch.rpm", 
+    "pkg": "hunspell-ru", 
+    "pkg_version": "0.9", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hunspell-ru-lebedev-io-0.99g5-alt12.1.noarch.rpm", 
+    "pkg": "hunspell-ru-lebedev-io", 
+    "pkg_version": "0.9", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hunspell-ru-lebedev-ie-0.99g5-alt12.1.noarch.rpm", 
+    "pkg": "hunspell-ru-lebedev-ie", 
+    "pkg_version": "0.9", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hunspell-ru-lebedev-0.99g5-alt12.1.noarch.rpm", 
+    "pkg": "hunspell-ru-lebedev", 
+    "pkg_version": "0.9", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "hunspell-ru-0.99f7-4.1.el6.noarch.rpm", 
+    "pkg": "hunspell-ru", 
+    "pkg_version": "0.9", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hunspell-ru-lebedev-io-0.99g5-alt12.1.noarch.rpm", 
+    "pkg": "hunspell-ru-lebedev-io", 
+    "pkg_version": "0.9", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hunspell-ru-lebedev-ie-0.99g5-alt12.1.noarch.rpm", 
+    "pkg": "hunspell-ru-lebedev-ie", 
+    "pkg_version": "0.9", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hunspell-ru-lebedev-0.99g5-alt12.1.noarch.rpm", 
+    "pkg": "hunspell-ru-lebedev", 
+    "pkg_version": "0.9", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "myspell-ru_0.99g5-19_all.deb", 
+    "pkg": "myspell-ru", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "hunspell-ru-0.99f7-4.1.el6.noarch.rpm", 
+    "pkg": "hunspell-ru", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hunspell-ru-lebedev-io-0.99g5-alt12.1.noarch.rpm", 
+    "pkg": "hunspell-ru-lebedev-io", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hunspell-ru-lebedev-ie-0.99g5-alt12.1.noarch.rpm", 
+    "pkg": "hunspell-ru-lebedev-ie", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hunspell-ru-lebedev-0.99g5-alt12.1.noarch.rpm", 
+    "pkg": "hunspell-ru-lebedev", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "myspell-ru_0.99g5-19_all.deb", 
+    "pkg": "myspell-ru", 
+    "pkg_version": "0.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "hunspell-ru-0.99f7-4.1.el6.noarch.rpm", 
+    "pkg": "hunspell-ru", 
+    "pkg_version": "0.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hunspell-ru-lebedev-io-0.99g5-alt12.1.noarch.rpm", 
+    "pkg": "hunspell-ru-lebedev-io", 
+    "pkg_version": "0.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hunspell-ru-lebedev-ie-0.99g5-alt12.1.noarch.rpm", 
+    "pkg": "hunspell-ru-lebedev-ie", 
+    "pkg_version": "0.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hunspell-ru-lebedev-0.99g5-alt12.1.noarch.rpm", 
+    "pkg": "hunspell-ru-lebedev", 
+    "pkg_version": "0.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "myspell-ru_0.99g5-18_all.deb", 
+    "pkg": "myspell-ru", 
+    "pkg_version": "0.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "hunspell-ru-0.99f7-4.1.el6.noarch.rpm", 
+    "pkg": "hunspell-ru", 
+    "pkg_version": "0.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hunspell-ru-lebedev-io-0.99g5-alt12.1.noarch.rpm", 
+    "pkg": "hunspell-ru-lebedev-io", 
+    "pkg_version": "0.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hunspell-ru-lebedev-ie-0.99g5-alt12.1.noarch.rpm", 
+    "pkg": "hunspell-ru-lebedev-ie", 
+    "pkg_version": "0.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hunspell-ru-lebedev-0.99g5-alt12.1.noarch.rpm", 
+    "pkg": "hunspell-ru-lebedev", 
+    "pkg_version": "0.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "myspell-ru_0.99g5-18_all.deb", 
+    "pkg": "myspell-ru", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "hunspell-ru-0.99g5-6.fc21.noarch.rpm", 
+    "pkg": "hunspell-ru", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hunspell-ru-lebedev-io-0.99g5-alt12.1.noarch.rpm", 
+    "pkg": "hunspell-ru-lebedev-io", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hunspell-ru-lebedev-ie-0.99g5-alt12.1.noarch.rpm", 
+    "pkg": "hunspell-ru-lebedev-ie", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hunspell-ru-lebedev-0.99g5-alt12.1.noarch.rpm", 
+    "pkg": "hunspell-ru-lebedev", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "myspell-ru_0.99g5-18_all.deb", 
+    "pkg": "myspell-ru", 
+    "pkg_version": "0.9", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "hunspell-ru-0.99g5-6.fc21.noarch.rpm", 
+    "pkg": "hunspell-ru", 
+    "pkg_version": "0.9", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hunspell-ru-lebedev-io-0.99g5-alt12.1.noarch.rpm", 
+    "pkg": "hunspell-ru-lebedev-io", 
+    "pkg_version": "0.9", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hunspell-ru-lebedev-ie-0.99g5-alt12.1.noarch.rpm", 
+    "pkg": "hunspell-ru-lebedev-ie", 
+    "pkg_version": "0.9", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hunspell-ru-lebedev-0.99g5-alt12.1.noarch.rpm", 
+    "pkg": "hunspell-ru-lebedev", 
+    "pkg_version": "0.9", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "myspell-ru_0.99g5-18_all.deb", 
+    "pkg": "myspell-ru", 
+    "pkg_version": "0.9", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "hunspell-ru-0.99g5-6.fc21.noarch.rpm", 
+    "pkg": "hunspell-ru", 
+    "pkg_version": "0.9", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hunspell-ru-lebedev-io-0.99g5-alt12.1.noarch.rpm", 
+    "pkg": "hunspell-ru-lebedev-io", 
+    "pkg_version": "0.9", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hunspell-ru-lebedev-ie-0.99g5-alt12.1.noarch.rpm", 
+    "pkg": "hunspell-ru-lebedev-ie", 
+    "pkg_version": "0.9", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hunspell-ru-lebedev-0.99g5-alt12.1.noarch.rpm", 
+    "pkg": "hunspell-ru-lebedev", 
+    "pkg_version": "0.9", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "myspell-ru_0.99g5-18_all.deb", 
+    "pkg": "myspell-ru", 
+    "pkg_version": "0.9", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "hunspell-ru-0.99g5-5.fc20.noarch.rpm", 
+    "pkg": "hunspell-ru", 
+    "pkg_version": "0.9", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hunspell-ru-lebedev-io-0.99g5-alt12.1.noarch.rpm", 
+    "pkg": "hunspell-ru-lebedev-io", 
+    "pkg_version": "0.9", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hunspell-ru-lebedev-ie-0.99g5-alt12.1.noarch.rpm", 
+    "pkg": "hunspell-ru-lebedev-ie", 
+    "pkg_version": "0.9", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hunspell-ru-lebedev-0.99g5-alt12.1.noarch.rpm", 
+    "pkg": "hunspell-ru-lebedev", 
+    "pkg_version": "0.9", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "myspell-ru_0.99g5-19_all.deb", 
+    "pkg": "myspell-ru", 
+    "pkg_version": "0.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "hunspell-ru-0.99g5-3.mga4.noarch.rpm", 
+    "pkg": "hunspell-ru", 
+    "pkg_version": "0.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hunspell-ru-lebedev-io-0.99g5-alt12.1.noarch.rpm", 
+    "pkg": "hunspell-ru-lebedev-io", 
+    "pkg_version": "0.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hunspell-ru-lebedev-ie-0.99g5-alt12.1.noarch.rpm", 
+    "pkg": "hunspell-ru-lebedev-ie", 
+    "pkg_version": "0.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hunspell-ru-lebedev-0.99g5-alt12.1.noarch.rpm", 
+    "pkg": "hunspell-ru-lebedev", 
+    "pkg_version": "0.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "myspell-ru_0.99g5-18_all.deb", 
+    "pkg": "myspell-ru", 
+    "pkg_version": "0.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "hunspell-ru-0.99g5-3.mga4.noarch.rpm", 
+    "pkg": "hunspell-ru", 
+    "pkg_version": "0.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hunspell-ru-lebedev-io-0.99g5-alt12.1.noarch.rpm", 
+    "pkg": "hunspell-ru-lebedev-io", 
+    "pkg_version": "0.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hunspell-ru-lebedev-ie-0.99g5-alt12.1.noarch.rpm", 
+    "pkg": "hunspell-ru-lebedev-ie", 
+    "pkg_version": "0.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hunspell-ru-lebedev-0.99g5-alt12.1.noarch.rpm", 
+    "pkg": "hunspell-ru-lebedev", 
+    "pkg_version": "0.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

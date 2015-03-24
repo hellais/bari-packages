@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ostinato_0.5.1-2+b2_i386.deb", 
+    "pkg": "ostinato", 
+    "pkg_version": "0.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ostinato_0.5.1-2+b2_i386.deb", 
+    "pkg": "ostinato", 
+    "pkg_version": "0.5.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Slackers", 
+    "pkg_full_name": "ostinato-0.6-x86_64-2cf.txz", 
+    "pkg": "ostinato", 
+    "pkg_version": "0.6", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "ostinato-0.5-i486-1sl.txz", 
+    "pkg": "ostinato", 
+    "pkg_version": "0.5", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ostinato_0.5.1-2build1_i386.deb", 
+    "pkg": "ostinato", 
+    "pkg_version": "0.5.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

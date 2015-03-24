@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-pipes-parse-prof_3.0.2-1+b2_amd64.deb", 
+    "pkg": "libghc-pipes-parse-prof", 
+    "pkg_version": "3.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-pipes-parse-prof_3.0.2-1+b2_amd64.deb", 
+    "pkg": "libghc-pipes-parse-prof", 
+    "pkg_version": "3.0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-pipes-parse-prof_3.0.2-1build2_i386.deb", 
+    "pkg": "libghc-pipes-parse-prof", 
+    "pkg_version": "3.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

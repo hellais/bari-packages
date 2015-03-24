@@ -1,0 +1,208 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "crm114-1.0-alt1.x86_64.rpm", 
+    "pkg": "crm114", 
+    "pkg_version": "1.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "crm114-1.0-alt1.x86_64.rpm", 
+    "pkg": "crm114", 
+    "pkg_version": "1.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "crm114-0-1.12.20090807.el6.x86_64.rpm", 
+    "pkg": "crm114-0", 
+    "pkg_version": "1.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "crm114-1.0-alt1.x86_64.rpm", 
+    "pkg": "crm114", 
+    "pkg_version": "1.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "crm114-0-0.4.20080703.el5.x86_64.rpm", 
+    "pkg": "crm114-0", 
+    "pkg_version": "0.4.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "crm114-1.0-alt1.x86_64.rpm", 
+    "pkg": "crm114", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "crm114-0-0.4.20080703.el5.x86_64.rpm", 
+    "pkg": "crm114-0", 
+    "pkg_version": "0.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "crm114-1.0-alt1.x86_64.rpm", 
+    "pkg": "crm114", 
+    "pkg_version": "1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "crm114-0-0.4.20080703.el5.x86_64.rpm", 
+    "pkg": "crm114-0", 
+    "pkg_version": "0.4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "crm114-1.0-alt1.x86_64.rpm", 
+    "pkg": "crm114", 
+    "pkg_version": "1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "crm114-0-0.4.20080703.el5.x86_64.rpm", 
+    "pkg": "crm114-0", 
+    "pkg_version": "0.4.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "crm114-1.0-alt1.x86_64.rpm", 
+    "pkg": "crm114", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "crm114-0-8.14.20100106.fc22.x86_64.rpm", 
+    "pkg": "crm114-0", 
+    "pkg_version": "8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "crm114-1.0-alt1.x86_64.rpm", 
+    "pkg": "crm114", 
+    "pkg_version": "1.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "crm114-0-8.14.20100106.fc22.x86_64.rpm", 
+    "pkg": "crm114-0", 
+    "pkg_version": "8.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "crm114-1.0-alt1.x86_64.rpm", 
+    "pkg": "crm114", 
+    "pkg_version": "1.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "crm114-0-8.14.20100106.fc21.x86_64.rpm", 
+    "pkg": "crm114-0", 
+    "pkg_version": "8.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "crm114-1.0-alt1.x86_64.rpm", 
+    "pkg": "crm114", 
+    "pkg_version": "1.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "crm114-0-6.14.20100106.fc20.x86_64.rpm", 
+    "pkg": "crm114-0", 
+    "pkg_version": "6.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "crm114-1.0-alt1.x86_64.rpm", 
+    "pkg": "crm114", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "crm114-0-6.14.20100106.fc20.x86_64.rpm", 
+    "pkg": "crm114-0", 
+    "pkg_version": "6.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "crm114-1.0-alt1.x86_64.rpm", 
+    "pkg": "crm114", 
+    "pkg_version": "1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "crm114-0-6.14.20100106.fc20.x86_64.rpm", 
+    "pkg": "crm114-0", 
+    "pkg_version": "6.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

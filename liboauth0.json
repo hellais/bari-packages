@@ -1,0 +1,119 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liboauth0_1.0.1-1_i386.deb", 
+    "pkg": "liboauth0", 
+    "pkg_version": "1.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liboauth0_1.0.1-1_i386.deb", 
+    "pkg": "liboauth0", 
+    "pkg_version": "1.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liboauth0_0.9.4-3.1_i386.deb", 
+    "pkg": "liboauth0", 
+    "pkg_version": "0.9.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "liboauth0-1.0.3-9-omv2015.0.i586.rpm", 
+    "pkg": "liboauth0", 
+    "pkg_version": "1.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "liboauth0-1.0.0-3-omv2014.0.i586.rpm", 
+    "pkg": "liboauth0", 
+    "pkg_version": "1.0.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "liboauth0-1.0.0-2-omv2013.0.i586.rpm", 
+    "pkg": "liboauth0", 
+    "pkg_version": "1.0.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "liboauth0-1.0.3-1.1.x86_64.rpm", 
+    "pkg": "liboauth0", 
+    "pkg_version": "1.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "liboauth0-1.0.3-1.1.x86_64.rpm", 
+    "pkg": "liboauth0", 
+    "pkg_version": "1.0.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "liboauth0-1.0.3-1.1.x86_64.rpm", 
+    "pkg": "liboauth0", 
+    "pkg_version": "1.0.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "liboauth0-1.0.3-7-rosa2014.1.i586.rpm", 
+    "pkg": "liboauth0", 
+    "pkg_version": "1.0.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "liboauth0-0.9.7-1-rosa2012.1.i586.rpm", 
+    "pkg": "liboauth0", 
+    "pkg_version": "0.9.7", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "liboauth0_1.0.1-1_i386.deb", 
+    "pkg": "liboauth0", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "liboauth0_1.0.1-1_i386.deb", 
+    "pkg": "liboauth0", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

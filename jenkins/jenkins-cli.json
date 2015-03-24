@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jenkins-cli_1.565.3-3_all.deb", 
+    "pkg": "jenkins-cli", 
+    "pkg_version": "1.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jenkins-cli_1.565.3-3_all.deb", 
+    "pkg": "jenkins-cli", 
+    "pkg_version": "1.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "jenkins-cli-1.598-9.fc23.noarch.rpm", 
+    "pkg": "jenkins-cli", 
+    "pkg_version": "1.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "jenkins-cli-1.598-1.fc22.noarch.rpm", 
+    "pkg": "jenkins-cli", 
+    "pkg_version": "1.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "jenkins-cli-1.590-1.fc21.noarch.rpm", 
+    "pkg": "jenkins-cli", 
+    "pkg_version": "1.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

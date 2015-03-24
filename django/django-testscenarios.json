@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "django-testscenarios_0.7.4-1_all.deb", 
+    "pkg": "django-testscenarios", 
+    "pkg_version": "0.7.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "django-testscenarios_0.7.4-1_all.deb", 
+    "pkg": "django-testscenarios", 
+    "pkg_version": "0.7.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

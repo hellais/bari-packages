@@ -1,0 +1,153 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "sc-7.16-alt3.qa1.x86_64.rpm", 
+    "pkg": "sc", 
+    "pkg_version": "7.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "sc-7.16-5-x86_64.pkg.tar.xz", 
+    "pkg": "sc", 
+    "pkg_version": "7.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "sc-7.16-3.1.3.sdl6.x86_64.rpm", 
+    "pkg": "sc", 
+    "pkg_version": "7.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sc_7.16-4_i386.deb", 
+    "pkg": "sc", 
+    "pkg_version": "7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sc_7.16-4_i386.deb", 
+    "pkg": "sc", 
+    "pkg_version": "7.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sc_7.16-3_i386.deb", 
+    "pkg": "sc", 
+    "pkg_version": "7.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "sc-7.16-1.fc22.x86_64.rpm", 
+    "pkg": "sc", 
+    "pkg_version": "7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "sc-7.16-1.fc22.x86_64.rpm", 
+    "pkg": "sc", 
+    "pkg_version": "7.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "sc-7.16-1.fc21.x86_64.rpm", 
+    "pkg": "sc", 
+    "pkg_version": "7.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "sc-7.16-13.2.x86_64.rpm", 
+    "pkg": "sc", 
+    "pkg_version": "7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "sc-7.16-12.1.2.x86_64.rpm", 
+    "pkg": "sc", 
+    "pkg_version": "7.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "sc-7.16-10.1.2.i586.rpm", 
+    "pkg": "sc", 
+    "pkg_version": "7.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "sc-7.16-x86_64-3.txz", 
+    "pkg": "sc", 
+    "pkg_version": "7.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "sc-7.16-x86_64-3.txz", 
+    "pkg": "sc", 
+    "pkg_version": "7.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "sc-7.16-x86_64-3.txz", 
+    "pkg": "sc", 
+    "pkg_version": "7.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "sc_7.16-4_i386.deb", 
+    "pkg": "sc", 
+    "pkg_version": "7.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "sc_7.16-3_i386.deb", 
+    "pkg": "sc", 
+    "pkg_version": "7.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

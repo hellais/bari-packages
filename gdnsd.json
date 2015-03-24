@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdnsd_2.1.0-1_i386.deb", 
+    "pkg": "gdnsd", 
+    "pkg_version": "2.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdnsd_2.1.0-1_i386.deb", 
+    "pkg": "gdnsd", 
+    "pkg_version": "2.1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gdnsd-2.2.0-1-omv2015.0.x86_64.rpm", 
+    "pkg": "gdnsd", 
+    "pkg_version": "2.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gdnsd_1.11.4-1_i386.deb", 
+    "pkg": "gdnsd", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

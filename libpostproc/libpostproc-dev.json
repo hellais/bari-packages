@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libpostproc-dev_2.6.1-dmo1_i386.deb", 
+    "pkg": "libpostproc-dev", 
+    "pkg_version": "2.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libpostproc-dev_2.6.1-dmo1_i386.deb", 
+    "pkg": "libpostproc-dev", 
+    "pkg_version": "2.6.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libpostproc-dev_1.0.10-dmo1_i386.deb", 
+    "pkg": "libpostproc-dev", 
+    "pkg_version": "1.0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libpostproc-dev_1.0.10-dmo1_i386.deb", 
+    "pkg": "libpostproc-dev", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libpostproc-dev_1.0.10-dmo1_i386.deb", 
+    "pkg": "libpostproc-dev", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

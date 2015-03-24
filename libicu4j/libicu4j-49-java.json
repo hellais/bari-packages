@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libicu4j-49-java_49.1-1_all.deb", 
+    "pkg": "libicu4j-49-java_4", 
+    "pkg_version": "9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

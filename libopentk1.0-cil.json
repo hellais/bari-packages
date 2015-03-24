@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libopentk1.0-cil_1.0.20101006+dfsg1-1_all.deb", 
+    "pkg": "libopentk", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libopentk1.0-cil_1.0.20101006+dfsg1-1_all.deb", 
+    "pkg": "libopentk", 
+    "pkg_version": "1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libopentk1.0-cil_1.0.20101006+dfsg1-1_all.deb", 
+    "pkg": "libopentk", 
+    "pkg_version": "1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libopentk1.0-cil_1.0.20101006+dfsg1-1_all.deb", 
+    "pkg": "libopentk", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

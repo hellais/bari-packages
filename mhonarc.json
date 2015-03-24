@@ -1,0 +1,209 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "mhonarc-2.6.16-7.el6.noarch.rpm", 
+    "pkg": "mhonarc", 
+    "pkg_version": "2.6.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "mhonarc-2.6.16-7.el5.noarch.rpm", 
+    "pkg": "mhonarc", 
+    "pkg_version": "2.6.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mhonarc_2.6.19-1_all.deb", 
+    "pkg": "mhonarc", 
+    "pkg_version": "2.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mhonarc_2.6.19-1_all.deb", 
+    "pkg": "mhonarc", 
+    "pkg_version": "2.6.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mhonarc_2.6.18-2_all.deb", 
+    "pkg": "mhonarc", 
+    "pkg_version": "2.6.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mhonarc-2.6.18-15.fc22.noarch.rpm", 
+    "pkg": "mhonarc", 
+    "pkg_version": "2.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mhonarc-2.6.18-15.fc22.noarch.rpm", 
+    "pkg": "mhonarc", 
+    "pkg_version": "2.6.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mhonarc-2.6.18-14.fc21.noarch.rpm", 
+    "pkg": "mhonarc", 
+    "pkg_version": "2.6.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "mhonarc-2.6.18-13.fc20.noarch.rpm", 
+    "pkg": "mhonarc", 
+    "pkg_version": "2.6.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "MHonArc-2.6.18-13-omv2015.0.noarch.rpm", 
+    "pkg": "MHonArc", 
+    "pkg_version": "2.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "mhonarc-2.6.18-3.mga4.noarch.rpm", 
+    "pkg": "mhonarc", 
+    "pkg_version": "2.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "MHonArc-2.6.18-7-omv2014.0.noarch.rpm", 
+    "pkg": "MHonArc", 
+    "pkg_version": "2.6.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "mhonarc-2.6.18-3.mga4.noarch.rpm", 
+    "pkg": "mhonarc", 
+    "pkg_version": "2.6.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "MHonArc-2.6.18-6-omv2013.0.noarch.rpm", 
+    "pkg": "MHonArc", 
+    "pkg_version": "2.6.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "mhonarc-2.6.18-3.mga4.noarch.rpm", 
+    "pkg": "mhonarc", 
+    "pkg_version": "2.6.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "MHonArc-2.6.18-7-rosa2014.1.noarch.rpm", 
+    "pkg": "MHonArc", 
+    "pkg_version": "2.6.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "mhonarc-2.6.18-3.mga4.noarch.rpm", 
+    "pkg": "mhonarc", 
+    "pkg_version": "2.6.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "MHonArc-2.6.18-6-rosa2012.1.noarch.rpm", 
+    "pkg": "MHonArc", 
+    "pkg_version": "2.6.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "mhonarc-2.6.18-3.mga4.noarch.rpm", 
+    "pkg": "mhonarc", 
+    "pkg_version": "2.6.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "MHonArc-2.6.18-6-rosa2012.1.noarch.rpm", 
+    "pkg": "MHonArc", 
+    "pkg_version": "2.6.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mhonarc_2.6.19-1_all.deb", 
+    "pkg": "mhonarc", 
+    "pkg_version": "2.6.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "MHonArc-2.6.18-6-rosa2012.1.noarch.rpm", 
+    "pkg": "MHonArc", 
+    "pkg_version": "2.6.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mhonarc_2.6.18-3_all.deb", 
+    "pkg": "mhonarc", 
+    "pkg_version": "2.6.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

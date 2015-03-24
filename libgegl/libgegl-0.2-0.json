@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libgegl-0.2-0_0.2.0-dmo8_i386.deb", 
+    "pkg": "libgegl", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libgegl-0.2-0_0.2.0-dmo8_i386.deb", 
+    "pkg": "libgegl", 
+    "pkg_version": "0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgegl-0.2-0_0.2.0-2+nmu1_i386.deb", 
+    "pkg": "libgegl", 
+    "pkg_version": "0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libgegl-0.2-0_0.2.0-4ubuntu1_i386.deb", 
+    "pkg": "libgegl", 
+    "pkg_version": "0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

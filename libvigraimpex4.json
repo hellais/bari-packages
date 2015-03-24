@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libvigraimpex4_1.9.0+dfsg-10+b2_i386.deb", 
+    "pkg": "libvigraimpex4", 
+    "pkg_version": "1.9.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libvigraimpex4_1.9.0+dfsg-10+b2_i386.deb", 
+    "pkg": "libvigraimpex4", 
+    "pkg_version": "1.9.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

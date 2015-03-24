@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fookebox_0.7.2-1_all.deb", 
+    "pkg": "fookebox", 
+    "pkg_version": "0.7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fookebox_0.6.1-1_all.deb", 
+    "pkg": "fookebox", 
+    "pkg_version": "0.6.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "fookebox_0.6.1-3_all.deb", 
+    "pkg": "fookebox", 
+    "pkg_version": "0.6.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "fookebox_0.6.1-2_all.deb", 
+    "pkg": "fookebox", 
+    "pkg_version": "0.6.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

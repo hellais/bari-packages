@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-markups_0.5.2-1_all.deb", 
+    "pkg": "python3-markups", 
+    "pkg_version": "0.5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-markups_0.5.2-1_all.deb", 
+    "pkg": "python3-markups", 
+    "pkg_version": "0.5.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-markups-0.5.2-4.fc22.noarch.rpm", 
+    "pkg": "python3-markups", 
+    "pkg_version": "0.5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-markups-0.5.2-4.fc22.noarch.rpm", 
+    "pkg": "python3-markups", 
+    "pkg_version": "0.5.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "python3-markups-0.2.4-2.1.noarch.rpm", 
+    "pkg": "python3-markups", 
+    "pkg_version": "0.2.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "python3-markups-0.2.4-2.1.noarch.rpm", 
+    "pkg": "python3-markups", 
+    "pkg_version": "0.2.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python3-markups_0.5.1-1_all.deb", 
+    "pkg": "python3-markups", 
+    "pkg_version": "0.5.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

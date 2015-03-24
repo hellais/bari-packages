@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-activesupport-2.3_4.1.8-1_all.deb", 
+    "pkg": "ruby-activesupport", 
+    "pkg_version": "2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-activesupport-2.3_4.1.8-1_all.deb", 
+    "pkg": "ruby-activesupport", 
+    "pkg_version": "2.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-activesupport-2.3_2.3.14-7_all.deb", 
+    "pkg": "ruby-activesupport", 
+    "pkg_version": "2.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

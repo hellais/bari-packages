@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "perl_5.20.2-2_i386.deb", 
+    "pkg": "perl", 
+    "pkg_version": "5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libio-compress-perl_2.066-1_all.deb", 
+    "pkg": "libio-compress-perl", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "perl_5.20.2-2_i386.deb", 
+    "pkg": "perl", 
+    "pkg_version": "5.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libio-compress-perl_2.066-1_all.deb", 
+    "pkg": "libio-compress-perl", 
+    "pkg_version": "2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "perl_5.14.2-21+deb7u2_i386.deb", 
+    "pkg": "perl", 
+    "pkg_version": "5.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libio-compress-perl_2.052-1_all.deb", 
+    "pkg": "libio-compress-perl", 
+    "pkg_version": "2.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "perl_5.20.1-1_i386.deb", 
+    "pkg": "perl", 
+    "pkg_version": "5.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libio-compress-perl_2.064-1_all.deb", 
+    "pkg": "libio-compress-perl", 
+    "pkg_version": "2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "perl_5.18.2-2ubuntu1_i386.deb", 
+    "pkg": "perl", 
+    "pkg_version": "5.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libio-compress-perl_2.063-1_all.deb", 
+    "pkg": "libio-compress-perl", 
+    "pkg_version": "2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

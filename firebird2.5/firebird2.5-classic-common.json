@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "firebird2.5-classic-common_2.5.3.26778.ds4-5_i386.deb", 
+    "pkg": "firebird", 
+    "pkg_version": "2.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "firebird2.5-classic-common_2.5.3.26778.ds4-5_i386.deb", 
+    "pkg": "firebird", 
+    "pkg_version": "2.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "firebird2.5-classic-common_2.5.2.26540.ds4-1~deb7u2_i386.deb", 
+    "pkg": "firebird", 
+    "pkg_version": "2.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "firebird2.5-classic-common_2.5.2.26540.ds4-10ubuntu1_i386.deb", 
+    "pkg": "firebird", 
+    "pkg_version": "2.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "firebird2.5-classic-common_2.5.2.26540.ds4-9ubuntu1_i386.deb", 
+    "pkg": "firebird", 
+    "pkg_version": "2.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

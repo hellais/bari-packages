@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsyntax-keyword-junction-perl_0.003008-1_all.deb", 
+    "pkg": "libsyntax-keyword-junction-perl", 
+    "pkg_version": "0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsyntax-keyword-junction-perl_0.003008-1_all.deb", 
+    "pkg": "libsyntax-keyword-junction-perl", 
+    "pkg_version": "0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libsyntax-keyword-junction-perl_0.003008-1_all.deb", 
+    "pkg": "libsyntax-keyword-junction-perl", 
+    "pkg_version": "0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "pkg_repo": "PUIAS Server", 
+    "pkg_full_name": "latex-beamer-3.07-3.PU_IAS.5.noarch.rpm", 
+    "pkg": "latex-beamer", 
+    "pkg_version": "3.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "texlive-latex-recommended_2014.20141024-2_all.deb", 
+    "pkg": "texlive-latex-recommended_201", 
+    "pkg_version": "4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "PUIAS Server", 
+    "pkg_full_name": "latex-beamer-3.07-3.PU_IAS.5.noarch.rpm", 
+    "pkg": "latex-beamer", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "latex-beamer_2014.20141024-2_all.deb", 
+    "pkg": "latex-beamer_201", 
+    "pkg_version": "4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "texlive-latex-recommended_2014.20141024-2_all.deb", 
+    "pkg": "texlive-latex-recommended_201", 
+    "pkg_version": "4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "PUIAS Server", 
+    "pkg_full_name": "latex-beamer-3.07-3.PU_IAS.5.noarch.rpm", 
+    "pkg": "latex-beamer", 
+    "pkg_version": "3.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "latex-beamer_2014.20141024-2_all.deb", 
+    "pkg": "latex-beamer_201", 
+    "pkg_version": "4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "texlive-latex-recommended_2014.20141024-2_all.deb", 
+    "pkg": "texlive-latex-recommended_201", 
+    "pkg_version": "4.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "latex-beamer_3.10-2_all.deb", 
+    "pkg": "latex-beamer", 
+    "pkg_version": "3.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "latex-beamer_2014.20141024-2_all.deb", 
+    "pkg": "latex-beamer_201", 
+    "pkg_version": "4.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "texlive-latex-recommended_2014.20141024-2_all.deb", 
+    "pkg": "texlive-latex-recommended_201", 
+    "pkg_version": "4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "latex-beamer-3.24-1-omv2013.0.noarch.rpm", 
+    "pkg": "latex-beamer", 
+    "pkg_version": "3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "latex-beamer_2014.20141024-2_all.deb", 
+    "pkg": "latex-beamer_201", 
+    "pkg_version": "4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "texlive-latex-recommended_2014.20141024-2_all.deb", 
+    "pkg": "texlive-latex-recommended_201", 
+    "pkg_version": "4.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "latex-beamer-3.24-1-omv2013.0.noarch.rpm", 
+    "pkg": "latex-beamer", 
+    "pkg_version": "3.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "latex-beamer_2014.20141024-2_all.deb", 
+    "pkg": "latex-beamer_201", 
+    "pkg_version": "4.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "texlive-latex-recommended_2014.20141024-2_all.deb", 
+    "pkg": "texlive-latex-recommended_201", 
+    "pkg_version": "4.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "latex-beamer-3.24-1-omv2013.0.noarch.rpm", 
+    "pkg": "latex-beamer", 
+    "pkg_version": "3.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "latex-beamer_2014.20141024-2_all.deb", 
+    "pkg": "latex-beamer_201", 
+    "pkg_version": "4.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "texlive-latex-recommended_2014.20141024-2_all.deb", 
+    "pkg": "texlive-latex-recommended_201", 
+    "pkg_version": "4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "latex-beamer-3.07-2.19.noarch.rpm", 
+    "pkg": "latex-beamer", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "latex-beamer_2014.20141024-2_all.deb", 
+    "pkg": "latex-beamer_201", 
+    "pkg_version": "4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "texlive-latex-recommended_2014.20141024-2_all.deb", 
+    "pkg": "texlive-latex-recommended_201", 
+    "pkg_version": "4.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "latex-beamer-3.07-2.1.noarch.rpm", 
+    "pkg": "latex-beamer", 
+    "pkg_version": "3.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "latex-beamer_2014.20141024-2_all.deb", 
+    "pkg": "latex-beamer_201", 
+    "pkg_version": "4.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "texlive-latex-recommended_2014.20141024-2_all.deb", 
+    "pkg": "texlive-latex-recommended_201", 
+    "pkg_version": "4.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "latex-beamer-3.07-2.1.noarch.rpm", 
+    "pkg": "latex-beamer", 
+    "pkg_version": "3.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "latex-beamer_2014.20141024-2_all.deb", 
+    "pkg": "latex-beamer_201", 
+    "pkg_version": "4.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "texlive-latex-recommended_2014.20141024-2_all.deb", 
+    "pkg": "texlive-latex-recommended_201", 
+    "pkg_version": "4.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "latex-beamer-3.24-2-rosa2014.1.noarch.rpm", 
+    "pkg": "latex-beamer", 
+    "pkg_version": "3.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "latex-beamer_2014.20141024-2_all.deb", 
+    "pkg": "latex-beamer_201", 
+    "pkg_version": "4.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "texlive-latex-recommended_2014.20141024-2_all.deb", 
+    "pkg": "texlive-latex-recommended_201", 
+    "pkg_version": "4.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "latex-beamer-3.24-1-rosa2012.1.noarch.rpm", 
+    "pkg": "latex-beamer", 
+    "pkg_version": "3.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "latex-beamer_2014.20141024-2_all.deb", 
+    "pkg": "latex-beamer_201", 
+    "pkg_version": "4.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "tetex-latex-3.0-55-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "tetex-latex", 
+    "pkg_version": "3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "texlive-latex-recommended_2014.20140717-01ubuntu1_all.deb", 
+    "pkg": "texlive-latex-recommended_201", 
+    "pkg_version": "4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "latex-beamer-3.24-1-rosa2012.1.noarch.rpm", 
+    "pkg": "latex-beamer", 
+    "pkg_version": "3.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "latex-beamer_2014.20140717-01ubuntu1_all.deb", 
+    "pkg": "latex-beamer_201", 
+    "pkg_version": "4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "tetex-latex-3.0-55-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "tetex-latex", 
+    "pkg_version": "3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "texlive-latex-recommended_2014.20140717-01ubuntu1_all.deb", 
+    "pkg": "texlive-latex-recommended_201", 
+    "pkg_version": "4.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "latex-beamer_3.24-1_all.deb", 
+    "pkg": "latex-beamer", 
+    "pkg_version": "3.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "latex-beamer_2014.20140717-01ubuntu1_all.deb", 
+    "pkg": "latex-beamer_201", 
+    "pkg_version": "4.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

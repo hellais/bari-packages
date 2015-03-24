@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-oslo.sphinx_2.1.0-1_all.deb", 
+    "pkg": "python-oslo.sphinx", 
+    "pkg_version": "2.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-oslo.sphinx_2.1.0-1_all.deb", 
+    "pkg": "python-oslo.sphinx", 
+    "pkg_version": "2.1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-oslosphinx-2.2.0-1.1.noarch.rpm", 
+    "pkg": "python-oslosphinx", 
+    "pkg_version": "2.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-oslo.sphinx_2.1.0-1_all.deb", 
+    "pkg": "python-oslo.sphinx", 
+    "pkg_version": "2.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-oslosphinx-2.2.0-1.1.noarch.rpm", 
+    "pkg": "python-oslosphinx", 
+    "pkg_version": "2.2.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-oslo.sphinx_2.1.0-1_all.deb", 
+    "pkg": "python-oslo.sphinx", 
+    "pkg_version": "2.1.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-oslosphinx-2.2.0-1.1.noarch.rpm", 
+    "pkg": "python-oslosphinx", 
+    "pkg_version": "2.2.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-oslo.sphinx-1.0.10-1.1.noarch.rpm", 
+    "pkg": "python-oslo.sphinx", 
+    "pkg_version": "1.0.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-oslosphinx-2.2.0-1.1.noarch.rpm", 
+    "pkg": "python-oslosphinx", 
+    "pkg_version": "2.2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python-oslo.sphinx_2.2.0.0~a3-1_all.deb", 
+    "pkg": "python-oslo.sphinx", 
+    "pkg_version": "2.2.0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

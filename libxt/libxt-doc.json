@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libxt-doc_1.1.4-1_all.deb", 
+    "pkg": "libxt-doc", 
+    "pkg_version": "1.1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libxt-doc_1.1.4-1_all.deb", 
+    "pkg": "libxt-doc", 
+    "pkg_version": "1.1.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "libxt-doc_1.1.3-1+deb7u1_all.deb", 
+    "pkg": "libxt-doc", 
+    "pkg_version": "1.1.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libxt-doc_1.1.4-1_all.deb", 
+    "pkg": "libxt-doc", 
+    "pkg_version": "1.1.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

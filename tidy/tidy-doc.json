@@ -1,0 +1,119 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tidy-doc_20091223cvs-1.4_all.deb", 
+    "pkg": "tidy-doc_20091223cvs", 
+    "pkg_version": "1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tidy-doc_20091223cvs-1.4_all.deb", 
+    "pkg": "tidy-doc_20091223cvs", 
+    "pkg_version": "1.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tidy-doc_20091223cvs-1.2_all.deb", 
+    "pkg": "tidy-doc_20091223cvs", 
+    "pkg_version": "1.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "tidy-doc-1.0.20100204cvs-20.2.noarch.rpm", 
+    "pkg": "tidy-doc", 
+    "pkg_version": "1.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tidy-doc_20091223cvs-1.2_all.deb", 
+    "pkg": "tidy-doc_20091223cvs", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "tidy-doc-1.0.20100204cvs-19.1.5.noarch.rpm", 
+    "pkg": "tidy-doc", 
+    "pkg_version": "1.0.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tidy-doc_20091223cvs-1.2_all.deb", 
+    "pkg": "tidy-doc_20091223cvs", 
+    "pkg_version": "1.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "tidy-doc-1.0.20100204cvs-17.1.2.noarch.rpm", 
+    "pkg": "tidy-doc", 
+    "pkg_version": "1.0.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tidy-doc_20091223cvs-1.2_all.deb", 
+    "pkg": "tidy-doc_20091223cvs", 
+    "pkg_version": "1.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "tidy-doc-1.0.20100204cvs-17.1.2.noarch.rpm", 
+    "pkg": "tidy-doc", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "tidy-doc_20091223cvs-1.4_all.deb", 
+    "pkg": "tidy-doc_20091223cvs", 
+    "pkg_version": "1.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "tidy-doc-1.0.20100204cvs-17.1.2.noarch.rpm", 
+    "pkg": "tidy-doc", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "tidy-doc_20091223cvs-1.2ubuntu1_all.deb", 
+    "pkg": "tidy-doc_20091223cvs", 
+    "pkg_version": "1.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

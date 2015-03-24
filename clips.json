@@ -1,0 +1,181 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "clips-6.23-alt1.2.x86_64.rpm", 
+    "pkg": "clips", 
+    "pkg_version": "6.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "clips-6.30.0-0.2.20090722svn.el6.x86_64.rpm", 
+    "pkg": "clips", 
+    "pkg_version": "6.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "clips-6.30.0-0.1.20090722svn.el5.x86_64.rpm", 
+    "pkg": "clips", 
+    "pkg_version": "6.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "clips_6.24-3_i386.deb", 
+    "pkg": "clips", 
+    "pkg_version": "6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "clips_6.24-3_i386.deb", 
+    "pkg": "clips", 
+    "pkg_version": "6.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "clips_6.24-3_i386.deb", 
+    "pkg": "clips", 
+    "pkg_version": "6.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "clips-6.30.0-0.10.20090722svn.fc22.x86_64.rpm", 
+    "pkg": "clips", 
+    "pkg_version": "6.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "clips-6.30.0-0.10.20090722svn.fc22.x86_64.rpm", 
+    "pkg": "clips", 
+    "pkg_version": "6.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "clips-6.30.0-0.10.20090722svn.fc21.x86_64.rpm", 
+    "pkg": "clips", 
+    "pkg_version": "6.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "clips-6.30.0-0.8.20090722svn.fc20.x86_64.rpm", 
+    "pkg": "clips", 
+    "pkg_version": "6.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "clips-6.21-15-omv2015.0.x86_64.rpm", 
+    "pkg": "clips", 
+    "pkg_version": "6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "clips-6.21-13-omv2013.0.x86_64.rpm", 
+    "pkg": "clips", 
+    "pkg_version": "6.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "clips-6.21-13-omv2013.0.x86_64.rpm", 
+    "pkg": "clips", 
+    "pkg_version": "6.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "clips-6.30.0-2.244.x86_64.rpm", 
+    "pkg": "clips", 
+    "pkg_version": "6.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "clips-6.30.0-2.1.x86_64.rpm", 
+    "pkg": "clips", 
+    "pkg_version": "6.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "clips-6.30.0-2.10.x86_64.rpm", 
+    "pkg": "clips", 
+    "pkg_version": "6.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "clips-6.21-15-rosa2014.1.x86_64.rpm", 
+    "pkg": "clips", 
+    "pkg_version": "6.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "clips-6.21-14-rosa2012.1.x86_64.rpm", 
+    "pkg": "clips", 
+    "pkg_version": "6.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "clips_6.24-3ubuntu1_i386.deb", 
+    "pkg": "clips", 
+    "pkg_version": "6.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "clips_6.24-3ubuntu1_i386.deb", 
+    "pkg": "clips", 
+    "pkg_version": "6.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

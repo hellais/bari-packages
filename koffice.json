@@ -1,0 +1,64 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "calligra-2.9.0-alt1.x86_64.rpm", 
+    "pkg": "calligra", 
+    "pkg_version": "2.9.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "koffice_2.4.3+3_all.deb", 
+    "pkg": "koffice", 
+    "pkg_version": "2.4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "calligra-2.9.0-alt1.x86_64.rpm", 
+    "pkg": "calligra", 
+    "pkg_version": "2.9.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "koffice_2.4.3+3_all.deb", 
+    "pkg": "koffice", 
+    "pkg_version": "2.4.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "calligra-2.9.0-alt1.x86_64.rpm", 
+    "pkg": "calligra", 
+    "pkg_version": "2.9.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "koffice_2.4.3+2_all.deb", 
+    "pkg": "koffice", 
+    "pkg_version": "2.4.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "calligra-2.9.0-alt1.x86_64.rpm", 
+    "pkg": "calligra", 
+    "pkg_version": "2.9.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

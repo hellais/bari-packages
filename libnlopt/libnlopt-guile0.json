@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "libnlopt-guile0_2.4.1+dfsg-1~nd+1_i386.deb", 
+    "pkg": "libnlopt-guile0", 
+    "pkg_version": "2.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "libnlopt-guile0_2.4.1+dfsg-1~nd80+1_i386.deb", 
+    "pkg": "libnlopt-guile0", 
+    "pkg_version": "2.4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "libnlopt-guile0_2.4.1+dfsg-1~nd70+1_i386.deb", 
+    "pkg": "libnlopt-guile0", 
+    "pkg_version": "2.4.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libnlopt-guile0_2.4.2+dfsg-1_i386.deb", 
+    "pkg": "libnlopt-guile0", 
+    "pkg_version": "2.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

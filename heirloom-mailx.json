@@ -1,0 +1,100 @@
+[
+  {
+    "pkg_repo": "Arch Linux Core", 
+    "pkg_full_name": "s-nail-14.7.11-1-x86_64.pkg.tar.xz", 
+    "pkg": "s-nail-1", 
+    "pkg_version": "4.7.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Core", 
+    "pkg_full_name": "s-nail-14.7.11-1-x86_64.pkg.tar.xz", 
+    "pkg": "s-nail-1", 
+    "pkg_version": "4.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "heirloom-mailx_12.5-4_i386.deb", 
+    "pkg": "heirloom-mailx_1", 
+    "pkg_version": "2.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Core", 
+    "pkg_full_name": "s-nail-14.7.11-1-x86_64.pkg.tar.xz", 
+    "pkg": "s-nail-1", 
+    "pkg_version": "4.7.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "heirloom-mailx_12.5-4_i386.deb", 
+    "pkg": "heirloom-mailx_1", 
+    "pkg_version": "2.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Core", 
+    "pkg_full_name": "s-nail-14.7.11-1-x86_64.pkg.tar.xz", 
+    "pkg": "s-nail-1", 
+    "pkg_version": "4.7.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "heirloom-mailx_12.5-2+deb7u1_i386.deb", 
+    "pkg": "heirloom-mailx_1", 
+    "pkg_version": "2.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Core", 
+    "pkg_full_name": "s-nail-14.7.11-1-x86_64.pkg.tar.xz", 
+    "pkg": "s-nail-1", 
+    "pkg_version": "4.7.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "heirloom-mailx_12.5-2_i386.deb", 
+    "pkg": "heirloom-mailx_1", 
+    "pkg_version": "2.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Core", 
+    "pkg_full_name": "s-nail-14.7.11-1-x86_64.pkg.tar.xz", 
+    "pkg": "s-nail-1", 
+    "pkg_version": "4.7.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "heirloom-mailx_12.5-2_i386.deb", 
+    "pkg": "heirloom-mailx_1", 
+    "pkg_version": "2.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

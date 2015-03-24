@@ -1,0 +1,172 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kamoso-2.0.2-alt9.x86_64.rpm", 
+    "pkg": "kamoso", 
+    "pkg_version": "2.0.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "kamoso-2.0.2-14.el7.nux.x86_64.rpm", 
+    "pkg": "kamoso", 
+    "pkg_version": "2.0.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kamoso_2.0.2-2+b1_i386.deb", 
+    "pkg": "kamoso", 
+    "pkg_version": "2.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kamoso_2.0.2-2+b1_i386.deb", 
+    "pkg": "kamoso", 
+    "pkg_version": "2.0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kamoso_2.0.2-1+b1_i386.deb", 
+    "pkg": "kamoso", 
+    "pkg_version": "2.0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kamoso-2.0.2-21.20140902git.fc22.x86_64.rpm", 
+    "pkg": "kamoso", 
+    "pkg_version": "2.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kamoso-2.0.2-21.20140902git.fc22.x86_64.rpm", 
+    "pkg": "kamoso", 
+    "pkg_version": "2.0.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kamoso-2.0.2-21.20140902git.fc21.x86_64.rpm", 
+    "pkg": "kamoso", 
+    "pkg_version": "2.0.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kamoso-2.0.2-14.fc20.x86_64.rpm", 
+    "pkg": "kamoso", 
+    "pkg_version": "2.0.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kamoso-2.0.2-8-omv2015.0.x86_64.rpm", 
+    "pkg": "kamoso", 
+    "pkg_version": "2.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "kamoso-2.0.2-8.1-omv2014.0.x86_64.rpm", 
+    "pkg": "kamoso", 
+    "pkg_version": "2.0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "kamoso-2.0.2-3-omv2013.0.x86_64.rpm", 
+    "pkg": "kamoso", 
+    "pkg_version": "2.0.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE KDE Extra", 
+    "pkg_full_name": "kamoso-2.0.3~git20140916-1.4.x86_64.rpm", 
+    "pkg": "kamoso", 
+    "pkg_version": "2.0.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE KDE Extra", 
+    "pkg_full_name": "kamoso-2.0.2-3.1.x86_64.rpm", 
+    "pkg": "kamoso", 
+    "pkg_version": "2.0.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "kamoso-2.0.2-7.20140902.1-rosa2014.1.x86_64.rpm", 
+    "pkg": "kamoso", 
+    "pkg_version": "2.0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "kamoso-2.0.2-5-rosa2012.1.x86_64.rpm", 
+    "pkg": "kamoso", 
+    "pkg_version": "2.0.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "kamoso-2.0.2-1-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "kamoso", 
+    "pkg_version": "2.0.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "kamoso_2.0.2-2ubuntu3_i386.deb", 
+    "pkg": "kamoso", 
+    "pkg_version": "2.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "kamoso_2.0.2-2ubuntu2_i386.deb", 
+    "pkg": "kamoso", 
+    "pkg_version": "2.0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

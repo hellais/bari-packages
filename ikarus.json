@@ -1,0 +1,109 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "ikarus-0.0.3-alt1_12.i586.rpm", 
+    "pkg": "ikarus", 
+    "pkg_version": "0.0.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "ikarus-0.0.3-4.el6.i686.rpm", 
+    "pkg": "ikarus", 
+    "pkg_version": "0.0.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "ikarus-0.0.3-2.el5.i386.rpm", 
+    "pkg": "ikarus", 
+    "pkg_version": "0.0.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ikarus_0.0.3+bzr.2010.01.26-4_i386.deb", 
+    "pkg": "ikarus", 
+    "pkg_version": "0.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ikarus_0.0.3+bzr.2010.01.26-4_i386.deb", 
+    "pkg": "ikarus", 
+    "pkg_version": "0.0.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ikarus_0.0.3+bzr.2010.01.26-2_i386.deb", 
+    "pkg": "ikarus", 
+    "pkg_version": "0.0.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ikarus-0.0.3-12.fc22.i686.rpm", 
+    "pkg": "ikarus", 
+    "pkg_version": "0.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ikarus-0.0.3-12.fc22.i686.rpm", 
+    "pkg": "ikarus", 
+    "pkg_version": "0.0.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ikarus-0.0.3-12.fc21.i686.rpm", 
+    "pkg": "ikarus", 
+    "pkg_version": "0.0.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ikarus-0.0.3-8.fc19.i686.rpm", 
+    "pkg": "ikarus", 
+    "pkg_version": "0.0.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ikarus_0.0.3+bzr.2010.01.26-4_i386.deb", 
+    "pkg": "ikarus", 
+    "pkg_version": "0.0.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ikarus_0.0.3+bzr.2010.01.26-2_i386.deb", 
+    "pkg": "ikarus", 
+    "pkg_version": "0.0.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

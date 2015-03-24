@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libindi0b_0.9.8.1-5.1+b1_i386.deb", 
+    "pkg": "libindi0b", 
+    "pkg_version": "0.9.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libindi0b_0.9.8.1-5.1+b1_i386.deb", 
+    "pkg": "libindi0b", 
+    "pkg_version": "0.9.8.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libindi0b_0.9.1-2_i386.deb", 
+    "pkg": "libindi0b", 
+    "pkg_version": "0.9.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qemu-system-misc_2.1+dfsg-11_i386.deb", 
+    "pkg": "qemu-system-misc", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qemu-system-misc_2.1+dfsg-11_i386.deb", 
+    "pkg": "qemu-system-misc", 
+    "pkg_version": "2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "qemu-system-misc_2.1+dfsg-9~bpo70+1_i386.deb", 
+    "pkg": "qemu-system-misc", 
+    "pkg_version": "2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "qemu-system-misc_2.1+dfsg-4ubuntu6.4_i386.deb", 
+    "pkg": "qemu-system-misc", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "mp4v2-utils-1.9.1-alt1.1.x86_64.rpm", 
+    "pkg": "mp4v2-utils", 
+    "pkg_version": "1.9.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "mp4v2-utils_2.0.0-dmo2_i386.deb", 
+    "pkg": "mp4v2-utils", 
+    "pkg_version": "2.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "mp4v2-utils_2.0.0-dmo2_i386.deb", 
+    "pkg": "mp4v2-utils", 
+    "pkg_version": "2.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "mp4v2-utils_2.0.0-dmo2_i386.deb", 
+    "pkg": "mp4v2-utils", 
+    "pkg_version": "2.0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mp4v2-utils_2.0.0~dfsg0-3_i386.deb", 
+    "pkg": "mp4v2-utils", 
+    "pkg_version": "2.0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mp4v2-utils_2.0.0~dfsg0-2_i386.deb", 
+    "pkg": "mp4v2-utils", 
+    "pkg_version": "2.0.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

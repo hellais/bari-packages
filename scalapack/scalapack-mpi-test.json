@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scalapack-mpi-test_1.8.0-12.1_i386.deb", 
+    "pkg": "scalapack-mpi-test", 
+    "pkg_version": "1.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scalapack-mpi-test_1.8.0-12_i386.deb", 
+    "pkg": "scalapack-mpi-test", 
+    "pkg_version": "1.8.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scalapack-mpi-test_1.8.0-9_i386.deb", 
+    "pkg": "scalapack-mpi-test", 
+    "pkg_version": "1.8.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "scalapack-mpi-test_1.8.0-9.2ubuntu2_i386.deb", 
+    "pkg": "scalapack-mpi-test", 
+    "pkg_version": "1.8.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "scalapack-mpi-test_1.8.0-9build1_i386.deb", 
+    "pkg": "scalapack-mpi-test", 
+    "pkg_version": "1.8.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

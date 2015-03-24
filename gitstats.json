@@ -1,0 +1,289 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "gitstats-0-alt1_0.7.20141209gitc2310a8.noarch.rpm", 
+    "pkg": "gitstats-0-alt1", 
+    "pkg_version": "0.7.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "gitstats-0-0.7.20141209gitc2310a8.el7.noarch.rpm", 
+    "pkg": "gitstats-0", 
+    "pkg_version": "0.7.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "gitstats-0-alt1_0.7.20141209gitc2310a8.noarch.rpm", 
+    "pkg": "gitstats-0-alt1", 
+    "pkg_version": "0.7.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "gitstats-0-0.7.20141209gitc2310a8.el6.noarch.rpm", 
+    "pkg": "gitstats-0", 
+    "pkg_version": "0.7.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "gitstats-0-alt1_0.7.20141209gitc2310a8.noarch.rpm", 
+    "pkg": "gitstats-0-alt1", 
+    "pkg_version": "0.7.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "gitstats-0-0.7.20141209gitc2310a8.el6.noarch.rpm", 
+    "pkg": "gitstats-0", 
+    "pkg_version": "0.7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gitstats_2013.12.07-1_all.deb", 
+    "pkg": "gitstats_201", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "gitstats-0-alt1_0.7.20141209gitc2310a8.noarch.rpm", 
+    "pkg": "gitstats-0-alt1", 
+    "pkg_version": "0.7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "gitstats-0-0.7.20141209gitc2310a8.el6.noarch.rpm", 
+    "pkg": "gitstats-0", 
+    "pkg_version": "0.7.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gitstats_2013.12.07-1_all.deb", 
+    "pkg": "gitstats_201", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "gitstats-0-alt1_0.7.20141209gitc2310a8.noarch.rpm", 
+    "pkg": "gitstats-0-alt1", 
+    "pkg_version": "0.7.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "gitstats-0-0.7.20141209gitc2310a8.el6.noarch.rpm", 
+    "pkg": "gitstats-0", 
+    "pkg_version": "0.7.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gitstats_2012.05.28-1_all.deb", 
+    "pkg": "gitstats_201", 
+    "pkg_version": "2.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "gitstats-0-alt1_0.7.20141209gitc2310a8.noarch.rpm", 
+    "pkg": "gitstats-0-alt1", 
+    "pkg_version": "0.7.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gitstats-0-0.7.20141209gitc2310a8.fc22.noarch.rpm", 
+    "pkg": "gitstats-0", 
+    "pkg_version": "0.7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gitstats_2012.05.28-1_all.deb", 
+    "pkg": "gitstats_201", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "gitstats-0-alt1_0.7.20141209gitc2310a8.noarch.rpm", 
+    "pkg": "gitstats-0-alt1", 
+    "pkg_version": "0.7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gitstats-0-0.7.20141209gitc2310a8.fc22.noarch.rpm", 
+    "pkg": "gitstats-0", 
+    "pkg_version": "0.7.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gitstats_2012.05.28-1_all.deb", 
+    "pkg": "gitstats_201", 
+    "pkg_version": "2.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "gitstats-0-alt1_0.7.20141209gitc2310a8.noarch.rpm", 
+    "pkg": "gitstats-0-alt1", 
+    "pkg_version": "0.7.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gitstats-0-0.6.20130723gita923085.fc21.noarch.rpm", 
+    "pkg": "gitstats-0", 
+    "pkg_version": "0.6.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gitstats_2012.05.28-1_all.deb", 
+    "pkg": "gitstats_201", 
+    "pkg_version": "2.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "gitstats-0-alt1_0.7.20141209gitc2310a8.noarch.rpm", 
+    "pkg": "gitstats-0-alt1", 
+    "pkg_version": "0.7.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "gitstats-0-0.7.20141209gitc2310a8.fc20.noarch.rpm", 
+    "pkg": "gitstats-0", 
+    "pkg_version": "0.7.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gitstats_2012.05.28-1_all.deb", 
+    "pkg": "gitstats_201", 
+    "pkg_version": "2.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "gitstats-0-alt1_0.7.20141209gitc2310a8.noarch.rpm", 
+    "pkg": "gitstats-0-alt1", 
+    "pkg_version": "0.7.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "gitstats-0-0.7.20141209gitc2310a8.fc20.noarch.rpm", 
+    "pkg": "gitstats-0", 
+    "pkg_version": "0.7.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gitstats_2013.12.07-1_all.deb", 
+    "pkg": "gitstats_201", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "gitstats-0-alt1_0.7.20141209gitc2310a8.noarch.rpm", 
+    "pkg": "gitstats-0-alt1", 
+    "pkg_version": "0.7.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "gitstats-0-0.7.20141209gitc2310a8.fc20.noarch.rpm", 
+    "pkg": "gitstats-0", 
+    "pkg_version": "0.7.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gitstats_2013.12.07-1_all.deb", 
+    "pkg": "gitstats_201", 
+    "pkg_version": "3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "gitstats-0-alt1_0.7.20141209gitc2310a8.noarch.rpm", 
+    "pkg": "gitstats-0-alt1", 
+    "pkg_version": "0.7.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

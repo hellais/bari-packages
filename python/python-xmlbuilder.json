@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-xmlbuilder_1.0-1_all.deb", 
+    "pkg": "python-xmlbuilder", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-xmlbuilder-1.0-5.fc21.noarch.rpm", 
+    "pkg": "python-xmlbuilder", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-xmlbuilder-1.0-5.fc21.noarch.rpm", 
+    "pkg": "python-xmlbuilder", 
+    "pkg_version": "1.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-xmlbuilder-1.0-5.fc21.noarch.rpm", 
+    "pkg": "python-xmlbuilder", 
+    "pkg_version": "1.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

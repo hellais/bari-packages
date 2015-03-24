@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-gdk3_2.2.0-5+b2_i386.deb", 
+    "pkg": "ruby-gdk3", 
+    "pkg_version": "2.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-gdk3_2.2.0-5+b2_i386.deb", 
+    "pkg": "ruby-gdk3", 
+    "pkg_version": "2.2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "ruby-gdk3-1.2.6-3-omv2014.0.x86_64.rpm", 
+    "pkg": "ruby-gdk3", 
+    "pkg_version": "1.2.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "ruby-gdk3-1.2.6-2-omv2013.0.x86_64.rpm", 
+    "pkg": "ruby-gdk3", 
+    "pkg_version": "1.2.6", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ruby-gdk3_2.2.0-5_i386.deb", 
+    "pkg": "ruby-gdk3", 
+    "pkg_version": "2.2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

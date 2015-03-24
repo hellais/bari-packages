@@ -1,0 +1,55 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "avahi-daemon-0.6.31-alt5.x86_64.rpm", 
+    "pkg": "avahi-daemon", 
+    "pkg_version": "0.6.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "avahi-daemon_0.6.31-4+b2_i386.deb", 
+    "pkg": "avahi-daemon", 
+    "pkg_version": "0.6.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "avahi-daemon_0.6.31-4+b2_i386.deb", 
+    "pkg": "avahi-daemon", 
+    "pkg_version": "0.6.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "avahi-daemon_0.6.31-2_i386.deb", 
+    "pkg": "avahi-daemon", 
+    "pkg_version": "0.6.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "avahi-daemon_0.6.31-4ubuntu3_i386.deb", 
+    "pkg": "avahi-daemon", 
+    "pkg_version": "0.6.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "avahi-daemon_0.6.31-4ubuntu1_i386.deb", 
+    "pkg": "avahi-daemon", 
+    "pkg_version": "0.6.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

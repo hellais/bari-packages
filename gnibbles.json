@@ -1,0 +1,83 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnibbles_3.14.1-1_all.deb", 
+    "pkg": "gnibbles", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnibbles_3.14.1-1_all.deb", 
+    "pkg": "gnibbles", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnibbles_3.4.2-3_i386.deb", 
+    "pkg": "gnibbles", 
+    "pkg_version": "3.4.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gnibbles-3.6.0-9-omv2015.0.x86_64.rpm", 
+    "pkg": "gnibbles", 
+    "pkg_version": "3.6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gnibbles-3.6.0-3-omv2014.0.x86_64.rpm", 
+    "pkg": "gnibbles", 
+    "pkg_version": "3.6.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gnibbles-3.6.0-2-omv2013.0.x86_64.rpm", 
+    "pkg": "gnibbles", 
+    "pkg_version": "3.6.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "gnibbles-3.6.1-6-rosa2012.1.x86_64.rpm", 
+    "pkg": "gnibbles", 
+    "pkg_version": "3.6.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnibbles_3.8.0-2_all.deb", 
+    "pkg": "gnibbles", 
+    "pkg_version": "3.8.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnibbles_3.8.0-2_all.deb", 
+    "pkg": "gnibbles", 
+    "pkg_version": "3.8.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

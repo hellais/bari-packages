@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ntpstat_0.0.0.1-1_i386.deb", 
+    "pkg": "ntpstat", 
+    "pkg_version": "0.0.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

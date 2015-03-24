@@ -1,0 +1,154 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "lua-posix-5.1.14-alt1_4.x86_64.rpm", 
+    "pkg": "lua-posix", 
+    "pkg_version": "5.1.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "lua-posix-5.1.14-alt1_4.x86_64.rpm", 
+    "pkg": "lua-posix", 
+    "pkg_version": "5.1.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "lua-posix-5.1.7-1.el6.x86_64.rpm", 
+    "pkg": "lua-posix", 
+    "pkg_version": "5.1.7", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "lua-posix-5.1.7-1.el5.x86_64.rpm", 
+    "pkg": "lua-posix", 
+    "pkg_version": "5.1.7", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "lua-posix-5.1.7-1.el5.x86_64.rpm", 
+    "pkg": "lua-posix", 
+    "pkg_version": "5.1.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "lua-posix-5.1.7-1.el5.x86_64.rpm", 
+    "pkg": "lua-posix", 
+    "pkg_version": "5.1.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lua-posix_5.1.19-2_i386.deb", 
+    "pkg": "lua-posix", 
+    "pkg_version": "5.1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lua-posix-33.2.1-1.fc23.x86_64.rpm", 
+    "pkg": "lua-posix-3", 
+    "pkg_version": "3.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lua-posix_5.1.19-2_i386.deb", 
+    "pkg": "lua-posix", 
+    "pkg_version": "5.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lua-posix-33.2.1-1.fc23.x86_64.rpm", 
+    "pkg": "lua-posix-3", 
+    "pkg_version": "3.2.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lua-posix_5.1.19-2_i386.deb", 
+    "pkg": "lua-posix", 
+    "pkg_version": "5.1.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lua-posix-33.2.1-1.fc23.x86_64.rpm", 
+    "pkg": "lua-posix-3", 
+    "pkg_version": "3.2.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lua-posix_5.1.19-2_i386.deb", 
+    "pkg": "lua-posix", 
+    "pkg_version": "5.1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lua-posix-33.2.1-1.fc23.x86_64.rpm", 
+    "pkg": "lua-posix-3", 
+    "pkg_version": "3.2.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lua-posix-5.1.28-2.fc20.x86_64.rpm", 
+    "pkg": "lua-posix", 
+    "pkg_version": "5.1.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lua-posix-33.2.1-1.fc23.x86_64.rpm", 
+    "pkg": "lua-posix-3", 
+    "pkg_version": "3.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lua-posix-5.1.28-2.fc20.x86_64.rpm", 
+    "pkg": "lua-posix", 
+    "pkg_version": "5.1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

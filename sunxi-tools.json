@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "sunxi-tools-1.1-2.20140131git271130b.el7.x86_64.rpm", 
+    "pkg": "sunxi-tools", 
+    "pkg_version": "1.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sunxi-tools_1.2-2_i386.deb", 
+    "pkg": "sunxi-tools", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sunxi-tools_1.2-2_i386.deb", 
+    "pkg": "sunxi-tools", 
+    "pkg_version": "1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "sunxi-tools-1.1-4.20140131git271130b.fc22.x86_64.rpm", 
+    "pkg": "sunxi-tools", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "sunxi-tools-1.1-4.20140131git271130b.fc22.x86_64.rpm", 
+    "pkg": "sunxi-tools", 
+    "pkg_version": "1.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "sunxi-tools-1.1-4.20140131git271130b.fc21.x86_64.rpm", 
+    "pkg": "sunxi-tools", 
+    "pkg_version": "1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "sunxi-tools-1.1-2.20140131git271130b.fc20.x86_64.rpm", 
+    "pkg": "sunxi-tools", 
+    "pkg_version": "1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

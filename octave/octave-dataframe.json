@@ -1,0 +1,91 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "octave-dataframe-1.0.0-alt1.noarch.rpm", 
+    "pkg": "octave-dataframe", 
+    "pkg_version": "1.0.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "octave-dataframe_1.0.1-1_all.deb", 
+    "pkg": "octave-dataframe", 
+    "pkg_version": "1.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "octave-dataframe_1.0.1-1_all.deb", 
+    "pkg": "octave-dataframe", 
+    "pkg_version": "1.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "octave-dataframe_0.9.1-1_all.deb", 
+    "pkg": "octave-dataframe", 
+    "pkg_version": "0.9.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "octave-dataframe-0.8.2-2-omv2013.0.noarch.rpm", 
+    "pkg": "octave-dataframe", 
+    "pkg_version": "0.8.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "octave-dataframe-0.8.2-2-omv2013.0.noarch.rpm", 
+    "pkg": "octave-dataframe", 
+    "pkg_version": "0.8.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "octave-dataframe-0.8.2-2-omv2013.0.noarch.rpm", 
+    "pkg": "octave-dataframe", 
+    "pkg_version": "0.8.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "octave-dataframe-0.8.2-5-rosa2014.1.noarch.rpm", 
+    "pkg": "octave-dataframe", 
+    "pkg_version": "0.8.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "octave-dataframe-0.8.2-3-rosa2012.1.noarch.rpm", 
+    "pkg": "octave-dataframe", 
+    "pkg_version": "0.8.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "octave-dataframe_1.0.0-1_all.deb", 
+    "pkg": "octave-dataframe", 
+    "pkg_version": "1.0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

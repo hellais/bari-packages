@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gjs-tests_1.42.0-1_i386.deb", 
+    "pkg": "gjs-tests", 
+    "pkg_version": "1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gjs-tests_1.42.0-1_i386.deb", 
+    "pkg": "gjs-tests", 
+    "pkg_version": "1.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gjs-tests-1.43.3-1.fc23.x86_64.rpm", 
+    "pkg": "gjs-tests", 
+    "pkg_version": "1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gjs-tests-1.43.3-1.fc22.x86_64.rpm", 
+    "pkg": "gjs-tests", 
+    "pkg_version": "1.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gjs-tests-1.42.0-1.fc21.x86_64.rpm", 
+    "pkg": "gjs-tests", 
+    "pkg_version": "1.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gjs-tests_1.41.91-1ubuntu2_i386.deb", 
+    "pkg": "gjs-tests", 
+    "pkg_version": "1.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

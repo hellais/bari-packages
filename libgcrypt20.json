@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgcrypt20_1.6.3-2_i386.deb", 
+    "pkg": "libgcrypt20", 
+    "pkg_version": "1.6.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgcrypt20_1.6.2-4+b1_i386.deb", 
+    "pkg": "libgcrypt20", 
+    "pkg_version": "1.6.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libgcrypt20-1.6.2-2-omv2015.0.i586.rpm", 
+    "pkg": "libgcrypt20", 
+    "pkg_version": "1.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libgcrypt20-1.6.3-1.1.x86_64.rpm", 
+    "pkg": "libgcrypt20", 
+    "pkg_version": "1.6.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libgcrypt20-1.6.1-8.3.1.x86_64.rpm", 
+    "pkg": "libgcrypt20", 
+    "pkg_version": "1.6.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libgcrypt20-1.6.1-2-rosa2014.1.i586.rpm", 
+    "pkg": "libgcrypt20", 
+    "pkg_version": "1.6.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libgcrypt20_1.6.1-2ubuntu1_i386.deb", 
+    "pkg": "libgcrypt20", 
+    "pkg_version": "1.6.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libfastjet-fortran-dev_3.0.6+dfsg-1_i386.deb", 
+    "pkg": "libfastjet-fortran-dev", 
+    "pkg_version": "3.0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libfastjet-fortran-dev_3.0.6+dfsg-1_i386.deb", 
+    "pkg": "libfastjet-fortran-dev", 
+    "pkg_version": "3.0.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libfastjet-fortran-dev_3.0.2+dfsg-2_i386.deb", 
+    "pkg": "libfastjet-fortran-dev", 
+    "pkg_version": "3.0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libfastjet-fortran-dev_3.0.6+dfsg-1_i386.deb", 
+    "pkg": "libfastjet-fortran-dev", 
+    "pkg_version": "3.0.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

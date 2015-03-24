@@ -1,0 +1,109 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "gimmix-0.5.7.2-alt1_2.x86_64.rpm", 
+    "pkg": "gimmix", 
+    "pkg_version": "0.5.7.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gimmix_0.5.7.1-5_i386.deb", 
+    "pkg": "gimmix", 
+    "pkg_version": "0.5.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gimmix_0.5.7.1-5_i386.deb", 
+    "pkg": "gimmix", 
+    "pkg_version": "0.5.7.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gimmix_0.5.7.1-4_i386.deb", 
+    "pkg": "gimmix", 
+    "pkg_version": "0.5.7.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gimmix-0.5.7.2-2.fc22.x86_64.rpm", 
+    "pkg": "gimmix", 
+    "pkg_version": "0.5.7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gimmix-0.5.7.2-2.fc22.x86_64.rpm", 
+    "pkg": "gimmix", 
+    "pkg_version": "0.5.7.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gimmix-0.5.7.2-2.fc21.x86_64.rpm", 
+    "pkg": "gimmix", 
+    "pkg_version": "0.5.7.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gimmix-0.5.7.1-9.fc20.x86_64.rpm", 
+    "pkg": "gimmix", 
+    "pkg_version": "0.5.7.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "gimmix-0.5.7.2-1.6.x86_64.rpm", 
+    "pkg": "gimmix", 
+    "pkg_version": "0.5.7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "gimmix-0.5.7.2-1.1.x86_64.rpm", 
+    "pkg": "gimmix", 
+    "pkg_version": "0.5.7.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gimmix_0.5.7.1-4ubuntu2_i386.deb", 
+    "pkg": "gimmix", 
+    "pkg_version": "0.5.7.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gimmix_0.5.7.1-4ubuntu2_i386.deb", 
+    "pkg": "gimmix", 
+    "pkg_version": "0.5.7.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

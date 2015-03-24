@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libvisualvm-jni_1.3.8-1_i386.deb", 
+    "pkg": "libvisualvm-jni", 
+    "pkg_version": "1.3.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libvisualvm-jni_1.3.8-1_i386.deb", 
+    "pkg": "libvisualvm-jni", 
+    "pkg_version": "1.3.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

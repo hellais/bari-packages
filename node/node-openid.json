@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "node-openid_0.5.9-1_all.deb", 
+    "pkg": "node-openid", 
+    "pkg_version": "0.5.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

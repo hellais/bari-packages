@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "iscsitarget-0.4.17-5.el5.x86_64.rpm", 
+    "pkg": "iscsitarget", 
+    "pkg_version": "0.4.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "iscsitarget_1.4.20.3+svn502-2_i386.deb", 
+    "pkg": "iscsitarget", 
+    "pkg_version": "1.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "iscsitarget_1.4.20.3+svn502-1_i386.deb", 
+    "pkg": "iscsitarget", 
+    "pkg_version": "1.4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "iscsitarget_1.4.20.2-10.1_i386.deb", 
+    "pkg": "iscsitarget", 
+    "pkg_version": "1.4.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "iscsitarget-1.4.20.3-2-omv2015.0.x86_64.rpm", 
+    "pkg": "iscsitarget", 
+    "pkg_version": "1.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Hardware", 
+    "pkg_full_name": "iscsitarget-1.4.20.3-49.6.x86_64.rpm", 
+    "pkg": "iscsitarget", 
+    "pkg_version": "1.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "iscsitarget-1.4.20.3-13.7.1.x86_64.rpm", 
+    "pkg": "iscsitarget", 
+    "pkg_version": "1.4.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "iscsitarget-1.4.20.3-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "iscsitarget", 
+    "pkg_version": "1.4.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "iscsitarget_1.4.20.3+svn499-0ubuntu3_i386.deb", 
+    "pkg": "iscsitarget", 
+    "pkg_version": "1.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "iscsitarget_1.4.20.3+svn499-0ubuntu2_i386.deb", 
+    "pkg": "iscsitarget", 
+    "pkg_version": "1.4.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

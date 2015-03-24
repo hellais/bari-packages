@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "asterisk-testsuite_0.0.0+svn.5781-2_all.deb", 
+    "pkg": "asterisk-testsuite", 
+    "pkg_version": "0.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

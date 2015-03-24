@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liboptcomp-camlp4-dev_1.6-1_i386.deb", 
+    "pkg": "liboptcomp-camlp4-dev", 
+    "pkg_version": "1.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liboptcomp-camlp4-dev_1.6-1_i386.deb", 
+    "pkg": "liboptcomp-camlp4-dev", 
+    "pkg_version": "1.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "liboptcomp-camlp4-dev_1.6-1_i386.deb", 
+    "pkg": "liboptcomp-camlp4-dev", 
+    "pkg_version": "1.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

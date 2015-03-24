@@ -1,0 +1,118 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ddccontrol-0.4.2-alt17.20140603git9d89d8c.x86_64.rpm", 
+    "pkg": "ddccontrol", 
+    "pkg_version": "0.4.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ddccontrol_0.4.2-11_i386.deb", 
+    "pkg": "ddccontrol", 
+    "pkg_version": "0.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ddccontrol_0.4.2-11_i386.deb", 
+    "pkg": "ddccontrol", 
+    "pkg_version": "0.4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ddccontrol_0.4.2-10_i386.deb", 
+    "pkg": "ddccontrol", 
+    "pkg_version": "0.4.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ddccontrol-0.4.2-11.20120904gitc3af663d.fc22.x86_64.rpm", 
+    "pkg": "ddccontrol", 
+    "pkg_version": "0.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ddccontrol-0.4.2-11.20120904gitc3af663d.fc22.x86_64.rpm", 
+    "pkg": "ddccontrol", 
+    "pkg_version": "0.4.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "ddccontrol-0.4.2-11.20120904gitc3af663d.fc21.x86_64.rpm", 
+    "pkg": "ddccontrol", 
+    "pkg_version": "0.4.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ddccontrol-0.4.2-7.20120904gitc3af663d.fc20.x86_64.rpm", 
+    "pkg": "ddccontrol", 
+    "pkg_version": "0.4.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "ddccontrol-0.4.2-4-omv2013.0.x86_64.rpm", 
+    "pkg": "ddccontrol", 
+    "pkg_version": "0.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "ddccontrol-0.4.2-4-omv2013.0.x86_64.rpm", 
+    "pkg": "ddccontrol", 
+    "pkg_version": "0.4.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "ddccontrol-0.4.2-4-omv2013.0.x86_64.rpm", 
+    "pkg": "ddccontrol", 
+    "pkg_version": "0.4.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "ddccontrol-0.4.2-4-rosa2014.1.x86_64.rpm", 
+    "pkg": "ddccontrol", 
+    "pkg_version": "0.4.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "ddccontrol-0.4.2-3-rosa2012.1.x86_64.rpm", 
+    "pkg": "ddccontrol", 
+    "pkg_version": "0.4.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

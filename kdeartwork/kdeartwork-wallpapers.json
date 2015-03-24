@@ -1,0 +1,206 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kdeartwork-wallpapers-3.5.13.2-alt2.noarch.rpm", 
+    "pkg": "kdeartwork-wallpapers", 
+    "pkg_version": "3.5.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kdeartwork-wallpapers-3.5.13.2-alt2.noarch.rpm", 
+    "pkg": "kdeartwork-wallpapers", 
+    "pkg_version": "3.5.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "kdeartwork-wallpapers-14.12.3-1-x86_64.pkg.tar.xz", 
+    "pkg": "kdeartwork-wallpapers-1", 
+    "pkg_version": "4.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "kdeartwork-wallpapers-4.10.5-4.el7.noarch.rpm", 
+    "pkg": "kdeartwork-wallpapers", 
+    "pkg_version": "4.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "kdeartwork-wallpapers-14.12.3-1-x86_64.pkg.tar.xz", 
+    "pkg": "kdeartwork-wallpapers-1", 
+    "pkg_version": "4.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "kdeartwork-wallpapers-4.3.4-7.el6.noarch.rpm", 
+    "pkg": "kdeartwork-wallpapers", 
+    "pkg_version": "4.3.4", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "kdeartwork-wallpapers-14.12.3-1-x86_64.pkg.tar.xz", 
+    "pkg": "kdeartwork-wallpapers-1", 
+    "pkg_version": "4.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kdeartwork-wallpapers_4.14.2-1_all.deb", 
+    "pkg": "kdeartwork-wallpapers", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "kdeartwork-wallpapers-14.12.3-1-x86_64.pkg.tar.xz", 
+    "pkg": "kdeartwork-wallpapers-1", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kdeartwork-wallpapers_4.14.2-1_all.deb", 
+    "pkg": "kdeartwork-wallpapers", 
+    "pkg_version": "4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "kdeartwork-wallpapers-14.12.3-1-x86_64.pkg.tar.xz", 
+    "pkg": "kdeartwork-wallpapers-1", 
+    "pkg_version": "4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kdeartwork-wallpapers_4.14.2-1_all.deb", 
+    "pkg": "kdeartwork-wallpapers", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kdeartwork-wallpapers-14.12.3-2.fc23.noarch.rpm", 
+    "pkg": "kdeartwork-wallpapers-1", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kdeartwork-wallpapers_4.14.2-1_all.deb", 
+    "pkg": "kdeartwork-wallpapers", 
+    "pkg_version": "4.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kdeartwork-wallpapers-14.12.1-1.fc22.noarch.rpm", 
+    "pkg": "kdeartwork-wallpapers-1", 
+    "pkg_version": "4.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kdeartwork-wallpapers-4.14.3-1.fc21.noarch.rpm", 
+    "pkg": "kdeartwork-wallpapers", 
+    "pkg_version": "4.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "kdeartwork-wallpapers-14.12.3-2.fc21.noarch.rpm", 
+    "pkg": "kdeartwork-wallpapers-1", 
+    "pkg_version": "4.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kdeartwork-wallpapers-4.11.3-1.fc20.noarch.rpm", 
+    "pkg": "kdeartwork-wallpapers", 
+    "pkg_version": "4.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "kdeartwork-wallpapers-14.12.3-2.fc20.noarch.rpm", 
+    "pkg": "kdeartwork-wallpapers-1", 
+    "pkg_version": "4.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "kdeartwork-wallpapers_4.14.1-0ubuntu1_all.deb", 
+    "pkg": "kdeartwork-wallpapers", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "kdeartwork-wallpapers-14.12.3-2.fc20.noarch.rpm", 
+    "pkg": "kdeartwork-wallpapers-1", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Kubuntu Backports", 
+    "pkg_full_name": "kdeartwork-wallpapers_4.14.2-0ubuntu1~ubuntu14.04~ppa1_all.deb", 
+    "pkg": "kdeartwork-wallpapers", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "kdeartwork-wallpapers-14.12.3-2.fc20.noarch.rpm", 
+    "pkg": "kdeartwork-wallpapers-1", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

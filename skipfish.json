@@ -1,0 +1,155 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "skipfish-2.10-0.2.b.el7.x86_64.rpm", 
+    "pkg": "skipfish", 
+    "pkg_version": "2.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "skipfish-2.10-0.6.b.el6.x86_64.rpm", 
+    "pkg": "skipfish", 
+    "pkg_version": "2.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "skipfish-2.07-0.1.b.el5.x86_64.rpm", 
+    "pkg": "skipfish", 
+    "pkg_version": "2.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "skipfish_2.10b-1_i386.deb", 
+    "pkg": "skipfish", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "skipfish_2.10b-1_i386.deb", 
+    "pkg": "skipfish", 
+    "pkg_version": "2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "skipfish_2.05b-1_i386.deb", 
+    "pkg": "skipfish", 
+    "pkg_version": "2.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "skipfish-2.10-0.7.b.fc22.x86_64.rpm", 
+    "pkg": "skipfish", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "skipfish-2.10-0.7.b.fc22.x86_64.rpm", 
+    "pkg": "skipfish", 
+    "pkg_version": "2.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "skipfish-2.10-0.7.b.fc21.x86_64.rpm", 
+    "pkg": "skipfish", 
+    "pkg_version": "2.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "skipfish-2.10-0.3.b.fc20.x86_64.rpm", 
+    "pkg": "skipfish", 
+    "pkg_version": "2.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "skipfish-2.02-0.beta.1-omv2013.0.x86_64.rpm", 
+    "pkg": "skipfish", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "skipfish-2.02-0.beta.1-omv2013.0.x86_64.rpm", 
+    "pkg": "skipfish", 
+    "pkg_version": "2.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "skipfish-2.02-0.beta.1-omv2013.0.x86_64.rpm", 
+    "pkg": "skipfish", 
+    "pkg_version": "2.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "skipfish-2.02-0.beta.1-rosa2014.1.x86_64.rpm", 
+    "pkg": "skipfish", 
+    "pkg_version": "2.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "skipfish-2.02-0.beta.1-rosa2012.1.x86_64.rpm", 
+    "pkg": "skipfish", 
+    "pkg_version": "2.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "skipfish_2.10b-1_i386.deb", 
+    "pkg": "skipfish", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "skipfish_2.10b-1_i386.deb", 
+    "pkg": "skipfish", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

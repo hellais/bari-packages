@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libx265-dev_1.5-dmo1_i386.deb", 
+    "pkg": "libx265-dev", 
+    "pkg_version": "1.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-jmacro-prof_0.6.8-1+b11_i386.deb", 
+    "pkg": "libghc-jmacro-prof", 
+    "pkg_version": "0.6.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-jmacro-prof_0.6.8-1+b11_i386.deb", 
+    "pkg": "libghc-jmacro-prof", 
+    "pkg_version": "0.6.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-jmacro-prof_0.6.8-1build9_i386.deb", 
+    "pkg": "libghc-jmacro-prof", 
+    "pkg_version": "0.6.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libmplex2-2.1-0_2.1.0-dmo6_i386.deb", 
+    "pkg": "libmplex2", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libmplex2-2.1-0_2.1.0-dmo6_i386.deb", 
+    "pkg": "libmplex2", 
+    "pkg_version": "2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libmplex2-2.1-0_2.1.0+debian-2.1_i386.deb", 
+    "pkg": "libmplex2", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

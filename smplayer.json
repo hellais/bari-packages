@@ -1,0 +1,585 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "smplayer-14.9.0-alt1.6748.x86_64.rpm", 
+    "pkg": "smplayer-1", 
+    "pkg_version": "4.9.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "smplayer-14.9.0.6690-1-x86_64.pkg.tar.xz", 
+    "pkg": "smplayer-1", 
+    "pkg_version": "4.9.0.6", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "smplayer-0.8.6-8.el7.x86_64.rpm", 
+    "pkg": "smplayer", 
+    "pkg_version": "0.8.6", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "smplayer-14.3.0-1.el7.nux.x86_64.rpm", 
+    "pkg": "smplayer-1", 
+    "pkg_version": "4.3.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "smplayer-0.6.9-1.el6.rf.x86_64.rpm", 
+    "pkg": "smplayer", 
+    "pkg_version": "0.6.9", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "smplayer-14.3.0-1.el7.nux.x86_64.rpm", 
+    "pkg": "smplayer-1", 
+    "pkg_version": "4.3.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "smplayer-0.6.9-1.el5.rf.x86_64.rpm", 
+    "pkg": "smplayer", 
+    "pkg_version": "0.6.9", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "smplayer-14.3.0-1.el7.nux.x86_64.rpm", 
+    "pkg": "smplayer-1", 
+    "pkg_version": "4.3.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smplayer_14.9.0~ds0-1_i386.deb", 
+    "pkg": "smplayer_1", 
+    "pkg_version": "4.9.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "smplayer-0.6.9-1.el5.rf.x86_64.rpm", 
+    "pkg": "smplayer", 
+    "pkg_version": "0.6.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "smplayer-14.3.0-1.el7.nux.x86_64.rpm", 
+    "pkg": "smplayer-1", 
+    "pkg_version": "4.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smplayer_14.9.0~ds0-1_i386.deb", 
+    "pkg": "smplayer_1", 
+    "pkg_version": "4.9.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "smplayer-0.6.9-1.el5.rf.x86_64.rpm", 
+    "pkg": "smplayer", 
+    "pkg_version": "0.6.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "smplayer-14.3.0-1.el7.nux.x86_64.rpm", 
+    "pkg": "smplayer-1", 
+    "pkg_version": "4.3.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smplayer_14.9.0~ds0-1_i386.deb", 
+    "pkg": "smplayer_1", 
+    "pkg_version": "4.9.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smplayer_0.8.0-1+deb7u1_i386.deb", 
+    "pkg": "smplayer", 
+    "pkg_version": "0.8.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "smplayer-14.3.0-1.el7.nux.x86_64.rpm", 
+    "pkg": "smplayer-1", 
+    "pkg_version": "4.3.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smplayer_14.9.0~ds0-1_i386.deb", 
+    "pkg": "smplayer_1", 
+    "pkg_version": "4.9.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smplayer_0.8.0-1+deb7u1_i386.deb", 
+    "pkg": "smplayer", 
+    "pkg_version": "0.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "smplayer-14.9.0-1.fc21.x86_64.rpm", 
+    "pkg": "smplayer-1", 
+    "pkg_version": "4.9.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smplayer_14.9.0~ds0-1_i386.deb", 
+    "pkg": "smplayer_1", 
+    "pkg_version": "4.9.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smplayer_0.8.0-1+deb7u1_i386.deb", 
+    "pkg": "smplayer", 
+    "pkg_version": "0.8.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "smplayer-14.9.0-1.fc21.x86_64.rpm", 
+    "pkg": "smplayer-1", 
+    "pkg_version": "4.9.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smplayer_14.9.0~ds0-1_i386.deb", 
+    "pkg": "smplayer_1", 
+    "pkg_version": "4.9.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "smplayer-0.8.6-1.fc20.x86_64.rpm", 
+    "pkg": "smplayer", 
+    "pkg_version": "0.8.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free Updates", 
+    "pkg_full_name": "smplayer-14.9.0-1.fc20.x86_64.rpm", 
+    "pkg": "smplayer-1", 
+    "pkg_version": "4.9.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smplayer_14.9.0~ds0-1_i386.deb", 
+    "pkg": "smplayer_1", 
+    "pkg_version": "4.9.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "smplayer-0.8.6-2.mga4.x86_64.rpm", 
+    "pkg": "smplayer", 
+    "pkg_version": "0.8.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "smplayer-14.9.0.6748-1-omv2015.0.x86_64.rpm", 
+    "pkg": "smplayer-1", 
+    "pkg_version": "4.9.0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smplayer_14.9.0~ds0-1_i386.deb", 
+    "pkg": "smplayer_1", 
+    "pkg_version": "4.9.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "smplayer-0.8.6-2.mga4.x86_64.rpm", 
+    "pkg": "smplayer", 
+    "pkg_version": "0.8.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "smplayer-14.9.0-1-omv2014.0.x86_64.rpm", 
+    "pkg": "smplayer-1", 
+    "pkg_version": "4.9.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smplayer_14.9.0~ds0-1_i386.deb", 
+    "pkg": "smplayer_1", 
+    "pkg_version": "4.9.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "smplayer-0.8.5-1-omv2013.0.x86_64.rpm", 
+    "pkg": "smplayer", 
+    "pkg_version": "0.8.5", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "smplayer-14.9.0-1-omv2014.0.x86_64.rpm", 
+    "pkg": "smplayer-1", 
+    "pkg_version": "4.9.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smplayer_14.9.0~ds0-1_i386.deb", 
+    "pkg": "smplayer_1", 
+    "pkg_version": "4.9.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "smplayer-0.8.5-1-omv2013.0.x86_64.rpm", 
+    "pkg": "smplayer", 
+    "pkg_version": "0.8.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "smplayer-14.9.0.6690-1.2.x86_64.rpm", 
+    "pkg": "smplayer-1", 
+    "pkg_version": "4.9.0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smplayer_14.9.0~ds0-1_i386.deb", 
+    "pkg": "smplayer_1", 
+    "pkg_version": "4.9.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "smplayer-0.8.5-1-omv2013.0.x86_64.rpm", 
+    "pkg": "smplayer", 
+    "pkg_version": "0.8.5", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE KDE Extra", 
+    "pkg_full_name": "smplayer-14.9.0.6690-1.1.x86_64.rpm", 
+    "pkg": "smplayer-1", 
+    "pkg_version": "4.9.0.6", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smplayer_14.9.0~ds0-1_i386.deb", 
+    "pkg": "smplayer_1", 
+    "pkg_version": "4.9.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "smplayer-0.8.5-1-omv2013.0.x86_64.rpm", 
+    "pkg": "smplayer", 
+    "pkg_version": "0.8.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE KDE Extra", 
+    "pkg_full_name": "smplayer-14.9.0.6690-1.1.x86_64.rpm", 
+    "pkg": "smplayer-1", 
+    "pkg_version": "4.9.0.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smplayer_14.9.0~ds0-1_i386.deb", 
+    "pkg": "smplayer_1", 
+    "pkg_version": "4.9.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "smplayer-0.8.5-1-omv2013.0.x86_64.rpm", 
+    "pkg": "smplayer", 
+    "pkg_version": "0.8.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "smplayer-14.9.0-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "smplayer-1", 
+    "pkg_version": "4.9.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smplayer_14.9.0~ds0-1_i386.deb", 
+    "pkg": "smplayer_1", 
+    "pkg_version": "4.9.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "smplayer-0.8.1-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "smplayer", 
+    "pkg_version": "0.8.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "smplayer-14.3.0-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "smplayer-1", 
+    "pkg_version": "4.3.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smplayer_14.9.0~ds0-1_i386.deb", 
+    "pkg": "smplayer_1", 
+    "pkg_version": "4.9.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "smplayer-0.8.6-i486-1sl.txz", 
+    "pkg": "smplayer", 
+    "pkg_version": "0.8.6", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "smplayer-14.3.0-x86_64-1sl.txz", 
+    "pkg": "smplayer-1", 
+    "pkg_version": "4.3.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smplayer_14.9.0~ds0-1_i386.deb", 
+    "pkg": "smplayer_1", 
+    "pkg_version": "4.9.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "smplayer-0.8.5-x86_64-1sl.txz", 
+    "pkg": "smplayer", 
+    "pkg_version": "0.8.5", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "smplayer-14.3.0-x86_64-1sl.txz", 
+    "pkg": "smplayer-1", 
+    "pkg_version": "4.3.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smplayer_14.9.0~ds0-1_i386.deb", 
+    "pkg": "smplayer_1", 
+    "pkg_version": "4.9.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "smplayer-0.8.0-x86_64-1sl.txz", 
+    "pkg": "smplayer", 
+    "pkg_version": "0.8.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "smplayer-14.3.0-x86_64-1sl.txz", 
+    "pkg": "smplayer-1", 
+    "pkg_version": "4.3.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "smplayer_14.3.0-1_i386.deb", 
+    "pkg": "smplayer_1", 
+    "pkg_version": "4.3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "smplayer-0.8.0-x86_64-1sl.txz", 
+    "pkg": "smplayer", 
+    "pkg_version": "0.8.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "smplayer-14.3.0-x86_64-1sl.txz", 
+    "pkg": "smplayer-1", 
+    "pkg_version": "4.3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "smplayer_14.3.0-1_i386.deb", 
+    "pkg": "smplayer_1", 
+    "pkg_version": "4.3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "smplayer_0.8.6-2_i386.deb", 
+    "pkg": "smplayer", 
+    "pkg_version": "0.8.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "smplayer-14.3.0-x86_64-1sl.txz", 
+    "pkg": "smplayer-1", 
+    "pkg_version": "4.3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

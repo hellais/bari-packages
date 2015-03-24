@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libjs-jquery-timeago_1.4.1-1_all.deb", 
+    "pkg": "libjs-jquery-timeago", 
+    "pkg_version": "1.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "pdftk-1.44-alt2_11jpp7.x86_64.rpm", 
+    "pkg": "pdftk", 
+    "pkg_version": "1.4", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "pdftk-1.44-2.el6.rf.x86_64.rpm", 
+    "pkg": "pdftk", 
+    "pkg_version": "1.4", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "pdftk-1.44-2.el5.rf.x86_64.rpm", 
+    "pkg": "pdftk", 
+    "pkg_version": "1.4", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pdftk_2.02-2_i386.deb", 
+    "pkg": "pdftk", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pdftk_2.02-2_i386.deb", 
+    "pkg": "pdftk", 
+    "pkg_version": "2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pdftk_1.44-7_i386.deb", 
+    "pkg": "pdftk", 
+    "pkg_version": "1.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Olea", 
+    "pkg_full_name": "pdftk-1.41-5olea.i386.rpm", 
+    "pkg": "pdftk", 
+    "pkg_version": "1.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pdftk-2.02-5.2.x86_64.rpm", 
+    "pkg": "pdftk", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pdftk-2.02-4.1.3.x86_64.rpm", 
+    "pkg": "pdftk", 
+    "pkg_version": "2.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pdftk-1.45-2.1.2.i586.rpm", 
+    "pkg": "pdftk", 
+    "pkg_version": "1.4", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "pdftk-2.01-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "pdftk", 
+    "pkg_version": "2.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "pdftk-1.44-4-rosa2012.1.x86_64.rpm", 
+    "pkg": "pdftk", 
+    "pkg_version": "1.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "rworkman's Packages", 
+    "pkg_full_name": "pdftk-2.02-x86_64-1_rlw.txz", 
+    "pkg": "pdftk", 
+    "pkg_version": "2.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "rworkman's Packages", 
+    "pkg_full_name": "pdftk-2.00-i486-1_rlw.tgz", 
+    "pkg": "pdftk", 
+    "pkg_version": "2.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "pdftk-1.44-i686-1sl.txz", 
+    "pkg": "pdftk", 
+    "pkg_version": "1.4", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "pdftk_2.02-1_i386.deb", 
+    "pkg": "pdftk", 
+    "pkg_version": "2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "pdftk_2.01-1_i386.deb", 
+    "pkg": "pdftk", 
+    "pkg_version": "2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

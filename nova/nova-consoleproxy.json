@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nova-consoleproxy_2014.1.3-11_all.deb", 
+    "pkg": "nova-consoleproxy_201", 
+    "pkg_version": "4.1.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

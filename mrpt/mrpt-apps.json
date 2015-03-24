@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mrpt-apps_1.2.2-1.1_i386.deb", 
+    "pkg": "mrpt-apps", 
+    "pkg_version": "1.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mrpt-apps_1.2.2-1.1_i386.deb", 
+    "pkg": "mrpt-apps", 
+    "pkg_version": "1.2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mrpt-apps-1.0.2-12.fc22.x86_64.rpm", 
+    "pkg": "mrpt-apps", 
+    "pkg_version": "1.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mrpt-apps-1.0.2-12.fc22.x86_64.rpm", 
+    "pkg": "mrpt-apps", 
+    "pkg_version": "1.0.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mrpt-apps-1.0.2-9.fc21.x86_64.rpm", 
+    "pkg": "mrpt-apps", 
+    "pkg_version": "1.0.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "mrpt-apps-1.0.2-9.fc20.x86_64.rpm", 
+    "pkg": "mrpt-apps", 
+    "pkg_version": "1.0.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mrpt-apps_1.0.2-1ubuntu4_i386.deb", 
+    "pkg": "mrpt-apps", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mrpt-apps_1.0.2-1ubuntu1_i386.deb", 
+    "pkg": "mrpt-apps", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

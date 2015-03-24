@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qtwebsockets5-doc_5.3.2-5_all.deb", 
+    "pkg": "qtwebsockets5-doc", 
+    "pkg_version": "5.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qtwebsockets5-doc_5.3.2-5_all.deb", 
+    "pkg": "qtwebsockets5-doc", 
+    "pkg_version": "5.3.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "qtwebsockets5-doc_5.3.2-5~bpo70+1_all.deb", 
+    "pkg": "qtwebsockets5-doc", 
+    "pkg_version": "5.3.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

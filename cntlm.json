@@ -1,0 +1,127 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "cntlm-0.92.3-alt1.x86_64.rpm", 
+    "pkg": "cntlm", 
+    "pkg_version": "0.9", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "cntlm-0.35.1-4.el6.x86_64.rpm", 
+    "pkg": "cntlm", 
+    "pkg_version": "0.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cntlm_0.92.3-1_i386.deb", 
+    "pkg": "cntlm", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cntlm_0.92.3-1_i386.deb", 
+    "pkg": "cntlm", 
+    "pkg_version": "0.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cntlm_0.92.3-1_i386.deb", 
+    "pkg": "cntlm", 
+    "pkg_version": "0.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "cntlm-0.92.3-7.fc22.x86_64.rpm", 
+    "pkg": "cntlm", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "cntlm-0.92.3-7.fc22.x86_64.rpm", 
+    "pkg": "cntlm", 
+    "pkg_version": "0.9", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "cntlm-0.92.3-7.fc21.x86_64.rpm", 
+    "pkg": "cntlm", 
+    "pkg_version": "0.9", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "cntlm-0.92.3-5.fc20.x86_64.rpm", 
+    "pkg": "cntlm", 
+    "pkg_version": "0.9", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "cntlm-0.92.3-4.2.x86_64.rpm", 
+    "pkg": "cntlm", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "cntlm-0.92.3-3.1.2.x86_64.rpm", 
+    "pkg": "cntlm", 
+    "pkg_version": "0.9", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "cntlm-0.35.1-25.1.2.i586.rpm", 
+    "pkg": "cntlm", 
+    "pkg_version": "0.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "cntlm_0.92.3-1ubuntu1_i386.deb", 
+    "pkg": "cntlm", 
+    "pkg_version": "0.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "cntlm_0.92.3-1ubuntu1_i386.deb", 
+    "pkg": "cntlm", 
+    "pkg_version": "0.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

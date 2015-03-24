@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "wesnoth-1.12-sof_1.12.1-1_all.deb", 
+    "pkg": "wesnoth", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "GetDeb Games", 
+    "pkg_full_name": "wesnoth-1.12-sof_1.12.1-1~getdeb1_all.deb", 
+    "pkg": "wesnoth", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-simplejson_3.6.5-1_i386.deb", 
+    "pkg": "python3-simplejson", 
+    "pkg_version": "3.6.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-simplejson_3.6.5-1_i386.deb", 
+    "pkg": "python3-simplejson", 
+    "pkg_version": "3.6.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-simplejson-3.5.3-2.fc22.x86_64.rpm", 
+    "pkg": "python3-simplejson", 
+    "pkg_version": "3.5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-simplejson-3.5.3-2.fc22.x86_64.rpm", 
+    "pkg": "python3-simplejson", 
+    "pkg_version": "3.5.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-simplejson-3.5.3-2.fc21.x86_64.rpm", 
+    "pkg": "python3-simplejson", 
+    "pkg_version": "3.5.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python3-simplejson-3.5.3-1.fc20.x86_64.rpm", 
+    "pkg": "python3-simplejson", 
+    "pkg_version": "3.5.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python3-simplejson-3.6.5-1.2.x86_64.rpm", 
+    "pkg": "python3-simplejson", 
+    "pkg_version": "3.6.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python3-simplejson-3.4.1-2.1.5.x86_64.rpm", 
+    "pkg": "python3-simplejson", 
+    "pkg_version": "3.4.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python3-simplejson-3.3.0-3.1.2.i586.rpm", 
+    "pkg": "python3-simplejson", 
+    "pkg_version": "3.3.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "python3-simplejson-3.6.3-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "python3-simplejson", 
+    "pkg_version": "3.6.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python3-simplejson_3.5.3-1ubuntu1_i386.deb", 
+    "pkg": "python3-simplejson", 
+    "pkg_version": "3.5.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

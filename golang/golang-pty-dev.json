@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "golang-pty-dev_0.0~git20140315.1.67e2db2-1_all.deb", 
+    "pkg": "golang-pty-dev", 
+    "pkg_version": "0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "golang-pty-dev_0.0~git20140315.1.67e2db2-1_all.deb", 
+    "pkg": "golang-pty-dev", 
+    "pkg_version": "0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "golang-pty-dev_0.0~git20140315.1.67e2db2-1_all.deb", 
+    "pkg": "golang-pty-dev", 
+    "pkg_version": "0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

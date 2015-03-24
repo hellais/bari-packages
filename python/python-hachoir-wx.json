@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-hachoir-wx_0.3-3_all.deb", 
+    "pkg": "python-hachoir-wx", 
+    "pkg_version": "0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-hachoir-wx_0.3-3_all.deb", 
+    "pkg": "python-hachoir-wx", 
+    "pkg_version": "0.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-hachoir-wx_0.3-2_all.deb", 
+    "pkg": "python-hachoir-wx", 
+    "pkg_version": "0.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-hachoir-wx-0.3-2-omv2013.0.noarch.rpm", 
+    "pkg": "python-hachoir-wx", 
+    "pkg_version": "0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-hachoir-wx-0.3-2-omv2013.0.noarch.rpm", 
+    "pkg": "python-hachoir-wx", 
+    "pkg_version": "0.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-hachoir-wx-0.3-2-omv2013.0.noarch.rpm", 
+    "pkg": "python-hachoir-wx", 
+    "pkg_version": "0.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "python-hachoir-wx-0.3-3-rosa2014.1.noarch.rpm", 
+    "pkg": "python-hachoir-wx", 
+    "pkg_version": "0.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "python-hachoir-wx-0.3-2-rosa2012.1.noarch.rpm", 
+    "pkg": "python-hachoir-wx", 
+    "pkg_version": "0.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-hachoir-wx_0.3-2_all.deb", 
+    "pkg": "python-hachoir-wx", 
+    "pkg_version": "0.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-hachoir-wx_0.3-2_all.deb", 
+    "pkg": "python-hachoir-wx", 
+    "pkg_version": "0.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

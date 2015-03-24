@@ -1,0 +1,208 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "chkrootkit-0.50-alt1.x86_64.rpm", 
+    "pkg": "chkrootkit", 
+    "pkg_version": "0.5", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "chkrootkit-0.49-1.el6.rf.i686.rpm", 
+    "pkg": "chkrootkit", 
+    "pkg_version": "0.4", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "chkrootkit-0.49-1.el5.rf.x86_64.rpm", 
+    "pkg": "chkrootkit", 
+    "pkg_version": "0.4", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "chkrootkit_0.50-3_i386.deb", 
+    "pkg": "chkrootkit", 
+    "pkg_version": "0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "chkrootkit_0.50-2_i386.deb", 
+    "pkg": "chkrootkit", 
+    "pkg_version": "0.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "chkrootkit_0.49-4.1+deb7u2_i386.deb", 
+    "pkg": "chkrootkit", 
+    "pkg_version": "0.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "chkrootkit-0.50-4.fc22.x86_64.rpm", 
+    "pkg": "chkrootkit", 
+    "pkg_version": "0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "chkrootkit-0.50-4.fc22.x86_64.rpm", 
+    "pkg": "chkrootkit", 
+    "pkg_version": "0.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "chkrootkit-0.50-4.fc21.x86_64.rpm", 
+    "pkg": "chkrootkit", 
+    "pkg_version": "0.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "chkrootkit-0.50-4.fc20.x86_64.rpm", 
+    "pkg": "chkrootkit", 
+    "pkg_version": "0.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "chkrootkit-0.49-7-omv2014.1.x86_64.rpm", 
+    "pkg": "chkrootkit", 
+    "pkg_version": "0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "chkrootkit-0.49-6-omv2013.0.x86_64.rpm", 
+    "pkg": "chkrootkit", 
+    "pkg_version": "0.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "chkrootkit-0.49-6-omv2013.0.x86_64.rpm", 
+    "pkg": "chkrootkit", 
+    "pkg_version": "0.4", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "chkrootkit-0.50-7.8.x86_64.rpm", 
+    "pkg": "chkrootkit", 
+    "pkg_version": "0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "chkrootkit-0.50-7.2.x86_64.rpm", 
+    "pkg": "chkrootkit", 
+    "pkg_version": "0.5", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "chkrootkit-0.50-7.3.x86_64.rpm", 
+    "pkg": "chkrootkit", 
+    "pkg_version": "0.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "chkrootkit-0.50-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "chkrootkit", 
+    "pkg_version": "0.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "chkrootkit-0.49-7-rosa2012.1.x86_64.rpm", 
+    "pkg": "chkrootkit", 
+    "pkg_version": "0.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackers", 
+    "pkg_full_name": "chkrootkit-0.50-x86_64-1cf.txz", 
+    "pkg": "chkrootkit", 
+    "pkg_version": "0.5", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "chkrootkit-0.49-i686-7sl.txz", 
+    "pkg": "chkrootkit", 
+    "pkg_version": "0.4", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "chkrootkit-0.49-i686-5sl.txz", 
+    "pkg": "chkrootkit", 
+    "pkg_version": "0.4", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "chkrootkit_0.49-5ubuntu1_i386.deb", 
+    "pkg": "chkrootkit", 
+    "pkg_version": "0.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "chkrootkit_0.49-4.1ubuntu1.14.04.1_i386.deb", 
+    "pkg": "chkrootkit", 
+    "pkg_version": "0.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

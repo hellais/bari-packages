@@ -1,0 +1,109 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "389-ds-console-doc-1.2.6-alt1.noarch.rpm", 
+    "pkg": "389-ds-console-doc", 
+    "pkg_version": "1.2.6", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "389-ds-console-doc-1.2.10-1.el7.noarch.rpm", 
+    "pkg": "389-ds-console-doc", 
+    "pkg_version": "1.2.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "389-ds-console-doc-1.2.6-1.el6.noarch.rpm", 
+    "pkg": "389-ds-console-doc", 
+    "pkg_version": "1.2.6", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "389-ds-console-doc-1.2.6-1.el5.noarch.rpm", 
+    "pkg": "389-ds-console-doc", 
+    "pkg_version": "1.2.6", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "389-ds-console-doc_1.2.7-1_all.deb", 
+    "pkg": "389-ds-console-doc", 
+    "pkg_version": "1.2.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "389-ds-console-doc_1.2.7-1_all.deb", 
+    "pkg": "389-ds-console-doc", 
+    "pkg_version": "1.2.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "389-ds-console-doc-1.2.10-1.fc23.noarch.rpm", 
+    "pkg": "389-ds-console-doc", 
+    "pkg_version": "1.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "389-ds-console-doc-1.2.10-1.fc22.noarch.rpm", 
+    "pkg": "389-ds-console-doc", 
+    "pkg_version": "1.2.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "389-ds-console-doc-1.2.10-1.fc21.noarch.rpm", 
+    "pkg": "389-ds-console-doc", 
+    "pkg_version": "1.2.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "389-ds-console-doc-1.2.10-1.fc20.noarch.rpm", 
+    "pkg": "389-ds-console-doc", 
+    "pkg_version": "1.2.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "389-ds-console-doc_1.2.7-1_all.deb", 
+    "pkg": "389-ds-console-doc", 
+    "pkg_version": "1.2.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "389-ds-console-doc_1.2.7-0ubuntu1_all.deb", 
+    "pkg": "389-ds-console-doc", 
+    "pkg_version": "1.2.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

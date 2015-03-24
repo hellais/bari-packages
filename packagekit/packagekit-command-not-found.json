@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "packagekit-command-not-found_1.0.1-2_i386.deb", 
+    "pkg": "packagekit-command-not-found", 
+    "pkg_version": "1.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "packagekit-command-not-found_1.0.1-2_i386.deb", 
+    "pkg": "packagekit-command-not-found", 
+    "pkg_version": "1.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "packagekit-command-not-found-1.0.5-1-omv2015.0.x86_64.rpm", 
+    "pkg": "packagekit-command-not-found", 
+    "pkg_version": "1.0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "packagekit-command-not-found-1.0.5-1-omv2014.0.x86_64.rpm", 
+    "pkg": "packagekit-command-not-found", 
+    "pkg_version": "1.0.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "packagekit-command-not-found-0.8.9-1-omv2013.0.x86_64.rpm", 
+    "pkg": "packagekit-command-not-found", 
+    "pkg_version": "0.8.9", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "packagekit-command-not-found-0.8.11-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "packagekit-command-not-found", 
+    "pkg_version": "0.8.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "packagekit-command-not-found-0.8.11-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "packagekit-command-not-found", 
+    "pkg_version": "0.8.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

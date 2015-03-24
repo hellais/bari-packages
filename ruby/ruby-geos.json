@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-geos_3.4.2-6_i386.deb", 
+    "pkg": "ruby-geos", 
+    "pkg_version": "3.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-geos_3.4.2-6_i386.deb", 
+    "pkg": "ruby-geos", 
+    "pkg_version": "3.4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ruby-geos-3.4.2-1.1.x86_64.rpm", 
+    "pkg": "ruby-geos", 
+    "pkg_version": "3.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ruby-geos_3.4.2-5_i386.deb", 
+    "pkg": "ruby-geos", 
+    "pkg_version": "3.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

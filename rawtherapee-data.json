@@ -1,0 +1,46 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "rawtherapee-data-4.0.12-alt1.noarch.rpm", 
+    "pkg": "rawtherapee-data", 
+    "pkg_version": "4.0.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rawtherapee-data_4.2-1_all.deb", 
+    "pkg": "rawtherapee-data", 
+    "pkg_version": "4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rawtherapee-data_4.2-1_all.deb", 
+    "pkg": "rawtherapee-data", 
+    "pkg_version": "4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rawtherapee-data_4.0.9-4_all.deb", 
+    "pkg": "rawtherapee-data", 
+    "pkg_version": "4.0.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "rawtherapee-data_4.0.12+dfsg-2_all.deb", 
+    "pkg": "rawtherapee-data", 
+    "pkg_version": "4.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

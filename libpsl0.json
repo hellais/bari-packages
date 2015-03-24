@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpsl0_0.5.1-1_i386.deb", 
+    "pkg": "libpsl0", 
+    "pkg_version": "0.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

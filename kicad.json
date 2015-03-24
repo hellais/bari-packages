@@ -1,0 +1,1019 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "kicad-2013.06.11-1.rev4021.el6.x86_64.rpm", 
+    "pkg": "kicad-201", 
+    "pkg_version": "3.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "kicad-2013.06.11-1.rev4021.el6.x86_64.rpm", 
+    "pkg": "kicad-201", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kicad_0.20141025+bzr4029-2_i386.deb", 
+    "pkg": "kicad", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "kicad-2013.06.11-1.rev4021.el6.x86_64.rpm", 
+    "pkg": "kicad-201", 
+    "pkg_version": "3.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kicad_0.20140622+bzr4027-3_i386.deb", 
+    "pkg": "kicad", 
+    "pkg_version": "0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "kicad-2013.06.11-1.rev4021.el6.x86_64.rpm", 
+    "pkg": "kicad-201", 
+    "pkg_version": "3.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kicad_0.20120526+bzr3261-1_i386.deb", 
+    "pkg": "kicad", 
+    "pkg_version": "0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kicad-2015.03.21-1.rev5528.fc23.x86_64.rpm", 
+    "pkg": "kicad-201", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kicad_0.20120526+bzr3261-1_i386.deb", 
+    "pkg": "kicad", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kicad-2014.03.13-11.rev4744.fc22.x86_64.rpm", 
+    "pkg": "kicad-201", 
+    "pkg_version": "4.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kicad_0.20120526+bzr3261-1_i386.deb", 
+    "pkg": "kicad", 
+    "pkg_version": "0.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "kicad-2014.03.13-10.rev4744.fc21.x86_64.rpm", 
+    "pkg": "kicad-201", 
+    "pkg_version": "4.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kicad_0.20120526+bzr3261-1_i386.deb", 
+    "pkg": "kicad", 
+    "pkg_version": "0.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "kicad-2013.06.11-4.rev4021.fc20.x86_64.rpm", 
+    "pkg": "kicad-201", 
+    "pkg_version": "3.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kicad_0.20120526+bzr3261-1_i386.deb", 
+    "pkg": "kicad", 
+    "pkg_version": "0.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "kicad-20130725.bzr4024-2-omv2013.0.x86_64.rpm", 
+    "pkg": "kicad-20130725.bzr4024-2-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "kicad-2013.06.11-4.rev4021.fc20.x86_64.rpm", 
+    "pkg": "kicad-201", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core Updates", 
+    "pkg_full_name": "kicad-20130725.bzr4024-2.1.mga4.x86_64.rpm", 
+    "pkg": "kicad-20130725.bzr4024", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kicad_0.20120526+bzr3261-1_i386.deb", 
+    "pkg": "kicad", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "kicad-20130725.bzr4024-2-omv2013.0.x86_64.rpm", 
+    "pkg": "kicad-20130725.bzr4024-2-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "kicad-2013.06.11-4.rev4021.fc20.x86_64.rpm", 
+    "pkg": "kicad-201", 
+    "pkg_version": "3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "kicad-20120119.bzr3256-1-omv2013.0.x86_64.rpm", 
+    "pkg": "kicad-20120119.bzr3256-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core Updates", 
+    "pkg_full_name": "kicad-20130725.bzr4024-2.1.mga4.x86_64.rpm", 
+    "pkg": "kicad-20130725.bzr4024", 
+    "pkg_version": "2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kicad_0.20120526+bzr3261-1_i386.deb", 
+    "pkg": "kicad", 
+    "pkg_version": "0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "kicad-20130725.bzr4024-2-omv2013.0.x86_64.rpm", 
+    "pkg": "kicad-20130725.bzr4024-2-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "kicad-2013.06.11-4.rev4021.fc20.x86_64.rpm", 
+    "pkg": "kicad-201", 
+    "pkg_version": "3.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "kicad-20120119.bzr3256-1-omv2013.0.x86_64.rpm", 
+    "pkg": "kicad-20120119.bzr3256-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core Updates", 
+    "pkg_full_name": "kicad-20130725.bzr4024-2.1.mga4.x86_64.rpm", 
+    "pkg": "kicad-20130725.bzr4024", 
+    "pkg_version": "2.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kicad_0.20120526+bzr3261-1_i386.deb", 
+    "pkg": "kicad", 
+    "pkg_version": "0.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "kicad-2013.06.11-4.rev4021.fc20.x86_64.rpm", 
+    "pkg": "kicad-201", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kicad-20140120-3.2.x86_64.rpm", 
+    "pkg": "kicad-20140120", 
+    "pkg_version": "3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "kicad-20120119.bzr3256-1-omv2013.0.x86_64.rpm", 
+    "pkg": "kicad-20120119.bzr3256-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mageia Core Updates", 
+    "pkg_full_name": "kicad-20130725.bzr4024-2.1.mga4.x86_64.rpm", 
+    "pkg": "kicad-20130725.bzr4024", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kicad_0.20120526+bzr3261-1_i386.deb", 
+    "pkg": "kicad", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kicad-gost-20140120-3.2.x86_64.rpm", 
+    "pkg": "kicad-gost-20140120", 
+    "pkg_version": "3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "kicad-20130725.bzr4024-2-omv2013.0.x86_64.rpm", 
+    "pkg": "kicad-20130725.bzr4024-2-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "kicad-2013.06.11-4.rev4021.fc20.x86_64.rpm", 
+    "pkg": "kicad-201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kicad-20140120-2.1.10.x86_64.rpm", 
+    "pkg": "kicad-20140120", 
+    "pkg_version": "2.1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "kicad-20120119.bzr3256-1-omv2013.0.x86_64.rpm", 
+    "pkg": "kicad-20120119.bzr3256-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mageia Core Updates", 
+    "pkg_full_name": "kicad-20130725.bzr4024-2.1.mga4.x86_64.rpm", 
+    "pkg": "kicad-20130725.bzr4024", 
+    "pkg_version": "2.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kicad_0.20120526+bzr3261-1_i386.deb", 
+    "pkg": "kicad", 
+    "pkg_version": "0.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kicad-gost-20140120-2.1.10.x86_64.rpm", 
+    "pkg": "kicad-gost-20140120", 
+    "pkg_version": "2.1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "kicad-20130725.bzr4024-2-omv2013.0.x86_64.rpm", 
+    "pkg": "kicad-20130725.bzr4024-2-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "kicad-2013.06.11-4.rev4021.fc20.x86_64.rpm", 
+    "pkg": "kicad-201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kicad-20140120-2.1.10.x86_64.rpm", 
+    "pkg": "kicad-20140120", 
+    "pkg_version": "2.1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "kicad-20120119.bzr3256-1-omv2013.0.x86_64.rpm", 
+    "pkg": "kicad-20120119.bzr3256-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mageia Core Updates", 
+    "pkg_full_name": "kicad-20130725.bzr4024-2.1.mga4.x86_64.rpm", 
+    "pkg": "kicad-20130725.bzr4024", 
+    "pkg_version": "2.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kicad-20130707-2.1.3.i586.rpm", 
+    "pkg": "kicad-20130707", 
+    "pkg_version": "2.1.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kicad_0.20120526+bzr3261-1_i386.deb", 
+    "pkg": "kicad", 
+    "pkg_version": "0.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kicad-gost-20140120-2.1.10.x86_64.rpm", 
+    "pkg": "kicad-gost-20140120", 
+    "pkg_version": "2.1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "kicad-20130725.bzr4024-2-omv2013.0.x86_64.rpm", 
+    "pkg": "kicad-20130725.bzr4024-2-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kicad-gost-20130707-2.1.3.i586.rpm", 
+    "pkg": "kicad-gost-20130707", 
+    "pkg_version": "2.1.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "kicad-2013.06.11-4.rev4021.fc20.x86_64.rpm", 
+    "pkg": "kicad-201", 
+    "pkg_version": "3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kicad-20140120-2.1.10.x86_64.rpm", 
+    "pkg": "kicad-20140120", 
+    "pkg_version": "2.1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "kicad-20120119.bzr3256-1-omv2013.0.x86_64.rpm", 
+    "pkg": "kicad-20120119.bzr3256-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Mageia Core Updates", 
+    "pkg_full_name": "kicad-20130725.bzr4024-2.1.mga4.x86_64.rpm", 
+    "pkg": "kicad-20130725.bzr4024", 
+    "pkg_version": "2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kicad-20130707-2.1.3.i586.rpm", 
+    "pkg": "kicad-20130707", 
+    "pkg_version": "2.1.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kicad_0.20120526+bzr3261-1_i386.deb", 
+    "pkg": "kicad", 
+    "pkg_version": "0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kicad-gost-20140120-2.1.10.x86_64.rpm", 
+    "pkg": "kicad-gost-20140120", 
+    "pkg_version": "2.1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "kicad-20120119.bzr3256-4-rosa2014.1.x86_64.rpm", 
+    "pkg": "kicad-20120119.bzr3256-4-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "kicad-20130725.bzr4024-2-omv2013.0.x86_64.rpm", 
+    "pkg": "kicad-20130725.bzr4024-2-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kicad-gost-20130707-2.1.3.i586.rpm", 
+    "pkg": "kicad-gost-20130707", 
+    "pkg_version": "2.1.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "kicad-20120119.bzr3256-3-rosa2012.1.x86_64.rpm", 
+    "pkg": "kicad-20120119.bzr3256-3-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "kicad-2013.06.11-4.rev4021.fc20.x86_64.rpm", 
+    "pkg": "kicad-201", 
+    "pkg_version": "3.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kicad-20140120-2.1.10.x86_64.rpm", 
+    "pkg": "kicad-20140120", 
+    "pkg_version": "2.1.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "kicad-20120119.bzr3256-1-omv2013.0.x86_64.rpm", 
+    "pkg": "kicad-20120119.bzr3256-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Mageia Core Updates", 
+    "pkg_full_name": "kicad-20130725.bzr4024-2.1.mga4.x86_64.rpm", 
+    "pkg": "kicad-20130725.bzr4024", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kicad-20130707-2.1.3.i586.rpm", 
+    "pkg": "kicad-20130707", 
+    "pkg_version": "2.1.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kicad_0.20120526+bzr3261-1_i386.deb", 
+    "pkg": "kicad", 
+    "pkg_version": "0.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kicad-gost-20140120-2.1.10.x86_64.rpm", 
+    "pkg": "kicad-gost-20140120", 
+    "pkg_version": "2.1.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "kicad-20120119.bzr3256-4-rosa2014.1.x86_64.rpm", 
+    "pkg": "kicad-20120119.bzr3256-4-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "kicad-20120119.bzr3256-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "kicad-20120119.bzr3256-1-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "kicad-20130725.bzr4024-2-omv2013.0.x86_64.rpm", 
+    "pkg": "kicad-20130725.bzr4024-2-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kicad-gost-20130707-2.1.3.i586.rpm", 
+    "pkg": "kicad-gost-20130707", 
+    "pkg_version": "2.1.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "kicad-20120119.bzr3256-3-rosa2012.1.x86_64.rpm", 
+    "pkg": "kicad-20120119.bzr3256-3-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "kicad-2013.06.11-4.rev4021.fc20.x86_64.rpm", 
+    "pkg": "kicad-201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kicad-20140120-2.1.10.x86_64.rpm", 
+    "pkg": "kicad-20140120", 
+    "pkg_version": "2.1.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "kicad-20120119.bzr3256-1-omv2013.0.x86_64.rpm", 
+    "pkg": "kicad-20120119.bzr3256-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "kicad-20110525.bzr3009-6-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "kicad-20110525.bzr3009-6-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Mageia Core Updates", 
+    "pkg_full_name": "kicad-20130725.bzr4024-2.1.mga4.x86_64.rpm", 
+    "pkg": "kicad-20130725.bzr4024", 
+    "pkg_version": "2.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kicad-20130707-2.1.3.i586.rpm", 
+    "pkg": "kicad-20130707", 
+    "pkg_version": "2.1.3", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kicad_0.20120526+bzr3261-1_i386.deb", 
+    "pkg": "kicad", 
+    "pkg_version": "0.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kicad-gost-20140120-2.1.10.x86_64.rpm", 
+    "pkg": "kicad-gost-20140120", 
+    "pkg_version": "2.1.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "kicad-20120119.bzr3256-4-rosa2014.1.x86_64.rpm", 
+    "pkg": "kicad-20120119.bzr3256-4-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "kicad-20120119.bzr3256-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "kicad-20120119.bzr3256-1-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "kicad-20130725.bzr4024-2-omv2013.0.x86_64.rpm", 
+    "pkg": "kicad-20130725.bzr4024-2-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kicad-gost-20130707-2.1.3.i586.rpm", 
+    "pkg": "kicad-gost-20130707", 
+    "pkg_version": "2.1.3", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "kicad-20120119.bzr3256-3-rosa2012.1.x86_64.rpm", 
+    "pkg": "kicad-20120119.bzr3256-3-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "kicad-2013.06.11-4.rev4021.fc20.x86_64.rpm", 
+    "pkg": "kicad-201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kicad-20140120-2.1.10.x86_64.rpm", 
+    "pkg": "kicad-20140120", 
+    "pkg_version": "2.1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "kicad-20120119.bzr3256-1-omv2013.0.x86_64.rpm", 
+    "pkg": "kicad-20120119.bzr3256-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "kicad-20110525.bzr3009-6-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "kicad-20110525.bzr3009-6-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Mageia Core Updates", 
+    "pkg_full_name": "kicad-20130725.bzr4024-2.1.mga4.x86_64.rpm", 
+    "pkg": "kicad-20130725.bzr4024", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kicad-20130707-2.1.3.i586.rpm", 
+    "pkg": "kicad-20130707", 
+    "pkg_version": "2.1.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "kicad_0.20140622+bzr4027-2_i386.deb", 
+    "pkg": "kicad", 
+    "pkg_version": "0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kicad-gost-20140120-2.1.10.x86_64.rpm", 
+    "pkg": "kicad-gost-20140120", 
+    "pkg_version": "2.1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "kicad-20120119.bzr3256-4-rosa2014.1.x86_64.rpm", 
+    "pkg": "kicad-20120119.bzr3256-4-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "kicad-20120119.bzr3256-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "kicad-20120119.bzr3256-1-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "kicad-20130725.bzr4024-2-omv2013.0.x86_64.rpm", 
+    "pkg": "kicad-20130725.bzr4024-2-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kicad-gost-20130707-2.1.3.i586.rpm", 
+    "pkg": "kicad-gost-20130707", 
+    "pkg_version": "2.1.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "kicad-20120119.bzr3256-3-rosa2012.1.x86_64.rpm", 
+    "pkg": "kicad-20120119.bzr3256-3-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "kicad-2013.06.11-4.rev4021.fc20.x86_64.rpm", 
+    "pkg": "kicad-201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kicad-20140120-2.1.10.x86_64.rpm", 
+    "pkg": "kicad-20140120", 
+    "pkg_version": "2.1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "kicad-20120119.bzr3256-1-omv2013.0.x86_64.rpm", 
+    "pkg": "kicad-20120119.bzr3256-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "kicad-20110525.bzr3009-6-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "kicad-20110525.bzr3009-6-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Mageia Core Updates", 
+    "pkg_full_name": "kicad-20130725.bzr4024-2.1.mga4.x86_64.rpm", 
+    "pkg": "kicad-20130725.bzr4024", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kicad-20130707-2.1.3.i586.rpm", 
+    "pkg": "kicad-20130707", 
+    "pkg_version": "2.1.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "kicad_0.20131208+bzr4024-1ubuntu2_i386.deb", 
+    "pkg": "kicad", 
+    "pkg_version": "0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kicad-gost-20140120-2.1.10.x86_64.rpm", 
+    "pkg": "kicad-gost-20140120", 
+    "pkg_version": "2.1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "kicad-20120119.bzr3256-4-rosa2014.1.x86_64.rpm", 
+    "pkg": "kicad-20120119.bzr3256-4-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "kicad-20120119.bzr3256-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "kicad-20120119.bzr3256-1-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "kicad-20130725.bzr4024-2-omv2013.0.x86_64.rpm", 
+    "pkg": "kicad-20130725.bzr4024-2-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kicad-gost-20130707-2.1.3.i586.rpm", 
+    "pkg": "kicad-gost-20130707", 
+    "pkg_version": "2.1.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

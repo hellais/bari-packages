@@ -1,0 +1,46 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "psi-plus-l10n-0.16.289-alt1.noarch.rpm", 
+    "pkg": "psi-plus-l10n", 
+    "pkg_version": "0.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "psi-plus-l10n_0.16.330-1_all.deb", 
+    "pkg": "psi-plus-l10n", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "psi-plus-l10n_0.16.330-1_all.deb", 
+    "pkg": "psi-plus-l10n", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "psi-plus-l10n_0.16.330-1~bpo70+1_all.deb", 
+    "pkg": "psi-plus-l10n", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "psi-plus-l10n_0.16.330-1_all.deb", 
+    "pkg": "psi-plus-l10n", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

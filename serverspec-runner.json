@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "serverspec-runner_0.2.4-2_all.deb", 
+    "pkg": "serverspec-runner", 
+    "pkg_version": "0.2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "tomcat7-7.0.59-1-any.pkg.tar.xz", 
+    "pkg": "tomcat7", 
+    "pkg_version": "7.0.5", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0 Devel", 
+    "pkg_full_name": "tomcat7-7.0.22-1.jpp6.noarch.rpm", 
+    "pkg": "tomcat7", 
+    "pkg_version": "7.0.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0 Devel", 
+    "pkg_full_name": "tomcat7-7.0.22-1.jpp6.noarch.rpm", 
+    "pkg": "tomcat7", 
+    "pkg_version": "7.0.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tomcat7_7.0.56-1_all.deb", 
+    "pkg": "tomcat7", 
+    "pkg_version": "7.0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tomcat7_7.0.56-1_all.deb", 
+    "pkg": "tomcat7", 
+    "pkg_version": "7.0.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "tomcat7_7.0.28-4+deb7u1_all.deb", 
+    "pkg": "tomcat7", 
+    "pkg_version": "7.0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0 Devel", 
+    "pkg_full_name": "tomcat7-7.0.22-1.jpp6.noarch.rpm", 
+    "pkg": "tomcat7", 
+    "pkg_version": "7.0.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0 Devel", 
+    "pkg_full_name": "tomcat7-7.0.22-1.jpp6.noarch.rpm", 
+    "pkg": "tomcat7", 
+    "pkg_version": "7.0.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0 Devel", 
+    "pkg_full_name": "tomcat7-7.0.22-1.jpp6.noarch.rpm", 
+    "pkg": "tomcat7", 
+    "pkg_version": "7.0.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "tomcat7_7.0.55-1_all.deb", 
+    "pkg": "tomcat7", 
+    "pkg_version": "7.0.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "tomcat7_7.0.52-1ubuntu0.1_all.deb", 
+    "pkg": "tomcat7", 
+    "pkg_version": "7.0.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

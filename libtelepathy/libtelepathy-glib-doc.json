@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtelepathy-glib-doc_0.24.1-1_all.deb", 
+    "pkg": "libtelepathy-glib-doc", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtelepathy-glib-doc_0.24.1-1_all.deb", 
+    "pkg": "libtelepathy-glib-doc", 
+    "pkg_version": "0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtelepathy-glib-doc_0.18.2-2_all.deb", 
+    "pkg": "libtelepathy-glib-doc", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libtelepathy-glib-doc_0.24.1-1_all.deb", 
+    "pkg": "libtelepathy-glib-doc", 
+    "pkg_version": "0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libtelepathy-glib-doc_0.22.1-1ubuntu2_all.deb", 
+    "pkg": "libtelepathy-glib-doc", 
+    "pkg_version": "0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

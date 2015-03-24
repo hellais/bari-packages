@@ -1,0 +1,225 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "bash-3.2.54-alt1.x86_64.rpm", 
+    "pkg": "bash", 
+    "pkg_version": "3.2.5", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Core", 
+    "pkg_full_name": "bash-4.3.033-1-x86_64.pkg.tar.xz", 
+    "pkg": "bash", 
+    "pkg_version": "4.3.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "bash-4.2.45-5.el7_0.4.x86_64.rpm", 
+    "pkg": "bash", 
+    "pkg_version": "4.2.4", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "bash-4.1.2-29.el6.x86_64.rpm", 
+    "pkg": "bash", 
+    "pkg_version": "4.1.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "bash-3.2-33.el5.1.x86_64.rpm", 
+    "pkg": "bash", 
+    "pkg_version": "3.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bash_4.3-12_i386.deb", 
+    "pkg": "bash", 
+    "pkg_version": "4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bash_4.3-11+b1_i386.deb", 
+    "pkg": "bash", 
+    "pkg_version": "4.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "WTF", 
+    "pkg_full_name": "bash_4.2+dfsg-0.1+deb7u3tarent1_i386.deb", 
+    "pkg": "bash", 
+    "pkg_version": "4.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "bash-4.3.33-3.fc23.x86_64.rpm", 
+    "pkg": "bash", 
+    "pkg_version": "4.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "bash-4.3.33-2.fc22.x86_64.rpm", 
+    "pkg": "bash", 
+    "pkg_version": "4.3.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "bash-4.3.33-1.fc21.x86_64.rpm", 
+    "pkg": "bash", 
+    "pkg_version": "4.3.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "bash-4.2.53-2.fc20.x86_64.rpm", 
+    "pkg": "bash", 
+    "pkg_version": "4.2.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "bash-4.3.33-2-omv2015.0.x86_64.rpm", 
+    "pkg": "bash", 
+    "pkg_version": "4.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "bash-4.3-8-omv2014.0.x86_64.rpm", 
+    "pkg": "bash", 
+    "pkg_version": "4.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "bash-4.2-19-omv2013.0.x86_64.rpm", 
+    "pkg": "bash", 
+    "pkg_version": "4.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "bash-4.3-80.1.x86_64.rpm", 
+    "pkg": "bash", 
+    "pkg_version": "4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "bash-4.2-75.3.1.x86_64.rpm", 
+    "pkg": "bash", 
+    "pkg_version": "4.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "bash-4.2-68.8.1.x86_64.rpm", 
+    "pkg": "bash", 
+    "pkg_version": "4.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "bash-4.3-7-rosa2014.1.x86_64.rpm", 
+    "pkg": "bash", 
+    "pkg_version": "4.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "bash-4.2-11.3-rosa2012.1.x86_64.rpm", 
+    "pkg": "bash", 
+    "pkg_version": "4.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackware Patches", 
+    "pkg_full_name": "bash-4.2.053-x86_64-1_slack14.1.txz", 
+    "pkg": "bash", 
+    "pkg_version": "4.2.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware Patches", 
+    "pkg_full_name": "bash-4.2.053-x86_64-1_slack14.0.txz", 
+    "pkg": "bash", 
+    "pkg_version": "4.2.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware Patches", 
+    "pkg_full_name": "bash-4.1.017-x86_64-1_slack13.37.txz", 
+    "pkg": "bash", 
+    "pkg_version": "4.1.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "bash_4.3-11ubuntu1_i386.deb", 
+    "pkg": "bash", 
+    "pkg_version": "4.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "bash_4.3-7ubuntu1.5_i386.deb", 
+    "pkg": "bash", 
+    "pkg_version": "4.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

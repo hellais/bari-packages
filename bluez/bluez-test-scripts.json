@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bluez-test-scripts_5.23-2_all.deb", 
+    "pkg": "bluez-test-scripts", 
+    "pkg_version": "5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libglobus-xio-gridftp-driver-dev_2.10-1_i386.deb", 
+    "pkg": "libglobus-xio-gridftp-driver-dev", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libglobus-xio-gridftp-driver-dev_2.8-3_i386.deb", 
+    "pkg": "libglobus-xio-gridftp-driver-dev", 
+    "pkg_version": "2.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libglobus-xio-gridftp-driver-dev_1.2-1_i386.deb", 
+    "pkg": "libglobus-xio-gridftp-driver-dev", 
+    "pkg_version": "1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

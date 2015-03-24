@@ -1,0 +1,119 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "racoon_0.8.2+20140711-2_i386.deb", 
+    "pkg": "racoon", 
+    "pkg_version": "0.8.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "racoon_0.8.2+20140711-2_i386.deb", 
+    "pkg": "racoon", 
+    "pkg_version": "0.8.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "racoon_0.8.0-14_i386.deb", 
+    "pkg": "racoon", 
+    "pkg_version": "0.8.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "racoon_0.8.0-14_i386.deb", 
+    "pkg": "racoon", 
+    "pkg_version": "0.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "ipsec-tools-0.8.2-64.3.x86_64.rpm", 
+    "pkg": "ipsec-tools", 
+    "pkg_version": "0.8.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "racoon_0.8.0-14_i386.deb", 
+    "pkg": "racoon", 
+    "pkg_version": "0.8.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "ipsec-tools-0.8.2-64.9.x86_64.rpm", 
+    "pkg": "ipsec-tools", 
+    "pkg_version": "0.8.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "racoon_0.8.0-14_i386.deb", 
+    "pkg": "racoon", 
+    "pkg_version": "0.8.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "ipsec-tools-0.7.3-29.5.2.i586.rpm", 
+    "pkg": "ipsec-tools", 
+    "pkg_version": "0.7.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "racoon_0.8.0-14ubuntu4_i386.deb", 
+    "pkg": "racoon", 
+    "pkg_version": "0.8.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "ipsec-tools-0.7.3-29.5.2.i586.rpm", 
+    "pkg": "ipsec-tools", 
+    "pkg_version": "0.7.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "racoon_0.8.0-14ubuntu4_i386.deb", 
+    "pkg": "racoon", 
+    "pkg_version": "0.8.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "ipsec-tools-0.7.3-29.5.2.i586.rpm", 
+    "pkg": "ipsec-tools", 
+    "pkg_version": "0.7.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

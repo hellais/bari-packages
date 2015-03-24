@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmpv-dev_0.8.3-1_i386.deb", 
+    "pkg": "libmpv-dev", 
+    "pkg_version": "0.8.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmpv-dev_0.6.2-2_i386.deb", 
+    "pkg": "libmpv-dev", 
+    "pkg_version": "0.6.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

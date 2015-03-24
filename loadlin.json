@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "loadlin_1.6f-3_i386.deb", 
+    "pkg": "loadlin", 
+    "pkg_version": "1.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "loadlin_1.6f-3_i386.deb", 
+    "pkg": "loadlin", 
+    "pkg_version": "1.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "loadlin_1.6f-1_i386.deb", 
+    "pkg": "loadlin", 
+    "pkg_version": "1.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "loadlin-1.6d-15.1.i586.rpm", 
+    "pkg": "loadlin", 
+    "pkg_version": "1.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "loadlin-1.6d-14.1.2.i586.rpm", 
+    "pkg": "loadlin", 
+    "pkg_version": "1.6", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "loadlin-1.6d-12.1.2.i586.rpm", 
+    "pkg": "loadlin", 
+    "pkg_version": "1.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "loadlin_1.6f-3_i386.deb", 
+    "pkg": "loadlin", 
+    "pkg_version": "1.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "loadlin_1.6f-3_i386.deb", 
+    "pkg": "loadlin", 
+    "pkg_version": "1.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

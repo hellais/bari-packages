@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "asterisk-moh-opsound-gsm-2.03-56.noarch.rpm", 
+    "pkg": "asterisk-moh-opsound-gsm", 
+    "pkg_version": "2.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "asterisk-moh-opsound-gsm-2.03-56.noarch.rpm", 
+    "pkg": "asterisk-moh-opsound-gsm", 
+    "pkg_version": "2.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "asterisk-moh-opsound-gsm-2.03-56.noarch.rpm", 
+    "pkg": "asterisk-moh-opsound-gsm", 
+    "pkg_version": "2.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "asterisk-moh-opsound-gsm_2.03-1_all.deb", 
+    "pkg": "asterisk-moh-opsound-gsm", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "asterisk-moh-opsound-gsm_2.03-1_all.deb", 
+    "pkg": "asterisk-moh-opsound-gsm", 
+    "pkg_version": "2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "asterisk-moh-opsound-gsm_2.03-1_all.deb", 
+    "pkg": "asterisk-moh-opsound-gsm", 
+    "pkg_version": "2.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "asterisk-moh-opsound-gsm-2.03-56.noarch.rpm", 
+    "pkg": "asterisk-moh-opsound-gsm", 
+    "pkg_version": "2.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "asterisk-moh-opsound-gsm-2.03-56.noarch.rpm", 
+    "pkg": "asterisk-moh-opsound-gsm", 
+    "pkg_version": "2.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "asterisk-moh-opsound-gsm_2.03-1_all.deb", 
+    "pkg": "asterisk-moh-opsound-gsm", 
+    "pkg_version": "2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "asterisk-moh-opsound-gsm_2.03-1_all.deb", 
+    "pkg": "asterisk-moh-opsound-gsm", 
+    "pkg_version": "2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

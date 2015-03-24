@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pypy-bs4_4.3.2-2_all.deb", 
+    "pkg": "pypy-bs4", 
+    "pkg_version": "4.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

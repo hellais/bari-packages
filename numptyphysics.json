@@ -1,0 +1,154 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "numptyphysics-0.3.159-alt1.x86_64.rpm", 
+    "pkg": "numptyphysics", 
+    "pkg_version": "0.3.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "numptyphysics-0.3-0.5.20080925svn.el6.x86_64.rpm", 
+    "pkg": "numptyphysics", 
+    "pkg_version": "0.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "numptyphysics-0.3-0.3.20080925svn.el5.x86_64.rpm", 
+    "pkg": "numptyphysics", 
+    "pkg_version": "0.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "numptyphysics_0.2+svn157-0.3_i386.deb", 
+    "pkg": "numptyphysics", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "numptyphysics_0.2+svn157-0.3_i386.deb", 
+    "pkg": "numptyphysics", 
+    "pkg_version": "0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "numptyphysics_0.2+svn156-1.1_i386.deb", 
+    "pkg": "numptyphysics", 
+    "pkg_version": "0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "numptyphysics-0.4-0.6.20140108git4837e29.fc23.x86_64.rpm", 
+    "pkg": "numptyphysics", 
+    "pkg_version": "0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "numptyphysics-0.4-0.6.20140108git4837e29.fc22.x86_64.rpm", 
+    "pkg": "numptyphysics", 
+    "pkg_version": "0.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "numptyphysics-0.4-0.6.20140108git4837e29.fc21.x86_64.rpm", 
+    "pkg": "numptyphysics", 
+    "pkg_version": "0.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "numptyphysics-0.4-0.4.20120726gita22cde2.fc20.x86_64.rpm", 
+    "pkg": "numptyphysics", 
+    "pkg_version": "0.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "numptyphysics-0.3.157-6.10.x86_64.rpm", 
+    "pkg": "numptyphysics", 
+    "pkg_version": "0.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "numptyphysics-0.3.157-6.1.x86_64.rpm", 
+    "pkg": "numptyphysics", 
+    "pkg_version": "0.3.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "numptyphysics-0.3.157-6.1.x86_64.rpm", 
+    "pkg": "numptyphysics", 
+    "pkg_version": "0.3.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "numptyphysics-0.3.3-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "numptyphysics", 
+    "pkg_version": "0.3.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "numptyphysics-0.3.3-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "numptyphysics", 
+    "pkg_version": "0.3.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "numptyphysics_0.2+svn157-0.3_i386.deb", 
+    "pkg": "numptyphysics", 
+    "pkg_version": "0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "numptyphysics_0.2+svn157-0.2_i386.deb", 
+    "pkg": "numptyphysics", 
+    "pkg_version": "0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

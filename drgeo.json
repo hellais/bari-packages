@@ -1,0 +1,163 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "drgeo-1.1.0-alt1_25.x86_64.rpm", 
+    "pkg": "drgeo", 
+    "pkg_version": "1.1.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "drgeo-1.1.0-11.el5.x86_64.rpm", 
+    "pkg": "drgeo", 
+    "pkg_version": "1.1.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "drgeo_1.1.0-10.2_i386.deb", 
+    "pkg": "drgeo", 
+    "pkg_version": "1.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "drgeo_1.1.0-10_i386.deb", 
+    "pkg": "drgeo", 
+    "pkg_version": "1.1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "drgeo-1.1.0-28.fc22.x86_64.rpm", 
+    "pkg": "drgeo", 
+    "pkg_version": "1.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "drgeo-1.1.0-28.fc22.x86_64.rpm", 
+    "pkg": "drgeo", 
+    "pkg_version": "1.1.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "drgeo-1.1.0-28.fc21.x86_64.rpm", 
+    "pkg": "drgeo", 
+    "pkg_version": "1.1.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "drgeo-1.1.0-25.fc20.x86_64.rpm", 
+    "pkg": "drgeo", 
+    "pkg_version": "1.1.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "drgeo-12.10a-1.146.x86_64.rpm", 
+    "pkg": "drgeo-1", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "drgeo-1.1.0-4.mga5.x86_64.rpm", 
+    "pkg": "drgeo", 
+    "pkg_version": "1.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "drgeo-12.10a-1.1.x86_64.rpm", 
+    "pkg": "drgeo-1", 
+    "pkg_version": "2.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "drgeo-1.1.0-4.mga5.x86_64.rpm", 
+    "pkg": "drgeo", 
+    "pkg_version": "1.1.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "drgeo-12.10a-1.5.x86_64.rpm", 
+    "pkg": "drgeo-1", 
+    "pkg_version": "2.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "drgeo-1.1.0-4.mga5.x86_64.rpm", 
+    "pkg": "drgeo", 
+    "pkg_version": "1.1.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "drgeo-12.10a-1.5.x86_64.rpm", 
+    "pkg": "drgeo-1", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "drgeo_1.1.0-10.2_i386.deb", 
+    "pkg": "drgeo", 
+    "pkg_version": "1.1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "drgeo-12.10a-1.5.x86_64.rpm", 
+    "pkg": "drgeo-1", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "drgeo_1.1.0-10.1ubuntu1_i386.deb", 
+    "pkg": "drgeo", 
+    "pkg_version": "1.1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

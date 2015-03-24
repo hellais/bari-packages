@@ -1,0 +1,171 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gpac-0.5.0-alt1.x86_64.rpm", 
+    "pkg": "gpac", 
+    "pkg_version": "0.5.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gpac-0.5.0-alt1.x86_64.rpm", 
+    "pkg": "gpac", 
+    "pkg_version": "0.5.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "gpac-0.5.0-8.20130914svn.sdl7.x86_64.rpm", 
+    "pkg": "gpac", 
+    "pkg_version": "0.5.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free Updates", 
+    "pkg_full_name": "gpac-0.5.0-1.el6.x86_64.rpm", 
+    "pkg": "gpac", 
+    "pkg_version": "0.5.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free Updates", 
+    "pkg_full_name": "gpac-0.4.5-0.7.20080217cvs.el5.x86_64.rpm", 
+    "pkg": "gpac", 
+    "pkg_version": "0.4.5", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "gpac_0.5.2-dmo2_i386.deb", 
+    "pkg": "gpac", 
+    "pkg_version": "0.5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "gpac_0.5.2-dmo2_i386.deb", 
+    "pkg": "gpac", 
+    "pkg_version": "0.5.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "gpac_0.5.0-dmo3_i386.deb", 
+    "pkg": "gpac", 
+    "pkg_version": "0.5.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "gpac-0.5.1-14.20141206svn.fc21.x86_64.rpm", 
+    "pkg": "gpac", 
+    "pkg_version": "0.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "gpac-0.5.1-14.20141206svn.fc21.x86_64.rpm", 
+    "pkg": "gpac", 
+    "pkg_version": "0.5.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "gpac-0.5.0-8.20130914svn.fc20.x86_64.rpm", 
+    "pkg": "gpac", 
+    "pkg_version": "0.5.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Restricted", 
+    "pkg_full_name": "gpac-0.5.0-0.svn5277.2-omv2015.0.x86_64.rpm", 
+    "pkg": "gpac", 
+    "pkg_version": "0.5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "gpac-0.5.2-1.2.x86_64.rpm", 
+    "pkg": "gpac", 
+    "pkg_version": "0.5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "gpac-0.5.2-1.8.x86_64.rpm", 
+    "pkg": "gpac", 
+    "pkg_version": "0.5.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "gpac-0.5.2-1.8.x86_64.rpm", 
+    "pkg": "gpac", 
+    "pkg_version": "0.5.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "gpac-0.5.2-1.8.x86_64.rpm", 
+    "pkg": "gpac", 
+    "pkg_version": "0.5.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "gpac-0.4.5-i486-5sl.txz", 
+    "pkg": "gpac", 
+    "pkg_version": "0.4.5", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gpac_0.5.0+svn5194~dfsg1-3ubuntu3_i386.deb", 
+    "pkg": "gpac", 
+    "pkg_version": "0.5.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gpac_0.5.0+svn4288~dfsg1-4ubuntu1_i386.deb", 
+    "pkg": "gpac", 
+    "pkg_version": "0.5.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

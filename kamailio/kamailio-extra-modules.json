@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kamailio-extra-modules_4.2.0-2_i386.deb", 
+    "pkg": "kamailio-extra-modules", 
+    "pkg_version": "4.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

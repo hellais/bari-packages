@@ -1,0 +1,28 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "udev-discover-0.2.3-alt1.noarch.rpm", 
+    "pkg": "udev-discover", 
+    "pkg_version": "0.2.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "udev-discover_0.2.2-1_i386.deb", 
+    "pkg": "udev-discover", 
+    "pkg_version": "0.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "udev-discover_0.2.2-1_i386.deb", 
+    "pkg": "udev-discover", 
+    "pkg_version": "0.2.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

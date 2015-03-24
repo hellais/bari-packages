@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "charybdis_3.4.2-4+b1_i386.deb", 
+    "pkg": "charybdis", 
+    "pkg_version": "3.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "charybdis_3.4.2-4+b1_i386.deb", 
+    "pkg": "charybdis", 
+    "pkg_version": "3.4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "charybdis_3.3.0-7.1_i386.deb", 
+    "pkg": "charybdis", 
+    "pkg_version": "3.3.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "j.eng", 
+    "pkg_full_name": "charybdis-3.4.2-3.19.x86_64.rpm", 
+    "pkg": "charybdis", 
+    "pkg_version": "3.4.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "charybdis_3.4.2-3ubuntu1_i386.deb", 
+    "pkg": "charybdis", 
+    "pkg_version": "3.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "charybdis_3.4.2-3_i386.deb", 
+    "pkg": "charybdis", 
+    "pkg_version": "3.4.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,496 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "jadetex-3.13-alt4.noarch.rpm", 
+    "pkg": "jadetex", 
+    "pkg_version": "3.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "jadetex-3.13-alt4.noarch.rpm", 
+    "pkg": "jadetex", 
+    "pkg_version": "3.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "texlive-jadetex-svn23409.3.13-32.el7.noarch.rpm", 
+    "pkg": "texlive-jadetex-svn2340", 
+    "pkg_version": "9.3.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "jadetex-3.13-8.el6.noarch.rpm", 
+    "pkg": "jadetex", 
+    "pkg_version": "3.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "texlive-jadetex-svn23409.3.13-32.el7.noarch.rpm", 
+    "pkg": "texlive-jadetex-svn2340", 
+    "pkg_version": "9.3.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "jadetex-3.12-15.el5.noarch.rpm", 
+    "pkg": "jadetex", 
+    "pkg_version": "3.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "texlive-jadetex-svn23409.3.13-32.el7.noarch.rpm", 
+    "pkg": "texlive-jadetex-svn2340", 
+    "pkg_version": "9.3.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jadetex_3.13-14_all.deb", 
+    "pkg": "jadetex", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "texlive-jadetex-svn23409.3.13-32.el7.noarch.rpm", 
+    "pkg": "texlive-jadetex-svn2340", 
+    "pkg_version": "9.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jadetex_3.13-14_all.deb", 
+    "pkg": "jadetex", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "texlive-jadetex-svn23409.3.13-32.el7.noarch.rpm", 
+    "pkg": "texlive-jadetex-svn2340", 
+    "pkg_version": "9.3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jadetex_3.13-14_all.deb", 
+    "pkg": "jadetex", 
+    "pkg_version": "3.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "texlive-jadetex-svn23409.3.13-32.el7.noarch.rpm", 
+    "pkg": "texlive-jadetex-svn2340", 
+    "pkg_version": "9.3.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jadetex_3.13-14_all.deb", 
+    "pkg": "jadetex", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "texlive-jadetex-svn23409.3.13-32.el7.noarch.rpm", 
+    "pkg": "texlive-jadetex-svn2340", 
+    "pkg_version": "9.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "texlive-jadetex-svn31988.3.13-7.fc23.noarch.rpm", 
+    "pkg": "texlive-jadetex-svn3198", 
+    "pkg_version": "8.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jadetex_3.13-14_all.deb", 
+    "pkg": "jadetex", 
+    "pkg_version": "3.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "texlive-jadetex-svn23409.3.13-32.el7.noarch.rpm", 
+    "pkg": "texlive-jadetex-svn2340", 
+    "pkg_version": "9.3.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "texlive-jadetex-svn31988.3.13-6.fc22.noarch.rpm", 
+    "pkg": "texlive-jadetex-svn3198", 
+    "pkg_version": "8.3.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jadetex_3.13-14_all.deb", 
+    "pkg": "jadetex", 
+    "pkg_version": "3.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "texlive-jadetex-svn23409.3.13-32.el7.noarch.rpm", 
+    "pkg": "texlive-jadetex-svn2340", 
+    "pkg_version": "9.3.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "texlive-jadetex-svn31988.3.13-1.1.fc21.noarch.rpm", 
+    "pkg": "texlive-jadetex-svn3198", 
+    "pkg_version": "8.3.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jadetex_3.13-14_all.deb", 
+    "pkg": "jadetex", 
+    "pkg_version": "3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "texlive-jadetex-svn23409.3.13-32.el7.noarch.rpm", 
+    "pkg": "texlive-jadetex-svn2340", 
+    "pkg_version": "9.3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "texlive-jadetex-svn31988.3.13-6.fc20.noarch.rpm", 
+    "pkg": "texlive-jadetex-svn3198", 
+    "pkg_version": "8.3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "jadetex-3.13-10.mga4.noarch.rpm", 
+    "pkg": "jadetex", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "texlive-jadetex-3.13-13-omv2015.0.noarch.rpm", 
+    "pkg": "texlive-jadetex", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "texlive-jadetex-svn23409.3.13-32.el7.noarch.rpm", 
+    "pkg": "texlive-jadetex-svn2340", 
+    "pkg_version": "9.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "texlive-jadetex-svn31988.3.13-6.fc20.noarch.rpm", 
+    "pkg": "texlive-jadetex-svn3198", 
+    "pkg_version": "8.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "jadetex-3.13-10.mga4.noarch.rpm", 
+    "pkg": "jadetex", 
+    "pkg_version": "3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "texlive-jadetex-3.13-5-omv2014.0.noarch.rpm", 
+    "pkg": "texlive-jadetex", 
+    "pkg_version": "3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "texlive-jadetex-svn23409.3.13-32.el7.noarch.rpm", 
+    "pkg": "texlive-jadetex-svn2340", 
+    "pkg_version": "9.3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "texlive-jadetex-svn31988.3.13-6.fc20.noarch.rpm", 
+    "pkg": "texlive-jadetex-svn3198", 
+    "pkg_version": "8.3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "jadetex-3.13-10.mga4.noarch.rpm", 
+    "pkg": "jadetex", 
+    "pkg_version": "3.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "texlive-jadetex-3.13-4-omv2013.0.noarch.rpm", 
+    "pkg": "texlive-jadetex", 
+    "pkg_version": "3.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "texlive-jadetex-svn23409.3.13-32.el7.noarch.rpm", 
+    "pkg": "texlive-jadetex-svn2340", 
+    "pkg_version": "9.3.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "texlive-jadetex-svn31988.3.13-6.fc20.noarch.rpm", 
+    "pkg": "texlive-jadetex-svn3198", 
+    "pkg_version": "8.3.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "jadetex-3.13-10.mga4.noarch.rpm", 
+    "pkg": "jadetex", 
+    "pkg_version": "3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "texlive-jadetex-3.13-6-rosa2014.1.noarch.rpm", 
+    "pkg": "texlive-jadetex", 
+    "pkg_version": "3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "texlive-jadetex-svn23409.3.13-32.el7.noarch.rpm", 
+    "pkg": "texlive-jadetex-svn2340", 
+    "pkg_version": "9.3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "texlive-jadetex-svn31988.3.13-6.fc20.noarch.rpm", 
+    "pkg": "texlive-jadetex-svn3198", 
+    "pkg_version": "8.3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "jadetex-3.13-10.mga4.noarch.rpm", 
+    "pkg": "jadetex", 
+    "pkg_version": "3.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "texlive-jadetex-3.13-4-rosa2012.1.noarch.rpm", 
+    "pkg": "texlive-jadetex", 
+    "pkg_version": "3.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "texlive-jadetex-svn23409.3.13-32.el7.noarch.rpm", 
+    "pkg": "texlive-jadetex-svn2340", 
+    "pkg_version": "9.3.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "texlive-jadetex-svn31988.3.13-6.fc20.noarch.rpm", 
+    "pkg": "texlive-jadetex-svn3198", 
+    "pkg_version": "8.3.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "jadetex_3.13-14_all.deb", 
+    "pkg": "jadetex", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "texlive-20110705-6-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "texlive-20110705-6-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "texlive-jadetex-3.13-4-rosa2012.1.noarch.rpm", 
+    "pkg": "texlive-jadetex", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "texlive-jadetex-svn23409.3.13-32.el7.noarch.rpm", 
+    "pkg": "texlive-jadetex-svn2340", 
+    "pkg_version": "9.3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "texlive-jadetex-svn31988.3.13-6.fc20.noarch.rpm", 
+    "pkg": "texlive-jadetex-svn3198", 
+    "pkg_version": "8.3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "jadetex_3.13-14_all.deb", 
+    "pkg": "jadetex", 
+    "pkg_version": "3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "texlive-20110705-6-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "texlive-20110705-6-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "texlive-jadetex-3.13-4-rosa2012.1.noarch.rpm", 
+    "pkg": "texlive-jadetex", 
+    "pkg_version": "3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "texlive-jadetex-svn23409.3.13-32.el7.noarch.rpm", 
+    "pkg": "texlive-jadetex-svn2340", 
+    "pkg_version": "9.3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "texlive-jadetex-svn31988.3.13-6.fc20.noarch.rpm", 
+    "pkg": "texlive-jadetex-svn3198", 
+    "pkg_version": "8.3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

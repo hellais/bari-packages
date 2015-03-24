@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "lua-term-0.03-3.el7.x86_64.rpm", 
+    "pkg": "lua-term", 
+    "pkg_version": "0.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "lua-term-0.03-3.el6.x86_64.rpm", 
+    "pkg": "lua-term", 
+    "pkg_version": "0.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lua-term_0.03.20140426.g1ba9a8e-1_i386.deb", 
+    "pkg": "lua-term", 
+    "pkg_version": "0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lua-term_0.03.20140426.g1ba9a8e-1_i386.deb", 
+    "pkg": "lua-term", 
+    "pkg_version": "0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lua-term-0.03-6.fc22.x86_64.rpm", 
+    "pkg": "lua-term", 
+    "pkg_version": "0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lua-term-0.03-6.fc22.x86_64.rpm", 
+    "pkg": "lua-term", 
+    "pkg_version": "0.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lua-term-0.03-5.fc21.x86_64.rpm", 
+    "pkg": "lua-term", 
+    "pkg_version": "0.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "lua-term-0.03-3.fc20.x86_64.rpm", 
+    "pkg": "lua-term", 
+    "pkg_version": "0.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

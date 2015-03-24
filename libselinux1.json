@@ -1,0 +1,119 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libselinux1_2.3-2_i386.deb", 
+    "pkg": "libselinux1", 
+    "pkg_version": "2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libselinux1_2.3-2_i386.deb", 
+    "pkg": "libselinux1", 
+    "pkg_version": "2.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libselinux1_2.1.9-5_i386.deb", 
+    "pkg": "libselinux1", 
+    "pkg_version": "2.1.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libselinux1-2.0.78-16-omv2015.0.i586.rpm", 
+    "pkg": "libselinux1", 
+    "pkg_version": "2.0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libselinux1-2.0.78-7-omv2014.0.i586.rpm", 
+    "pkg": "libselinux1", 
+    "pkg_version": "2.0.7", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libselinux1-2.0.78-6-omv2013.0.i586.rpm", 
+    "pkg": "libselinux1", 
+    "pkg_version": "2.0.7", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libselinux1-2.3-4.3.x86_64.rpm", 
+    "pkg": "libselinux1", 
+    "pkg_version": "2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libselinux1-2.3-2.2.5.x86_64.rpm", 
+    "pkg": "libselinux1", 
+    "pkg_version": "2.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libselinux1-2.1.13-4.1.21.i586.rpm", 
+    "pkg": "libselinux1", 
+    "pkg_version": "2.1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libselinux1-2.0.78-11-rosa2014.1.i586.rpm", 
+    "pkg": "libselinux1", 
+    "pkg_version": "2.0.7", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libselinux1-2.0.78-6-rosa2012.1.i586.rpm", 
+    "pkg": "libselinux1", 
+    "pkg_version": "2.0.7", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libselinux1_2.3-1build1_i386.deb", 
+    "pkg": "libselinux1", 
+    "pkg_version": "2.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "libselinux1_2.2.2-1ubuntu0.1_i386.deb", 
+    "pkg": "libselinux1", 
+    "pkg_version": "2.2.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

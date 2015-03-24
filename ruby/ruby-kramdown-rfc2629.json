@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-kramdown-rfc2629_1.0.17-1_all.deb", 
+    "pkg": "ruby-kramdown-rfc2629", 
+    "pkg_version": "1.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-kramdown-rfc2629_1.0.17-1_all.deb", 
+    "pkg": "ruby-kramdown-rfc2629", 
+    "pkg_version": "1.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

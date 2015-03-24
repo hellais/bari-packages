@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-django-common_1.7.7-1_all.deb", 
+    "pkg": "python-django-common", 
+    "pkg_version": "1.7.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-django-common_1.7.6-1_all.deb", 
+    "pkg": "python-django-common", 
+    "pkg_version": "1.7.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "python-django-common_1.7.1-1~bpo70+1_all.deb", 
+    "pkg": "python-django-common", 
+    "pkg_version": "1.7.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

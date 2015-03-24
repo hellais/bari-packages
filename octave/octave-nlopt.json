@@ -1,0 +1,164 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "octave-NLopt-2.4.2-2.el6.x86_64.rpm", 
+    "pkg": "octave-NLopt", 
+    "pkg_version": "2.4.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "octave-NLopt-2.4.2-2.el5.x86_64.rpm", 
+    "pkg": "octave-NLopt", 
+    "pkg_version": "2.4.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "octave-NLopt-2.4.2-2.el5.x86_64.rpm", 
+    "pkg": "octave-NLopt", 
+    "pkg_version": "2.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "octave-nlopt_2.4.1+dfsg-1~nd+1_i386.deb", 
+    "pkg": "octave-nlopt", 
+    "pkg_version": "2.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "octave-NLopt-2.4.2-2.el5.x86_64.rpm", 
+    "pkg": "octave-NLopt", 
+    "pkg_version": "2.4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "octave-nlopt_2.4.1+dfsg-1~nd80+1_i386.deb", 
+    "pkg": "octave-nlopt", 
+    "pkg_version": "2.4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "octave-NLopt-2.4.2-2.el5.x86_64.rpm", 
+    "pkg": "octave-NLopt", 
+    "pkg_version": "2.4.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "octave-nlopt_2.4.1+dfsg-1~nd70+1_i386.deb", 
+    "pkg": "octave-nlopt", 
+    "pkg_version": "2.4.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "octave-NLopt-2.4.2-3.fc22.x86_64.rpm", 
+    "pkg": "octave-NLopt", 
+    "pkg_version": "2.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "octave-nlopt_2.4.1+dfsg-1~nd70+1_i386.deb", 
+    "pkg": "octave-nlopt", 
+    "pkg_version": "2.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "octave-NLopt-2.4.2-3.fc22.x86_64.rpm", 
+    "pkg": "octave-NLopt", 
+    "pkg_version": "2.4.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "octave-nlopt_2.4.1+dfsg-1~nd70+1_i386.deb", 
+    "pkg": "octave-nlopt", 
+    "pkg_version": "2.4.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "octave-NLopt-2.4.2-3.fc21.x86_64.rpm", 
+    "pkg": "octave-NLopt", 
+    "pkg_version": "2.4.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "octave-nlopt-2.4.2-5.1.x86_64.rpm", 
+    "pkg": "octave-nlopt", 
+    "pkg_version": "2.4.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "octave-NLopt-2.4.2-2.fc20.x86_64.rpm", 
+    "pkg": "octave-NLopt", 
+    "pkg_version": "2.4.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "octave-nlopt-2.4.2-5.1.x86_64.rpm", 
+    "pkg": "octave-nlopt", 
+    "pkg_version": "2.4.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "octave-NLopt-2.4.2-2.fc20.x86_64.rpm", 
+    "pkg": "octave-NLopt", 
+    "pkg_version": "2.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "octave-nlopt_2.4.2+dfsg-1_i386.deb", 
+    "pkg": "octave-nlopt", 
+    "pkg_version": "2.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

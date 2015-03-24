@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "virtualjaguar_2.1.2-2_i386.deb", 
+    "pkg": "virtualjaguar", 
+    "pkg_version": "2.1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "virtualjaguar_2.1.2-1_i386.deb", 
+    "pkg": "virtualjaguar", 
+    "pkg_version": "2.1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Emulators", 
+    "pkg_full_name": "virtualjaguar-r299-1.428.x86_64.rpm", 
+    "pkg": "virtualjaguar-r299", 
+    "pkg_version": "1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "virtualjaguar-2.0.2-4.mga4.x86_64.rpm", 
+    "pkg": "virtualjaguar", 
+    "pkg_version": "2.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Emulators", 
+    "pkg_full_name": "virtualjaguar-r299-1.428.x86_64.rpm", 
+    "pkg": "virtualjaguar-r299", 
+    "pkg_version": "1.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "virtualjaguar-2.1.2-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "virtualjaguar", 
+    "pkg_version": "2.1.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Emulators", 
+    "pkg_full_name": "virtualjaguar-r299-1.428.x86_64.rpm", 
+    "pkg": "virtualjaguar-r299", 
+    "pkg_version": "1.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "virtualjaguar-2.1.0-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "virtualjaguar", 
+    "pkg_version": "2.1.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

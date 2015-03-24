@@ -1,0 +1,99 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "wmii-3.9.2-alt4.x86_64.rpm", 
+    "pkg": "wmii", 
+    "pkg_version": "3.9.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "wmii-3.9.2-4-x86_64.pkg.tar.xz", 
+    "pkg": "wmii", 
+    "pkg_version": "3.9.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "wmii_3.10~20120413+hg2813-8_i386.deb", 
+    "pkg": "wmii", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "wmii_3.10~20120413+hg2813-8_i386.deb", 
+    "pkg": "wmii", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "wmii_3.9.2+debian-4_i386.deb", 
+    "pkg": "wmii", 
+    "pkg_version": "3.9.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "wmii-3.10-12.1.x86_64.rpm", 
+    "pkg": "wmii", 
+    "pkg_version": "3.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "wmii-3.10-12.1.x86_64.rpm", 
+    "pkg": "wmii", 
+    "pkg_version": "3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "wmii-3.10-0.b1.2-rosa2014.1.x86_64.rpm", 
+    "pkg": "wmii", 
+    "pkg_version": "3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "wmii-3.10-0.b1.2-rosa2012.1.x86_64.rpm", 
+    "pkg": "wmii", 
+    "pkg_version": "3.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "wmii_3.10~20120413+hg2813-6ubuntu1_i386.deb", 
+    "pkg": "wmii", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "wmii_3.10~20120413+hg2813-6ubuntu1_i386.deb", 
+    "pkg": "wmii", 
+    "pkg_version": "3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "gnuhtml2latex-0.4-3-any.pkg.tar.xz", 
+    "pkg": "gnuhtml2latex", 
+    "pkg_version": "0.4", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnuhtml2latex_0.4-2_all.deb", 
+    "pkg": "gnuhtml2latex", 
+    "pkg_version": "0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnuhtml2latex_0.4-2_all.deb", 
+    "pkg": "gnuhtml2latex", 
+    "pkg_version": "0.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnuhtml2latex_0.4-2_all.deb", 
+    "pkg": "gnuhtml2latex", 
+    "pkg_version": "0.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnuhtml2latex_0.4-2_all.deb", 
+    "pkg": "gnuhtml2latex", 
+    "pkg_version": "0.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnuhtml2latex_0.4-2_all.deb", 
+    "pkg": "gnuhtml2latex", 
+    "pkg_version": "0.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

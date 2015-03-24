@@ -1,0 +1,135 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "grace-5.1.25-alt1.x86_64.rpm", 
+    "pkg": "grace", 
+    "pkg_version": "5.1.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "grace-5.1.25-1-x86_64.pkg.tar.xz", 
+    "pkg": "grace", 
+    "pkg_version": "5.1.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "grace-5.1.22-8.puias6.x86_64.rpm", 
+    "pkg": "grace", 
+    "pkg_version": "5.1.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Scientific Linux Cyrillic Edition", 
+    "pkg_full_name": "grace-5.1.21-1a.1.Nau5x.i386.rpm", 
+    "pkg": "grace", 
+    "pkg_version": "5.1.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "grace_5.1.25-1_i386.deb", 
+    "pkg": "grace", 
+    "pkg_version": "5.1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "grace_5.1.24-3_i386.deb", 
+    "pkg": "grace", 
+    "pkg_version": "5.1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "grace_5.1.22-13_i386.deb", 
+    "pkg": "grace", 
+    "pkg_version": "5.1.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "grace-5.1.25-1.fc23.x86_64.rpm", 
+    "pkg": "grace", 
+    "pkg_version": "5.1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "grace-5.1.23-8.fc22.x86_64.rpm", 
+    "pkg": "grace", 
+    "pkg_version": "5.1.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "grace-5.1.25-1.fc21.x86_64.rpm", 
+    "pkg": "grace", 
+    "pkg_version": "5.1.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "grace-5.1.25-1.fc20.x86_64.rpm", 
+    "pkg": "grace", 
+    "pkg_version": "5.1.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "grace-5.1.22-8-rosa2014.1.x86_64.rpm", 
+    "pkg": "grace", 
+    "pkg_version": "5.1.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "grace-5.1.22-6-rosa2012.1.x86_64.rpm", 
+    "pkg": "grace", 
+    "pkg_version": "5.1.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "grace_5.1.24-2_i386.deb", 
+    "pkg": "grace", 
+    "pkg_version": "5.1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "grace_5.1.23-6_i386.deb", 
+    "pkg": "grace", 
+    "pkg_version": "5.1.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

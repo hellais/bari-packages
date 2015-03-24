@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "elog_2.9.2+2014.05.11git44800a7-2_i386.deb", 
+    "pkg": "elog", 
+    "pkg_version": "2.9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

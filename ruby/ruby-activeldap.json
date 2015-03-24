@@ -1,0 +1,64 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-activeldap-1.2.2-alt1.1.noarch.rpm", 
+    "pkg": "ruby-activeldap", 
+    "pkg_version": "1.2.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-activeldap_4.0.3-2_all.deb", 
+    "pkg": "ruby-activeldap", 
+    "pkg_version": "4.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-activeldap_4.0.3-2_all.deb", 
+    "pkg": "ruby-activeldap", 
+    "pkg_version": "4.0.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-activeldap_1.2.4-3_all.deb", 
+    "pkg": "ruby-activeldap", 
+    "pkg_version": "1.2.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "ruby-activeldap-0.7.2-7-rosa2012.1.noarch.rpm", 
+    "pkg": "ruby-activeldap", 
+    "pkg_version": "0.7.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ruby-activeldap_4.0.2-1build1_all.deb", 
+    "pkg": "ruby-activeldap", 
+    "pkg_version": "4.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ruby-activeldap_4.0.2-1_all.deb", 
+    "pkg": "ruby-activeldap", 
+    "pkg_version": "4.0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

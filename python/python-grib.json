@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-grib_1.9.9-2_i386.deb", 
+    "pkg": "python-grib", 
+    "pkg_version": "1.9.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-grib_1.9.9-2_i386.deb", 
+    "pkg": "python-grib", 
+    "pkg_version": "1.9.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-grib_1.9.3-1_i386.deb", 
+    "pkg": "python-grib", 
+    "pkg_version": "1.9.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-grib_1.9.8-1build2_i386.deb", 
+    "pkg": "python-grib", 
+    "pkg_version": "1.9.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

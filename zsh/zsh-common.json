@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "zsh-common_5.0.7-5_all.deb", 
+    "pkg": "zsh-common", 
+    "pkg_version": "5.0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "zsh-common_5.0.7-5_all.deb", 
+    "pkg": "zsh-common", 
+    "pkg_version": "5.0.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "zsh-common_5.0.5-4ubuntu1_all.deb", 
+    "pkg": "zsh-common", 
+    "pkg_version": "5.0.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

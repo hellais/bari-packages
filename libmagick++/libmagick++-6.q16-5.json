@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmagick++-6.q16-5_6.8.9.9-5_i386.deb", 
+    "pkg": "libmagick++-6.q16-5", 
+    "pkg_version": "6.8.9.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

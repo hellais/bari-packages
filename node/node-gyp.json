@@ -1,0 +1,100 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "node-gyp-0.10.6-alt4_2.noarch.rpm", 
+    "pkg": "node-gyp", 
+    "pkg_version": "0.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "node-gyp-0.10.6-2.el7.noarch.rpm", 
+    "pkg": "node-gyp", 
+    "pkg_version": "0.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "node-gyp-0.10.6-2.el6.noarch.rpm", 
+    "pkg": "node-gyp", 
+    "pkg_version": "0.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "node-gyp_0.12.2+ds-1_all.deb", 
+    "pkg": "node-gyp", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "node-gyp_0.12.2+ds-1_all.deb", 
+    "pkg": "node-gyp", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "node-gyp-0.10.6-3.fc21.noarch.rpm", 
+    "pkg": "node-gyp", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "node-gyp-0.10.6-3.fc21.noarch.rpm", 
+    "pkg": "node-gyp", 
+    "pkg_version": "0.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "node-gyp-0.10.6-3.fc21.noarch.rpm", 
+    "pkg": "node-gyp", 
+    "pkg_version": "0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "node-gyp-0.10.6-2.fc20.noarch.rpm", 
+    "pkg": "node-gyp", 
+    "pkg_version": "0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "node-gyp-0.10.6-3-rosa2014.1.noarch.rpm", 
+    "pkg": "node-gyp", 
+    "pkg_version": "0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "node-gyp_0.12.2+ds-1_all.deb", 
+    "pkg": "node-gyp", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

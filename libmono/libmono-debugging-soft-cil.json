@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmono-debugging-soft-cil_0+20131201.3459502-1_all.deb", 
+    "pkg": "libmono-debugging-soft-cil_0+2013120", 
+    "pkg_version": "1.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmono-debugging-soft-cil_0+20131201.3459502-1_all.deb", 
+    "pkg": "libmono-debugging-soft-cil_0+2013120", 
+    "pkg_version": "1.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libmono-debugging-soft-cil_0+20131201.3459502-1_all.deb", 
+    "pkg": "libmono-debugging-soft-cil_0+2013120", 
+    "pkg_version": "1.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-reportlab-accel_3.1.8-3_i386.deb", 
+    "pkg": "python-reportlab-accel", 
+    "pkg_version": "3.1.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-reportlab-accel_3.1.8-3_i386.deb", 
+    "pkg": "python-reportlab-accel", 
+    "pkg_version": "3.1.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-reportlab-accel_2.5-1.1_i386.deb", 
+    "pkg": "python-reportlab-accel", 
+    "pkg_version": "2.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python-reportlab-accel_3.1.8-3_i386.deb", 
+    "pkg": "python-reportlab-accel", 
+    "pkg_version": "3.1.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python-reportlab-accel_3.0-1build1_i386.deb", 
+    "pkg": "python-reportlab-accel", 
+    "pkg_version": "3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

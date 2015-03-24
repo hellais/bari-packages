@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "relion-bin+mpi_1.3+dfsg-2_i386.deb", 
+    "pkg": "relion-bin+mpi", 
+    "pkg_version": "1.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

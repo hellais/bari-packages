@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libm4ri-0.0.20140914_20140914-2_i386.deb", 
+    "pkg": "libm4ri", 
+    "pkg_version": "0.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

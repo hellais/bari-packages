@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtercpp0_0.6.2+svn46-1_i386.deb", 
+    "pkg": "libtercpp0", 
+    "pkg_version": "0.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtercpp0_0.6.2+svn46-1_i386.deb", 
+    "pkg": "libtercpp0", 
+    "pkg_version": "0.6.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libtercpp0_0.6.2+svn46-1_i386.deb", 
+    "pkg": "libtercpp0", 
+    "pkg_version": "0.6.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

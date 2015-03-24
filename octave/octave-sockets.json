@@ -1,0 +1,109 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "octave-sockets-1.0.8-alt2.x86_64.rpm", 
+    "pkg": "octave-sockets", 
+    "pkg_version": "1.0.8", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "octave-sockets-1.0.8-alt2.x86_64.rpm", 
+    "pkg": "octave-sockets", 
+    "pkg_version": "1.0.8", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "octave-sockets-1.0.8-alt2.x86_64.rpm", 
+    "pkg": "octave-sockets", 
+    "pkg_version": "1.0.8", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS Server", 
+    "pkg_full_name": "octave-forge-20071212-6.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "octave-forge-20071212", 
+    "pkg_version": "6.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "octave-sockets_1.0.8-2_i386.deb", 
+    "pkg": "octave-sockets", 
+    "pkg_version": "1.0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "PUIAS Server", 
+    "pkg_full_name": "octave-forge-20071212-6.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "octave-forge-20071212", 
+    "pkg_version": "6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "octave-sockets_1.0.8-2_i386.deb", 
+    "pkg": "octave-sockets", 
+    "pkg_version": "1.0.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "PUIAS Server", 
+    "pkg_full_name": "octave-forge-20071212-6.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "octave-forge-20071212", 
+    "pkg_version": "6.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "octave-sockets_1.0.8-1_i386.deb", 
+    "pkg": "octave-sockets", 
+    "pkg_version": "1.0.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "PUIAS Server", 
+    "pkg_full_name": "octave-forge-20071212-6.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "octave-forge-20071212", 
+    "pkg_version": "6.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "octave-sockets_1.0.8-1build1_i386.deb", 
+    "pkg": "octave-sockets", 
+    "pkg_version": "1.0.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "PUIAS Server", 
+    "pkg_full_name": "octave-forge-20071212-6.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "octave-forge-20071212", 
+    "pkg_version": "6.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

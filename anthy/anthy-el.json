@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "emacs-anthy-9100h-10.1.el6.noarch.rpm", 
+    "pkg": "emacs-anthy-9100h-1", 
+    "pkg_version": "0.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "emacs-anthy-9100h-10.1.el6.noarch.rpm", 
+    "pkg": "emacs-anthy-9100h-1", 
+    "pkg_version": "0.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "emacs-anthy-9100h-10.1.el6.noarch.rpm", 
+    "pkg": "emacs-anthy-9100h-1", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "emacs-anthy-9100h-10.1.el6.noarch.rpm", 
+    "pkg": "emacs-anthy-9100h-1", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "emacs-anthy-9100h-10.1.el6.noarch.rpm", 
+    "pkg": "emacs-anthy-9100h-1", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "emacs-anthy-9100h-10.1.el6.noarch.rpm", 
+    "pkg": "emacs-anthy-9100h-1", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "emacs-anthy-9100h-10.1.el6.noarch.rpm", 
+    "pkg": "emacs-anthy-9100h-1", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgvc6-plugins-gtk_2.38.0-7_i386.deb", 
+    "pkg": "libgvc6-plugins-gtk", 
+    "pkg_version": "2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgvc6-plugins-gtk_2.38.0-7_i386.deb", 
+    "pkg": "libgvc6-plugins-gtk", 
+    "pkg_version": "2.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "libgvc6-plugins-gtk_2.38.0-5ubuntu0.1_i386.deb", 
+    "pkg": "libgvc6-plugins-gtk", 
+    "pkg_version": "2.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

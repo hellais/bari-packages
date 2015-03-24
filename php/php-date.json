@@ -1,0 +1,1064 @@
+[
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-common-5.4.39-1.el7.remi.x86_64.rpm", 
+    "pkg": "php-common", 
+    "pkg_version": "5.4.3", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php54w-common-5.4.38-1.w7.x86_64.rpm", 
+    "pkg": "php54w-common", 
+    "pkg_version": "5.4.3", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php56w-common-5.6.6-1.w7.x86_64.rpm", 
+    "pkg": "php56w-common", 
+    "pkg_version": "5.6.6", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php55w-common-5.5.22-1.w7.x86_64.rpm", 
+    "pkg": "php55w-common", 
+    "pkg_version": "5.5.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-common-5.4.39-1.el6.remi.x86_64.rpm", 
+    "pkg": "php-common", 
+    "pkg_version": "5.4.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php54w-common-5.4.38-1.w6.x86_64.rpm", 
+    "pkg": "php54w-common", 
+    "pkg_version": "5.4.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php56w-common-5.6.6-1.w6.x86_64.rpm", 
+    "pkg": "php56w-common", 
+    "pkg_version": "5.6.6", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php55w-common-5.5.22-1.w6.x86_64.rpm", 
+    "pkg": "php55w-common", 
+    "pkg_version": "5.5.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "IUS Community Project Testing", 
+    "pkg_full_name": "php54-common-5.4.39-1.ius.el5.x86_64.rpm", 
+    "pkg": "php54-common", 
+    "pkg_version": "5.4.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php56w-common-5.6.6-1.w6.x86_64.rpm", 
+    "pkg": "php56w-common", 
+    "pkg_version": "5.6.6", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php55w-common-5.5.22-1.w6.x86_64.rpm", 
+    "pkg": "php55w-common", 
+    "pkg_version": "5.5.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php54w-common-5.4.38-1.w6.x86_64.rpm", 
+    "pkg": "php54w-common", 
+    "pkg_version": "5.4.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php-common-5.3.29-4.w5.x86_64.rpm", 
+    "pkg": "php-common", 
+    "pkg_version": "5.3.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "php53-common-5.3.3-26.el5_11.x86_64.rpm", 
+    "pkg": "php53-common", 
+    "pkg_version": "5.3.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "IUS Community Project Testing", 
+    "pkg_full_name": "php54-common-5.4.39-1.ius.el5.x86_64.rpm", 
+    "pkg": "php54-common", 
+    "pkg_version": "5.4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php-date_1.4.7-2_all.deb", 
+    "pkg": "php-date", 
+    "pkg_version": "1.4.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php56w-common-5.6.6-1.w6.x86_64.rpm", 
+    "pkg": "php56w-common", 
+    "pkg_version": "5.6.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php55w-common-5.5.22-1.w6.x86_64.rpm", 
+    "pkg": "php55w-common", 
+    "pkg_version": "5.5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php54w-common-5.4.38-1.w6.x86_64.rpm", 
+    "pkg": "php54w-common", 
+    "pkg_version": "5.4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php-common-5.3.29-4.w5.x86_64.rpm", 
+    "pkg": "php-common", 
+    "pkg_version": "5.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "php53-common-5.3.3-26.el5_11.x86_64.rpm", 
+    "pkg": "php53-common", 
+    "pkg_version": "5.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "IUS Community Project Testing", 
+    "pkg_full_name": "php54-common-5.4.39-1.ius.el5.x86_64.rpm", 
+    "pkg": "php54-common", 
+    "pkg_version": "5.4.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php-date_1.4.7-2_all.deb", 
+    "pkg": "php-date", 
+    "pkg_version": "1.4.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php56w-common-5.6.6-1.w6.x86_64.rpm", 
+    "pkg": "php56w-common", 
+    "pkg_version": "5.6.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php55w-common-5.5.22-1.w6.x86_64.rpm", 
+    "pkg": "php55w-common", 
+    "pkg_version": "5.5.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php54w-common-5.4.38-1.w6.x86_64.rpm", 
+    "pkg": "php54w-common", 
+    "pkg_version": "5.4.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php-common-5.3.29-4.w5.x86_64.rpm", 
+    "pkg": "php-common", 
+    "pkg_version": "5.3.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "php53-common-5.3.3-26.el5_11.x86_64.rpm", 
+    "pkg": "php53-common", 
+    "pkg_version": "5.3.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "IUS Community Project Testing", 
+    "pkg_full_name": "php54-common-5.4.39-1.ius.el5.x86_64.rpm", 
+    "pkg": "php54-common", 
+    "pkg_version": "5.4.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php-date_1.4.7-1_all.deb", 
+    "pkg": "php-date", 
+    "pkg_version": "1.4.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php56w-common-5.6.6-1.w6.x86_64.rpm", 
+    "pkg": "php56w-common", 
+    "pkg_version": "5.6.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php55w-common-5.5.22-1.w6.x86_64.rpm", 
+    "pkg": "php55w-common", 
+    "pkg_version": "5.5.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php54w-common-5.4.38-1.w6.x86_64.rpm", 
+    "pkg": "php54w-common", 
+    "pkg_version": "5.4.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php-common-5.3.29-4.w5.x86_64.rpm", 
+    "pkg": "php-common", 
+    "pkg_version": "5.3.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "php53-common-5.3.3-26.el5_11.x86_64.rpm", 
+    "pkg": "php53-common", 
+    "pkg_version": "5.3.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "IUS Community Project Testing", 
+    "pkg_full_name": "php54-common-5.4.39-1.ius.el5.x86_64.rpm", 
+    "pkg": "php54-common", 
+    "pkg_version": "5.4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php-date_1.4.7-1_all.deb", 
+    "pkg": "php-date", 
+    "pkg_version": "1.4.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php56w-common-5.6.6-1.w6.x86_64.rpm", 
+    "pkg": "php56w-common", 
+    "pkg_version": "5.6.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php55w-common-5.5.22-1.w6.x86_64.rpm", 
+    "pkg": "php55w-common", 
+    "pkg_version": "5.5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php54w-common-5.4.38-1.w6.x86_64.rpm", 
+    "pkg": "php54w-common", 
+    "pkg_version": "5.4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "php-common-5.6.7-2.fc23.x86_64.rpm", 
+    "pkg": "php-common", 
+    "pkg_version": "5.6.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "php53-common-5.3.3-26.el5_11.x86_64.rpm", 
+    "pkg": "php53-common", 
+    "pkg_version": "5.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "IUS Community Project Testing", 
+    "pkg_full_name": "php54-common-5.4.39-1.ius.el5.x86_64.rpm", 
+    "pkg": "php54-common", 
+    "pkg_version": "5.4.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php-date_1.4.7-1_all.deb", 
+    "pkg": "php-date", 
+    "pkg_version": "1.4.7", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php56w-common-5.6.6-1.w6.x86_64.rpm", 
+    "pkg": "php56w-common", 
+    "pkg_version": "5.6.6", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php55w-common-5.5.22-1.w6.x86_64.rpm", 
+    "pkg": "php55w-common", 
+    "pkg_version": "5.5.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php54w-common-5.4.38-1.w6.x86_64.rpm", 
+    "pkg": "php54w-common", 
+    "pkg_version": "5.4.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "php-common-5.6.6-1.fc22.x86_64.rpm", 
+    "pkg": "php-common", 
+    "pkg_version": "5.6.6", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "php53-common-5.3.3-26.el5_11.x86_64.rpm", 
+    "pkg": "php53-common", 
+    "pkg_version": "5.3.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "IUS Community Project Testing", 
+    "pkg_full_name": "php54-common-5.4.39-1.ius.el5.x86_64.rpm", 
+    "pkg": "php54-common", 
+    "pkg_version": "5.4.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php-date_1.4.7-1_all.deb", 
+    "pkg": "php-date", 
+    "pkg_version": "1.4.7", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php56w-common-5.6.6-1.w6.x86_64.rpm", 
+    "pkg": "php56w-common", 
+    "pkg_version": "5.6.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php55w-common-5.5.22-1.w6.x86_64.rpm", 
+    "pkg": "php55w-common", 
+    "pkg_version": "5.5.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php54w-common-5.4.38-1.w6.x86_64.rpm", 
+    "pkg": "php54w-common", 
+    "pkg_version": "5.4.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi Testing", 
+    "pkg_full_name": "php-common-5.6.5-0.1.RC1.fc21.remi.x86_64.rpm", 
+    "pkg": "php-common", 
+    "pkg_version": "5.6.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "php53-common-5.3.3-26.el5_11.x86_64.rpm", 
+    "pkg": "php53-common", 
+    "pkg_version": "5.3.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "IUS Community Project Testing", 
+    "pkg_full_name": "php54-common-5.4.39-1.ius.el5.x86_64.rpm", 
+    "pkg": "php54-common", 
+    "pkg_version": "5.4.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php-date_1.4.7-1_all.deb", 
+    "pkg": "php-date", 
+    "pkg_version": "1.4.7", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php56w-common-5.6.6-1.w6.x86_64.rpm", 
+    "pkg": "php56w-common", 
+    "pkg_version": "5.6.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php55w-common-5.5.22-1.w6.x86_64.rpm", 
+    "pkg": "php55w-common", 
+    "pkg_version": "5.5.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php54w-common-5.4.38-1.w6.x86_64.rpm", 
+    "pkg": "php54w-common", 
+    "pkg_version": "5.4.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-common-5.5.23-1.fc20.remi.x86_64.rpm", 
+    "pkg": "php-common", 
+    "pkg_version": "5.5.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "php53-common-5.3.3-26.el5_11.x86_64.rpm", 
+    "pkg": "php53-common", 
+    "pkg_version": "5.3.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "IUS Community Project Testing", 
+    "pkg_full_name": "php54-common-5.4.39-1.ius.el5.x86_64.rpm", 
+    "pkg": "php54-common", 
+    "pkg_version": "5.4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php-date_1.4.7-1_all.deb", 
+    "pkg": "php-date", 
+    "pkg_version": "1.4.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php56w-common-5.6.6-1.w6.x86_64.rpm", 
+    "pkg": "php56w-common", 
+    "pkg_version": "5.6.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php55w-common-5.5.22-1.w6.x86_64.rpm", 
+    "pkg": "php55w-common", 
+    "pkg_version": "5.5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php54w-common-5.4.38-1.w6.x86_64.rpm", 
+    "pkg": "php54w-common", 
+    "pkg_version": "5.4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "php5-fastcgi-5.6.6-1.1.x86_64.rpm", 
+    "pkg": "php5-fastcgi", 
+    "pkg_version": "5.6.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-common-5.5.23-1.fc20.remi.x86_64.rpm", 
+    "pkg": "php-common", 
+    "pkg_version": "5.5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "php5-5.6.6-1.1.x86_64.rpm", 
+    "pkg": "php5", 
+    "pkg_version": "5.6.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "php53-common-5.3.3-26.el5_11.x86_64.rpm", 
+    "pkg": "php53-common", 
+    "pkg_version": "5.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "php5-fpm-5.6.6-1.1.x86_64.rpm", 
+    "pkg": "php5-fpm", 
+    "pkg_version": "5.6.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "apache2-mod_php5-5.6.6-1.1.x86_64.rpm", 
+    "pkg": "apache2-mod_php5", 
+    "pkg_version": "5.6.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "IUS Community Project Testing", 
+    "pkg_full_name": "php54-common-5.4.39-1.ius.el5.x86_64.rpm", 
+    "pkg": "php54-common", 
+    "pkg_version": "5.4.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php-date_1.4.7-1_all.deb", 
+    "pkg": "php-date", 
+    "pkg_version": "1.4.7", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php56w-common-5.6.6-1.w6.x86_64.rpm", 
+    "pkg": "php56w-common", 
+    "pkg_version": "5.6.6", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php55w-common-5.5.22-1.w6.x86_64.rpm", 
+    "pkg": "php55w-common", 
+    "pkg_version": "5.5.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php54w-common-5.4.38-1.w6.x86_64.rpm", 
+    "pkg": "php54w-common", 
+    "pkg_version": "5.4.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "php5-fastcgi-5.6.1-8.1.x86_64.rpm", 
+    "pkg": "php5-fastcgi", 
+    "pkg_version": "5.6.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-common-5.5.23-1.fc20.remi.x86_64.rpm", 
+    "pkg": "php-common", 
+    "pkg_version": "5.5.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "php5-5.6.1-8.1.x86_64.rpm", 
+    "pkg": "php5", 
+    "pkg_version": "5.6.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "php53-common-5.3.3-26.el5_11.x86_64.rpm", 
+    "pkg": "php53-common", 
+    "pkg_version": "5.3.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "php5-fpm-5.6.1-8.1.x86_64.rpm", 
+    "pkg": "php5-fpm", 
+    "pkg_version": "5.6.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "apache2-mod_php5-5.6.1-8.1.x86_64.rpm", 
+    "pkg": "apache2-mod_php5", 
+    "pkg_version": "5.6.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "IUS Community Project Testing", 
+    "pkg_full_name": "php54-common-5.4.39-1.ius.el5.x86_64.rpm", 
+    "pkg": "php54-common", 
+    "pkg_version": "5.4.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php-date_1.4.7-1_all.deb", 
+    "pkg": "php-date", 
+    "pkg_version": "1.4.7", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php56w-common-5.6.6-1.w6.x86_64.rpm", 
+    "pkg": "php56w-common", 
+    "pkg_version": "5.6.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php55w-common-5.5.22-1.w6.x86_64.rpm", 
+    "pkg": "php55w-common", 
+    "pkg_version": "5.5.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php54w-common-5.4.38-1.w6.x86_64.rpm", 
+    "pkg": "php54w-common", 
+    "pkg_version": "5.4.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "php5-fastcgi-5.4.20-8.2.x86_64.rpm", 
+    "pkg": "php5-fastcgi", 
+    "pkg_version": "5.4.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-common-5.5.23-1.fc20.remi.x86_64.rpm", 
+    "pkg": "php-common", 
+    "pkg_version": "5.5.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "php5-5.4.20-8.2.x86_64.rpm", 
+    "pkg": "php5", 
+    "pkg_version": "5.4.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "php53-common-5.3.3-26.el5_11.x86_64.rpm", 
+    "pkg": "php53-common", 
+    "pkg_version": "5.3.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "php5-fpm-5.4.20-8.2.x86_64.rpm", 
+    "pkg": "php5-fpm", 
+    "pkg_version": "5.4.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "apache2-mod_php5-5.4.20-8.2.x86_64.rpm", 
+    "pkg": "apache2-mod_php5", 
+    "pkg_version": "5.4.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "IUS Community Project Testing", 
+    "pkg_full_name": "php54-common-5.4.39-1.ius.el5.x86_64.rpm", 
+    "pkg": "php54-common", 
+    "pkg_version": "5.4.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "php-date_1.4.7-2_all.deb", 
+    "pkg": "php-date", 
+    "pkg_version": "1.4.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php56w-common-5.6.6-1.w6.x86_64.rpm", 
+    "pkg": "php56w-common", 
+    "pkg_version": "5.6.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php55w-common-5.5.22-1.w6.x86_64.rpm", 
+    "pkg": "php55w-common", 
+    "pkg_version": "5.5.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php54w-common-5.4.38-1.w6.x86_64.rpm", 
+    "pkg": "php54w-common", 
+    "pkg_version": "5.4.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "php5-fastcgi-5.4.20-8.2.x86_64.rpm", 
+    "pkg": "php5-fastcgi", 
+    "pkg_version": "5.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-common-5.5.23-1.fc20.remi.x86_64.rpm", 
+    "pkg": "php-common", 
+    "pkg_version": "5.5.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "php5-5.4.20-8.2.x86_64.rpm", 
+    "pkg": "php5", 
+    "pkg_version": "5.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "php53-common-5.3.3-26.el5_11.x86_64.rpm", 
+    "pkg": "php53-common", 
+    "pkg_version": "5.3.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "php5-fpm-5.4.20-8.2.x86_64.rpm", 
+    "pkg": "php5-fpm", 
+    "pkg_version": "5.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "apache2-mod_php5-5.4.20-8.2.x86_64.rpm", 
+    "pkg": "apache2-mod_php5", 
+    "pkg_version": "5.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "IUS Community Project Testing", 
+    "pkg_full_name": "php54-common-5.4.39-1.ius.el5.x86_64.rpm", 
+    "pkg": "php54-common", 
+    "pkg_version": "5.4.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "php-date_1.4.7-2_all.deb", 
+    "pkg": "php-date", 
+    "pkg_version": "1.4.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php56w-common-5.6.6-1.w6.x86_64.rpm", 
+    "pkg": "php56w-common", 
+    "pkg_version": "5.6.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php55w-common-5.5.22-1.w6.x86_64.rpm", 
+    "pkg": "php55w-common", 
+    "pkg_version": "5.5.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "php54w-common-5.4.38-1.w6.x86_64.rpm", 
+    "pkg": "php54w-common", 
+    "pkg_version": "5.4.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "php5-fastcgi-5.4.20-8.2.x86_64.rpm", 
+    "pkg": "php5-fastcgi", 
+    "pkg_version": "5.4.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-common-5.5.23-1.fc20.remi.x86_64.rpm", 
+    "pkg": "php-common", 
+    "pkg_version": "5.5.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "php5-5.4.20-8.2.x86_64.rpm", 
+    "pkg": "php5", 
+    "pkg_version": "5.4.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "php53-common-5.3.3-26.el5_11.x86_64.rpm", 
+    "pkg": "php53-common", 
+    "pkg_version": "5.3.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "php5-fpm-5.4.20-8.2.x86_64.rpm", 
+    "pkg": "php5-fpm", 
+    "pkg_version": "5.4.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "apache2-mod_php5-5.4.20-8.2.x86_64.rpm", 
+    "pkg": "apache2-mod_php5", 
+    "pkg_version": "5.4.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

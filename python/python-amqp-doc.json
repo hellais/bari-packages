@@ -1,0 +1,101 @@
+[
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "python-amqp-doc-1.4.6-1.el7.noarch.rpm", 
+    "pkg": "python-amqp-doc", 
+    "pkg_version": "1.4.6", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-amqp-doc-1.3.3-1.el6.noarch.rpm", 
+    "pkg": "python-amqp-doc", 
+    "pkg_version": "1.3.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-amqp-doc_1.4.5-2_all.deb", 
+    "pkg": "python-amqp-doc", 
+    "pkg_version": "1.4.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-amqp-doc_1.4.5-2_all.deb", 
+    "pkg": "python-amqp-doc", 
+    "pkg_version": "1.4.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-amqp-doc-1.4.6-1.fc22.noarch.rpm", 
+    "pkg": "python-amqp-doc", 
+    "pkg_version": "1.4.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-amqp-doc-1.4.6-1.fc22.noarch.rpm", 
+    "pkg": "python-amqp-doc", 
+    "pkg_version": "1.4.6", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "python-amqp-doc-1.4.6-1.fc21.noarch.rpm", 
+    "pkg": "python-amqp-doc", 
+    "pkg_version": "1.4.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-amqp-doc-1.3.3-1.fc20.noarch.rpm", 
+    "pkg": "python-amqp-doc", 
+    "pkg_version": "1.3.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "python-amqp-doc-1.4.5-3-rosa2014.1.noarch.rpm", 
+    "pkg": "python-amqp-doc", 
+    "pkg_version": "1.4.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "python-amqp-doc-1.4.4-1-rosa2012.1.noarch.rpm", 
+    "pkg": "python-amqp-doc", 
+    "pkg_version": "1.4.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python-amqp-doc_1.4.5-1ubuntu1_all.deb", 
+    "pkg": "python-amqp-doc", 
+    "pkg_version": "1.4.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

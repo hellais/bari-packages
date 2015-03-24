@@ -1,0 +1,119 @@
+[
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "icmpinfo-1.11-1.2.el6.rf.x86_64.rpm", 
+    "pkg": "icmpinfo", 
+    "pkg_version": "1.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "icmpinfo-1.11-1.2.el5.rf.x86_64.rpm", 
+    "pkg": "icmpinfo", 
+    "pkg_version": "1.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "icmpinfo_1.11-7_i386.deb", 
+    "pkg": "icmpinfo", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "icmpinfo_1.11-7_i386.deb", 
+    "pkg": "icmpinfo", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "icmpinfo_1.11-7_i386.deb", 
+    "pkg": "icmpinfo", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "icmpinfo-1.11-713.1.x86_64.rpm", 
+    "pkg": "icmpinfo", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "icmpinfo-1.11-711.1.2.x86_64.rpm", 
+    "pkg": "icmpinfo", 
+    "pkg_version": "1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "icmpinfo-1.11-709.1.2.i586.rpm", 
+    "pkg": "icmpinfo", 
+    "pkg_version": "1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "icmpinfo-1.11-x86_64-1.txz", 
+    "pkg": "icmpinfo", 
+    "pkg_version": "1.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "icmpinfo-1.11-x86_64-1.txz", 
+    "pkg": "icmpinfo", 
+    "pkg_version": "1.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "icmpinfo-1.11-x86_64-1.txz", 
+    "pkg": "icmpinfo", 
+    "pkg_version": "1.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "icmpinfo_1.11-7_i386.deb", 
+    "pkg": "icmpinfo", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "icmpinfo_1.11-7_i386.deb", 
+    "pkg": "icmpinfo", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

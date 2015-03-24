@@ -1,0 +1,109 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "octave-missing-functions-1.0.2-alt2.noarch.rpm", 
+    "pkg": "octave-missing-functions", 
+    "pkg_version": "1.0.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "octave-missing-functions-1.0.2-alt2.noarch.rpm", 
+    "pkg": "octave-missing-functions", 
+    "pkg_version": "1.0.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "octave-missing-functions_1.0.2-5_all.deb", 
+    "pkg": "octave-missing-functions", 
+    "pkg_version": "1.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "octave-missing-functions_1.0.2-5_all.deb", 
+    "pkg": "octave-missing-functions", 
+    "pkg_version": "1.0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "octave-missing-functions_1.0.2-4_all.deb", 
+    "pkg": "octave-missing-functions", 
+    "pkg_version": "1.0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "octave-missing-functions-1.0.2-2-omv2013.0.noarch.rpm", 
+    "pkg": "octave-missing-functions", 
+    "pkg_version": "1.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "octave-missing-functions-1.0.2-2-omv2013.0.noarch.rpm", 
+    "pkg": "octave-missing-functions", 
+    "pkg_version": "1.0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "octave-missing-functions-1.0.2-2-omv2013.0.noarch.rpm", 
+    "pkg": "octave-missing-functions", 
+    "pkg_version": "1.0.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "octave-missing-functions-1.0.2-5-rosa2014.1.noarch.rpm", 
+    "pkg": "octave-missing-functions", 
+    "pkg_version": "1.0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "octave-missing-functions-1.0.2-3-rosa2012.1.noarch.rpm", 
+    "pkg": "octave-missing-functions", 
+    "pkg_version": "1.0.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "octave-missing-functions_1.0.2-4_all.deb", 
+    "pkg": "octave-missing-functions", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "octave-missing-functions_1.0.2-4_all.deb", 
+    "pkg": "octave-missing-functions", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

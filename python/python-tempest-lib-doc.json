@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-tempest-lib-doc_0.0.2-1_all.deb", 
+    "pkg": "python-tempest-lib-doc", 
+    "pkg_version": "0.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-tempest-lib-doc-0.0.4-1.fc22.noarch.rpm", 
+    "pkg": "python-tempest-lib-doc", 
+    "pkg_version": "0.0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

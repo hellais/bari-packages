@@ -1,0 +1,145 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "suck-4.3.2-alt4.1.1.qa1.x86_64.rpm", 
+    "pkg": "suck", 
+    "pkg_version": "4.3.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "suck-4.3.2-39.el7.x86_64.rpm", 
+    "pkg": "suck", 
+    "pkg_version": "4.3.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "suck_4.3.2-14_i386.deb", 
+    "pkg": "suck", 
+    "pkg_version": "4.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "suck_4.3.2-14_i386.deb", 
+    "pkg": "suck", 
+    "pkg_version": "4.3.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "suck_4.3.2-11_i386.deb", 
+    "pkg": "suck", 
+    "pkg_version": "4.3.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "suck-4.3.2-45.fc22.x86_64.rpm", 
+    "pkg": "suck", 
+    "pkg_version": "4.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "suck-4.3.2-45.fc22.x86_64.rpm", 
+    "pkg": "suck", 
+    "pkg_version": "4.3.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "suck-4.3.2-44.fc21.x86_64.rpm", 
+    "pkg": "suck", 
+    "pkg_version": "4.3.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "suck-4.3.2-42.fc20.x86_64.rpm", 
+    "pkg": "suck", 
+    "pkg_version": "4.3.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "suck-4.3.0-744.2.x86_64.rpm", 
+    "pkg": "suck", 
+    "pkg_version": "4.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "suck-4.3.0-743.1.4.x86_64.rpm", 
+    "pkg": "suck", 
+    "pkg_version": "4.3.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "suck-4.3.0-741.1.1.i586.rpm", 
+    "pkg": "suck", 
+    "pkg_version": "4.3.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "suck-4.3.2-12-rosa2014.1.x86_64.rpm", 
+    "pkg": "suck", 
+    "pkg_version": "4.3.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "suck-4.3.2-11-rosa2012.1.x86_64.rpm", 
+    "pkg": "suck", 
+    "pkg_version": "4.3.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "suck_4.3.2-13_i386.deb", 
+    "pkg": "suck", 
+    "pkg_version": "4.3.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "suck_4.3.2-13_i386.deb", 
+    "pkg": "suck", 
+    "pkg_version": "4.3.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

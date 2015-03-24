@@ -1,0 +1,19 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "dnscrypt-proxy-1.4.3-1-x86_64.pkg.tar.xz", 
+    "pkg": "dnscrypt-proxy", 
+    "pkg_version": "1.4.3", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dnscrypt-proxy_1.4.3-2_i386.deb", 
+    "pkg": "dnscrypt-proxy", 
+    "pkg_version": "1.4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

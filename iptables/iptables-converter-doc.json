@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "iptables-converter-doc_0.9.5-1_all.deb", 
+    "pkg": "iptables-converter-doc", 
+    "pkg_version": "0.9.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "iptables-converter-doc_0.9.5-1_all.deb", 
+    "pkg": "iptables-converter-doc", 
+    "pkg_version": "0.9.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

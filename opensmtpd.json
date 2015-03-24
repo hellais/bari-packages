@@ -1,0 +1,82 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "opensmtpd-5.4.4p1-1-x86_64.pkg.tar.xz", 
+    "pkg": "opensmtpd", 
+    "pkg_version": "5.4.4", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "opensmtpd-5.4.4p1-1.el7.x86_64.rpm", 
+    "pkg": "opensmtpd", 
+    "pkg_version": "5.4.4", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "opensmtpd-5.4.4p1-1.el6.x86_64.rpm", 
+    "pkg": "opensmtpd", 
+    "pkg_version": "5.4.4", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "opensmtpd_5.4.2p1-4_i386.deb", 
+    "pkg": "opensmtpd", 
+    "pkg_version": "5.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "opensmtpd-5.4.4p1-1.fc23.x86_64.rpm", 
+    "pkg": "opensmtpd", 
+    "pkg_version": "5.4.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "opensmtpd-5.4.4p1-1.fc22.x86_64.rpm", 
+    "pkg": "opensmtpd", 
+    "pkg_version": "5.4.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "opensmtpd-5.4.4p1-1.fc21.x86_64.rpm", 
+    "pkg": "opensmtpd", 
+    "pkg_version": "5.4.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "opensmtpd-5.4.4p1-1.fc20.x86_64.rpm", 
+    "pkg": "opensmtpd", 
+    "pkg_version": "5.4.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "opensmtpd_5.4.2p1-3_i386.deb", 
+    "pkg": "opensmtpd", 
+    "pkg_version": "5.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

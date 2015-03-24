@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libdune-istl-doc_2.3.1-1_all.deb", 
+    "pkg": "libdune-istl-doc", 
+    "pkg_version": "2.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libdune-istl-doc_2.3.1-1_all.deb", 
+    "pkg": "libdune-istl-doc", 
+    "pkg_version": "2.3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libdune-istl-doc_2.2.0-1_all.deb", 
+    "pkg": "libdune-istl-doc", 
+    "pkg_version": "2.2.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libdune-istl-doc_2.3.1-1_all.deb", 
+    "pkg": "libdune-istl-doc", 
+    "pkg_version": "2.3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

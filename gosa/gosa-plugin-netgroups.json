@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gosa-plugin-netgroups_0.1~svn652-1_all.deb", 
+    "pkg": "gosa-plugin-netgroups", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

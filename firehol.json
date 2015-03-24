@@ -1,0 +1,118 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "firehol-2.0.0-alt2.noarch.rpm", 
+    "pkg": "firehol", 
+    "pkg_version": "2.0.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "firehol-2.0.1-1.el7.noarch.rpm", 
+    "pkg": "firehol", 
+    "pkg_version": "2.0.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "firehol-1.296-1.el6.noarch.rpm", 
+    "pkg": "firehol", 
+    "pkg_version": "1.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "firehol_2.0.2+ds-1_all.deb", 
+    "pkg": "firehol", 
+    "pkg_version": "2.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "firehol_1.297-1_all.deb", 
+    "pkg": "firehol", 
+    "pkg_version": "1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "firehol_1.273-1_all.deb", 
+    "pkg": "firehol", 
+    "pkg_version": "1.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "firehol-2.0.1-1.fc23.noarch.rpm", 
+    "pkg": "firehol", 
+    "pkg_version": "2.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "firehol-2.0.1-1.fc22.noarch.rpm", 
+    "pkg": "firehol", 
+    "pkg_version": "2.0.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "firehol-2.0.1-1.fc21.noarch.rpm", 
+    "pkg": "firehol", 
+    "pkg_version": "2.0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "firehol-1.296-1.fc20.noarch.rpm", 
+    "pkg": "firehol", 
+    "pkg_version": "1.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Freestylers", 
+    "pkg_full_name": "firehol-1.296-noarch-1_fs.tgz", 
+    "pkg": "firehol", 
+    "pkg_version": "1.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "firehol_1.297-1_all.deb", 
+    "pkg": "firehol", 
+    "pkg_version": "1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "firehol_1.297-1_all.deb", 
+    "pkg": "firehol", 
+    "pkg_version": "1.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

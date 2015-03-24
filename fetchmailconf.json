@@ -1,0 +1,145 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "fetchmailconf-6.3.26-alt1.noarch.rpm", 
+    "pkg": "fetchmailconf", 
+    "pkg_version": "6.3.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "fetchmailconf-6.3.17-1_7.el6.x86_64.rpm", 
+    "pkg": "fetchmailconf", 
+    "pkg_version": "6.3.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "fetchmailconf-6.3.17-1_7.el5.x86_64.rpm", 
+    "pkg": "fetchmailconf", 
+    "pkg_version": "6.3.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fetchmailconf_6.3.26-1_all.deb", 
+    "pkg": "fetchmailconf", 
+    "pkg_version": "6.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fetchmailconf_6.3.26-1_all.deb", 
+    "pkg": "fetchmailconf", 
+    "pkg_version": "6.3.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fetchmailconf_6.3.21-4_all.deb", 
+    "pkg": "fetchmailconf", 
+    "pkg_version": "6.3.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "fetchmailconf-6.3.22-10-omv2015.0.x86_64.rpm", 
+    "pkg": "fetchmailconf", 
+    "pkg_version": "6.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "fetchmailconf-6.3.22-3-omv2014.0.x86_64.rpm", 
+    "pkg": "fetchmailconf", 
+    "pkg_version": "6.3.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "fetchmailconf-6.3.22-2-omv2013.0.x86_64.rpm", 
+    "pkg": "fetchmailconf", 
+    "pkg_version": "6.3.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "fetchmailconf-6.3.26-10.1.x86_64.rpm", 
+    "pkg": "fetchmailconf", 
+    "pkg_version": "6.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "fetchmailconf-6.3.26-6.1.4.x86_64.rpm", 
+    "pkg": "fetchmailconf", 
+    "pkg_version": "6.3.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "fetchmailconf-6.3.26-2.1.1.i586.rpm", 
+    "pkg": "fetchmailconf", 
+    "pkg_version": "6.3.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "fetchmailconf-6.3.22-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "fetchmailconf", 
+    "pkg_version": "6.3.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "fetchmailconf-6.3.22-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "fetchmailconf", 
+    "pkg_version": "6.3.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "fetchmailconf_6.3.26-1_all.deb", 
+    "pkg": "fetchmailconf", 
+    "pkg_version": "6.3.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "fetchmailconf_6.3.26-1_all.deb", 
+    "pkg": "fetchmailconf", 
+    "pkg_version": "6.3.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

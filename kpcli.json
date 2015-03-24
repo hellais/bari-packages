@@ -1,0 +1,82 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kpcli-2.7-alt1.noarch.rpm", 
+    "pkg": "kpcli", 
+    "pkg_version": "2.7", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "kpcli-2.7-2.el6.noarch.rpm", 
+    "pkg": "kpcli", 
+    "pkg_version": "2.7", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kpcli_2.7-1_all.deb", 
+    "pkg": "kpcli", 
+    "pkg_version": "2.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kpcli_2.7-1_all.deb", 
+    "pkg": "kpcli", 
+    "pkg_version": "2.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kpcli-2.7-3.fc22.noarch.rpm", 
+    "pkg": "kpcli", 
+    "pkg_version": "2.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kpcli-2.7-3.fc22.noarch.rpm", 
+    "pkg": "kpcli", 
+    "pkg_version": "2.7", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kpcli-2.7-2.fc21.noarch.rpm", 
+    "pkg": "kpcli", 
+    "pkg_version": "2.7", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "kpcli-2.7-2.fc20.noarch.rpm", 
+    "pkg": "kpcli", 
+    "pkg_version": "2.7", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "kpcli_2.7-1_all.deb", 
+    "pkg": "kpcli", 
+    "pkg_version": "2.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

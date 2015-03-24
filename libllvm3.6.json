@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libllvm3.6_3.6-2_i386.deb", 
+    "pkg": "libllvm", 
+    "pkg_version": "3.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

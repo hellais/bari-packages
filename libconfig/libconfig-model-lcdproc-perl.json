@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libconfig-model-lcdproc-perl_2.042-3_all.deb", 
+    "pkg": "libconfig-model-lcdproc-perl", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libconfig-model-lcdproc-perl_2.042-3_all.deb", 
+    "pkg": "libconfig-model-lcdproc-perl", 
+    "pkg_version": "2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libconfig-model-lcdproc-perl_2.042-3_all.deb", 
+    "pkg": "libconfig-model-lcdproc-perl", 
+    "pkg_version": "2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

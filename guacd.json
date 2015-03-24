@@ -1,0 +1,109 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "guacd-0.7.0-alt2_7.x86_64.rpm", 
+    "pkg": "guacd", 
+    "pkg_version": "0.7.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "guacd-0.8.4-4.el7.x86_64.rpm", 
+    "pkg": "guacd", 
+    "pkg_version": "0.8.4", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "guacd-0.6.2-1.puias6.x86_64.rpm", 
+    "pkg": "guacd", 
+    "pkg_version": "0.6.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "guacd_0.8.3-1~nd+1_i386.deb", 
+    "pkg": "guacd", 
+    "pkg_version": "0.8.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "guacd_0.8.3-1~nd80+1_i386.deb", 
+    "pkg": "guacd", 
+    "pkg_version": "0.8.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "guacd_0.8.3-1~nd70+1_i386.deb", 
+    "pkg": "guacd", 
+    "pkg_version": "0.8.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "guacd-0.9.5-3.fc23.x86_64.rpm", 
+    "pkg": "guacd", 
+    "pkg_version": "0.9.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "guacd-0.9.4-1.fc22.x86_64.rpm", 
+    "pkg": "guacd", 
+    "pkg_version": "0.9.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "guacd-0.9.3-1.fc21.x86_64.rpm", 
+    "pkg": "guacd", 
+    "pkg_version": "0.9.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "guacd-0.8.4-3.fc20.x86_64.rpm", 
+    "pkg": "guacd", 
+    "pkg_version": "0.8.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "guacd_0.8.3-1_i386.deb", 
+    "pkg": "guacd", 
+    "pkg_version": "0.8.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "guacd_0.8.3-1_i386.deb", 
+    "pkg": "guacd", 
+    "pkg_version": "0.8.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

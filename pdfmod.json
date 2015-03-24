@@ -1,0 +1,118 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "pdfmod-0.9.1-6-any.pkg.tar.xz", 
+    "pkg": "pdfmod", 
+    "pkg_version": "0.9.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pdfmod_0.9.1-8_all.deb", 
+    "pkg": "pdfmod", 
+    "pkg_version": "0.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pdfmod_0.9.1-8_all.deb", 
+    "pkg": "pdfmod", 
+    "pkg_version": "0.9.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pdfmod_0.9.1-7_all.deb", 
+    "pkg": "pdfmod", 
+    "pkg_version": "0.9.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pdfmod-0.9.1-8.fc21.noarch.rpm", 
+    "pkg": "pdfmod", 
+    "pkg_version": "0.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pdfmod-0.9.1-8.fc21.noarch.rpm", 
+    "pkg": "pdfmod", 
+    "pkg_version": "0.9.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pdfmod-0.9.1-8.fc21.noarch.rpm", 
+    "pkg": "pdfmod", 
+    "pkg_version": "0.9.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Olea", 
+    "pkg_full_name": "pdfmod-0.9.1-4.fc15.i686.rpm", 
+    "pkg": "pdfmod", 
+    "pkg_version": "0.9.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pdfmod-0.9.1-1.5.x86_64.rpm", 
+    "pkg": "pdfmod", 
+    "pkg_version": "0.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "pdfmod-0.9.1-2.10.x86_64.rpm", 
+    "pkg": "pdfmod", 
+    "pkg_version": "0.9.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pdfmod-0.9.1-20.1.3.i586.rpm", 
+    "pkg": "pdfmod", 
+    "pkg_version": "0.9.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "pdfmod_0.9.1-7_all.deb", 
+    "pkg": "pdfmod", 
+    "pkg_version": "0.9.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "pdfmod_0.9.1-7_all.deb", 
+    "pkg": "pdfmod", 
+    "pkg_version": "0.9.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

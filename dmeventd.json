@@ -1,0 +1,163 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "dmeventd-1.02.93-alt1.x86_64.rpm", 
+    "pkg": "dmeventd", 
+    "pkg_version": "1.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dmeventd_1.02.90-2.1_i386.deb", 
+    "pkg": "dmeventd", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dmeventd_1.02.90-2.1_i386.deb", 
+    "pkg": "dmeventd", 
+    "pkg_version": "1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dmeventd_1.02.74-8_i386.deb", 
+    "pkg": "dmeventd", 
+    "pkg_version": "1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "dmsetup-1.02.94-1-omv2015.0.x86_64.rpm", 
+    "pkg": "dmsetup", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dmeventd_1.02.74-8_i386.deb", 
+    "pkg": "dmeventd", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "dmsetup-1.02.77-7-omv2014.0.x86_64.rpm", 
+    "pkg": "dmsetup", 
+    "pkg_version": "1.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dmeventd_1.02.74-8_i386.deb", 
+    "pkg": "dmeventd", 
+    "pkg_version": "1.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "dmsetup-1.02.77-6-omv2013.0.x86_64.rpm", 
+    "pkg": "dmsetup", 
+    "pkg_version": "1.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dmeventd_1.02.74-8_i386.deb", 
+    "pkg": "dmeventd", 
+    "pkg_version": "1.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "dmsetup-1.02.88-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "dmsetup", 
+    "pkg_version": "1.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dmeventd_1.02.74-8_i386.deb", 
+    "pkg": "dmeventd", 
+    "pkg_version": "1.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "dmsetup-1.02.76-3-rosa2012.1.x86_64.rpm", 
+    "pkg": "dmsetup", 
+    "pkg_version": "1.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dmeventd_1.02.74-8_i386.deb", 
+    "pkg": "dmeventd", 
+    "pkg_version": "1.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "dmsetup-1.02.64-3-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "dmsetup", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "dmeventd_1.02.77-6ubuntu2_i386.deb", 
+    "pkg": "dmeventd", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "dmsetup-1.02.64-3-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "dmsetup", 
+    "pkg_version": "1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "dmeventd_1.02.77-6ubuntu2_i386.deb", 
+    "pkg": "dmeventd", 
+    "pkg_version": "1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

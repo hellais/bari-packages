@@ -1,0 +1,135 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "eclipse-cdt-8.1.2-alt2_1jpp7.x86_64.rpm", 
+    "pkg": "eclipse-cdt", 
+    "pkg_version": "8.1.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "eclipse-cdt-8.6.0-1-any.pkg.tar.xz", 
+    "pkg": "eclipse-cdt", 
+    "pkg_version": "8.6.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "eclipse-cdt-7.0.1-4.el6.x86_64.rpm", 
+    "pkg": "eclipse-cdt", 
+    "pkg_version": "7.0.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Scientific Linux Cyrillic Edition", 
+    "pkg_full_name": "eclipse-cdt-3.1.2-8.Nau5x.i386.rpm", 
+    "pkg": "eclipse-cdt", 
+    "pkg_version": "3.1.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "eclipse-cdt_8.5.0-1_all.deb", 
+    "pkg": "eclipse-cdt", 
+    "pkg_version": "8.5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "eclipse-cdt_8.5.0-1_all.deb", 
+    "pkg": "eclipse-cdt", 
+    "pkg_version": "8.5.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "eclipse-cdt_8.1.0+dfsg-2_all.deb", 
+    "pkg": "eclipse-cdt", 
+    "pkg_version": "8.1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "eclipse-cdt-8.6.0-1.fc23.x86_64.rpm", 
+    "pkg": "eclipse-cdt", 
+    "pkg_version": "8.6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "eclipse-cdt-8.5.0-3.fc22.x86_64.rpm", 
+    "pkg": "eclipse-cdt", 
+    "pkg_version": "8.5.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "eclipse-cdt-8.6.0-1.fc21.x86_64.rpm", 
+    "pkg": "eclipse-cdt", 
+    "pkg_version": "8.6.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "eclipse-cdt-8.3.0-2.fc20.x86_64.rpm", 
+    "pkg": "eclipse-cdt", 
+    "pkg_version": "8.3.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "eclipse-cdt-8.5.0-3.1-omv2015.0.x86_64.rpm", 
+    "pkg": "eclipse-cdt", 
+    "pkg_version": "8.5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "eclipse-cdt-8.2.1-3.0-omv2014.0.x86_64.rpm", 
+    "pkg": "eclipse-cdt", 
+    "pkg_version": "8.2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "eclipse-cdt_8.4.0-1_all.deb", 
+    "pkg": "eclipse-cdt", 
+    "pkg_version": "8.4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "eclipse-cdt_8.3.0-1_all.deb", 
+    "pkg": "eclipse-cdt", 
+    "pkg_version": "8.3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

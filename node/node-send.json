@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "node-send_0.9.4-1_all.deb", 
+    "pkg": "node-send", 
+    "pkg_version": "0.9.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "node-send_0.9.4-1_all.deb", 
+    "pkg": "node-send", 
+    "pkg_version": "0.9.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "node-send_0.3.0-1_all.deb", 
+    "pkg": "node-send", 
+    "pkg_version": "0.3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

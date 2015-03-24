@@ -1,0 +1,55 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ceph-resource-agents-0.93-alt1.noarch.rpm", 
+    "pkg": "ceph-resource-agents", 
+    "pkg_version": "0.9", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ceph-resource-agents_0.80.7-2_all.deb", 
+    "pkg": "ceph-resource-agents", 
+    "pkg_version": "0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ceph-resource-agents_0.80.7-2_all.deb", 
+    "pkg": "ceph-resource-agents", 
+    "pkg_version": "0.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "ceph-resource-agents_0.80.7-1~bpo70+1_all.deb", 
+    "pkg": "ceph-resource-agents", 
+    "pkg_version": "0.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "ceph-resource-agents_0.80.7-0ubuntu0.14.10.1_all.deb", 
+    "pkg": "ceph-resource-agents", 
+    "pkg_version": "0.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "ceph-resource-agents_0.80.7-0ubuntu0.14.04.1_all.deb", 
+    "pkg": "ceph-resource-agents", 
+    "pkg_version": "0.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "daemontools-0.76-alt13.x86_64.rpm", 
+    "pkg": "daemontools", 
+    "pkg_version": "0.7", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Atomic", 
+    "pkg_full_name": "daemontools-0.76-1.el6.art.x86_64.rpm", 
+    "pkg": "daemontools", 
+    "pkg_version": "0.7", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Atomic", 
+    "pkg_full_name": "daemontools-0.76-1.el5.art.x86_64.rpm", 
+    "pkg": "daemontools", 
+    "pkg_version": "0.7", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "daemontools_0.76-6_i386.deb", 
+    "pkg": "daemontools", 
+    "pkg_version": "0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "daemontools_0.76-6_i386.deb", 
+    "pkg": "daemontools", 
+    "pkg_version": "0.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "daemontools_0.76-3_i386.deb", 
+    "pkg": "daemontools", 
+    "pkg_version": "0.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "daemontools-0.76-12.1.x86_64.rpm", 
+    "pkg": "daemontools", 
+    "pkg_version": "0.7", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "daemontools-0.76-12.1.x86_64.rpm", 
+    "pkg": "daemontools", 
+    "pkg_version": "0.7", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "daemontools_0.76-3ubuntu3_i386.deb", 
+    "pkg": "daemontools", 
+    "pkg_version": "0.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "daemontools_0.76-3ubuntu3_i386.deb", 
+    "pkg": "daemontools", 
+    "pkg_version": "0.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

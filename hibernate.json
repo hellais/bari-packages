@@ -1,0 +1,423 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hibernate-script-2.0-alt3.qa1.x86_64.rpm", 
+    "pkg": "hibernate-script", 
+    "pkg_version": "2.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hibernate-4.1.7-alt1_6jpp7.noarch.rpm", 
+    "pkg": "hibernate", 
+    "pkg_version": "4.1.7", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hibernate-script-2.0-alt3.qa1.x86_64.rpm", 
+    "pkg": "hibernate-script", 
+    "pkg_version": "2.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hibernate-4.1.7-alt1_6jpp7.noarch.rpm", 
+    "pkg": "hibernate", 
+    "pkg_version": "4.1.7", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "hibernate-suspend2-1.94-2cubbi2.noarch.rpm", 
+    "pkg": "hibernate-suspend2", 
+    "pkg_version": "1.9", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hibernate-script-2.0-alt3.qa1.x86_64.rpm", 
+    "pkg": "hibernate-script", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "hibernate_2.0+15+g88d54a8-1_all.deb", 
+    "pkg": "hibernate", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "hibernate-suspend2-1.94-2cubbi2.noarch.rpm", 
+    "pkg": "hibernate-suspend2", 
+    "pkg_version": "1.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hibernate-script-2.0-alt3.qa1.x86_64.rpm", 
+    "pkg": "hibernate-script", 
+    "pkg_version": "2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "hibernate_2.0+15+g88d54a8-1_all.deb", 
+    "pkg": "hibernate", 
+    "pkg_version": "2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "hibernate-suspend2-1.94-2cubbi2.noarch.rpm", 
+    "pkg": "hibernate-suspend2", 
+    "pkg_version": "1.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hibernate-script-2.0-alt3.qa1.x86_64.rpm", 
+    "pkg": "hibernate-script", 
+    "pkg_version": "2.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "hibernate_2.0+15+g88d54a8-1_all.deb", 
+    "pkg": "hibernate", 
+    "pkg_version": "2.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "hibernate-suspend2-1.94-2cubbi2.noarch.rpm", 
+    "pkg": "hibernate-suspend2", 
+    "pkg_version": "1.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hibernate-script-2.0-alt3.qa1.x86_64.rpm", 
+    "pkg": "hibernate-script", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "hibernate-4.3.5-5.fc23.noarch.rpm", 
+    "pkg": "hibernate", 
+    "pkg_version": "4.3.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "hibernate-suspend2-1.94-2cubbi2.noarch.rpm", 
+    "pkg": "hibernate-suspend2", 
+    "pkg_version": "1.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hibernate-script-2.0-alt3.qa1.x86_64.rpm", 
+    "pkg": "hibernate-script", 
+    "pkg_version": "2.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "hibernate-4.3.5-4.fc22.noarch.rpm", 
+    "pkg": "hibernate", 
+    "pkg_version": "4.3.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "hibernate-suspend2-1.94-2cubbi2.noarch.rpm", 
+    "pkg": "hibernate-suspend2", 
+    "pkg_version": "1.9", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hibernate-script-2.0-alt3.qa1.x86_64.rpm", 
+    "pkg": "hibernate-script", 
+    "pkg_version": "2.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "hibernate-4.3.5-3.fc21.noarch.rpm", 
+    "pkg": "hibernate", 
+    "pkg_version": "4.3.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "hibernate-suspend2-1.94-2cubbi2.noarch.rpm", 
+    "pkg": "hibernate-suspend2", 
+    "pkg_version": "1.9", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hibernate-script-2.0-alt3.qa1.x86_64.rpm", 
+    "pkg": "hibernate-script", 
+    "pkg_version": "2.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "hibernate-4.3.1-1.fc20.noarch.rpm", 
+    "pkg": "hibernate", 
+    "pkg_version": "4.3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "hibernate-suspend2-1.94-2cubbi2.noarch.rpm", 
+    "pkg": "hibernate-suspend2", 
+    "pkg_version": "1.9", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hibernate-script-2.0-alt3.qa1.x86_64.rpm", 
+    "pkg": "hibernate-script", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "hibernate-2.0-9-omv2015.0.noarch.rpm", 
+    "pkg": "hibernate", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "hibernate-suspend2-1.94-2cubbi2.noarch.rpm", 
+    "pkg": "hibernate-suspend2", 
+    "pkg_version": "1.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hibernate-script-2.0-alt3.qa1.x86_64.rpm", 
+    "pkg": "hibernate-script", 
+    "pkg_version": "2.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib Updates", 
+    "pkg_full_name": "hibernate-2.0-8.1-omv2014.0.noarch.rpm", 
+    "pkg": "hibernate", 
+    "pkg_version": "2.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "hibernate-suspend2-1.94-2cubbi2.noarch.rpm", 
+    "pkg": "hibernate-suspend2", 
+    "pkg_version": "1.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hibernate-script-2.0-alt3.qa1.x86_64.rpm", 
+    "pkg": "hibernate-script", 
+    "pkg_version": "2.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "hibernate-2.0-7-omv2013.0.noarch.rpm", 
+    "pkg": "hibernate", 
+    "pkg_version": "2.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "hibernate-suspend2-1.94-2cubbi2.noarch.rpm", 
+    "pkg": "hibernate-suspend2", 
+    "pkg_version": "1.9", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hibernate-script-2.0-alt3.qa1.x86_64.rpm", 
+    "pkg": "hibernate-script", 
+    "pkg_version": "2.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "hibernate-2.0-4-rosa2014.1.noarch.rpm", 
+    "pkg": "hibernate", 
+    "pkg_version": "2.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "hibernate-suspend2-1.94-2cubbi2.noarch.rpm", 
+    "pkg": "hibernate-suspend2", 
+    "pkg_version": "1.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hibernate-script-2.0-alt3.qa1.x86_64.rpm", 
+    "pkg": "hibernate-script", 
+    "pkg_version": "2.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "hibernate-2.0-3-rosa2012.1.noarch.rpm", 
+    "pkg": "hibernate", 
+    "pkg_version": "2.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "hibernate-suspend2-1.94-2cubbi2.noarch.rpm", 
+    "pkg": "hibernate-suspend2", 
+    "pkg_version": "1.9", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hibernate-script-2.0-alt3.qa1.x86_64.rpm", 
+    "pkg": "hibernate-script", 
+    "pkg_version": "2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "hibernate_2.0+15+g88d54a8-1_all.deb", 
+    "pkg": "hibernate", 
+    "pkg_version": "2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "hibernate-suspend2-1.94-2cubbi2.noarch.rpm", 
+    "pkg": "hibernate-suspend2", 
+    "pkg_version": "1.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hibernate-script-2.0-alt3.qa1.x86_64.rpm", 
+    "pkg": "hibernate-script", 
+    "pkg_version": "2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "hibernate_2.0+15+g88d54a8-1_all.deb", 
+    "pkg": "hibernate", 
+    "pkg_version": "2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "hibernate-suspend2-1.94-2cubbi2.noarch.rpm", 
+    "pkg": "hibernate-suspend2", 
+    "pkg_version": "1.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

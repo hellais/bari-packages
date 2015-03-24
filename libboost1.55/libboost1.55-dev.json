@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libboost1.55-dev_1.55.0+dfsg-3_i386.deb", 
+    "pkg": "libboost", 
+    "pkg_version": "1.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libboost1.55-dev_1.55.0+dfsg-3_i386.deb", 
+    "pkg": "libboost", 
+    "pkg_version": "1.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libboost1.55-dev_1.55.0+dfsg-1ubuntu3_i386.deb", 
+    "pkg": "libboost", 
+    "pkg_version": "1.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

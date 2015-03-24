@@ -1,0 +1,153 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "pastebinit-1.3.1-alt1_4.noarch.rpm", 
+    "pkg": "pastebinit", 
+    "pkg_version": "1.3.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "pastebinit-1.4.1-1-any.pkg.tar.xz", 
+    "pkg": "pastebinit", 
+    "pkg_version": "1.4.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pastebinit_1.4-4_all.deb", 
+    "pkg": "pastebinit", 
+    "pkg_version": "1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pastebinit_1.4-4_all.deb", 
+    "pkg": "pastebinit", 
+    "pkg_version": "1.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pastebinit_1.3-4_all.deb", 
+    "pkg": "pastebinit", 
+    "pkg_version": "1.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pastebinit-1.3.1-4.fc21.noarch.rpm", 
+    "pkg": "pastebinit", 
+    "pkg_version": "1.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pastebinit-1.3.1-4.fc21.noarch.rpm", 
+    "pkg": "pastebinit", 
+    "pkg_version": "1.3.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pastebinit-1.3.1-4.fc21.noarch.rpm", 
+    "pkg": "pastebinit", 
+    "pkg_version": "1.3.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pastebinit-1.3.1-3.fc20.noarch.rpm", 
+    "pkg": "pastebinit", 
+    "pkg_version": "1.3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Network Utilities", 
+    "pkg_full_name": "pastebinit-1.1-5.18.noarch.rpm", 
+    "pkg": "pastebinit", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Network Utilities", 
+    "pkg_full_name": "pastebinit-1.1-5.1.noarch.rpm", 
+    "pkg": "pastebinit", 
+    "pkg_version": "1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Network Utilities", 
+    "pkg_full_name": "pastebinit-1.1-5.1.noarch.rpm", 
+    "pkg": "pastebinit", 
+    "pkg_version": "1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "pastebinit-1.3.1-noarch-1rl.txz", 
+    "pkg": "pastebinit", 
+    "pkg_version": "1.3.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Alien Bob", 
+    "pkg_full_name": "pastebinit-1.3.1-noarch-2alien.tgz", 
+    "pkg": "pastebinit", 
+    "pkg_version": "1.3.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Alien Bob", 
+    "pkg_full_name": "pastebinit-1.3.1-noarch-1alien.tgz", 
+    "pkg": "pastebinit", 
+    "pkg_version": "1.3.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "pastebinit_1.4-3_all.deb", 
+    "pkg": "pastebinit", 
+    "pkg_version": "1.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "pastebinit_1.4-3_all.deb", 
+    "pkg": "pastebinit", 
+    "pkg_version": "1.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "policyd-weight-0.1.14.17-alt2.noarch.rpm", 
+    "pkg": "policyd-weight", 
+    "pkg_version": "0.1.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "policyd-weight_0.1.15.2-10_all.deb", 
+    "pkg": "policyd-weight", 
+    "pkg_version": "0.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "policyd-weight_0.1.15.2-10_all.deb", 
+    "pkg": "policyd-weight", 
+    "pkg_version": "0.1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Proposed Updates Main", 
+    "pkg_full_name": "policyd-weight_0.1.15.2-5+wheezy2_all.deb", 
+    "pkg": "policyd-weight", 
+    "pkg_version": "0.1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "policyd-weight_0.1.15.2-8_all.deb", 
+    "pkg": "policyd-weight", 
+    "pkg_version": "0.1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "policyd-weight_0.1.15.2-7_all.deb", 
+    "pkg": "policyd-weight", 
+    "pkg_version": "0.1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

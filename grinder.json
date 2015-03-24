@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "grinder-0.0.136-1.el6.noarch.rpm", 
+    "pkg": "grinder", 
+    "pkg_version": "0.0.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "grinder-0.0.136-1.el5.noarch.rpm", 
+    "pkg": "grinder", 
+    "pkg_version": "0.0.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "grinder_0.5.3-3_all.deb", 
+    "pkg": "grinder", 
+    "pkg_version": "0.5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "grinder_0.5.3-3_all.deb", 
+    "pkg": "grinder", 
+    "pkg_version": "0.5.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "grinder_0.4.5-1_all.deb", 
+    "pkg": "grinder", 
+    "pkg_version": "0.4.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "grinder-0.0.139-5.fc21.noarch.rpm", 
+    "pkg": "grinder", 
+    "pkg_version": "0.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "grinder-0.0.139-5.fc21.noarch.rpm", 
+    "pkg": "grinder", 
+    "pkg_version": "0.0.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "grinder-0.0.139-5.fc21.noarch.rpm", 
+    "pkg": "grinder", 
+    "pkg_version": "0.0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "grinder-0.0.139-4.fc20.noarch.rpm", 
+    "pkg": "grinder", 
+    "pkg_version": "0.0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "grinder_0.5.3-3_all.deb", 
+    "pkg": "grinder", 
+    "pkg_version": "0.5.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

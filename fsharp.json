@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fsharp_3.1.1.26+dfsg2-3_all.deb", 
+    "pkg": "fsharp", 
+    "pkg_version": "3.1.1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fsharp_3.1.1.26+dfsg2-3_all.deb", 
+    "pkg": "fsharp", 
+    "pkg_version": "3.1.1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fsharp_3.1.1.26+dfsg2-3_all.deb", 
+    "pkg": "fsharp", 
+    "pkg_version": "3.1.1.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "fsharp-201011-21.1.noarch.rpm", 
+    "pkg": "fsharp-201011-2", 
+    "pkg_version": "1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fsharp_3.1.1.26+dfsg2-3_all.deb", 
+    "pkg": "fsharp", 
+    "pkg_version": "3.1.1.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "fsharp-201011-21.1.noarch.rpm", 
+    "pkg": "fsharp-201011-2", 
+    "pkg_version": "1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "fsharp_3.0.34+dfsg-5_all.deb", 
+    "pkg": "fsharp", 
+    "pkg_version": "3.0.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "fsharp-201011-21.1.noarch.rpm", 
+    "pkg": "fsharp-201011-2", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

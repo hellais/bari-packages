@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Russian Fedora Free", 
+    "pkg_full_name": "conkeror-1.0pre-1.el6.R.x86_64.rpm", 
+    "pkg": "conkeror", 
+    "pkg_version": "1.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "conkeror_1.0~~pre-1+git141025-1_all.deb", 
+    "pkg": "conkeror", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "conkeror_1.0~~pre-1+git141025-1_all.deb", 
+    "pkg": "conkeror", 
+    "pkg_version": "1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

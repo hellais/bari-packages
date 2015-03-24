@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtiff5-dev_4.0.3-12.3_i386.deb", 
+    "pkg": "libtiff5-dev", 
+    "pkg_version": "4.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtiff5-dev_4.0.3-12.2_i386.deb", 
+    "pkg": "libtiff5-dev", 
+    "pkg_version": "4.0.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "libtiff5-dev_4.0.2-6+deb7u3_i386.deb", 
+    "pkg": "libtiff5-dev", 
+    "pkg_version": "4.0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libtiff5-dev_4.0.3-10build1_i386.deb", 
+    "pkg": "libtiff5-dev", 
+    "pkg_version": "4.0.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

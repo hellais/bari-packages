@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Atomic", 
+    "pkg_full_name": "python-ntlm-1.0.1-3.el6.art.noarch.rpm", 
+    "pkg": "python-ntlm", 
+    "pkg_version": "1.0.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-ntlm_1.0.1-1_all.deb", 
+    "pkg": "python-ntlm", 
+    "pkg_version": "1.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-ntlm_1.0.1-1_all.deb", 
+    "pkg": "python-ntlm", 
+    "pkg_version": "1.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Atomic", 
+    "pkg_full_name": "python-ntlm-1.0.1-3.fc20.art.noarch.rpm", 
+    "pkg": "python-ntlm", 
+    "pkg_version": "1.0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-ntlm_1.0.1-1_all.deb", 
+    "pkg": "python-ntlm", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

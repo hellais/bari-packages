@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libspiro0-0.2.20130930-5-omv2015.0.i586.rpm", 
+    "pkg": "libspiro0", 
+    "pkg_version": "0.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libspiro0-0.3.20150131-1.1.x86_64.rpm", 
+    "pkg": "libspiro0", 
+    "pkg_version": "0.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libspiro0-0.0.1-8.1.2.x86_64.rpm", 
+    "pkg": "libspiro0", 
+    "pkg_version": "0.0.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libspiro0-0.0.1-6.1.2.i586.rpm", 
+    "pkg": "libspiro0", 
+    "pkg_version": "0.0.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libspiro0-0.2.20130930-3-rosa2014.1.i586.rpm", 
+    "pkg": "libspiro0", 
+    "pkg_version": "0.2.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "libspiro0-0.2.20130930-2-rosa2012.1.i586.rpm", 
+    "pkg": "libspiro0", 
+    "pkg_version": "0.2.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "libspiro0-0.2.20130930-2-rosa2012.1.i586.rpm", 
+    "pkg": "libspiro0", 
+    "pkg_version": "0.2.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "libspiro0-0.2.20130930-2-rosa2012.1.i586.rpm", 
+    "pkg": "libspiro0", 
+    "pkg_version": "0.2.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-btdownload_0.0.32-4_all.deb", 
+    "pkg": "gnome-btdownload", 
+    "pkg_version": "0.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-btdownload_0.0.32-4_all.deb", 
+    "pkg": "gnome-btdownload", 
+    "pkg_version": "0.0.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-btdownload_0.0.32-4_all.deb", 
+    "pkg": "gnome-btdownload", 
+    "pkg_version": "0.0.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "gnome-btdownload-0.0.32-1.29.noarch.rpm", 
+    "pkg": "gnome-btdownload", 
+    "pkg_version": "0.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "gnome-btdownload-0.0.32-1.9.noarch.rpm", 
+    "pkg": "gnome-btdownload", 
+    "pkg_version": "0.0.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnome-btdownload_0.0.32-4_all.deb", 
+    "pkg": "gnome-btdownload", 
+    "pkg_version": "0.0.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnome-btdownload_0.0.32-4_all.deb", 
+    "pkg": "gnome-btdownload", 
+    "pkg_version": "0.0.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

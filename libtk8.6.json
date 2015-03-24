@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtk8.6_8.6.2-1_i386.deb", 
+    "pkg": "libtk", 
+    "pkg_version": "8.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtk8.6_8.6.2-1_i386.deb", 
+    "pkg": "libtk", 
+    "pkg_version": "8.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libtk8.6-8.6.1-5-omv2015.0.i586.rpm", 
+    "pkg": "libtk", 
+    "pkg_version": "8.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libtk8.6-8.6-0.b2.5-omv2014.0.i586.rpm", 
+    "pkg": "libtk", 
+    "pkg_version": "8.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libtk8.6-8.6-0.b2.5-omv2013.0.i586.rpm", 
+    "pkg": "libtk", 
+    "pkg_version": "8.6", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libtk8.6-8.6-0.b2.4-rosa2014.1.i586.rpm", 
+    "pkg": "libtk", 
+    "pkg_version": "8.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libtk8.6-8.6-0.b2.4-rosa2012.1.i586.rpm", 
+    "pkg": "libtk", 
+    "pkg_version": "8.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libtk8.6_8.6.1-3ubuntu2_i386.deb", 
+    "pkg": "libtk", 
+    "pkg_version": "8.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

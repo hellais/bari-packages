@@ -1,0 +1,37 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "jabberd2-2.2.14-alt1.git.e21b878.qa1.x86_64.rpm", 
+    "pkg": "jabberd2", 
+    "pkg_version": "2.2.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jabberd2_2.2.17-1+b1_i386.deb", 
+    "pkg": "jabberd2", 
+    "pkg_version": "2.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "jabberd2_2.2.17-1ubuntu1_i386.deb", 
+    "pkg": "jabberd2", 
+    "pkg_version": "2.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "jabberd2_2.2.17-1build1_i386.deb", 
+    "pkg": "jabberd2", 
+    "pkg_version": "2.2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

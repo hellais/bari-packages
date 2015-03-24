@@ -1,0 +1,469 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "novnc-0.4-alt1.noarch.rpm", 
+    "pkg": "novnc", 
+    "pkg_version": "0.4", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "novnc-0.5.1-2.el7.noarch.rpm", 
+    "pkg": "novnc", 
+    "pkg_version": "0.5.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "novnc-0.5.1-2.el6.noarch.rpm", 
+    "pkg": "novnc", 
+    "pkg_version": "0.5.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "novnc_0.4+dfsg+1+20131010+gitf68af8af3d-4_all.deb", 
+    "pkg": "novnc", 
+    "pkg_version": "0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "novnc_0.4+dfsg+1+20131010+gitf68af8af3d-4_all.deb", 
+    "pkg": "novnc", 
+    "pkg_version": "0.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "novnc_0.4+dfsg+1+20131010+gitf68af8af3d-4_all.deb", 
+    "pkg": "novnc", 
+    "pkg_version": "0.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "novnc_2012.1~e3+dfsg+1-4_i386.deb", 
+    "pkg": "novnc_201", 
+    "pkg_version": "2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "novnc-0.5.1-2.fc23.noarch.rpm", 
+    "pkg": "novnc", 
+    "pkg_version": "0.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "novnc_2012.1~e3+dfsg+1-4_i386.deb", 
+    "pkg": "novnc_201", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "novnc-0.5.1-1.fc22.noarch.rpm", 
+    "pkg": "novnc", 
+    "pkg_version": "0.5.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "novnc_2012.1~e3+dfsg+1-4_i386.deb", 
+    "pkg": "novnc_201", 
+    "pkg_version": "2.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "novnc-0.4-9.fc21.noarch.rpm", 
+    "pkg": "novnc", 
+    "pkg_version": "0.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "novnc_2012.1~e3+dfsg+1-4_i386.deb", 
+    "pkg": "novnc_201", 
+    "pkg_version": "2.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "novnc-0.4-8.fc20.noarch.rpm", 
+    "pkg": "novnc", 
+    "pkg_version": "0.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "novnc_2012.1~e3+dfsg+1-4_i386.deb", 
+    "pkg": "novnc_201", 
+    "pkg_version": "2.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Mageia Core Updates Testing", 
+    "pkg_full_name": "novnc-0.4-9.2.mga4.noarch.rpm", 
+    "pkg": "novnc", 
+    "pkg_version": "0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "novnc-git523cc4d6ab.1-2-omv2013.0.x86_64.rpm", 
+    "pkg": "novnc-git523cc4d6ab.1-2-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "novnc_2012.1~e3+dfsg+1-4_i386.deb", 
+    "pkg": "novnc_201", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core Updates Testing", 
+    "pkg_full_name": "novnc-0.4-9.2.mga4.noarch.rpm", 
+    "pkg": "novnc", 
+    "pkg_version": "0.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "novnc-git523cc4d6ab.1-2-omv2013.0.x86_64.rpm", 
+    "pkg": "novnc-git523cc4d6ab.1-2-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "novnc_2012.1~e3+dfsg+1-4_i386.deb", 
+    "pkg": "novnc_201", 
+    "pkg_version": "2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core Updates Testing", 
+    "pkg_full_name": "novnc-0.4-9.2.mga4.noarch.rpm", 
+    "pkg": "novnc", 
+    "pkg_version": "0.4", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "novnc-git523cc4d6ab.1-2-omv2013.0.x86_64.rpm", 
+    "pkg": "novnc-git523cc4d6ab.1-2-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "novnc_2012.1~e3+dfsg+1-4_i386.deb", 
+    "pkg": "novnc_201", 
+    "pkg_version": "2.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "novnc-0.4-3.1.x86_64.rpm", 
+    "pkg": "novnc", 
+    "pkg_version": "0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "novnc-git523cc4d6ab.1-2-omv2013.0.x86_64.rpm", 
+    "pkg": "novnc-git523cc4d6ab.1-2-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "novnc_2012.1~e3+dfsg+1-4_i386.deb", 
+    "pkg": "novnc_201", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "novnc-0.4-2.1.3.x86_64.rpm", 
+    "pkg": "novnc", 
+    "pkg_version": "0.4", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "novnc-git523cc4d6ab.1-2-omv2013.0.x86_64.rpm", 
+    "pkg": "novnc-git523cc4d6ab.1-2-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "novnc_2012.1~e3+dfsg+1-4_i386.deb", 
+    "pkg": "novnc_201", 
+    "pkg_version": "2.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "novnc-0.4-1.1.i586.rpm", 
+    "pkg": "novnc", 
+    "pkg_version": "0.4", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "novnc-git523cc4d6ab.1-2-omv2013.0.x86_64.rpm", 
+    "pkg": "novnc-git523cc4d6ab.1-2-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "novnc_2012.1~e3+dfsg+1-4_i386.deb", 
+    "pkg": "novnc_201", 
+    "pkg_version": "2.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "novnc-git523cc4d6ab.1-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "novnc-git523cc4d6ab.1-2-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "novnc-0.4-1.1.i586.rpm", 
+    "pkg": "novnc", 
+    "pkg_version": "0.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "novnc-git523cc4d6ab.1-2-omv2013.0.x86_64.rpm", 
+    "pkg": "novnc-git523cc4d6ab.1-2-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "novnc_2012.1~e3+dfsg+1-4_i386.deb", 
+    "pkg": "novnc_201", 
+    "pkg_version": "2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "novnc-git523cc4d6ab.1-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "novnc-git523cc4d6ab.1-2-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "novnc-0.4-1.1.i586.rpm", 
+    "pkg": "novnc", 
+    "pkg_version": "0.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "novnc-git523cc4d6ab.1-2-omv2013.0.x86_64.rpm", 
+    "pkg": "novnc-git523cc4d6ab.1-2-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "novnc_2012.1~e3+dfsg+1-4_i386.deb", 
+    "pkg": "novnc_201", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "novnc-git523cc4d6ab.1-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "novnc-git523cc4d6ab.1-1-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "novnc-git523cc4d6ab.1-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "novnc-git523cc4d6ab.1-2-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "novnc_0.4+dfsg+1+20131010+gitf68af8af3d-2_all.deb", 
+    "pkg": "novnc", 
+    "pkg_version": "0.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "novnc-git523cc4d6ab.1-2-omv2013.0.x86_64.rpm", 
+    "pkg": "novnc-git523cc4d6ab.1-2-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "novnc_2012.1~e3+dfsg+1-4_i386.deb", 
+    "pkg": "novnc_201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "novnc-git523cc4d6ab.1-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "novnc-git523cc4d6ab.1-1-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "novnc-git523cc4d6ab.1-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "novnc-git523cc4d6ab.1-2-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "novnc_0.4+dfsg+1+20131010+gitf68af8af3d-2_all.deb", 
+    "pkg": "novnc", 
+    "pkg_version": "0.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "novnc-git523cc4d6ab.1-2-omv2013.0.x86_64.rpm", 
+    "pkg": "novnc-git523cc4d6ab.1-2-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "novnc_2012.1~e3+dfsg+1-4_i386.deb", 
+    "pkg": "novnc_201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "novnc-git523cc4d6ab.1-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "novnc-git523cc4d6ab.1-1-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

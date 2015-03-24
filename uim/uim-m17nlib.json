@@ -1,0 +1,83 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "uim-m17nlib_1.8.6-8_i386.deb", 
+    "pkg": "uim-m17nlib", 
+    "pkg_version": "1.8.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "uim-m17nlib_1.8.6-8_i386.deb", 
+    "pkg": "uim-m17nlib", 
+    "pkg_version": "1.8.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "uim-m17nlib_1.8.1-4_i386.deb", 
+    "pkg": "uim-m17nlib", 
+    "pkg_version": "1.8.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "uim-1.7.0-4-rosa2012.1.x86_64.rpm", 
+    "pkg": "uim", 
+    "pkg_version": "1.7.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "uim-m17nlib_1.8.1-4_i386.deb", 
+    "pkg": "uim-m17nlib", 
+    "pkg_version": "1.8.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "uim-1.7.0-4-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "uim", 
+    "pkg_version": "1.7.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "uim-m17nlib_1.8.6-7_i386.deb", 
+    "pkg": "uim-m17nlib", 
+    "pkg_version": "1.8.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "uim-1.7.0-4-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "uim", 
+    "pkg_version": "1.7.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "uim-m17nlib_1.8.6-4ubuntu1_i386.deb", 
+    "pkg": "uim-m17nlib", 
+    "pkg_version": "1.8.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

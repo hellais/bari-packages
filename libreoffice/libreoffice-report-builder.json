@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Russian Fedora Free Updates Testing", 
+    "pkg_full_name": "libreoffice-report-builder-3.4.3.2-3.el6.R.x86_64.rpm", 
+    "pkg": "libreoffice-report-builder", 
+    "pkg_version": "3.4.3.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libreoffice-report-builder_4.3.3-2_all.deb", 
+    "pkg": "libreoffice-report-builder", 
+    "pkg_version": "4.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libreoffice-report-builder_4.3.3-2_all.deb", 
+    "pkg": "libreoffice-report-builder", 
+    "pkg_version": "4.3.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "libreoffice-report-builder_1.2.1+LibO3.5.4+dfsg2-0+deb7u3_all.deb", 
+    "pkg": "libreoffice-report-builder", 
+    "pkg_version": "1.2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libreoffice-report-builder-3.6.2-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "libreoffice-report-builder", 
+    "pkg_version": "3.6.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "libreoffice-report-builder_4.3.3-0ubuntu1_all.deb", 
+    "pkg": "libreoffice-report-builder", 
+    "pkg_version": "4.3.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

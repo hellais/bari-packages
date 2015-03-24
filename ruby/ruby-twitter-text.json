@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-twitter-text_1.10.0+gem-1_all.deb", 
+    "pkg": "ruby-twitter-text", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-twitter-text_1.10.0+gem-1_all.deb", 
+    "pkg": "ruby-twitter-text", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ruby-twitter-text_1.9.2-1_all.deb", 
+    "pkg": "ruby-twitter-text", 
+    "pkg_version": "1.9.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

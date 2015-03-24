@@ -1,0 +1,155 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "gr-fcdproplus-0-0.7.20140920git1edbe523.el7.x86_64.rpm", 
+    "pkg": "gr-fcdproplus-0", 
+    "pkg_version": "0.7.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "gr-fcdproplus-0-0.7.20140920git1edbe523.el7.x86_64.rpm", 
+    "pkg": "gr-fcdproplus-0", 
+    "pkg_version": "0.7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gr-fcdproplus_3.7.11-3_i386.deb", 
+    "pkg": "gr-fcdproplus", 
+    "pkg_version": "3.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "gr-fcdproplus-0-0.7.20140920git1edbe523.el7.x86_64.rpm", 
+    "pkg": "gr-fcdproplus-0", 
+    "pkg_version": "0.7.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gr-fcdproplus_3.7.11-3_i386.deb", 
+    "pkg": "gr-fcdproplus", 
+    "pkg_version": "3.7.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "gr-fcdproplus-0-0.7.20140920git1edbe523.el7.x86_64.rpm", 
+    "pkg": "gr-fcdproplus-0", 
+    "pkg_version": "0.7.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "gr-fcdproplus_3.7.11-3~bpo70+1_i386.deb", 
+    "pkg": "gr-fcdproplus", 
+    "pkg_version": "3.7.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gr-fcdproplus-0-0.8.20140920git1edbe523.fc23.x86_64.rpm", 
+    "pkg": "gr-fcdproplus-0", 
+    "pkg_version": "0.8.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "gr-fcdproplus_3.7.11-3~bpo70+1_i386.deb", 
+    "pkg": "gr-fcdproplus", 
+    "pkg_version": "3.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gr-fcdproplus-0-0.7.20140920git1edbe523.fc22.x86_64.rpm", 
+    "pkg": "gr-fcdproplus-0", 
+    "pkg_version": "0.7.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "gr-fcdproplus_3.7.11-3~bpo70+1_i386.deb", 
+    "pkg": "gr-fcdproplus", 
+    "pkg_version": "3.7.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "gr-fcdproplus-0-0.4.20140920git1edbe523.fc21.x86_64.rpm", 
+    "pkg": "gr-fcdproplus-0", 
+    "pkg_version": "0.4.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "gr-fcdproplus_3.7.11-3~bpo70+1_i386.deb", 
+    "pkg": "gr-fcdproplus", 
+    "pkg_version": "3.7.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "gr-fcdproplus-0-0.6.20140920git1edbe523.fc20.x86_64.rpm", 
+    "pkg": "gr-fcdproplus-0", 
+    "pkg_version": "0.6.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "gr-fcdproplus_3.7.11-3~bpo70+1_i386.deb", 
+    "pkg": "gr-fcdproplus", 
+    "pkg_version": "3.7.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "gr-fcdproplus-0-0.20150118git22f51738.1.mga5.x86_64.rpm", 
+    "pkg": "gr-fcdproplus-0", 
+    "pkg_version": "0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gr-fcdproplus_0.0.1.2.1edbe52-2_i386.deb", 
+    "pkg": "gr-fcdproplus", 
+    "pkg_version": "0.0.1.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

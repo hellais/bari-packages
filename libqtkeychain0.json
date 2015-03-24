@@ -1,0 +1,119 @@
+[
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "libqtkeychain0-0.3-8.1.x86_64.rpm", 
+    "pkg": "libqtkeychain0", 
+    "pkg_version": "0.3", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "libqtkeychain0-0.20130805-2.1.sdl6.x86_64.rpm", 
+    "pkg": "libqtkeychain0", 
+    "pkg_version": "0.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libqtkeychain0_0.4.0-1_i386.deb", 
+    "pkg": "libqtkeychain0", 
+    "pkg_version": "0.4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libqtkeychain0_0.4.0-1_i386.deb", 
+    "pkg": "libqtkeychain0", 
+    "pkg_version": "0.4.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "libqtkeychain0_0.1.0-2~bpo70+1_i386.deb", 
+    "pkg": "libqtkeychain0", 
+    "pkg_version": "0.1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libqtkeychain0-0.3.0-3-omv2015.0.i586.rpm", 
+    "pkg": "libqtkeychain0", 
+    "pkg_version": "0.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "libqtkeychain0-0.3.0-1-omv2014.0.i586.rpm", 
+    "pkg": "libqtkeychain0", 
+    "pkg_version": "0.3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libqtkeychain0-0.4-1.2.x86_64.rpm", 
+    "pkg": "libqtkeychain0", 
+    "pkg_version": "0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE KDE Extra", 
+    "pkg_full_name": "libqtkeychain0-0.4-5.1.x86_64.rpm", 
+    "pkg": "libqtkeychain0", 
+    "pkg_version": "0.4", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE KDE Extra", 
+    "pkg_full_name": "libqtkeychain0-0.4-3.1.x86_64.rpm", 
+    "pkg": "libqtkeychain0", 
+    "pkg_version": "0.4", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "libqtkeychain0-0.3.0-2-rosa2014.1.i586.rpm", 
+    "pkg": "libqtkeychain0", 
+    "pkg_version": "0.3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "libqtkeychain0-0.3.0-1-rosa2012.1.i586.rpm", 
+    "pkg": "libqtkeychain0", 
+    "pkg_version": "0.3.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libqtkeychain0_0.3.0-2_i386.deb", 
+    "pkg": "libqtkeychain0", 
+    "pkg_version": "0.3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

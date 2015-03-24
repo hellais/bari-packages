@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mono-xsp2_3.8-2.1_all.deb", 
+    "pkg": "mono-xsp2", 
+    "pkg_version": "3.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mono-xsp2_3.8-2.1_all.deb", 
+    "pkg": "mono-xsp2", 
+    "pkg_version": "3.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mono-xsp2_2.10-2.4_all.deb", 
+    "pkg": "mono-xsp2", 
+    "pkg_version": "2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mono-xsp2_3.0.11-1_all.deb", 
+    "pkg": "mono-xsp2", 
+    "pkg_version": "3.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mono-xsp2_3.0.11-1_all.deb", 
+    "pkg": "mono-xsp2", 
+    "pkg_version": "3.0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

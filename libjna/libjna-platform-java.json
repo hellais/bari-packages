@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libjna-platform-java_4.1.0-1_all.deb", 
+    "pkg": "libjna-platform-java", 
+    "pkg_version": "4.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

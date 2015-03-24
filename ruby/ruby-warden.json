@@ -1,0 +1,37 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-warden-0.9.4-alt2.1.noarch.rpm", 
+    "pkg": "ruby-warden", 
+    "pkg_version": "0.9.4", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-warden_1.2.3-1_all.deb", 
+    "pkg": "ruby-warden", 
+    "pkg_version": "1.2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-warden_1.2.3-1_all.deb", 
+    "pkg": "ruby-warden", 
+    "pkg_version": "1.2.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ruby-warden_1.2.3-1_all.deb", 
+    "pkg": "ruby-warden", 
+    "pkg_version": "1.2.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

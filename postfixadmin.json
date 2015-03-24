@@ -1,0 +1,108 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "postfixadmin-2.3.2-alt4.noarch.rpm", 
+    "pkg": "postfixadmin", 
+    "pkg_version": "2.3.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "postfixadmin-2.92-1-any.pkg.tar.xz", 
+    "pkg": "postfixadmin", 
+    "pkg_version": "2.9", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Lux", 
+    "pkg_full_name": "postfixadmin-2.3.7-1.el7.lux.4.noarch.rpm", 
+    "pkg": "postfixadmin", 
+    "pkg_version": "2.3.7", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Lux", 
+    "pkg_full_name": "postfixadmin-2.3.7-1.el6.lux.2.noarch.rpm", 
+    "pkg": "postfixadmin", 
+    "pkg_version": "2.3.7", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Lux", 
+    "pkg_full_name": "postfixadmin-2.2.1.1-0.lux.7.noarch.rpm", 
+    "pkg": "postfixadmin", 
+    "pkg_version": "2.2.1.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "postfixadmin_2.3.7-1_all.deb", 
+    "pkg": "postfixadmin", 
+    "pkg_version": "2.3.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "postfixadmin_2.3.7-1_all.deb", 
+    "pkg": "postfixadmin", 
+    "pkg_version": "2.3.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "postfixadmin_2.3.5-2+deb7u1_all.deb", 
+    "pkg": "postfixadmin", 
+    "pkg_version": "2.3.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "postfixadmin-2.92-1.1.noarch.rpm", 
+    "pkg": "postfixadmin", 
+    "pkg_version": "2.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "postfixadmin-2.91-1.6.noarch.rpm", 
+    "pkg": "postfixadmin", 
+    "pkg_version": "2.9", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "postfixadmin-2.3.7-5.4.1.noarch.rpm", 
+    "pkg": "postfixadmin", 
+    "pkg_version": "2.3.7", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "postfixadmin_2.3.5-3_all.deb", 
+    "pkg": "postfixadmin", 
+    "pkg_version": "2.3.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

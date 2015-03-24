@@ -1,0 +1,226 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gromit-20041213-alt1.1.x86_64.rpm", 
+    "pkg": "gromit-20041213-alt", 
+    "pkg_version": "1.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gromit-20041213-alt1.1.x86_64.rpm", 
+    "pkg": "gromit-20041213-alt", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gromit-20041213-alt1.1.x86_64.rpm", 
+    "pkg": "gromit-20041213-alt", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gromit-20041213-alt1.1.x86_64.rpm", 
+    "pkg": "gromit-20041213-alt", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gromit-20041213-alt1.1.x86_64.rpm", 
+    "pkg": "gromit-20041213-alt", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gromit-20041213-9.2.x86_64.rpm", 
+    "pkg": "gromit-20041213", 
+    "pkg_version": "9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gromit-20041213-alt1.1.x86_64.rpm", 
+    "pkg": "gromit-20041213-alt", 
+    "pkg_version": "1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gromit-20041213-8.1.3.x86_64.rpm", 
+    "pkg": "gromit-20041213", 
+    "pkg_version": "8.1.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gromit-20041213-alt1.1.x86_64.rpm", 
+    "pkg": "gromit-20041213-alt", 
+    "pkg_version": "1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gromit-20041213-6.1.3.i586.rpm", 
+    "pkg": "gromit-20041213", 
+    "pkg_version": "6.1.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "gromit-0-20041213.4-rosa2014.1.x86_64.rpm", 
+    "pkg": "gromit-0-2004121", 
+    "pkg_version": "3.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gromit-20041213-alt1.1.x86_64.rpm", 
+    "pkg": "gromit-20041213-alt", 
+    "pkg_version": "1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gromit-20041213-6.1.3.i586.rpm", 
+    "pkg": "gromit-20041213", 
+    "pkg_version": "6.1.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "gromit-0-20041213.4-rosa2012.1.x86_64.rpm", 
+    "pkg": "gromit-0-2004121", 
+    "pkg_version": "3.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gromit-20041213-alt1.1.x86_64.rpm", 
+    "pkg": "gromit-20041213-alt", 
+    "pkg_version": "1.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gromit-20041213-6.1.3.i586.rpm", 
+    "pkg": "gromit-20041213", 
+    "pkg_version": "6.1.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "gromit-0-20041213.3-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "gromit-0-2004121", 
+    "pkg_version": "3.3", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gromit-20041213-alt1.1.x86_64.rpm", 
+    "pkg": "gromit-20041213-alt", 
+    "pkg_version": "1.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gromit-20041213-6.1.3.i586.rpm", 
+    "pkg": "gromit-20041213", 
+    "pkg_version": "6.1.3", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "gromit-0-20041213.3-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "gromit-0-2004121", 
+    "pkg_version": "3.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gromit-20041213-alt1.1.x86_64.rpm", 
+    "pkg": "gromit-20041213-alt", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gromit-20041213-6.1.3.i586.rpm", 
+    "pkg": "gromit-20041213", 
+    "pkg_version": "6.1.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "gromit-0-20041213.3-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "gromit-0-2004121", 
+    "pkg_version": "3.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gromit-20041213-alt1.1.x86_64.rpm", 
+    "pkg": "gromit-20041213-alt", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gromit-20041213-6.1.3.i586.rpm", 
+    "pkg": "gromit-20041213", 
+    "pkg_version": "6.1.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

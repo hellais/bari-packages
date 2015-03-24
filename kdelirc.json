@@ -1,0 +1,155 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kdelirc_4.14.2-1_all.deb", 
+    "pkg": "kdelirc", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kdelirc_4.14.2-1_all.deb", 
+    "pkg": "kdelirc", 
+    "pkg_version": "4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kdelirc_4.8.4-3_all.deb", 
+    "pkg": "kdelirc", 
+    "pkg_version": "4.8.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Mint Import", 
+    "pkg_full_name": "kdelirc_4.14.2-0ubuntu1~ubuntu14.04~ppa1_all.deb", 
+    "pkg": "kdelirc", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kremotecontrol-14.12.3-1.1.x86_64.rpm", 
+    "pkg": "kremotecontrol-1", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mint Import", 
+    "pkg_full_name": "kdelirc_4.14.2-0ubuntu1~ubuntu14.04~ppa1_all.deb", 
+    "pkg": "kdelirc", 
+    "pkg_version": "4.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kremotecontrol-4.14.3-4.2.x86_64.rpm", 
+    "pkg": "kremotecontrol", 
+    "pkg_version": "4.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kremotecontrol-14.12.3-16.1.x86_64.rpm", 
+    "pkg": "kremotecontrol-1", 
+    "pkg_version": "4.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mint Import", 
+    "pkg_full_name": "kdelirc_4.14.2-0ubuntu1~ubuntu14.04~ppa1_all.deb", 
+    "pkg": "kdelirc", 
+    "pkg_version": "4.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kremotecontrol-4.11.5-154.3.x86_64.rpm", 
+    "pkg": "kremotecontrol", 
+    "pkg_version": "4.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kremotecontrol-14.12.3-16.1.x86_64.rpm", 
+    "pkg": "kremotecontrol-1", 
+    "pkg_version": "4.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "kdelirc_4.14.1-0ubuntu1_all.deb", 
+    "pkg": "kdelirc", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kremotecontrol-4.11.5-154.3.x86_64.rpm", 
+    "pkg": "kremotecontrol", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kremotecontrol-14.12.3-16.1.x86_64.rpm", 
+    "pkg": "kremotecontrol-1", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "kdelirc_4.13.3-0ubuntu0.1_all.deb", 
+    "pkg": "kdelirc", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kremotecontrol-4.11.5-154.3.x86_64.rpm", 
+    "pkg": "kremotecontrol", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kremotecontrol-14.12.3-16.1.x86_64.rpm", 
+    "pkg": "kremotecontrol-1", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

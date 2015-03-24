@@ -1,0 +1,55 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libcluster-glue-1.0.12-alt1.x86_64.rpm", 
+    "pkg": "libcluster-glue", 
+    "pkg_version": "1.0.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcluster-glue_1.0.12~rc1+hg2777-1.2_all.deb", 
+    "pkg": "libcluster-glue", 
+    "pkg_version": "1.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcluster-glue_1.0.12~rc1+hg2777-1.2_all.deb", 
+    "pkg": "libcluster-glue", 
+    "pkg_version": "1.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcluster-glue_1.0.9+hg2665-1_all.deb", 
+    "pkg": "libcluster-glue", 
+    "pkg_version": "1.0.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libcluster-glue_1.0.12~rc1+hg2777-1_all.deb", 
+    "pkg": "libcluster-glue", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libcluster-glue_1.0.11+hg2754-1.1build1_all.deb", 
+    "pkg": "libcluster-glue", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

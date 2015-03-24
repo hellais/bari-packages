@@ -1,0 +1,73 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-pg-0.9.0-alt1.2.x86_64.rpm", 
+    "pkg": "ruby-pg", 
+    "pkg_version": "0.9.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-pg_0.17.1-2_i386.deb", 
+    "pkg": "ruby-pg", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-pg_0.17.1-2_i386.deb", 
+    "pkg": "ruby-pg", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-pg_0.13.2-2_i386.deb", 
+    "pkg": "ruby-pg", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "ruby-pg-0.9.0-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "ruby-pg", 
+    "pkg_version": "0.9.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "ruby-pg-0.9.0-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "ruby-pg", 
+    "pkg_version": "0.9.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ruby-pg_0.17.1-1_i386.deb", 
+    "pkg": "ruby-pg", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ruby-pg_0.17.0-1_i386.deb", 
+    "pkg": "ruby-pg", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

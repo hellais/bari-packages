@@ -1,0 +1,135 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "mpv-0.8.0-alt1.x86_64.rpm", 
+    "pkg": "mpv", 
+    "pkg_version": "0.8.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "mpv-0.8.3-1-x86_64.pkg.tar.xz", 
+    "pkg": "mpv", 
+    "pkg_version": "0.8.3", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "mpv_0.8.3-dmo1_i386.deb", 
+    "pkg": "mpv", 
+    "pkg_version": "0.8.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "mpv_0.8.3-dmo1_i386.deb", 
+    "pkg": "mpv", 
+    "pkg_version": "0.8.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "mpv-0.6.0-3.fc21.x86_64.rpm", 
+    "pkg": "mpv", 
+    "pkg_version": "0.6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free Updates", 
+    "pkg_full_name": "mpv-0.7.3-1.fc21.x86_64.rpm", 
+    "pkg": "mpv", 
+    "pkg_version": "0.7.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free Updates", 
+    "pkg_full_name": "mpv-0.3.11-1.fc20.x86_64.rpm", 
+    "pkg": "mpv", 
+    "pkg_version": "0.3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "mpv-0.8.2-1-omv2015.0.x86_64.rpm", 
+    "pkg": "mpv", 
+    "pkg_version": "0.8.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib Updates", 
+    "pkg_full_name": "mpv-0.3.10-1-omv2014.0.x86_64.rpm", 
+    "pkg": "mpv", 
+    "pkg_version": "0.3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "mpv-0.8.3-1.1.x86_64.rpm", 
+    "pkg": "mpv", 
+    "pkg_version": "0.8.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "mpv-0.8.3-1.1.x86_64.rpm", 
+    "pkg": "mpv", 
+    "pkg_version": "0.8.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "mpv-0.8.2-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "mpv", 
+    "pkg_version": "0.8.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "mpv-0.3.10-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "mpv", 
+    "pkg_version": "0.3.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Johannes Sch\u00f6pfer", 
+    "pkg_full_name": "mpv-0.8.2-x86_64-1jsc.txz", 
+    "pkg": "mpv", 
+    "pkg_version": "0.8.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mpv_0.4.2-1ubuntu3_i386.deb", 
+    "pkg": "mpv", 
+    "pkg_version": "0.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

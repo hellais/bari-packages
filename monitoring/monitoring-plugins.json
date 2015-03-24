@@ -1,0 +1,37 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "monitoring-plugins-2.1.1-1-x86_64.pkg.tar.xz", 
+    "pkg": "monitoring-plugins", 
+    "pkg_version": "2.1.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "monitoring-plugins_2.1.1-1_all.deb", 
+    "pkg": "monitoring-plugins", 
+    "pkg_version": "2.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "monitoring-plugins_2.1.1-1_all.deb", 
+    "pkg": "monitoring-plugins", 
+    "pkg_version": "2.1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "monitoring-plugins_2.1.1-1~bpo70+1_all.deb", 
+    "pkg": "monitoring-plugins", 
+    "pkg_version": "2.1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

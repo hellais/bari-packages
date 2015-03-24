@@ -1,0 +1,181 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libnjb-devel-2.2.7-alt3_9.x86_64.rpm", 
+    "pkg": "libnjb-devel", 
+    "pkg_version": "2.2.7", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "KBS Extras Testing", 
+    "pkg_full_name": "libnjb-devel-2.2.5-3.el5.kb.x86_64.rpm", 
+    "pkg": "libnjb-devel", 
+    "pkg_version": "2.2.5", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "KBS Extras Testing", 
+    "pkg_full_name": "libnjb-devel-2.2.5-3.el5.kb.x86_64.rpm", 
+    "pkg": "libnjb-devel", 
+    "pkg_version": "2.2.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libnjb-doc_2.2.7~dfsg0-4_all.deb", 
+    "pkg": "libnjb-doc", 
+    "pkg_version": "2.2.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "KBS Extras Testing", 
+    "pkg_full_name": "libnjb-devel-2.2.5-3.el5.kb.x86_64.rpm", 
+    "pkg": "libnjb-devel", 
+    "pkg_version": "2.2.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libnjb-doc_2.2.7~dfsg0-4_all.deb", 
+    "pkg": "libnjb-doc", 
+    "pkg_version": "2.2.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "KBS Extras Testing", 
+    "pkg_full_name": "libnjb-devel-2.2.5-3.el5.kb.x86_64.rpm", 
+    "pkg": "libnjb-devel", 
+    "pkg_version": "2.2.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libnjb-doc_2.2.7~dfsg0-3_all.deb", 
+    "pkg": "libnjb-doc", 
+    "pkg_version": "2.2.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "libnjb-devel-2.2.7-9.fc22.x86_64.rpm", 
+    "pkg": "libnjb-devel", 
+    "pkg_version": "2.2.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libnjb-doc_2.2.7~dfsg0-3_all.deb", 
+    "pkg": "libnjb-doc", 
+    "pkg_version": "2.2.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "libnjb-devel-2.2.7-9.fc22.x86_64.rpm", 
+    "pkg": "libnjb-devel", 
+    "pkg_version": "2.2.7", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libnjb-doc_2.2.7~dfsg0-3_all.deb", 
+    "pkg": "libnjb-doc", 
+    "pkg_version": "2.2.7", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "libnjb-devel-2.2.7-9.fc21.x86_64.rpm", 
+    "pkg": "libnjb-devel", 
+    "pkg_version": "2.2.7", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libnjb-doc_2.2.7~dfsg0-3_all.deb", 
+    "pkg": "libnjb-doc", 
+    "pkg_version": "2.2.7", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "libnjb-devel-2.2.7-5.fc20.x86_64.rpm", 
+    "pkg": "libnjb-devel", 
+    "pkg_version": "2.2.7", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libnjb-doc_2.2.7~dfsg0-3_all.deb", 
+    "pkg": "libnjb-doc", 
+    "pkg_version": "2.2.7", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "libnjb-devel-2.2.7-5.fc20.x86_64.rpm", 
+    "pkg": "libnjb-devel", 
+    "pkg_version": "2.2.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libnjb-doc_2.2.7~dfsg0-4_all.deb", 
+    "pkg": "libnjb-doc", 
+    "pkg_version": "2.2.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "libnjb-devel-2.2.7-5.fc20.x86_64.rpm", 
+    "pkg": "libnjb-devel", 
+    "pkg_version": "2.2.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libnjb-doc_2.2.7~dfsg0-3ubuntu1_all.deb", 
+    "pkg": "libnjb-doc", 
+    "pkg_version": "2.2.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

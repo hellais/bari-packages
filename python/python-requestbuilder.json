@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-requestbuilder_0.2.3-1_all.deb", 
+    "pkg": "python-requestbuilder", 
+    "pkg_version": "0.2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-requestbuilder_0.2.3-1_all.deb", 
+    "pkg": "python-requestbuilder", 
+    "pkg_version": "0.2.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-requestbuilder-0.1.0-3.2.noarch.rpm", 
+    "pkg": "python-requestbuilder", 
+    "pkg_version": "0.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-requestbuilder-0.1.0-2.1.4.noarch.rpm", 
+    "pkg": "python-requestbuilder", 
+    "pkg_version": "0.1.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python-requestbuilder_0.1.0-1_all.deb", 
+    "pkg": "python-requestbuilder", 
+    "pkg_version": "0.1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

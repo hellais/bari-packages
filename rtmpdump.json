@@ -1,0 +1,207 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "rtmpdump-2.4-alt1.x86_64.rpm", 
+    "pkg": "rtmpdump", 
+    "pkg_version": "2.4", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "rtmpdump-2.4-alt1.x86_64.rpm", 
+    "pkg": "rtmpdump", 
+    "pkg_version": "2.4", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "rtmpdump-2.4-2.20131205.gitdc76f0a.el7.nux.x86_64.rpm", 
+    "pkg": "rtmpdump", 
+    "pkg_version": "2.4", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "rtmpdump-2.3-1.el6.rf.x86_64.rpm", 
+    "pkg": "rtmpdump", 
+    "pkg_version": "2.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "rtmpdump-2.3-1.el5.x86_64.rpm", 
+    "pkg": "rtmpdump", 
+    "pkg_version": "2.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "rtmpdump_2.4+20130918.git79459a2-dmo6_i386.deb", 
+    "pkg": "rtmpdump", 
+    "pkg_version": "2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "rtmpdump_2.4+20130918.git79459a2-dmo6_i386.deb", 
+    "pkg": "rtmpdump", 
+    "pkg_version": "2.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rtmpdump_2.4+20111222.git4e06e21-1_i386.deb", 
+    "pkg": "rtmpdump", 
+    "pkg_version": "2.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "rtmpdump-2.4-3.20131205.gitdc76f0a.fc21.x86_64.rpm", 
+    "pkg": "rtmpdump", 
+    "pkg_version": "2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "rtmpdump-2.4-3.20131205.gitdc76f0a.fc21.x86_64.rpm", 
+    "pkg": "rtmpdump", 
+    "pkg_version": "2.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free Updates", 
+    "pkg_full_name": "rtmpdump-2.4-1.20131205.gitdc76f0a.fc20.x86_64.rpm", 
+    "pkg": "rtmpdump", 
+    "pkg_version": "2.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "rtmpdump-2.4-0.git20150202.2-omv2015.0.x86_64.rpm", 
+    "pkg": "rtmpdump", 
+    "pkg_version": "2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "rtmpdump-2.3-7-omv2014.0.x86_64.rpm", 
+    "pkg": "rtmpdump", 
+    "pkg_version": "2.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "rtmpdump-2.3-7-omv2013.0.x86_64.rpm", 
+    "pkg": "rtmpdump", 
+    "pkg_version": "2.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "rtmpdump-2.4.git20150115-1.1.x86_64.rpm", 
+    "pkg": "rtmpdump", 
+    "pkg_version": "2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "rtmpdump-2.4.git20150115-1.1.x86_64.rpm", 
+    "pkg": "rtmpdump", 
+    "pkg_version": "2.4", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "rtmpdump-2.3-5-rosa2014.1.x86_64.rpm", 
+    "pkg": "rtmpdump", 
+    "pkg_version": "2.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "rtmpdump-2.3-5-rosa2012.1.x86_64.rpm", 
+    "pkg": "rtmpdump", 
+    "pkg_version": "2.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "rtmpdump-2.3-x86_64-4sl.txz", 
+    "pkg": "rtmpdump", 
+    "pkg_version": "2.3", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "University of Queensland Vislab", 
+    "pkg_full_name": "rtmpdump-2.4-i486-1_uqv.txz", 
+    "pkg": "rtmpdump", 
+    "pkg_version": "2.4", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "rtmpdump-2.3-x86_64-2sl.txz", 
+    "pkg": "rtmpdump", 
+    "pkg_version": "2.3", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "rtmpdump_2.4+20131018.git79459a2-4_i386.deb", 
+    "pkg": "rtmpdump", 
+    "pkg_version": "2.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "rtmpdump_2.4+20121230.gitdf6c518-1_i386.deb", 
+    "pkg": "rtmpdump", 
+    "pkg_version": "2.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

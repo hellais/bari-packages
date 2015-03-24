@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "cmucl-19d-3.el5.1.i386.rpm", 
+    "pkg": "cmucl-19d-3.el", 
+    "pkg_version": "5.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cmucl_20c-2.1_i386.deb", 
+    "pkg": "cmucl_20c", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "cmucl-19d-3.el5.1.i386.rpm", 
+    "pkg": "cmucl-19d-3.el", 
+    "pkg_version": "5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

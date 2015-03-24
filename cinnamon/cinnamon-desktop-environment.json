@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cinnamon-desktop-environment_2.2.4_all.deb", 
+    "pkg": "cinnamon-desktop-environment", 
+    "pkg_version": "2.2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

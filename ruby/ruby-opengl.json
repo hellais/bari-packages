@@ -1,0 +1,46 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-opengl-0.60.1-alt2.2.x86_64.rpm", 
+    "pkg": "ruby-opengl", 
+    "pkg_version": "0.6", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-opengl_0.60.1+dfsg2-3+b2_i386.deb", 
+    "pkg": "ruby-opengl", 
+    "pkg_version": "0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-opengl_0.60.1+dfsg2-3+b2_i386.deb", 
+    "pkg": "ruby-opengl", 
+    "pkg_version": "0.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-opengl_0.60.1+dfsg2-1~wheezy1_i386.deb", 
+    "pkg": "ruby-opengl", 
+    "pkg_version": "0.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ruby-opengl_0.60.1+dfsg2-3ubuntu2_i386.deb", 
+    "pkg": "ruby-opengl", 
+    "pkg_version": "0.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

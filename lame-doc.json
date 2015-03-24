@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "lame-doc_3.99.5-dmo3_all.deb", 
+    "pkg": "lame-doc", 
+    "pkg_version": "3.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "lame-doc_3.99.5-dmo3_all.deb", 
+    "pkg": "lame-doc", 
+    "pkg_version": "3.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "lame-doc_3.99.5-dmo2_all.deb", 
+    "pkg": "lame-doc", 
+    "pkg_version": "3.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "lame-doc-3.99.5-1014.3.x86_64.rpm", 
+    "pkg": "lame-doc", 
+    "pkg_version": "3.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "lame-doc-3.99.5-1014.1.x86_64.rpm", 
+    "pkg": "lame-doc", 
+    "pkg_version": "3.9", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "lame-doc_3.99.5+repack1-3ubuntu1_all.deb", 
+    "pkg": "lame-doc", 
+    "pkg_version": "3.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "lame-doc_3.99.5+repack1-3ubuntu1_all.deb", 
+    "pkg": "lame-doc", 
+    "pkg_version": "3.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

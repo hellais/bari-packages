@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tf5_5.0beta8-5+b1_i386.deb", 
+    "pkg": "tf5", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tf5_5.0beta8-5+b1_i386.deb", 
+    "pkg": "tf5", 
+    "pkg_version": "5.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tf5_5.0beta8-4+b1_i386.deb", 
+    "pkg": "tf5", 
+    "pkg_version": "5.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "tf5_5.0beta8-5_i386.deb", 
+    "pkg": "tf5", 
+    "pkg_version": "5.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "tf5_5.0beta8-5_i386.deb", 
+    "pkg": "tf5", 
+    "pkg_version": "5.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gcovr-3.1-alt1.noarch.rpm", 
+    "pkg": "gcovr", 
+    "pkg_version": "3.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gcovr_3.2-1_all.deb", 
+    "pkg": "gcovr", 
+    "pkg_version": "3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gcovr_3.2-1_all.deb", 
+    "pkg": "gcovr", 
+    "pkg_version": "3.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gcovr_3.1-1ubuntu1_all.deb", 
+    "pkg": "gcovr", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

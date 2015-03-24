@@ -1,0 +1,576 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "rosegarden-13.02-alt1.1.x86_64.rpm", 
+    "pkg": "rosegarden-1", 
+    "pkg_version": "3.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "rosegarden-14.12-1-x86_64.pkg.tar.xz", 
+    "pkg": "rosegarden-1", 
+    "pkg_version": "4.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "rosegarden-14.12-1-x86_64.pkg.tar.xz", 
+    "pkg": "rosegarden-1", 
+    "pkg_version": "4.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "LinuxTECH Testing", 
+    "pkg_full_name": "rosegarden4-14.02-1.el6.x86_64.rpm", 
+    "pkg": "rosegarden4-1", 
+    "pkg_version": "4.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "rosegarden-14.12-1-x86_64.pkg.tar.xz", 
+    "pkg": "rosegarden-1", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "LinuxTECH Testing", 
+    "pkg_full_name": "rosegarden4-14.02-1.el6.x86_64.rpm", 
+    "pkg": "rosegarden4-1", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rosegarden_14.02-2_i386.deb", 
+    "pkg": "rosegarden_1", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "rosegarden-14.12-1-x86_64.pkg.tar.xz", 
+    "pkg": "rosegarden-1", 
+    "pkg_version": "4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "LinuxTECH Testing", 
+    "pkg_full_name": "rosegarden4-14.02-1.el6.x86_64.rpm", 
+    "pkg": "rosegarden4-1", 
+    "pkg_version": "4.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rosegarden_14.02-2_i386.deb", 
+    "pkg": "rosegarden_1", 
+    "pkg_version": "4.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "rosegarden-14.12-1-x86_64.pkg.tar.xz", 
+    "pkg": "rosegarden-1", 
+    "pkg_version": "4.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "LinuxTECH Testing", 
+    "pkg_full_name": "rosegarden4-14.02-1.el6.x86_64.rpm", 
+    "pkg": "rosegarden4-1", 
+    "pkg_version": "4.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rosegarden_12.04-1_i386.deb", 
+    "pkg": "rosegarden_1", 
+    "pkg_version": "2.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "rosegarden-14.12-1-x86_64.pkg.tar.xz", 
+    "pkg": "rosegarden-1", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rosegarden4-14.02-3.fc22.x86_64.rpm", 
+    "pkg": "rosegarden4-1", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rosegarden_12.04-1_i386.deb", 
+    "pkg": "rosegarden_1", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "rosegarden-14.12-1-x86_64.pkg.tar.xz", 
+    "pkg": "rosegarden-1", 
+    "pkg_version": "4.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rosegarden4-14.02-3.fc22.x86_64.rpm", 
+    "pkg": "rosegarden4-1", 
+    "pkg_version": "4.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rosegarden_12.04-1_i386.deb", 
+    "pkg": "rosegarden_1", 
+    "pkg_version": "2.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "rosegarden-14.12-1-x86_64.pkg.tar.xz", 
+    "pkg": "rosegarden-1", 
+    "pkg_version": "4.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rosegarden4-14.02-3.fc21.x86_64.rpm", 
+    "pkg": "rosegarden4-1", 
+    "pkg_version": "4.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rosegarden_12.04-1_i386.deb", 
+    "pkg": "rosegarden_1", 
+    "pkg_version": "2.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "rosegarden-14.12-1-x86_64.pkg.tar.xz", 
+    "pkg": "rosegarden-1", 
+    "pkg_version": "4.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rosegarden4-13.10-1.fc20.x86_64.rpm", 
+    "pkg": "rosegarden4-1", 
+    "pkg_version": "3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rosegarden_12.04-1_i386.deb", 
+    "pkg": "rosegarden_1", 
+    "pkg_version": "2.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "rosegarden-14.12-1-omv2015.0.x86_64.rpm", 
+    "pkg": "rosegarden-1", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rosegarden4-13.10-1.fc20.x86_64.rpm", 
+    "pkg": "rosegarden4-1", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rosegarden_12.04-1_i386.deb", 
+    "pkg": "rosegarden_1", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib Updates", 
+    "pkg_full_name": "rosegarden-14.12-0.1-omv2014.0.x86_64.rpm", 
+    "pkg": "rosegarden-1", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rosegarden4-13.10-1.fc20.x86_64.rpm", 
+    "pkg": "rosegarden4-1", 
+    "pkg_version": "3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rosegarden_12.04-1_i386.deb", 
+    "pkg": "rosegarden_1", 
+    "pkg_version": "2.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "rosegarden-12.12-1-omv2013.0.i586.rpm", 
+    "pkg": "rosegarden-1", 
+    "pkg_version": "2.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rosegarden4-13.10-1.fc20.x86_64.rpm", 
+    "pkg": "rosegarden4-1", 
+    "pkg_version": "3.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rosegarden_12.04-1_i386.deb", 
+    "pkg": "rosegarden_1", 
+    "pkg_version": "2.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "rosegarden-14.02-2.2.x86_64.rpm", 
+    "pkg": "rosegarden-1", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rosegarden4-13.10-1.fc20.x86_64.rpm", 
+    "pkg": "rosegarden4-1", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rosegarden_12.04-1_i386.deb", 
+    "pkg": "rosegarden_1", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "rosegarden-14.02-1.7.x86_64.rpm", 
+    "pkg": "rosegarden-1", 
+    "pkg_version": "4.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rosegarden4-13.10-1.fc20.x86_64.rpm", 
+    "pkg": "rosegarden4-1", 
+    "pkg_version": "3.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rosegarden_12.04-1_i386.deb", 
+    "pkg": "rosegarden_1", 
+    "pkg_version": "2.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "rosegarden-13.04-2.1.3.i586.rpm", 
+    "pkg": "rosegarden-1", 
+    "pkg_version": "3.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rosegarden4-13.10-1.fc20.x86_64.rpm", 
+    "pkg": "rosegarden4-1", 
+    "pkg_version": "3.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rosegarden_12.04-1_i386.deb", 
+    "pkg": "rosegarden_1", 
+    "pkg_version": "2.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "rosegarden-14.12-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "rosegarden-1", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rosegarden4-13.10-1.fc20.x86_64.rpm", 
+    "pkg": "rosegarden4-1", 
+    "pkg_version": "3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rosegarden_12.04-1_i386.deb", 
+    "pkg": "rosegarden_1", 
+    "pkg_version": "2.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "rosegarden-14.02-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "rosegarden-1", 
+    "pkg_version": "4.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rosegarden4-13.10-1.fc20.x86_64.rpm", 
+    "pkg": "rosegarden4-1", 
+    "pkg_version": "3.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rosegarden_12.04-1_i386.deb", 
+    "pkg": "rosegarden_1", 
+    "pkg_version": "2.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Freestylers", 
+    "pkg_full_name": "rosegarden-13.06-x86_64-6_fs.txz", 
+    "pkg": "rosegarden-1", 
+    "pkg_version": "3.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rosegarden4-13.10-1.fc20.x86_64.rpm", 
+    "pkg": "rosegarden4-1", 
+    "pkg_version": "3.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rosegarden_12.04-1_i386.deb", 
+    "pkg": "rosegarden_1", 
+    "pkg_version": "2.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "rosegarden-12.04-i486-1sl.txz", 
+    "pkg": "rosegarden-1", 
+    "pkg_version": "2.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rosegarden4-13.10-1.fc20.x86_64.rpm", 
+    "pkg": "rosegarden4-1", 
+    "pkg_version": "3.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rosegarden_12.04-1_i386.deb", 
+    "pkg": "rosegarden_1", 
+    "pkg_version": "2.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "rosegarden-11.06-i486-1sl.txz", 
+    "pkg": "rosegarden-1", 
+    "pkg_version": "1.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rosegarden4-13.10-1.fc20.x86_64.rpm", 
+    "pkg": "rosegarden4-1", 
+    "pkg_version": "3.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rosegarden_12.04-1_i386.deb", 
+    "pkg": "rosegarden_1", 
+    "pkg_version": "2.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "rosegarden-11.06-i486-1sl.txz", 
+    "pkg": "rosegarden-1", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rosegarden4-13.10-1.fc20.x86_64.rpm", 
+    "pkg": "rosegarden4-1", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "rosegarden_14.02-2_i386.deb", 
+    "pkg": "rosegarden_1", 
+    "pkg_version": "4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "rosegarden-11.06-i486-1sl.txz", 
+    "pkg": "rosegarden-1", 
+    "pkg_version": "1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rosegarden4-13.10-1.fc20.x86_64.rpm", 
+    "pkg": "rosegarden4-1", 
+    "pkg_version": "3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "rosegarden_13.06-1_i386.deb", 
+    "pkg": "rosegarden_1", 
+    "pkg_version": "3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

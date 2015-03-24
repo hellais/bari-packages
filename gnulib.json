@@ -1,0 +1,190 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnulib-0.1.114.caf1b31-alt2.noarch.rpm", 
+    "pkg": "gnulib", 
+    "pkg_version": "0.1.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "gnulib-devel-0-13.20141214git.el7.noarch.rpm", 
+    "pkg": "gnulib-devel-0-1", 
+    "pkg_version": "3.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnulib-0.1.114.caf1b31-alt2.noarch.rpm", 
+    "pkg": "gnulib", 
+    "pkg_version": "0.1.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "gnulib-devel-0-13.20141214git.el7.noarch.rpm", 
+    "pkg": "gnulib-devel-0-1", 
+    "pkg_version": "3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnulib-0.1.114.caf1b31-alt2.noarch.rpm", 
+    "pkg": "gnulib", 
+    "pkg_version": "0.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "gnulib-devel-0-13.20141214git.el7.noarch.rpm", 
+    "pkg": "gnulib-devel-0-1", 
+    "pkg_version": "3.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnulib-0.1.114.caf1b31-alt2.noarch.rpm", 
+    "pkg": "gnulib", 
+    "pkg_version": "0.1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "gnulib-devel-0-13.20141214git.el7.noarch.rpm", 
+    "pkg": "gnulib-devel-0-1", 
+    "pkg_version": "3.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnulib-0.1.114.caf1b31-alt2.noarch.rpm", 
+    "pkg": "gnulib", 
+    "pkg_version": "0.1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnulib-devel-0-13.20141214git.fc22.noarch.rpm", 
+    "pkg": "gnulib-devel-0-1", 
+    "pkg_version": "3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnulib-0.1.114.caf1b31-alt2.noarch.rpm", 
+    "pkg": "gnulib", 
+    "pkg_version": "0.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnulib-devel-0-13.20141214git.fc22.noarch.rpm", 
+    "pkg": "gnulib-devel-0-1", 
+    "pkg_version": "3.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnulib-0.1.114.caf1b31-alt2.noarch.rpm", 
+    "pkg": "gnulib", 
+    "pkg_version": "0.1.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "gnulib-devel-0-13.20141214git.fc21.noarch.rpm", 
+    "pkg": "gnulib-devel-0-1", 
+    "pkg_version": "3.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnulib-0.1.114.caf1b31-alt2.noarch.rpm", 
+    "pkg": "gnulib", 
+    "pkg_version": "0.1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "gnulib-devel-0-13.20141214git.fc20.noarch.rpm", 
+    "pkg": "gnulib-devel-0-1", 
+    "pkg_version": "3.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnulib-0.1.114.caf1b31-alt2.noarch.rpm", 
+    "pkg": "gnulib", 
+    "pkg_version": "0.1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "gnulib-devel-0-13.20141214git.fc20.noarch.rpm", 
+    "pkg": "gnulib-devel-0-1", 
+    "pkg_version": "3.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnulib-0.1.114.caf1b31-alt2.noarch.rpm", 
+    "pkg": "gnulib", 
+    "pkg_version": "0.1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "gnulib-devel-0-13.20141214git.fc20.noarch.rpm", 
+    "pkg": "gnulib-devel-0-1", 
+    "pkg_version": "3.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnulib-0.1.114.caf1b31-alt2.noarch.rpm", 
+    "pkg": "gnulib", 
+    "pkg_version": "0.1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

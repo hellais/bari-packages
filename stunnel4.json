@@ -1,0 +1,55 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "stunnel4-5.01-alt1.x86_64.rpm", 
+    "pkg": "stunnel4", 
+    "pkg_version": "5.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "stunnel4_5.06-2_i386.deb", 
+    "pkg": "stunnel4", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "stunnel4_5.06-2_i386.deb", 
+    "pkg": "stunnel4", 
+    "pkg_version": "5.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "stunnel4_4.53-1.1_i386.deb", 
+    "pkg": "stunnel4", 
+    "pkg_version": "4.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "stunnel4_5.02-1_i386.deb", 
+    "pkg": "stunnel4", 
+    "pkg_version": "5.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "stunnel4_4.53-1.1ubuntu1_i386.deb", 
+    "pkg": "stunnel4", 
+    "pkg_version": "4.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

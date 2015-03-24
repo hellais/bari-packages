@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "libclassad7_8.2.3~dfsg.1-6~nd+1_amd64.deb", 
+    "pkg": "libclassad7", 
+    "pkg_version": "8.2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "libclassad7_8.2.3~dfsg.1-6~nd80+1_amd64.deb", 
+    "pkg": "libclassad7", 
+    "pkg_version": "8.2.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "libclassad7_8.2.3~dfsg.1-6~nd70+1_amd64.deb", 
+    "pkg": "libclassad7", 
+    "pkg_version": "8.2.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libclassad7_8.2.1~dfsg.1-1ubuntu1_i386.deb", 
+    "pkg": "libclassad7", 
+    "pkg_version": "8.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "libclassad7_8.2.3~dfsg.1-6~nd14.04+1_amd64.deb", 
+    "pkg": "libclassad7", 
+    "pkg_version": "8.2.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

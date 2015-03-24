@@ -1,0 +1,73 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xwit-3.4-alt2.qa1.x86_64.rpm", 
+    "pkg": "xwit", 
+    "pkg_version": "3.4", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xwit_3.4-15_i386.deb", 
+    "pkg": "xwit", 
+    "pkg_version": "3.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xwit_3.4-15_i386.deb", 
+    "pkg": "xwit", 
+    "pkg_version": "3.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xwit_3.4-14_i386.deb", 
+    "pkg": "xwit", 
+    "pkg_version": "3.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "xwit-3.4-4.1.x86_64.rpm", 
+    "pkg": "xwit", 
+    "pkg_version": "3.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "xwit-3.4-4.1.x86_64.rpm", 
+    "pkg": "xwit", 
+    "pkg_version": "3.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xwit_3.4-15_i386.deb", 
+    "pkg": "xwit", 
+    "pkg_version": "3.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xwit_3.4-15_i386.deb", 
+    "pkg": "xwit", 
+    "pkg_version": "3.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

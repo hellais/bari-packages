@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-classy-prelude-conduit-dev_0.9.3-1+b3_amd64.deb", 
+    "pkg": "libghc-classy-prelude-conduit-dev", 
+    "pkg_version": "0.9.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-classy-prelude-conduit-dev_0.9.3-1+b3_amd64.deb", 
+    "pkg": "libghc-classy-prelude-conduit-dev", 
+    "pkg_version": "0.9.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-classy-prelude-conduit-dev_0.9.3-1_i386.deb", 
+    "pkg": "libghc-classy-prelude-conduit-dev", 
+    "pkg_version": "0.9.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

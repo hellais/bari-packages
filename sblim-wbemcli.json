@@ -1,0 +1,127 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "sblim-wbemcli-1.6.2-alt1_13.x86_64.rpm", 
+    "pkg": "sblim-wbemcli", 
+    "pkg_version": "1.6.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "sblim-wbemcli-1.6.2-9.el7.x86_64.rpm", 
+    "pkg": "sblim-wbemcli", 
+    "pkg_version": "1.6.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "sblim-wbemcli-1.6.1-2.el6.x86_64.rpm", 
+    "pkg": "sblim-wbemcli", 
+    "pkg_version": "1.6.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "sblim-wbemcli-1.6.1-51.el5.x86_64.rpm", 
+    "pkg": "sblim-wbemcli", 
+    "pkg_version": "1.6.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sblim-wbemcli_1.6.2-9_i386.deb", 
+    "pkg": "sblim-wbemcli", 
+    "pkg_version": "1.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sblim-wbemcli_1.6.2-9_i386.deb", 
+    "pkg": "sblim-wbemcli", 
+    "pkg_version": "1.6.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "sblim-wbemcli-1.6.3-1.fc22.x86_64.rpm", 
+    "pkg": "sblim-wbemcli", 
+    "pkg_version": "1.6.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "sblim-wbemcli-1.6.3-1.fc22.x86_64.rpm", 
+    "pkg": "sblim-wbemcli", 
+    "pkg_version": "1.6.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "sblim-wbemcli-1.6.2-13.fc21.x86_64.rpm", 
+    "pkg": "sblim-wbemcli", 
+    "pkg_version": "1.6.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "sblim-wbemcli-1.6.2-9.fc20.x86_64.rpm", 
+    "pkg": "sblim-wbemcli", 
+    "pkg_version": "1.6.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "sblim-wbemcli-1.6.3-1.2.x86_64.rpm", 
+    "pkg": "sblim-wbemcli", 
+    "pkg_version": "1.6.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "sblim-wbemcli-1.6.2-13.1.2.x86_64.rpm", 
+    "pkg": "sblim-wbemcli", 
+    "pkg_version": "1.6.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "sblim-wbemcli-1.6.2-11.1.2.i586.rpm", 
+    "pkg": "sblim-wbemcli", 
+    "pkg_version": "1.6.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "sblim-wbemcli_1.6.2-7ubuntu2_i386.deb", 
+    "pkg": "sblim-wbemcli", 
+    "pkg_version": "1.6.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

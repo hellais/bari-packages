@@ -1,0 +1,335 @@
+[
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "fuse-python-0.2.1-1.el7.rf.x86_64.rpm", 
+    "pkg": "fuse-python", 
+    "pkg_version": "0.2.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "fuse-python-0.2.1-1.el6.rf.x86_64.rpm", 
+    "pkg": "fuse-python", 
+    "pkg_version": "0.2.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "fuse-python-0.2.1-1.el5.x86_64.rpm", 
+    "pkg": "fuse-python", 
+    "pkg_version": "0.2.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-fuse_0.2.1-10_i386.deb", 
+    "pkg": "python-fuse", 
+    "pkg_version": "0.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "fuse-python-0.2.1-1.el5.x86_64.rpm", 
+    "pkg": "fuse-python", 
+    "pkg_version": "0.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-fuse_0.2.1-10_i386.deb", 
+    "pkg": "python-fuse", 
+    "pkg_version": "0.2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "fuse-python-0.2.1-1.el5.x86_64.rpm", 
+    "pkg": "fuse-python", 
+    "pkg_version": "0.2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-fuse_0.2.1-7_i386.deb", 
+    "pkg": "python-fuse", 
+    "pkg_version": "0.2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "fuse-python-0.2.1-1.el5.x86_64.rpm", 
+    "pkg": "fuse-python", 
+    "pkg_version": "0.2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-fuse_0.2.1-7_i386.deb", 
+    "pkg": "python-fuse", 
+    "pkg_version": "0.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "fuse-python-0.2.1-10.fc22.x86_64.rpm", 
+    "pkg": "fuse-python", 
+    "pkg_version": "0.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-fuse_0.2.1-7_i386.deb", 
+    "pkg": "python-fuse", 
+    "pkg_version": "0.2.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "fuse-python-0.2.1-10.fc22.x86_64.rpm", 
+    "pkg": "fuse-python", 
+    "pkg_version": "0.2.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-fuse_0.2.1-7_i386.deb", 
+    "pkg": "python-fuse", 
+    "pkg_version": "0.2.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "fuse-python-0.2.1-10.fc21.x86_64.rpm", 
+    "pkg": "fuse-python", 
+    "pkg_version": "0.2.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-fuse_0.2.1-7_i386.deb", 
+    "pkg": "python-fuse", 
+    "pkg_version": "0.2.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "fuse-python-0.2.1-7.fc20.x86_64.rpm", 
+    "pkg": "fuse-python", 
+    "pkg_version": "0.2.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-fuse-2.5-5-omv2013.0.x86_64.rpm", 
+    "pkg": "python-fuse", 
+    "pkg_version": "2.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "fuse-python-0.2.1-7.fc20.x86_64.rpm", 
+    "pkg": "fuse-python", 
+    "pkg_version": "0.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-fuse-2.5-5-omv2013.0.x86_64.rpm", 
+    "pkg": "python-fuse", 
+    "pkg_version": "2.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "fuse-python-0.2.1-7.fc20.x86_64.rpm", 
+    "pkg": "fuse-python", 
+    "pkg_version": "0.2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-fuse-2.5-5-omv2013.0.x86_64.rpm", 
+    "pkg": "python-fuse", 
+    "pkg_version": "2.5", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "fuse-python-0.2.1-7.fc20.x86_64.rpm", 
+    "pkg": "fuse-python", 
+    "pkg_version": "0.2.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-fuse-0.2.1-10.2.x86_64.rpm", 
+    "pkg": "python-fuse", 
+    "pkg_version": "0.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "fuse-python-0.2.1-7.fc20.x86_64.rpm", 
+    "pkg": "fuse-python", 
+    "pkg_version": "0.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-fuse-0.2.1-9.1.4.x86_64.rpm", 
+    "pkg": "python-fuse", 
+    "pkg_version": "0.2.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "fuse-python-0.2.1-7.fc20.x86_64.rpm", 
+    "pkg": "fuse-python", 
+    "pkg_version": "0.2.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-fuse-0.2.1-7.1.2.i586.rpm", 
+    "pkg": "python-fuse", 
+    "pkg_version": "0.2.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "fuse-python-0.2.1-7.fc20.x86_64.rpm", 
+    "pkg": "fuse-python", 
+    "pkg_version": "0.2.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "python-fuse-2.5-6-rosa2014.1.x86_64.rpm", 
+    "pkg": "python-fuse", 
+    "pkg_version": "2.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "fuse-python-0.2.1-7.fc20.x86_64.rpm", 
+    "pkg": "fuse-python", 
+    "pkg_version": "0.2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "python-fuse-2.5-5-rosa2012.1.x86_64.rpm", 
+    "pkg": "python-fuse", 
+    "pkg_version": "2.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "fuse-python-0.2.1-7.fc20.x86_64.rpm", 
+    "pkg": "fuse-python", 
+    "pkg_version": "0.2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-fuse_0.2.1-9_i386.deb", 
+    "pkg": "python-fuse", 
+    "pkg_version": "0.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "fuse-python-0.2.1-7.fc20.x86_64.rpm", 
+    "pkg": "fuse-python", 
+    "pkg_version": "0.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-fuse_0.2.1-9_i386.deb", 
+    "pkg": "python-fuse", 
+    "pkg_version": "0.2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "fuse-python-0.2.1-7.fc20.x86_64.rpm", 
+    "pkg": "fuse-python", 
+    "pkg_version": "0.2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "openhpi-clients_2.14.1-1.4_i386.deb", 
+    "pkg": "openhpi-clients", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "openhpi-clients_2.14.1-1.4_i386.deb", 
+    "pkg": "openhpi-clients", 
+    "pkg_version": "2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "openhpi-clients_2.14.1-1.2_i386.deb", 
+    "pkg": "openhpi-clients", 
+    "pkg_version": "2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "openhpi-clients-3.5.0-3.1.x86_64.rpm", 
+    "pkg": "openhpi-clients", 
+    "pkg_version": "3.5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "openhpi-clients-3.4.0-4.1.10.x86_64.rpm", 
+    "pkg": "openhpi-clients", 
+    "pkg_version": "3.4.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "openhpi-clients-3.2.1-2.1.4.i586.rpm", 
+    "pkg": "openhpi-clients", 
+    "pkg_version": "3.2.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "openhpi-clients_2.14.1-1.3ubuntu2_i386.deb", 
+    "pkg": "openhpi-clients", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "openhpi-clients_2.14.1-1.3ubuntu2_i386.deb", 
+    "pkg": "openhpi-clients", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

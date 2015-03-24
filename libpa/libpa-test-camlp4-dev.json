@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpa-test-camlp4-dev_111.08.00-1_i386.deb", 
+    "pkg": "libpa-test-camlp4-dev_11", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

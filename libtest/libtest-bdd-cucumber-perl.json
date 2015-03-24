@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtest-bdd-cucumber-perl_0.31-1_all.deb", 
+    "pkg": "libtest-bdd-cucumber-perl", 
+    "pkg_version": "0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtest-bdd-cucumber-perl_0.31-1_all.deb", 
+    "pkg": "libtest-bdd-cucumber-perl", 
+    "pkg_version": "0.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtest-bdd-cucumber-perl_0.11-1_all.deb", 
+    "pkg": "libtest-bdd-cucumber-perl", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libtest-bdd-cucumber-perl_0.26-1_all.deb", 
+    "pkg": "libtest-bdd-cucumber-perl", 
+    "pkg_version": "0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

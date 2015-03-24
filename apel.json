@@ -1,0 +1,263 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "emacs-apel-10.8-1.el6.noarch.rpm", 
+    "pkg": "emacs-apel-1", 
+    "pkg_version": "0.8", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "emacs-apel-10.8-1.el6.noarch.rpm", 
+    "pkg": "emacs-apel-1", 
+    "pkg_version": "0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "apel_10.8+0.20120427-13_all.deb", 
+    "pkg": "apel_1", 
+    "pkg_version": "0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "emacs-apel-10.8-1.el6.noarch.rpm", 
+    "pkg": "emacs-apel-1", 
+    "pkg_version": "0.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "apel_10.8+0.20120427-13_all.deb", 
+    "pkg": "apel_1", 
+    "pkg_version": "0.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "emacs-apel-10.8-1.el6.noarch.rpm", 
+    "pkg": "emacs-apel-1", 
+    "pkg_version": "0.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "apel_10.8-2_all.deb", 
+    "pkg": "apel_1", 
+    "pkg_version": "0.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "emacs-apel-10.8-7.fc21.noarch.rpm", 
+    "pkg": "emacs-apel-1", 
+    "pkg_version": "0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "apel_10.8-2_all.deb", 
+    "pkg": "apel_1", 
+    "pkg_version": "0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "emacs-apel-10.8-7.fc21.noarch.rpm", 
+    "pkg": "emacs-apel-1", 
+    "pkg_version": "0.8", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "apel_10.8-2_all.deb", 
+    "pkg": "apel_1", 
+    "pkg_version": "0.8", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "emacs-apel-10.8-7.fc21.noarch.rpm", 
+    "pkg": "emacs-apel-1", 
+    "pkg_version": "0.8", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "apel_10.8-2_all.deb", 
+    "pkg": "apel_1", 
+    "pkg_version": "0.8", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "emacs-apel-10.8-6.fc20.noarch.rpm", 
+    "pkg": "emacs-apel-1", 
+    "pkg_version": "0.8", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "apel_10.8-2_all.deb", 
+    "pkg": "apel_1", 
+    "pkg_version": "0.8", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "emacs-apel-10.8-1.1.noarch.rpm", 
+    "pkg": "emacs-apel-1", 
+    "pkg_version": "0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "apel_10.8-2_all.deb", 
+    "pkg": "apel_1", 
+    "pkg_version": "0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "emacs-apel-10.8-1.1.noarch.rpm", 
+    "pkg": "emacs-apel-1", 
+    "pkg_version": "0.8", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "apel-10.8-6.1.4.noarch.rpm", 
+    "pkg": "apel-1", 
+    "pkg_version": "0.8", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "apel_10.8-2_all.deb", 
+    "pkg": "apel_1", 
+    "pkg_version": "0.8", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "emacs-apel-10.8-1.1.noarch.rpm", 
+    "pkg": "emacs-apel-1", 
+    "pkg_version": "0.8", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "apel-10.8-4.1.3.noarch.rpm", 
+    "pkg": "apel-1", 
+    "pkg_version": "0.8", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "apel_10.8-2_all.deb", 
+    "pkg": "apel_1", 
+    "pkg_version": "0.8", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "emacs-apel-10.8-1.1.noarch.rpm", 
+    "pkg": "emacs-apel-1", 
+    "pkg_version": "0.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "apel-10.8-4.1.3.noarch.rpm", 
+    "pkg": "apel-1", 
+    "pkg_version": "0.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "apel_10.8+0.20120427-12_all.deb", 
+    "pkg": "apel_1", 
+    "pkg_version": "0.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "emacs-apel-10.8-1.1.noarch.rpm", 
+    "pkg": "emacs-apel-1", 
+    "pkg_version": "0.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "apel-10.8-4.1.3.noarch.rpm", 
+    "pkg": "apel-1", 
+    "pkg_version": "0.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "apel_10.8+0.20120427-6_all.deb", 
+    "pkg": "apel_1", 
+    "pkg_version": "0.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

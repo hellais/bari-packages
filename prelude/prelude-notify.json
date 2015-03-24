@@ -1,0 +1,64 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "prelude-notify-0.9.2-alt1.git20120829.noarch.rpm", 
+    "pkg": "prelude-notify", 
+    "pkg_version": "0.9.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "prelude-notify-0.9-0.4.20080814svn10860.el5.noarch.rpm", 
+    "pkg": "prelude-notify", 
+    "pkg_version": "0.9", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "prelude-notify_0.9.1-1_all.deb", 
+    "pkg": "prelude-notify", 
+    "pkg_version": "0.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "prelude-notify_0.9.1-1_all.deb", 
+    "pkg": "prelude-notify", 
+    "pkg_version": "0.9.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "prelude-notify_0.9.1-1_all.deb", 
+    "pkg": "prelude-notify", 
+    "pkg_version": "0.9.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "prelude-notify_0.9.1-1_all.deb", 
+    "pkg": "prelude-notify", 
+    "pkg_version": "0.9.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "prelude-notify_0.9.1-1_all.deb", 
+    "pkg": "prelude-notify", 
+    "pkg_version": "0.9.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

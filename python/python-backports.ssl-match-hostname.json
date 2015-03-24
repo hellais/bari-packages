@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-backports.ssl-match-hostname_3.4.0.2-1_all.deb", 
+    "pkg": "python-backports.ssl-match-hostname", 
+    "pkg_version": "3.4.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-backports.ssl-match-hostname_3.4.0.2-1_all.deb", 
+    "pkg": "python-backports.ssl-match-hostname", 
+    "pkg_version": "3.4.0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libopenipmi-dev_2.0.16-1.4_i386.deb", 
+    "pkg": "libopenipmi-dev", 
+    "pkg_version": "2.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libopenipmi-dev_2.0.16-1.4_i386.deb", 
+    "pkg": "libopenipmi-dev", 
+    "pkg_version": "2.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libopenipmi-dev_2.0.16-1.3_i386.deb", 
+    "pkg": "libopenipmi-dev", 
+    "pkg_version": "2.0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libopenipmi-dev_2.0.18-0ubuntu8_i386.deb", 
+    "pkg": "libopenipmi-dev", 
+    "pkg_version": "2.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "libopenipmi-dev_2.0.18-0ubuntu7.1_i386.deb", 
+    "pkg": "libopenipmi-dev", 
+    "pkg_version": "2.0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

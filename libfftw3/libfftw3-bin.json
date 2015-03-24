@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libfftw3-bin_3.3.4-2_i386.deb", 
+    "pkg": "libfftw3-bin", 
+    "pkg_version": "3.3.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libfftw3-bin_3.3.4-2_i386.deb", 
+    "pkg": "libfftw3-bin", 
+    "pkg_version": "3.3.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libfftw3-bin_3.3.2-3.1_i386.deb", 
+    "pkg": "libfftw3-bin", 
+    "pkg_version": "3.3.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libfftw3-bin_3.3.4-1ubuntu1_i386.deb", 
+    "pkg": "libfftw3-bin", 
+    "pkg_version": "3.3.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

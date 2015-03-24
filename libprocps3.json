@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libprocps3_3.3.9-9_i386.deb", 
+    "pkg": "libprocps3", 
+    "pkg_version": "3.3.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libprocps3_3.3.9-9_i386.deb", 
+    "pkg": "libprocps3", 
+    "pkg_version": "3.3.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "libprocps3-3.3.9-3.5.1.x86_64.rpm", 
+    "pkg": "libprocps3", 
+    "pkg_version": "3.3.9", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "libprocps3_3.3.9-1ubuntu5.2_i386.deb", 
+    "pkg": "libprocps3", 
+    "pkg_version": "3.3.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

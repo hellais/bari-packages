@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-taskflow-0.3.21-1.el7.noarch.rpm", 
+    "pkg": "python-taskflow", 
+    "pkg_version": "0.3.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-taskflow_0.3.21-1_all.deb", 
+    "pkg": "python-taskflow", 
+    "pkg_version": "0.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-taskflow_0.3.21-1_all.deb", 
+    "pkg": "python-taskflow", 
+    "pkg_version": "0.3.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-taskflow-0.5.0-1.fc22.noarch.rpm", 
+    "pkg": "python-taskflow", 
+    "pkg_version": "0.5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-taskflow-0.5.0-1.fc22.noarch.rpm", 
+    "pkg": "python-taskflow", 
+    "pkg_version": "0.5.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-taskflow-0.1.2-7.fc21.noarch.rpm", 
+    "pkg": "python-taskflow", 
+    "pkg_version": "0.1.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python-taskflow-0.3.21-1.fc20.noarch.rpm", 
+    "pkg": "python-taskflow", 
+    "pkg_version": "0.3.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-taskflow-0.4.0-1.2.noarch.rpm", 
+    "pkg": "python-taskflow", 
+    "pkg_version": "0.4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-taskflow-0.4.0-1.2.noarch.rpm", 
+    "pkg": "python-taskflow", 
+    "pkg_version": "0.4.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python-taskflow_0.3.21-0ubuntu6_all.deb", 
+    "pkg": "python-taskflow", 
+    "pkg_version": "0.3.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

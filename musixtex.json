@@ -1,0 +1,100 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "musixtex-T101-alt3.1.qa2.x86_64.rpm", 
+    "pkg": "musixtex-T101-alt", 
+    "pkg_version": "3.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "musixtex-T101-alt3.1.qa2.x86_64.rpm", 
+    "pkg": "musixtex-T101-alt", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "musixtex_1.15.ctan20131214-1_i386.deb", 
+    "pkg": "musixtex", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "musixtex-T101-alt3.1.qa2.x86_64.rpm", 
+    "pkg": "musixtex-T101-alt", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "musixtex_1.15.ctan20131214-1_i386.deb", 
+    "pkg": "musixtex", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "musixtex-T101-alt3.1.qa2.x86_64.rpm", 
+    "pkg": "musixtex-T101-alt", 
+    "pkg_version": "3.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "musixtex_0.115-4_i386.deb", 
+    "pkg": "musixtex", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "musixtex-T101-alt3.1.qa2.x86_64.rpm", 
+    "pkg": "musixtex-T101-alt", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "musixtex_1.15.ctan20131214-1_i386.deb", 
+    "pkg": "musixtex", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "musixtex-T101-alt3.1.qa2.x86_64.rpm", 
+    "pkg": "musixtex-T101-alt", 
+    "pkg_version": "3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "musixtex_1.15.ctan20131214-1_i386.deb", 
+    "pkg": "musixtex", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

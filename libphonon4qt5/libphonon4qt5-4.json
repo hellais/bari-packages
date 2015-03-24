@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libphonon4qt5-4_4.8.0-5_i386.deb", 
+    "pkg": "libphonon4qt5-4", 
+    "pkg_version": "4.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libphonon4qt5-4_4.8.0-4_i386.deb", 
+    "pkg": "libphonon4qt5-4", 
+    "pkg_version": "4.8.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libphonon4qt5-4_4.7.80-0ubuntu2_i386.deb", 
+    "pkg": "libphonon4qt5-4", 
+    "pkg_version": "4.7.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

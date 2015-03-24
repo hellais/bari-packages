@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pki-console_10.2.0-4_all.deb", 
+    "pkg": "pki-console_1", 
+    "pkg_version": "0.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pki-console_10.2.0-4_all.deb", 
+    "pkg": "pki-console_1", 
+    "pkg_version": "0.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pki-console-10.2.1-1.fc22.noarch.rpm", 
+    "pkg": "pki-console-1", 
+    "pkg_version": "0.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pki-console_10.2.0-4_all.deb", 
+    "pkg": "pki-console_1", 
+    "pkg_version": "0.2.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pki-console-10.2.1-1.fc22.noarch.rpm", 
+    "pkg": "pki-console-1", 
+    "pkg_version": "0.2.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pki-console_10.2.0-4_all.deb", 
+    "pkg": "pki-console_1", 
+    "pkg_version": "0.2.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "pki-console-10.2.1-1.fc21.noarch.rpm", 
+    "pkg": "pki-console-1", 
+    "pkg_version": "0.2.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

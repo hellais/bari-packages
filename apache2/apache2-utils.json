@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "OpenNMS Unstable", 
+    "pkg_full_name": "apache2-utils_2.0.54-5sarge2_i386.deb", 
+    "pkg": "apache2-utils", 
+    "pkg_version": "2.0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenNMS Unstable", 
+    "pkg_full_name": "apache2-utils_2.0.54-5sarge2_i386.deb", 
+    "pkg": "apache2-utils", 
+    "pkg_version": "2.0.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenNMS Unstable", 
+    "pkg_full_name": "apache2-utils_2.0.54-5sarge2_i386.deb", 
+    "pkg": "apache2-utils", 
+    "pkg_version": "2.0.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "apache2-utils-2.4.12-2.1.x86_64.rpm", 
+    "pkg": "apache2-utils", 
+    "pkg_version": "2.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "apache2-utils-2.4.10-8.1.x86_64.rpm", 
+    "pkg": "apache2-utils", 
+    "pkg_version": "2.4.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "apache2-utils-2.4.6-6.6.1.x86_64.rpm", 
+    "pkg": "apache2-utils", 
+    "pkg_version": "2.4.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "apache2-utils_2.4.10-1ubuntu1.1_i386.deb", 
+    "pkg": "apache2-utils", 
+    "pkg_version": "2.4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "apache2-utils_2.4.7-1ubuntu4.4_i386.deb", 
+    "pkg": "apache2-utils", 
+    "pkg_version": "2.4.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

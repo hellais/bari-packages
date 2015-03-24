@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ieee-data_20141019.1_all.deb", 
+    "pkg": "ieee-data_2014101", 
+    "pkg_version": "9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ieee-data_20141019.1_all.deb", 
+    "pkg": "ieee-data_2014101", 
+    "pkg_version": "9.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "ieee-data_20140613.1_all.deb", 
+    "pkg": "ieee-data_2014061", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ieee-data_20141019.1_all.deb", 
+    "pkg": "ieee-data_2014101", 
+    "pkg_version": "9.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

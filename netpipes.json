@@ -1,0 +1,82 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "netpipes-4.2-alt1.qa1.x86_64.rpm", 
+    "pkg": "netpipes", 
+    "pkg_version": "4.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "netpipes_4.2-7_i386.deb", 
+    "pkg": "netpipes", 
+    "pkg_version": "4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "netpipes_4.2-7_i386.deb", 
+    "pkg": "netpipes", 
+    "pkg_version": "4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "netpipes_4.2-6_i386.deb", 
+    "pkg": "netpipes", 
+    "pkg_version": "4.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "netpipes-4.2-x86_64-1.txz", 
+    "pkg": "netpipes", 
+    "pkg_version": "4.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "netpipes-4.2-x86_64-1.txz", 
+    "pkg": "netpipes", 
+    "pkg_version": "4.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "netpipes-4.2-x86_64-1.txz", 
+    "pkg": "netpipes", 
+    "pkg_version": "4.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "netpipes_4.2-7_i386.deb", 
+    "pkg": "netpipes", 
+    "pkg_version": "4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "netpipes_4.2-7_i386.deb", 
+    "pkg": "netpipes", 
+    "pkg_version": "4.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

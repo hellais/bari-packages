@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sudo-ldap_1.8.12-1_i386.deb", 
+    "pkg": "sudo-ldap", 
+    "pkg_version": "1.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sudo-ldap_1.8.10p3-1+deb8u2_i386.deb", 
+    "pkg": "sudo-ldap", 
+    "pkg_version": "1.8.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "sudo-ldap_1.8.5p2-1+nmu2_i386.deb", 
+    "pkg": "sudo-ldap", 
+    "pkg_version": "1.8.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "sudo-ldap_1.8.9p5-1ubuntu2.1_i386.deb", 
+    "pkg": "sudo-ldap", 
+    "pkg_version": "1.8.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "sudo-ldap_1.8.9p5-1ubuntu1.1_i386.deb", 
+    "pkg": "sudo-ldap", 
+    "pkg_version": "1.8.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

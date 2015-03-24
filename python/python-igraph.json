@@ -1,0 +1,83 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-igraph-0.7-1.el7.x86_64.rpm", 
+    "pkg": "python-igraph", 
+    "pkg_version": "0.7", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-igraph-0.7-1.el6.x86_64.rpm", 
+    "pkg": "python-igraph", 
+    "pkg_version": "0.7", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-igraph_0.6.5-1_i386.deb", 
+    "pkg": "python-igraph", 
+    "pkg_version": "0.6.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-igraph_0.5.4-2_i386.deb", 
+    "pkg": "python-igraph", 
+    "pkg_version": "0.5.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-igraph-0.6.5-3.fc22.x86_64.rpm", 
+    "pkg": "python-igraph", 
+    "pkg_version": "0.6.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-igraph-0.6.5-3.fc22.x86_64.rpm", 
+    "pkg": "python-igraph", 
+    "pkg_version": "0.6.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-igraph-0.6.5-3.fc21.x86_64.rpm", 
+    "pkg": "python-igraph", 
+    "pkg_version": "0.6.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-igraph-0.5.4-7.fc20.x86_64.rpm", 
+    "pkg": "python-igraph", 
+    "pkg_version": "0.5.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-igraph_0.6.5-1_i386.deb", 
+    "pkg": "python-igraph", 
+    "pkg_version": "0.6.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

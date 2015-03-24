@@ -1,0 +1,82 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libvncclient0-0.9.9-alt4.x86_64.rpm", 
+    "pkg": "libvncclient0", 
+    "pkg_version": "0.9.9", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libvncclient0_0.9.9+dfsg-6.1_i386.deb", 
+    "pkg": "libvncclient0", 
+    "pkg_version": "0.9.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libvncclient0_0.9.9+dfsg-6.1_i386.deb", 
+    "pkg": "libvncclient0", 
+    "pkg_version": "0.9.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libvncclient0-0.9.9-10-omv2015.0.i586.rpm", 
+    "pkg": "libvncclient0", 
+    "pkg_version": "0.9.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libvncclient0-0.9.9-4-omv2014.0.i586.rpm", 
+    "pkg": "libvncclient0", 
+    "pkg_version": "0.9.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libvncclient0-0.9.9-2-omv2013.0.i586.rpm", 
+    "pkg": "libvncclient0", 
+    "pkg_version": "0.9.9", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libvncclient0-0.9.10-2.1.x86_64.rpm", 
+    "pkg": "libvncclient0", 
+    "pkg_version": "0.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libvncclient0-0.9.9-10.2.1.x86_64.rpm", 
+    "pkg": "libvncclient0", 
+    "pkg_version": "0.9.9", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libvncclient0-0.9.9-7.1.2.i586.rpm", 
+    "pkg": "libvncclient0", 
+    "pkg_version": "0.9.9", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }
+]

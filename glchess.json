@@ -1,0 +1,335 @@
+[
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "gnome-games-3.4.2-2.el7.nux.x86_64.rpm", 
+    "pkg": "gnome-games", 
+    "pkg_version": "3.4.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "gnome-games-2.28.2-2.el6.x86_64.rpm", 
+    "pkg": "gnome-games", 
+    "pkg_version": "2.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "glchess-1.0.2-1.el5.rf.noarch.rpm", 
+    "pkg": "glchess", 
+    "pkg_version": "1.0.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "gnome-games-2.28.2-2.el6.x86_64.rpm", 
+    "pkg": "gnome-games", 
+    "pkg_version": "2.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "glchess_3.14.0-1_all.deb", 
+    "pkg": "glchess", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "gnome-games-2.28.2-2.el6.x86_64.rpm", 
+    "pkg": "gnome-games", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "glchess_3.14.0-1_all.deb", 
+    "pkg": "glchess", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "gnome-games-2.28.2-2.el6.x86_64.rpm", 
+    "pkg": "gnome-games", 
+    "pkg_version": "2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "glchess_3.4.2-3_i386.deb", 
+    "pkg": "glchess", 
+    "pkg_version": "3.4.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "gnome-games-2.28.2-2.el6.x86_64.rpm", 
+    "pkg": "gnome-games", 
+    "pkg_version": "2.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "glchess-3.6.0-9-omv2015.0.x86_64.rpm", 
+    "pkg": "glchess", 
+    "pkg_version": "3.6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "gnome-games-2.28.2-2.el6.x86_64.rpm", 
+    "pkg": "gnome-games", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "glchess-3.6.0-3-omv2014.0.x86_64.rpm", 
+    "pkg": "glchess", 
+    "pkg_version": "3.6.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "gnome-games-2.28.2-2.el6.x86_64.rpm", 
+    "pkg": "gnome-games", 
+    "pkg_version": "2.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "glchess-3.6.0-2-omv2013.0.x86_64.rpm", 
+    "pkg": "glchess", 
+    "pkg_version": "3.6.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "gnome-games-2.28.2-2.el6.x86_64.rpm", 
+    "pkg": "gnome-games", 
+    "pkg_version": "2.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "glchess-3.6.0-2-omv2013.0.x86_64.rpm", 
+    "pkg": "glchess", 
+    "pkg_version": "3.6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gnome-chess-3.14.3-1.1.x86_64.rpm", 
+    "pkg": "gnome-chess", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "gnome-games-2.28.2-2.el6.x86_64.rpm", 
+    "pkg": "gnome-games", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "glchess-3.6.0-2-omv2013.0.x86_64.rpm", 
+    "pkg": "glchess", 
+    "pkg_version": "3.6.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "gnome-chess-3.14.2-4.12.x86_64.rpm", 
+    "pkg": "gnome-chess", 
+    "pkg_version": "3.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "gnome-games-2.28.2-2.el6.x86_64.rpm", 
+    "pkg": "gnome-games", 
+    "pkg_version": "2.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "glchess-3.6.0-2-omv2013.0.x86_64.rpm", 
+    "pkg": "glchess", 
+    "pkg_version": "3.6.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "gnome-chess-3.10.3-14.3.x86_64.rpm", 
+    "pkg": "gnome-chess", 
+    "pkg_version": "3.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "gnome-games-2.28.2-2.el6.x86_64.rpm", 
+    "pkg": "gnome-games", 
+    "pkg_version": "2.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "glchess-3.6.0-2-omv2013.0.x86_64.rpm", 
+    "pkg": "glchess", 
+    "pkg_version": "3.6.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "gnome-chess-3.12.2-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "gnome-chess", 
+    "pkg_version": "3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "gnome-games-2.28.2-2.el6.x86_64.rpm", 
+    "pkg": "gnome-games", 
+    "pkg_version": "2.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "glchess-3.6.0-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "glchess", 
+    "pkg_version": "3.6.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "gnome-chess-3.8.4-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "gnome-chess", 
+    "pkg_version": "3.8.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "gnome-games-2.28.2-2.el6.x86_64.rpm", 
+    "pkg": "gnome-games", 
+    "pkg_version": "2.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "glchess_3.12.3-1_all.deb", 
+    "pkg": "glchess", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "gnome-chess-3.8.4-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "gnome-chess", 
+    "pkg_version": "3.8.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "gnome-games-2.28.2-2.el6.x86_64.rpm", 
+    "pkg": "gnome-games", 
+    "pkg_version": "2.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "glchess_3.8.3-1_all.deb", 
+    "pkg": "glchess", 
+    "pkg_version": "3.8.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "gnome-chess-3.8.4-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "gnome-chess", 
+    "pkg_version": "3.8.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "gnome-games-2.28.2-2.el6.x86_64.rpm", 
+    "pkg": "gnome-games", 
+    "pkg_version": "2.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "dbview-1.0.4-alt1.qa1.x86_64.rpm", 
+    "pkg": "dbview", 
+    "pkg_version": "1.0.4", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "dbview-1.0.3-0.2.el6.rf.x86_64.rpm", 
+    "pkg": "dbview", 
+    "pkg_version": "1.0.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "dbview-1.0.3-0.2.el5.rf.x86_64.rpm", 
+    "pkg": "dbview", 
+    "pkg_version": "1.0.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dbview_1.0.4-1_i386.deb", 
+    "pkg": "dbview", 
+    "pkg_version": "1.0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dbview_1.0.4-1_i386.deb", 
+    "pkg": "dbview", 
+    "pkg_version": "1.0.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dbview_1.0.4-1_i386.deb", 
+    "pkg": "dbview", 
+    "pkg_version": "1.0.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "dbview-1.0.4-2.1.x86_64.rpm", 
+    "pkg": "dbview", 
+    "pkg_version": "1.0.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "dbview-1.0.4-2.1.x86_64.rpm", 
+    "pkg": "dbview", 
+    "pkg_version": "1.0.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "dbview-1.0.4-7-omv2015.0.x86_64.rpm", 
+    "pkg": "dbview", 
+    "pkg_version": "1.0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "dbview-1.0.4-6-omv2013.0.x86_64.rpm", 
+    "pkg": "dbview", 
+    "pkg_version": "1.0.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "dbview-1.0.4-6-omv2013.0.x86_64.rpm", 
+    "pkg": "dbview", 
+    "pkg_version": "1.0.4", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "dbview-1.0.4-116.1.x86_64.rpm", 
+    "pkg": "dbview", 
+    "pkg_version": "1.0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "dbview-1.0.4-115.1.2.x86_64.rpm", 
+    "pkg": "dbview", 
+    "pkg_version": "1.0.4", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "dbview-1.0.4-113.1.2.i586.rpm", 
+    "pkg": "dbview", 
+    "pkg_version": "1.0.4", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "dbview-1.0.4-6-rosa2014.1.x86_64.rpm", 
+    "pkg": "dbview", 
+    "pkg_version": "1.0.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "dbview-1.0.4-5-rosa2012.1.x86_64.rpm", 
+    "pkg": "dbview", 
+    "pkg_version": "1.0.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Freestylers", 
+    "pkg_full_name": "dbview-1.0.4-i486-1_fs.tgz", 
+    "pkg": "dbview", 
+    "pkg_version": "1.0.4", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "dbview_1.0.4-1_i386.deb", 
+    "pkg": "dbview", 
+    "pkg_version": "1.0.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "dbview_1.0.4-1_i386.deb", 
+    "pkg": "dbview", 
+    "pkg_version": "1.0.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

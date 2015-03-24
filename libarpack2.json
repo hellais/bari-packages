@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libarpack2_3.1.5-3_i386.deb", 
+    "pkg": "libarpack2", 
+    "pkg_version": "3.1.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libarpack2_3.1.5-3_i386.deb", 
+    "pkg": "libarpack2", 
+    "pkg_version": "3.1.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libarpack2_3.1.1-2.1_i386.deb", 
+    "pkg": "libarpack2", 
+    "pkg_version": "3.1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libarpack2-3.2.0-1.2.x86_64.rpm", 
+    "pkg": "libarpack2", 
+    "pkg_version": "3.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libarpack2-3.1.4-3.1.4.x86_64.rpm", 
+    "pkg": "libarpack2", 
+    "pkg_version": "3.1.4", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libarpack2-3.1.3-2.1.2.i586.rpm", 
+    "pkg": "libarpack2", 
+    "pkg_version": "3.1.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "libarpack2-3.1.5-2-rosa2014.1.i586.rpm", 
+    "pkg": "libarpack2", 
+    "pkg_version": "3.1.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "libarpack2-3.1.5-1-rosa2012.1.i586.rpm", 
+    "pkg": "libarpack2", 
+    "pkg_version": "3.1.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libarpack2_3.1.5-3_i386.deb", 
+    "pkg": "libarpack2", 
+    "pkg_version": "3.1.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libarpack2_3.1.5-2_i386.deb", 
+    "pkg": "libarpack2", 
+    "pkg_version": "3.1.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

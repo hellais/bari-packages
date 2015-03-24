@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libdvbv5-doc_1.6.0-2_all.deb", 
+    "pkg": "libdvbv5-doc", 
+    "pkg_version": "1.6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

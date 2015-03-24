@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libopenjpip-server_2.1.0-2_i386.deb", 
+    "pkg": "libopenjpip-server", 
+    "pkg_version": "2.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

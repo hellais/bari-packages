@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdb-arm-none-eabi_7.7.1+dfsg-1+6_i386.deb", 
+    "pkg": "gdb-arm-none-eabi", 
+    "pkg_version": "7.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gdb-arm-none-eabi_7.7.1+dfsg-1+6_i386.deb", 
+    "pkg": "gdb-arm-none-eabi", 
+    "pkg_version": "7.7.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gdb-arm-none-eabi_7.8-0ubuntu1+6_i386.deb", 
+    "pkg": "gdb-arm-none-eabi", 
+    "pkg_version": "7.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

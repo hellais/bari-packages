@@ -1,0 +1,361 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "velocity-1.7-alt1_9jpp7.noarch.rpm", 
+    "pkg": "velocity", 
+    "pkg_version": "1.7", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "velocity-1.7-10.el7.noarch.rpm", 
+    "pkg": "velocity", 
+    "pkg_version": "1.7", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "JPackage 5.0", 
+    "pkg_full_name": "velocity14-1.4-8.jpp5.noarch.rpm", 
+    "pkg": "velocity14", 
+    "pkg_version": "1.4", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "velocity-1.6.4-1.jpp6.noarch.rpm", 
+    "pkg": "velocity", 
+    "pkg_version": "1.6.4", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "JPackage 5.0", 
+    "pkg_full_name": "velocity14-1.4-8.jpp5.noarch.rpm", 
+    "pkg": "velocity14", 
+    "pkg_version": "1.4", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "velocity-1.6.4-1.jpp6.noarch.rpm", 
+    "pkg": "velocity", 
+    "pkg_version": "1.6.4", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "JPackage 5.0", 
+    "pkg_full_name": "velocity14-1.4-8.jpp5.noarch.rpm", 
+    "pkg": "velocity14", 
+    "pkg_version": "1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "velocity_1.7-4_all.deb", 
+    "pkg": "velocity", 
+    "pkg_version": "1.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "JPackage 5.0", 
+    "pkg_full_name": "velocity14-1.4-8.jpp5.noarch.rpm", 
+    "pkg": "velocity14", 
+    "pkg_version": "1.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "velocity_1.7-4_all.deb", 
+    "pkg": "velocity", 
+    "pkg_version": "1.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "JPackage 5.0", 
+    "pkg_full_name": "velocity14-1.4-8.jpp5.noarch.rpm", 
+    "pkg": "velocity14", 
+    "pkg_version": "1.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "velocity_1.7-4_all.deb", 
+    "pkg": "velocity", 
+    "pkg_version": "1.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "JPackage 5.0", 
+    "pkg_full_name": "velocity14-1.4-8.jpp5.noarch.rpm", 
+    "pkg": "velocity14", 
+    "pkg_version": "1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "velocity-1.7-16.fc22.noarch.rpm", 
+    "pkg": "velocity", 
+    "pkg_version": "1.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "JPackage 5.0", 
+    "pkg_full_name": "velocity14-1.4-8.jpp5.noarch.rpm", 
+    "pkg": "velocity14", 
+    "pkg_version": "1.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "velocity-1.7-16.fc22.noarch.rpm", 
+    "pkg": "velocity", 
+    "pkg_version": "1.7", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "JPackage 5.0", 
+    "pkg_full_name": "velocity14-1.4-8.jpp5.noarch.rpm", 
+    "pkg": "velocity14", 
+    "pkg_version": "1.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "velocity-1.7-16.fc21.noarch.rpm", 
+    "pkg": "velocity", 
+    "pkg_version": "1.7", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "JPackage 5.0", 
+    "pkg_full_name": "velocity14-1.4-8.jpp5.noarch.rpm", 
+    "pkg": "velocity14", 
+    "pkg_version": "1.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "velocity-1.6.4-1.jpp6.noarch.rpm", 
+    "pkg": "velocity", 
+    "pkg_version": "1.6.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "JPackage 5.0", 
+    "pkg_full_name": "velocity14-1.4-8.jpp5.noarch.rpm", 
+    "pkg": "velocity14", 
+    "pkg_version": "1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "velocity-1.7-16.1-omv2015.0.noarch.rpm", 
+    "pkg": "velocity", 
+    "pkg_version": "1.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "JPackage 5.0", 
+    "pkg_full_name": "velocity14-1.4-8.jpp5.noarch.rpm", 
+    "pkg": "velocity14", 
+    "pkg_version": "1.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "velocity-1.7-9.1-omv2014.0.noarch.rpm", 
+    "pkg": "velocity", 
+    "pkg_version": "1.7", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "JPackage 5.0", 
+    "pkg_full_name": "velocity14-1.4-8.jpp5.noarch.rpm", 
+    "pkg": "velocity14", 
+    "pkg_version": "1.4", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "velocity-1.7-2-omv2013.0.noarch.rpm", 
+    "pkg": "velocity", 
+    "pkg_version": "1.7", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "JPackage 5.0", 
+    "pkg_full_name": "velocity14-1.4-8.jpp5.noarch.rpm", 
+    "pkg": "velocity14", 
+    "pkg_version": "1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "velocity-1.7-1.2.noarch.rpm", 
+    "pkg": "velocity", 
+    "pkg_version": "1.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "JPackage 5.0", 
+    "pkg_full_name": "velocity14-1.4-8.jpp5.noarch.rpm", 
+    "pkg": "velocity14", 
+    "pkg_version": "1.4", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "velocity-1.5-23.1.7.noarch.rpm", 
+    "pkg": "velocity", 
+    "pkg_version": "1.5", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "JPackage 5.0", 
+    "pkg_full_name": "velocity14-1.4-8.jpp5.noarch.rpm", 
+    "pkg": "velocity14", 
+    "pkg_version": "1.4", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "velocity-1.5-20.1.5.noarch.rpm", 
+    "pkg": "velocity", 
+    "pkg_version": "1.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "JPackage 5.0", 
+    "pkg_full_name": "velocity14-1.4-8.jpp5.noarch.rpm", 
+    "pkg": "velocity14", 
+    "pkg_version": "1.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "velocity-1.6.4-5-rosa2014.1.noarch.rpm", 
+    "pkg": "velocity", 
+    "pkg_version": "1.6.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "JPackage 5.0", 
+    "pkg_full_name": "velocity14-1.4-8.jpp5.noarch.rpm", 
+    "pkg": "velocity14", 
+    "pkg_version": "1.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "velocity-1.6.4-1-rosa2012.1.noarch.rpm", 
+    "pkg": "velocity", 
+    "pkg_version": "1.6.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "JPackage 5.0", 
+    "pkg_full_name": "velocity14-1.4-8.jpp5.noarch.rpm", 
+    "pkg": "velocity14", 
+    "pkg_version": "1.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "velocity_1.7-4_all.deb", 
+    "pkg": "velocity", 
+    "pkg_version": "1.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "JPackage 5.0", 
+    "pkg_full_name": "velocity14-1.4-8.jpp5.noarch.rpm", 
+    "pkg": "velocity14", 
+    "pkg_version": "1.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "velocity_1.7-4_all.deb", 
+    "pkg": "velocity", 
+    "pkg_version": "1.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

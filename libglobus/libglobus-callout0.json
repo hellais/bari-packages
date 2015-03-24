@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libglobus-callout0_3.13-3_i386.deb", 
+    "pkg": "libglobus-callout0", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libglobus-callout0_3.13-3_i386.deb", 
+    "pkg": "libglobus-callout0", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libglobus-callout0_2.2-1_i386.deb", 
+    "pkg": "libglobus-callout0", 
+    "pkg_version": "2.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libglobus-callout0_2.4-2_i386.deb", 
+    "pkg": "libglobus-callout0", 
+    "pkg_version": "2.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libglobus-callout0_2.4-2_i386.deb", 
+    "pkg": "libglobus-callout0", 
+    "pkg_version": "2.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

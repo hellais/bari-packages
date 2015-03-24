@@ -1,0 +1,461 @@
+[
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "texlive-pstricks-doc-svn29678.2.39-32.el7.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-svn2967", 
+    "pkg_version": "8.2.3", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "texlive-pstricks-doc-svn29678.2.39-32.el7.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-svn2967", 
+    "pkg_version": "8.2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "texlive-pstricks-doc_2014.20141024-1_all.deb", 
+    "pkg": "texlive-pstricks-doc_201", 
+    "pkg_version": "4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "texlive-pstricks-doc-svn29678.2.39-32.el7.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-svn2967", 
+    "pkg_version": "8.2.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "texlive-pstricks-doc_2014.20141024-1_all.deb", 
+    "pkg": "texlive-pstricks-doc_201", 
+    "pkg_version": "4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "texlive-pstricks-doc-svn29678.2.39-32.el7.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-svn2967", 
+    "pkg_version": "8.2.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "texlive-pstricks-doc_2012.20120611-2_all.deb", 
+    "pkg": "texlive-pstricks-doc_201", 
+    "pkg_version": "2.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "texlive-pstricks-doc-svn33328.2.53a-7.fc23.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-svn3332", 
+    "pkg_version": "8.2.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "texlive-pstricks-doc-svn29678.2.39-32.el7.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-svn2967", 
+    "pkg_version": "8.2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "texlive-pstricks-doc_2012.20120611-2_all.deb", 
+    "pkg": "texlive-pstricks-doc_201", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "texlive-pstricks-doc-svn33328.2.53a-6.fc22.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-svn3332", 
+    "pkg_version": "8.2.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "texlive-pstricks-doc-svn29678.2.39-32.el7.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-svn2967", 
+    "pkg_version": "8.2.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "texlive-pstricks-doc_2012.20120611-2_all.deb", 
+    "pkg": "texlive-pstricks-doc_201", 
+    "pkg_version": "2.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "texlive-pstricks-doc-svn33328.2.53a-1.1.fc21.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-svn3332", 
+    "pkg_version": "8.2.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "texlive-pstricks-doc-svn29678.2.39-32.el7.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-svn2967", 
+    "pkg_version": "8.2.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "texlive-pstricks-doc_2012.20120611-2_all.deb", 
+    "pkg": "texlive-pstricks-doc_201", 
+    "pkg_version": "2.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "texlive-pstricks-doc-svn33328.2.53a-1.1.fc21.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-svn3332", 
+    "pkg_version": "8.2.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "texlive-pstricks-doc-svn29678.2.39-32.el7.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-svn2967", 
+    "pkg_version": "8.2.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "texlive-pstricks-doc-svn32464.2.49a-6.fc20.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-svn3246", 
+    "pkg_version": "4.2.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "texlive-pstricks-doc_2012.20120611-2_all.deb", 
+    "pkg": "texlive-pstricks-doc_201", 
+    "pkg_version": "2.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "texlive-pstricks-doc-svn31964.2.46-3.fc20.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-svn3196", 
+    "pkg_version": "4.2.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "texlive-pstricks-doc-svn33328.2.53a-1.1.fc21.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-svn3332", 
+    "pkg_version": "8.2.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "texlive-pstricks-doc-svn29678.2.39-32.el7.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-svn2967", 
+    "pkg_version": "8.2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "texlive-pstricks-doc-svn32464.2.49a-6.fc20.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-svn3246", 
+    "pkg_version": "4.2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "texlive-pstricks-doc-svn31964.2.46-3.fc20.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-svn3196", 
+    "pkg_version": "4.2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "texlive-pstricks-doc_2012.20120611-2_all.deb", 
+    "pkg": "texlive-pstricks-doc_201", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "texlive-pstricks-doc-2013.90.2.43svn30616-19.1.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-201", 
+    "pkg_version": "3.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "texlive-pstricks-doc-svn33328.2.53a-1.1.fc21.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-svn3332", 
+    "pkg_version": "8.2.5", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "texlive-pstricks-doc-svn29678.2.39-32.el7.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-svn2967", 
+    "pkg_version": "8.2.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "texlive-pstricks-doc-svn32464.2.49a-6.fc20.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-svn3246", 
+    "pkg_version": "4.2.4", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "texlive-pstricks-doc-svn31964.2.46-3.fc20.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-svn3196", 
+    "pkg_version": "4.2.4", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "texlive-pstricks-doc_2012.20120611-2_all.deb", 
+    "pkg": "texlive-pstricks-doc_201", 
+    "pkg_version": "2.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "texlive-pstricks-doc-2013.84.2.43svn30616-17.1.7.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-201", 
+    "pkg_version": "3.8", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "texlive-pstricks-doc-svn33328.2.53a-1.1.fc21.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-svn3332", 
+    "pkg_version": "8.2.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "texlive-pstricks-doc-svn29678.2.39-32.el7.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-svn2967", 
+    "pkg_version": "8.2.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "texlive-pstricks-doc-svn32464.2.49a-6.fc20.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-svn3246", 
+    "pkg_version": "4.2.4", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "texlive-pstricks-doc-svn31964.2.46-3.fc20.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-svn3196", 
+    "pkg_version": "4.2.4", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "texlive-pstricks-doc_2012.20120611-2_all.deb", 
+    "pkg": "texlive-pstricks-doc_201", 
+    "pkg_version": "2.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "texlive-pstricks-doc-2013.72.2.43svn30616-11.2.1.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-201", 
+    "pkg_version": "3.7", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "texlive-pstricks-doc-svn33328.2.53a-1.1.fc21.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-svn3332", 
+    "pkg_version": "8.2.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "texlive-pstricks-doc-svn29678.2.39-32.el7.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-svn2967", 
+    "pkg_version": "8.2.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "texlive-pstricks-doc-svn32464.2.49a-6.fc20.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-svn3246", 
+    "pkg_version": "4.2.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "texlive-pstricks-doc-svn31964.2.46-3.fc20.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-svn3196", 
+    "pkg_version": "4.2.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "texlive-pstricks-doc_2014.20140717-1_all.deb", 
+    "pkg": "texlive-pstricks-doc_201", 
+    "pkg_version": "4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "texlive-pstricks-doc-2013.72.2.43svn30616-11.2.1.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-201", 
+    "pkg_version": "3.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "texlive-pstricks-doc-svn33328.2.53a-1.1.fc21.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-svn3332", 
+    "pkg_version": "8.2.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "texlive-pstricks-doc-svn29678.2.39-32.el7.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-svn2967", 
+    "pkg_version": "8.2.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "texlive-pstricks-doc-svn32464.2.49a-6.fc20.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-svn3246", 
+    "pkg_version": "4.2.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "texlive-pstricks-doc-svn31964.2.46-3.fc20.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-svn3196", 
+    "pkg_version": "4.2.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "texlive-pstricks-doc_2013.20140215-2_all.deb", 
+    "pkg": "texlive-pstricks-doc_201", 
+    "pkg_version": "3.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "texlive-pstricks-doc-2013.72.2.43svn30616-11.2.1.noarch.rpm", 
+    "pkg": "texlive-pstricks-doc-201", 
+    "pkg_version": "3.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

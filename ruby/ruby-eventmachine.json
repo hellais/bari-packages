@@ -1,0 +1,55 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-eventmachine-1.0.3-alt1.x86_64.rpm", 
+    "pkg": "ruby-eventmachine", 
+    "pkg_version": "1.0.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-eventmachine_1.0.3-6+b2_i386.deb", 
+    "pkg": "ruby-eventmachine", 
+    "pkg_version": "1.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-eventmachine_1.0.3-6+b2_i386.deb", 
+    "pkg": "ruby-eventmachine", 
+    "pkg_version": "1.0.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-eventmachine_0.12.10-3_i386.deb", 
+    "pkg": "ruby-eventmachine", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ruby-eventmachine_1.0.3-6build1_i386.deb", 
+    "pkg": "ruby-eventmachine", 
+    "pkg_version": "1.0.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ruby-eventmachine_1.0.3-4_i386.deb", 
+    "pkg": "ruby-eventmachine", 
+    "pkg_version": "1.0.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

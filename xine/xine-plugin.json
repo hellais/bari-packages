@@ -1,0 +1,137 @@
+[
+  {
+    "pkg_repo": "KBS Extras Testing", 
+    "pkg_full_name": "xine-plugin-1.0-3.el5.kb.x86_64.rpm", 
+    "pkg": "xine-plugin", 
+    "pkg_version": "1.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xine-plugin_1.0.2-4_i386.deb", 
+    "pkg": "xine-plugin", 
+    "pkg_version": "1.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xine-plugin_1.0.2-4_i386.deb", 
+    "pkg": "xine-plugin", 
+    "pkg_version": "1.0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xine-plugin_1.0.2-4_i386.deb", 
+    "pkg": "xine-plugin", 
+    "pkg_version": "1.0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "xine-plugin-1.0.2-10.fc21.x86_64.rpm", 
+    "pkg": "xine-plugin", 
+    "pkg_version": "1.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "xine-plugin-1.0.2-10.fc21.x86_64.rpm", 
+    "pkg": "xine-plugin", 
+    "pkg_version": "1.0.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "xine-plugin-1.0.2-9.fc20.x86_64.rpm", 
+    "pkg": "xine-plugin", 
+    "pkg_version": "1.0.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "xine-plugin-1.0.2-9.fc20.x86_64.rpm", 
+    "pkg": "xine-plugin", 
+    "pkg_version": "1.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "xine-browser-plugin-1.0.2-3.69.x86_64.rpm", 
+    "pkg": "xine-browser-plugin", 
+    "pkg_version": "1.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "xine-plugin-1.0.2-9.fc20.x86_64.rpm", 
+    "pkg": "xine-plugin", 
+    "pkg_version": "1.0.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "xine-browser-plugin-1.0.2-3.6.x86_64.rpm", 
+    "pkg": "xine-browser-plugin", 
+    "pkg_version": "1.0.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xine-plugin_1.0.2-4ubuntu1_i386.deb", 
+    "pkg": "xine-plugin", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "xine-browser-plugin-1.0.2-3.6.x86_64.rpm", 
+    "pkg": "xine-browser-plugin", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xine-plugin_1.0.2-4ubuntu1_i386.deb", 
+    "pkg": "xine-plugin", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "xine-browser-plugin-1.0.2-3.6.x86_64.rpm", 
+    "pkg": "xine-browser-plugin", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

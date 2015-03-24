@@ -1,0 +1,226 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ash-0.5.7-alt1.20120623.x86_64.rpm", 
+    "pkg": "ash", 
+    "pkg_version": "0.5.7", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "ash-0.3.8-20.el5.rf.x86_64.rpm", 
+    "pkg": "ash", 
+    "pkg_version": "0.3.8", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ash_0.5.7-4_all.deb", 
+    "pkg": "ash", 
+    "pkg_version": "0.5.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ash_0.5.7-4_all.deb", 
+    "pkg": "ash", 
+    "pkg_version": "0.5.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ash_0.5.7-3_all.deb", 
+    "pkg": "ash", 
+    "pkg_version": "0.5.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "dash-static-0.5.8-2-omv2015.0.x86_64.rpm", 
+    "pkg": "dash-static", 
+    "pkg_version": "0.5.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ash_0.5.7-3_all.deb", 
+    "pkg": "ash", 
+    "pkg_version": "0.5.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "dash-static-0.5.7-9-omv2014.0.x86_64.rpm", 
+    "pkg": "dash-static", 
+    "pkg_version": "0.5.7", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ash_0.5.7-3_all.deb", 
+    "pkg": "ash", 
+    "pkg_version": "0.5.7", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "dash-static-0.5.7-4-omv2013.0.x86_64.rpm", 
+    "pkg": "dash-static", 
+    "pkg_version": "0.5.7", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ash_0.5.7-3_all.deb", 
+    "pkg": "ash", 
+    "pkg_version": "0.5.7", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "dash-static-0.5.7-5-rosa2014.1.x86_64.rpm", 
+    "pkg": "dash-static", 
+    "pkg_version": "0.5.7", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ash_0.5.7-3_all.deb", 
+    "pkg": "ash", 
+    "pkg_version": "0.5.7", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "dash-static-0.5.7-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "dash-static", 
+    "pkg_version": "0.5.7", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ash_0.5.7-3_all.deb", 
+    "pkg": "ash", 
+    "pkg_version": "0.5.7", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "dash-static-0.5.6.1-4-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "dash-static", 
+    "pkg_version": "0.5.6.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "ash-0.4.0-x86_64-2.txz", 
+    "pkg": "ash", 
+    "pkg_version": "0.4.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "dash-static-0.5.6.1-4-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "dash-static", 
+    "pkg_version": "0.5.6.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "ash-0.4.0-x86_64-2.txz", 
+    "pkg": "ash", 
+    "pkg_version": "0.4.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "dash-static-0.5.6.1-4-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "dash-static", 
+    "pkg_version": "0.5.6.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "ash-0.4.0-x86_64-2.txz", 
+    "pkg": "ash", 
+    "pkg_version": "0.4.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "dash-static-0.5.6.1-4-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "dash-static", 
+    "pkg_version": "0.5.6.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ash_0.5.7-4ubuntu1_all.deb", 
+    "pkg": "ash", 
+    "pkg_version": "0.5.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "dash-static-0.5.6.1-4-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "dash-static", 
+    "pkg_version": "0.5.6.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ash_0.5.7-4ubuntu1_all.deb", 
+    "pkg": "ash", 
+    "pkg_version": "0.5.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

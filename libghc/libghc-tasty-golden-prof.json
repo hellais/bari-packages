@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-tasty-golden-prof_2.2.2.4-2+b3_amd64.deb", 
+    "pkg": "libghc-tasty-golden-prof", 
+    "pkg_version": "2.2.2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-tasty-golden-prof_2.2.2.4-2+b3_amd64.deb", 
+    "pkg": "libghc-tasty-golden-prof", 
+    "pkg_version": "2.2.2.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-tasty-golden-prof_2.2.2.4-2_i386.deb", 
+    "pkg": "libghc-tasty-golden-prof", 
+    "pkg_version": "2.2.2.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

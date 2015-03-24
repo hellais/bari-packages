@@ -1,0 +1,110 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "eblook_1.6.1-13_i386.deb", 
+    "pkg": "eblook", 
+    "pkg_version": "1.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "eblook_1.6.1-13_i386.deb", 
+    "pkg": "eblook", 
+    "pkg_version": "1.6.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "eblook_1.6.1-12_i386.deb", 
+    "pkg": "eblook", 
+    "pkg_version": "1.6.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "eblook-1.6.1-19.fc22.x86_64.rpm", 
+    "pkg": "eblook", 
+    "pkg_version": "1.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "eblook-1.6.1-19.fc22.x86_64.rpm", 
+    "pkg": "eblook", 
+    "pkg_version": "1.6.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "eblook-1.6.1-19.fc21.x86_64.rpm", 
+    "pkg": "eblook", 
+    "pkg_version": "1.6.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "eblook-1.6.1-17.fc20.x86_64.rpm", 
+    "pkg": "eblook", 
+    "pkg_version": "1.6.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "eblook-1.6.1-161.1.x86_64.rpm", 
+    "pkg": "eblook", 
+    "pkg_version": "1.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "eblook-1.6.1-159.1.2.x86_64.rpm", 
+    "pkg": "eblook", 
+    "pkg_version": "1.6.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "eblook-1.6.1-157.1.2.i586.rpm", 
+    "pkg": "eblook", 
+    "pkg_version": "1.6.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "eblook_1.6.1-13_i386.deb", 
+    "pkg": "eblook", 
+    "pkg_version": "1.6.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "eblook_1.6.1-13_i386.deb", 
+    "pkg": "eblook", 
+    "pkg_version": "1.6.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Ghettoforge Plus", 
+    "pkg_full_name": "liblognorm1-1.0.1-2.gf.el6.x86_64.rpm", 
+    "pkg": "liblognorm1", 
+    "pkg_version": "1.0.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liblognorm1_1.0.1-3_i386.deb", 
+    "pkg": "liblognorm1", 
+    "pkg_version": "1.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liblognorm1_1.0.1-3_i386.deb", 
+    "pkg": "liblognorm1", 
+    "pkg_version": "1.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

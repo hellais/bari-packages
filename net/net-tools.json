@@ -1,0 +1,225 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "net-tools-1.60-alt18.x86_64.rpm", 
+    "pkg": "net-tools", 
+    "pkg_version": "1.6", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Core", 
+    "pkg_full_name": "net-tools-1.60.20130531git-1-x86_64.pkg.tar.xz", 
+    "pkg": "net-tools", 
+    "pkg_version": "1.6", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "net-tools-2.0-0.17.20131004git.el7.x86_64.rpm", 
+    "pkg": "net-tools", 
+    "pkg_version": "2.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "net-tools-1.60-110.el6_2.x86_64.rpm", 
+    "pkg": "net-tools", 
+    "pkg_version": "1.6", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "net-tools-1.60-83.el5_10.x86_64.rpm", 
+    "pkg": "net-tools", 
+    "pkg_version": "1.6", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "net-tools_1.60-26+b1_i386.deb", 
+    "pkg": "net-tools", 
+    "pkg_version": "1.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "net-tools_1.60-26+b1_i386.deb", 
+    "pkg": "net-tools", 
+    "pkg_version": "1.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "net-tools_1.60-24.2_i386.deb", 
+    "pkg": "net-tools", 
+    "pkg_version": "1.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "net-tools-2.0-0.31.20141124git.fc22.x86_64.rpm", 
+    "pkg": "net-tools", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "net-tools-2.0-0.31.20141124git.fc22.x86_64.rpm", 
+    "pkg": "net-tools", 
+    "pkg_version": "2.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "net-tools-2.0-0.31.20141124git.fc21.x86_64.rpm", 
+    "pkg": "net-tools", 
+    "pkg_version": "2.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "net-tools-2.0-0.15.20131119git.fc20.x86_64.rpm", 
+    "pkg": "net-tools", 
+    "pkg_version": "2.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "net-tools-1.60-38.20120702git.4-omv2015.0.x86_64.rpm", 
+    "pkg": "net-tools", 
+    "pkg_version": "1.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "net-tools-1.60-38.20120702git.3-omv2014.0.x86_64.rpm", 
+    "pkg": "net-tools", 
+    "pkg_version": "1.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "net-tools-1.60-38.20120702git.3-omv2013.0.x86_64.rpm", 
+    "pkg": "net-tools", 
+    "pkg_version": "1.6", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "net-tools-1.60-766.2.x86_64.rpm", 
+    "pkg": "net-tools", 
+    "pkg_version": "1.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "net-tools-1.60-765.1.2.x86_64.rpm", 
+    "pkg": "net-tools", 
+    "pkg_version": "1.6", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "net-tools-1.60-763.1.2.i586.rpm", 
+    "pkg": "net-tools", 
+    "pkg_version": "1.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "net-tools-1.60-37.20120702git.1-rosa2014.1.x86_64.rpm", 
+    "pkg": "net-tools", 
+    "pkg_version": "1.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "net-tools-1.60-37.20120702git.1-rosa2012.1.x86_64.rpm", 
+    "pkg": "net-tools", 
+    "pkg_version": "1.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "net-tools-1.60.20120726git-x86_64-1.txz", 
+    "pkg": "net-tools", 
+    "pkg_version": "1.6", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "net-tools-1.60.20120726git-x86_64-1.txz", 
+    "pkg": "net-tools", 
+    "pkg_version": "1.6", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "net-tools-1.60-x86_64-3.txz", 
+    "pkg": "net-tools", 
+    "pkg_version": "1.6", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "net-tools_1.60-26ubuntu1_i386.deb", 
+    "pkg": "net-tools", 
+    "pkg_version": "1.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "net-tools_1.60-25ubuntu2.1_i386.deb", 
+    "pkg": "net-tools", 
+    "pkg_version": "1.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

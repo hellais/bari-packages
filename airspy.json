@@ -1,0 +1,37 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "airspy-1.0.3-2-x86_64.pkg.tar.xz", 
+    "pkg": "airspy", 
+    "pkg_version": "1.0.3", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "airspy_0.2.22.b4c38a7-1_i386.deb", 
+    "pkg": "airspy", 
+    "pkg_version": "0.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "airspy_0.2.22.b4c38a7-1_i386.deb", 
+    "pkg": "airspy", 
+    "pkg_version": "0.2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "airspy_0.2.22.b4c38a7-1~bpo70+1_i386.deb", 
+    "pkg": "airspy", 
+    "pkg_version": "0.2.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

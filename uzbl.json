@@ -1,0 +1,487 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "uzbl-20111001-alt1.2.x86_64.rpm", 
+    "pkg": "uzbl-20111001-alt", 
+    "pkg_version": "1.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "uzbl-20111001-alt1.2.x86_64.rpm", 
+    "pkg": "uzbl-20111001-alt", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "uzbl_0.0.0~git.20120514-1.1_i386.deb", 
+    "pkg": "uzbl", 
+    "pkg_version": "0.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "uzbl-20111001-alt1.2.x86_64.rpm", 
+    "pkg": "uzbl-20111001-alt", 
+    "pkg_version": "1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "uzbl_0.0.0~git.20120514-1.1_i386.deb", 
+    "pkg": "uzbl", 
+    "pkg_version": "0.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "uzbl-20111001-alt1.2.x86_64.rpm", 
+    "pkg": "uzbl-20111001-alt", 
+    "pkg_version": "1.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "uzbl_0.0.0~git.20120514-1.1_i386.deb", 
+    "pkg": "uzbl", 
+    "pkg_version": "0.0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "uzbl-0-0.36.20120514git228bc38cbd.fc22.x86_64.rpm", 
+    "pkg": "uzbl-0", 
+    "pkg_version": "0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "uzbl-20111001-alt1.2.x86_64.rpm", 
+    "pkg": "uzbl-20111001-alt", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "uzbl_0.0.0~git.20120514-1.1_i386.deb", 
+    "pkg": "uzbl", 
+    "pkg_version": "0.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "uzbl-0-0.36.20120514git228bc38cbd.fc22.x86_64.rpm", 
+    "pkg": "uzbl-0", 
+    "pkg_version": "0.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "uzbl-20111001-alt1.2.x86_64.rpm", 
+    "pkg": "uzbl-20111001-alt", 
+    "pkg_version": "1.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "uzbl_0.0.0~git.20120514-1.1_i386.deb", 
+    "pkg": "uzbl", 
+    "pkg_version": "0.0.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "uzbl-0-0.35.20120514git228bc38cbd.fc21.x86_64.rpm", 
+    "pkg": "uzbl-0", 
+    "pkg_version": "0.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "uzbl-20111001-alt1.2.x86_64.rpm", 
+    "pkg": "uzbl-20111001-alt", 
+    "pkg_version": "1.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "uzbl_0.0.0~git.20120514-1.1_i386.deb", 
+    "pkg": "uzbl", 
+    "pkg_version": "0.0.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "uzbl-0-0.33.20120514git228bc38cbd.fc20.x86_64.rpm", 
+    "pkg": "uzbl-0", 
+    "pkg_version": "0.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "uzbl-20111001-alt1.2.x86_64.rpm", 
+    "pkg": "uzbl-20111001-alt", 
+    "pkg_version": "1.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "uzbl_0.0.0~git.20120514-1.1_i386.deb", 
+    "pkg": "uzbl", 
+    "pkg_version": "0.0.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "uzbl-0-0.33.20120514git228bc38cbd.fc20.x86_64.rpm", 
+    "pkg": "uzbl-0", 
+    "pkg_version": "0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "uzbl-20111001-alt1.2.x86_64.rpm", 
+    "pkg": "uzbl-20111001-alt", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "uzbl-0.0-0.20120514.1-omv2013.0.x86_64.rpm", 
+    "pkg": "uzbl", 
+    "pkg_version": "0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "uzbl-0-0.33.20120514git228bc38cbd.fc20.x86_64.rpm", 
+    "pkg": "uzbl-0", 
+    "pkg_version": "0.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "uzbl-20111001-alt1.2.x86_64.rpm", 
+    "pkg": "uzbl-20111001-alt", 
+    "pkg_version": "1.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "uzbl-0.0-0.20120514.1-omv2013.0.x86_64.rpm", 
+    "pkg": "uzbl", 
+    "pkg_version": "0.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "uzbl-0-0.33.20120514git228bc38cbd.fc20.x86_64.rpm", 
+    "pkg": "uzbl-0", 
+    "pkg_version": "0.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "uzbl-20111001-alt1.2.x86_64.rpm", 
+    "pkg": "uzbl-20111001-alt", 
+    "pkg_version": "1.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "uzbl-0.0-0.20120514.1-omv2013.0.x86_64.rpm", 
+    "pkg": "uzbl", 
+    "pkg_version": "0.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "uzbl-0-0.33.20120514git228bc38cbd.fc20.x86_64.rpm", 
+    "pkg": "uzbl-0", 
+    "pkg_version": "0.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "uzbl-20111001-alt1.2.x86_64.rpm", 
+    "pkg": "uzbl-20111001-alt", 
+    "pkg_version": "1.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "uzbl-0.0-0.20120514.1-rosa2014.1.x86_64.rpm", 
+    "pkg": "uzbl", 
+    "pkg_version": "0.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "uzbl-0-0.33.20120514git228bc38cbd.fc20.x86_64.rpm", 
+    "pkg": "uzbl-0", 
+    "pkg_version": "0.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "uzbl-20111001-alt1.2.x86_64.rpm", 
+    "pkg": "uzbl-20111001-alt", 
+    "pkg_version": "1.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "uzbl-0.0-0.20120514.1-rosa2012.1.x86_64.rpm", 
+    "pkg": "uzbl", 
+    "pkg_version": "0.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "uzbl-0-0.33.20120514git228bc38cbd.fc20.x86_64.rpm", 
+    "pkg": "uzbl-0", 
+    "pkg_version": "0.3", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "uzbl-2012.05.14-x86_64-5sl.txz", 
+    "pkg": "uzbl-201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "uzbl-20111001-alt1.2.x86_64.rpm", 
+    "pkg": "uzbl-20111001-alt", 
+    "pkg_version": "1.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "uzbl-0.0-0.1.20100805.2-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "uzbl", 
+    "pkg_version": "0.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "uzbl-0-0.33.20120514git228bc38cbd.fc20.x86_64.rpm", 
+    "pkg": "uzbl-0", 
+    "pkg_version": "0.3", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "uzbl-2012.05.14-x86_64-3sl.txz", 
+    "pkg": "uzbl-201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "uzbl-20111001-alt1.2.x86_64.rpm", 
+    "pkg": "uzbl-20111001-alt", 
+    "pkg_version": "1.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "uzbl-0.0-0.1.20100805.2-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "uzbl", 
+    "pkg_version": "0.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "uzbl-0-0.33.20120514git228bc38cbd.fc20.x86_64.rpm", 
+    "pkg": "uzbl-0", 
+    "pkg_version": "0.3", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "uzbl-2012.05.14-x86_64-1sl.txz", 
+    "pkg": "uzbl-201", 
+    "pkg_version": "2.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "uzbl-20111001-alt1.2.x86_64.rpm", 
+    "pkg": "uzbl-20111001-alt", 
+    "pkg_version": "1.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "uzbl-0.0-0.1.20100805.2-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "uzbl", 
+    "pkg_version": "0.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "uzbl-0-0.33.20120514git228bc38cbd.fc20.x86_64.rpm", 
+    "pkg": "uzbl-0", 
+    "pkg_version": "0.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "uzbl-2012.05.14-x86_64-1sl.txz", 
+    "pkg": "uzbl-201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "uzbl-20111001-alt1.2.x86_64.rpm", 
+    "pkg": "uzbl-20111001-alt", 
+    "pkg_version": "1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "uzbl_0.0.0~git.20120514-1.1_i386.deb", 
+    "pkg": "uzbl", 
+    "pkg_version": "0.0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "uzbl-0-0.33.20120514git228bc38cbd.fc20.x86_64.rpm", 
+    "pkg": "uzbl-0", 
+    "pkg_version": "0.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "uzbl-2012.05.14-x86_64-1sl.txz", 
+    "pkg": "uzbl-201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "uzbl-20111001-alt1.2.x86_64.rpm", 
+    "pkg": "uzbl-20111001-alt", 
+    "pkg_version": "1.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "uzbl_0.0.0~git.20120514-1.1_i386.deb", 
+    "pkg": "uzbl", 
+    "pkg_version": "0.0.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

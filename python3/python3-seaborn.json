@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python3-seaborn_0.5.1-1~nd+1_all.deb", 
+    "pkg": "python3-seaborn", 
+    "pkg_version": "0.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python3-seaborn_0.5.1-1~nd80+1_all.deb", 
+    "pkg": "python3-seaborn", 
+    "pkg_version": "0.5.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python3-seaborn_0.5.1-1~nd70+1_all.deb", 
+    "pkg": "python3-seaborn", 
+    "pkg_version": "0.5.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-seaborn-0.5.1-4.fc22.noarch.rpm", 
+    "pkg": "python3-seaborn", 
+    "pkg_version": "0.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-seaborn-0.5.1-4.fc22.noarch.rpm", 
+    "pkg": "python3-seaborn", 
+    "pkg_version": "0.5.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python3-seaborn-0.5.1-4.fc21.noarch.rpm", 
+    "pkg": "python3-seaborn", 
+    "pkg_version": "0.5.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python3-seaborn_0.5.1-1~nd14.04+1+nd14.10+1_all.deb", 
+    "pkg": "python3-seaborn", 
+    "pkg_version": "0.5.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

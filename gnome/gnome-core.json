@@ -1,0 +1,110 @@
+[
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "gnome-desktop-2.28.2-11.el6.centos.x86_64.rpm", 
+    "pkg": "gnome-desktop", 
+    "pkg_version": "2.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "gnome-desktop-2.16.0-1.el5.centos.1.x86_64.rpm", 
+    "pkg": "gnome-desktop", 
+    "pkg_version": "2.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "gnome-desktop-2.16.0-1.el5.centos.1.x86_64.rpm", 
+    "pkg": "gnome-desktop", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-core_3.14+3_i386.deb", 
+    "pkg": "gnome-core", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "gnome-desktop-2.16.0-1.el5.centos.1.x86_64.rpm", 
+    "pkg": "gnome-desktop", 
+    "pkg_version": "2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-core_3.14+3_i386.deb", 
+    "pkg": "gnome-core", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "gnome-desktop-2.16.0-1.el5.centos.1.x86_64.rpm", 
+    "pkg": "gnome-desktop", 
+    "pkg_version": "2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-core_3.4+7+deb7u1_i386.deb", 
+    "pkg": "gnome-core", 
+    "pkg_version": "3.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "gnome-desktop-2.16.0-1.el5.centos.1.x86_64.rpm", 
+    "pkg": "gnome-desktop", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnome-core_3.8+4ubuntu5_i386.deb", 
+    "pkg": "gnome-core", 
+    "pkg_version": "3.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "gnome-desktop-2.16.0-1.el5.centos.1.x86_64.rpm", 
+    "pkg": "gnome-desktop", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnome-core_3.8+4ubuntu3_i386.deb", 
+    "pkg": "gnome-core", 
+    "pkg_version": "3.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-pathtools-0.1.2-1.el6.noarch.rpm", 
+    "pkg": "python-pathtools", 
+    "pkg_version": "0.1.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-pathtools_0.1.2-2_all.deb", 
+    "pkg": "python-pathtools", 
+    "pkg_version": "0.1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-pathtools_0.1.2-1_all.deb", 
+    "pkg": "python-pathtools", 
+    "pkg_version": "0.1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-pathtools-0.1.2-3.fc21.noarch.rpm", 
+    "pkg": "python-pathtools", 
+    "pkg_version": "0.1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-pathtools-0.1.2-3.fc21.noarch.rpm", 
+    "pkg": "python-pathtools", 
+    "pkg_version": "0.1.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-pathtools-0.1.2-3.fc21.noarch.rpm", 
+    "pkg": "python-pathtools", 
+    "pkg_version": "0.1.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-pathtools-0.1.2-1.fc20.noarch.rpm", 
+    "pkg": "python-pathtools", 
+    "pkg_version": "0.1.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-pathtools-0.1.2-10.2.noarch.rpm", 
+    "pkg": "python-pathtools", 
+    "pkg_version": "0.1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-pathtools-0.1.2-9.1.4.noarch.rpm", 
+    "pkg": "python-pathtools", 
+    "pkg_version": "0.1.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-pathtools-0.1.2-6.1.2.noarch.rpm", 
+    "pkg": "python-pathtools", 
+    "pkg_version": "0.1.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }
+]

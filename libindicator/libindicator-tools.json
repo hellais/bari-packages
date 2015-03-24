@@ -1,0 +1,136 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libindicator-tools-12.10.1-alt1_4.x86_64.rpm", 
+    "pkg": "libindicator-tools-1", 
+    "pkg_version": "2.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libindicator-tools-12.10.1-alt1_4.x86_64.rpm", 
+    "pkg": "libindicator-tools-1", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libindicator-tools_0.5.0-2_i386.deb", 
+    "pkg": "libindicator-tools", 
+    "pkg_version": "0.5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libindicator-tools-12.10.1-alt1_4.x86_64.rpm", 
+    "pkg": "libindicator-tools-1", 
+    "pkg_version": "2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libindicator-tools_0.5.0-2_i386.deb", 
+    "pkg": "libindicator-tools", 
+    "pkg_version": "0.5.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libindicator-tools-12.10.1-alt1_4.x86_64.rpm", 
+    "pkg": "libindicator-tools-1", 
+    "pkg_version": "2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libindicator-tools_0.5.0-1_i386.deb", 
+    "pkg": "libindicator-tools", 
+    "pkg_version": "0.5.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "libindicator-tools-12.10.1-4.fc22.x86_64.rpm", 
+    "pkg": "libindicator-tools-1", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libindicator-tools_0.5.0-1_i386.deb", 
+    "pkg": "libindicator-tools", 
+    "pkg_version": "0.5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "libindicator-tools-12.10.1-4.fc22.x86_64.rpm", 
+    "pkg": "libindicator-tools-1", 
+    "pkg_version": "2.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libindicator-tools_0.5.0-1_i386.deb", 
+    "pkg": "libindicator-tools", 
+    "pkg_version": "0.5.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "libindicator-tools-12.10.1-4.fc21.x86_64.rpm", 
+    "pkg": "libindicator-tools-1", 
+    "pkg_version": "2.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libindicator-tools_0.5.0-1_i386.deb", 
+    "pkg": "libindicator-tools", 
+    "pkg_version": "0.5.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "libindicator-tools-12.10.1-2.fc20.x86_64.rpm", 
+    "pkg": "libindicator-tools-1", 
+    "pkg_version": "2.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libindicator-tools_0.5.0-1_i386.deb", 
+    "pkg": "libindicator-tools", 
+    "pkg_version": "0.5.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "open-iscsi-2.0.873-alt1.git006270.x86_64.rpm", 
+    "pkg": "open-iscsi", 
+    "pkg_version": "2.0.8", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "open-iscsi-2.0_873-6-x86_64.pkg.tar.xz", 
+    "pkg": "open-iscsi", 
+    "pkg_version": "2.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "open-iscsi_2.0.873+git0.3b4b4500-8_i386.deb", 
+    "pkg": "open-iscsi", 
+    "pkg_version": "2.0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "open-iscsi_2.0.873+git0.3b4b4500-8_i386.deb", 
+    "pkg": "open-iscsi", 
+    "pkg_version": "2.0.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "open-iscsi_2.0.873-3_i386.deb", 
+    "pkg": "open-iscsi", 
+    "pkg_version": "2.0.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "open-iscsi-2.0-873.1-omv2015.0.x86_64.rpm", 
+    "pkg": "open-iscsi", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "open-iscsi-2.0-873.1-omv2014.0.x86_64.rpm", 
+    "pkg": "open-iscsi", 
+    "pkg_version": "2.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "open-iscsi-2.0-873.1-omv2013.0.x86_64.rpm", 
+    "pkg": "open-iscsi", 
+    "pkg_version": "2.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "open-iscsi-2.0.873-22.1.x86_64.rpm", 
+    "pkg": "open-iscsi", 
+    "pkg_version": "2.0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "open-iscsi-2.0.873-16.2.3.x86_64.rpm", 
+    "pkg": "open-iscsi", 
+    "pkg_version": "2.0.8", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "open-iscsi-2.0.873-2.8.1.x86_64.rpm", 
+    "pkg": "open-iscsi", 
+    "pkg_version": "2.0.8", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "open-iscsi-2.0-873.1-rosa2014.1.x86_64.rpm", 
+    "pkg": "open-iscsi", 
+    "pkg_version": "2.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "open-iscsi-2.0-871.5-rosa2012.1.x86_64.rpm", 
+    "pkg": "open-iscsi", 
+    "pkg_version": "2.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "open-iscsi_2.0.873-3ubuntu9_i386.deb", 
+    "pkg": "open-iscsi", 
+    "pkg_version": "2.0.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "open-iscsi_2.0.873-3ubuntu9_i386.deb", 
+    "pkg": "open-iscsi", 
+    "pkg_version": "2.0.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "perl-tk-804.033-1-x86_64.pkg.tar.xz", 
+    "pkg": "perl-tk-80", 
+    "pkg_version": "4.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "perl-tk_804.032-3+b3_i386.deb", 
+    "pkg": "perl-tk_80", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "perl-tk-804.033-1-x86_64.pkg.tar.xz", 
+    "pkg": "perl-tk-80", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "perl-tk_804.032-3+b3_i386.deb", 
+    "pkg": "perl-tk_80", 
+    "pkg_version": "4.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "perl-tk-804.033-1-x86_64.pkg.tar.xz", 
+    "pkg": "perl-tk-80", 
+    "pkg_version": "4.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "perl-tk_804.030-1_i386.deb", 
+    "pkg": "perl-tk_80", 
+    "pkg_version": "4.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "perl-tk-804.033-1-x86_64.pkg.tar.xz", 
+    "pkg": "perl-tk-80", 
+    "pkg_version": "4.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "perl-tk_804.030-1_i386.deb", 
+    "pkg": "perl-tk_80", 
+    "pkg_version": "4.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackel", 
+    "pkg_full_name": "perl-tk-804.031-x86_64-1dj.txz", 
+    "pkg": "perl-tk-80", 
+    "pkg_version": "4.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "perl-tk_804.030-1_i386.deb", 
+    "pkg": "perl-tk_80", 
+    "pkg_version": "4.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "perl-tk-804.030-x86_64-1fg.txz", 
+    "pkg": "perl-tk-80", 
+    "pkg_version": "4.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "perl-tk_804.030-1_i386.deb", 
+    "pkg": "perl-tk_80", 
+    "pkg_version": "4.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "perl-tk-804.029-x86_64-1sl.txz", 
+    "pkg": "perl-tk-80", 
+    "pkg_version": "4.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "perl-tk_804.032-3build1_i386.deb", 
+    "pkg": "perl-tk_80", 
+    "pkg_version": "4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "perl-tk-804.029-x86_64-1sl.txz", 
+    "pkg": "perl-tk-80", 
+    "pkg_version": "4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "perl-tk_804.031-1build1_i386.deb", 
+    "pkg": "perl-tk_80", 
+    "pkg_version": "4.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "perl-tk-804.029-x86_64-1sl.txz", 
+    "pkg": "perl-tk-80", 
+    "pkg_version": "4.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwine-gecko-dbg-2.24_2.24+dfsg-1_all.deb", 
+    "pkg": "libwine-gecko-dbg", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

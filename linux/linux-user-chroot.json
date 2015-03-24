@@ -1,0 +1,145 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "linux-user-chroot-2013.1-alt1_4.x86_64.rpm", 
+    "pkg": "linux-user-chroot-201", 
+    "pkg_version": "3.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "linux-user-chroot-2013.1-1.el6.x86_64.rpm", 
+    "pkg": "linux-user-chroot-201", 
+    "pkg_version": "3.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "linux-user-chroot_2013.1-2_i386.deb", 
+    "pkg": "linux-user-chroot_201", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "linux-user-chroot-2013.1-1.el6.x86_64.rpm", 
+    "pkg": "linux-user-chroot-201", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "linux-user-chroot_2013.1-2_i386.deb", 
+    "pkg": "linux-user-chroot_201", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "linux-user-chroot-2013.1-1.el6.x86_64.rpm", 
+    "pkg": "linux-user-chroot-201", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "linux-user-chroot_2013.1-2_i386.deb", 
+    "pkg": "linux-user-chroot_201", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "linux-user-chroot-2013.1-4.fc22.x86_64.rpm", 
+    "pkg": "linux-user-chroot-201", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "linux-user-chroot_2013.1-2_i386.deb", 
+    "pkg": "linux-user-chroot_201", 
+    "pkg_version": "3.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "linux-user-chroot-2013.1-4.fc22.x86_64.rpm", 
+    "pkg": "linux-user-chroot-201", 
+    "pkg_version": "3.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "linux-user-chroot_2013.1-2_i386.deb", 
+    "pkg": "linux-user-chroot_201", 
+    "pkg_version": "3.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "linux-user-chroot-2013.1-4.fc21.x86_64.rpm", 
+    "pkg": "linux-user-chroot-201", 
+    "pkg_version": "3.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "linux-user-chroot_2013.1-2_i386.deb", 
+    "pkg": "linux-user-chroot_201", 
+    "pkg_version": "3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "linux-user-chroot-2013.1-2.fc20.x86_64.rpm", 
+    "pkg": "linux-user-chroot-201", 
+    "pkg_version": "3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "linux-user-chroot_2013.1-2_i386.deb", 
+    "pkg": "linux-user-chroot_201", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "linux-user-chroot-2013.1-2.fc20.x86_64.rpm", 
+    "pkg": "linux-user-chroot-201", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

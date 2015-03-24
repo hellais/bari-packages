@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "node-htmlparser2_3.7.3-1_all.deb", 
+    "pkg": "node-htmlparser2", 
+    "pkg_version": "3.7.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

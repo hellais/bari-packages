@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-keystonemiddleware-doc_1.0.0-3_all.deb", 
+    "pkg": "python-keystonemiddleware-doc", 
+    "pkg_version": "1.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-keystonemiddleware-doc_1.0.0-3_all.deb", 
+    "pkg": "python-keystonemiddleware-doc", 
+    "pkg_version": "1.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-keystonemiddleware-doc-1.2.0-1.fc22.noarch.rpm", 
+    "pkg": "python-keystonemiddleware-doc", 
+    "pkg_version": "1.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-keystonemiddleware-doc-1.2.0-1.fc22.noarch.rpm", 
+    "pkg": "python-keystonemiddleware-doc", 
+    "pkg_version": "1.2.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

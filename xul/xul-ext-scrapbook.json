@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xul-ext-scrapbook_1.5.11-1_all.deb", 
+    "pkg": "xul-ext-scrapbook", 
+    "pkg_version": "1.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xul-ext-scrapbook_1.5.11-1_all.deb", 
+    "pkg": "xul-ext-scrapbook", 
+    "pkg_version": "1.5.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

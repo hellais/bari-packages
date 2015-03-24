@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libkpeople3_0.2.2-2_i386.deb", 
+    "pkg": "libkpeople3", 
+    "pkg_version": "0.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libkpeople3_0.2.2-2_i386.deb", 
+    "pkg": "libkpeople3", 
+    "pkg_version": "0.2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libkpeople3-0.2.2-2-omv2015.0.i586.rpm", 
+    "pkg": "libkpeople3", 
+    "pkg_version": "0.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libkpeople3-0.2.2-1-rosa2014.1.i586.rpm", 
+    "pkg": "libkpeople3", 
+    "pkg_version": "0.2.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "libkpeople3-0.2.2-1-rosa2012.1.i586.rpm", 
+    "pkg": "libkpeople3", 
+    "pkg_version": "0.2.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libkpeople3_0.2.2-0ubuntu1_i386.deb", 
+    "pkg": "libkpeople3", 
+    "pkg_version": "0.2.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

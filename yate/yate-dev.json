@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "yate-dev_5.4.0-1-1_i386.deb", 
+    "pkg": "yate-dev", 
+    "pkg_version": "5.4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "yate-dev_4.1.0-1~dfsg-3_i386.deb", 
+    "pkg": "yate-dev", 
+    "pkg_version": "4.1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "yate-dev_5.0.0-1-1_i386.deb", 
+    "pkg": "yate-dev", 
+    "pkg_version": "5.0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "yate-dev_5.0.0-1-1_i386.deb", 
+    "pkg": "yate-dev", 
+    "pkg_version": "5.0.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

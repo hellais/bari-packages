@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-oslo.vmware-doc_0.4.0-1_all.deb", 
+    "pkg": "python-oslo.vmware-doc", 
+    "pkg_version": "0.4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-oslo.vmware-doc_0.4.0-1_all.deb", 
+    "pkg": "python-oslo.vmware-doc", 
+    "pkg_version": "0.4.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-oslo.vmware-doc-0.5.0-1.2.noarch.rpm", 
+    "pkg": "python-oslo.vmware-doc", 
+    "pkg_version": "0.5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-oslo.vmware-doc-0.5.0-1.2.noarch.rpm", 
+    "pkg": "python-oslo.vmware-doc", 
+    "pkg_version": "0.5.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }
+]

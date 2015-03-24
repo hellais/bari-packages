@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "snap-1.11.3-1.puias6.x86_64.rpm", 
+    "pkg": "snap", 
+    "pkg_version": "1.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "snap-1.11.3-1.puias6.x86_64.rpm", 
+    "pkg": "snap", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "snap-1.11.3-1.puias6.x86_64.rpm", 
+    "pkg": "snap", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "snap-0.6-6.fc21.noarch.rpm", 
+    "pkg": "snap", 
+    "pkg_version": "0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "snap-0.6-6.fc21.noarch.rpm", 
+    "pkg": "snap", 
+    "pkg_version": "0.6", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "snap-0.6-6.fc21.noarch.rpm", 
+    "pkg": "snap", 
+    "pkg_version": "0.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "snap-0.6-5.fc20.noarch.rpm", 
+    "pkg": "snap", 
+    "pkg_version": "0.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "snap-0.6-5.fc20.noarch.rpm", 
+    "pkg": "snap", 
+    "pkg_version": "0.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

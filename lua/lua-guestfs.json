@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "lua-guestfs-1.22.6-22.el7.centos.0.1.x86_64.rpm", 
+    "pkg": "lua-guestfs", 
+    "pkg_version": "1.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lua-guestfs_1.28.6-1_i386.deb", 
+    "pkg": "lua-guestfs", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lua-guestfs_1.28.1-1_i386.deb", 
+    "pkg": "lua-guestfs", 
+    "pkg_version": "1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lua-guestfs-1.29.30-5.fc23.x86_64.rpm", 
+    "pkg": "lua-guestfs", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lua-guestfs-1.29.26-1.fc22.x86_64.rpm", 
+    "pkg": "lua-guestfs", 
+    "pkg_version": "1.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "lua-guestfs-1.28.6-2.fc21.x86_64.rpm", 
+    "pkg": "lua-guestfs", 
+    "pkg_version": "1.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "lua-guestfs-1.26.10-1.fc20.x86_64.rpm", 
+    "pkg": "lua-guestfs", 
+    "pkg_version": "1.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "lua-guestfs_1.26.7-1ubuntu2_i386.deb", 
+    "pkg": "lua-guestfs", 
+    "pkg_version": "1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

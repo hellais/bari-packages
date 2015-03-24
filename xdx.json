@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "xdx-2.4.2-1.el6.rf.x86_64.rpm", 
+    "pkg": "xdx", 
+    "pkg_version": "2.4.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "xdx-2.2-2.el5.rf.x86_64.rpm", 
+    "pkg": "xdx", 
+    "pkg_version": "2.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xdx_2.4.3-1_i386.deb", 
+    "pkg": "xdx", 
+    "pkg_version": "2.4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xdx_2.4.3-1_i386.deb", 
+    "pkg": "xdx", 
+    "pkg_version": "2.4.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xdx_2.4.3-1_i386.deb", 
+    "pkg": "xdx", 
+    "pkg_version": "2.4.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

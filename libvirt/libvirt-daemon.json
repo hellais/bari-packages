@@ -1,0 +1,100 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libvirt-daemon-1.2.13-alt1.x86_64.rpm", 
+    "pkg": "libvirt-daemon", 
+    "pkg_version": "1.2.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "libvirt-daemon-1.1.1-29.el7_0.7.x86_64.rpm", 
+    "pkg": "libvirt-daemon", 
+    "pkg_version": "1.1.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libvirt-daemon_1.2.9-9_i386.deb", 
+    "pkg": "libvirt-daemon", 
+    "pkg_version": "1.2.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libvirt-daemon_1.2.9-9_i386.deb", 
+    "pkg": "libvirt-daemon", 
+    "pkg_version": "1.2.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "libvirt-daemon_1.2.9-9~bpo70+1_i386.deb", 
+    "pkg": "libvirt-daemon", 
+    "pkg_version": "1.2.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "libvirt-daemon-1.2.13-2.fc23.x86_64.rpm", 
+    "pkg": "libvirt-daemon", 
+    "pkg_version": "1.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "libvirt-daemon-1.2.12-2.fc22.x86_64.rpm", 
+    "pkg": "libvirt-daemon", 
+    "pkg_version": "1.2.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "libvirt-daemon-1.2.9.2-1.fc21.x86_64.rpm", 
+    "pkg": "libvirt-daemon", 
+    "pkg_version": "1.2.9.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "libvirt-daemon-1.1.3.9-1.fc20.x86_64.rpm", 
+    "pkg": "libvirt-daemon", 
+    "pkg_version": "1.1.3.9", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libvirt-daemon-1.2.13-3.1.x86_64.rpm", 
+    "pkg": "libvirt-daemon", 
+    "pkg_version": "1.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "libvirt-daemon-1.2.9-8.1.x86_64.rpm", 
+    "pkg": "libvirt-daemon", 
+    "pkg_version": "1.2.9", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }
+]

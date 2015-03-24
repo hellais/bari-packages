@@ -1,0 +1,146 @@
+[
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "kdesdk-scripts-4.10.5-5.el7.noarch.rpm", 
+    "pkg": "kdesdk-scripts", 
+    "pkg_version": "4.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kdesdk-scripts_4.14.1-1_all.deb", 
+    "pkg": "kdesdk-scripts", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kdesdk-scripts_4.14.1-1_all.deb", 
+    "pkg": "kdesdk-scripts", 
+    "pkg_version": "4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kdesdk-scripts_4.8.4+dfsg-1_all.deb", 
+    "pkg": "kdesdk-scripts", 
+    "pkg_version": "4.8.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kdesdk-scripts_4.8.4+dfsg-1_all.deb", 
+    "pkg": "kdesdk-scripts", 
+    "pkg_version": "4.8.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kde-dev-scripts-4.14.3-2.fc22.noarch.rpm", 
+    "pkg": "kde-dev-scripts", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kdesdk-scripts_4.8.4+dfsg-1_all.deb", 
+    "pkg": "kdesdk-scripts", 
+    "pkg_version": "4.8.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kde-dev-scripts-4.14.3-2.fc22.noarch.rpm", 
+    "pkg": "kde-dev-scripts", 
+    "pkg_version": "4.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kdesdk-scripts_4.8.4+dfsg-1_all.deb", 
+    "pkg": "kdesdk-scripts", 
+    "pkg_version": "4.8.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kde-dev-scripts-4.14.3-1.fc21.noarch.rpm", 
+    "pkg": "kde-dev-scripts", 
+    "pkg_version": "4.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kdesdk-scripts_4.8.4+dfsg-1_all.deb", 
+    "pkg": "kdesdk-scripts", 
+    "pkg_version": "4.8.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "kde-dev-scripts-4.14.3-1.fc20.noarch.rpm", 
+    "pkg": "kde-dev-scripts", 
+    "pkg_version": "4.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "kdesdk-scripts_4.14.1-0ubuntu1_all.deb", 
+    "pkg": "kdesdk-scripts", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "kde-dev-scripts-4.14.3-1.fc20.noarch.rpm", 
+    "pkg": "kde-dev-scripts", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "kdesdk-scripts_4.13.0-0ubuntu1.1_all.deb", 
+    "pkg": "kdesdk-scripts", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "kde-dev-scripts-4.14.3-1.fc20.noarch.rpm", 
+    "pkg": "kde-dev-scripts", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

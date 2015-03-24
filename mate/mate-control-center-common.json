@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mate-control-center-common_1.8.3+dfsg1-1_all.deb", 
+    "pkg": "mate-control-center-common", 
+    "pkg_version": "1.8.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mate-control-center-common_1.8.3+dfsg1-1_all.deb", 
+    "pkg": "mate-control-center-common", 
+    "pkg_version": "1.8.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "mate-control-center-common_1.8.1+dfsg1-4~bpo70+1_all.deb", 
+    "pkg": "mate-control-center-common", 
+    "pkg_version": "1.8.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

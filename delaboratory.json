@@ -1,0 +1,100 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "delaboratory-0.8-alt1.x86_64.rpm", 
+    "pkg": "delaboratory", 
+    "pkg_version": "0.8", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "delaboratory_0.8-2_i386.deb", 
+    "pkg": "delaboratory", 
+    "pkg_version": "0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "delaboratory_0.8-2_i386.deb", 
+    "pkg": "delaboratory", 
+    "pkg_version": "0.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "delaboratory-0.4-6.1.x86_64.rpm", 
+    "pkg": "delaboratory", 
+    "pkg_version": "0.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "delaboratory-0.4-6.1.x86_64.rpm", 
+    "pkg": "delaboratory", 
+    "pkg_version": "0.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "delaboratory-0.8-2-omv2013.0.x86_64.rpm", 
+    "pkg": "delaboratory", 
+    "pkg_version": "0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "delaboratory-0.8-2-omv2013.0.x86_64.rpm", 
+    "pkg": "delaboratory", 
+    "pkg_version": "0.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "delaboratory-0.8-2-omv2013.0.x86_64.rpm", 
+    "pkg": "delaboratory", 
+    "pkg_version": "0.8", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "delaboratory-0.8-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "delaboratory", 
+    "pkg_version": "0.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "delaboratory-0.8-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "delaboratory", 
+    "pkg_version": "0.8", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "delaboratory_0.8-2_i386.deb", 
+    "pkg": "delaboratory", 
+    "pkg_version": "0.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

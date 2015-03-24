@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nut-ipmi_2.7.2-4_i386.deb", 
+    "pkg": "nut-ipmi", 
+    "pkg_version": "2.7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nut-ipmi_2.7.2-3_i386.deb", 
+    "pkg": "nut-ipmi", 
+    "pkg_version": "2.7.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "nut-ipmi_2.7.1-1ubuntu3_i386.deb", 
+    "pkg": "nut-ipmi", 
+    "pkg_version": "2.7.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

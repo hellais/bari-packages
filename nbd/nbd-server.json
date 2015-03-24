@@ -1,0 +1,55 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "nbd-server-3.2-alt1.x86_64.rpm", 
+    "pkg": "nbd-server", 
+    "pkg_version": "3.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nbd-server_3.8-4_i386.deb", 
+    "pkg": "nbd-server", 
+    "pkg_version": "3.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nbd-server_3.8-4_i386.deb", 
+    "pkg": "nbd-server", 
+    "pkg_version": "3.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "nbd-server_3.2-4~deb7u4_i386.deb", 
+    "pkg": "nbd-server", 
+    "pkg_version": "3.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "nbd-server_3.8-1_i386.deb", 
+    "pkg": "nbd-server", 
+    "pkg_version": "3.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "nbd-server_3.7-1_i386.deb", 
+    "pkg": "nbd-server", 
+    "pkg_version": "3.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

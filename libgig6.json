@@ -1,0 +1,110 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgig6_3.3.0-3_i386.deb", 
+    "pkg": "libgig6", 
+    "pkg_version": "3.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgig6_3.3.0-3_i386.deb", 
+    "pkg": "libgig6", 
+    "pkg_version": "3.3.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgig6_3.3.0-2_i386.deb", 
+    "pkg": "libgig6", 
+    "pkg_version": "3.3.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "libgig6-3.3.0-3-omv2013.0.i586.rpm", 
+    "pkg": "libgig6", 
+    "pkg_version": "3.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "libgig6-3.3.0-3-omv2013.0.i586.rpm", 
+    "pkg": "libgig6", 
+    "pkg_version": "3.3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "libgig6-3.3.0-3-omv2013.0.i586.rpm", 
+    "pkg": "libgig6", 
+    "pkg_version": "3.3.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "libgig6-3.3.0+r2718-1.2.x86_64.rpm", 
+    "pkg": "libgig6", 
+    "pkg_version": "3.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "libgig6-3.3.0+r2718-1.1.x86_64.rpm", 
+    "pkg": "libgig6", 
+    "pkg_version": "3.3.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "libgig6-3.3.0-4-rosa2014.1.i586.rpm", 
+    "pkg": "libgig6", 
+    "pkg_version": "3.3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "libgig6-3.3.0-3-rosa2012.1.i586.rpm", 
+    "pkg": "libgig6", 
+    "pkg_version": "3.3.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libgig6_3.3.0-3_i386.deb", 
+    "pkg": "libgig6", 
+    "pkg_version": "3.3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libgig6_3.3.0-2_i386.deb", 
+    "pkg": "libgig6", 
+    "pkg_version": "3.3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

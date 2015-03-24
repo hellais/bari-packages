@@ -1,0 +1,325 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-tools-2.0.0-alt10.noarch.rpm", 
+    "pkg": "ruby-tools", 
+    "pkg_version": "2.0.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-tools-2.0.0-alt10.noarch.rpm", 
+    "pkg": "ruby-tools", 
+    "pkg_version": "2.0.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "rubygems-2.0.14-22.el7_0.noarch.rpm", 
+    "pkg": "rubygems", 
+    "pkg_version": "2.0.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-tools-2.0.0-alt10.noarch.rpm", 
+    "pkg": "ruby-tools", 
+    "pkg_version": "2.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "rubygems-2.0.14-22.el7_0.noarch.rpm", 
+    "pkg": "rubygems", 
+    "pkg_version": "2.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gem_0.93.3-8_i386.deb", 
+    "pkg": "gem", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-tools-2.0.0-alt10.noarch.rpm", 
+    "pkg": "ruby-tools", 
+    "pkg_version": "2.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "rubygems-2.0.14-22.el7_0.noarch.rpm", 
+    "pkg": "rubygems", 
+    "pkg_version": "2.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gem_0.93.3-7+b1_i386.deb", 
+    "pkg": "gem", 
+    "pkg_version": "0.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-tools-2.0.0-alt10.noarch.rpm", 
+    "pkg": "ruby-tools", 
+    "pkg_version": "2.0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "rubygems-2.0.14-22.el7_0.noarch.rpm", 
+    "pkg": "rubygems", 
+    "pkg_version": "2.0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gem_0.93.3-5_i386.deb", 
+    "pkg": "gem", 
+    "pkg_version": "0.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-tools-2.0.0-alt10.noarch.rpm", 
+    "pkg": "ruby-tools", 
+    "pkg_version": "2.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rubygems-2.4.5-9.fc23.noarch.rpm", 
+    "pkg": "rubygems", 
+    "pkg_version": "2.4.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gem_0.93.3-5_i386.deb", 
+    "pkg": "gem", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-tools-2.0.0-alt10.noarch.rpm", 
+    "pkg": "ruby-tools", 
+    "pkg_version": "2.0.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rubygems-2.4.5-7.fc22.noarch.rpm", 
+    "pkg": "rubygems", 
+    "pkg_version": "2.4.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gem_0.93.3-5_i386.deb", 
+    "pkg": "gem", 
+    "pkg_version": "0.9", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-tools-2.0.0-alt10.noarch.rpm", 
+    "pkg": "ruby-tools", 
+    "pkg_version": "2.0.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "rubygems-2.2.2-26.fc21.noarch.rpm", 
+    "pkg": "rubygems", 
+    "pkg_version": "2.2.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gem_0.93.3-5_i386.deb", 
+    "pkg": "gem", 
+    "pkg_version": "0.9", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-tools-2.0.0-alt10.noarch.rpm", 
+    "pkg": "ruby-tools", 
+    "pkg_version": "2.0.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "rubygems-2.1.11-115.fc20.noarch.rpm", 
+    "pkg": "rubygems", 
+    "pkg_version": "2.1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gem_0.93.3-5_i386.deb", 
+    "pkg": "gem", 
+    "pkg_version": "0.9", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-tools-2.0.0-alt10.noarch.rpm", 
+    "pkg": "ruby-tools", 
+    "pkg_version": "2.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "ruby-RubyGems-2.4.5-8-omv2015.0.noarch.rpm", 
+    "pkg": "ruby-RubyGems", 
+    "pkg_version": "2.4.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "rubygems-2.1.11-115.fc20.noarch.rpm", 
+    "pkg": "rubygems", 
+    "pkg_version": "2.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gem_0.93.3-5_i386.deb", 
+    "pkg": "gem", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-tools-2.0.0-alt10.noarch.rpm", 
+    "pkg": "ruby-tools", 
+    "pkg_version": "2.0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "ruby-RubyGems-2.4.5-8-omv2015.0.noarch.rpm", 
+    "pkg": "ruby-RubyGems", 
+    "pkg_version": "2.4.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "rubygems-2.1.11-115.fc20.noarch.rpm", 
+    "pkg": "rubygems", 
+    "pkg_version": "2.1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gem_0.93.3-6ubuntu1_i386.deb", 
+    "pkg": "gem", 
+    "pkg_version": "0.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-tools-2.0.0-alt10.noarch.rpm", 
+    "pkg": "ruby-tools", 
+    "pkg_version": "2.0.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "ruby-RubyGems-2.4.5-8-omv2015.0.noarch.rpm", 
+    "pkg": "ruby-RubyGems", 
+    "pkg_version": "2.4.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "rubygems-2.1.11-115.fc20.noarch.rpm", 
+    "pkg": "rubygems", 
+    "pkg_version": "2.1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gem_0.93.3-5ubuntu4_i386.deb", 
+    "pkg": "gem", 
+    "pkg_version": "0.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

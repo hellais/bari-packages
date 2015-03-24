@@ -1,0 +1,109 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "fwsnort-1.6.5-alt1_1.noarch.rpm", 
+    "pkg": "fwsnort", 
+    "pkg_version": "1.6.5", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "fwsnort-1.6.4-1.el6.noarch.rpm", 
+    "pkg": "fwsnort", 
+    "pkg_version": "1.6.4", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "fwsnort-1.6.3-1.el5.noarch.rpm", 
+    "pkg": "fwsnort", 
+    "pkg_version": "1.6.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fwsnort_1.6.5-1_all.deb", 
+    "pkg": "fwsnort", 
+    "pkg_version": "1.6.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fwsnort_1.6.5-1_all.deb", 
+    "pkg": "fwsnort", 
+    "pkg_version": "1.6.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fwsnort_1.6.2-1_all.deb", 
+    "pkg": "fwsnort", 
+    "pkg_version": "1.6.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "fwsnort-1.6.5-1.fc22.noarch.rpm", 
+    "pkg": "fwsnort", 
+    "pkg_version": "1.6.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "fwsnort-1.6.5-1.fc22.noarch.rpm", 
+    "pkg": "fwsnort", 
+    "pkg_version": "1.6.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "fwsnort-1.6.5-1.fc21.noarch.rpm", 
+    "pkg": "fwsnort", 
+    "pkg_version": "1.6.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "fwsnort-1.6.5-1.fc20.noarch.rpm", 
+    "pkg": "fwsnort", 
+    "pkg_version": "1.6.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "fwsnort_1.6.3-1_all.deb", 
+    "pkg": "fwsnort", 
+    "pkg_version": "1.6.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "fwsnort_1.6.3-1_all.deb", 
+    "pkg": "fwsnort", 
+    "pkg_version": "1.6.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

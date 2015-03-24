@@ -1,0 +1,110 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-swiftclient_2.3.1-1_all.deb", 
+    "pkg": "python-swiftclient", 
+    "pkg_version": "2.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-swiftclient_2.3.1-1_all.deb", 
+    "pkg": "python-swiftclient", 
+    "pkg_version": "2.3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-swiftclient-2.3.1-2.fc22.noarch.rpm", 
+    "pkg": "python-swiftclient", 
+    "pkg_version": "2.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-swiftclient-2.3.1-2.fc22.noarch.rpm", 
+    "pkg": "python-swiftclient", 
+    "pkg_version": "2.3.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-swiftclient-2.1.0-3.fc21.noarch.rpm", 
+    "pkg": "python-swiftclient", 
+    "pkg_version": "2.1.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python-swiftclient-2.0.2-1.fc20.noarch.rpm", 
+    "pkg": "python-swiftclient", 
+    "pkg_version": "2.0.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-swiftclient-2.0.3-3.2.noarch.rpm", 
+    "pkg": "python-swiftclient", 
+    "pkg_version": "2.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-swiftclient-2.0.3-2.1.6.noarch.rpm", 
+    "pkg": "python-swiftclient", 
+    "pkg_version": "2.0.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-swiftclient-1.7.0-1.1.noarch.rpm", 
+    "pkg": "python-swiftclient", 
+    "pkg_version": "1.7.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "python-swiftclient-2.0.2-2-rosa2014.1.noarch.rpm", 
+    "pkg": "python-swiftclient", 
+    "pkg_version": "2.0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "python-swiftclient-2.0.2-1-rosa2012.1.noarch.rpm", 
+    "pkg": "python-swiftclient", 
+    "pkg_version": "2.0.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python-swiftclient_2.3.0-0ubuntu1_all.deb", 
+    "pkg": "python-swiftclient", 
+    "pkg_version": "2.3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

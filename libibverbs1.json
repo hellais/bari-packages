@@ -1,0 +1,110 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libibverbs1_1.1.8-1_i386.deb", 
+    "pkg": "libibverbs1", 
+    "pkg_version": "1.1.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libibverbs1_1.1.8-1_i386.deb", 
+    "pkg": "libibverbs1", 
+    "pkg_version": "1.1.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libibverbs1_1.1.6-1_i386.deb", 
+    "pkg": "libibverbs1", 
+    "pkg_version": "1.1.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libibverbs1-1.1.8-2-omv2015.0.i586.rpm", 
+    "pkg": "libibverbs1", 
+    "pkg_version": "1.1.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libibverbs1-1.1.7-2-omv2014.0.i586.rpm", 
+    "pkg": "libibverbs1", 
+    "pkg_version": "1.1.7", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libibverbs1-1.1.7-1-omv2013.0.i586.rpm", 
+    "pkg": "libibverbs1", 
+    "pkg_version": "1.1.7", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libibverbs1-1.1.7-3.2.x86_64.rpm", 
+    "pkg": "libibverbs1", 
+    "pkg_version": "1.1.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libibverbs1-1.1.7-2.1.2.x86_64.rpm", 
+    "pkg": "libibverbs1", 
+    "pkg_version": "1.1.7", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "libibverbs1-1.1.6-2-rosa2014.1.i586.rpm", 
+    "pkg": "libibverbs1", 
+    "pkg_version": "1.1.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "libibverbs1-1.1.6-1-rosa2012.1.i586.rpm", 
+    "pkg": "libibverbs1", 
+    "pkg_version": "1.1.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libibverbs1_1.1.8-1ubuntu1_i386.deb", 
+    "pkg": "libibverbs1", 
+    "pkg_version": "1.1.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libibverbs1_1.1.7-1ubuntu1_i386.deb", 
+    "pkg": "libibverbs1", 
+    "pkg_version": "1.1.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

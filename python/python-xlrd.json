@@ -1,0 +1,332 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-xlrd-0.9.2-alt2.noarch.rpm", 
+    "pkg": "python-module-xlrd", 
+    "pkg_version": "0.9.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-xlrd-0.9.2-alt2.noarch.rpm", 
+    "pkg": "python-module-xlrd", 
+    "pkg_version": "0.9.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "python-xlrd-0.9.3-1-any.pkg.tar.xz", 
+    "pkg": "python-xlrd", 
+    "pkg_version": "0.9.3", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-xlrd-0.9.2-alt2.noarch.rpm", 
+    "pkg": "python-module-xlrd", 
+    "pkg_version": "0.9.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "python-xlrd-0.9.2-1.el6.noarch.rpm", 
+    "pkg": "python-xlrd", 
+    "pkg_version": "0.9.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-xlrd-0.9.2-alt2.noarch.rpm", 
+    "pkg": "python-module-xlrd", 
+    "pkg_version": "0.9.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-xlrd-0.6.1-5.el5.noarch.rpm", 
+    "pkg": "python-xlrd", 
+    "pkg_version": "0.6.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-xlrd-0.9.2-alt2.noarch.rpm", 
+    "pkg": "python-module-xlrd", 
+    "pkg_version": "0.9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-xlrd_0.9.2-1_all.deb", 
+    "pkg": "python-xlrd", 
+    "pkg_version": "0.9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-xlrd-0.9.2-alt2.noarch.rpm", 
+    "pkg": "python-module-xlrd", 
+    "pkg_version": "0.9.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-xlrd_0.9.2-1_all.deb", 
+    "pkg": "python-xlrd", 
+    "pkg_version": "0.9.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-xlrd-0.9.2-alt2.noarch.rpm", 
+    "pkg": "python-module-xlrd", 
+    "pkg_version": "0.9.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-xlrd_0.6.1-2_all.deb", 
+    "pkg": "python-xlrd", 
+    "pkg_version": "0.6.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-xlrd-0.9.2-alt2.noarch.rpm", 
+    "pkg": "python-module-xlrd", 
+    "pkg_version": "0.9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-xlrd-0.9.2-5.fc21.noarch.rpm", 
+    "pkg": "python-xlrd", 
+    "pkg_version": "0.9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-xlrd-0.9.2-alt2.noarch.rpm", 
+    "pkg": "python-module-xlrd", 
+    "pkg_version": "0.9.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-xlrd-0.9.2-5.fc21.noarch.rpm", 
+    "pkg": "python-xlrd", 
+    "pkg_version": "0.9.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-xlrd-0.9.2-alt2.noarch.rpm", 
+    "pkg": "python-module-xlrd", 
+    "pkg_version": "0.9.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-xlrd-0.9.2-5.fc21.noarch.rpm", 
+    "pkg": "python-xlrd", 
+    "pkg_version": "0.9.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-xlrd-0.9.2-alt2.noarch.rpm", 
+    "pkg": "python-module-xlrd", 
+    "pkg_version": "0.9.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-xlrd-0.9.2-3.fc20.noarch.rpm", 
+    "pkg": "python-xlrd", 
+    "pkg_version": "0.9.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-xlrd-0.9.2-alt2.noarch.rpm", 
+    "pkg": "python-module-xlrd", 
+    "pkg_version": "0.9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-xlrd-0.9.2-6.2.noarch.rpm", 
+    "pkg": "python-xlrd", 
+    "pkg_version": "0.9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-xlrd-0.9.2-alt2.noarch.rpm", 
+    "pkg": "python-module-xlrd", 
+    "pkg_version": "0.9.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-xlrd-0.9.2-5.1.4.noarch.rpm", 
+    "pkg": "python-xlrd", 
+    "pkg_version": "0.9.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-xlrd-0.9.2-alt2.noarch.rpm", 
+    "pkg": "python-module-xlrd", 
+    "pkg_version": "0.9.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-xlrd-0.9.2-3.1.2.noarch.rpm", 
+    "pkg": "python-xlrd", 
+    "pkg_version": "0.9.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-xlrd-0.9.2-alt2.noarch.rpm", 
+    "pkg": "python-module-xlrd", 
+    "pkg_version": "0.9.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "python-xlrd-0.9.3-2-rosa2014.1.noarch.rpm", 
+    "pkg": "python-xlrd", 
+    "pkg_version": "0.9.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-xlrd-0.9.2-alt2.noarch.rpm", 
+    "pkg": "python-module-xlrd", 
+    "pkg_version": "0.9.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "python-xlrd-0.9.2-1-rosa2012.1.noarch.rpm", 
+    "pkg": "python-xlrd", 
+    "pkg_version": "0.9.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-xlrd-0.9.2-alt2.noarch.rpm", 
+    "pkg": "python-module-xlrd", 
+    "pkg_version": "0.9.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Freestylers", 
+    "pkg_full_name": "python-xlrd-0.9.3-x86_64-1_fs.tgz", 
+    "pkg": "python-xlrd", 
+    "pkg_version": "0.9.3", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-xlrd-0.9.2-alt2.noarch.rpm", 
+    "pkg": "python-module-xlrd", 
+    "pkg_version": "0.9.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-xlrd_0.9.2-1_all.deb", 
+    "pkg": "python-xlrd", 
+    "pkg_version": "0.9.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-xlrd-0.9.2-alt2.noarch.rpm", 
+    "pkg": "python-module-xlrd", 
+    "pkg_version": "0.9.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-xlrd_0.9.2-1_all.deb", 
+    "pkg": "python-xlrd", 
+    "pkg_version": "0.9.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

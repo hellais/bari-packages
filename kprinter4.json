@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "kprinter4-10-1-omv2014.1.x86_64.rpm", 
+    "pkg": "kprinter4-10-1-omv201", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "kprinter4-10-1-omv2014.1.x86_64.rpm", 
+    "pkg": "kprinter4-10-1-omv201", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "kprinter4-10-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "kprinter4-10-2-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "kprinter4-10-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "kprinter4-10-1-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "kprinter4-10-1-omv2014.1.x86_64.rpm", 
+    "pkg": "kprinter4-10-1-omv201", 
+    "pkg_version": "4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "kprinter4-10-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "kprinter4-10-2-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "kprinter4-10-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "kprinter4-10-1-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "kprinter4-10-1-omv2014.1.x86_64.rpm", 
+    "pkg": "kprinter4-10-1-omv201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "kprinter4-10-1-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "kprinter4-10-1-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "kprinter4-10-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "kprinter4-10-2-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }
+]

@@ -1,0 +1,208 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "octave-control-2.6.5-alt1.x86_64.rpm", 
+    "pkg": "octave-control", 
+    "pkg_version": "2.6.5", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "octave-control-2.6.6-1.el7.x86_64.rpm", 
+    "pkg": "octave-control", 
+    "pkg_version": "2.6.6", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "octave-control-2.6.6-1.el7.x86_64.rpm", 
+    "pkg": "octave-control", 
+    "pkg_version": "2.6.6", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "octave-control-2.6.6-1.el7.x86_64.rpm", 
+    "pkg": "octave-control", 
+    "pkg_version": "2.6.6", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS Server", 
+    "pkg_full_name": "octave-forge-20071212-6.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "octave-forge-20071212", 
+    "pkg_version": "6.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "octave-control_2.6.6-1_i386.deb", 
+    "pkg": "octave-control", 
+    "pkg_version": "2.6.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "PUIAS Server", 
+    "pkg_full_name": "octave-forge-20071212-6.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "octave-forge-20071212", 
+    "pkg_version": "6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "octave-control_2.6.6-1_i386.deb", 
+    "pkg": "octave-control", 
+    "pkg_version": "2.6.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "PUIAS Server", 
+    "pkg_full_name": "octave-forge-20071212-6.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "octave-forge-20071212", 
+    "pkg_version": "6.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "octave-control_2.3.52-1_i386.deb", 
+    "pkg": "octave-control", 
+    "pkg_version": "2.3.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "PUIAS Server", 
+    "pkg_full_name": "octave-forge-20071212-6.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "octave-forge-20071212", 
+    "pkg_version": "6.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "octave-control-2.6.6-1.fc22.x86_64.rpm", 
+    "pkg": "octave-control", 
+    "pkg_version": "2.6.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "PUIAS Server", 
+    "pkg_full_name": "octave-forge-20071212-6.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "octave-forge-20071212", 
+    "pkg_version": "6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "octave-control-2.6.6-1.fc22.x86_64.rpm", 
+    "pkg": "octave-control", 
+    "pkg_version": "2.6.6", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "PUIAS Server", 
+    "pkg_full_name": "octave-forge-20071212-6.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "octave-forge-20071212", 
+    "pkg_version": "6.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "octave-control-2.6.6-1.fc21.x86_64.rpm", 
+    "pkg": "octave-control", 
+    "pkg_version": "2.6.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "PUIAS Server", 
+    "pkg_full_name": "octave-forge-20071212-6.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "octave-forge-20071212", 
+    "pkg_version": "6.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "octave-control-2.4.3-2.fc20.x86_64.rpm", 
+    "pkg": "octave-control", 
+    "pkg_version": "2.4.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "PUIAS Server", 
+    "pkg_full_name": "octave-forge-20071212-6.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "octave-forge-20071212", 
+    "pkg_version": "6.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "octave-control_2.6.5-1build1_i386.deb", 
+    "pkg": "octave-control", 
+    "pkg_version": "2.6.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "PUIAS Server", 
+    "pkg_full_name": "octave-forge-20071212-6.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "octave-forge-20071212", 
+    "pkg_version": "6.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "octave-control_2.6.2-1build1_i386.deb", 
+    "pkg": "octave-control", 
+    "pkg_version": "2.6.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "PUIAS Server", 
+    "pkg_full_name": "octave-forge-20071212-6.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "octave-forge-20071212", 
+    "pkg_version": "6.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

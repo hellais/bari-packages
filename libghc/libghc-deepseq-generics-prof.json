@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-deepseq-generics-prof_0.1.1.1-1_i386.deb", 
+    "pkg": "libghc-deepseq-generics-prof", 
+    "pkg_version": "0.1.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-sfml-doc_1.5.1.is.1.3+dfsg-1_all.deb", 
+    "pkg": "python-sfml-doc", 
+    "pkg_version": "1.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-sfml-doc_1.5.1.is.1.3+dfsg-1_all.deb", 
+    "pkg": "python-sfml-doc", 
+    "pkg_version": "1.5.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-sfml-doc_1.5.1.is.1.3+dfsg-1build2_all.deb", 
+    "pkg": "python-sfml-doc", 
+    "pkg_version": "1.5.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

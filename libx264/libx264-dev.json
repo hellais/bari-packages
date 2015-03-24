@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libx264-dev_0.146.2538+git121396c-dmo1_i386.deb", 
+    "pkg": "libx264-dev", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libx264-dev_0.146.2538+git121396c-dmo1_i386.deb", 
+    "pkg": "libx264-dev", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libx264-dev_0.132.2310+git76a5c3a-dmo1_i386.deb", 
+    "pkg": "libx264-dev", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libx264-dev_0.142.2431+gita5831aa-1ubuntu1_i386.deb", 
+    "pkg": "libx264-dev", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libx264-dev_0.142.2389+git956c8d8-2_i386.deb", 
+    "pkg": "libx264-dev", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

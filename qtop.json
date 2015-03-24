@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qtop_2.2.4-1_i386.deb", 
+    "pkg": "qtop", 
+    "pkg_version": "2.2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

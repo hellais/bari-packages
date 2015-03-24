@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gtml_3.5.4-12_all.deb", 
+    "pkg": "gtml", 
+    "pkg_version": "3.5.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gtml_3.5.4-12_all.deb", 
+    "pkg": "gtml", 
+    "pkg_version": "3.5.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gtml_3.5.4-7_all.deb", 
+    "pkg": "gtml", 
+    "pkg_version": "3.5.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gtml-3.5.4-17-omv2015.0.noarch.rpm", 
+    "pkg": "gtml", 
+    "pkg_version": "3.5.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gtml-3.5.4-11-omv2014.0.noarch.rpm", 
+    "pkg": "gtml", 
+    "pkg_version": "3.5.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gtml-3.5.4-10-omv2013.0.noarch.rpm", 
+    "pkg": "gtml", 
+    "pkg_version": "3.5.4", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "gtml-3.5.4-11-rosa2014.1.noarch.rpm", 
+    "pkg": "gtml", 
+    "pkg_version": "3.5.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "gtml-3.5.4-10-rosa2012.1.noarch.rpm", 
+    "pkg": "gtml", 
+    "pkg_version": "3.5.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gtml_3.5.4-11_all.deb", 
+    "pkg": "gtml", 
+    "pkg_version": "3.5.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gtml_3.5.4-11_all.deb", 
+    "pkg": "gtml", 
+    "pkg_version": "3.5.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

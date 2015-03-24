@@ -1,0 +1,118 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "slingshot-0.8.1p-alt4_12.noarch.rpm", 
+    "pkg": "slingshot", 
+    "pkg_version": "0.8.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "slingshot_0.9-1_all.deb", 
+    "pkg": "slingshot", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "slingshot_0.9-1_all.deb", 
+    "pkg": "slingshot", 
+    "pkg_version": "0.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "slingshot_0.9-1_all.deb", 
+    "pkg": "slingshot", 
+    "pkg_version": "0.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "slingshot-0.8.1p-12.fc21.noarch.rpm", 
+    "pkg": "slingshot", 
+    "pkg_version": "0.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "slingshot-0.8.1p-12.fc21.noarch.rpm", 
+    "pkg": "slingshot", 
+    "pkg_version": "0.8.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "slingshot-0.8.1p-12.fc21.noarch.rpm", 
+    "pkg": "slingshot", 
+    "pkg_version": "0.8.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "slingshot-0.8.1p-11.fc20.noarch.rpm", 
+    "pkg": "slingshot", 
+    "pkg_version": "0.8.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "slingshot-0.8.1p-4.10.noarch.rpm", 
+    "pkg": "slingshot", 
+    "pkg_version": "0.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "slingshot-0.8.1p-4.1.noarch.rpm", 
+    "pkg": "slingshot", 
+    "pkg_version": "0.8.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "slingshot-0.8.1p-4.1.noarch.rpm", 
+    "pkg": "slingshot", 
+    "pkg_version": "0.8.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "slingshot_0.9-1_all.deb", 
+    "pkg": "slingshot", 
+    "pkg_version": "0.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "slingshot_0.9-1_all.deb", 
+    "pkg": "slingshot", 
+    "pkg_version": "0.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

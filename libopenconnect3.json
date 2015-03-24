@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libopenconnect3_6.00-1+b1_i386.deb", 
+    "pkg": "libopenconnect3", 
+    "pkg_version": "6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libopenconnect3_6.00-1+b1_i386.deb", 
+    "pkg": "libopenconnect3", 
+    "pkg_version": "6.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libopenconnect3-6.00-1-rosa2014.1.i586.rpm", 
+    "pkg": "libopenconnect3", 
+    "pkg_version": "6.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

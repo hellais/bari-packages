@@ -1,0 +1,100 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "solaar-0.9.2-alt1.noarch.rpm", 
+    "pkg": "solaar", 
+    "pkg_version": "0.9.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "solaar_0.9.2+dfsg-4_all.deb", 
+    "pkg": "solaar", 
+    "pkg_version": "0.9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "solaar_0.9.2+dfsg-4_all.deb", 
+    "pkg": "solaar", 
+    "pkg_version": "0.9.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "solaar-0.9.2-3.fc21.noarch.rpm", 
+    "pkg": "solaar", 
+    "pkg_version": "0.9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "solaar-0.9.2-3.fc21.noarch.rpm", 
+    "pkg": "solaar", 
+    "pkg_version": "0.9.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "solaar-0.9.2-3.fc21.noarch.rpm", 
+    "pkg": "solaar", 
+    "pkg_version": "0.9.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "solaar-0.9.2-1.fc20.noarch.rpm", 
+    "pkg": "solaar", 
+    "pkg_version": "0.9.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "solaar-0.9.2-1-omv2014.0.noarch.rpm", 
+    "pkg": "solaar", 
+    "pkg_version": "0.9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "solaar-0.9.2-3.2.noarch.rpm", 
+    "pkg": "solaar", 
+    "pkg_version": "0.9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "solaar-0.9.2-2.1.7.noarch.rpm", 
+    "pkg": "solaar", 
+    "pkg_version": "0.9.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "solaar-0.9.2-2-rosa2014.1.noarch.rpm", 
+    "pkg": "solaar", 
+    "pkg_version": "0.9.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

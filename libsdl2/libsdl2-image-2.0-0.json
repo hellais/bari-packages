@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsdl2-image-2.0-0_2.0.0+dfsg-3+b4_i386.deb", 
+    "pkg": "libsdl2-image", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsdl2-image-2.0-0_2.0.0+dfsg-3+b4_i386.deb", 
+    "pkg": "libsdl2-image", 
+    "pkg_version": "2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libsdl2-image-2.0-0_2.0.0+dfsg-3build2_i386.deb", 
+    "pkg": "libsdl2-image", 
+    "pkg_version": "2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

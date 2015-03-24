@@ -1,0 +1,172 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "checkstyle-5.6-alt1_7jpp7.noarch.rpm", 
+    "pkg": "checkstyle", 
+    "pkg_version": "5.6", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "checkstyle-5.7-4.sdl7.noarch.rpm", 
+    "pkg": "checkstyle", 
+    "pkg_version": "5.7", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "checkstyle-5.5-4.1.puias6.noarch.rpm", 
+    "pkg": "checkstyle", 
+    "pkg_version": "5.5", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "checkstyle-5.3-2.jpp6.noarch.rpm", 
+    "pkg": "checkstyle", 
+    "pkg_version": "5.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "checkstyle_5.9-1_all.deb", 
+    "pkg": "checkstyle", 
+    "pkg_version": "5.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "checkstyle_5.9-1_all.deb", 
+    "pkg": "checkstyle", 
+    "pkg_version": "5.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "checkstyle_5.4-2_all.deb", 
+    "pkg": "checkstyle", 
+    "pkg_version": "5.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "checkstyle-5.8-2.fc22.noarch.rpm", 
+    "pkg": "checkstyle", 
+    "pkg_version": "5.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "checkstyle-5.8-2.fc22.noarch.rpm", 
+    "pkg": "checkstyle", 
+    "pkg_version": "5.8", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "checkstyle-5.7-4.fc21.noarch.rpm", 
+    "pkg": "checkstyle", 
+    "pkg_version": "5.7", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "checkstyle-5.3-2.jpp6.noarch.rpm", 
+    "pkg": "checkstyle", 
+    "pkg_version": "5.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "checkstyle-5.8-1.1-omv2015.0.noarch.rpm", 
+    "pkg": "checkstyle", 
+    "pkg_version": "5.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "checkstyle-5.6-7.1-omv2014.0.noarch.rpm", 
+    "pkg": "checkstyle", 
+    "pkg_version": "5.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "checkstyle-5.3-2.jpp6.noarch.rpm", 
+    "pkg": "checkstyle", 
+    "pkg_version": "5.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "checkstyle-5.3-2.jpp6.noarch.rpm", 
+    "pkg": "checkstyle", 
+    "pkg_version": "5.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "checkstyle-4.4-0.0.8-rosa2014.1.noarch.rpm", 
+    "pkg": "checkstyle", 
+    "pkg_version": "4.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "checkstyle-4.4-0.0.6-rosa2012.1.x86_64.rpm", 
+    "pkg": "checkstyle", 
+    "pkg_version": "4.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "checkstyle_5.7-2_all.deb", 
+    "pkg": "checkstyle", 
+    "pkg_version": "5.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "checkstyle_5.6-2ubuntu0.1_all.deb", 
+    "pkg": "checkstyle", 
+    "pkg_version": "5.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "wmcliphist-1.0-alt1.1.x86_64.rpm", 
+    "pkg": "wmcliphist", 
+    "pkg_version": "1.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }
+]

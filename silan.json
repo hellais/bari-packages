@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "silan_0.3.2-dmo4_i386.deb", 
+    "pkg": "silan", 
+    "pkg_version": "0.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "silan_0.3.2-dmo4_i386.deb", 
+    "pkg": "silan", 
+    "pkg_version": "0.3.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "silan_0.3.2-2build2_i386.deb", 
+    "pkg": "silan", 
+    "pkg_version": "0.3.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

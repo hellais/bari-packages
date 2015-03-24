@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "h5utils-1.12.1-2.x86_64.rpm", 
+    "pkg": "h5utils", 
+    "pkg_version": "1.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "h5utils_1.12.1-2.1+b2_i386.deb", 
+    "pkg": "h5utils", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "h5utils_1.12.1-2.1+b2_i386.deb", 
+    "pkg": "h5utils", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "h5utils_1.12.1-2_i386.deb", 
+    "pkg": "h5utils", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "h5utils_1.12.1-2_i386.deb", 
+    "pkg": "h5utils", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "h5utils_1.12.1-2_i386.deb", 
+    "pkg": "h5utils", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-mox3_0.7.0-2_all.deb", 
+    "pkg": "python-mox3", 
+    "pkg_version": "0.7.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-mox3_0.7.0-2_all.deb", 
+    "pkg": "python-mox3", 
+    "pkg_version": "0.7.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-mox3-0.7.0-3.2.noarch.rpm", 
+    "pkg": "python-mox3", 
+    "pkg_version": "0.7.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-mox3-0.7.0-2.1.4.noarch.rpm", 
+    "pkg": "python-mox3", 
+    "pkg_version": "0.7.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-mox3-0.7.0-2.1.noarch.rpm", 
+    "pkg": "python-mox3", 
+    "pkg_version": "0.7.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python-mox3_0.7.0-2_all.deb", 
+    "pkg": "python-mox3", 
+    "pkg_version": "0.7.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

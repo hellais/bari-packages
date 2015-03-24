@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "uwsgi-plugin-sqlite3-2.0.9-3.el7.x86_64.rpm", 
+    "pkg": "uwsgi-plugin-sqlite3", 
+    "pkg_version": "2.0.9", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "uwsgi-plugin-sqlite3-2.0.9-3.el6.x86_64.rpm", 
+    "pkg": "uwsgi-plugin-sqlite3", 
+    "pkg_version": "2.0.9", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "uwsgi-plugin-sqlite3_2.0.7-1_i386.deb", 
+    "pkg": "uwsgi-plugin-sqlite3", 
+    "pkg_version": "2.0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "uwsgi-plugin-sqlite3_2.0.7-1_i386.deb", 
+    "pkg": "uwsgi-plugin-sqlite3", 
+    "pkg_version": "2.0.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "uwsgi-plugin-sqlite3-2.0.7-2.fc22.x86_64.rpm", 
+    "pkg": "uwsgi-plugin-sqlite3", 
+    "pkg_version": "2.0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "uwsgi-plugin-sqlite3-2.0.7-2.fc22.x86_64.rpm", 
+    "pkg": "uwsgi-plugin-sqlite3", 
+    "pkg_version": "2.0.7", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "uwsgi-plugin-sqlite3-2.0.9-3.fc21.x86_64.rpm", 
+    "pkg": "uwsgi-plugin-sqlite3", 
+    "pkg_version": "2.0.9", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "uwsgi-plugin-sqlite3_2.0.6~dfsg-8_i386.deb", 
+    "pkg": "uwsgi-plugin-sqlite3", 
+    "pkg_version": "2.0.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "mythes-de-0.20130206-2.el7.noarch.rpm", 
+    "pkg": "mythes-de", 
+    "pkg_version": "0.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "mythes-de-0.20090708-3.1.el6.noarch.rpm", 
+    "pkg": "mythes-de", 
+    "pkg_version": "0.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "mythes-de-0.20090708-3.1.el6.noarch.rpm", 
+    "pkg": "mythes-de", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "mythes-de-0.20090708-3.1.el6.noarch.rpm", 
+    "pkg": "mythes-de", 
+    "pkg_version": "0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "mythes-de-0.20090708-3.1.el6.noarch.rpm", 
+    "pkg": "mythes-de", 
+    "pkg_version": "0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mythes-de-0.20140309-2.fc21.noarch.rpm", 
+    "pkg": "mythes-de", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mythes-de-0.20140309-2.fc21.noarch.rpm", 
+    "pkg": "mythes-de", 
+    "pkg_version": "0.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mythes-de-0.20140309-2.fc21.noarch.rpm", 
+    "pkg": "mythes-de", 
+    "pkg_version": "0.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mythes-de-0.20130206-2.fc20.noarch.rpm", 
+    "pkg": "mythes-de", 
+    "pkg_version": "0.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "mythes-de-0.20090708.1-8.mga4.noarch.rpm", 
+    "pkg": "mythes-de", 
+    "pkg_version": "0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "mythes-de-0.20090708.1-8.mga4.noarch.rpm", 
+    "pkg": "mythes-de", 
+    "pkg_version": "0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

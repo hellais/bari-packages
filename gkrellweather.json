@@ -1,0 +1,100 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gkrellm-weather-2.0.6-alt1.qa1.x86_64.rpm", 
+    "pkg": "gkrellm-weather", 
+    "pkg_version": "2.0.6", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gkrellm-weather-2.0.6-alt1.qa1.x86_64.rpm", 
+    "pkg": "gkrellm-weather", 
+    "pkg_version": "2.0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gkrellweather_2.0.8-2_i386.deb", 
+    "pkg": "gkrellweather", 
+    "pkg_version": "2.0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gkrellm-weather-2.0.6-alt1.qa1.x86_64.rpm", 
+    "pkg": "gkrellm-weather", 
+    "pkg_version": "2.0.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gkrellweather_2.0.8-2_i386.deb", 
+    "pkg": "gkrellweather", 
+    "pkg_version": "2.0.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gkrellm-weather-2.0.6-alt1.qa1.x86_64.rpm", 
+    "pkg": "gkrellm-weather", 
+    "pkg_version": "2.0.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gkrellweather_2.0.8-2_i386.deb", 
+    "pkg": "gkrellweather", 
+    "pkg_version": "2.0.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gkrellm-weather-2.0.6-alt1.qa1.x86_64.rpm", 
+    "pkg": "gkrellm-weather", 
+    "pkg_version": "2.0.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gkrellweather_2.0.8-2_i386.deb", 
+    "pkg": "gkrellweather", 
+    "pkg_version": "2.0.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gkrellm-weather-2.0.6-alt1.qa1.x86_64.rpm", 
+    "pkg": "gkrellm-weather", 
+    "pkg_version": "2.0.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gkrellweather_2.0.8-2_i386.deb", 
+    "pkg": "gkrellweather", 
+    "pkg_version": "2.0.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

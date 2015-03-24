@@ -1,0 +1,145 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "python-module-django-simple-captcha-0.3.3-alt1_4.noarch.rpm", 
+    "pkg": "python-module-django-simple-captcha", 
+    "pkg_version": "0.3.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "python-module-django-simple-captcha-0.3.3-alt1_4.noarch.rpm", 
+    "pkg": "python-module-django-simple-captcha", 
+    "pkg_version": "0.3.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "django-simple-captcha-0.2.0-4.el6.noarch.rpm", 
+    "pkg": "django-simple-captcha", 
+    "pkg_version": "0.2.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "python-module-django-simple-captcha-0.3.3-alt1_4.noarch.rpm", 
+    "pkg": "python-module-django-simple-captcha", 
+    "pkg_version": "0.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "django-simple-captcha_0.4.2-8_all.deb", 
+    "pkg": "django-simple-captcha", 
+    "pkg_version": "0.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "python-module-django-simple-captcha-0.3.3-alt1_4.noarch.rpm", 
+    "pkg": "python-module-django-simple-captcha", 
+    "pkg_version": "0.3.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "django-simple-captcha_0.4.2-8_all.deb", 
+    "pkg": "django-simple-captcha", 
+    "pkg_version": "0.4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-django-simple-captcha-0.4.2-3.fc21.noarch.rpm", 
+    "pkg": "python-django-simple-captcha", 
+    "pkg_version": "0.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "python-module-django-simple-captcha-0.3.3-alt1_4.noarch.rpm", 
+    "pkg": "python-module-django-simple-captcha", 
+    "pkg_version": "0.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "django-simple-captcha_0.4.2-8_all.deb", 
+    "pkg": "django-simple-captcha", 
+    "pkg_version": "0.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-django-simple-captcha-0.4.2-3.fc21.noarch.rpm", 
+    "pkg": "python-django-simple-captcha", 
+    "pkg_version": "0.4.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "python-module-django-simple-captcha-0.3.3-alt1_4.noarch.rpm", 
+    "pkg": "python-module-django-simple-captcha", 
+    "pkg_version": "0.3.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "django-simple-captcha_0.4.2-8_all.deb", 
+    "pkg": "django-simple-captcha", 
+    "pkg_version": "0.4.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-django-simple-captcha-0.4.2-3.fc21.noarch.rpm", 
+    "pkg": "python-django-simple-captcha", 
+    "pkg_version": "0.4.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "python-module-django-simple-captcha-0.3.3-alt1_4.noarch.rpm", 
+    "pkg": "python-module-django-simple-captcha", 
+    "pkg_version": "0.3.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "django-simple-captcha_0.4.2-8_all.deb", 
+    "pkg": "django-simple-captcha", 
+    "pkg_version": "0.4.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

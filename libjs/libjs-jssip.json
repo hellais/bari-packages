@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libjs-jssip_0.4.0.20140212.1-3_all.deb", 
+    "pkg": "libjs-jssip", 
+    "pkg_version": "0.4.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libjs-jssip_0.4.0.20140212.1-3_all.deb", 
+    "pkg": "libjs-jssip", 
+    "pkg_version": "0.4.0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "libjs-jssip_0.4.0.20140212.1-1~bpo70+1_all.deb", 
+    "pkg": "libjs-jssip", 
+    "pkg_version": "0.4.0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libjs-jssip_0.4.0.20140212.1-2_all.deb", 
+    "pkg": "libjs-jssip", 
+    "pkg_version": "0.4.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

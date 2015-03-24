@@ -1,0 +1,137 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gstreamer1.0-tools_1.4.4-2_i386.deb", 
+    "pkg": "gstreamer", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gstreamer1.0-tools_1.4.4-2_i386.deb", 
+    "pkg": "gstreamer", 
+    "pkg_version": "1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "gstreamer1.0-tools_1.2.4-1~bpo70+1_i386.deb", 
+    "pkg": "gstreamer", 
+    "pkg_version": "1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "gstreamer1.0-tools-1.2.2-1.mga4.x86_64.rpm", 
+    "pkg": "gstreamer", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gstreamer-tools-1.4.4-1-omv2015.0.x86_64.rpm", 
+    "pkg": "gstreamer-tools", 
+    "pkg_version": "1.4.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "gstreamer1.0-tools-1.2.2-1.mga4.x86_64.rpm", 
+    "pkg": "gstreamer", 
+    "pkg_version": "1.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gstreamer-tools-1.2.3-1-omv2014.0.x86_64.rpm", 
+    "pkg": "gstreamer-tools", 
+    "pkg_version": "1.2.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "gstreamer1.0-tools-1.2.2-1.mga4.x86_64.rpm", 
+    "pkg": "gstreamer", 
+    "pkg_version": "1.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gstreamer-tools-1.0.8-2-omv2013.0.x86_64.rpm", 
+    "pkg": "gstreamer-tools", 
+    "pkg_version": "1.0.8", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "gstreamer1.0-tools-1.2.4-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "gstreamer", 
+    "pkg_version": "1.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gstreamer-tools-1.0.8-2-omv2013.0.x86_64.rpm", 
+    "pkg": "gstreamer-tools", 
+    "pkg_version": "1.0.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "gstreamer1.0-tools-1.0.10-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "gstreamer", 
+    "pkg_version": "1.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gstreamer-tools-1.0.8-2-omv2013.0.x86_64.rpm", 
+    "pkg": "gstreamer-tools", 
+    "pkg_version": "1.0.8", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "gstreamer1.0-tools_1.4.3-1_i386.deb", 
+    "pkg": "gstreamer", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gstreamer-tools-1.0.8-2-omv2013.0.x86_64.rpm", 
+    "pkg": "gstreamer-tools", 
+    "pkg_version": "1.0.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

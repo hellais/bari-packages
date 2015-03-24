@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libxineliboutput-sxfe_1.1.0-dmo4_i386.deb", 
+    "pkg": "libxineliboutput-sxfe", 
+    "pkg_version": "1.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libxineliboutput-sxfe_1.1.0-dmo4_i386.deb", 
+    "pkg": "libxineliboutput-sxfe", 
+    "pkg_version": "1.1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libxineliboutput-sxfe_1.0.7+cvs20120609.1902-dmo1_i386.deb", 
+    "pkg": "libxineliboutput-sxfe", 
+    "pkg_version": "1.0.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libxineliboutput-sxfe_1.1.0-1build3_i386.deb", 
+    "pkg": "libxineliboutput-sxfe", 
+    "pkg_version": "1.1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libxineliboutput-sxfe_1.1.0-1build1_i386.deb", 
+    "pkg": "libxineliboutput-sxfe", 
+    "pkg_version": "1.1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

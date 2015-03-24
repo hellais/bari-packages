@@ -1,0 +1,244 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "nut-2.6.5-alt7.x86_64.rpm", 
+    "pkg": "nut", 
+    "pkg_version": "2.6.5", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "nut-2.7.2-3.el7.x86_64.rpm", 
+    "pkg": "nut", 
+    "pkg_version": "2.7.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "nut-2.6.5-2.el6.x86_64.rpm", 
+    "pkg": "nut", 
+    "pkg_version": "2.6.5", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "nut-2.3.0-3.PU_IAS.5.x86_64.rpm", 
+    "pkg": "nut", 
+    "pkg_version": "2.3.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nut_2.7.2-4_all.deb", 
+    "pkg": "nut", 
+    "pkg_version": "2.7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nut_2.7.2-3_all.deb", 
+    "pkg": "nut", 
+    "pkg_version": "2.7.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nut_2.6.4-2.3+deb7u1_all.deb", 
+    "pkg": "nut", 
+    "pkg_version": "2.6.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "nut-2.7.2-3.fc22.x86_64.rpm", 
+    "pkg": "nut", 
+    "pkg_version": "2.7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "nut-2.7.2-3.fc22.x86_64.rpm", 
+    "pkg": "nut", 
+    "pkg_version": "2.7.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "nut-2.7.2-3.fc21.x86_64.rpm", 
+    "pkg": "nut", 
+    "pkg_version": "2.7.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "nut-2.7.2-1.fc20.x86_64.rpm", 
+    "pkg": "nut", 
+    "pkg_version": "2.7.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "nut-2.7.2-6-omv2015.0.x86_64.rpm", 
+    "pkg": "nut", 
+    "pkg_version": "2.7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "nut-2.7.2-3-omv2014.0.x86_64.rpm", 
+    "pkg": "nut", 
+    "pkg_version": "2.7.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "nut-2.6.4-10-omv2013.0.x86_64.rpm", 
+    "pkg": "nut", 
+    "pkg_version": "2.6.4", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "nut-2.7.2-1.2.x86_64.rpm", 
+    "pkg": "nut", 
+    "pkg_version": "2.7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "nut-2.7.1-4.1.11.x86_64.rpm", 
+    "pkg": "nut", 
+    "pkg_version": "2.7.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "nut-2.6.5-6.1.5.i586.rpm", 
+    "pkg": "nut", 
+    "pkg_version": "2.6.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "nut-2.7.1-5-rosa2014.1.x86_64.rpm", 
+    "pkg": "nut", 
+    "pkg_version": "2.7.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "nut-2.7.1-6-rosa2012.1.x86_64.rpm", 
+    "pkg": "nut", 
+    "pkg_version": "2.7.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "SlackPack", 
+    "pkg_full_name": "nut-2.7.1-x86_64-1gds.txz", 
+    "pkg": "nut", 
+    "pkg_version": "2.7.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "nut-18.7-i486-1sl.txz", 
+    "pkg": "nut-1", 
+    "pkg_version": "8.7", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "SlackPack", 
+    "pkg_full_name": "nut-2.6.5-x86_64-1gds.txz", 
+    "pkg": "nut", 
+    "pkg_version": "2.6.5", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "nut-18.7-i486-1sl.txz", 
+    "pkg": "nut-1", 
+    "pkg_version": "8.7", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "nut_2.7.1-1ubuntu3_all.deb", 
+    "pkg": "nut", 
+    "pkg_version": "2.7.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "nut-18.7-i486-1sl.txz", 
+    "pkg": "nut-1", 
+    "pkg_version": "8.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "nut_2.7.1-1ubuntu1_all.deb", 
+    "pkg": "nut", 
+    "pkg_version": "2.7.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "nut-18.7-i486-1sl.txz", 
+    "pkg": "nut-1", 
+    "pkg_version": "8.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

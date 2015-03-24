@@ -1,0 +1,173 @@
+[
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "pacemaker-1.1.10-32.el7_0.x86_64.rpm", 
+    "pkg": "pacemaker", 
+    "pkg_version": "1.1.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "pacemaker-1.1.10-32.el7_0.x86_64.rpm", 
+    "pkg": "pacemaker", 
+    "pkg_version": "1.1.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "rgmanager-3.0.12.1-21.el6.x86_64.rpm", 
+    "pkg": "rgmanager", 
+    "pkg_version": "3.0.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "pacemaker-1.1.10-32.el7_0.x86_64.rpm", 
+    "pkg": "pacemaker", 
+    "pkg_version": "1.1.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "rgmanager-2.0.52-54.el5.centos.x86_64.rpm", 
+    "pkg": "rgmanager", 
+    "pkg_version": "2.0.5", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "pacemaker-1.1.10-32.el7_0.x86_64.rpm", 
+    "pkg": "pacemaker", 
+    "pkg_version": "1.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rgmanager_3.1.8-1.2+b1_i386.deb", 
+    "pkg": "rgmanager", 
+    "pkg_version": "3.1.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "pacemaker-1.1.10-32.el7_0.x86_64.rpm", 
+    "pkg": "pacemaker", 
+    "pkg_version": "1.1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rgmanager_3.1.8-1.2+b1_i386.deb", 
+    "pkg": "rgmanager", 
+    "pkg_version": "3.1.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "pacemaker-1.1.10-32.el7_0.x86_64.rpm", 
+    "pkg": "pacemaker", 
+    "pkg_version": "1.1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rgmanager_3.0.12-3.2+deb7u2_i386.deb", 
+    "pkg": "rgmanager", 
+    "pkg_version": "3.0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "pacemaker-1.1.10-32.el7_0.x86_64.rpm", 
+    "pkg": "pacemaker", 
+    "pkg_version": "1.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "rgmanager-3.0.17-15-omv2015.0.x86_64.rpm", 
+    "pkg": "rgmanager", 
+    "pkg_version": "3.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "pacemaker-1.1.10-32.el7_0.x86_64.rpm", 
+    "pkg": "pacemaker", 
+    "pkg_version": "1.1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "rgmanager-3.0.17-7-omv2014.0.x86_64.rpm", 
+    "pkg": "rgmanager", 
+    "pkg_version": "3.0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "pacemaker-1.1.10-32.el7_0.x86_64.rpm", 
+    "pkg": "pacemaker", 
+    "pkg_version": "1.1.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "rgmanager-3.0.17-6-omv2013.0.x86_64.rpm", 
+    "pkg": "rgmanager", 
+    "pkg_version": "3.0.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "pacemaker-1.1.10-32.el7_0.x86_64.rpm", 
+    "pkg": "pacemaker", 
+    "pkg_version": "1.1.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "rgmanager-3.0.17-7-rosa2012.1.x86_64.rpm", 
+    "pkg": "rgmanager", 
+    "pkg_version": "3.0.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

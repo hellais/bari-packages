@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gambas3-gb-compress-zlib_3.5.4-2+b1_i386.deb", 
+    "pkg": "gambas3-gb-compress-zlib", 
+    "pkg_version": "3.5.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gambas3-gb-compress-zlib_3.5.4-2+b1_i386.deb", 
+    "pkg": "gambas3-gb-compress-zlib", 
+    "pkg_version": "3.5.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gambas3-gb-compress-zlib_3.1.1-2+b2_amd64.deb", 
+    "pkg": "gambas3-gb-compress-zlib", 
+    "pkg_version": "3.1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "gambas3-gb-compress-zlib-3.6.2-1.20.x86_64.rpm", 
+    "pkg": "gambas3-gb-compress-zlib", 
+    "pkg_version": "3.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "gambas3-gb-compress-zlib-3.6.2-1.2.x86_64.rpm", 
+    "pkg": "gambas3-gb-compress-zlib", 
+    "pkg_version": "3.6.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "gambas3-gb-compress-zlib-3.6.2-1.2.x86_64.rpm", 
+    "pkg": "gambas3-gb-compress-zlib", 
+    "pkg_version": "3.6.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gambas3-gb-compress-zlib_3.5.4-2ubuntu1_i386.deb", 
+    "pkg": "gambas3-gb-compress-zlib", 
+    "pkg_version": "3.5.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

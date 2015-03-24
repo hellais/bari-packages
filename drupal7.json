@@ -1,0 +1,110 @@
+[
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "drupal7-7.35-1.el7.noarch.rpm", 
+    "pkg": "drupal7", 
+    "pkg_version": "7.3", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "drupal7-7.35-1.el6.noarch.rpm", 
+    "pkg": "drupal7", 
+    "pkg_version": "7.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "drupal7-7.34-1.el5.noarch.rpm", 
+    "pkg": "drupal7", 
+    "pkg_version": "7.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "drupal7_7.32-1+deb8u3_all.deb", 
+    "pkg": "drupal7", 
+    "pkg_version": "7.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "drupal7_7.32-1+deb8u3_all.deb", 
+    "pkg": "drupal7", 
+    "pkg_version": "7.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "drupal7_7.14-2+deb7u9_all.deb", 
+    "pkg": "drupal7", 
+    "pkg_version": "7.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "drupal7-7.35-1.fc23.noarch.rpm", 
+    "pkg": "drupal7", 
+    "pkg_version": "7.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "drupal7-7.34-1.fc22.noarch.rpm", 
+    "pkg": "drupal7", 
+    "pkg_version": "7.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "drupal7-7.35-1.fc21.noarch.rpm", 
+    "pkg": "drupal7", 
+    "pkg_version": "7.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "drupal7-7.35-1.fc20.noarch.rpm", 
+    "pkg": "drupal7", 
+    "pkg_version": "7.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "drupal7_7.32-1_all.deb", 
+    "pkg": "drupal7", 
+    "pkg_version": "7.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "drupal7_7.26-1ubuntu0.1_all.deb", 
+    "pkg": "drupal7", 
+    "pkg_version": "7.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

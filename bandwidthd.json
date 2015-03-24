@@ -1,0 +1,110 @@
+[
+  {
+    "pkg_repo": "Nux Misc", 
+    "pkg_full_name": "bandwidthd-2.0.1-27.el7.nux.x86_64.rpm", 
+    "pkg": "bandwidthd", 
+    "pkg_version": "2.0.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Nux Misc", 
+    "pkg_full_name": "bandwidthd-2.0.1-15.el6.nux.x86_64.rpm", 
+    "pkg": "bandwidthd", 
+    "pkg_version": "2.0.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "bandwidthd-2.0.1-9.el5.x86_64.rpm", 
+    "pkg": "bandwidthd", 
+    "pkg_version": "2.0.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bandwidthd_2.0.1+cvs20090917-7_i386.deb", 
+    "pkg": "bandwidthd", 
+    "pkg_version": "2.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bandwidthd_2.0.1+cvs20090917-7_i386.deb", 
+    "pkg": "bandwidthd", 
+    "pkg_version": "2.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bandwidthd_2.0.1+cvs20090917-5_i386.deb", 
+    "pkg": "bandwidthd", 
+    "pkg_version": "2.0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "bandwidthd-2.0.1-27.fc22.x86_64.rpm", 
+    "pkg": "bandwidthd", 
+    "pkg_version": "2.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "bandwidthd-2.0.1-27.fc22.x86_64.rpm", 
+    "pkg": "bandwidthd", 
+    "pkg_version": "2.0.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "bandwidthd-2.0.1-27.fc21.x86_64.rpm", 
+    "pkg": "bandwidthd", 
+    "pkg_version": "2.0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "bandwidthd-2.0.1-24.fc20.x86_64.rpm", 
+    "pkg": "bandwidthd", 
+    "pkg_version": "2.0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "bandwidthd_2.0.1+cvs20090917-7_i386.deb", 
+    "pkg": "bandwidthd", 
+    "pkg_version": "2.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "bandwidthd_2.0.1+cvs20090917-7_i386.deb", 
+    "pkg": "bandwidthd", 
+    "pkg_version": "2.0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

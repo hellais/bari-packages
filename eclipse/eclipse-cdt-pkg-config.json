@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "eclipse-cdt-pkg-config_1.0.0~git20130115-2_all.deb", 
+    "pkg": "eclipse-cdt-pkg-config", 
+    "pkg_version": "1.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "eclipse-cdt-pkg-config_1.0.0~git20130115-2_all.deb", 
+    "pkg": "eclipse-cdt-pkg-config", 
+    "pkg_version": "1.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "eclipse-cdt-pkg-config_0.5.4+svn212-1_all.deb", 
+    "pkg": "eclipse-cdt-pkg-config", 
+    "pkg_version": "0.5.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "eclipse-cdt-pkg-config_1.0.0~git20130115-2_all.deb", 
+    "pkg": "eclipse-cdt-pkg-config", 
+    "pkg_version": "1.0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

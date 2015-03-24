@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cyrus-admin-2.4_2.4.17+caldav~beta10-17_all.deb", 
+    "pkg": "cyrus-admin", 
+    "pkg_version": "2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cyrus-admin-2.4_2.4.17+caldav~beta10-16_all.deb", 
+    "pkg": "cyrus-admin", 
+    "pkg_version": "2.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cyrus-admin-2.4_2.4.16-4+deb7u2_all.deb", 
+    "pkg": "cyrus-admin", 
+    "pkg_version": "2.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "cyrus-admin-2.4_2.4.17+caldav~beta10-5_all.deb", 
+    "pkg": "cyrus-admin", 
+    "pkg_version": "2.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "cyrus-admin-2.4_2.4.17+caldav~beta9-3_all.deb", 
+    "pkg": "cyrus-admin", 
+    "pkg_version": "2.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

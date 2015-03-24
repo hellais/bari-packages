@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php5-oauth_1.2.3-1+b1_i386.deb", 
+    "pkg": "php5-oauth", 
+    "pkg_version": "1.2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php5-oauth_1.2.3-1+b1_i386.deb", 
+    "pkg": "php5-oauth", 
+    "pkg_version": "1.2.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "php5-oauth_1.2.3-1build1_i386.deb", 
+    "pkg": "php5-oauth", 
+    "pkg_version": "1.2.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

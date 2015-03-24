@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "jack-tools_20101210-2.1_i386.deb", 
+    "pkg": "jack-tools_20101210", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "jack-tools_20101210-2.1_i386.deb", 
+    "pkg": "jack-tools_20101210", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

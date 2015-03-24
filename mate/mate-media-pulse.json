@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mate-media-pulse_1.8.0+dfsg1-3_i386.deb", 
+    "pkg": "mate-media-pulse", 
+    "pkg_version": "1.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mate-media-pulse_1.8.0+dfsg1-3_i386.deb", 
+    "pkg": "mate-media-pulse", 
+    "pkg_version": "1.8.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "mate-media-pulse_1.8.0+dfsg1-1~bpo70+1_i386.deb", 
+    "pkg": "mate-media-pulse", 
+    "pkg_version": "1.8.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "mate-media-pulse-1.8.0-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "mate-media-pulse", 
+    "pkg_version": "1.8.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "mate-media-pulse-1.8.0-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "mate-media-pulse", 
+    "pkg_version": "1.8.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

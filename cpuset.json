@@ -1,0 +1,119 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cpuset_1.5.6-4_all.deb", 
+    "pkg": "cpuset", 
+    "pkg_version": "1.5.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cpuset_1.5.6-4_all.deb", 
+    "pkg": "cpuset", 
+    "pkg_version": "1.5.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cpuset_1.5.6-2_all.deb", 
+    "pkg": "cpuset", 
+    "pkg_version": "1.5.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "cpuset-1.5.5-10-omv2015.0.noarch.rpm", 
+    "pkg": "cpuset", 
+    "pkg_version": "1.5.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "cpuset-1.5.5-4-omv2014.0.noarch.rpm", 
+    "pkg": "cpuset", 
+    "pkg_version": "1.5.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "cpuset-1.5.5-3-omv2013.0.noarch.rpm", 
+    "pkg": "cpuset", 
+    "pkg_version": "1.5.5", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "cpuset-1.5.6-15.2.x86_64.rpm", 
+    "pkg": "cpuset", 
+    "pkg_version": "1.5.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "cpuset-1.5.6-14.1.4.x86_64.rpm", 
+    "pkg": "cpuset", 
+    "pkg_version": "1.5.6", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "cpuset-1.5.6-11.1.2.i586.rpm", 
+    "pkg": "cpuset", 
+    "pkg_version": "1.5.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "cpuset-1.5.5-4-rosa2014.1.noarch.rpm", 
+    "pkg": "cpuset", 
+    "pkg_version": "1.5.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "cpuset-1.5.5-3-rosa2012.1.noarch.rpm", 
+    "pkg": "cpuset", 
+    "pkg_version": "1.5.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "cpuset_1.5.6-4_all.deb", 
+    "pkg": "cpuset", 
+    "pkg_version": "1.5.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "cpuset_1.5.6-3_all.deb", 
+    "pkg": "cpuset", 
+    "pkg_version": "1.5.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

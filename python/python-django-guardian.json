@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-django-guardian_1.2.4+git20141127-0.2_all.deb", 
+    "pkg": "python-django-guardian", 
+    "pkg_version": "1.2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-django-guardian_1.2.4+git20141127-0.2_all.deb", 
+    "pkg": "python-django-guardian", 
+    "pkg_version": "1.2.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-django-guardian-1.1.1-3.2.noarch.rpm", 
+    "pkg": "python-django-guardian", 
+    "pkg_version": "1.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-django-guardian-1.1.1-2.1.4.noarch.rpm", 
+    "pkg": "python-django-guardian", 
+    "pkg_version": "1.1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-django-guardian-1.0.4-6.1.2.noarch.rpm", 
+    "pkg": "python-django-guardian", 
+    "pkg_version": "1.0.4", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "python-django-guardian-1.2.4-2-rosa2014.1.noarch.rpm", 
+    "pkg": "python-django-guardian", 
+    "pkg_version": "1.2.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "python-django-guardian-1.0.4-3.2-rosa2012.1.noarch.rpm", 
+    "pkg": "python-django-guardian", 
+    "pkg_version": "1.0.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-django-guardian_1.2.4-1_all.deb", 
+    "pkg": "python-django-guardian", 
+    "pkg_version": "1.2.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

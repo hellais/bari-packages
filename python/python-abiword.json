@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-abiword_0.8.0-11_i386.deb", 
+    "pkg": "python-abiword", 
+    "pkg_version": "0.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-abiword-3.0.1-2.fc22.x86_64.rpm", 
+    "pkg": "python-abiword", 
+    "pkg_version": "3.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-abiword-3.0.1-2.fc22.x86_64.rpm", 
+    "pkg": "python-abiword", 
+    "pkg_version": "3.0.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python-abiword-3.0.1-1.fc21.x86_64.rpm", 
+    "pkg": "python-abiword", 
+    "pkg_version": "3.0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python-abiword-3.0.1-1.fc20.x86_64.rpm", 
+    "pkg": "python-abiword", 
+    "pkg_version": "3.0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

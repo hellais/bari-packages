@@ -1,0 +1,225 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hplip-3.14.10-alt1.x86_64.rpm", 
+    "pkg": "hplip", 
+    "pkg_version": "3.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "hplip-3.15.2-3-x86_64.pkg.tar.xz", 
+    "pkg": "hplip", 
+    "pkg_version": "3.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "hplip-3.13.7-6.el7.x86_64.rpm", 
+    "pkg": "hplip", 
+    "pkg_version": "3.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "hplip-3.12.4-6.el6.x86_64.rpm", 
+    "pkg": "hplip", 
+    "pkg_version": "3.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge) Testing", 
+    "pkg_full_name": "hplip-3.10.6-0.1.el5.test.x86_64.rpm", 
+    "pkg": "hplip", 
+    "pkg_version": "3.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "hplip_3.14.6-1+b2_i386.deb", 
+    "pkg": "hplip", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "hplip_3.14.6-1+b2_i386.deb", 
+    "pkg": "hplip", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "hplip_3.12.6-3.1+deb7u1_i386.deb", 
+    "pkg": "hplip", 
+    "pkg_version": "3.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "hplip-3.15.2-7.fc23.x86_64.rpm", 
+    "pkg": "hplip", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "hplip-3.15.2-2.fc22.x86_64.rpm", 
+    "pkg": "hplip", 
+    "pkg_version": "3.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "hplip-3.14.10-5.fc21.x86_64.rpm", 
+    "pkg": "hplip", 
+    "pkg_version": "3.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "hplip-3.14.10-3.fc20.x86_64.rpm", 
+    "pkg": "hplip", 
+    "pkg_version": "3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "hplip-3.14.10-6-omv2015.0.x86_64.rpm", 
+    "pkg": "hplip", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "hplip-3.14.6-2-omv2014.0.x86_64.rpm", 
+    "pkg": "hplip", 
+    "pkg_version": "3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "hplip-3.13.10-2-omv2013.0.x86_64.rpm", 
+    "pkg": "hplip", 
+    "pkg_version": "3.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "hplip-3.15.2-1.1.x86_64.rpm", 
+    "pkg": "hplip", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "hplip-3.14.6-2.2.4.x86_64.rpm", 
+    "pkg": "hplip", 
+    "pkg_version": "3.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "hplip-3.13.10-4.2.x86_64.rpm", 
+    "pkg": "hplip", 
+    "pkg_version": "3.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "hplip-3.14.6-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "hplip", 
+    "pkg_version": "3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "hplip-3.13.11-25-rosa2012.1.x86_64.rpm", 
+    "pkg": "hplip", 
+    "pkg_version": "3.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "hplip-3.13.10-x86_64-1.txz", 
+    "pkg": "hplip", 
+    "pkg_version": "3.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware Patches", 
+    "pkg_full_name": "hplip-3.12.9-x86_64-4_slack14.0.txz", 
+    "pkg": "hplip", 
+    "pkg_version": "3.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware Patches", 
+    "pkg_full_name": "hplip-3.11.3a-x86_64-3_slack13.37.txz", 
+    "pkg": "hplip", 
+    "pkg_version": "3.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "hplip_3.14.6-1ubuntu1_i386.deb", 
+    "pkg": "hplip", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "hplip_3.14.3-0ubuntu3.2_i386.deb", 
+    "pkg": "hplip", 
+    "pkg_version": "3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

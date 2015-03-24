@@ -1,0 +1,91 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ganeti-2.5.1-alt1.noarch.rpm", 
+    "pkg": "ganeti", 
+    "pkg_version": "2.5.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ganeti_2.12.0-3_all.deb", 
+    "pkg": "ganeti", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ganeti_2.12.0-3_all.deb", 
+    "pkg": "ganeti", 
+    "pkg_version": "2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "ganeti_2.11.6-1~bpo70+1_all.deb", 
+    "pkg": "ganeti", 
+    "pkg_version": "2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "ganeti-2.6.0-3-omv2013.0.noarch.rpm", 
+    "pkg": "ganeti", 
+    "pkg_version": "2.6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "ganeti-2.6.0-3-omv2013.0.noarch.rpm", 
+    "pkg": "ganeti", 
+    "pkg_version": "2.6.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "ganeti-2.6.0-3-omv2013.0.noarch.rpm", 
+    "pkg": "ganeti", 
+    "pkg_version": "2.6.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "ganeti-2.9.4-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "ganeti", 
+    "pkg_version": "2.9.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "ganeti-2.9.4-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "ganeti", 
+    "pkg_version": "2.9.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ganeti_2.11.3-2_all.deb", 
+    "pkg": "ganeti", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

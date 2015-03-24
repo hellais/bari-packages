@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-pbkdf2_1.3+20110613.git2a0fb15~ds0-3_all.deb", 
+    "pkg": "python3-pbkdf2", 
+    "pkg_version": "1.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-pbkdf2_1.3+20110613.git2a0fb15~ds0-3_all.deb", 
+    "pkg": "python3-pbkdf2", 
+    "pkg_version": "1.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python3-pbkdf2_1.3+20110613.git2a0fb15~ds0-3_all.deb", 
+    "pkg": "python3-pbkdf2", 
+    "pkg_version": "1.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

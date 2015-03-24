@@ -1,0 +1,191 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "squid-purge_3.4.8-6_i386.deb", 
+    "pkg": "squid-purge", 
+    "pkg_version": "3.4.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "squid-purge_3.4.8-6_i386.deb", 
+    "pkg": "squid-purge", 
+    "pkg_version": "3.4.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "squid-purge_3.4.8-5~bpo70+1_i386.deb", 
+    "pkg": "squid-purge", 
+    "pkg_version": "3.4.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "squid-purge-20040201-3-omv2013.0.x86_64.rpm", 
+    "pkg": "squid-purge-20040201-3-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "squid-purge_3.4.8-5~bpo70+1_i386.deb", 
+    "pkg": "squid-purge", 
+    "pkg_version": "3.4.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "squid-purge-20040201-3-omv2013.0.x86_64.rpm", 
+    "pkg": "squid-purge-20040201-3-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "squid-purge_3.4.8-5~bpo70+1_i386.deb", 
+    "pkg": "squid-purge", 
+    "pkg_version": "3.4.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "squid-purge-20040201-3-omv2013.0.x86_64.rpm", 
+    "pkg": "squid-purge-20040201-3-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "squid-purge_3.4.8-5~bpo70+1_i386.deb", 
+    "pkg": "squid-purge", 
+    "pkg_version": "3.4.8", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "squid-purge-20040201-3-omv2013.0.x86_64.rpm", 
+    "pkg": "squid-purge-20040201-3-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "squid-purge-20040201-4-rosa2014.1.x86_64.rpm", 
+    "pkg": "squid-purge-20040201-4-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "squid-purge_3.4.8-5~bpo70+1_i386.deb", 
+    "pkg": "squid-purge", 
+    "pkg_version": "3.4.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "squid-purge-20040201-3-rosa2012.1.x86_64.rpm", 
+    "pkg": "squid-purge-20040201-3-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "squid-purge-20040201-3-omv2013.0.x86_64.rpm", 
+    "pkg": "squid-purge-20040201-3-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "squid-purge-20040201-4-rosa2014.1.x86_64.rpm", 
+    "pkg": "squid-purge-20040201-4-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "squid-purge_3.4.8-5~bpo70+1_i386.deb", 
+    "pkg": "squid-purge", 
+    "pkg_version": "3.4.8", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "squid-purge-20040201-3-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "squid-purge-20040201-3-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "squid-purge-20040201-3-rosa2012.1.x86_64.rpm", 
+    "pkg": "squid-purge-20040201-3-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "squid-purge-20040201-3-omv2013.0.x86_64.rpm", 
+    "pkg": "squid-purge-20040201-3-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "squid-purge-20040201-4-rosa2014.1.x86_64.rpm", 
+    "pkg": "squid-purge-20040201-4-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "squid-purge_3.3.8-1ubuntu8.1_i386.deb", 
+    "pkg": "squid-purge", 
+    "pkg_version": "3.3.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

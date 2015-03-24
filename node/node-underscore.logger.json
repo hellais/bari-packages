@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "node-underscore.logger_0.3.0~20111114-1_all.deb", 
+    "pkg": "node-underscore.logger", 
+    "pkg_version": "0.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "node-underscore.logger_0.3.0~20111114-1ubuntu1_all.deb", 
+    "pkg": "node-underscore.logger", 
+    "pkg_version": "0.3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

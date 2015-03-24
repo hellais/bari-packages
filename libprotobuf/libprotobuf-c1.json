@@ -1,0 +1,28 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libprotobuf-c1-1.0.1-alt1.x86_64.rpm", 
+    "pkg": "libprotobuf-c1", 
+    "pkg_version": "1.0.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libprotobuf-c1_1.0.2-1_i386.deb", 
+    "pkg": "libprotobuf-c1", 
+    "pkg_version": "1.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libprotobuf-c1_1.0.2-1_i386.deb", 
+    "pkg": "libprotobuf-c1", 
+    "pkg_version": "1.0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

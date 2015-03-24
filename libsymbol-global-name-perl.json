@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsymbol-global-name-perl_0.05-1_all.deb", 
+    "pkg": "libsymbol-global-name-perl", 
+    "pkg_version": "0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsymbol-global-name-perl_0.05-1_all.deb", 
+    "pkg": "libsymbol-global-name-perl", 
+    "pkg_version": "0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "libsymbol-global-name-perl_0.04-1~bpo70+1_all.deb", 
+    "pkg": "libsymbol-global-name-perl", 
+    "pkg_version": "0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libsymbol-global-name-perl_0.05-1_all.deb", 
+    "pkg": "libsymbol-global-name-perl", 
+    "pkg_version": "0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

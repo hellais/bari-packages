@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xul-ext-pentadactyl_1.1+hg7904-0+nmu1_all.deb", 
+    "pkg": "xul-ext-pentadactyl", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

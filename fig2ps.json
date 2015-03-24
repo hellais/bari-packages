@@ -1,0 +1,109 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "fig2ps-1.5-alt1_5.noarch.rpm", 
+    "pkg": "fig2ps", 
+    "pkg_version": "1.5", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "fig2ps-1.4.1-2.el6.noarch.rpm", 
+    "pkg": "fig2ps", 
+    "pkg_version": "1.4.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "fig2ps-1.3.6-2.PU_IAS.5.noarch.rpm", 
+    "pkg": "fig2ps", 
+    "pkg_version": "1.3.6", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fig2ps_1.5-1_all.deb", 
+    "pkg": "fig2ps", 
+    "pkg_version": "1.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fig2ps_1.5-1_all.deb", 
+    "pkg": "fig2ps", 
+    "pkg_version": "1.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fig2ps_1.5-1_all.deb", 
+    "pkg": "fig2ps", 
+    "pkg_version": "1.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "fig2ps-1.5-5.fc21.noarch.rpm", 
+    "pkg": "fig2ps", 
+    "pkg_version": "1.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "fig2ps-1.5-5.fc21.noarch.rpm", 
+    "pkg": "fig2ps", 
+    "pkg_version": "1.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "fig2ps-1.5-5.fc21.noarch.rpm", 
+    "pkg": "fig2ps", 
+    "pkg_version": "1.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "fig2ps-1.5-4.fc20.noarch.rpm", 
+    "pkg": "fig2ps", 
+    "pkg_version": "1.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "fig2ps_1.5-1_all.deb", 
+    "pkg": "fig2ps", 
+    "pkg_version": "1.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "fig2ps_1.5-1_all.deb", 
+    "pkg": "fig2ps", 
+    "pkg_version": "1.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

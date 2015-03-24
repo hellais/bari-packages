@@ -1,0 +1,181 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "clamtk-5.11-alt1.noarch.rpm", 
+    "pkg": "clamtk", 
+    "pkg_version": "5.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "clamtk-4.25-1.el6.rf.noarch.rpm", 
+    "pkg": "clamtk", 
+    "pkg_version": "4.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "clamtk-4.25-1.el5.rf.noarch.rpm", 
+    "pkg": "clamtk", 
+    "pkg_version": "4.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "clamtk_5.11-1_all.deb", 
+    "pkg": "clamtk", 
+    "pkg_version": "5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "clamtk_5.11-1_all.deb", 
+    "pkg": "clamtk", 
+    "pkg_version": "5.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "clamtk_4.41-1_all.deb", 
+    "pkg": "clamtk", 
+    "pkg_version": "4.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "clamtk-5.15-1.fc23.noarch.rpm", 
+    "pkg": "clamtk", 
+    "pkg_version": "5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "clamtk-5.14-1.fc22.noarch.rpm", 
+    "pkg": "clamtk", 
+    "pkg_version": "5.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "clamtk-5.15-1.fc21.noarch.rpm", 
+    "pkg": "clamtk", 
+    "pkg_version": "5.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "clamtk-5.15-1.fc20.noarch.rpm", 
+    "pkg": "clamtk", 
+    "pkg_version": "5.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "clamtk-5.05-4-omv2015.0.noarch.rpm", 
+    "pkg": "clamtk", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib Updates", 
+    "pkg_full_name": "clamtk-4.45-2-omv2014.0.noarch.rpm", 
+    "pkg": "clamtk", 
+    "pkg_version": "4.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "clamtk-4.45-2-omv2013.0.noarch.rpm", 
+    "pkg": "clamtk", 
+    "pkg_version": "4.4", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "clamtk-5.13-1.1.noarch.rpm", 
+    "pkg": "clamtk", 
+    "pkg_version": "5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "clamtk-5.13-1.1.noarch.rpm", 
+    "pkg": "clamtk", 
+    "pkg_version": "5.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "clamtk-5.13-1.1.noarch.rpm", 
+    "pkg": "clamtk", 
+    "pkg_version": "5.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "clamtk-5.05-4-rosa2014.1.noarch.rpm", 
+    "pkg": "clamtk", 
+    "pkg_version": "5.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "clamtk-5.05-2-rosa2012.1.noarch.rpm", 
+    "pkg": "clamtk", 
+    "pkg_version": "5.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "clamtk_5.10-1_all.deb", 
+    "pkg": "clamtk", 
+    "pkg_version": "5.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "clamtk_4.45-1_all.deb", 
+    "pkg": "clamtk", 
+    "pkg_version": "4.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

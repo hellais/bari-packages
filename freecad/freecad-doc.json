@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "RPM Fusion Nonfree Updates", 
+    "pkg_full_name": "freecad-doc-0.13-4.el6.noarch.rpm", 
+    "pkg": "freecad-doc", 
+    "pkg_version": "0.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "freecad-doc_0.14.3702+dfsg-3_all.deb", 
+    "pkg": "freecad-doc", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "freecad-doc_0.14.3702+dfsg-3_all.deb", 
+    "pkg": "freecad-doc", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "freecad-doc_0.14.3702+dfsg-3~bpo70+1_all.deb", 
+    "pkg": "freecad-doc", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Nonfree", 
+    "pkg_full_name": "freecad-doc-0.13-4.fc20.noarch.rpm", 
+    "pkg": "freecad-doc", 
+    "pkg_version": "0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "freecad-doc_0.14.3702+dfsg-1_all.deb", 
+    "pkg": "freecad-doc", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "freecad-doc_0.13.2935-dfsg-1.1build1_all.deb", 
+    "pkg": "freecad-doc", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

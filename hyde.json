@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "hyde_0.8.5a1-4_all.deb", 
+    "pkg": "hyde", 
+    "pkg_version": "0.8.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "hyde_0.8.5a1-4_all.deb", 
+    "pkg": "hyde", 
+    "pkg_version": "0.8.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "hyde_0.8.5a1-4ubuntu1_all.deb", 
+    "pkg": "hyde", 
+    "pkg_version": "0.8.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "hyde_0.8.5a1-4ubuntu1_all.deb", 
+    "pkg": "hyde", 
+    "pkg_version": "0.8.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

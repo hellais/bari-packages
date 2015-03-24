@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ibus-libzhuyin_1.6.99.20140929-1_i386.deb", 
+    "pkg": "ibus-libzhuyin", 
+    "pkg_version": "1.6.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ibus-libzhuyin_1.6.99.20140929-1_i386.deb", 
+    "pkg": "ibus-libzhuyin", 
+    "pkg_version": "1.6.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ibus-libzhuyin-1.6.99.20140929-2.fc22.x86_64.rpm", 
+    "pkg": "ibus-libzhuyin", 
+    "pkg_version": "1.6.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ibus-libzhuyin-1.6.99.20140929-2.fc22.x86_64.rpm", 
+    "pkg": "ibus-libzhuyin", 
+    "pkg_version": "1.6.9", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "ibus-libzhuyin-1.6.99.20140929-2.fc21.x86_64.rpm", 
+    "pkg": "ibus-libzhuyin", 
+    "pkg_version": "1.6.9", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "ibus-libzhuyin-1.6.99.20140929-1.fc20.x86_64.rpm", 
+    "pkg": "ibus-libzhuyin", 
+    "pkg_version": "1.6.9", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ibus-libzhuyin-1.6.99.20140929-2.1.x86_64.rpm", 
+    "pkg": "ibus-libzhuyin", 
+    "pkg_version": "1.6.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }
+]

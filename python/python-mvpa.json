@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python-mvpa_0.4.8-1~nd+1_all.deb", 
+    "pkg": "python-mvpa", 
+    "pkg_version": "0.4.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python-mvpa_0.4.8-1~nd70+1_all.deb", 
+    "pkg": "python-mvpa", 
+    "pkg_version": "0.4.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python-mvpa_0.4.8-1~nd70+1_all.deb", 
+    "pkg": "python-mvpa", 
+    "pkg_version": "0.4.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-mvpa_0.4.8-3_all.deb", 
+    "pkg": "python-mvpa", 
+    "pkg_version": "0.4.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-mvpa_0.4.8-3_all.deb", 
+    "pkg": "python-mvpa", 
+    "pkg_version": "0.4.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

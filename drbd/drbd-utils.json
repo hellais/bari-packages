@@ -1,0 +1,316 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "drbd-utils-8.9.0-alt1.x86_64.rpm", 
+    "pkg": "drbd-utils", 
+    "pkg_version": "8.9.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "drbd-8.4.3-33.el7.x86_64.rpm", 
+    "pkg": "drbd", 
+    "pkg_version": "8.4.3", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "drbd-utils-8.9.0-alt1.x86_64.rpm", 
+    "pkg": "drbd-utils", 
+    "pkg_version": "8.9.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "drbd-8.4.3-33.el6.x86_64.rpm", 
+    "pkg": "drbd", 
+    "pkg_version": "8.4.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "drbd-utils-8.9.0-alt1.x86_64.rpm", 
+    "pkg": "drbd-utils", 
+    "pkg_version": "8.9.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "NauLinux School", 
+    "pkg_full_name": "drbd-8.4.0-31.el5.i386.rpm", 
+    "pkg": "drbd", 
+    "pkg_version": "8.4.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "drbd-utils-8.9.0-alt1.x86_64.rpm", 
+    "pkg": "drbd-utils", 
+    "pkg_version": "8.9.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "NauLinux School", 
+    "pkg_full_name": "drbd-8.4.0-31.el5.i386.rpm", 
+    "pkg": "drbd", 
+    "pkg_version": "8.4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "drbd-utils_8.9.2~rc1-2_i386.deb", 
+    "pkg": "drbd-utils", 
+    "pkg_version": "8.9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NauLinux School", 
+    "pkg_full_name": "drbd-8.4.0-31.el5.i386.rpm", 
+    "pkg": "drbd", 
+    "pkg_version": "8.4.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "drbd-utils_8.9.2~rc1-2_i386.deb", 
+    "pkg": "drbd-utils", 
+    "pkg_version": "8.9.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NauLinux School", 
+    "pkg_full_name": "drbd-8.4.0-31.el5.i386.rpm", 
+    "pkg": "drbd", 
+    "pkg_version": "8.4.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "drbd-utils_8.9.2~rc1-1~bpo70+1_i386.deb", 
+    "pkg": "drbd-utils", 
+    "pkg_version": "8.9.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "drbd8-utils_8.3.13-2_i386.deb", 
+    "pkg": "drbd8-utils", 
+    "pkg_version": "8.3.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NauLinux School", 
+    "pkg_full_name": "drbd-8.4.0-31.el5.i386.rpm", 
+    "pkg": "drbd", 
+    "pkg_version": "8.4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "drbd-utils-8.9.1-2.fc22.x86_64.rpm", 
+    "pkg": "drbd-utils", 
+    "pkg_version": "8.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "drbd8-utils_8.3.13-2_i386.deb", 
+    "pkg": "drbd8-utils", 
+    "pkg_version": "8.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "NauLinux School", 
+    "pkg_full_name": "drbd-8.4.0-31.el5.i386.rpm", 
+    "pkg": "drbd", 
+    "pkg_version": "8.4.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "drbd-utils-8.9.1-2.fc22.x86_64.rpm", 
+    "pkg": "drbd-utils", 
+    "pkg_version": "8.9.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "drbd8-utils_8.3.13-2_i386.deb", 
+    "pkg": "drbd8-utils", 
+    "pkg_version": "8.3.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "NauLinux School", 
+    "pkg_full_name": "drbd-8.4.0-31.el5.i386.rpm", 
+    "pkg": "drbd", 
+    "pkg_version": "8.4.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "drbd-utils-8.9.0-8.fc21.x86_64.rpm", 
+    "pkg": "drbd-utils", 
+    "pkg_version": "8.9.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "drbd8-utils_8.3.13-2_i386.deb", 
+    "pkg": "drbd8-utils", 
+    "pkg_version": "8.3.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "drbd-8.4.3-33.fc20.x86_64.rpm", 
+    "pkg": "drbd", 
+    "pkg_version": "8.4.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "drbd-utils-8.4.3-2.fc20.x86_64.rpm", 
+    "pkg": "drbd-utils", 
+    "pkg_version": "8.4.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "drbd8-utils_8.3.13-2_i386.deb", 
+    "pkg": "drbd8-utils", 
+    "pkg_version": "8.3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "drbd-8.4.3-33.fc20.x86_64.rpm", 
+    "pkg": "drbd", 
+    "pkg_version": "8.4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "drbd-utils-8.9.1-1.2.x86_64.rpm", 
+    "pkg": "drbd-utils", 
+    "pkg_version": "8.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "drbd8-utils_8.3.13-2_i386.deb", 
+    "pkg": "drbd8-utils", 
+    "pkg_version": "8.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "drbd-8.4.3-33.fc20.x86_64.rpm", 
+    "pkg": "drbd", 
+    "pkg_version": "8.4.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "drbd-utils-8.3.10-2-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "drbd-utils", 
+    "pkg_version": "8.3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "drbd8-utils_8.4.4-1ubuntu1_i386.deb", 
+    "pkg": "drbd8-utils", 
+    "pkg_version": "8.4.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "drbd-8.4.3-33.fc20.x86_64.rpm", 
+    "pkg": "drbd", 
+    "pkg_version": "8.4.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "drbd-utils-8.3.10-2-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "drbd-utils", 
+    "pkg_version": "8.3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "drbd8-utils_8.4.4-1ubuntu1_i386.deb", 
+    "pkg": "drbd8-utils", 
+    "pkg_version": "8.4.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

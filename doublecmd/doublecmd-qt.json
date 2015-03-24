@@ -1,0 +1,46 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "doublecmd-qt-0.6.0-1-x86_64.pkg.tar.xz", 
+    "pkg": "doublecmd-qt", 
+    "pkg_version": "0.6.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "doublecmd-qt_0.5.11-1_i386.deb", 
+    "pkg": "doublecmd-qt", 
+    "pkg_version": "0.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "doublecmd-qt_0.5.11-1_i386.deb", 
+    "pkg": "doublecmd-qt", 
+    "pkg_version": "0.5.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Russian Fedora Free Updates", 
+    "pkg_full_name": "doublecmd-qt-0.6.0-1.fc21.R.x86_64.rpm", 
+    "pkg": "doublecmd-qt", 
+    "pkg_version": "0.6.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "doublecmd-qt_0.5.11-1_i386.deb", 
+    "pkg": "doublecmd-qt", 
+    "pkg_version": "0.5.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

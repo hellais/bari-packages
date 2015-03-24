@@ -1,0 +1,244 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "lxqt-panel-0.9.0-alt1.x86_64.rpm", 
+    "pkg": "lxqt-panel", 
+    "pkg_version": "0.9.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "razorqt-panel-0.5.2-20.el6.x86_64.rpm", 
+    "pkg": "razorqt-panel", 
+    "pkg_version": "0.5.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "lxqt-panel-0.9.0-alt1.x86_64.rpm", 
+    "pkg": "lxqt-panel", 
+    "pkg_version": "0.9.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "razorqt-panel_0.5.2-4_i386.deb", 
+    "pkg": "razorqt-panel", 
+    "pkg_version": "0.5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "lxqt-panel-0.9.0-alt1.x86_64.rpm", 
+    "pkg": "lxqt-panel", 
+    "pkg_version": "0.9.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "razorqt-panel_0.5.2-4_i386.deb", 
+    "pkg": "razorqt-panel", 
+    "pkg_version": "0.5.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "lxqt-panel-0.9.0-alt1.x86_64.rpm", 
+    "pkg": "lxqt-panel", 
+    "pkg_version": "0.9.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "razorqt-panel-0.5.2-21.fc22.x86_64.rpm", 
+    "pkg": "razorqt-panel", 
+    "pkg_version": "0.5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "lxqt-panel-0.9.0-alt1.x86_64.rpm", 
+    "pkg": "lxqt-panel", 
+    "pkg_version": "0.9.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "razorqt-panel-0.5.2-21.fc22.x86_64.rpm", 
+    "pkg": "razorqt-panel", 
+    "pkg_version": "0.5.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "lxqt-panel-0.9.0-alt1.x86_64.rpm", 
+    "pkg": "lxqt-panel", 
+    "pkg_version": "0.9.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "razorqt-panel-0.5.2-21.fc21.x86_64.rpm", 
+    "pkg": "razorqt-panel", 
+    "pkg_version": "0.5.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "lxqt-panel-0.9.0-alt1.x86_64.rpm", 
+    "pkg": "lxqt-panel", 
+    "pkg_version": "0.9.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "razorqt-panel-0.5.2-20.fc20.x86_64.rpm", 
+    "pkg": "razorqt-panel", 
+    "pkg_version": "0.5.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "lxqt-panel-0.9.0-alt1.x86_64.rpm", 
+    "pkg": "lxqt-panel", 
+    "pkg_version": "0.9.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "razorqt-panel-0.5.2-1-mdv2013.0.x86_64.rpm", 
+    "pkg": "razorqt-panel", 
+    "pkg_version": "0.5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lxqt-panel-0.9.0-6-omv2015.0.x86_64.rpm", 
+    "pkg": "lxqt-panel", 
+    "pkg_version": "0.9.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "razorqt-panel-0.5.2-2-omv2014.0.x86_64.rpm", 
+    "pkg": "razorqt-panel", 
+    "pkg_version": "0.5.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lxqt-panel-0.9.0-6-omv2015.0.x86_64.rpm", 
+    "pkg": "lxqt-panel", 
+    "pkg_version": "0.9.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "razorqt-panel-0.5.2-1-omv2013.0.x86_64.rpm", 
+    "pkg": "razorqt-panel", 
+    "pkg_version": "0.5.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lxqt-panel-0.9.0-6-omv2015.0.x86_64.rpm", 
+    "pkg": "lxqt-panel", 
+    "pkg_version": "0.9.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "razorqt-panel-0.5.2-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "razorqt-panel", 
+    "pkg_version": "0.5.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lxqt-panel-0.9.0-6-omv2015.0.x86_64.rpm", 
+    "pkg": "lxqt-panel", 
+    "pkg_version": "0.9.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "razorqt-panel-0.5.2-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "razorqt-panel", 
+    "pkg_version": "0.5.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lxqt-panel-0.9.0-6-omv2015.0.x86_64.rpm", 
+    "pkg": "lxqt-panel", 
+    "pkg_version": "0.9.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "razorqt-panel_0.5.2-4_i386.deb", 
+    "pkg": "razorqt-panel", 
+    "pkg_version": "0.5.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lxqt-panel-0.9.0-6-omv2015.0.x86_64.rpm", 
+    "pkg": "lxqt-panel", 
+    "pkg_version": "0.9.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libjana-examples_0.0.0+git20091215.9ec1da8a-3+b3_i386.deb", 
+    "pkg": "libjana-examples", 
+    "pkg_version": "0.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libjana-examples_0.0.0+git20091215.9ec1da8a-3+b3_i386.deb", 
+    "pkg": "libjana-examples", 
+    "pkg_version": "0.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libjana-examples_0.0.0+git20091215.9ec1da8a-2+b4_i386.deb", 
+    "pkg": "libjana-examples", 
+    "pkg_version": "0.0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libjana-examples_0.0.0+git20091215.9ec1da8a-3build1_i386.deb", 
+    "pkg": "libjana-examples", 
+    "pkg_version": "0.0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libjana-examples_0.0.0+git20091215.9ec1da8a-3build1_i386.deb", 
+    "pkg": "libjana-examples", 
+    "pkg_version": "0.0.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

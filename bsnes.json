@@ -1,0 +1,136 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "bsnes-0.086-alt1.1.x86_64.rpm", 
+    "pkg": "bsnes", 
+    "pkg_version": "0.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "bsnes-0.086-alt1.1.x86_64.rpm", 
+    "pkg": "bsnes", 
+    "pkg_version": "0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "bsnes-0.086-alt1.1.x86_64.rpm", 
+    "pkg": "bsnes", 
+    "pkg_version": "0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bsnes_0.088-5_i386.deb", 
+    "pkg": "bsnes", 
+    "pkg_version": "0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "bsnes-0.091-3.fc21.x86_64.rpm", 
+    "pkg": "bsnes", 
+    "pkg_version": "0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "bsnes-0.091-3.fc21.x86_64.rpm", 
+    "pkg": "bsnes", 
+    "pkg_version": "0.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "bsnes-0.091-2.fc20.x86_64.rpm", 
+    "pkg": "bsnes", 
+    "pkg_version": "0.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "bsnes-0.088-3-omv2013.0.x86_64.rpm", 
+    "pkg": "bsnes", 
+    "pkg_version": "0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "bsnes-0.088-3-omv2013.0.x86_64.rpm", 
+    "pkg": "bsnes", 
+    "pkg_version": "0.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "bsnes-0.088-3-omv2013.0.x86_64.rpm", 
+    "pkg": "bsnes", 
+    "pkg_version": "0.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Emulators", 
+    "pkg_full_name": "bsnes-0.087-1.69.x86_64.rpm", 
+    "pkg": "bsnes", 
+    "pkg_version": "0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "bsnes-0.088-4-rosa2014.1.x86_64.rpm", 
+    "pkg": "bsnes", 
+    "pkg_version": "0.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "bsnes-0.088-3-rosa2012.1.x86_64.rpm", 
+    "pkg": "bsnes", 
+    "pkg_version": "0.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "bsnes-0.088-2-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "bsnes", 
+    "pkg_version": "0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "bsnes-0.088-2-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "bsnes", 
+    "pkg_version": "0.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

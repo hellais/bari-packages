@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-haml-rails_0.5.3-1_all.deb", 
+    "pkg": "ruby-haml-rails", 
+    "pkg_version": "0.5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

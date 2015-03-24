@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gedit-source-code-browser-plugin_3.0.3-5_all.deb", 
+    "pkg": "gedit-source-code-browser-plugin", 
+    "pkg_version": "3.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gedit-source-code-browser-plugin_3.0.3-5_all.deb", 
+    "pkg": "gedit-source-code-browser-plugin", 
+    "pkg_version": "3.0.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gedit-source-code-browser-plugin_3.0.3-2_all.deb", 
+    "pkg": "gedit-source-code-browser-plugin", 
+    "pkg_version": "3.0.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gedit-source-code-browser-plugin_3.0.3-3_all.deb", 
+    "pkg": "gedit-source-code-browser-plugin", 
+    "pkg_version": "3.0.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

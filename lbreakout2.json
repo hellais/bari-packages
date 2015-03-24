@@ -1,0 +1,351 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "lbreakout2-2.6.4-alt1.1.x86_64.rpm", 
+    "pkg": "lbreakout2", 
+    "pkg_version": "2.6.4", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "lbreakout2-2.6.4-2-x86_64.pkg.tar.xz", 
+    "pkg": "lbreakout2", 
+    "pkg_version": "2.6.4", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lbreakout2_2.6.4-3_i386.deb", 
+    "pkg": "lbreakout2", 
+    "pkg_version": "2.6.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lbreakout2_2.6.4-3_i386.deb", 
+    "pkg": "lbreakout2", 
+    "pkg_version": "2.6.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lbreakout2_2.6.3-1_i386.deb", 
+    "pkg": "lbreakout2", 
+    "pkg_version": "2.6.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lbreakout2_2.6.3-1_i386.deb", 
+    "pkg": "lbreakout2", 
+    "pkg_version": "2.6.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lbrickbuster2-2.6.4-7.fc22.x86_64.rpm", 
+    "pkg": "lbrickbuster2", 
+    "pkg_version": "2.6.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lbreakout2_2.6.3-1_i386.deb", 
+    "pkg": "lbreakout2", 
+    "pkg_version": "2.6.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lbrickbuster2-2.6.4-7.fc22.x86_64.rpm", 
+    "pkg": "lbrickbuster2", 
+    "pkg_version": "2.6.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lbreakout2_2.6.3-1_i386.deb", 
+    "pkg": "lbreakout2", 
+    "pkg_version": "2.6.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lbrickbuster2-2.6.4-7.fc21.x86_64.rpm", 
+    "pkg": "lbrickbuster2", 
+    "pkg_version": "2.6.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lbreakout2_2.6.3-1_i386.deb", 
+    "pkg": "lbreakout2", 
+    "pkg_version": "2.6.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lbrickbuster2-2.6.4-5.fc20.x86_64.rpm", 
+    "pkg": "lbrickbuster2", 
+    "pkg_version": "2.6.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "lbreakout2-2.6.4-1-omv2013.0.x86_64.rpm", 
+    "pkg": "lbreakout2", 
+    "pkg_version": "2.6.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lbrickbuster2-2.6.4-5.fc20.x86_64.rpm", 
+    "pkg": "lbrickbuster2", 
+    "pkg_version": "2.6.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "lbreakout2-2.6.4-1-omv2013.0.x86_64.rpm", 
+    "pkg": "lbreakout2", 
+    "pkg_version": "2.6.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lbrickbuster2-2.6.4-5.fc20.x86_64.rpm", 
+    "pkg": "lbrickbuster2", 
+    "pkg_version": "2.6.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "lbreakout2-2.6.4-1-omv2013.0.x86_64.rpm", 
+    "pkg": "lbreakout2", 
+    "pkg_version": "2.6.4", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lbrickbuster2-2.6.4-5.fc20.x86_64.rpm", 
+    "pkg": "lbrickbuster2", 
+    "pkg_version": "2.6.4", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "lbreakout2-2.6.3-1.243.x86_64.rpm", 
+    "pkg": "lbreakout2", 
+    "pkg_version": "2.6.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lbrickbuster2-2.6.4-5.fc20.x86_64.rpm", 
+    "pkg": "lbrickbuster2", 
+    "pkg_version": "2.6.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "lbreakout2-2.6.3-1.6.x86_64.rpm", 
+    "pkg": "lbreakout2", 
+    "pkg_version": "2.6.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lbrickbuster2-2.6.4-5.fc20.x86_64.rpm", 
+    "pkg": "lbrickbuster2", 
+    "pkg_version": "2.6.4", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "lbreakout2-2.6.3-1.13.x86_64.rpm", 
+    "pkg": "lbreakout2", 
+    "pkg_version": "2.6.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lbrickbuster2-2.6.4-5.fc20.x86_64.rpm", 
+    "pkg": "lbrickbuster2", 
+    "pkg_version": "2.6.4", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "lbreakout2-2.6.4-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "lbreakout2", 
+    "pkg_version": "2.6.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lbrickbuster2-2.6.4-5.fc20.x86_64.rpm", 
+    "pkg": "lbrickbuster2", 
+    "pkg_version": "2.6.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "lbreakout2-2.6.4-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "lbreakout2", 
+    "pkg_version": "2.6.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lbrickbuster2-2.6.4-5.fc20.x86_64.rpm", 
+    "pkg": "lbrickbuster2", 
+    "pkg_version": "2.6.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "lbreakout2-2.6.4-x86_64-1gv.txz", 
+    "pkg": "lbreakout2", 
+    "pkg_version": "2.6.4", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lbrickbuster2-2.6.4-5.fc20.x86_64.rpm", 
+    "pkg": "lbrickbuster2", 
+    "pkg_version": "2.6.4", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "lbreakout2-2.6.4-x86_64-1gv.txz", 
+    "pkg": "lbreakout2", 
+    "pkg_version": "2.6.4", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lbrickbuster2-2.6.4-5.fc20.x86_64.rpm", 
+    "pkg": "lbrickbuster2", 
+    "pkg_version": "2.6.4", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "lbreakout2-2.6.2-x86_64-1gv.txz", 
+    "pkg": "lbreakout2", 
+    "pkg_version": "2.6.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lbrickbuster2-2.6.4-5.fc20.x86_64.rpm", 
+    "pkg": "lbrickbuster2", 
+    "pkg_version": "2.6.4", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "lbreakout2_2.6.4-3_i386.deb", 
+    "pkg": "lbreakout2", 
+    "pkg_version": "2.6.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lbrickbuster2-2.6.4-5.fc20.x86_64.rpm", 
+    "pkg": "lbrickbuster2", 
+    "pkg_version": "2.6.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "lbreakout2_2.6.4-3_i386.deb", 
+    "pkg": "lbreakout2", 
+    "pkg_version": "2.6.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lbrickbuster2-2.6.4-5.fc20.x86_64.rpm", 
+    "pkg": "lbrickbuster2", 
+    "pkg_version": "2.6.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-pyqt5.qtserialport_5.3.2+dfsg-3_i386.deb", 
+    "pkg": "python3-pyqt5.qtserialport", 
+    "pkg_version": "5.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-pyqt5.qtserialport_5.3.2+dfsg-3_i386.deb", 
+    "pkg": "python3-pyqt5.qtserialport", 
+    "pkg_version": "5.3.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python3-pyqt5.qtserialport_5.3.2+dfsg-1ubuntu1_i386.deb", 
+    "pkg": "python3-pyqt5.qtserialport", 
+    "pkg_version": "5.3.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

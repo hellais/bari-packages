@@ -1,0 +1,468 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ca-certificates-2012.01.17-alt1.noarch.rpm", 
+    "pkg": "ca-certificates-201", 
+    "pkg_version": "2.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ca-certificates-2012.01.17-alt1.noarch.rpm", 
+    "pkg": "ca-certificates-201", 
+    "pkg_version": "2.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "ca-certificates-2014.1.98-70.0.el7_0.noarch.rpm", 
+    "pkg": "ca-certificates-201", 
+    "pkg_version": "4.1.9", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ca-certificates-2014.1.98-65.1.el6.noarch.rpm", 
+    "pkg": "ca-certificates-201", 
+    "pkg_version": "4.1.9", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ca-certificates-2014.1.98-65.1.el6.noarch.rpm", 
+    "pkg": "ca-certificates-201", 
+    "pkg_version": "4.1.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ca-certificates-2014.1.98-65.1.el6.noarch.rpm", 
+    "pkg": "ca-certificates-201", 
+    "pkg_version": "4.1.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ca-certificates-2014.1.98-65.1.el6.noarch.rpm", 
+    "pkg": "ca-certificates-201", 
+    "pkg_version": "4.1.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ca-certificates-2015.2.3-2.fc23.noarch.rpm", 
+    "pkg": "ca-certificates-201", 
+    "pkg_version": "5.2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ca-certificates-2014.2.2-2.fc22.noarch.rpm", 
+    "pkg": "ca-certificates-201", 
+    "pkg_version": "4.2.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "ca-certificates-2014.2.2-1.0.fc21.noarch.rpm", 
+    "pkg": "ca-certificates-201", 
+    "pkg_version": "4.2.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "ca-certificates-2014.2.2-1.0.fc20.noarch.rpm", 
+    "pkg": "ca-certificates-201", 
+    "pkg_version": "4.2.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "ca-certificates-2014.2.2-1.0.fc20.noarch.rpm", 
+    "pkg": "ca-certificates-201", 
+    "pkg_version": "4.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ca-certificates-1_201403302107-10.1.noarch.rpm", 
+    "pkg": "ca-certificates-1_201403302107-1", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ca-certificates-1_201403302107-8.1.2.noarch.rpm", 
+    "pkg": "ca-certificates-1_201403302107", 
+    "pkg_version": "8.1.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "ca-certificates-2014.2.2-1.0.fc20.noarch.rpm", 
+    "pkg": "ca-certificates-201", 
+    "pkg_version": "4.2.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ca-certificates-1_201403302107-10.1.noarch.rpm", 
+    "pkg": "ca-certificates-1_201403302107-1", 
+    "pkg_version": "0.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "ca-certificates-1_201312011643-4.1.noarch.rpm", 
+    "pkg": "ca-certificates-1_201312011643", 
+    "pkg_version": "4.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ca-certificates-1_201403302107-8.1.2.noarch.rpm", 
+    "pkg": "ca-certificates-1_201403302107", 
+    "pkg_version": "8.1.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ca-certificates-1_201310161709-1.1.noarch.rpm", 
+    "pkg": "ca-certificates-1_201310161709", 
+    "pkg_version": "1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "ca-certificates-2014.2.2-1.0.fc20.noarch.rpm", 
+    "pkg": "ca-certificates-201", 
+    "pkg_version": "4.2.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ca-certificates-1_201403302107-10.1.noarch.rpm", 
+    "pkg": "ca-certificates-1_201403302107-1", 
+    "pkg_version": "0.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "ca-certificates-1_201312011643-4.1.noarch.rpm", 
+    "pkg": "ca-certificates-1_201312011643", 
+    "pkg_version": "4.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ca-certificates-1_201403302107-8.1.2.noarch.rpm", 
+    "pkg": "ca-certificates-1_201403302107", 
+    "pkg_version": "8.1.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ca-certificates-1_201310161709-1.1.noarch.rpm", 
+    "pkg": "ca-certificates-1_201310161709", 
+    "pkg_version": "1.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "ca-certificates-2014.2.2-1.0.fc20.noarch.rpm", 
+    "pkg": "ca-certificates-201", 
+    "pkg_version": "4.2.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ca-certificates-1_201403302107-10.1.noarch.rpm", 
+    "pkg": "ca-certificates-1_201403302107-1", 
+    "pkg_version": "0.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ca-certificates-1_201403302107-8.1.2.noarch.rpm", 
+    "pkg": "ca-certificates-1_201403302107", 
+    "pkg_version": "8.1.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware Patches", 
+    "pkg_full_name": "ca-certificates-20130906-noarch-1_slack14.0.txz", 
+    "pkg": "ca-certificates-20130906-noarch-1_slack1", 
+    "pkg_version": "4.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "ca-certificates-2014.2.2-1.0.fc20.noarch.rpm", 
+    "pkg": "ca-certificates-201", 
+    "pkg_version": "4.2.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ca-certificates-1_201310161709-1.1.noarch.rpm", 
+    "pkg": "ca-certificates-1_201310161709", 
+    "pkg_version": "1.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "ca-certificates-1_201312011643-4.1.noarch.rpm", 
+    "pkg": "ca-certificates-1_201312011643", 
+    "pkg_version": "4.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ca-certificates-1_201403302107-10.1.noarch.rpm", 
+    "pkg": "ca-certificates-1_201403302107-1", 
+    "pkg_version": "0.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ca-certificates-1_201403302107-8.1.2.noarch.rpm", 
+    "pkg": "ca-certificates-1_201403302107", 
+    "pkg_version": "8.1.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware Patches", 
+    "pkg_full_name": "ca-certificates-20130906-noarch-1_slack13.37.txz", 
+    "pkg": "ca-certificates-20130906-noarch-1_slack1", 
+    "pkg_version": "3.3", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "ca-certificates-2014.2.2-1.0.fc20.noarch.rpm", 
+    "pkg": "ca-certificates-201", 
+    "pkg_version": "4.2.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ca-certificates-1_201310161709-1.1.noarch.rpm", 
+    "pkg": "ca-certificates-1_201310161709", 
+    "pkg_version": "1.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "ca-certificates-1_201312011643-4.1.noarch.rpm", 
+    "pkg": "ca-certificates-1_201312011643", 
+    "pkg_version": "4.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ca-certificates-1_201403302107-10.1.noarch.rpm", 
+    "pkg": "ca-certificates-1_201403302107-1", 
+    "pkg_version": "0.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ca-certificates-1_201403302107-8.1.2.noarch.rpm", 
+    "pkg": "ca-certificates-1_201403302107", 
+    "pkg_version": "8.1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Slackware Patches", 
+    "pkg_full_name": "ca-certificates-20130906-noarch-1_slack13.37.txz", 
+    "pkg": "ca-certificates-20130906-noarch-1_slack1", 
+    "pkg_version": "3.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "ca-certificates-2014.2.2-1.0.fc20.noarch.rpm", 
+    "pkg": "ca-certificates-201", 
+    "pkg_version": "4.2.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "ca-certificates_20141019ubuntu0.14.10.1_all.deb", 
+    "pkg": "ca-certificates_20141019ubuntu", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ca-certificates-1_201310161709-1.1.noarch.rpm", 
+    "pkg": "ca-certificates-1_201310161709", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "ca-certificates-1_201312011643-4.1.noarch.rpm", 
+    "pkg": "ca-certificates-1_201312011643", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ca-certificates-1_201403302107-10.1.noarch.rpm", 
+    "pkg": "ca-certificates-1_201403302107-1", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ca-certificates-1_201403302107-8.1.2.noarch.rpm", 
+    "pkg": "ca-certificates-1_201403302107", 
+    "pkg_version": "8.1.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Slackware Patches", 
+    "pkg_full_name": "ca-certificates-20130906-noarch-1_slack13.37.txz", 
+    "pkg": "ca-certificates-20130906-noarch-1_slack1", 
+    "pkg_version": "3.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "ca-certificates-2014.2.2-1.0.fc20.noarch.rpm", 
+    "pkg": "ca-certificates-201", 
+    "pkg_version": "4.2.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "ca-certificates_20141019ubuntu0.14.04.1_all.deb", 
+    "pkg": "ca-certificates_20141019ubuntu", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ca-certificates-1_201310161709-1.1.noarch.rpm", 
+    "pkg": "ca-certificates-1_201310161709", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "ca-certificates-1_201312011643-4.1.noarch.rpm", 
+    "pkg": "ca-certificates-1_201312011643", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ca-certificates-1_201403302107-10.1.noarch.rpm", 
+    "pkg": "ca-certificates-1_201403302107-1", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

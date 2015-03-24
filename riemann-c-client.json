@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "riemann-c-client_1.2.0-2_i386.deb", 
+    "pkg": "riemann-c-client", 
+    "pkg_version": "1.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "riemann-c-client_1.2.0-2_i386.deb", 
+    "pkg": "riemann-c-client", 
+    "pkg_version": "1.2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "riemann-c-client-1.2.1-3.fc22.x86_64.rpm", 
+    "pkg": "riemann-c-client", 
+    "pkg_version": "1.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "riemann-c-client-1.2.1-3.fc22.x86_64.rpm", 
+    "pkg": "riemann-c-client", 
+    "pkg_version": "1.2.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "riemann-c-client_1.2.0-2_i386.deb", 
+    "pkg": "riemann-c-client", 
+    "pkg_version": "1.2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

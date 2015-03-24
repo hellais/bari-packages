@@ -1,0 +1,91 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "gpsdrive-2.11-25-x86_64.pkg.tar.xz", 
+    "pkg": "gpsdrive", 
+    "pkg_version": "2.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gpsdrive_2.10~pre4-6.dfsg-5.2+b1_i386.deb", 
+    "pkg": "gpsdrive", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gpsdrive-2.11-26.fc22.x86_64.rpm", 
+    "pkg": "gpsdrive", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gpsdrive-2.11-26.fc22.x86_64.rpm", 
+    "pkg": "gpsdrive", 
+    "pkg_version": "2.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gpsdrive-2.11-24.fc21.x86_64.rpm", 
+    "pkg": "gpsdrive", 
+    "pkg_version": "2.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gpsdrive-2.11-20.fc20.x86_64.rpm", 
+    "pkg": "gpsdrive", 
+    "pkg_version": "2.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "gpsdrive-2.11-7-rosa2014.1.x86_64.rpm", 
+    "pkg": "gpsdrive", 
+    "pkg_version": "2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "gpsdrive-2.11-4-rosa2012.1.x86_64.rpm", 
+    "pkg": "gpsdrive", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gpsdrive_2.10~pre4-6.dfsg-5.2ubuntu1_i386.deb", 
+    "pkg": "gpsdrive", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gpsdrive_2.10~pre4-6.dfsg-5.2ubuntu1_i386.deb", 
+    "pkg": "gpsdrive", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

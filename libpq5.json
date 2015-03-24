@@ -1,0 +1,244 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libpq5.7-9.4.1-alt1.x86_64.rpm", 
+    "pkg": "libpq", 
+    "pkg_version": "5.7", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libpq5.7-9.4.1-alt1.x86_64.rpm", 
+    "pkg": "libpq", 
+    "pkg_version": "5.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpq5_9.4.1-1_i386.deb", 
+    "pkg": "libpq5", 
+    "pkg_version": "9.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libpq5.7-9.4.1-alt1.x86_64.rpm", 
+    "pkg": "libpq", 
+    "pkg_version": "5.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpq5_9.4.1-1_i386.deb", 
+    "pkg": "libpq5", 
+    "pkg_version": "9.4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libpq5.7-9.4.1-alt1.x86_64.rpm", 
+    "pkg": "libpq", 
+    "pkg_version": "5.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "libpq5_9.1.15-0+deb7u1_i386.deb", 
+    "pkg": "libpq5", 
+    "pkg_version": "9.1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libpq5.7-9.4.1-alt1.x86_64.rpm", 
+    "pkg": "libpq", 
+    "pkg_version": "5.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libpq5-9.4.0-1-omv2015.0.i586.rpm", 
+    "pkg": "libpq5", 
+    "pkg_version": "9.4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libpq5.7-9.4.1-alt1.x86_64.rpm", 
+    "pkg": "libpq", 
+    "pkg_version": "5.7", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "libpq5-9.3.5-1-omv2014.0.i586.rpm", 
+    "pkg": "libpq5", 
+    "pkg_version": "9.3.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libpq5.7-9.4.1-alt1.x86_64.rpm", 
+    "pkg": "libpq", 
+    "pkg_version": "5.7", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libpq5-9.2.3-7-omv2013.0.i586.rpm", 
+    "pkg": "libpq5", 
+    "pkg_version": "9.2.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libpq5.7-9.4.1-alt1.x86_64.rpm", 
+    "pkg": "libpq", 
+    "pkg_version": "5.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libpq5-9.3.5-3.2.x86_64.rpm", 
+    "pkg": "libpq5", 
+    "pkg_version": "9.3.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libpq5.7-9.4.1-alt1.x86_64.rpm", 
+    "pkg": "libpq", 
+    "pkg_version": "5.7", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "libpq5-9.3.6-2.4.1.x86_64.rpm", 
+    "pkg": "libpq5", 
+    "pkg_version": "9.3.6", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libpq5.7-9.4.1-alt1.x86_64.rpm", 
+    "pkg": "libpq", 
+    "pkg_version": "5.7", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "libpq5-9.2.7-4.4.1.x86_64.rpm", 
+    "pkg": "libpq5", 
+    "pkg_version": "9.2.7", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libpq5.7-9.4.1-alt1.x86_64.rpm", 
+    "pkg": "libpq", 
+    "pkg_version": "5.7", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libpq5-9.3.3-12-rosa2014.1.i586.rpm", 
+    "pkg": "libpq5", 
+    "pkg_version": "9.3.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libpq5.7-9.4.1-alt1.x86_64.rpm", 
+    "pkg": "libpq", 
+    "pkg_version": "5.7", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "libpq5-9.3.3-11-rosa2012.1.i586.rpm", 
+    "pkg": "libpq5", 
+    "pkg_version": "9.3.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libpq5.7-9.4.1-alt1.x86_64.rpm", 
+    "pkg": "libpq", 
+    "pkg_version": "5.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "libpq5_9.4.1-0ubuntu0.14.10_i386.deb", 
+    "pkg": "libpq5", 
+    "pkg_version": "9.4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libpq5.7-9.4.1-alt1.x86_64.rpm", 
+    "pkg": "libpq", 
+    "pkg_version": "5.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "libpq5_9.3.6-0ubuntu0.14.04_i386.deb", 
+    "pkg": "libpq5", 
+    "pkg_version": "9.3.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

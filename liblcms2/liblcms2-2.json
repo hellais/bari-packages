@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liblcms2-2_2.6-3+b3_i386.deb", 
+    "pkg": "liblcms2-2", 
+    "pkg_version": "2.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liblcms2-2_2.6-3+b3_i386.deb", 
+    "pkg": "liblcms2-2", 
+    "pkg_version": "2.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liblcms2-2_2.2+git20110628-2.2+deb7u1_i386.deb", 
+    "pkg": "liblcms2-2", 
+    "pkg_version": "2.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "liblcms2-2-2.6-3.2.x86_64.rpm", 
+    "pkg": "liblcms2-2", 
+    "pkg_version": "2.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "liblcms2-2-2.6-2.1.2.x86_64.rpm", 
+    "pkg": "liblcms2-2", 
+    "pkg_version": "2.6", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "liblcms2-2-2.5-2.1.2.i586.rpm", 
+    "pkg": "liblcms2-2", 
+    "pkg_version": "2.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "liblcms2-2_2.6-3ubuntu1_i386.deb", 
+    "pkg": "liblcms2-2", 
+    "pkg_version": "2.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "liblcms2-2_2.5-0ubuntu4_i386.deb", 
+    "pkg": "liblcms2-2", 
+    "pkg_version": "2.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

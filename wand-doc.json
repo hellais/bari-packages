@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "wand-doc_0.3.9-1_all.deb", 
+    "pkg": "wand-doc", 
+    "pkg_version": "0.3.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "wand-doc_0.3.8-2_all.deb", 
+    "pkg": "wand-doc", 
+    "pkg_version": "0.3.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "wand-doc_0.3.8-1~bpo70+1_all.deb", 
+    "pkg": "wand-doc", 
+    "pkg_version": "0.3.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "wand-doc_0.3.8-1_all.deb", 
+    "pkg": "wand-doc", 
+    "pkg_version": "0.3.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcfitsio3-dev_3.370-2_all.deb", 
+    "pkg": "libcfitsio3-dev", 
+    "pkg_version": "3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcfitsio3-dev_3.370-2_all.deb", 
+    "pkg": "libcfitsio3-dev", 
+    "pkg_version": "3.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcfitsio3-dev_3.300-2_i386.deb", 
+    "pkg": "libcfitsio3-dev", 
+    "pkg_version": "3.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libcfitsio3-dev_3.340-3_i386.deb", 
+    "pkg": "libcfitsio3-dev", 
+    "pkg_version": "3.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libcfitsio3-dev_3.340-2ubuntu2_i386.deb", 
+    "pkg": "libcfitsio3-dev", 
+    "pkg_version": "3.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

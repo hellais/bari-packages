@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libopenobex1_1.5-2.1_i386.deb", 
+    "pkg": "libopenobex1", 
+    "pkg_version": "1.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libopenobex1_1.5-2.1_i386.deb", 
+    "pkg": "libopenobex1", 
+    "pkg_version": "1.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libopenobex1_1.5-2+deb7u1_i386.deb", 
+    "pkg": "libopenobex1", 
+    "pkg_version": "1.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libopenobex1-1.5-20.1.2.i586.rpm", 
+    "pkg": "libopenobex1", 
+    "pkg_version": "1.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libopenobex1-1.5-8-rosa2012.1.i586.rpm", 
+    "pkg": "libopenobex1", 
+    "pkg_version": "1.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libopenobex1_1.5-2.1_i386.deb", 
+    "pkg": "libopenobex1", 
+    "pkg_version": "1.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libopenobex1_1.5-2.1_i386.deb", 
+    "pkg": "libopenobex1", 
+    "pkg_version": "1.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

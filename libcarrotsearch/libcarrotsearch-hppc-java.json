@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcarrotsearch-hppc-java_0.6.1-1_all.deb", 
+    "pkg": "libcarrotsearch-hppc-java", 
+    "pkg_version": "0.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

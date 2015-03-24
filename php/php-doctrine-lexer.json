@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-doctrine-lexer-1.0-5.20140909git83893c5.el7.remi.noarch.rpm", 
+    "pkg": "php-doctrine-lexer", 
+    "pkg_version": "1.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-doctrine-lexer-1.0-5.20140909git83893c5.el6.remi.noarch.rpm", 
+    "pkg": "php-doctrine-lexer", 
+    "pkg_version": "1.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-doctrine-lexer-1.0-5.20140909git83893c5.el5.remi.noarch.rpm", 
+    "pkg": "php-doctrine-lexer", 
+    "pkg_version": "1.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php-doctrine-lexer_1.0-1_all.deb", 
+    "pkg": "php-doctrine-lexer", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php-doctrine-lexer_1.0-1_all.deb", 
+    "pkg": "php-doctrine-lexer", 
+    "pkg_version": "1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "php-doctrine-lexer_1.0-1~bpo70+1_all.deb", 
+    "pkg": "php-doctrine-lexer", 
+    "pkg_version": "1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "php-doctrine-lexer-1.0.1-1.fc22.noarch.rpm", 
+    "pkg": "php-doctrine-lexer", 
+    "pkg_version": "1.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "php-doctrine-lexer-1.0.1-1.fc22.noarch.rpm", 
+    "pkg": "php-doctrine-lexer", 
+    "pkg_version": "1.0.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-doctrine-lexer-1.0-5.20140909git83893c5.fc21.remi.noarch.rpm", 
+    "pkg": "php-doctrine-lexer", 
+    "pkg_version": "1.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-doctrine-lexer-1.0-5.20140909git83893c5.fc20.remi.noarch.rpm", 
+    "pkg": "php-doctrine-lexer", 
+    "pkg_version": "1.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

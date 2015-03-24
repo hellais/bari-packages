@@ -1,0 +1,225 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "dcraw-9.23.0-alt1.x86_64.rpm", 
+    "pkg": "dcraw", 
+    "pkg_version": "9.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "dcraw-9.23.0-1-x86_64.pkg.tar.xz", 
+    "pkg": "dcraw", 
+    "pkg_version": "9.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "dcraw-9.19-6.el7.x86_64.rpm", 
+    "pkg": "dcraw", 
+    "pkg_version": "9.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "dcraw-8.96-1.1.el6.x86_64.rpm", 
+    "pkg": "dcraw", 
+    "pkg_version": "8.9", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "dcraw-0.0.20060521-1.1.x86_64.rpm", 
+    "pkg": "dcraw", 
+    "pkg_version": "0.0.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dcraw_9.21-0.2+b2_i386.deb", 
+    "pkg": "dcraw", 
+    "pkg_version": "9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dcraw_9.21-0.2+b2_i386.deb", 
+    "pkg": "dcraw", 
+    "pkg_version": "9.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dcraw_8.99-1+b2_i386.deb", 
+    "pkg": "dcraw", 
+    "pkg_version": "8.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "dcraw-9.23.0-1.fc23.x86_64.rpm", 
+    "pkg": "dcraw", 
+    "pkg_version": "9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "dcraw-9.23.0-1.fc22.x86_64.rpm", 
+    "pkg": "dcraw", 
+    "pkg_version": "9.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "dcraw-9.23.0-1.fc21.x86_64.rpm", 
+    "pkg": "dcraw", 
+    "pkg_version": "9.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "dcraw-9.23.0-1.fc20.x86_64.rpm", 
+    "pkg": "dcraw", 
+    "pkg_version": "9.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "dcraw-9.22-4-omv2015.0.x86_64.rpm", 
+    "pkg": "dcraw", 
+    "pkg_version": "9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "dcraw-9.16-3-omv2014.0.x86_64.rpm", 
+    "pkg": "dcraw", 
+    "pkg_version": "9.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "dcraw-9.16-2-omv2013.0.x86_64.rpm", 
+    "pkg": "dcraw", 
+    "pkg_version": "9.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "dcraw-9.24.2-1.1.x86_64.rpm", 
+    "pkg": "dcraw", 
+    "pkg_version": "9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "dcraw-9.22-2.1.2.x86_64.rpm", 
+    "pkg": "dcraw", 
+    "pkg_version": "9.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "dcraw-9.19-2.1.2.i586.rpm", 
+    "pkg": "dcraw", 
+    "pkg_version": "9.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "dcraw-9.22-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "dcraw", 
+    "pkg_version": "9.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "dcraw-9.16-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "dcraw", 
+    "pkg_version": "9.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackers", 
+    "pkg_full_name": "dcraw-9.23.0-x86_64-1cf.txz", 
+    "pkg": "dcraw", 
+    "pkg_version": "9.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "dcraw-9.17-x86_64-1sl.txz", 
+    "pkg": "dcraw", 
+    "pkg_version": "9.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "dcraw-9.08-x86_64-1sl.txz", 
+    "pkg": "dcraw", 
+    "pkg_version": "9.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "dcraw_9.21-0.2_i386.deb", 
+    "pkg": "dcraw", 
+    "pkg_version": "9.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "dcraw_9.19-1.1ubuntu1_i386.deb", 
+    "pkg": "dcraw", 
+    "pkg_version": "9.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "phonon4qt5-backend-gstreamer_4.8.0-3_i386.deb", 
+    "pkg": "phonon4qt5-backend-gstreamer", 
+    "pkg_version": "4.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "phonon4qt5-backend-gstreamer_4.8.0-3_i386.deb", 
+    "pkg": "phonon4qt5-backend-gstreamer", 
+    "pkg_version": "4.8.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "phonon4qt5-gstreamer-4.8.2-1.mga5.x86_64.rpm", 
+    "pkg": "phonon4qt5-gstreamer", 
+    "pkg_version": "4.8.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "phonon4qt5-backend-gstreamer-4.8.2-1.2.x86_64.rpm", 
+    "pkg": "phonon4qt5-backend-gstreamer", 
+    "pkg_version": "4.8.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "phonon4qt5-gstreamer-4.8.2-1.mga5.x86_64.rpm", 
+    "pkg": "phonon4qt5-gstreamer", 
+    "pkg_version": "4.8.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "phonon4qt5-backend-gstreamer-4.8.2-2.8.2.x86_64.rpm", 
+    "pkg": "phonon4qt5-backend-gstreamer", 
+    "pkg_version": "4.8.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "phonon4qt5-gstreamer-4.8.2-1.mga5.x86_64.rpm", 
+    "pkg": "phonon4qt5-gstreamer", 
+    "pkg_version": "4.8.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "phonon4qt5-backend-gstreamer_4.7.80-0ubuntu1_i386.deb", 
+    "pkg": "phonon4qt5-backend-gstreamer", 
+    "pkg_version": "4.7.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

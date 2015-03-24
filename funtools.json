@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "funtools_1.4.4+dfsg2-1_i386.deb", 
+    "pkg": "funtools", 
+    "pkg_version": "1.4.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "funtools_1.4.4+dfsg2-1_i386.deb", 
+    "pkg": "funtools", 
+    "pkg_version": "1.4.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "funtools_1.4.4-3_i386.deb", 
+    "pkg": "funtools", 
+    "pkg_version": "1.4.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "funtools-1.4.4-11.1.x86_64.rpm", 
+    "pkg": "funtools", 
+    "pkg_version": "1.4.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "funtools_1.4.4+dfsg-1_i386.deb", 
+    "pkg": "funtools", 
+    "pkg_version": "1.4.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

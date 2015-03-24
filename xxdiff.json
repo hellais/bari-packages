@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "xxdiff-3.2-14.puias6.x86_64.rpm", 
+    "pkg": "xxdiff", 
+    "pkg_version": "3.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "xxdiff-3.2-14.el5.x86_64.rpm", 
+    "pkg": "xxdiff", 
+    "pkg_version": "3.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xxdiff_4.0+hg437+dfsg-2_i386.deb", 
+    "pkg": "xxdiff", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xxdiff_4.0+hg437+dfsg-2_i386.deb", 
+    "pkg": "xxdiff", 
+    "pkg_version": "4.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xxdiff-3.2-23.fc22.x86_64.rpm", 
+    "pkg": "xxdiff", 
+    "pkg_version": "3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xxdiff-3.2-23.fc22.x86_64.rpm", 
+    "pkg": "xxdiff", 
+    "pkg_version": "3.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xxdiff-3.2-23.fc21.x86_64.rpm", 
+    "pkg": "xxdiff", 
+    "pkg_version": "3.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xxdiff-3.2-20.fc20.x86_64.rpm", 
+    "pkg": "xxdiff", 
+    "pkg_version": "3.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

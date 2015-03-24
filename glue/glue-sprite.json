@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "glue-sprite_0.9.4-1_all.deb", 
+    "pkg": "glue-sprite", 
+    "pkg_version": "0.9.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "glue-sprite_0.9.4-1_all.deb", 
+    "pkg": "glue-sprite", 
+    "pkg_version": "0.9.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "glue-sprite_0.2.5-3_all.deb", 
+    "pkg": "glue-sprite", 
+    "pkg_version": "0.2.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "glue-sprite_0.9.4-1_all.deb", 
+    "pkg": "glue-sprite", 
+    "pkg_version": "0.9.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

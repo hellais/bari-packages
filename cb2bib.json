@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cb2bib_1.4.9-4_i386.deb", 
+    "pkg": "cb2bib", 
+    "pkg_version": "1.4.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cb2bib_1.4.9-4_i386.deb", 
+    "pkg": "cb2bib", 
+    "pkg_version": "1.4.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cb2bib_1.4.8-1_i386.deb", 
+    "pkg": "cb2bib", 
+    "pkg_version": "1.4.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "cb2bib-1.4.9-i486-1sl.txz", 
+    "pkg": "cb2bib", 
+    "pkg_version": "1.4.9", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "cb2bib-1.4.8-i486-1sl.txz", 
+    "pkg": "cb2bib", 
+    "pkg_version": "1.4.8", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "cb2bib_1.4.9-3_i386.deb", 
+    "pkg": "cb2bib", 
+    "pkg_version": "1.4.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "cb2bib_1.4.9-1ubuntu1_i386.deb", 
+    "pkg": "cb2bib", 
+    "pkg_version": "1.4.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

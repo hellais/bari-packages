@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "printer-driver-postscript-hp_3.14.6-1_all.deb", 
+    "pkg": "printer-driver-postscript-hp", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "printer-driver-postscript-hp_3.14.6-1_all.deb", 
+    "pkg": "printer-driver-postscript-hp", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "printer-driver-postscript-hp_3.12.6-3.1+deb7u1_all.deb", 
+    "pkg": "printer-driver-postscript-hp", 
+    "pkg_version": "3.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "printer-driver-postscript-hp_3.14.6-1ubuntu1_all.deb", 
+    "pkg": "printer-driver-postscript-hp", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "printer-driver-postscript-hp_3.14.3-0ubuntu3.2_all.deb", 
+    "pkg": "printer-driver-postscript-hp", 
+    "pkg_version": "3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

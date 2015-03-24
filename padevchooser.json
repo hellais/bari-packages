@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "padevchooser-0.9.4-0.11.svn20070925.el6.x86_64.rpm", 
+    "pkg": "padevchooser", 
+    "pkg_version": "0.9.4", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "padevchooser-0.9.4-0.4.svn20070925.el5.1.x86_64.rpm", 
+    "pkg": "padevchooser", 
+    "pkg_version": "0.9.4", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "padevchooser_0.9.4-1.1_i386.deb", 
+    "pkg": "padevchooser", 
+    "pkg_version": "0.9.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "padevchooser_0.9.4-1.1_i386.deb", 
+    "pkg": "padevchooser", 
+    "pkg_version": "0.9.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "padevchooser-0.9.3-i486-5sl.txz", 
+    "pkg": "padevchooser", 
+    "pkg_version": "0.9.3", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "padevchooser_0.9.4-1.1_i386.deb", 
+    "pkg": "padevchooser", 
+    "pkg_version": "0.9.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

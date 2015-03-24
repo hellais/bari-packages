@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libgpac-dev_0.5.2-dmo2_i386.deb", 
+    "pkg": "libgpac-dev", 
+    "pkg_version": "0.5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libgpac-dev_0.5.2-dmo2_i386.deb", 
+    "pkg": "libgpac-dev", 
+    "pkg_version": "0.5.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libgpac-dev_0.5.0-dmo3_i386.deb", 
+    "pkg": "libgpac-dev", 
+    "pkg_version": "0.5.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libgpac-dev_0.5.0+svn5194~dfsg1-3ubuntu3_i386.deb", 
+    "pkg": "libgpac-dev", 
+    "pkg_version": "0.5.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libgpac-dev_0.5.0+svn4288~dfsg1-4ubuntu1_i386.deb", 
+    "pkg": "libgpac-dev", 
+    "pkg_version": "0.5.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-yesod-core-dev_1.2.19-1+b4_i386.deb", 
+    "pkg": "libghc-yesod-core-dev", 
+    "pkg_version": "1.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-yesod-core-dev_1.2.19-1+b4_i386.deb", 
+    "pkg": "libghc-yesod-core-dev", 
+    "pkg_version": "1.2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-yesod-core-dev_1.0.1.2-1+b4_amd64.deb", 
+    "pkg": "libghc-yesod-core-dev", 
+    "pkg_version": "1.0.1.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-yesod-core-dev_1.2.19-1build1_i386.deb", 
+    "pkg": "libghc-yesod-core-dev", 
+    "pkg_version": "1.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-yesod-core-dev_1.2.3-1build7_i386.deb", 
+    "pkg": "libghc-yesod-core-dev", 
+    "pkg_version": "1.2.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

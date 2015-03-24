@@ -1,0 +1,218 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-devel_3.14+3_i386.deb", 
+    "pkg": "gnome-devel", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-devel_3.14+3_i386.deb", 
+    "pkg": "gnome-devel", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-devel_3.4+7+deb7u1_all.deb", 
+    "pkg": "gnome-devel", 
+    "pkg_version": "3.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "libgnome32-devel-1.4.2-28-omv2013.0.i586.rpm", 
+    "pkg": "libgnome32-devel", 
+    "pkg_version": "1.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "lib64gnome32-devel-1.4.2-28-omv2013.0.x86_64.rpm", 
+    "pkg": "lib64gnome32-devel", 
+    "pkg_version": "1.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-devel_3.4+7+deb7u1_all.deb", 
+    "pkg": "gnome-devel", 
+    "pkg_version": "3.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "libgnome32-devel-1.4.2-28-omv2013.0.i586.rpm", 
+    "pkg": "libgnome32-devel", 
+    "pkg_version": "1.4.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "lib64gnome32-devel-1.4.2-28-omv2013.0.x86_64.rpm", 
+    "pkg": "lib64gnome32-devel", 
+    "pkg_version": "1.4.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-devel_3.4+7+deb7u1_all.deb", 
+    "pkg": "gnome-devel", 
+    "pkg_version": "3.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "libgnome32-devel-1.4.2-28-omv2013.0.i586.rpm", 
+    "pkg": "libgnome32-devel", 
+    "pkg_version": "1.4.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "lib64gnome32-devel-1.4.2-28-omv2013.0.x86_64.rpm", 
+    "pkg": "lib64gnome32-devel", 
+    "pkg_version": "1.4.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-devel_3.4+7+deb7u1_all.deb", 
+    "pkg": "gnome-devel", 
+    "pkg_version": "3.4", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libgnome32-devel-1.4.2-29-rosa2014.1.i586.rpm", 
+    "pkg": "libgnome32-devel", 
+    "pkg_version": "1.4.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "lib64gnome32-devel-1.4.2-29-rosa2014.1.x86_64.rpm", 
+    "pkg": "lib64gnome32-devel", 
+    "pkg_version": "1.4.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-devel_3.4+7+deb7u1_all.deb", 
+    "pkg": "gnome-devel", 
+    "pkg_version": "3.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libgnome32-devel-1.4.2-27-rosa2012.1.i586.rpm", 
+    "pkg": "libgnome32-devel", 
+    "pkg_version": "1.4.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "lib64gnome32-devel-1.4.2-27-rosa2012.1.x86_64.rpm", 
+    "pkg": "lib64gnome32-devel", 
+    "pkg_version": "1.4.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-devel_3.4+7+deb7u1_all.deb", 
+    "pkg": "gnome-devel", 
+    "pkg_version": "3.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libgnome32-devel-1.4.2-26-rosa.lts2012.0.i586.rpm", 
+    "pkg": "libgnome32-devel", 
+    "pkg_version": "1.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "lib64gnome32-devel-1.4.2-26-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "lib64gnome32-devel", 
+    "pkg_version": "1.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnome-devel_3.8+4ubuntu5_all.deb", 
+    "pkg": "gnome-devel", 
+    "pkg_version": "3.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libgnome32-devel-1.4.2-26-rosa.lts2012.0.i586.rpm", 
+    "pkg": "libgnome32-devel", 
+    "pkg_version": "1.4.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "lib64gnome32-devel-1.4.2-26-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "lib64gnome32-devel", 
+    "pkg_version": "1.4.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnome-devel_3.8+4ubuntu3_all.deb", 
+    "pkg": "gnome-devel", 
+    "pkg_version": "3.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

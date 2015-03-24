@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "monitoring-plugins-common_2.1.1-1_i386.deb", 
+    "pkg": "monitoring-plugins-common", 
+    "pkg_version": "2.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "monitoring-plugins-common_2.1.1-1_i386.deb", 
+    "pkg": "monitoring-plugins-common", 
+    "pkg_version": "2.1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "monitoring-plugins-common_2.1.1-1~bpo70+1_i386.deb", 
+    "pkg": "monitoring-plugins-common", 
+    "pkg_version": "2.1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

@@ -1,0 +1,568 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "qt4-doc-4.8.6-alt4.noarch.rpm", 
+    "pkg": "qt4-doc", 
+    "pkg_version": "4.8.6", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "qt4-doc-4.8.6-alt4.noarch.rpm", 
+    "pkg": "qt4-doc", 
+    "pkg_version": "4.8.6", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "qt-doc-4.8.5-8.el7.noarch.rpm", 
+    "pkg": "qt-doc", 
+    "pkg_version": "4.8.5", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "qt4-doc-4.8.6-alt4.noarch.rpm", 
+    "pkg": "qt4-doc", 
+    "pkg_version": "4.8.6", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "qt-doc-4.6.2-28.el6_5.noarch.rpm", 
+    "pkg": "qt-doc", 
+    "pkg_version": "4.6.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "qt47-doc-4.7.2-1_18.el6.noarch.rpm", 
+    "pkg": "qt47-doc", 
+    "pkg_version": "4.7.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Russian Fedora Free Updates", 
+    "pkg_full_name": "qt48-doc-4.8.0-10.2.el6.R.noarch.rpm", 
+    "pkg": "qt48-doc", 
+    "pkg_version": "4.8.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EL GIS Plus", 
+    "pkg_full_name": "qt4-doc-4.5.2-2.el5.elgis.x86_64.rpm", 
+    "pkg": "qt4-doc", 
+    "pkg_version": "4.5.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "qt-doc-4.6.2-28.el6_5.noarch.rpm", 
+    "pkg": "qt-doc", 
+    "pkg_version": "4.6.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "qt47-doc-4.7.2-1_18.el6.noarch.rpm", 
+    "pkg": "qt47-doc", 
+    "pkg_version": "4.7.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Russian Fedora Free Updates", 
+    "pkg_full_name": "qt48-doc-4.8.0-10.2.el6.R.noarch.rpm", 
+    "pkg": "qt48-doc", 
+    "pkg_version": "4.8.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qt4-doc_4.8.6+git64-g5dc8b2b+dfsg-3_all.deb", 
+    "pkg": "qt4-doc", 
+    "pkg_version": "4.8.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "qt-doc-4.6.2-28.el6_5.noarch.rpm", 
+    "pkg": "qt-doc", 
+    "pkg_version": "4.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "qt47-doc-4.7.2-1_18.el6.noarch.rpm", 
+    "pkg": "qt47-doc", 
+    "pkg_version": "4.7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Russian Fedora Free Updates", 
+    "pkg_full_name": "qt48-doc-4.8.0-10.2.el6.R.noarch.rpm", 
+    "pkg": "qt48-doc", 
+    "pkg_version": "4.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qt4-doc_4.8.6+git64-g5dc8b2b+dfsg-3_all.deb", 
+    "pkg": "qt4-doc", 
+    "pkg_version": "4.8.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "qt-doc-4.6.2-28.el6_5.noarch.rpm", 
+    "pkg": "qt-doc", 
+    "pkg_version": "4.6.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "qt47-doc-4.7.2-1_18.el6.noarch.rpm", 
+    "pkg": "qt47-doc", 
+    "pkg_version": "4.7.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Russian Fedora Free Updates", 
+    "pkg_full_name": "qt48-doc-4.8.0-10.2.el6.R.noarch.rpm", 
+    "pkg": "qt48-doc", 
+    "pkg_version": "4.8.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qt4-doc_4.8.2+dfsg-11_all.deb", 
+    "pkg": "qt4-doc", 
+    "pkg_version": "4.8.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "qt-doc-4.6.2-28.el6_5.noarch.rpm", 
+    "pkg": "qt-doc", 
+    "pkg_version": "4.6.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "qt47-doc-4.7.2-1_18.el6.noarch.rpm", 
+    "pkg": "qt47-doc", 
+    "pkg_version": "4.7.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Russian Fedora Free Updates", 
+    "pkg_full_name": "qt48-doc-4.8.0-10.2.el6.R.noarch.rpm", 
+    "pkg": "qt48-doc", 
+    "pkg_version": "4.8.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qt4-doc_4.8.2+dfsg-11_all.deb", 
+    "pkg": "qt4-doc", 
+    "pkg_version": "4.8.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "qt-doc-4.8.6-26.fc23.noarch.rpm", 
+    "pkg": "qt-doc", 
+    "pkg_version": "4.8.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "qt47-doc-4.7.2-1_18.el6.noarch.rpm", 
+    "pkg": "qt47-doc", 
+    "pkg_version": "4.7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Russian Fedora Free Updates", 
+    "pkg_full_name": "qt48-doc-4.8.0-10.2.el6.R.noarch.rpm", 
+    "pkg": "qt48-doc", 
+    "pkg_version": "4.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qt4-doc_4.8.2+dfsg-11_all.deb", 
+    "pkg": "qt4-doc", 
+    "pkg_version": "4.8.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "qt-doc-4.8.6-24.fc22.noarch.rpm", 
+    "pkg": "qt-doc", 
+    "pkg_version": "4.8.6", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "qt47-doc-4.7.2-1_18.el6.noarch.rpm", 
+    "pkg": "qt47-doc", 
+    "pkg_version": "4.7.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Russian Fedora Free Updates", 
+    "pkg_full_name": "qt48-doc-4.8.0-10.2.el6.R.noarch.rpm", 
+    "pkg": "qt48-doc", 
+    "pkg_version": "4.8.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qt4-doc_4.8.2+dfsg-11_all.deb", 
+    "pkg": "qt4-doc", 
+    "pkg_version": "4.8.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "qt-doc-4.8.6-25.fc21.noarch.rpm", 
+    "pkg": "qt-doc", 
+    "pkg_version": "4.8.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "qt47-doc-4.7.2-1_18.el6.noarch.rpm", 
+    "pkg": "qt47-doc", 
+    "pkg_version": "4.7.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Russian Fedora Free Updates", 
+    "pkg_full_name": "qt48-doc-4.8.0-10.2.el6.R.noarch.rpm", 
+    "pkg": "qt48-doc", 
+    "pkg_version": "4.8.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qt4-doc_4.8.2+dfsg-11_all.deb", 
+    "pkg": "qt4-doc", 
+    "pkg_version": "4.8.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "qt-doc-4.8.6-25.fc20.noarch.rpm", 
+    "pkg": "qt-doc", 
+    "pkg_version": "4.8.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "qt47-doc-4.7.2-1_18.el6.noarch.rpm", 
+    "pkg": "qt47-doc", 
+    "pkg_version": "4.7.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Russian Fedora Free Updates", 
+    "pkg_full_name": "qt48-doc-4.8.0-10.2.el6.R.noarch.rpm", 
+    "pkg": "qt48-doc", 
+    "pkg_version": "4.8.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "qt4-doc-4.8.6-1.2-omv2014.0.noarch.rpm", 
+    "pkg": "qt4-doc", 
+    "pkg_version": "4.8.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "qt-doc-4.8.6-25.fc20.noarch.rpm", 
+    "pkg": "qt-doc", 
+    "pkg_version": "4.8.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "qt47-doc-4.7.2-1_18.el6.noarch.rpm", 
+    "pkg": "qt47-doc", 
+    "pkg_version": "4.7.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Russian Fedora Free Updates", 
+    "pkg_full_name": "qt48-doc-4.8.0-10.2.el6.R.noarch.rpm", 
+    "pkg": "qt48-doc", 
+    "pkg_version": "4.8.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "qt4-doc-4.8.5-6.4-omv2013.0.noarch.rpm", 
+    "pkg": "qt4-doc", 
+    "pkg_version": "4.8.5", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "qt-doc-4.8.6-25.fc20.noarch.rpm", 
+    "pkg": "qt-doc", 
+    "pkg_version": "4.8.6", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "qt47-doc-4.7.2-1_18.el6.noarch.rpm", 
+    "pkg": "qt47-doc", 
+    "pkg_version": "4.7.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Russian Fedora Free Updates", 
+    "pkg_full_name": "qt48-doc-4.8.0-10.2.el6.R.noarch.rpm", 
+    "pkg": "qt48-doc", 
+    "pkg_version": "4.8.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "qt4-doc-4.8.6-6-rosa2014.1.noarch.rpm", 
+    "pkg": "qt4-doc", 
+    "pkg_version": "4.8.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "qt-doc-4.8.6-25.fc20.noarch.rpm", 
+    "pkg": "qt-doc", 
+    "pkg_version": "4.8.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "qt47-doc-4.7.2-1_18.el6.noarch.rpm", 
+    "pkg": "qt47-doc", 
+    "pkg_version": "4.7.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Russian Fedora Free Updates", 
+    "pkg_full_name": "qt48-doc-4.8.0-10.2.el6.R.noarch.rpm", 
+    "pkg": "qt48-doc", 
+    "pkg_version": "4.8.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "qt4-doc-4.8.6-1-rosa2012.1.noarch.rpm", 
+    "pkg": "qt4-doc", 
+    "pkg_version": "4.8.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "qt-doc-4.8.6-25.fc20.noarch.rpm", 
+    "pkg": "qt-doc", 
+    "pkg_version": "4.8.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "qt47-doc-4.7.2-1_18.el6.noarch.rpm", 
+    "pkg": "qt47-doc", 
+    "pkg_version": "4.7.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Russian Fedora Free Updates", 
+    "pkg_full_name": "qt48-doc-4.8.0-10.2.el6.R.noarch.rpm", 
+    "pkg": "qt48-doc", 
+    "pkg_version": "4.8.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "qt4-doc_4.8.6+git49-gbc62005+dfsg-1ubuntu1_all.deb", 
+    "pkg": "qt4-doc", 
+    "pkg_version": "4.8.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "qt-doc-4.8.6-25.fc20.noarch.rpm", 
+    "pkg": "qt-doc", 
+    "pkg_version": "4.8.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "qt47-doc-4.7.2-1_18.el6.noarch.rpm", 
+    "pkg": "qt47-doc", 
+    "pkg_version": "4.7.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Russian Fedora Free Updates", 
+    "pkg_full_name": "qt48-doc-4.8.0-10.2.el6.R.noarch.rpm", 
+    "pkg": "qt48-doc", 
+    "pkg_version": "4.8.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "qt4-doc_4.8.5+git192-g085f851+dfsg-2ubuntu4_all.deb", 
+    "pkg": "qt4-doc", 
+    "pkg_version": "4.8.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "qt-doc-4.8.6-25.fc20.noarch.rpm", 
+    "pkg": "qt-doc", 
+    "pkg_version": "4.8.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "qt47-doc-4.7.2-1_18.el6.noarch.rpm", 
+    "pkg": "qt47-doc", 
+    "pkg_version": "4.7.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Russian Fedora Free Updates", 
+    "pkg_full_name": "qt48-doc-4.8.0-10.2.el6.R.noarch.rpm", 
+    "pkg": "qt48-doc", 
+    "pkg_version": "4.8.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

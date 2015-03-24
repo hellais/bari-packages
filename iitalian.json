@@ -1,0 +1,119 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "iitalian_2.3-3_i386.deb", 
+    "pkg": "iitalian", 
+    "pkg_version": "2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "iitalian_2.3-3_i386.deb", 
+    "pkg": "iitalian", 
+    "pkg_version": "2.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "iitalian_2.3-3_i386.deb", 
+    "pkg": "iitalian", 
+    "pkg_version": "2.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "iitalian_2.3-3_i386.deb", 
+    "pkg": "iitalian", 
+    "pkg_version": "2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ispell-italian-1.5-418.1.x86_64.rpm", 
+    "pkg": "ispell-italian", 
+    "pkg_version": "1.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "iitalian_2.3-3_i386.deb", 
+    "pkg": "iitalian", 
+    "pkg_version": "2.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ispell-italian-1.5-417.1.2.x86_64.rpm", 
+    "pkg": "ispell-italian", 
+    "pkg_version": "1.5", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "iitalian_2.3-3_i386.deb", 
+    "pkg": "iitalian", 
+    "pkg_version": "2.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ispell-italian-1.5-414.1.2.i586.rpm", 
+    "pkg": "ispell-italian", 
+    "pkg_version": "1.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "iitalian_2.3-3_i386.deb", 
+    "pkg": "iitalian", 
+    "pkg_version": "2.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ispell-italian-1.5-414.1.2.i586.rpm", 
+    "pkg": "ispell-italian", 
+    "pkg_version": "1.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "iitalian_2.3-3_i386.deb", 
+    "pkg": "iitalian", 
+    "pkg_version": "2.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ispell-italian-1.5-414.1.2.i586.rpm", 
+    "pkg": "ispell-italian", 
+    "pkg_version": "1.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

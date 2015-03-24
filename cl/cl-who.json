@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cl-who_1.1.4-1_all.deb", 
+    "pkg": "cl-who", 
+    "pkg_version": "1.1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

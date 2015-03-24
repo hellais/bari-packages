@@ -1,0 +1,99 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "datefudge-1.12-alt2.i586.rpm", 
+    "pkg": "datefudge", 
+    "pkg_version": "1.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "datefudge-1.20-1-x86_64.pkg.tar.xz", 
+    "pkg": "datefudge", 
+    "pkg_version": "1.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "datefudge_1.20_i386.deb", 
+    "pkg": "datefudge", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "datefudge_1.20_i386.deb", 
+    "pkg": "datefudge", 
+    "pkg_version": "1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "datefudge_1.17_i386.deb", 
+    "pkg": "datefudge", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "datefudge-1.20-1.fc22.x86_64.rpm", 
+    "pkg": "datefudge", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "datefudge-1.20-1.fc22.x86_64.rpm", 
+    "pkg": "datefudge", 
+    "pkg_version": "1.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "datefudge-1.18-4.fc21.x86_64.rpm", 
+    "pkg": "datefudge", 
+    "pkg_version": "1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "datefudge-1.18-2.fc20.x86_64.rpm", 
+    "pkg": "datefudge", 
+    "pkg_version": "1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "datefudge_1.18ubuntu3_i386.deb", 
+    "pkg": "datefudge", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "datefudge_1.18ubuntu3_i386.deb", 
+    "pkg": "datefudge", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

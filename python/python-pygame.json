@@ -1,0 +1,379 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-pygame-1.9.1-alt5.x86_64.rpm", 
+    "pkg": "python-module-pygame", 
+    "pkg_version": "1.9.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "pygame-1.7.1-9.el5.x86_64.rpm", 
+    "pkg": "pygame", 
+    "pkg_version": "1.7.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-pygame-1.9.1-alt5.x86_64.rpm", 
+    "pkg": "python-module-pygame", 
+    "pkg_version": "1.9.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "pygame-1.7.1-9.el5.x86_64.rpm", 
+    "pkg": "pygame", 
+    "pkg_version": "1.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-pygame_1.9.1release+dfsg-10+b1_i386.deb", 
+    "pkg": "python-pygame", 
+    "pkg_version": "1.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-pygame-1.9.1-alt5.x86_64.rpm", 
+    "pkg": "python-module-pygame", 
+    "pkg_version": "1.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "pygame-1.7.1-9.el5.x86_64.rpm", 
+    "pkg": "pygame", 
+    "pkg_version": "1.7.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-pygame_1.9.1release+dfsg-10+b1_i386.deb", 
+    "pkg": "python-pygame", 
+    "pkg_version": "1.9.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-pygame-1.9.1-alt5.x86_64.rpm", 
+    "pkg": "python-module-pygame", 
+    "pkg_version": "1.9.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "pygame-1.7.1-9.el5.x86_64.rpm", 
+    "pkg": "pygame", 
+    "pkg_version": "1.7.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-pygame_1.9.1release+dfsg-8_i386.deb", 
+    "pkg": "python-pygame", 
+    "pkg_version": "1.9.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-pygame-1.9.1-alt5.x86_64.rpm", 
+    "pkg": "python-module-pygame", 
+    "pkg_version": "1.9.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "pygame-1.9.1-5-omv2013.0.x86_64.rpm", 
+    "pkg": "pygame", 
+    "pkg_version": "1.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "python-pygame-1.9.1-10.mga4.x86_64.rpm", 
+    "pkg": "python-pygame", 
+    "pkg_version": "1.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-pygame-1.9.1-alt5.x86_64.rpm", 
+    "pkg": "python-module-pygame", 
+    "pkg_version": "1.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "pygame-1.9.1-5-omv2013.0.x86_64.rpm", 
+    "pkg": "pygame", 
+    "pkg_version": "1.9.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "python-pygame-1.9.1-10.mga4.x86_64.rpm", 
+    "pkg": "python-pygame", 
+    "pkg_version": "1.9.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-pygame-1.9.1-alt5.x86_64.rpm", 
+    "pkg": "python-module-pygame", 
+    "pkg_version": "1.9.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "pygame-1.9.1-5-omv2013.0.x86_64.rpm", 
+    "pkg": "pygame", 
+    "pkg_version": "1.9.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "python-pygame-1.9.1-10.mga4.x86_64.rpm", 
+    "pkg": "python-pygame", 
+    "pkg_version": "1.9.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-pygame-1.9.1-alt5.x86_64.rpm", 
+    "pkg": "python-module-pygame", 
+    "pkg_version": "1.9.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "pygame-1.9.1-5-omv2013.0.x86_64.rpm", 
+    "pkg": "pygame", 
+    "pkg_version": "1.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-pygame-1.9.1-18.2.x86_64.rpm", 
+    "pkg": "python-pygame", 
+    "pkg_version": "1.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-pygame-1.9.1-alt5.x86_64.rpm", 
+    "pkg": "python-module-pygame", 
+    "pkg_version": "1.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "pygame-1.9.1-5-omv2013.0.x86_64.rpm", 
+    "pkg": "pygame", 
+    "pkg_version": "1.9.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-pygame-1.9.1-16.1.4.x86_64.rpm", 
+    "pkg": "python-pygame", 
+    "pkg_version": "1.9.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-pygame-1.9.1-alt5.x86_64.rpm", 
+    "pkg": "python-module-pygame", 
+    "pkg_version": "1.9.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "pygame-1.9.1-5-omv2013.0.x86_64.rpm", 
+    "pkg": "pygame", 
+    "pkg_version": "1.9.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-pygame-1.9.1-14.1.2.i586.rpm", 
+    "pkg": "python-pygame", 
+    "pkg_version": "1.9.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-pygame-1.9.1-alt5.x86_64.rpm", 
+    "pkg": "python-module-pygame", 
+    "pkg_version": "1.9.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "pygame-1.9.1-7-rosa2014.1.x86_64.rpm", 
+    "pkg": "pygame", 
+    "pkg_version": "1.9.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-pygame-1.9.1-14.1.2.i586.rpm", 
+    "pkg": "python-pygame", 
+    "pkg_version": "1.9.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-pygame-1.9.1-alt5.x86_64.rpm", 
+    "pkg": "python-module-pygame", 
+    "pkg_version": "1.9.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "pygame-1.9.1-5-rosa2012.1.x86_64.rpm", 
+    "pkg": "pygame", 
+    "pkg_version": "1.9.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-pygame-1.9.1-14.1.2.i586.rpm", 
+    "pkg": "python-pygame", 
+    "pkg_version": "1.9.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-pygame-1.9.1-alt5.x86_64.rpm", 
+    "pkg": "python-module-pygame", 
+    "pkg_version": "1.9.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "pygame-1.9.1-3-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "pygame", 
+    "pkg_version": "1.9.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-pygame_1.9.1release+dfsg-10_i386.deb", 
+    "pkg": "python-pygame", 
+    "pkg_version": "1.9.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-pygame-1.9.1-alt5.x86_64.rpm", 
+    "pkg": "python-module-pygame", 
+    "pkg_version": "1.9.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "pygame-1.9.1-3-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "pygame", 
+    "pkg_version": "1.9.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-pygame_1.9.1release+dfsg-9ubuntu1_i386.deb", 
+    "pkg": "python-pygame", 
+    "pkg_version": "1.9.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-pygame-1.9.1-alt5.x86_64.rpm", 
+    "pkg": "python-module-pygame", 
+    "pkg_version": "1.9.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

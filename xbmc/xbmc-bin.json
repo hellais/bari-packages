@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "xbmc-bin_14.2_i386.deb", 
+    "pkg": "xbmc-bin_1", 
+    "pkg_version": "4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "xbmc-bin_14.2_i386.deb", 
+    "pkg": "xbmc-bin_1", 
+    "pkg_version": "4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "xbmc-bin_12.3.1-dmo1_i386.deb", 
+    "pkg": "xbmc-bin_1", 
+    "pkg_version": "2.3.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xbmc-bin_13.1~rc1+dfsg1-1ubuntu3_i386.deb", 
+    "pkg": "xbmc-bin_1", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xbmc-bin_12.3+dfsg1-3ubuntu1_i386.deb", 
+    "pkg": "xbmc-bin_1", 
+    "pkg_version": "2.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

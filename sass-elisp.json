@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sass-elisp_3.0.15-4_all.deb", 
+    "pkg": "sass-elisp", 
+    "pkg_version": "3.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sass-elisp_3.0.15-4_all.deb", 
+    "pkg": "sass-elisp", 
+    "pkg_version": "3.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sass-elisp_3.0.15-2_all.deb", 
+    "pkg": "sass-elisp", 
+    "pkg_version": "3.0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "sass-elisp_3.0.15-4_all.deb", 
+    "pkg": "sass-elisp", 
+    "pkg_version": "3.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

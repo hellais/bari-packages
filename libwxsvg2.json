@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwxsvg2_1.4~dfsg-2+b1_i386.deb", 
+    "pkg": "libwxsvg2", 
+    "pkg_version": "1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwxsvg2_1.4~dfsg-2+b1_i386.deb", 
+    "pkg": "libwxsvg2", 
+    "pkg_version": "1.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "libwxsvg2-1.4-2-rosa2014.1.i586.rpm", 
+    "pkg": "libwxsvg2", 
+    "pkg_version": "1.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "libwxsvg2-1.4-1-rosa2012.1.i586.rpm", 
+    "pkg": "libwxsvg2", 
+    "pkg_version": "1.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

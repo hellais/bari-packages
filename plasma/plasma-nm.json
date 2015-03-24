@@ -1,0 +1,136 @@
+[
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "plasma-nm-5.2.1-1-x86_64.pkg.tar.xz", 
+    "pkg": "plasma-nm", 
+    "pkg_version": "5.2.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "plasma-nm_0.9.3.4-2_i386.deb", 
+    "pkg": "plasma-nm", 
+    "pkg_version": "0.9.3.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "plasma-nm_0.9.3.4-2_i386.deb", 
+    "pkg": "plasma-nm", 
+    "pkg_version": "0.9.3.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "plasma-nm-5.2.2-1.fc23.x86_64.rpm", 
+    "pkg": "plasma-nm", 
+    "pkg_version": "5.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "plasma-nm-5.2.0-3.fc22.x86_64.rpm", 
+    "pkg": "plasma-nm", 
+    "pkg_version": "5.2.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "plasma-nm-0.9.3.5-4-omv2015.0.x86_64.rpm", 
+    "pkg": "plasma-nm", 
+    "pkg_version": "0.9.3.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "plasma-nm-0.9.3.5-0.1-omv2014.0.x86_64.rpm", 
+    "pkg": "plasma-nm", 
+    "pkg_version": "0.9.3.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "plasma-nm-0.9.3.0-0.20130703.1-omv2013.0.x86_64.rpm", 
+    "pkg": "plasma-nm", 
+    "pkg_version": "0.9.3.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "plasma-nm-0.9.3.5-1.2.x86_64.rpm", 
+    "pkg": "plasma-nm", 
+    "pkg_version": "0.9.3.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "plasma-nm-0.9.3.4-2.1.8.x86_64.rpm", 
+    "pkg": "plasma-nm", 
+    "pkg_version": "0.9.3.4", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "plasma-nm-0.9.3.2-4.1.x86_64.rpm", 
+    "pkg": "plasma-nm", 
+    "pkg_version": "0.9.3.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "plasma-nm-0.9.3.5-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "plasma-nm", 
+    "pkg_version": "0.9.3.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "plasma-nm-0.9.3.3-6-rosa2012.1.x86_64.rpm", 
+    "pkg": "plasma-nm", 
+    "pkg_version": "0.9.3.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ktown", 
+    "pkg_full_name": "plasma-nm-0.9.3.4-x86_64-2alien.txz", 
+    "pkg": "plasma-nm", 
+    "pkg_version": "0.9.3.4", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "plasma-nm_0.9.3.4-1_i386.deb", 
+    "pkg": "plasma-nm", 
+    "pkg_version": "0.9.3.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

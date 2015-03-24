@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-either-prof_4.3-1+b7_i386.deb", 
+    "pkg": "libghc-either-prof", 
+    "pkg_version": "4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-either-prof_4.3-1+b7_i386.deb", 
+    "pkg": "libghc-either-prof", 
+    "pkg_version": "4.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-either-prof_4.3-1build3_i386.deb", 
+    "pkg": "libghc-either-prof", 
+    "pkg_version": "4.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

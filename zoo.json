@@ -1,0 +1,137 @@
+[
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "zoo-2.10-2.2.el6.rf.x86_64.rpm", 
+    "pkg": "zoo", 
+    "pkg_version": "2.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "zoo-2.10-2.2.el5.rf.x86_64.rpm", 
+    "pkg": "zoo", 
+    "pkg_version": "2.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "zoo_2.10-27+b1_i386.deb", 
+    "pkg": "zoo", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "zoo_2.10-27+b1_i386.deb", 
+    "pkg": "zoo", 
+    "pkg_version": "2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "zoo_2.10-27_i386.deb", 
+    "pkg": "zoo", 
+    "pkg_version": "2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "zoo-2.10-1025.1.x86_64.rpm", 
+    "pkg": "zoo", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "zoo-2.10-1022.1.2.x86_64.rpm", 
+    "pkg": "zoo", 
+    "pkg_version": "2.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "zoo-2.10-1019.1.2.i586.rpm", 
+    "pkg": "zoo", 
+    "pkg_version": "2.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Restricted", 
+    "pkg_full_name": "zoo-2.10-6-plf2014.1.x86_64.rpm", 
+    "pkg": "zoo", 
+    "pkg_version": "2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Restricted", 
+    "pkg_full_name": "zoo-2.10-6-plf2012.1.x86_64.rpm", 
+    "pkg": "zoo", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "zoo-2.10_22-x86_64-1.txz", 
+    "pkg": "zoo", 
+    "pkg_version": "2.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "zoo-2.10_22-x86_64-1.txz", 
+    "pkg": "zoo", 
+    "pkg_version": "2.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "zoo-2.10_22-x86_64-1.txz", 
+    "pkg": "zoo", 
+    "pkg_version": "2.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "zoo_2.10-27_i386.deb", 
+    "pkg": "zoo", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "zoo_2.10-27_i386.deb", 
+    "pkg": "zoo", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "freebirth_0.3.2-9.1_i386.deb", 
+    "pkg": "freebirth", 
+    "pkg_version": "0.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "freebirth_0.3.2-8_i386.deb", 
+    "pkg": "freebirth", 
+    "pkg_version": "0.3.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "freebirth-0.3.2-18-omv2013.0.x86_64.rpm", 
+    "pkg": "freebirth", 
+    "pkg_version": "0.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "freebirth-0.3.2-18-omv2013.0.x86_64.rpm", 
+    "pkg": "freebirth", 
+    "pkg_version": "0.3.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "freebirth-0.3.2-18-omv2013.0.x86_64.rpm", 
+    "pkg": "freebirth", 
+    "pkg_version": "0.3.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "freebirth-0.3.2-19-rosa2014.1.x86_64.rpm", 
+    "pkg": "freebirth", 
+    "pkg_version": "0.3.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "freebirth-0.3.2-18-rosa2012.1.x86_64.rpm", 
+    "pkg": "freebirth", 
+    "pkg_version": "0.3.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "freebirth_0.3.2-9_i386.deb", 
+    "pkg": "freebirth", 
+    "pkg_version": "0.3.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "freebirth_0.3.2-9_i386.deb", 
+    "pkg": "freebirth", 
+    "pkg_version": "0.3.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

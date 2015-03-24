@@ -1,0 +1,242 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnome-games-chess-3.14.3-alt1.x86_64.rpm", 
+    "pkg": "gnome-games-chess", 
+    "pkg_version": "3.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gnome-chess-3.14.1-1-x86_64.pkg.tar.xz", 
+    "pkg": "gnome-chess", 
+    "pkg_version": "3.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnome-games-chess-3.14.3-alt1.x86_64.rpm", 
+    "pkg": "gnome-games-chess", 
+    "pkg_version": "3.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-chess_3.14.0-1_i386.deb", 
+    "pkg": "gnome-chess", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnome-games-chess-3.14.3-alt1.x86_64.rpm", 
+    "pkg": "gnome-games-chess", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-chess_3.14.0-1_i386.deb", 
+    "pkg": "gnome-chess", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnome-games-chess-3.14.3-alt1.x86_64.rpm", 
+    "pkg": "gnome-games-chess", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnome-chess-3.16.0-1.fc23.x86_64.rpm", 
+    "pkg": "gnome-chess", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnome-games-chess-3.14.3-alt1.x86_64.rpm", 
+    "pkg": "gnome-games-chess", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnome-chess-3.15.90-1.fc22.x86_64.rpm", 
+    "pkg": "gnome-chess", 
+    "pkg_version": "3.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnome-games-chess-3.14.3-alt1.x86_64.rpm", 
+    "pkg": "gnome-games-chess", 
+    "pkg_version": "3.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "gnome-chess-3.14.3-1.fc21.x86_64.rpm", 
+    "pkg": "gnome-chess", 
+    "pkg_version": "3.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnome-games-chess-3.14.3-alt1.x86_64.rpm", 
+    "pkg": "gnome-games-chess", 
+    "pkg_version": "3.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "gnome-chess-3.10.4-1.fc20.x86_64.rpm", 
+    "pkg": "gnome-chess", 
+    "pkg_version": "3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnome-games-chess-3.14.3-alt1.x86_64.rpm", 
+    "pkg": "gnome-games-chess", 
+    "pkg_version": "3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gnome-chess-3.14.3-1.1.x86_64.rpm", 
+    "pkg": "gnome-chess", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnome-games-chess-3.14.3-alt1.x86_64.rpm", 
+    "pkg": "gnome-games-chess", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "gnome-chess-3.14.2-4.12.x86_64.rpm", 
+    "pkg": "gnome-chess", 
+    "pkg_version": "3.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnome-games-chess-3.14.3-alt1.x86_64.rpm", 
+    "pkg": "gnome-games-chess", 
+    "pkg_version": "3.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "gnome-chess-3.10.3-14.3.x86_64.rpm", 
+    "pkg": "gnome-chess", 
+    "pkg_version": "3.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnome-games-chess-3.14.3-alt1.x86_64.rpm", 
+    "pkg": "gnome-games-chess", 
+    "pkg_version": "3.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "gnome-chess-3.12.2-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "gnome-chess", 
+    "pkg_version": "3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnome-games-chess-3.14.3-alt1.x86_64.rpm", 
+    "pkg": "gnome-games-chess", 
+    "pkg_version": "3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "gnome-chess-3.8.4-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "gnome-chess", 
+    "pkg_version": "3.8.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnome-games-chess-3.14.3-alt1.x86_64.rpm", 
+    "pkg": "gnome-games-chess", 
+    "pkg_version": "3.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnome-chess_3.12.3-1_i386.deb", 
+    "pkg": "gnome-chess", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnome-games-chess-3.14.3-alt1.x86_64.rpm", 
+    "pkg": "gnome-games-chess", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

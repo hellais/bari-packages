@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libclucene-dev_2.3.3.4-4_i386.deb", 
+    "pkg": "libclucene-dev", 
+    "pkg_version": "2.3.3.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libclucene-dev_2.3.3.4-4_i386.deb", 
+    "pkg": "libclucene-dev", 
+    "pkg_version": "2.3.3.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libclucene-dev_0.9.21b-2+b1_i386.deb", 
+    "pkg": "libclucene-dev", 
+    "pkg_version": "0.9.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libclucene-dev_2.3.3.4-4build1_i386.deb", 
+    "pkg": "libclucene-dev", 
+    "pkg_version": "2.3.3.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libclucene-dev_2.3.3.4-4build1_i386.deb", 
+    "pkg": "libclucene-dev", 
+    "pkg_version": "2.3.3.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

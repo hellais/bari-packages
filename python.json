@@ -1,0 +1,878 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-2.7.8-alt1.x86_64.rpm", 
+    "pkg": "python", 
+    "pkg_version": "2.7.8", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-strict-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-strict", 
+    "pkg_version": "2.7.8", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-relaxed-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-relaxed", 
+    "pkg_version": "2.7.8", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "python-3.4.3-1-x86_64.pkg.tar.xz", 
+    "pkg": "python", 
+    "pkg_version": "3.4.3", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-strict-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-strict", 
+    "pkg_version": "2.7.8", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-relaxed-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-relaxed", 
+    "pkg_version": "2.7.8", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "python-2.7.5-16.el7.x86_64.rpm", 
+    "pkg": "python", 
+    "pkg_version": "2.7.5", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-strict-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-strict", 
+    "pkg_version": "2.7.8", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-relaxed-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-relaxed", 
+    "pkg_version": "2.7.8", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "python-2.6.6-52.el6.x86_64.rpm", 
+    "pkg": "python", 
+    "pkg_version": "2.6.6", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-strict-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-strict", 
+    "pkg_version": "2.7.8", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-relaxed-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-relaxed", 
+    "pkg_version": "2.7.8", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "python-2.4.3-56.el5.x86_64.rpm", 
+    "pkg": "python", 
+    "pkg_version": "2.4.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-strict-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-strict", 
+    "pkg_version": "2.7.8", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-relaxed-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-relaxed", 
+    "pkg_version": "2.7.8", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python_2.7.9-1_i386.deb", 
+    "pkg": "python", 
+    "pkg_version": "2.7.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-strict-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-strict", 
+    "pkg_version": "2.7.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-relaxed-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-relaxed", 
+    "pkg_version": "2.7.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python_2.7.8-4_i386.deb", 
+    "pkg": "python", 
+    "pkg_version": "2.7.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-strict-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-strict", 
+    "pkg_version": "2.7.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-relaxed-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-relaxed", 
+    "pkg_version": "2.7.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python_2.7.3-4+deb7u1_all.deb", 
+    "pkg": "python", 
+    "pkg_version": "2.7.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-strict-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-strict", 
+    "pkg_version": "2.7.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-relaxed-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-relaxed", 
+    "pkg_version": "2.7.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-2.7.9-5.fc22.x86_64.rpm", 
+    "pkg": "python", 
+    "pkg_version": "2.7.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-strict-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-strict", 
+    "pkg_version": "2.7.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-relaxed-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-relaxed", 
+    "pkg_version": "2.7.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-2.7.9-5.fc22.x86_64.rpm", 
+    "pkg": "python", 
+    "pkg_version": "2.7.9", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-strict-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-strict", 
+    "pkg_version": "2.7.8", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-relaxed-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-relaxed", 
+    "pkg_version": "2.7.8", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-2.7.8-7.fc21.x86_64.rpm", 
+    "pkg": "python", 
+    "pkg_version": "2.7.8", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-strict-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-strict", 
+    "pkg_version": "2.7.8", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-relaxed-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-relaxed", 
+    "pkg_version": "2.7.8", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python-2.7.5-15.fc20.x86_64.rpm", 
+    "pkg": "python", 
+    "pkg_version": "2.7.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-strict-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-strict", 
+    "pkg_version": "2.7.8", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-relaxed-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-relaxed", 
+    "pkg_version": "2.7.8", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-3.4.3-1-omv2015.0.x86_64.rpm", 
+    "pkg": "python", 
+    "pkg_version": "3.4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-strict-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-strict", 
+    "pkg_version": "2.7.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-relaxed-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-relaxed", 
+    "pkg_version": "2.7.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python2-2.7.9-1-omv2015.0.x86_64.rpm", 
+    "pkg": "python2", 
+    "pkg_version": "2.7.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "python-2.7.6-2.1-omv2014.0.x86_64.rpm", 
+    "pkg": "python", 
+    "pkg_version": "2.7.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-strict-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-strict", 
+    "pkg_version": "2.7.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-relaxed-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-relaxed", 
+    "pkg_version": "2.7.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python2-2.7.9-1-omv2015.0.x86_64.rpm", 
+    "pkg": "python2", 
+    "pkg_version": "2.7.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-2.7.5-3-omv2013.0.x86_64.rpm", 
+    "pkg": "python", 
+    "pkg_version": "2.7.5", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-strict-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-strict", 
+    "pkg_version": "2.7.8", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-relaxed-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-relaxed", 
+    "pkg_version": "2.7.8", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python2-2.7.9-1-omv2015.0.x86_64.rpm", 
+    "pkg": "python2", 
+    "pkg_version": "2.7.9", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-2.7.9-3.1.x86_64.rpm", 
+    "pkg": "python", 
+    "pkg_version": "2.7.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-strict-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-strict", 
+    "pkg_version": "2.7.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-relaxed-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-relaxed", 
+    "pkg_version": "2.7.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python3-3.4.1-7.2.x86_64.rpm", 
+    "pkg": "python3", 
+    "pkg_version": "3.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python2-2.7.9-1-omv2015.0.x86_64.rpm", 
+    "pkg": "python2", 
+    "pkg_version": "2.7.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-2.7.8-1.1.x86_64.rpm", 
+    "pkg": "python", 
+    "pkg_version": "2.7.8", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-strict-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-strict", 
+    "pkg_version": "2.7.8", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-relaxed-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-relaxed", 
+    "pkg_version": "2.7.8", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python3-3.4.1-4.2.1.x86_64.rpm", 
+    "pkg": "python3", 
+    "pkg_version": "3.4.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python2-2.7.9-1-omv2015.0.x86_64.rpm", 
+    "pkg": "python2", 
+    "pkg_version": "2.7.9", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "python-2.7.6-8.6.1.x86_64.rpm", 
+    "pkg": "python", 
+    "pkg_version": "2.7.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-strict-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-strict", 
+    "pkg_version": "2.7.8", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-relaxed-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-relaxed", 
+    "pkg_version": "2.7.8", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "python3-3.3.5-5.8.2.x86_64.rpm", 
+    "pkg": "python3", 
+    "pkg_version": "3.3.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python2-2.7.9-1-omv2015.0.x86_64.rpm", 
+    "pkg": "python2", 
+    "pkg_version": "2.7.9", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "python-2.7.9-7-rosa2014.1.x86_64.rpm", 
+    "pkg": "python", 
+    "pkg_version": "2.7.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-strict-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-strict", 
+    "pkg_version": "2.7.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-relaxed-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-relaxed", 
+    "pkg_version": "2.7.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "python3-3.3.5-5.8.2.x86_64.rpm", 
+    "pkg": "python3", 
+    "pkg_version": "3.3.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python2-2.7.9-1-omv2015.0.x86_64.rpm", 
+    "pkg": "python2", 
+    "pkg_version": "2.7.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "python-2.7.8-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "python", 
+    "pkg_version": "2.7.8", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-strict-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-strict", 
+    "pkg_version": "2.7.8", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-relaxed-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-relaxed", 
+    "pkg_version": "2.7.8", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "python3-3.3.5-5.8.2.x86_64.rpm", 
+    "pkg": "python3", 
+    "pkg_version": "3.3.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python2-2.7.9-1-omv2015.0.x86_64.rpm", 
+    "pkg": "python2", 
+    "pkg_version": "2.7.9", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "python-2.7.5-x86_64-1.txz", 
+    "pkg": "python", 
+    "pkg_version": "2.7.5", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-strict-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-strict", 
+    "pkg_version": "2.7.8", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-relaxed-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-relaxed", 
+    "pkg_version": "2.7.8", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "python3-3.3.5-5.8.2.x86_64.rpm", 
+    "pkg": "python3", 
+    "pkg_version": "3.3.5", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python2-2.7.9-1-omv2015.0.x86_64.rpm", 
+    "pkg": "python2", 
+    "pkg_version": "2.7.9", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "python-2.7.3-x86_64-2.txz", 
+    "pkg": "python", 
+    "pkg_version": "2.7.3", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-strict-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-strict", 
+    "pkg_version": "2.7.8", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-relaxed-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-relaxed", 
+    "pkg_version": "2.7.8", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "python3-3.3.5-5.8.2.x86_64.rpm", 
+    "pkg": "python3", 
+    "pkg_version": "3.3.5", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python2-2.7.9-1-omv2015.0.x86_64.rpm", 
+    "pkg": "python2", 
+    "pkg_version": "2.7.9", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "python-2.6.6-x86_64-1.txz", 
+    "pkg": "python", 
+    "pkg_version": "2.6.6", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-strict-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-strict", 
+    "pkg_version": "2.7.8", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-relaxed-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-relaxed", 
+    "pkg_version": "2.7.8", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "python3-3.3.5-5.8.2.x86_64.rpm", 
+    "pkg": "python3", 
+    "pkg_version": "3.3.5", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python2-2.7.9-1-omv2015.0.x86_64.rpm", 
+    "pkg": "python2", 
+    "pkg_version": "2.7.9", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python_2.7.8-1_i386.deb", 
+    "pkg": "python", 
+    "pkg_version": "2.7.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-strict-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-strict", 
+    "pkg_version": "2.7.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-relaxed-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-relaxed", 
+    "pkg_version": "2.7.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "python3-3.3.5-5.8.2.x86_64.rpm", 
+    "pkg": "python3", 
+    "pkg_version": "3.3.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python2-2.7.9-1-omv2015.0.x86_64.rpm", 
+    "pkg": "python2", 
+    "pkg_version": "2.7.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python_2.7.5-5ubuntu3_i386.deb", 
+    "pkg": "python", 
+    "pkg_version": "2.7.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-strict-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-strict", 
+    "pkg_version": "2.7.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-relaxed-2.7.8-alt1.noarch.rpm", 
+    "pkg": "python-relaxed", 
+    "pkg_version": "2.7.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "python3-3.3.5-5.8.2.x86_64.rpm", 
+    "pkg": "python3", 
+    "pkg_version": "3.3.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python2-2.7.9-1-omv2015.0.x86_64.rpm", 
+    "pkg": "python2", 
+    "pkg_version": "2.7.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

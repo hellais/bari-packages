@@ -1,0 +1,496 @@
+[
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "x264-2:144.20150223-1-x86_64.pkg.tar.xz", 
+    "pkg": "x264-2:14", 
+    "pkg_version": "4.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "x264-0.138-2.20131030gitc628e3b.sdl7.x86_64.rpm", 
+    "pkg": "x264", 
+    "pkg_version": "0.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "x264-2:144.20150223-1-x86_64.pkg.tar.xz", 
+    "pkg": "x264-2:14", 
+    "pkg_version": "4.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "x264-0.0.0-0.4.20101111.el6.rf.x86_64.rpm", 
+    "pkg": "x264", 
+    "pkg_version": "0.0.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "x264-2:144.20150223-1-x86_64.pkg.tar.xz", 
+    "pkg": "x264-2:14", 
+    "pkg_version": "4.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Scientific Linux Cyrillic Edition", 
+    "pkg_full_name": "x264-0.0.0-0.3.20061214.rf.i386.rpm", 
+    "pkg": "x264", 
+    "pkg_version": "0.0.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "x264-2:144.20150223-1-x86_64.pkg.tar.xz", 
+    "pkg": "x264-2:14", 
+    "pkg_version": "4.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "x264_0.146.2538+git121396c-dmo1_i386.deb", 
+    "pkg": "x264", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "x264-2:144.20150223-1-x86_64.pkg.tar.xz", 
+    "pkg": "x264-2:14", 
+    "pkg_version": "4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "x264_0.146.2538+git121396c-dmo1_i386.deb", 
+    "pkg": "x264", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "x264-2:144.20150223-1-x86_64.pkg.tar.xz", 
+    "pkg": "x264-2:14", 
+    "pkg_version": "4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "x264_0.132.2310+git76a5c3a-dmo1_i386.deb", 
+    "pkg": "x264", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "x264-2:144.20150223-1-x86_64.pkg.tar.xz", 
+    "pkg": "x264-2:14", 
+    "pkg_version": "4.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "x264-0.142-10.20140826git021c0dc.fc21.x86_64.rpm", 
+    "pkg": "x264", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "x264-2:144.20150223-1-x86_64.pkg.tar.xz", 
+    "pkg": "x264-2:14", 
+    "pkg_version": "4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free Updates", 
+    "pkg_full_name": "x264-0.142-11.20141221git6a301b6.fc21.x86_64.rpm", 
+    "pkg": "x264", 
+    "pkg_version": "0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "x264-2:144.20150223-1-x86_64.pkg.tar.xz", 
+    "pkg": "x264-2:14", 
+    "pkg_version": "4.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "x264-0.138-2.20131030gitc628e3b.fc20.x86_64.rpm", 
+    "pkg": "x264", 
+    "pkg_version": "0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "x264-2:144.20150223-1-x86_64.pkg.tar.xz", 
+    "pkg": "x264-2:14", 
+    "pkg_version": "4.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Restricted", 
+    "pkg_full_name": "x264-0.142-0.20140615.3-omv2015.0.x86_64.rpm", 
+    "pkg": "x264", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "x264-2:144.20150223-1-x86_64.pkg.tar.xz", 
+    "pkg": "x264-2:14", 
+    "pkg_version": "4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Restricted Updates", 
+    "pkg_full_name": "x264-0.142-0.20140318.3-omv2014.0.x86_64.rpm", 
+    "pkg": "x264", 
+    "pkg_version": "0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "x264-2:144.20150223-1-x86_64.pkg.tar.xz", 
+    "pkg": "x264-2:14", 
+    "pkg_version": "4.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Restricted Updates", 
+    "pkg_full_name": "x264-0.133-0.20130731.2-omv2013.0.x86_64.rpm", 
+    "pkg": "x264", 
+    "pkg_version": "0.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "x264-2:144.20150223-1-x86_64.pkg.tar.xz", 
+    "pkg": "x264-2:14", 
+    "pkg_version": "4.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "VLC", 
+    "pkg_full_name": "x264-0.144-1.9.x86_64.rpm", 
+    "pkg": "x264", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "x264-2:144.20150223-1-x86_64.pkg.tar.xz", 
+    "pkg": "x264-2:14", 
+    "pkg_version": "4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "x264_tMod-0.142git20140421-2.5.x86_64.rpm", 
+    "pkg": "x264_tMod", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "VLC", 
+    "pkg_full_name": "x264-0.144-1.1.x86_64.rpm", 
+    "pkg": "x264", 
+    "pkg_version": "0.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "x264-2:144.20150223-1-x86_64.pkg.tar.xz", 
+    "pkg": "x264-2:14", 
+    "pkg_version": "4.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "x264_tMod-0.142git20140421-2.5.x86_64.rpm", 
+    "pkg": "x264_tMod", 
+    "pkg_version": "0.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "VLC", 
+    "pkg_full_name": "x264-0.144-1.1.x86_64.rpm", 
+    "pkg": "x264", 
+    "pkg_version": "0.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "x264-2:144.20150223-1-x86_64.pkg.tar.xz", 
+    "pkg": "x264-2:14", 
+    "pkg_version": "4.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "x264_tMod-0.142git20140421-2.3.x86_64.rpm", 
+    "pkg": "x264_tMod", 
+    "pkg_version": "0.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Restricted", 
+    "pkg_full_name": "x264-0.142-0.20140615.1-plf2014.1.x86_64.rpm", 
+    "pkg": "x264", 
+    "pkg_version": "0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "x264-2:144.20150223-1-x86_64.pkg.tar.xz", 
+    "pkg": "x264-2:14", 
+    "pkg_version": "4.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "x264_tMod-0.142git20140421-2.3.x86_64.rpm", 
+    "pkg": "x264_tMod", 
+    "pkg_version": "0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Restricted Updates", 
+    "pkg_full_name": "x264-0.120-0.20111212.4-plf2012.1.x86_64.rpm", 
+    "pkg": "x264", 
+    "pkg_version": "0.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "x264-2:144.20150223-1-x86_64.pkg.tar.xz", 
+    "pkg": "x264-2:14", 
+    "pkg_version": "4.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "x264_tMod-0.142git20140421-2.3.x86_64.rpm", 
+    "pkg": "x264_tMod", 
+    "pkg_version": "0.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Restricted Updates", 
+    "pkg_full_name": "x264-0.120-0.20111212.1-plf2012.0.x86_64.rpm", 
+    "pkg": "x264", 
+    "pkg_version": "0.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "x264-2:144.20150223-1-x86_64.pkg.tar.xz", 
+    "pkg": "x264-2:14", 
+    "pkg_version": "4.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "x264_tMod-0.142git20140421-2.3.x86_64.rpm", 
+    "pkg": "x264_tMod", 
+    "pkg_version": "0.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Restricted Updates", 
+    "pkg_full_name": "x264-0.120-0.20111212.1-plf2012.0.x86_64.rpm", 
+    "pkg": "x264", 
+    "pkg_version": "0.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "x264-2:144.20150223-1-x86_64.pkg.tar.xz", 
+    "pkg": "x264-2:14", 
+    "pkg_version": "4.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "x264_tMod-0.142git20140421-2.3.x86_64.rpm", 
+    "pkg": "x264_tMod", 
+    "pkg_version": "0.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Restricted Updates", 
+    "pkg_full_name": "x264-0.120-0.20111212.1-plf2012.0.x86_64.rpm", 
+    "pkg": "x264", 
+    "pkg_version": "0.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "x264-2:144.20150223-1-x86_64.pkg.tar.xz", 
+    "pkg": "x264-2:14", 
+    "pkg_version": "4.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "x264_tMod-0.142git20140421-2.3.x86_64.rpm", 
+    "pkg": "x264_tMod", 
+    "pkg_version": "0.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "x264_0.142.2431+gita5831aa-1ubuntu1_i386.deb", 
+    "pkg": "x264", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "x264-2:144.20150223-1-x86_64.pkg.tar.xz", 
+    "pkg": "x264-2:14", 
+    "pkg_version": "4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "x264_tMod-0.142git20140421-2.3.x86_64.rpm", 
+    "pkg": "x264_tMod", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "x264_0.142.2389+git956c8d8-2_i386.deb", 
+    "pkg": "x264", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "x264-2:144.20150223-1-x86_64.pkg.tar.xz", 
+    "pkg": "x264-2:14", 
+    "pkg_version": "4.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "x264_tMod-0.142git20140421-2.3.x86_64.rpm", 
+    "pkg": "x264_tMod", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "erlang-src_17.3-dfsg-3_all.deb", 
+    "pkg": "erlang-src_1", 
+    "pkg_version": "7.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "erlang-src_17.3-dfsg-3_all.deb", 
+    "pkg": "erlang-src_1", 
+    "pkg_version": "7.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "erlang-src_17.1-dfsg-4~bpo70+1_all.deb", 
+    "pkg": "erlang-src_1", 
+    "pkg_version": "7.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "erlang-src_17.1-dfsg-4~bpo70+1_all.deb", 
+    "pkg": "erlang-src_1", 
+    "pkg_version": "7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "erlang-src-17.4-2.1.x86_64.rpm", 
+    "pkg": "erlang-src-1", 
+    "pkg_version": "7.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "erlang-src_17.1-dfsg-4~bpo70+1_all.deb", 
+    "pkg": "erlang-src_1", 
+    "pkg_version": "7.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "erlang-src-17.1-3.1.11.x86_64.rpm", 
+    "pkg": "erlang-src-1", 
+    "pkg_version": "7.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "erlang-src-R16B01-2.1.3.i586.rpm", 
+    "pkg": "erlang-src-R16B01", 
+    "pkg_version": "2.1.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "erlang-src_17.1-dfsg-4~bpo70+1_all.deb", 
+    "pkg": "erlang-src_1", 
+    "pkg_version": "7.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "erlang-src-17.1-3.1.11.x86_64.rpm", 
+    "pkg": "erlang-src-1", 
+    "pkg_version": "7.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "erlang-src-R16B01-2.1.3.i586.rpm", 
+    "pkg": "erlang-src-R16B01", 
+    "pkg_version": "2.1.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "erlang-src_17.1-dfsg-4ubuntu2_all.deb", 
+    "pkg": "erlang-src_1", 
+    "pkg_version": "7.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "erlang-src-17.1-3.1.11.x86_64.rpm", 
+    "pkg": "erlang-src-1", 
+    "pkg_version": "7.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "erlang-src_16.b.3-dfsg-1ubuntu2.1_all.deb", 
+    "pkg": "erlang-src_16.b.3-dfsg-1ubuntu", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "erlang-src-R16B01-2.1.3.i586.rpm", 
+    "pkg": "erlang-src-R16B01", 
+    "pkg_version": "2.1.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "erlang-src_17.1-dfsg-4ubuntu2_all.deb", 
+    "pkg": "erlang-src_1", 
+    "pkg_version": "7.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "erlang-src-17.1-3.1.11.x86_64.rpm", 
+    "pkg": "erlang-src-1", 
+    "pkg_version": "7.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

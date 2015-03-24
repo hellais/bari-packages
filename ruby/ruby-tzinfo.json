@@ -1,0 +1,91 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-tzinfo-0.3.25-alt1.1.noarch.rpm", 
+    "pkg": "ruby-tzinfo", 
+    "pkg_version": "0.3.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-tzinfo_1.1.0-2_all.deb", 
+    "pkg": "ruby-tzinfo", 
+    "pkg_version": "1.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-tzinfo_1.1.0-2_all.deb", 
+    "pkg": "ruby-tzinfo", 
+    "pkg_version": "1.1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-tzinfo_0.3.33-3_all.deb", 
+    "pkg": "ruby-tzinfo", 
+    "pkg_version": "0.3.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "ruby-tzinfo-1.1.0-3-omv2015.0.noarch.rpm", 
+    "pkg": "ruby-tzinfo", 
+    "pkg_version": "1.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "ruby-tzinfo-0.3.33-1-omv2013.0.noarch.rpm", 
+    "pkg": "ruby-tzinfo", 
+    "pkg_version": "0.3.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "ruby-tzinfo-0.3.33-1-omv2013.0.noarch.rpm", 
+    "pkg": "ruby-tzinfo", 
+    "pkg_version": "0.3.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "ruby-tzinfo-1.2.1-2-rosa2014.1.noarch.rpm", 
+    "pkg": "ruby-tzinfo", 
+    "pkg_version": "1.2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "ruby-tzinfo-0.3.33-1-rosa2012.1.noarch.rpm", 
+    "pkg": "ruby-tzinfo", 
+    "pkg_version": "0.3.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ruby-tzinfo_1.1.0-2_all.deb", 
+    "pkg": "ruby-tzinfo", 
+    "pkg_version": "1.1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

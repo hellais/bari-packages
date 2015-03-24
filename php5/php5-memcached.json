@@ -1,0 +1,55 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "php5-memcached-5.5.22.20150218-alt1.x86_64.rpm", 
+    "pkg": "php5-memcached", 
+    "pkg_version": "5.5.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php5-memcached_2.2.0-2_i386.deb", 
+    "pkg": "php5-memcached", 
+    "pkg_version": "2.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php5-memcached_2.2.0-2_i386.deb", 
+    "pkg": "php5-memcached", 
+    "pkg_version": "2.2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "php5-memcached_5.4.39-1~dotdeb.1_i386.deb", 
+    "pkg": "php5-memcached", 
+    "pkg_version": "5.4.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "php5-memcached_2.2.0-1_i386.deb", 
+    "pkg": "php5-memcached", 
+    "pkg_version": "2.2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "php5-memcached_2.1.0-6build1_i386.deb", 
+    "pkg": "php5-memcached", 
+    "pkg_version": "2.1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

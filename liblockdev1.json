@@ -1,0 +1,119 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liblockdev1_1.0.3-1.6+b1_i386.deb", 
+    "pkg": "liblockdev1", 
+    "pkg_version": "1.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liblockdev1_1.0.3-1.6+b1_i386.deb", 
+    "pkg": "liblockdev1", 
+    "pkg_version": "1.0.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liblockdev1_1.0.3-1.5_i386.deb", 
+    "pkg": "liblockdev1", 
+    "pkg_version": "1.0.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "liblockdev1-1.0.4-1.20111007git.3-omv2015.0.i586.rpm", 
+    "pkg": "liblockdev1", 
+    "pkg_version": "1.0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "liblockdev1-1.0.4-1.20111007git.2-omv2014.0.i586.rpm", 
+    "pkg": "liblockdev1", 
+    "pkg_version": "1.0.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "liblockdev1-1.0.4-1.20111007git.2-omv2013.0.i586.rpm", 
+    "pkg": "liblockdev1", 
+    "pkg_version": "1.0.4", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "liblockdev1-1.0.3_git201003141408-29.2.x86_64.rpm", 
+    "pkg": "liblockdev1", 
+    "pkg_version": "1.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "liblockdev1-1.0.3_git201003141408-27.2.1.x86_64.rpm", 
+    "pkg": "liblockdev1", 
+    "pkg_version": "1.0.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "liblockdev1-1.0.3_git201003141408-25.1.2.i586.rpm", 
+    "pkg": "liblockdev1", 
+    "pkg_version": "1.0.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "liblockdev1-1.0.4-0.120111007git.9-rosa2014.1.i586.rpm", 
+    "pkg": "liblockdev1", 
+    "pkg_version": "1.0.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "liblockdev1-1.0.4-0.120111007git.7-rosa2012.1.i586.rpm", 
+    "pkg": "liblockdev1", 
+    "pkg_version": "1.0.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "liblockdev1_1.0.3-1.6build1_i386.deb", 
+    "pkg": "liblockdev1", 
+    "pkg_version": "1.0.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "liblockdev1_1.0.3-1.5build1_i386.deb", 
+    "pkg": "liblockdev1", 
+    "pkg_version": "1.0.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "ffdiaporama_2.1-dmo4_i386.deb", 
+    "pkg": "ffdiaporama", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "ffdiaporama_2.1-dmo4_i386.deb", 
+    "pkg": "ffdiaporama", 
+    "pkg_version": "2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ffdiaporama_1.3-1_i386.deb", 
+    "pkg": "ffdiaporama", 
+    "pkg_version": "1.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "ffdiaporama-2.0.1-1-omv2014.0.x86_64.rpm", 
+    "pkg": "ffdiaporama", 
+    "pkg_version": "2.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib Updates", 
+    "pkg_full_name": "ffdiaporama-2.2-0.1-omv2014.0.x86_64.rpm", 
+    "pkg": "ffdiaporama", 
+    "pkg_version": "2.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "ffdiaporama-1.6-1-omv2013.0.x86_64.rpm", 
+    "pkg": "ffdiaporama", 
+    "pkg_version": "1.6", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "ffdiaporama-2.2-0.2-rosa2014.1.x86_64.rpm", 
+    "pkg": "ffdiaporama", 
+    "pkg_version": "2.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "ffdiaporama-2.2-0.1-rosa2012.1.x86_64.rpm", 
+    "pkg": "ffdiaporama", 
+    "pkg_version": "2.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackel", 
+    "pkg_full_name": "ffdiaporama-1.5-x86_64-1skk.txz", 
+    "pkg": "ffdiaporama", 
+    "pkg_version": "1.5", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ffdiaporama_1.5-4build2_i386.deb", 
+    "pkg": "ffdiaporama", 
+    "pkg_version": "1.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

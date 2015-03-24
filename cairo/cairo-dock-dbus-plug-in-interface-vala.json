@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cairo-dock-dbus-plug-in-interface-vala_3.4.0-1+b1_i386.deb", 
+    "pkg": "cairo-dock-dbus-plug-in-interface-vala", 
+    "pkg_version": "3.4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

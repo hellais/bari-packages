@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-persistent_4.0.8-3_i386.deb", 
+    "pkg": "python-persistent", 
+    "pkg_version": "4.0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-persistent_4.0.8-3_i386.deb", 
+    "pkg": "python-persistent", 
+    "pkg_version": "4.0.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-persistent-4.0.8-3.fc22.x86_64.rpm", 
+    "pkg": "python-persistent", 
+    "pkg_version": "4.0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-persistent-4.0.8-3.fc22.x86_64.rpm", 
+    "pkg": "python-persistent", 
+    "pkg_version": "4.0.8", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-persistent-4.0.8-3.fc21.x86_64.rpm", 
+    "pkg": "python-persistent", 
+    "pkg_version": "4.0.8", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-persistent-4.0.6-4.2.x86_64.rpm", 
+    "pkg": "python-persistent", 
+    "pkg_version": "4.0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-persistent-4.0.6-3.1.5.x86_64.rpm", 
+    "pkg": "python-persistent", 
+    "pkg_version": "4.0.6", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-persistent-4.0.6-1.1.i586.rpm", 
+    "pkg": "python-persistent", 
+    "pkg_version": "4.0.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "python-persistent-4.0.8-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "python-persistent", 
+    "pkg_version": "4.0.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "python-persistent-4.0.6-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "python-persistent", 
+    "pkg_version": "4.0.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

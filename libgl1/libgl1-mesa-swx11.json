@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgl1-mesa-swx11_10.4.2-2_i386.deb", 
+    "pkg": "libgl1-mesa-swx11_1", 
+    "pkg_version": "0.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgl1-mesa-swx11_10.3.2-1_i386.deb", 
+    "pkg": "libgl1-mesa-swx11_1", 
+    "pkg_version": "0.3.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgl1-mesa-swx11_10.3.2-1_i386.deb", 
+    "pkg": "libgl1-mesa-swx11_1", 
+    "pkg_version": "0.3.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "libgl1-mesa-swx11_8.0.5-4+deb7u2_i386.deb", 
+    "pkg": "libgl1-mesa-swx11", 
+    "pkg_version": "8.0.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

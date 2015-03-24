@@ -1,0 +1,127 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "pandoc-1.11.1-alt1.1.x86_64.rpm", 
+    "pkg": "pandoc", 
+    "pkg_version": "1.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "pandoc-1.12.3.1-1.el7.x86_64.rpm", 
+    "pkg": "pandoc", 
+    "pkg_version": "1.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "pandoc-1.9.4.1-1.1.el6.x86_64.rpm", 
+    "pkg": "pandoc", 
+    "pkg_version": "1.9.4.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pandoc_1.12.4.2~dfsg-1+b14_amd64.deb", 
+    "pkg": "pandoc", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pandoc_1.12.4.2~dfsg-1+b14_amd64.deb", 
+    "pkg": "pandoc", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pandoc_1.9.4.2-2_i386.deb", 
+    "pkg": "pandoc", 
+    "pkg_version": "1.9.4.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pandoc-1.13.2-2.fc23.x86_64.rpm", 
+    "pkg": "pandoc", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pandoc-1.13.2-1.fc22.x86_64.rpm", 
+    "pkg": "pandoc", 
+    "pkg_version": "1.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pandoc-1.12.3.3-5.fc21.x86_64.rpm", 
+    "pkg": "pandoc", 
+    "pkg_version": "1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "pandoc-1.12.3.3-2.fc20.x86_64.rpm", 
+    "pkg": "pandoc", 
+    "pkg_version": "1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pandoc-1.12.3.3-3.9.x86_64.rpm", 
+    "pkg": "pandoc", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pandoc-1.12.3.3-2.1.5.x86_64.rpm", 
+    "pkg": "pandoc", 
+    "pkg_version": "1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "pandoc_1.12.4.2~dfsg-1build4_i386.deb", 
+    "pkg": "pandoc", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "pandoc_1.12.2.1-1build2_i386.deb", 
+    "pkg": "pandoc", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

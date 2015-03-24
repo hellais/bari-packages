@@ -1,0 +1,55 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "linphone-common-3.8.0-alt1.x86_64.rpm", 
+    "pkg": "linphone-common", 
+    "pkg_version": "3.8.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "linphone-common_3.6.1-2.4_all.deb", 
+    "pkg": "linphone-common", 
+    "pkg_version": "3.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "linphone-common_3.6.1-2.4_all.deb", 
+    "pkg": "linphone-common", 
+    "pkg_version": "3.6.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "linphone-common_3.5.2-10_all.deb", 
+    "pkg": "linphone-common", 
+    "pkg_version": "3.5.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "linphone-common_3.6.1-2.4build1_all.deb", 
+    "pkg": "linphone-common", 
+    "pkg_version": "3.6.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "linphone-common_3.6.1-2.1build2_all.deb", 
+    "pkg": "linphone-common", 
+    "pkg_version": "3.6.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

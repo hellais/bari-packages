@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "coinor-libsymphony3_5.6.1-1_i386.deb", 
+    "pkg": "coinor-libsymphony3", 
+    "pkg_version": "5.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "coinor-libsymphony3_5.6.1-1_i386.deb", 
+    "pkg": "coinor-libsymphony3", 
+    "pkg_version": "5.6.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "coinor-libsymphony3_5.5.6-1ubuntu2_i386.deb", 
+    "pkg": "coinor-libsymphony3", 
+    "pkg_version": "5.5.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

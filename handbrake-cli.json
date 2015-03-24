@@ -1,0 +1,90 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "handbrake-cli-0.9.9.1-alt1.svn6036.x86_64.rpm", 
+    "pkg": "handbrake-cli", 
+    "pkg_version": "0.9.9.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "handbrake-cli-0.10.1-2-x86_64.pkg.tar.xz", 
+    "pkg": "handbrake-cli", 
+    "pkg_version": "0.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop Testing", 
+    "pkg_full_name": "handbrake-cli-0.9.8-2.el6.nux.x86_64.rpm", 
+    "pkg": "handbrake-cli", 
+    "pkg_version": "0.9.8", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "handbrake-cli_0.10.1-dmo2_i386.deb", 
+    "pkg": "handbrake-cli", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "handbrake-cli_0.10.1-dmo2_i386.deb", 
+    "pkg": "handbrake-cli", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "handbrake-cli_0.9.8+git20121007-dmo7_i386.deb", 
+    "pkg": "handbrake-cli", 
+    "pkg_version": "0.9.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "handbrake-cli-0.10.0-1.64.x86_64.rpm", 
+    "pkg": "handbrake-cli", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "handbrake-cli-0.10.0-1.36.x86_64.rpm", 
+    "pkg": "handbrake-cli", 
+    "pkg_version": "0.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "handbrake-cli_0.9.9+svn6032+dfsg1-2build2_i386.deb", 
+    "pkg": "handbrake-cli", 
+    "pkg_version": "0.9.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "handbrake-cli_0.9.9+dfsg-2~2.gbpa4c3e9build1_i386.deb", 
+    "pkg": "handbrake-cli", 
+    "pkg_version": "0.9.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

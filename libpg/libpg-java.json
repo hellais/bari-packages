@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpg-java_9.2-1002-1_all.deb", 
+    "pkg": "libpg-java", 
+    "pkg_version": "9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpostgresql-jdbc-java_9.2-1002-1_all.deb", 
+    "pkg": "libpostgresql-jdbc-java", 
+    "pkg_version": "9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpg-java_9.2-1002-1_all.deb", 
+    "pkg": "libpg-java", 
+    "pkg_version": "9.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpostgresql-jdbc-java_9.2-1002-1_all.deb", 
+    "pkg": "libpostgresql-jdbc-java", 
+    "pkg_version": "9.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpg-java_9.1-901-2_all.deb", 
+    "pkg": "libpg-java", 
+    "pkg_version": "9.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpostgresql-jdbc-java_9.1-901-2_all.deb", 
+    "pkg": "libpostgresql-jdbc-java", 
+    "pkg_version": "9.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libpg-java_9.2-1002-1_all.deb", 
+    "pkg": "libpg-java", 
+    "pkg_version": "9.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libpostgresql-jdbc-java_9.2-1002-1_all.deb", 
+    "pkg": "libpostgresql-jdbc-java", 
+    "pkg_version": "9.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libpg-java_9.2-1002-1_all.deb", 
+    "pkg": "libpg-java", 
+    "pkg_version": "9.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libpostgresql-jdbc-java_9.2-1002-1_all.deb", 
+    "pkg": "libpostgresql-jdbc-java", 
+    "pkg_version": "9.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

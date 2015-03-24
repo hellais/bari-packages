@@ -1,0 +1,10 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "php5-facedetect-5.5.22.20150218-alt1.x86_64.rpm", 
+    "pkg": "php5-facedetect", 
+    "pkg_version": "5.5.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }
+]

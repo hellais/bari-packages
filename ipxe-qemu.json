@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ipxe-qemu_1.0.0+git-20141004.86285d1-1_all.deb", 
+    "pkg": "ipxe-qemu", 
+    "pkg_version": "1.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ipxe-qemu_1.0.0+git-20141004.86285d1-1_all.deb", 
+    "pkg": "ipxe-qemu", 
+    "pkg_version": "1.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ipxe-qemu_1.0.0+git-20120202.f6840ba-3_all.deb", 
+    "pkg": "ipxe-qemu", 
+    "pkg_version": "1.0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "ipxe-qemu_1.0.0+git-20131111.c3d1e78-2ubuntu2_all.deb", 
+    "pkg": "ipxe-qemu", 
+    "pkg_version": "1.0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

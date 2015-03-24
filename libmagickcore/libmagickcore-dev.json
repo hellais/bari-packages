@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmagickcore-dev_6.8.9.9-5_all.deb", 
+    "pkg": "libmagickcore-dev", 
+    "pkg_version": "6.8.9.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmagickcore-dev_6.8.9.9-5_all.deb", 
+    "pkg": "libmagickcore-dev", 
+    "pkg_version": "6.8.9.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "libmagickcore-dev_6.7.7.10-5+deb7u3_i386.deb", 
+    "pkg": "libmagickcore-dev", 
+    "pkg_version": "6.7.7.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libmagickcore-dev_6.7.7.10+dfsg-4ubuntu1_i386.deb", 
+    "pkg": "libmagickcore-dev", 
+    "pkg_version": "6.7.7.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libmagickcore-dev_6.7.7.10-6ubuntu3_i386.deb", 
+    "pkg": "libmagickcore-dev", 
+    "pkg_version": "6.7.7.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

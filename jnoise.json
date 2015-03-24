@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jnoise_0.6.0-4_i386.deb", 
+    "pkg": "jnoise", 
+    "pkg_version": "0.6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jnoise_0.6.0-4_i386.deb", 
+    "pkg": "jnoise", 
+    "pkg_version": "0.6.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jnoise_0.6.0-3_i386.deb", 
+    "pkg": "jnoise", 
+    "pkg_version": "0.6.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Planet CCRMA", 
+    "pkg_full_name": "jnoise-0.0-2.fc21.ccrma.x86_64.rpm", 
+    "pkg": "jnoise", 
+    "pkg_version": "0.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Planet CCRMA", 
+    "pkg_full_name": "jnoise-0.0-2.fc20.ccrma.x86_64.rpm", 
+    "pkg": "jnoise", 
+    "pkg_version": "0.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "jnoise_0.6.0-4_i386.deb", 
+    "pkg": "jnoise", 
+    "pkg_version": "0.6.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "jnoise_0.6.0-4_i386.deb", 
+    "pkg": "jnoise", 
+    "pkg_version": "0.6.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

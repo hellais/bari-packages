@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-responses_0.3.0-1_all.deb", 
+    "pkg": "python-responses", 
+    "pkg_version": "0.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

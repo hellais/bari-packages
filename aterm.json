@@ -1,0 +1,154 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "aterm-1.0.1-alt4.qa2.x86_64.rpm", 
+    "pkg": "aterm", 
+    "pkg_version": "1.0.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "aterm-0.4.2-1.2.el6.rf.i686.rpm", 
+    "pkg": "aterm", 
+    "pkg_version": "0.4.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "aterm-0.4.2-1.2.el5.rf.x86_64.rpm", 
+    "pkg": "aterm", 
+    "pkg_version": "0.4.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "aterm_1.0.1-8+b2_i386.deb", 
+    "pkg": "aterm", 
+    "pkg_version": "1.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "aterm_1.0.1-8+b2_i386.deb", 
+    "pkg": "aterm", 
+    "pkg_version": "1.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "aterm_1.0.1-8_i386.deb", 
+    "pkg": "aterm", 
+    "pkg_version": "1.0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "aterm-1.0.1-20.fc22.x86_64.rpm", 
+    "pkg": "aterm", 
+    "pkg_version": "1.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "aterm-1.0.1-20.fc22.x86_64.rpm", 
+    "pkg": "aterm", 
+    "pkg_version": "1.0.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "aterm-1.0.1-20.fc21.x86_64.rpm", 
+    "pkg": "aterm", 
+    "pkg_version": "1.0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "aterm-1.0.1-18.fc20.x86_64.rpm", 
+    "pkg": "aterm", 
+    "pkg_version": "1.0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "aterm-1.0.1-10-omv2014.1.x86_64.rpm", 
+    "pkg": "aterm", 
+    "pkg_version": "1.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "aterm-1.0.1-11-rosa2014.1.x86_64.rpm", 
+    "pkg": "aterm", 
+    "pkg_version": "1.0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "aterm-1.0.1-10-rosa2012.1.x86_64.rpm", 
+    "pkg": "aterm", 
+    "pkg_version": "1.0.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Freestylers", 
+    "pkg_full_name": "aterm-1.0.0-x86_64-1_fs.tgz", 
+    "pkg": "aterm", 
+    "pkg_version": "1.0.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "aterm-1.0.1-i486-6sl.txz", 
+    "pkg": "aterm", 
+    "pkg_version": "1.0.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "aterm_1.0.1-8_i386.deb", 
+    "pkg": "aterm", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "aterm_1.0.1-8_i386.deb", 
+    "pkg": "aterm", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

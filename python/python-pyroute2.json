@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "python-pyroute2-0.3.4-1.el7.noarch.rpm", 
+    "pkg": "python-pyroute2", 
+    "pkg_version": "0.3.4", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "python-pyroute2-0.3.4-1.el6.noarch.rpm", 
+    "pkg": "python-pyroute2", 
+    "pkg_version": "0.3.4", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-pyroute2_0.3.3-1_all.deb", 
+    "pkg": "python-pyroute2", 
+    "pkg_version": "0.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-pyroute2-0.3.4-1.fc22.noarch.rpm", 
+    "pkg": "python-pyroute2", 
+    "pkg_version": "0.3.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-pyroute2-0.3.4-1.fc22.noarch.rpm", 
+    "pkg": "python-pyroute2", 
+    "pkg_version": "0.3.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python-pyroute2-0.3.4-1.fc21.noarch.rpm", 
+    "pkg": "python-pyroute2", 
+    "pkg_version": "0.3.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

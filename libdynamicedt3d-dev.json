@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libdynamicedt3d-dev_1.6.8+dfsg-1_i386.deb", 
+    "pkg": "libdynamicedt3d-dev", 
+    "pkg_version": "1.6.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

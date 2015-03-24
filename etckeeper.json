@@ -1,0 +1,145 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "etckeeper-1.15-alt1.noarch.rpm", 
+    "pkg": "etckeeper", 
+    "pkg_version": "1.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "etckeeper-1.14-1.sdl7.noarch.rpm", 
+    "pkg": "etckeeper", 
+    "pkg_version": "1.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "etckeeper-0.64-1.el6.rf.noarch.rpm", 
+    "pkg": "etckeeper", 
+    "pkg_version": "0.6", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "etckeeper-0.64-1.el5.rf.noarch.rpm", 
+    "pkg": "etckeeper", 
+    "pkg_version": "0.6", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "etckeeper_1.18.1_all.deb", 
+    "pkg": "etckeeper", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "etckeeper_1.15_all.deb", 
+    "pkg": "etckeeper", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "etckeeper_0.63_all.deb", 
+    "pkg": "etckeeper", 
+    "pkg_version": "0.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "etckeeper-1.14-2.fc22.noarch.rpm", 
+    "pkg": "etckeeper", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "etckeeper-1.14-2.fc22.noarch.rpm", 
+    "pkg": "etckeeper", 
+    "pkg_version": "1.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "etckeeper-1.14-1.fc21.noarch.rpm", 
+    "pkg": "etckeeper", 
+    "pkg_version": "1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "etckeeper-1.14-1.fc20.noarch.rpm", 
+    "pkg": "etckeeper", 
+    "pkg_version": "1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "etckeeper-1.13-3.2.x86_64.rpm", 
+    "pkg": "etckeeper", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "etckeeper-1.13-2.1.4.x86_64.rpm", 
+    "pkg": "etckeeper", 
+    "pkg_version": "1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Freestylers", 
+    "pkg_full_name": "etckeeper-1.10-x86_64-1_fs.tgz", 
+    "pkg": "etckeeper", 
+    "pkg_version": "1.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Proposed Main", 
+    "pkg_full_name": "etckeeper_1.11ubuntu1.1_all.deb", 
+    "pkg": "etckeeper", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "etckeeper_1.9ubuntu2_all.deb", 
+    "pkg": "etckeeper", 
+    "pkg_version": "1.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

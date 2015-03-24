@@ -1,0 +1,110 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "simpleburn_1.7.0-3_i386.deb", 
+    "pkg": "simpleburn", 
+    "pkg_version": "1.7.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "simpleburn_1.7.0-3_i386.deb", 
+    "pkg": "simpleburn", 
+    "pkg_version": "1.7.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "simpleburn-1.7.0-3.1.x86_64.rpm", 
+    "pkg": "simpleburn", 
+    "pkg_version": "1.7.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "simpleburn-1.7.0-3.1.x86_64.rpm", 
+    "pkg": "simpleburn", 
+    "pkg_version": "1.7.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "simpleburn-1.6.4-2-omv2013.0.x86_64.rpm", 
+    "pkg": "simpleburn", 
+    "pkg_version": "1.6.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "simpleburn-1.6.4-2-omv2013.0.x86_64.rpm", 
+    "pkg": "simpleburn", 
+    "pkg_version": "1.6.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "simpleburn-1.6.4-2-omv2013.0.x86_64.rpm", 
+    "pkg": "simpleburn", 
+    "pkg_version": "1.6.4", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "simpleburn-1.6.4-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "simpleburn", 
+    "pkg_version": "1.6.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "simpleburn-1.6.4-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "simpleburn", 
+    "pkg_version": "1.6.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "simpleburn-1.6.5-i486-1sl.txz", 
+    "pkg": "simpleburn", 
+    "pkg_version": "1.6.5", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "simpleburn-1.6.3-i486-1sl.txz", 
+    "pkg": "simpleburn", 
+    "pkg_version": "1.6.3", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "simpleburn_1.7.0-1_i386.deb", 
+    "pkg": "simpleburn", 
+    "pkg_version": "1.7.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

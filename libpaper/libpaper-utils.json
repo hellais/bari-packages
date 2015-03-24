@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpaper-utils_1.1.24+nmu4_i386.deb", 
+    "pkg": "libpaper-utils", 
+    "pkg_version": "1.1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpaper-utils_1.1.24+nmu4_i386.deb", 
+    "pkg": "libpaper-utils", 
+    "pkg_version": "1.1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpaper-utils_1.1.24+nmu2_i386.deb", 
+    "pkg": "libpaper-utils", 
+    "pkg_version": "1.1.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libpaper-utils-1.1.24-7.2.x86_64.rpm", 
+    "pkg": "libpaper-utils", 
+    "pkg_version": "1.1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libpaper-utils-1.1.24-6.1.5.x86_64.rpm", 
+    "pkg": "libpaper-utils", 
+    "pkg_version": "1.1.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libpaper-utils-1.1.24-4.1.4.i586.rpm", 
+    "pkg": "libpaper-utils", 
+    "pkg_version": "1.1.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libpaper-utils_1.1.24+nmu2ubuntu3_i386.deb", 
+    "pkg": "libpaper-utils", 
+    "pkg_version": "1.1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libpaper-utils_1.1.24+nmu2ubuntu3_i386.deb", 
+    "pkg": "libpaper-utils", 
+    "pkg_version": "1.1.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

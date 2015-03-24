@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "libde265-examples-0.8-1.el7.nux.x86_64.rpm", 
+    "pkg": "libde265-examples", 
+    "pkg_version": "0.8", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libde265-examples_0.9-1_i386.deb", 
+    "pkg": "libde265-examples", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libde265-examples_0.9-1_i386.deb", 
+    "pkg": "libde265-examples", 
+    "pkg_version": "0.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-sqlkit-doc_0.9.6.1-1_all.deb", 
+    "pkg": "python-sqlkit-doc", 
+    "pkg_version": "0.9.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-sqlkit-doc_0.9.5-1_all.deb", 
+    "pkg": "python-sqlkit-doc", 
+    "pkg_version": "0.9.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-sqlkit-doc_0.9.5-1.1ubuntu1_all.deb", 
+    "pkg": "python-sqlkit-doc", 
+    "pkg_version": "0.9.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

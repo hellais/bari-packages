@@ -1,0 +1,127 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "golly-2.5-alt1.x86_64.rpm", 
+    "pkg": "golly", 
+    "pkg_version": "2.5", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "golly-2.3-3.el6.x86_64.rpm", 
+    "pkg": "golly", 
+    "pkg_version": "2.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "golly_2.6-2_i386.deb", 
+    "pkg": "golly", 
+    "pkg_version": "2.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "golly_2.6-2_i386.deb", 
+    "pkg": "golly", 
+    "pkg_version": "2.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "golly_2.3-1_i386.deb", 
+    "pkg": "golly", 
+    "pkg_version": "2.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "golly-2.4-12.fc22.x86_64.rpm", 
+    "pkg": "golly", 
+    "pkg_version": "2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "golly-2.4-12.fc22.x86_64.rpm", 
+    "pkg": "golly", 
+    "pkg_version": "2.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "golly-2.4-11.fc21.x86_64.rpm", 
+    "pkg": "golly", 
+    "pkg_version": "2.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "golly-2.4-9.fc20.x86_64.rpm", 
+    "pkg": "golly", 
+    "pkg_version": "2.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "golly-2.6-3.15.x86_64.rpm", 
+    "pkg": "golly", 
+    "pkg_version": "2.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "golly-2.6-3.1.x86_64.rpm", 
+    "pkg": "golly", 
+    "pkg_version": "2.6", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "golly-2.6-3.1.x86_64.rpm", 
+    "pkg": "golly", 
+    "pkg_version": "2.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "golly_2.6-1_i386.deb", 
+    "pkg": "golly", 
+    "pkg_version": "2.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "golly_2.5-1.1_i386.deb", 
+    "pkg": "golly", 
+    "pkg_version": "2.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

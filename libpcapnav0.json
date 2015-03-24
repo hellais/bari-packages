@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpcapnav0_0.8-2_i386.deb", 
+    "pkg": "libpcapnav0", 
+    "pkg_version": "0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpcapnav0_0.8-2_i386.deb", 
+    "pkg": "libpcapnav0", 
+    "pkg_version": "0.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpcapnav0_0.8-1_i386.deb", 
+    "pkg": "libpcapnav0", 
+    "pkg_version": "0.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Network Utilities", 
+    "pkg_full_name": "libpcapnav0-0.8-3.56.x86_64.rpm", 
+    "pkg": "libpcapnav0", 
+    "pkg_version": "0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Network Utilities", 
+    "pkg_full_name": "libpcapnav0-0.8-3.2.x86_64.rpm", 
+    "pkg": "libpcapnav0", 
+    "pkg_version": "0.8", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Network Utilities", 
+    "pkg_full_name": "libpcapnav0-0.8-3.4.x86_64.rpm", 
+    "pkg": "libpcapnav0", 
+    "pkg_version": "0.8", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libpcapnav0_0.8-2ubuntu1_i386.deb", 
+    "pkg": "libpcapnav0", 
+    "pkg_version": "0.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libpcapnav0_0.8-1ubuntu1_i386.deb", 
+    "pkg": "libpcapnav0", 
+    "pkg_version": "0.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

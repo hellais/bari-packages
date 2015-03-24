@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xul-ext-adblock-plus-element-hiding-helper_1.3-1_all.deb", 
+    "pkg": "xul-ext-adblock-plus-element-hiding-helper", 
+    "pkg_version": "1.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xul-ext-adblock-plus-element-hiding-helper_1.3-1_all.deb", 
+    "pkg": "xul-ext-adblock-plus-element-hiding-helper", 
+    "pkg_version": "1.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

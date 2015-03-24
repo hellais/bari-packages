@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pcp-import-sheet2pcp_3.10.1_all.deb", 
+    "pkg": "pcp-import-sheet2pcp", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pcp-import-sheet2pcp_3.9.10_all.deb", 
+    "pkg": "pcp-import-sheet2pcp", 
+    "pkg_version": "3.9.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pcp-import-sheet2pcp-3.10.3-1.1.x86_64.rpm", 
+    "pkg": "pcp-import-sheet2pcp", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pcp-import-sheet2pcp-3.6.10-6.1.7.x86_64.rpm", 
+    "pkg": "pcp-import-sheet2pcp", 
+    "pkg_version": "3.6.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pcp-import-sheet2pcp-3.6.10-3.1.3.i586.rpm", 
+    "pkg": "pcp-import-sheet2pcp", 
+    "pkg_version": "3.6.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "pcp-import-sheet2pcp_3.9.8build1_all.deb", 
+    "pkg": "pcp-import-sheet2pcp", 
+    "pkg_version": "3.9.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "pcp-import-sheet2pcp_3.8.12ubuntu1_all.deb", 
+    "pkg": "pcp-import-sheet2pcp", 
+    "pkg_version": "3.8.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

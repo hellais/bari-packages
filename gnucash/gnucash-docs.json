@@ -1,0 +1,171 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnucash-docs-2.6.5-alt1.noarch.rpm", 
+    "pkg": "gnucash-docs", 
+    "pkg_version": "2.6.5", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gnucash-docs-2.6.5-1-any.pkg.tar.xz", 
+    "pkg": "gnucash-docs", 
+    "pkg_version": "2.6.5", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "gnucash-docs-2.6.5-1.el7.noarch.rpm", 
+    "pkg": "gnucash-docs", 
+    "pkg_version": "2.6.5", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "gnucash-docs-2.2.0-1.el6.rf.noarch.rpm", 
+    "pkg": "gnucash-docs", 
+    "pkg_version": "2.2.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "KBS Extras Testing", 
+    "pkg_full_name": "gnucash-docs-2.2.0-2.el5.kb.noarch.rpm", 
+    "pkg": "gnucash-docs", 
+    "pkg_version": "2.2.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnucash-docs_2.6.4-1_all.deb", 
+    "pkg": "gnucash-docs", 
+    "pkg_version": "2.6.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnucash-docs_2.6.4-1_all.deb", 
+    "pkg": "gnucash-docs", 
+    "pkg_version": "2.6.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnucash-docs_2.4.1-3_all.deb", 
+    "pkg": "gnucash-docs", 
+    "pkg_version": "2.4.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnucash-docs-2.6.5-1.fc22.noarch.rpm", 
+    "pkg": "gnucash-docs", 
+    "pkg_version": "2.6.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnucash-docs-2.6.5-1.fc22.noarch.rpm", 
+    "pkg": "gnucash-docs", 
+    "pkg_version": "2.6.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "gnucash-docs-2.6.5-1.fc21.noarch.rpm", 
+    "pkg": "gnucash-docs", 
+    "pkg_version": "2.6.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "gnucash-docs-2.6.5-1.fc20.noarch.rpm", 
+    "pkg": "gnucash-docs", 
+    "pkg_version": "2.6.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gnucash-docs-2.6.5-1.1.noarch.rpm", 
+    "pkg": "gnucash-docs", 
+    "pkg_version": "2.6.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gnucash-docs-2.6.4-1.1.noarch.rpm", 
+    "pkg": "gnucash-docs", 
+    "pkg_version": "2.6.4", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gnucash-docs-2.4.2-4.1.1.noarch.rpm", 
+    "pkg": "gnucash-docs", 
+    "pkg_version": "2.4.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "gnucash-docs-2.6.0-noarch-1rl.txz", 
+    "pkg": "gnucash-docs", 
+    "pkg_version": "2.6.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "gnucash-docs-2.4.1-i686-1sl.txz", 
+    "pkg": "gnucash-docs", 
+    "pkg_version": "2.4.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnucash-docs_2.6.3-1_all.deb", 
+    "pkg": "gnucash-docs", 
+    "pkg_version": "2.6.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnucash-docs_2.6.1-1_all.deb", 
+    "pkg": "gnucash-docs", 
+    "pkg_version": "2.6.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

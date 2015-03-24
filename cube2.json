@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cube2_0.0.20130203+dfsg-1+b1_i386.deb", 
+    "pkg": "cube2", 
+    "pkg_version": "0.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cube2_0.0.20130203+dfsg-1+b1_i386.deb", 
+    "pkg": "cube2", 
+    "pkg_version": "0.0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

@@ -1,0 +1,1548 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "nginx-1.6.2-alt2.x86_64.rpm", 
+    "pkg": "nginx", 
+    "pkg_version": "1.6.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "nginx-1.6.2-2-x86_64.pkg.tar.xz", 
+    "pkg": "nginx", 
+    "pkg_version": "1.6.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "nginx-1.6.0-3.sdl7.x86_64.rpm", 
+    "pkg": "nginx", 
+    "pkg_version": "1.6.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx16-1.6.2-1.w7.x86_64.rpm", 
+    "pkg": "nginx16", 
+    "pkg_version": "1.6.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "nginx-1.0.15-2.puias6.x86_64.rpm", 
+    "pkg": "nginx", 
+    "pkg_version": "1.0.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx12-1.2.9-2.w6.x86_64.rpm", 
+    "pkg": "nginx12", 
+    "pkg_version": "1.2.9", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx14-1.4.7-1.w6.x86_64.rpm", 
+    "pkg": "nginx14", 
+    "pkg_version": "1.4.7", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx16-1.6.2-1.w6.x86_64.rpm", 
+    "pkg": "nginx16", 
+    "pkg_version": "1.6.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx-1.0.15-1.w5.x86_64.rpm", 
+    "pkg": "nginx", 
+    "pkg_version": "1.0.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx12-1.2.9-2.w6.x86_64.rpm", 
+    "pkg": "nginx12", 
+    "pkg_version": "1.2.9", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx14-1.4.7-1.w6.x86_64.rpm", 
+    "pkg": "nginx14", 
+    "pkg_version": "1.4.7", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx16-1.6.2-1.w6.x86_64.rpm", 
+    "pkg": "nginx16", 
+    "pkg_version": "1.6.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nginx-extras_1.6.2-5_i386.deb", 
+    "pkg": "nginx-extras", 
+    "pkg_version": "1.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nginx-full_1.6.2-5_i386.deb", 
+    "pkg": "nginx-full", 
+    "pkg_version": "1.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nginx_1.6.2-5_all.deb", 
+    "pkg": "nginx", 
+    "pkg_version": "1.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx12-1.2.9-2.w6.x86_64.rpm", 
+    "pkg": "nginx12", 
+    "pkg_version": "1.2.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx14-1.4.7-1.w6.x86_64.rpm", 
+    "pkg": "nginx14", 
+    "pkg_version": "1.4.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx16-1.6.2-1.w6.x86_64.rpm", 
+    "pkg": "nginx16", 
+    "pkg_version": "1.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nginx-light_1.6.2-5_i386.deb", 
+    "pkg": "nginx-light", 
+    "pkg_version": "1.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nginx-extras_1.6.2-5_i386.deb", 
+    "pkg": "nginx-extras", 
+    "pkg_version": "1.6.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nginx-full_1.6.2-5_i386.deb", 
+    "pkg": "nginx-full", 
+    "pkg_version": "1.6.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nginx_1.6.2-5_all.deb", 
+    "pkg": "nginx", 
+    "pkg_version": "1.6.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx12-1.2.9-2.w6.x86_64.rpm", 
+    "pkg": "nginx12", 
+    "pkg_version": "1.2.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx14-1.4.7-1.w6.x86_64.rpm", 
+    "pkg": "nginx14", 
+    "pkg_version": "1.4.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx16-1.6.2-1.w6.x86_64.rpm", 
+    "pkg": "nginx16", 
+    "pkg_version": "1.6.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nginx-light_1.6.2-5_i386.deb", 
+    "pkg": "nginx-light", 
+    "pkg_version": "1.6.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-extras_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-extras", 
+    "pkg_version": "1.6.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-full_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-full", 
+    "pkg_version": "1.6.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx_1.6.2-1~dotdeb.1_all.deb", 
+    "pkg": "nginx", 
+    "pkg_version": "1.6.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx12-1.2.9-2.w6.x86_64.rpm", 
+    "pkg": "nginx12", 
+    "pkg_version": "1.2.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx14-1.4.7-1.w6.x86_64.rpm", 
+    "pkg": "nginx14", 
+    "pkg_version": "1.4.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-naxsi_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-naxsi", 
+    "pkg_version": "1.6.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx16-1.6.2-1.w6.x86_64.rpm", 
+    "pkg": "nginx16", 
+    "pkg_version": "1.6.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "nginx-naxsi-ui_1.2.1-2.2+wheezy3_all.deb", 
+    "pkg": "nginx-naxsi-ui", 
+    "pkg_version": "1.2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-light_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-light", 
+    "pkg_version": "1.6.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-extras_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-extras", 
+    "pkg_version": "1.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-full_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-full", 
+    "pkg_version": "1.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "nginx-1.7.10-1.fc23.x86_64.rpm", 
+    "pkg": "nginx", 
+    "pkg_version": "1.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx12-1.2.9-2.w6.x86_64.rpm", 
+    "pkg": "nginx12", 
+    "pkg_version": "1.2.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx14-1.4.7-1.w6.x86_64.rpm", 
+    "pkg": "nginx14", 
+    "pkg_version": "1.4.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-naxsi_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-naxsi", 
+    "pkg_version": "1.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx16-1.6.2-1.w6.x86_64.rpm", 
+    "pkg": "nginx16", 
+    "pkg_version": "1.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "nginx-naxsi-ui_1.2.1-2.2+wheezy3_all.deb", 
+    "pkg": "nginx-naxsi-ui", 
+    "pkg_version": "1.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-light_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-light", 
+    "pkg_version": "1.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-extras_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-extras", 
+    "pkg_version": "1.6.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-full_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-full", 
+    "pkg_version": "1.6.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "nginx-1.7.10-1.fc22.x86_64.rpm", 
+    "pkg": "nginx", 
+    "pkg_version": "1.7.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx12-1.2.9-2.w6.x86_64.rpm", 
+    "pkg": "nginx12", 
+    "pkg_version": "1.2.9", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx14-1.4.7-1.w6.x86_64.rpm", 
+    "pkg": "nginx14", 
+    "pkg_version": "1.4.7", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-naxsi_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-naxsi", 
+    "pkg_version": "1.6.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx16-1.6.2-1.w6.x86_64.rpm", 
+    "pkg": "nginx16", 
+    "pkg_version": "1.6.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "nginx-naxsi-ui_1.2.1-2.2+wheezy3_all.deb", 
+    "pkg": "nginx-naxsi-ui", 
+    "pkg_version": "1.2.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-light_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-light", 
+    "pkg_version": "1.6.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-extras_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-extras", 
+    "pkg_version": "1.6.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-full_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-full", 
+    "pkg_version": "1.6.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "nginx-1.6.2-4.fc21.x86_64.rpm", 
+    "pkg": "nginx", 
+    "pkg_version": "1.6.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx12-1.2.9-2.w6.x86_64.rpm", 
+    "pkg": "nginx12", 
+    "pkg_version": "1.2.9", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx14-1.4.7-1.w6.x86_64.rpm", 
+    "pkg": "nginx14", 
+    "pkg_version": "1.4.7", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-naxsi_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-naxsi", 
+    "pkg_version": "1.6.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx16-1.6.2-1.w6.x86_64.rpm", 
+    "pkg": "nginx16", 
+    "pkg_version": "1.6.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "nginx-naxsi-ui_1.2.1-2.2+wheezy3_all.deb", 
+    "pkg": "nginx-naxsi-ui", 
+    "pkg_version": "1.2.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-light_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-light", 
+    "pkg_version": "1.6.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-extras_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-extras", 
+    "pkg_version": "1.6.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-full_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-full", 
+    "pkg_version": "1.6.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "nginx-1.4.7-5.fc20.x86_64.rpm", 
+    "pkg": "nginx", 
+    "pkg_version": "1.4.7", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx12-1.2.9-2.w6.x86_64.rpm", 
+    "pkg": "nginx12", 
+    "pkg_version": "1.2.9", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx14-1.4.7-1.w6.x86_64.rpm", 
+    "pkg": "nginx14", 
+    "pkg_version": "1.4.7", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-naxsi_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-naxsi", 
+    "pkg_version": "1.6.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx16-1.6.2-1.w6.x86_64.rpm", 
+    "pkg": "nginx16", 
+    "pkg_version": "1.6.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "nginx-naxsi-ui_1.2.1-2.2+wheezy3_all.deb", 
+    "pkg": "nginx-naxsi-ui", 
+    "pkg_version": "1.2.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-light_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-light", 
+    "pkg_version": "1.6.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-extras_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-extras", 
+    "pkg_version": "1.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-full_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-full", 
+    "pkg_version": "1.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "nginx-1.7.10-1-omv2015.0.x86_64.rpm", 
+    "pkg": "nginx", 
+    "pkg_version": "1.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx12-1.2.9-2.w6.x86_64.rpm", 
+    "pkg": "nginx12", 
+    "pkg_version": "1.2.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx14-1.4.7-1.w6.x86_64.rpm", 
+    "pkg": "nginx14", 
+    "pkg_version": "1.4.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-naxsi_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-naxsi", 
+    "pkg_version": "1.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx16-1.6.2-1.w6.x86_64.rpm", 
+    "pkg": "nginx16", 
+    "pkg_version": "1.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "nginx-naxsi-ui_1.2.1-2.2+wheezy3_all.deb", 
+    "pkg": "nginx-naxsi-ui", 
+    "pkg_version": "1.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-light_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-light", 
+    "pkg_version": "1.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-extras_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-extras", 
+    "pkg_version": "1.6.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-full_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-full", 
+    "pkg_version": "1.6.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "nginx-1.6.2-1-omv2014.0.x86_64.rpm", 
+    "pkg": "nginx", 
+    "pkg_version": "1.6.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx12-1.2.9-2.w6.x86_64.rpm", 
+    "pkg": "nginx12", 
+    "pkg_version": "1.2.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx14-1.4.7-1.w6.x86_64.rpm", 
+    "pkg": "nginx14", 
+    "pkg_version": "1.4.7", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-naxsi_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-naxsi", 
+    "pkg_version": "1.6.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx16-1.6.2-1.w6.x86_64.rpm", 
+    "pkg": "nginx16", 
+    "pkg_version": "1.6.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "nginx-naxsi-ui_1.2.1-2.2+wheezy3_all.deb", 
+    "pkg": "nginx-naxsi-ui", 
+    "pkg_version": "1.2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-light_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-light", 
+    "pkg_version": "1.6.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-extras_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-extras", 
+    "pkg_version": "1.6.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-full_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-full", 
+    "pkg_version": "1.6.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "nginx-1.5.3-1-omv2013.0.x86_64.rpm", 
+    "pkg": "nginx", 
+    "pkg_version": "1.5.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx12-1.2.9-2.w6.x86_64.rpm", 
+    "pkg": "nginx12", 
+    "pkg_version": "1.2.9", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx14-1.4.7-1.w6.x86_64.rpm", 
+    "pkg": "nginx14", 
+    "pkg_version": "1.4.7", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-naxsi_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-naxsi", 
+    "pkg_version": "1.6.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx16-1.6.2-1.w6.x86_64.rpm", 
+    "pkg": "nginx16", 
+    "pkg_version": "1.6.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "nginx-naxsi-ui_1.2.1-2.2+wheezy3_all.deb", 
+    "pkg": "nginx-naxsi-ui", 
+    "pkg_version": "1.2.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-light_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-light", 
+    "pkg_version": "1.6.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-extras_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-extras", 
+    "pkg_version": "1.6.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-full_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-full", 
+    "pkg_version": "1.6.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "nginx-1.4.7-3.9.1.x86_64.rpm", 
+    "pkg": "nginx", 
+    "pkg_version": "1.4.7", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx12-1.2.9-2.w6.x86_64.rpm", 
+    "pkg": "nginx12", 
+    "pkg_version": "1.2.9", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx14-1.4.7-1.w6.x86_64.rpm", 
+    "pkg": "nginx14", 
+    "pkg_version": "1.4.7", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-naxsi_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-naxsi", 
+    "pkg_version": "1.6.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx16-1.6.2-1.w6.x86_64.rpm", 
+    "pkg": "nginx16", 
+    "pkg_version": "1.6.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "nginx-naxsi-ui_1.2.1-2.2+wheezy3_all.deb", 
+    "pkg": "nginx-naxsi-ui", 
+    "pkg_version": "1.2.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-light_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-light", 
+    "pkg_version": "1.6.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-extras_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-extras", 
+    "pkg_version": "1.6.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-full_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-full", 
+    "pkg_version": "1.6.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "nginx-1.7.9-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "nginx", 
+    "pkg_version": "1.7.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx12-1.2.9-2.w6.x86_64.rpm", 
+    "pkg": "nginx12", 
+    "pkg_version": "1.2.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx14-1.4.7-1.w6.x86_64.rpm", 
+    "pkg": "nginx14", 
+    "pkg_version": "1.4.7", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-naxsi_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-naxsi", 
+    "pkg_version": "1.6.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx16-1.6.2-1.w6.x86_64.rpm", 
+    "pkg": "nginx16", 
+    "pkg_version": "1.6.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "nginx-naxsi-ui_1.2.1-2.2+wheezy3_all.deb", 
+    "pkg": "nginx-naxsi-ui", 
+    "pkg_version": "1.2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-light_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-light", 
+    "pkg_version": "1.6.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-extras_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-extras", 
+    "pkg_version": "1.6.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-full_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-full", 
+    "pkg_version": "1.6.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "nginx-1.2.9-3-rosa2012.1.x86_64.rpm", 
+    "pkg": "nginx", 
+    "pkg_version": "1.2.9", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx12-1.2.9-2.w6.x86_64.rpm", 
+    "pkg": "nginx12", 
+    "pkg_version": "1.2.9", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx14-1.4.7-1.w6.x86_64.rpm", 
+    "pkg": "nginx14", 
+    "pkg_version": "1.4.7", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-naxsi_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-naxsi", 
+    "pkg_version": "1.6.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx16-1.6.2-1.w6.x86_64.rpm", 
+    "pkg": "nginx16", 
+    "pkg_version": "1.6.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "nginx-naxsi-ui_1.2.1-2.2+wheezy3_all.deb", 
+    "pkg": "nginx-naxsi-ui", 
+    "pkg_version": "1.2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-light_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-light", 
+    "pkg_version": "1.6.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-extras_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-extras", 
+    "pkg_version": "1.6.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-full_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-full", 
+    "pkg_version": "1.6.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "nginx-1.4.7-x86_64-1sl.txz", 
+    "pkg": "nginx", 
+    "pkg_version": "1.4.7", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx12-1.2.9-2.w6.x86_64.rpm", 
+    "pkg": "nginx12", 
+    "pkg_version": "1.2.9", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx14-1.4.7-1.w6.x86_64.rpm", 
+    "pkg": "nginx14", 
+    "pkg_version": "1.4.7", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-naxsi_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-naxsi", 
+    "pkg_version": "1.6.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx16-1.6.2-1.w6.x86_64.rpm", 
+    "pkg": "nginx16", 
+    "pkg_version": "1.6.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "nginx-naxsi-ui_1.2.1-2.2+wheezy3_all.deb", 
+    "pkg": "nginx-naxsi-ui", 
+    "pkg_version": "1.2.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-light_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-light", 
+    "pkg_version": "1.6.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-extras_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-extras", 
+    "pkg_version": "1.6.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-full_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-full", 
+    "pkg_version": "1.6.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "nginx-1.4.3-x86_64-1sl.txz", 
+    "pkg": "nginx", 
+    "pkg_version": "1.4.3", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx12-1.2.9-2.w6.x86_64.rpm", 
+    "pkg": "nginx12", 
+    "pkg_version": "1.2.9", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx14-1.4.7-1.w6.x86_64.rpm", 
+    "pkg": "nginx14", 
+    "pkg_version": "1.4.7", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-naxsi_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-naxsi", 
+    "pkg_version": "1.6.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx16-1.6.2-1.w6.x86_64.rpm", 
+    "pkg": "nginx16", 
+    "pkg_version": "1.6.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "nginx-naxsi-ui_1.2.1-2.2+wheezy3_all.deb", 
+    "pkg": "nginx-naxsi-ui", 
+    "pkg_version": "1.2.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-light_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-light", 
+    "pkg_version": "1.6.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-extras_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-extras", 
+    "pkg_version": "1.6.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-full_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-full", 
+    "pkg_version": "1.6.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "nginx-1.2.3-x86_64-2sl.txz", 
+    "pkg": "nginx", 
+    "pkg_version": "1.2.3", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx12-1.2.9-2.w6.x86_64.rpm", 
+    "pkg": "nginx12", 
+    "pkg_version": "1.2.9", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx14-1.4.7-1.w6.x86_64.rpm", 
+    "pkg": "nginx14", 
+    "pkg_version": "1.4.7", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-naxsi_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-naxsi", 
+    "pkg_version": "1.6.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx16-1.6.2-1.w6.x86_64.rpm", 
+    "pkg": "nginx16", 
+    "pkg_version": "1.6.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "nginx-naxsi-ui_1.2.1-2.2+wheezy3_all.deb", 
+    "pkg": "nginx-naxsi-ui", 
+    "pkg_version": "1.2.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "nginx-light_1.6.2-1~dotdeb.1_i386.deb", 
+    "pkg": "nginx-light", 
+    "pkg_version": "1.6.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "nginx-extras_1.6.2-1ubuntu1.1_i386.deb", 
+    "pkg": "nginx-extras", 
+    "pkg_version": "1.6.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "nginx-core_1.6.2-1ubuntu1.1_i386.deb", 
+    "pkg": "nginx-core", 
+    "pkg_version": "1.6.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "nginx-full_1.6.2-1ubuntu1.1_i386.deb", 
+    "pkg": "nginx-full", 
+    "pkg_version": "1.6.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "nginx_1.6.2-1ubuntu1.1_all.deb", 
+    "pkg": "nginx", 
+    "pkg_version": "1.6.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx12-1.2.9-2.w6.x86_64.rpm", 
+    "pkg": "nginx12", 
+    "pkg_version": "1.2.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx14-1.4.7-1.w6.x86_64.rpm", 
+    "pkg": "nginx14", 
+    "pkg_version": "1.4.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "nginx-naxsi_1.6.2-1ubuntu1.1_i386.deb", 
+    "pkg": "nginx-naxsi", 
+    "pkg_version": "1.6.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx16-1.6.2-1.w6.x86_64.rpm", 
+    "pkg": "nginx16", 
+    "pkg_version": "1.6.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "nginx-naxsi-ui_1.2.1-2.2+wheezy3_all.deb", 
+    "pkg": "nginx-naxsi-ui", 
+    "pkg_version": "1.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "nginx-light_1.6.2-1ubuntu1.1_i386.deb", 
+    "pkg": "nginx-light", 
+    "pkg_version": "1.6.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "nginx-extras_1.4.6-1ubuntu3.2_i386.deb", 
+    "pkg": "nginx-extras", 
+    "pkg_version": "1.4.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "nginx-core_1.4.6-1ubuntu3.2_i386.deb", 
+    "pkg": "nginx-core", 
+    "pkg_version": "1.4.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "nginx-full_1.4.6-1ubuntu3.2_i386.deb", 
+    "pkg": "nginx-full", 
+    "pkg_version": "1.4.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "nginx_1.4.6-1ubuntu3.2_all.deb", 
+    "pkg": "nginx", 
+    "pkg_version": "1.4.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx12-1.2.9-2.w6.x86_64.rpm", 
+    "pkg": "nginx12", 
+    "pkg_version": "1.2.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx14-1.4.7-1.w6.x86_64.rpm", 
+    "pkg": "nginx14", 
+    "pkg_version": "1.4.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "nginx-naxsi_1.4.6-1ubuntu3.2_i386.deb", 
+    "pkg": "nginx-naxsi", 
+    "pkg_version": "1.4.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "nginx16-1.6.2-1.w6.x86_64.rpm", 
+    "pkg": "nginx16", 
+    "pkg_version": "1.6.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "nginx-naxsi-ui_1.2.1-2.2+wheezy3_all.deb", 
+    "pkg": "nginx-naxsi-ui", 
+    "pkg_version": "1.2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "nginx-light_1.4.6-1ubuntu3.2_i386.deb", 
+    "pkg": "nginx-light", 
+    "pkg_version": "1.4.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

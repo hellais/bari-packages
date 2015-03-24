@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libzookeeper-st-dev_3.4.5+dfsg-2_i386.deb", 
+    "pkg": "libzookeeper-st-dev", 
+    "pkg_version": "3.4.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libzookeeper-st-dev_3.4.5+dfsg-2_i386.deb", 
+    "pkg": "libzookeeper-st-dev", 
+    "pkg_version": "3.4.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libzookeeper-st-dev_3.3.5+dfsg1-2_i386.deb", 
+    "pkg": "libzookeeper-st-dev", 
+    "pkg_version": "3.3.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libzookeeper-st-dev_3.4.5+dfsg-2_i386.deb", 
+    "pkg": "libzookeeper-st-dev", 
+    "pkg_version": "3.4.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libzookeeper-st-dev_3.4.5+dfsg-1_i386.deb", 
+    "pkg": "libzookeeper-st-dev", 
+    "pkg_version": "3.4.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

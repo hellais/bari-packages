@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgtksourceview-3.0-dev_3.14.1-1_i386.deb", 
+    "pkg": "libgtksourceview", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgtksourceview-3.0-dev_3.14.1-1_i386.deb", 
+    "pkg": "libgtksourceview", 
+    "pkg_version": "3.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgtksourceview-3.0-dev_3.4.2-1_i386.deb", 
+    "pkg": "libgtksourceview", 
+    "pkg_version": "3.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libgtksourceview-3.0-dev_3.12.3-1ubuntu1_i386.deb", 
+    "pkg": "libgtksourceview", 
+    "pkg_version": "3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libgtksourceview-3.0-dev_3.10.2-0ubuntu1_i386.deb", 
+    "pkg": "libgtksourceview", 
+    "pkg_version": "3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

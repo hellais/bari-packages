@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-msgpack_0.5.8-2_i386.deb", 
+    "pkg": "ruby-msgpack", 
+    "pkg_version": "0.5.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-msgpack_0.5.8-2_i386.deb", 
+    "pkg": "ruby-msgpack", 
+    "pkg_version": "0.5.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-msgpack_0.4.6-4_i386.deb", 
+    "pkg": "ruby-msgpack", 
+    "pkg_version": "0.4.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "ruby-msgpack-0.4.7-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "ruby-msgpack", 
+    "pkg_version": "0.4.7", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ruby-msgpack_0.5.8-2_i386.deb", 
+    "pkg": "ruby-msgpack", 
+    "pkg_version": "0.5.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

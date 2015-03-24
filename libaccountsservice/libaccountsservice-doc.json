@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libaccountsservice-doc_0.6.37-3_all.deb", 
+    "pkg": "libaccountsservice-doc", 
+    "pkg_version": "0.6.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libaccountsservice-doc_0.6.37-3_all.deb", 
+    "pkg": "libaccountsservice-doc", 
+    "pkg_version": "0.6.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libaccountsservice-doc_0.6.37-1ubuntu9_all.deb", 
+    "pkg": "libaccountsservice-doc", 
+    "pkg_version": "0.6.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

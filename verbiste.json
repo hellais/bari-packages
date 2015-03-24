@@ -1,0 +1,136 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "verbiste-0.1.41-alt1_2.x86_64.rpm", 
+    "pkg": "verbiste", 
+    "pkg_version": "0.1.4", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "verbiste_0.1.41-3_amd64.deb", 
+    "pkg": "verbiste", 
+    "pkg_version": "0.1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "verbiste_0.1.41-2_i386.deb", 
+    "pkg": "verbiste", 
+    "pkg_version": "0.1.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "verbiste_0.1.34-1_i386.deb", 
+    "pkg": "verbiste", 
+    "pkg_version": "0.1.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "verbiste-0.1.41-2.fc22.x86_64.rpm", 
+    "pkg": "verbiste", 
+    "pkg_version": "0.1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "verbiste-0.1.41-2.fc22.x86_64.rpm", 
+    "pkg": "verbiste", 
+    "pkg_version": "0.1.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "verbiste-0.1.41-2.fc21.x86_64.rpm", 
+    "pkg": "verbiste", 
+    "pkg_version": "0.1.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "verbiste-0.1.41-1.fc20.x86_64.rpm", 
+    "pkg": "verbiste", 
+    "pkg_version": "0.1.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "verbiste-0.1.35-1.14.x86_64.rpm", 
+    "pkg": "verbiste", 
+    "pkg_version": "0.1.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "verbiste-0.1.41-1.1.x86_64.rpm", 
+    "pkg": "verbiste", 
+    "pkg_version": "0.1.4", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "verbiste-0.1.34-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "verbiste", 
+    "pkg_version": "0.1.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "verbiste-0.1.34-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "verbiste", 
+    "pkg_version": "0.1.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Freestylers", 
+    "pkg_full_name": "verbiste-0.1.40-x86_64-1_fs.tgz", 
+    "pkg": "verbiste", 
+    "pkg_version": "0.1.4", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "verbiste_0.1.41-2_i386.deb", 
+    "pkg": "verbiste", 
+    "pkg_version": "0.1.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "verbiste_0.1.41-1_i386.deb", 
+    "pkg": "verbiste", 
+    "pkg_version": "0.1.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

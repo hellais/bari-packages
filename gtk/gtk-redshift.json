@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "gtk-redshift-1.7-6.el7.nux.x86_64.rpm", 
+    "pkg": "gtk-redshift", 
+    "pkg_version": "1.7", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "gtk-redshift-1.6-3.el6.x86_64.rpm", 
+    "pkg": "gtk-redshift", 
+    "pkg_version": "1.6", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gtk-redshift_1.9.1-4_all.deb", 
+    "pkg": "gtk-redshift", 
+    "pkg_version": "1.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gtk-redshift_1.9.1-4_all.deb", 
+    "pkg": "gtk-redshift", 
+    "pkg_version": "1.9.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gtk-redshift_1.7-2_all.deb", 
+    "pkg": "gtk-redshift", 
+    "pkg_version": "1.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gtk-redshift-1.7-6.fc20.x86_64.rpm", 
+    "pkg": "gtk-redshift", 
+    "pkg_version": "1.7", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gtk-redshift_1.8-0ubuntu6_all.deb", 
+    "pkg": "gtk-redshift", 
+    "pkg_version": "1.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gtk-redshift_1.8-0ubuntu6_all.deb", 
+    "pkg": "gtk-redshift", 
+    "pkg_version": "1.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

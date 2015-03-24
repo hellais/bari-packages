@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liquidsoap-plugin-frei0r_1.1.1-7+b1_i386.deb", 
+    "pkg": "liquidsoap-plugin-frei0r", 
+    "pkg_version": "1.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liquidsoap-plugin-frei0r_1.1.1-7+b1_i386.deb", 
+    "pkg": "liquidsoap-plugin-frei0r", 
+    "pkg_version": "1.1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "liquidsoap-plugin-frei0r_1.1.1-7ubuntu1_i386.deb", 
+    "pkg": "liquidsoap-plugin-frei0r", 
+    "pkg_version": "1.1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

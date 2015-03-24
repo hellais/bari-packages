@@ -1,0 +1,118 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "voms-server-2.0.11-alt1_10.x86_64.rpm", 
+    "pkg": "voms-server", 
+    "pkg_version": "2.0.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "voms-server-2.0.12-3.el7.x86_64.rpm", 
+    "pkg": "voms-server", 
+    "pkg_version": "2.0.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "voms-server-2.0.12-3.el6.x86_64.rpm", 
+    "pkg": "voms-server", 
+    "pkg_version": "2.0.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "voms-server-2.0.12-3.el5.x86_64.rpm", 
+    "pkg": "voms-server", 
+    "pkg_version": "2.0.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "voms-server_2.0.12-1_i386.deb", 
+    "pkg": "voms-server", 
+    "pkg_version": "2.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "voms-server_2.0.11-5_i386.deb", 
+    "pkg": "voms-server", 
+    "pkg_version": "2.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "voms-server_2.0.8-1_i386.deb", 
+    "pkg": "voms-server", 
+    "pkg_version": "2.0.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "voms-server-2.0.12-3.fc23.x86_64.rpm", 
+    "pkg": "voms-server", 
+    "pkg_version": "2.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "voms-server-2.0.12-2.fc22.x86_64.rpm", 
+    "pkg": "voms-server", 
+    "pkg_version": "2.0.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "voms-server-2.0.12-3.fc21.x86_64.rpm", 
+    "pkg": "voms-server", 
+    "pkg_version": "2.0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "voms-server-2.0.12-3.fc20.x86_64.rpm", 
+    "pkg": "voms-server", 
+    "pkg_version": "2.0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "voms-server_2.0.11-3_i386.deb", 
+    "pkg": "voms-server", 
+    "pkg_version": "2.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "voms-server_2.0.11-1_i386.deb", 
+    "pkg": "voms-server", 
+    "pkg_version": "2.0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

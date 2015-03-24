@@ -1,0 +1,64 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "makehuman-0.9.1-alt1_0.11.rc1a.x86_64.rpm", 
+    "pkg": "makehuman", 
+    "pkg_version": "0.9.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "makehuman_1.0.0~alpha6-5+b1_i386.deb", 
+    "pkg": "makehuman", 
+    "pkg_version": "1.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "makehuman_1.0.0~alpha6-5+b1_i386.deb", 
+    "pkg": "makehuman", 
+    "pkg_version": "1.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "makehuman-1.0.2-3-rosa2014.1.noarch.rpm", 
+    "pkg": "makehuman", 
+    "pkg_version": "1.0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Freestylers", 
+    "pkg_full_name": "makehuman-1.0.0-x86_64-1_fs.tgz", 
+    "pkg": "makehuman", 
+    "pkg_version": "1.0.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "makehuman_1.0.0~alpha6-5ubuntu3_i386.deb", 
+    "pkg": "makehuman", 
+    "pkg_version": "1.0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "makehuman_1.0.0~alpha6-5ubuntu3_i386.deb", 
+    "pkg": "makehuman", 
+    "pkg_version": "1.0.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

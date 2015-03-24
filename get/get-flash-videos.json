@@ -1,0 +1,110 @@
+[
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "get-flash-videos-1.24-7.20120714git162d964.el6.nux.noarch.rpm", 
+    "pkg": "get-flash-videos", 
+    "pkg_version": "1.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "get-flash-videos_1.25~git2014.03.23-1_all.deb", 
+    "pkg": "get-flash-videos", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "get-flash-videos_1.25~git2014.03.23-1_all.deb", 
+    "pkg": "get-flash-videos", 
+    "pkg_version": "1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "get-flash-videos_1.25~git2012.06.27-1_all.deb", 
+    "pkg": "get-flash-videos", 
+    "pkg_version": "1.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "get-flash-videos-1.24-11.20131203git2d46d08.fc21.noarch.rpm", 
+    "pkg": "get-flash-videos", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "get-flash-videos-1.24-11.20131203git2d46d08.fc21.noarch.rpm", 
+    "pkg": "get-flash-videos", 
+    "pkg_version": "1.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free Updates", 
+    "pkg_full_name": "get-flash-videos-1.24-11.20131203git2d46d08.fc20.noarch.rpm", 
+    "pkg": "get-flash-videos", 
+    "pkg_version": "1.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Network Utilities", 
+    "pkg_full_name": "get-flash-videos-1.22.g632-1.1.noarch.rpm", 
+    "pkg": "get-flash-videos", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Network Utilities", 
+    "pkg_full_name": "get-flash-videos-1.22.g632-1.1.noarch.rpm", 
+    "pkg": "get-flash-videos", 
+    "pkg_version": "1.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Network Utilities", 
+    "pkg_full_name": "get-flash-videos-1.22.g632-1.1.noarch.rpm", 
+    "pkg": "get-flash-videos", 
+    "pkg_version": "1.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "get-flash-videos_1.25~git2014.03.23-1_all.deb", 
+    "pkg": "get-flash-videos", 
+    "pkg_version": "1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "get-flash-videos_1.25~git2012.06.27-2_all.deb", 
+    "pkg": "get-flash-videos", 
+    "pkg_version": "1.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

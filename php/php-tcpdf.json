@@ -1,0 +1,182 @@
+[
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-tcpdf-6.2.6-1.el7.remi.noarch.rpm", 
+    "pkg": "php-tcpdf", 
+    "pkg_version": "6.2.6", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-tcpdf-6.2.6-1.el6.remi.noarch.rpm", 
+    "pkg": "php-tcpdf", 
+    "pkg_version": "6.2.6", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "php53-tcpdf-6.2.4-1.el5.noarch.rpm", 
+    "pkg": "php53-tcpdf", 
+    "pkg_version": "6.2.4", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-tcpdf-6.2.6-1.el5.remi.noarch.rpm", 
+    "pkg": "php-tcpdf", 
+    "pkg_version": "6.2.6", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "php53-tcpdf-6.2.4-1.el5.noarch.rpm", 
+    "pkg": "php53-tcpdf", 
+    "pkg_version": "6.2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php-tcpdf_6.0.093+dfsg-1_all.deb", 
+    "pkg": "php-tcpdf", 
+    "pkg_version": "6.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "php53-tcpdf-6.2.4-1.el5.noarch.rpm", 
+    "pkg": "php53-tcpdf", 
+    "pkg_version": "6.2.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php-tcpdf_6.0.093+dfsg-1_all.deb", 
+    "pkg": "php-tcpdf", 
+    "pkg_version": "6.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "php53-tcpdf-6.2.4-1.el5.noarch.rpm", 
+    "pkg": "php53-tcpdf", 
+    "pkg_version": "6.2.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "php-tcpdf_6.0.048+dfsg-2~bpo70+1_all.deb", 
+    "pkg": "php-tcpdf", 
+    "pkg_version": "6.0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "php53-tcpdf-6.2.4-1.el5.noarch.rpm", 
+    "pkg": "php53-tcpdf", 
+    "pkg_version": "6.2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "php-tcpdf-6.2.4-1.fc22.noarch.rpm", 
+    "pkg": "php-tcpdf", 
+    "pkg_version": "6.2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "php53-tcpdf-6.2.4-1.el5.noarch.rpm", 
+    "pkg": "php53-tcpdf", 
+    "pkg_version": "6.2.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "php-tcpdf-6.2.4-1.fc22.noarch.rpm", 
+    "pkg": "php-tcpdf", 
+    "pkg_version": "6.2.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "php53-tcpdf-6.2.4-1.el5.noarch.rpm", 
+    "pkg": "php53-tcpdf", 
+    "pkg_version": "6.2.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-tcpdf-6.2.6-1.fc21.remi.noarch.rpm", 
+    "pkg": "php-tcpdf", 
+    "pkg_version": "6.2.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "php53-tcpdf-6.2.4-1.el5.noarch.rpm", 
+    "pkg": "php53-tcpdf", 
+    "pkg_version": "6.2.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-tcpdf-6.2.6-1.fc20.remi.noarch.rpm", 
+    "pkg": "php-tcpdf", 
+    "pkg_version": "6.2.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "php53-tcpdf-6.2.4-1.el5.noarch.rpm", 
+    "pkg": "php53-tcpdf", 
+    "pkg_version": "6.2.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "php-tcpdf_6.0.048+dfsg-2_all.deb", 
+    "pkg": "php-tcpdf", 
+    "pkg_version": "6.0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

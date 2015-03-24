@@ -1,0 +1,83 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jd_2.8.9-150226-1_i386.deb", 
+    "pkg": "jd", 
+    "pkg_version": "2.8.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jd_2.8.8-140601-4_i386.deb", 
+    "pkg": "jd", 
+    "pkg_version": "2.8.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jd_2.8.5~beta120206-3_i386.deb", 
+    "pkg": "jd", 
+    "pkg_version": "2.8.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "jd-2.8.9-1.fc23.x86_64.rpm", 
+    "pkg": "jd", 
+    "pkg_version": "2.8.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "jd-2.8.9-0.4.svn4207_trunk.fc22.x86_64.rpm", 
+    "pkg": "jd", 
+    "pkg_version": "2.8.9", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "jd-2.8.9-1.fc21.x86_64.rpm", 
+    "pkg": "jd", 
+    "pkg_version": "2.8.9", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "jd-2.8.9-1.fc20.x86_64.rpm", 
+    "pkg": "jd", 
+    "pkg_version": "2.8.9", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "jd_2.8.8-140601-4_i386.deb", 
+    "pkg": "jd", 
+    "pkg_version": "2.8.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "jd_2.8.7-140104-1_i386.deb", 
+    "pkg": "jd", 
+    "pkg_version": "2.8.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "empathy-3.12.7-alt2.x86_64.rpm", 
+    "pkg": "empathy", 
+    "pkg_version": "3.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "empathy-3.12.7-2-x86_64.pkg.tar.xz", 
+    "pkg": "empathy", 
+    "pkg_version": "3.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "empathy-3.8.4-6.el7.x86_64.rpm", 
+    "pkg": "empathy", 
+    "pkg_version": "3.8.4", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "empathy_3.12.7-1_i386.deb", 
+    "pkg": "empathy", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "empathy_3.12.7-1_i386.deb", 
+    "pkg": "empathy", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "empathy_3.4.2.3-2+deb7u1_i386.deb", 
+    "pkg": "empathy", 
+    "pkg_version": "3.4.2.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "empathy-3.12.8-1.fc23.x86_64.rpm", 
+    "pkg": "empathy", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "empathy-3.12.7-1.fc22.x86_64.rpm", 
+    "pkg": "empathy", 
+    "pkg_version": "3.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "empathy-3.12.8-1.fc21.x86_64.rpm", 
+    "pkg": "empathy", 
+    "pkg_version": "3.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "empathy-3.10.3-2.fc20.x86_64.rpm", 
+    "pkg": "empathy", 
+    "pkg_version": "3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "empathy-3.12.7-2-omv2015.0.x86_64.rpm", 
+    "pkg": "empathy", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "empathy-3.6.3-4-omv2014.0.x86_64.rpm", 
+    "pkg": "empathy", 
+    "pkg_version": "3.6.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "empathy-3.6.3-3-omv2013.0.x86_64.rpm", 
+    "pkg": "empathy", 
+    "pkg_version": "3.6.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "empathy-3.12.8-1.1.x86_64.rpm", 
+    "pkg": "empathy", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "empathy-3.12.7-1.1.x86_64.rpm", 
+    "pkg": "empathy", 
+    "pkg_version": "3.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "empathy-3.10.3-42.2.x86_64.rpm", 
+    "pkg": "empathy", 
+    "pkg_version": "3.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "empathy-3.12.7-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "empathy", 
+    "pkg_version": "3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "empathy-3.8.4-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "empathy", 
+    "pkg_version": "3.8.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "GNOME SlackBuild 3.2 GSB", 
+    "pkg_full_name": "empathy-3.2.2-x86_64-1gsb.txz", 
+    "pkg": "empathy", 
+    "pkg_version": "3.2.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "empathy_3.8.6-0ubuntu13_i386.deb", 
+    "pkg": "empathy", 
+    "pkg_version": "3.8.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "empathy_3.8.6-0ubuntu9.1_i386.deb", 
+    "pkg": "empathy", 
+    "pkg_version": "3.8.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,369 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "mpg123-1.21.0-alt1.x86_64.rpm", 
+    "pkg": "mpg123", 
+    "pkg_version": "1.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "mpg123-1.22.0-1-x86_64.pkg.tar.xz", 
+    "pkg": "mpg123", 
+    "pkg_version": "1.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "mpg123-1.15.1-1.el7.nux.x86_64.rpm", 
+    "pkg": "mpg123", 
+    "pkg_version": "1.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "mpg123-1.20.1-1.el6.rf.x86_64.rpm", 
+    "pkg": "mpg123", 
+    "pkg_version": "1.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "mpg123-1.9.1-1.el5.rf.x86_64.rpm", 
+    "pkg": "mpg123", 
+    "pkg_version": "1.9.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mpg123_1.20.1-2_i386.deb", 
+    "pkg": "mpg123", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mpg321_0.3.2-1.1_i386.deb", 
+    "pkg": "mpg321", 
+    "pkg_version": "0.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mpg123_1.20.1-2_i386.deb", 
+    "pkg": "mpg123", 
+    "pkg_version": "1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mpg321_0.3.2-1.1_i386.deb", 
+    "pkg": "mpg321", 
+    "pkg_version": "0.3.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mpg123_1.14.4-1_i386.deb", 
+    "pkg": "mpg123", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mpg321_0.3.2-1.1_i386.deb", 
+    "pkg": "mpg321", 
+    "pkg_version": "0.3.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "mpg123-1.19.0-2.fc21.x86_64.rpm", 
+    "pkg": "mpg123", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mpg321_0.3.2-1.1_i386.deb", 
+    "pkg": "mpg321", 
+    "pkg_version": "0.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "mpg123-1.19.0-2.fc21.x86_64.rpm", 
+    "pkg": "mpg123", 
+    "pkg_version": "1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mpg321_0.3.2-1.1_i386.deb", 
+    "pkg": "mpg321", 
+    "pkg_version": "0.3.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free Updates", 
+    "pkg_full_name": "mpg123-1.19.0-1.fc20.x86_64.rpm", 
+    "pkg": "mpg123", 
+    "pkg_version": "1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mpg321_0.3.2-1.1_i386.deb", 
+    "pkg": "mpg321", 
+    "pkg_version": "0.3.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "mpg123-1.15.4-10-omv2015.0.x86_64.rpm", 
+    "pkg": "mpg123", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mpg321_0.3.2-1.1_i386.deb", 
+    "pkg": "mpg321", 
+    "pkg_version": "0.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "mpg123-1.15.4-4-omv2014.0.x86_64.rpm", 
+    "pkg": "mpg123", 
+    "pkg_version": "1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mpg321_0.3.2-1.1_i386.deb", 
+    "pkg": "mpg321", 
+    "pkg_version": "0.3.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "mpg123-1.15.4-3-omv2013.0.x86_64.rpm", 
+    "pkg": "mpg123", 
+    "pkg_version": "1.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mpg321_0.3.2-1.1_i386.deb", 
+    "pkg": "mpg321", 
+    "pkg_version": "0.3.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "mpg123-1.18.0-1.22.x86_64.rpm", 
+    "pkg": "mpg123", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mpg321_0.3.2-1.1_i386.deb", 
+    "pkg": "mpg321", 
+    "pkg_version": "0.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "mpg123-1.18.0-1.6.x86_64.rpm", 
+    "pkg": "mpg123", 
+    "pkg_version": "1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mpg321_0.3.2-1.1_i386.deb", 
+    "pkg": "mpg321", 
+    "pkg_version": "0.3.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "mpg123-1.15.4-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "mpg123", 
+    "pkg_version": "1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mpg321_0.3.2-1.1_i386.deb", 
+    "pkg": "mpg321", 
+    "pkg_version": "0.3.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "mpg123-1.15.4-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "mpg123", 
+    "pkg_version": "1.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mpg321_0.3.2-1.1_i386.deb", 
+    "pkg": "mpg321", 
+    "pkg_version": "0.3.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "mpg123-1.15.4-x86_64-1.txz", 
+    "pkg": "mpg123", 
+    "pkg_version": "1.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mpg321_0.3.2-1.1_i386.deb", 
+    "pkg": "mpg321", 
+    "pkg_version": "0.3.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "mpg123-1.14.4-x86_64-1.txz", 
+    "pkg": "mpg123", 
+    "pkg_version": "1.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mpg321_0.3.2-1.1_i386.deb", 
+    "pkg": "mpg321", 
+    "pkg_version": "0.3.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "mpg123-1.13.3-x86_64-1.txz", 
+    "pkg": "mpg123", 
+    "pkg_version": "1.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mpg321_0.3.2-1.1_i386.deb", 
+    "pkg": "mpg321", 
+    "pkg_version": "0.3.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mpg123_1.18.0-1ubuntu1_i386.deb", 
+    "pkg": "mpg123", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mpg321_0.3.2-1.1_i386.deb", 
+    "pkg": "mpg321", 
+    "pkg_version": "0.3.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mpg123_1.16.0-1ubuntu1_i386.deb", 
+    "pkg": "mpg123", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mpg321_0.3.2-1.1_i386.deb", 
+    "pkg": "mpg321", 
+    "pkg_version": "0.3.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

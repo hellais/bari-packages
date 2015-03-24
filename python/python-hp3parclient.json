@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-hp3parclient_3.0.0-2_all.deb", 
+    "pkg": "python-hp3parclient", 
+    "pkg_version": "3.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-hp3parclient_3.0.0-2_all.deb", 
+    "pkg": "python-hp3parclient", 
+    "pkg_version": "3.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-hp3parclient-3.0.0-3.2.noarch.rpm", 
+    "pkg": "python-hp3parclient", 
+    "pkg_version": "3.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-hp3parclient-3.0.0-2.1.4.noarch.rpm", 
+    "pkg": "python-hp3parclient", 
+    "pkg_version": "3.0.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-hp3parclient-2.0.0-1.1.noarch.rpm", 
+    "pkg": "python-hp3parclient", 
+    "pkg_version": "2.0.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-hp3parclient_3.0.0-0ubuntu1_all.deb", 
+    "pkg": "python-hp3parclient", 
+    "pkg_version": "3.0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

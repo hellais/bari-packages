@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "extplorer_2.1.0b6+dfsg.3-4+deb7u1_all.deb", 
+    "pkg": "extplorer", 
+    "pkg_version": "2.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "extplorer_2.1.0b6+dfsg.3-4+deb7u1_all.deb", 
+    "pkg": "extplorer", 
+    "pkg_version": "2.1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "extplorer_2.1.0b6+dfsg.3-4+deb7u1_all.deb", 
+    "pkg": "extplorer", 
+    "pkg_version": "2.1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "extplorer_2.1.0b6+dfsg.3-4_all.deb", 
+    "pkg": "extplorer", 
+    "pkg_version": "2.1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

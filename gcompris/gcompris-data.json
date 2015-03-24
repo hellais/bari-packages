@@ -1,0 +1,136 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "gcompris-data-15.02-1-any.pkg.tar.xz", 
+    "pkg": "gcompris-data-1", 
+    "pkg_version": "5.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "gcompris-data-15.02-1-any.pkg.tar.xz", 
+    "pkg": "gcompris-data-1", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gcompris-data_14.12-1_all.deb", 
+    "pkg": "gcompris-data_1", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "gcompris-data-15.02-1-any.pkg.tar.xz", 
+    "pkg": "gcompris-data-1", 
+    "pkg_version": "5.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gcompris-data_14.12-1_all.deb", 
+    "pkg": "gcompris-data_1", 
+    "pkg_version": "4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "gcompris-data-15.02-1-any.pkg.tar.xz", 
+    "pkg": "gcompris-data-1", 
+    "pkg_version": "5.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gcompris-data_12.01-1_all.deb", 
+    "pkg": "gcompris-data_1", 
+    "pkg_version": "2.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "gcompris-data-14.05-1.13.noarch.rpm", 
+    "pkg": "gcompris-data-1", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gcompris-data_12.01-1_all.deb", 
+    "pkg": "gcompris-data_1", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "gcompris-data-14.05-1.16.noarch.rpm", 
+    "pkg": "gcompris-data-1", 
+    "pkg_version": "4.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gcompris-data_12.01-1_all.deb", 
+    "pkg": "gcompris-data_1", 
+    "pkg_version": "2.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "gcompris-data-14.05-1.16.noarch.rpm", 
+    "pkg": "gcompris-data-1", 
+    "pkg_version": "4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gcompris-data_14.05-1_all.deb", 
+    "pkg": "gcompris-data_1", 
+    "pkg_version": "4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "gcompris-data-14.05-1.16.noarch.rpm", 
+    "pkg": "gcompris-data-1", 
+    "pkg_version": "4.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gcompris-data_13.11-1_all.deb", 
+    "pkg": "gcompris-data_1", 
+    "pkg_version": "3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

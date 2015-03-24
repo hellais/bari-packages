@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcnoid-dev_1.1.0+dfsg-6.2_i386.deb", 
+    "pkg": "libcnoid-dev", 
+    "pkg_version": "1.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcnoid-dev_1.1.0+dfsg-6.1+b4_i386.deb", 
+    "pkg": "libcnoid-dev", 
+    "pkg_version": "1.1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

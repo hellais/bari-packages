@@ -1,0 +1,101 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "paulstretch_2.2-2-3_i386.deb", 
+    "pkg": "paulstretch", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "paulstretch_2.2-2-3_i386.deb", 
+    "pkg": "paulstretch", 
+    "pkg_version": "2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "paulstretch_2.2-2-2_i386.deb", 
+    "pkg": "paulstretch", 
+    "pkg_version": "2.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "paulstretch-2.2.2-9.fc23.x86_64.rpm", 
+    "pkg": "paulstretch", 
+    "pkg_version": "2.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "paulstretch-2.2.2-8.fc22.x86_64.rpm", 
+    "pkg": "paulstretch", 
+    "pkg_version": "2.2.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "paulstretch-2.2.2-8.fc21.x86_64.rpm", 
+    "pkg": "paulstretch", 
+    "pkg_version": "2.2.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "paulstretch-2.2.2-6.fc20.x86_64.rpm", 
+    "pkg": "paulstretch", 
+    "pkg_version": "2.2.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Multimedia Apps", 
+    "pkg_full_name": "paulstretch-2.2-1.22.x86_64.rpm", 
+    "pkg": "paulstretch", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Multimedia Apps", 
+    "pkg_full_name": "paulstretch-2.2-1.1.x86_64.rpm", 
+    "pkg": "paulstretch", 
+    "pkg_version": "2.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Multimedia Apps", 
+    "pkg_full_name": "paulstretch-2.2-1.4.x86_64.rpm", 
+    "pkg": "paulstretch", 
+    "pkg_version": "2.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "paulstretch_2.2-2-2_i386.deb", 
+    "pkg": "paulstretch", 
+    "pkg_version": "2.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

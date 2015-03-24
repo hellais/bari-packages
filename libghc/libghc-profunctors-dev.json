@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-profunctors-dev_4.0.4-1+b4_i386.deb", 
+    "pkg": "libghc-profunctors-dev", 
+    "pkg_version": "4.0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-profunctors-dev_4.0.4-1+b4_i386.deb", 
+    "pkg": "libghc-profunctors-dev", 
+    "pkg_version": "4.0.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-profunctors-dev_4.0.4-1build1_i386.deb", 
+    "pkg": "libghc-profunctors-dev", 
+    "pkg_version": "4.0.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

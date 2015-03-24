@@ -1,0 +1,549 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xdg-utils-1.1.0-alt11.noarch.rpm", 
+    "pkg": "xdg-utils", 
+    "pkg_version": "1.1.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "xdg-utils-1.1.0.git20150302-1-any.pkg.tar.xz", 
+    "pkg": "xdg-utils", 
+    "pkg_version": "1.1.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "xdg-utils-1.1.0-0.16.20120809git.el7.noarch.rpm", 
+    "pkg": "xdg-utils", 
+    "pkg_version": "1.1.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "xdg-utils-1.0.2-17.20091016cvs.el6.noarch.rpm", 
+    "pkg": "xdg-utils", 
+    "pkg_version": "1.0.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Scientific Linux Cyrillic Edition", 
+    "pkg_full_name": "xdg-utils-1.0.2-2.Nau5x.noarch.rpm", 
+    "pkg": "xdg-utils", 
+    "pkg_version": "1.0.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xdg-utils_1.1.0~rc1+git20111210-7.4_all.deb", 
+    "pkg": "xdg-utils", 
+    "pkg_version": "1.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xdg-utils_1.1.0~rc1+git20111210-7.4_all.deb", 
+    "pkg": "xdg-utils", 
+    "pkg_version": "1.1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "xdg-utils_1.1.0~rc1+git20111210-6+deb7u3_all.deb", 
+    "pkg": "xdg-utils", 
+    "pkg_version": "1.1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xdg-utils-1.1.0-0.39.rc3.fc23.noarch.rpm", 
+    "pkg": "xdg-utils", 
+    "pkg_version": "1.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xdg-utils-1.1.0-0.38.rc3.fc22.noarch.rpm", 
+    "pkg": "xdg-utils", 
+    "pkg_version": "1.1.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "xdg-utils-1.1.0-0.39.rc3.fc21.noarch.rpm", 
+    "pkg": "xdg-utils", 
+    "pkg_version": "1.1.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "xdg-utils-1.1.0-0.38.rc3.fc20.noarch.rpm", 
+    "pkg": "xdg-utils", 
+    "pkg_version": "1.1.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "xdg-utils-1.1.0-0.20150205.5-omv2015.0.noarch.rpm", 
+    "pkg": "xdg-utils", 
+    "pkg_version": "1.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "xdg-utils-1.1.0-0.20130218.2-omv2014.0.noarch.rpm", 
+    "pkg": "xdg-utils", 
+    "pkg_version": "1.1.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "xdg-utils-1.1.0-0.20130218.2-omv2013.0.noarch.rpm", 
+    "pkg": "xdg-utils", 
+    "pkg_version": "1.1.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "xdg-utils-1.1.0-0.20130218.2-omv2013.0.noarch.rpm", 
+    "pkg": "xdg-utils", 
+    "pkg_version": "1.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xdg-utils-20150119-1.1.noarch.rpm", 
+    "pkg": "xdg-utils-20150119", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "xdg-utils-20140922-12.1.noarch.rpm", 
+    "pkg": "xdg-utils-20140922-1", 
+    "pkg_version": "2.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "xdg-utils-1.1.0-0.20130218.2-omv2013.0.noarch.rpm", 
+    "pkg": "xdg-utils", 
+    "pkg_version": "1.1.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xdg-utils-20150119-1.1.noarch.rpm", 
+    "pkg": "xdg-utils-20150119", 
+    "pkg_version": "1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "xdg-utils-20140922-8.1.noarch.rpm", 
+    "pkg": "xdg-utils-20140922", 
+    "pkg_version": "8.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "xdg-utils-20140922-12.1.noarch.rpm", 
+    "pkg": "xdg-utils-20140922-1", 
+    "pkg_version": "2.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "xdg-utils-1.1.0-0.20130218.2-omv2013.0.noarch.rpm", 
+    "pkg": "xdg-utils", 
+    "pkg_version": "1.1.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xdg-utils-20121008-2.2.1.noarch.rpm", 
+    "pkg": "xdg-utils-20121008", 
+    "pkg_version": "2.2.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xdg-utils-20150119-1.1.noarch.rpm", 
+    "pkg": "xdg-utils-20150119", 
+    "pkg_version": "1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "xdg-utils-20140922-8.1.noarch.rpm", 
+    "pkg": "xdg-utils-20140922", 
+    "pkg_version": "8.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "xdg-utils-20140922-12.1.noarch.rpm", 
+    "pkg": "xdg-utils-20140922-1", 
+    "pkg_version": "2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "xdg-utils-1.1.0-0.20130218.1-rosa2014.1.noarch.rpm", 
+    "pkg": "xdg-utils", 
+    "pkg_version": "1.1.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xdg-utils-20121008-2.2.1.noarch.rpm", 
+    "pkg": "xdg-utils-20121008", 
+    "pkg_version": "2.2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xdg-utils-20150119-1.1.noarch.rpm", 
+    "pkg": "xdg-utils-20150119", 
+    "pkg_version": "1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "xdg-utils-20140922-8.1.noarch.rpm", 
+    "pkg": "xdg-utils-20140922", 
+    "pkg_version": "8.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "xdg-utils-20140922-12.1.noarch.rpm", 
+    "pkg": "xdg-utils-20140922-1", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "xdg-utils-1.1.0-0.20130218.1-rosa2012.1.noarch.rpm", 
+    "pkg": "xdg-utils", 
+    "pkg_version": "1.1.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xdg-utils-20121008-2.2.1.noarch.rpm", 
+    "pkg": "xdg-utils-20121008", 
+    "pkg_version": "2.2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xdg-utils-20150119-1.1.noarch.rpm", 
+    "pkg": "xdg-utils-20150119", 
+    "pkg_version": "1.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "xdg-utils-20140922-8.1.noarch.rpm", 
+    "pkg": "xdg-utils-20140922", 
+    "pkg_version": "8.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "xdg-utils-20140922-12.1.noarch.rpm", 
+    "pkg": "xdg-utils-20140922-1", 
+    "pkg_version": "2.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "xdg-utils-1.1.0_rc1-noarch-2.txz", 
+    "pkg": "xdg-utils", 
+    "pkg_version": "1.1.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xdg-utils-20121008-2.2.1.noarch.rpm", 
+    "pkg": "xdg-utils-20121008", 
+    "pkg_version": "2.2.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xdg-utils-20150119-1.1.noarch.rpm", 
+    "pkg": "xdg-utils-20150119", 
+    "pkg_version": "1.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "xdg-utils-20140922-8.1.noarch.rpm", 
+    "pkg": "xdg-utils-20140922", 
+    "pkg_version": "8.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "xdg-utils-20140922-12.1.noarch.rpm", 
+    "pkg": "xdg-utils-20140922-1", 
+    "pkg_version": "2.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "xdg-utils-1.1.0_rc1-noarch-1.txz", 
+    "pkg": "xdg-utils", 
+    "pkg_version": "1.1.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xdg-utils-20121008-2.2.1.noarch.rpm", 
+    "pkg": "xdg-utils-20121008", 
+    "pkg_version": "2.2.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xdg-utils-20150119-1.1.noarch.rpm", 
+    "pkg": "xdg-utils-20150119", 
+    "pkg_version": "1.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "xdg-utils-20140922-8.1.noarch.rpm", 
+    "pkg": "xdg-utils-20140922", 
+    "pkg_version": "8.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "xdg-utils-20140922-12.1.noarch.rpm", 
+    "pkg": "xdg-utils-20140922-1", 
+    "pkg_version": "2.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "xdg-utils-1.1.0_rc1-noarch-1.txz", 
+    "pkg": "xdg-utils", 
+    "pkg_version": "1.1.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xdg-utils-20121008-2.2.1.noarch.rpm", 
+    "pkg": "xdg-utils-20121008", 
+    "pkg_version": "2.2.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xdg-utils-20150119-1.1.noarch.rpm", 
+    "pkg": "xdg-utils-20150119", 
+    "pkg_version": "1.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "xdg-utils-20140922-8.1.noarch.rpm", 
+    "pkg": "xdg-utils-20140922", 
+    "pkg_version": "8.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "xdg-utils-20140922-12.1.noarch.rpm", 
+    "pkg": "xdg-utils-20140922-1", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "xdg-utils_1.1.0~rc1-2ubuntu8_all.deb", 
+    "pkg": "xdg-utils", 
+    "pkg_version": "1.1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xdg-utils-20121008-2.2.1.noarch.rpm", 
+    "pkg": "xdg-utils-20121008", 
+    "pkg_version": "2.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xdg-utils-20150119-1.1.noarch.rpm", 
+    "pkg": "xdg-utils-20150119", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "xdg-utils-20140922-8.1.noarch.rpm", 
+    "pkg": "xdg-utils-20140922", 
+    "pkg_version": "8.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "xdg-utils-20140922-12.1.noarch.rpm", 
+    "pkg": "xdg-utils-20140922-1", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "xdg-utils_1.1.0~rc1-2ubuntu7.1_all.deb", 
+    "pkg": "xdg-utils", 
+    "pkg_version": "1.1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xdg-utils-20121008-2.2.1.noarch.rpm", 
+    "pkg": "xdg-utils-20121008", 
+    "pkg_version": "2.2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xdg-utils-20150119-1.1.noarch.rpm", 
+    "pkg": "xdg-utils-20150119", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "xdg-utils-20140922-8.1.noarch.rpm", 
+    "pkg": "xdg-utils-20140922", 
+    "pkg_version": "8.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

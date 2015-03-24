@@ -1,0 +1,397 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "torque-client-4.2.1-alt1.x86_64.rpm", 
+    "pkg": "torque-client", 
+    "pkg_version": "4.2.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "torque4-client-4.2.6.1-17.sdl6.x86_64.rpm", 
+    "pkg": "torque4-client", 
+    "pkg_version": "4.2.6.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "torque-client-3.0.6-10.sdl6.x86_64.rpm", 
+    "pkg": "torque-client", 
+    "pkg_version": "3.0.6", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "torque4-client-4.2.6.1-17.sdl6.x86_64.rpm", 
+    "pkg": "torque4-client", 
+    "pkg_version": "4.2.6.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "torque-client-3.0.6-8.sdl5.x86_64.rpm", 
+    "pkg": "torque-client", 
+    "pkg_version": "3.0.6", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "torque4-client-4.2.6.1-17.sdl6.x86_64.rpm", 
+    "pkg": "torque4-client", 
+    "pkg_version": "4.2.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "torque-client-x11_2.4.16+dfsg-1.5_i386.deb", 
+    "pkg": "torque-client-x11", 
+    "pkg_version": "2.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "torque-client_2.4.16+dfsg-1.5_i386.deb", 
+    "pkg": "torque-client", 
+    "pkg_version": "2.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "torque4-client-4.2.6.1-17.sdl6.x86_64.rpm", 
+    "pkg": "torque4-client", 
+    "pkg_version": "4.2.6.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "torque-client-x11_2.4.16+dfsg-1+deb7u4_i386.deb", 
+    "pkg": "torque-client-x11", 
+    "pkg_version": "2.4.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "torque-client_2.4.16+dfsg-1+deb7u4_i386.deb", 
+    "pkg": "torque-client", 
+    "pkg_version": "2.4.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "torque4-client-4.2.6.1-17.sdl6.x86_64.rpm", 
+    "pkg": "torque4-client", 
+    "pkg_version": "4.2.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "torque-client-x11_2.4.16+dfsg-1+deb7u4_i386.deb", 
+    "pkg": "torque-client-x11", 
+    "pkg_version": "2.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "torque-client-4.2.8-1.fc22.x86_64.rpm", 
+    "pkg": "torque-client", 
+    "pkg_version": "4.2.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "torque4-client-4.2.6.1-17.sdl6.x86_64.rpm", 
+    "pkg": "torque4-client", 
+    "pkg_version": "4.2.6.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "torque-client-x11_2.4.16+dfsg-1+deb7u4_i386.deb", 
+    "pkg": "torque-client-x11", 
+    "pkg_version": "2.4.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "torque-client-4.2.8-1.fc22.x86_64.rpm", 
+    "pkg": "torque-client", 
+    "pkg_version": "4.2.8", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "torque4-client-4.2.6.1-17.sdl6.x86_64.rpm", 
+    "pkg": "torque4-client", 
+    "pkg_version": "4.2.6.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "torque-client-x11_2.4.16+dfsg-1+deb7u4_i386.deb", 
+    "pkg": "torque-client-x11", 
+    "pkg_version": "2.4.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "torque-client-4.2.8-1.fc21.x86_64.rpm", 
+    "pkg": "torque-client", 
+    "pkg_version": "4.2.8", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "torque4-client-4.2.6.1-17.sdl6.x86_64.rpm", 
+    "pkg": "torque4-client", 
+    "pkg_version": "4.2.6.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "torque-client-x11_2.4.16+dfsg-1+deb7u4_i386.deb", 
+    "pkg": "torque-client-x11", 
+    "pkg_version": "2.4.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "torque-client-3.0.4-6.fc20.x86_64.rpm", 
+    "pkg": "torque-client", 
+    "pkg_version": "3.0.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "torque4-client-4.2.6.1-17.sdl6.x86_64.rpm", 
+    "pkg": "torque4-client", 
+    "pkg_version": "4.2.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "torque-client-x11_2.4.16+dfsg-1+deb7u4_i386.deb", 
+    "pkg": "torque-client-x11", 
+    "pkg_version": "2.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "torque-client-3.0.5-3-omv2015.0.x86_64.rpm", 
+    "pkg": "torque-client", 
+    "pkg_version": "3.0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "torque4-client-4.2.6.1-17.sdl6.x86_64.rpm", 
+    "pkg": "torque4-client", 
+    "pkg_version": "4.2.6.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "torque-client-x11_2.4.16+dfsg-1+deb7u4_i386.deb", 
+    "pkg": "torque-client-x11", 
+    "pkg_version": "2.4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib Updates", 
+    "pkg_full_name": "torque-client-3.0.5-1-omv2014.0.x86_64.rpm", 
+    "pkg": "torque-client", 
+    "pkg_version": "3.0.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "torque4-client-4.2.6.1-17.sdl6.x86_64.rpm", 
+    "pkg": "torque4-client", 
+    "pkg_version": "4.2.6.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "torque-client-x11_2.4.16+dfsg-1+deb7u4_i386.deb", 
+    "pkg": "torque-client-x11", 
+    "pkg_version": "2.4.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "torque-client-3.0.5-1-omv2013.0.x86_64.rpm", 
+    "pkg": "torque-client", 
+    "pkg_version": "3.0.5", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "torque4-client-4.2.6.1-17.sdl6.x86_64.rpm", 
+    "pkg": "torque4-client", 
+    "pkg_version": "4.2.6.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "torque-client-x11_2.4.16+dfsg-1+deb7u4_i386.deb", 
+    "pkg": "torque-client-x11", 
+    "pkg_version": "2.4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "torque-client-3.0.5-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "torque-client", 
+    "pkg_version": "3.0.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "torque4-client-4.2.6.1-17.sdl6.x86_64.rpm", 
+    "pkg": "torque4-client", 
+    "pkg_version": "4.2.6.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "torque-client-x11_2.4.16+dfsg-1+deb7u4_i386.deb", 
+    "pkg": "torque-client-x11", 
+    "pkg_version": "2.4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "torque-client-3.0.5-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "torque-client", 
+    "pkg_version": "3.0.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "torque4-client-4.2.6.1-17.sdl6.x86_64.rpm", 
+    "pkg": "torque4-client", 
+    "pkg_version": "4.2.6.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "torque-client-x11_2.4.16+dfsg-1.4ubuntu1_i386.deb", 
+    "pkg": "torque-client-x11", 
+    "pkg_version": "2.4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "torque-client_2.4.16+dfsg-1.4ubuntu1_i386.deb", 
+    "pkg": "torque-client", 
+    "pkg_version": "2.4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "torque4-client-4.2.6.1-17.sdl6.x86_64.rpm", 
+    "pkg": "torque4-client", 
+    "pkg_version": "4.2.6.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "torque-client-x11_2.4.16+dfsg-1.3ubuntu1_i386.deb", 
+    "pkg": "torque-client-x11", 
+    "pkg_version": "2.4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "torque-client_2.4.16+dfsg-1.3ubuntu1_i386.deb", 
+    "pkg": "torque-client", 
+    "pkg_version": "2.4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

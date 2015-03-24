@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pentobi-kde-thumbnailer_8.2-1_i386.deb", 
+    "pkg": "pentobi-kde-thumbnailer", 
+    "pkg_version": "8.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pentobi-kde-thumbnailer_8.2-1_i386.deb", 
+    "pkg": "pentobi-kde-thumbnailer", 
+    "pkg_version": "8.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "pentobi-kde-thumbnailer_8.0-2_i386.deb", 
+    "pkg": "pentobi-kde-thumbnailer", 
+    "pkg_version": "8.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

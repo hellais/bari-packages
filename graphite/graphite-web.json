@@ -1,0 +1,83 @@
+[
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "graphite-web-0.9.12-8.el7.noarch.rpm", 
+    "pkg": "graphite-web", 
+    "pkg_version": "0.9.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "graphite-web-0.9.12-5.el6.noarch.rpm", 
+    "pkg": "graphite-web", 
+    "pkg_version": "0.9.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "graphite-web_0.9.12+debian-7_all.deb", 
+    "pkg": "graphite-web", 
+    "pkg_version": "0.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "graphite-web_0.9.12+debian-6_all.deb", 
+    "pkg": "graphite-web", 
+    "pkg_version": "0.9.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "graphite-web-0.9.13-0.3.aa992b9.fc23.noarch.rpm", 
+    "pkg": "graphite-web", 
+    "pkg_version": "0.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "graphite-web-0.9.12-8.fc22.noarch.rpm", 
+    "pkg": "graphite-web", 
+    "pkg_version": "0.9.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "graphite-web-0.9.13-0.3.aa992b9.fc21.noarch.rpm", 
+    "pkg": "graphite-web", 
+    "pkg_version": "0.9.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "graphite-web-0.9.12-8.fc20.noarch.rpm", 
+    "pkg": "graphite-web", 
+    "pkg_version": "0.9.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "graphite-web_0.9.12+debian-4_all.deb", 
+    "pkg": "graphite-web", 
+    "pkg_version": "0.9.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

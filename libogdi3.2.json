@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libogdi3.2_3.2.0~beta2-7.1_i386.deb", 
+    "pkg": "libogdi", 
+    "pkg_version": "3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libogdi3.2_3.2.0~beta2-7.1_i386.deb", 
+    "pkg": "libogdi", 
+    "pkg_version": "3.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libogdi3.2_3.2.0~beta2-7_i386.deb", 
+    "pkg": "libogdi", 
+    "pkg_version": "3.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libogdi3.2_3.2.0~beta2-7.1_i386.deb", 
+    "pkg": "libogdi", 
+    "pkg_version": "3.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libogdi3.2_3.2.0~beta2-7ubuntu1_i386.deb", 
+    "pkg": "libogdi", 
+    "pkg_version": "3.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

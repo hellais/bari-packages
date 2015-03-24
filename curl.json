@@ -1,0 +1,225 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "curl-7.41.0-alt1.x86_64.rpm", 
+    "pkg": "curl", 
+    "pkg_version": "7.4", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Core", 
+    "pkg_full_name": "curl-7.41.0-1-x86_64.pkg.tar.xz", 
+    "pkg": "curl", 
+    "pkg_version": "7.4", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "curl-7.29.0-19.el7.x86_64.rpm", 
+    "pkg": "curl", 
+    "pkg_version": "7.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "curl-7.19.7-40.el6_6.4.x86_64.rpm", 
+    "pkg": "curl", 
+    "pkg_version": "7.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi Testing", 
+    "pkg_full_name": "curl-7.29.0-19.el5.remi.x86_64.rpm", 
+    "pkg": "curl", 
+    "pkg_version": "7.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "curl_7.38.0-4_i386.deb", 
+    "pkg": "curl", 
+    "pkg_version": "7.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "curl_7.38.0-4_i386.deb", 
+    "pkg": "curl", 
+    "pkg_version": "7.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "curl_7.26.0-1+wheezy12_i386.deb", 
+    "pkg": "curl", 
+    "pkg_version": "7.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "curl-7.41.0-1.fc23.x86_64.rpm", 
+    "pkg": "curl", 
+    "pkg_version": "7.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "curl-7.40.0-1.fc22.x86_64.rpm", 
+    "pkg": "curl", 
+    "pkg_version": "7.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "curl-7.37.0-13.fc21.x86_64.rpm", 
+    "pkg": "curl", 
+    "pkg_version": "7.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "curl-7.32.0-19.fc20.x86_64.rpm", 
+    "pkg": "curl", 
+    "pkg_version": "7.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "curl-7.41.0-1-omv2015.0.x86_64.rpm", 
+    "pkg": "curl", 
+    "pkg_version": "7.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "curl-7.41.0-0.1-omv2014.0.x86_64.rpm", 
+    "pkg": "curl", 
+    "pkg_version": "7.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "curl-7.30.0-3-omv2013.0.x86_64.rpm", 
+    "pkg": "curl", 
+    "pkg_version": "7.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "curl-7.41.0-1.1.x86_64.rpm", 
+    "pkg": "curl", 
+    "pkg_version": "7.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "curl-7.40.0-4.1.x86_64.rpm", 
+    "pkg": "curl", 
+    "pkg_version": "7.4", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "curl-7.40.0-2.35.1.x86_64.rpm", 
+    "pkg": "curl", 
+    "pkg_version": "7.4", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "curl-7.39.0-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "curl", 
+    "pkg_version": "7.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "curl-7.30.0-4-rosa2012.1.x86_64.rpm", 
+    "pkg": "curl", 
+    "pkg_version": "7.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackware Patches", 
+    "pkg_full_name": "curl-7.36.0-x86_64-1_slack14.1.txz", 
+    "pkg": "curl", 
+    "pkg_version": "7.3", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware Patches", 
+    "pkg_full_name": "curl-7.36.0-x86_64-1_slack14.0.txz", 
+    "pkg": "curl", 
+    "pkg_version": "7.3", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware Patches", 
+    "pkg_full_name": "curl-7.36.0-x86_64-1_slack13.37.txz", 
+    "pkg": "curl", 
+    "pkg_version": "7.3", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "curl_7.37.1-1ubuntu3.2_i386.deb", 
+    "pkg": "curl", 
+    "pkg_version": "7.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "curl_7.35.0-1ubuntu2.3_i386.deb", 
+    "pkg": "curl", 
+    "pkg_version": "7.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

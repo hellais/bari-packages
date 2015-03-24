@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-cgi-doc_3001.1.8.5-1_all.deb", 
+    "pkg": "libghc-cgi-doc_300", 
+    "pkg_version": "1.1.8.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-cgi-doc_3001.1.8.5-1_all.deb", 
+    "pkg": "libghc-cgi-doc_300", 
+    "pkg_version": "1.1.8.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-cgi-doc_3001.1.8.2-2_all.deb", 
+    "pkg": "libghc-cgi-doc_300", 
+    "pkg_version": "1.1.8.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-cgi-doc_3001.1.8.5-1build1_all.deb", 
+    "pkg": "libghc-cgi-doc_300", 
+    "pkg_version": "1.1.8.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-cgi-doc_3001.1.8.3-3build1_all.deb", 
+    "pkg": "libghc-cgi-doc_300", 
+    "pkg_version": "1.1.8.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "mecab-ipadic-2.7.0.20070801-10.el7.nux.1.x86_64.rpm", 
+    "pkg": "mecab-ipadic", 
+    "pkg_version": "2.7.0.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mecab-ipadic_2.7.0-20070801+main-1_all.deb", 
+    "pkg": "mecab-ipadic", 
+    "pkg_version": "2.7.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mecab-ipadic_2.7.0-20070801+main-1_all.deb", 
+    "pkg": "mecab-ipadic", 
+    "pkg_version": "2.7.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mecab-ipadic_2.7.0-20070801+main-1_all.deb", 
+    "pkg": "mecab-ipadic", 
+    "pkg_version": "2.7.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mecab-ipadic-2.7.0.20070801-10.fc22.1.x86_64.rpm", 
+    "pkg": "mecab-ipadic", 
+    "pkg_version": "2.7.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mecab-ipadic-2.7.0.20070801-10.fc22.1.x86_64.rpm", 
+    "pkg": "mecab-ipadic", 
+    "pkg_version": "2.7.0.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mecab-ipadic-2.7.0.20070801-10.fc21.1.x86_64.rpm", 
+    "pkg": "mecab-ipadic", 
+    "pkg_version": "2.7.0.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mecab-ipadic-2.7.0.20070801-8.fc20.1.x86_64.rpm", 
+    "pkg": "mecab-ipadic", 
+    "pkg_version": "2.7.0.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "mecab-ipadic-2.7.0-20070801.3-omv2013.0.x86_64.rpm", 
+    "pkg": "mecab-ipadic", 
+    "pkg_version": "2.7.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "mecab-ipadic-2.7.0-20070801.3-omv2013.0.x86_64.rpm", 
+    "pkg": "mecab-ipadic", 
+    "pkg_version": "2.7.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "mecab-ipadic-2.7.0-20070801.3-omv2013.0.x86_64.rpm", 
+    "pkg": "mecab-ipadic", 
+    "pkg_version": "2.7.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "mecab-ipadic-2.7.0-20070801.4-rosa2014.1.x86_64.rpm", 
+    "pkg": "mecab-ipadic", 
+    "pkg_version": "2.7.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "mecab-ipadic-2.7.0-20070801.3-rosa2012.1.x86_64.rpm", 
+    "pkg": "mecab-ipadic", 
+    "pkg_version": "2.7.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mecab-ipadic_2.7.0-20070801+main-1_all.deb", 
+    "pkg": "mecab-ipadic", 
+    "pkg_version": "2.7.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mecab-ipadic_2.7.0-20070801+main-1_all.deb", 
+    "pkg": "mecab-ipadic", 
+    "pkg_version": "2.7.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "w3m-el-snapshot_1.4.538+0.20141022-1_all.deb", 
+    "pkg": "w3m-el-snapshot", 
+    "pkg_version": "1.4.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "w3m-el-snapshot_1.4.538+0.20141022-1_all.deb", 
+    "pkg": "w3m-el-snapshot", 
+    "pkg_version": "1.4.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "w3m-el-snapshot_1.4.483+0.20120614-1_all.deb", 
+    "pkg": "w3m-el-snapshot", 
+    "pkg_version": "1.4.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "w3m-el-snapshot_1.4.535+0.20140730-1_all.deb", 
+    "pkg": "w3m-el-snapshot", 
+    "pkg_version": "1.4.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "w3m-el-snapshot_1.4.527+0.20140108-1_all.deb", 
+    "pkg": "w3m-el-snapshot", 
+    "pkg_version": "1.4.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libfixbuf3-dev_1.6.0+ds-1_i386.deb", 
+    "pkg": "libfixbuf3-dev", 
+    "pkg_version": "1.6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libfixbuf3-dev_1.6.0+ds-1_i386.deb", 
+    "pkg": "libfixbuf3-dev", 
+    "pkg_version": "1.6.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

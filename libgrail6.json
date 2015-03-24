@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgrail6_3.1.0-2_i386.deb", 
+    "pkg": "libgrail6", 
+    "pkg_version": "3.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgrail6_3.1.0-2_i386.deb", 
+    "pkg": "libgrail6", 
+    "pkg_version": "3.1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "libgrail6-3.1.0-2-rosa2014.1.i586.rpm", 
+    "pkg": "libgrail6", 
+    "pkg_version": "3.1.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "libgrail6-3.1.0-1-rosa2012.1.i586.rpm", 
+    "pkg": "libgrail6", 
+    "pkg_version": "3.1.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libgrail6_3.1.0daily13.06.05-0ubuntu1_i386.deb", 
+    "pkg": "libgrail6", 
+    "pkg_version": "3.1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

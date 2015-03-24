@@ -1,0 +1,19 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "flare-game-0.19-alt1.noarch.rpm", 
+    "pkg": "flare-game", 
+    "pkg_version": "0.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "flare-game_0.19-2_all.deb", 
+    "pkg": "flare-game", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

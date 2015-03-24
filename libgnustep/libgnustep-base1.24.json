@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgnustep-base1.24_1.24.7-1_i386.deb", 
+    "pkg": "libgnustep-base", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgnustep-base1.24_1.24.7-1_i386.deb", 
+    "pkg": "libgnustep-base", 
+    "pkg_version": "1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libgnustep-base1.24-1.24.7-1-omv2015.0.i586.rpm", 
+    "pkg": "libgnustep-base", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "libgnustep-base1.24-1.24.4-4-omv2014.0.i586.rpm", 
+    "pkg": "libgnustep-base", 
+    "pkg_version": "1.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libgnustep-base1.24-1.24.4-3-omv2013.0.i586.rpm", 
+    "pkg": "libgnustep-base", 
+    "pkg_version": "1.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "libgnustep-base1.24-1.24.6-7-rosa2014.1.i586.rpm", 
+    "pkg": "libgnustep-base", 
+    "pkg_version": "1.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "libgnustep-base1.24-1.24.6-2-rosa2012.1.i586.rpm", 
+    "pkg": "libgnustep-base", 
+    "pkg_version": "1.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libgnustep-base1.24_1.24.6-2ubuntu1_i386.deb", 
+    "pkg": "libgnustep-base", 
+    "pkg_version": "1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

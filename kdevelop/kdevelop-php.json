@@ -1,0 +1,100 @@
+[
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "kdevelop-php-1.7.0-2-x86_64.pkg.tar.xz", 
+    "pkg": "kdevelop-php", 
+    "pkg_version": "1.7.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kdevelop-php_1.7.0-1_i386.deb", 
+    "pkg": "kdevelop-php", 
+    "pkg_version": "1.7.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kdevelop-php_1.7.0-1_i386.deb", 
+    "pkg": "kdevelop-php", 
+    "pkg_version": "1.7.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kdevelop-php_1.3.1-2_i386.deb", 
+    "pkg": "kdevelop-php", 
+    "pkg_version": "1.3.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kdevelop-php-1.7.1-1.fc22.x86_64.rpm", 
+    "pkg": "kdevelop-php", 
+    "pkg_version": "1.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kdevelop-php-1.7.1-1.fc22.x86_64.rpm", 
+    "pkg": "kdevelop-php", 
+    "pkg_version": "1.7.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "kdevelop-php-1.7.1-1.fc21.x86_64.rpm", 
+    "pkg": "kdevelop-php", 
+    "pkg_version": "1.7.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "kdevelop-php-1.7.1-1.fc20.x86_64.rpm", 
+    "pkg": "kdevelop-php", 
+    "pkg_version": "1.7.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "kdevelop-php-1.5.2-x86_64-1.txz", 
+    "pkg": "kdevelop-php", 
+    "pkg_version": "1.5.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "kdevelop-php_1.7.0-0ubuntu1_i386.deb", 
+    "pkg": "kdevelop-php", 
+    "pkg_version": "1.7.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "kdevelop-php_1.6.0-0ubuntu1_i386.deb", 
+    "pkg": "kdevelop-php", 
+    "pkg_version": "1.6.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

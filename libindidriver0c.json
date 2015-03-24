@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libindidriver0c_0.9.8.1-5.1+b1_i386.deb", 
+    "pkg": "libindidriver0c", 
+    "pkg_version": "0.9.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libindidriver0c_0.9.8.1-5.1+b1_i386.deb", 
+    "pkg": "libindidriver0c", 
+    "pkg_version": "0.9.8.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-fabulous-0.1.5-9.el7.noarch.rpm", 
+    "pkg": "python-fabulous", 
+    "pkg_version": "0.1.5", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-fabulous-0.1.5-4.el6.noarch.rpm", 
+    "pkg": "python-fabulous", 
+    "pkg_version": "0.1.5", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-fabulous_0.1.5+dfsg1-1_i386.deb", 
+    "pkg": "python-fabulous", 
+    "pkg_version": "0.1.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-fabulous_0.1.5+dfsg1-1_i386.deb", 
+    "pkg": "python-fabulous", 
+    "pkg_version": "0.1.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-fabulous-0.1.5-10.fc21.noarch.rpm", 
+    "pkg": "python-fabulous", 
+    "pkg_version": "0.1.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-fabulous-0.1.5-10.fc21.noarch.rpm", 
+    "pkg": "python-fabulous", 
+    "pkg_version": "0.1.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-fabulous-0.1.5-10.fc21.noarch.rpm", 
+    "pkg": "python-fabulous", 
+    "pkg_version": "0.1.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-fabulous-0.1.5-8.fc20.noarch.rpm", 
+    "pkg": "python-fabulous", 
+    "pkg_version": "0.1.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-fabulous_0.1.5+dfsg1-1_i386.deb", 
+    "pkg": "python-fabulous", 
+    "pkg_version": "0.1.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

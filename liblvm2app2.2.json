@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liblvm2app2.2_2.02.111-2.1_i386.deb", 
+    "pkg": "liblvm2app", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liblvm2app2.2_2.02.111-2.1_i386.deb", 
+    "pkg": "liblvm2app", 
+    "pkg_version": "2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liblvm2app2.2_2.02.95-8_i386.deb", 
+    "pkg": "liblvm2app", 
+    "pkg_version": "2.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "liblvm2app2.2-2.02.117-1-omv2015.0.i586.rpm", 
+    "pkg": "liblvm2app", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "liblvm2app2.2-2.02.98-7-omv2014.0.i586.rpm", 
+    "pkg": "liblvm2app", 
+    "pkg_version": "2.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "liblvm2app2.2-2.02.98-5-omv2013.0.i586.rpm", 
+    "pkg": "liblvm2app", 
+    "pkg_version": "2.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "liblvm2app2.2-2.02.109-2-rosa2014.1.i586.rpm", 
+    "pkg": "liblvm2app", 
+    "pkg_version": "2.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "liblvm2app2.2-2.02.97-3-rosa2012.1.i586.rpm", 
+    "pkg": "liblvm2app", 
+    "pkg_version": "2.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "liblvm2app2.2_2.02.98-6ubuntu2_i386.deb", 
+    "pkg": "liblvm2app", 
+    "pkg_version": "2.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "liblvm2app2.2_2.02.98-6ubuntu2_i386.deb", 
+    "pkg": "liblvm2app", 
+    "pkg_version": "2.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ceferino-0.97.8-alt2.qa1.x86_64.rpm", 
+    "pkg": "ceferino", 
+    "pkg_version": "0.9", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ceferino_0.97.8+svn37-1_i386.deb", 
+    "pkg": "ceferino", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ceferino_0.97.8+svn37-1_i386.deb", 
+    "pkg": "ceferino", 
+    "pkg_version": "0.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ceferino_0.97.8-3.1_i386.deb", 
+    "pkg": "ceferino", 
+    "pkg_version": "0.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ceferino-0.97.9_svn37-1.2.x86_64.rpm", 
+    "pkg": "ceferino", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "ceferino-0.97.9_svn37-3.2.x86_64.rpm", 
+    "pkg": "ceferino", 
+    "pkg_version": "0.9", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "ceferino-0.97.9_svn37-3.1.x86_64.rpm", 
+    "pkg": "ceferino", 
+    "pkg_version": "0.9", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ceferino_0.97.8+svn37-1_i386.deb", 
+    "pkg": "ceferino", 
+    "pkg_version": "0.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ceferino_0.97.8+svn37-1_i386.deb", 
+    "pkg": "ceferino", 
+    "pkg_version": "0.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-ftp-cloudfs_0.25.2+20140217+git2a90c1a2eb-1_all.deb", 
+    "pkg": "python-ftp-cloudfs", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ftp-cloudfs_0.25.2+20140217+git2a90c1a2eb-1_all.deb", 
+    "pkg": "ftp-cloudfs", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-ftp-cloudfs_0.25.2+20140217+git2a90c1a2eb-1_all.deb", 
+    "pkg": "python-ftp-cloudfs", 
+    "pkg_version": "0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ftp-cloudfs_0.25.2+20140217+git2a90c1a2eb-1_all.deb", 
+    "pkg": "ftp-cloudfs", 
+    "pkg_version": "0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-ftp-cloudfs_0.25.2+20140217+git2a90c1a2eb-1_all.deb", 
+    "pkg": "python-ftp-cloudfs", 
+    "pkg_version": "0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ftp-cloudfs_0.25.2+20140217+git2a90c1a2eb-1_all.deb", 
+    "pkg": "ftp-cloudfs", 
+    "pkg_version": "0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libinput5_0.6.0+dfsg-2_i386.deb", 
+    "pkg": "libinput5", 
+    "pkg_version": "0.6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libinput5_0.6.0+dfsg-2_i386.deb", 
+    "pkg": "libinput5", 
+    "pkg_version": "0.6.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libinput5-0.7.0-1.1.x86_64.rpm", 
+    "pkg": "libinput5", 
+    "pkg_version": "0.7.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "logkeys_0.1.1a+git5ef6b0dcb9e3-2_i386.deb", 
+    "pkg": "logkeys", 
+    "pkg_version": "0.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Freestylers", 
+    "pkg_full_name": "logkeys-0.1.1a-x86_64-1_fs.tgz", 
+    "pkg": "logkeys", 
+    "pkg_version": "0.1.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "logkeys_0.1.1a+git5ef6b0dcb9e3-2_i386.deb", 
+    "pkg": "logkeys", 
+    "pkg_version": "0.1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "logkeys_0.1.1a+git5ef6b0dcb9e3-2_i386.deb", 
+    "pkg": "logkeys", 
+    "pkg_version": "0.1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

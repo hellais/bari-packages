@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "plasma-dataengines-workspace_4.11.13-2_i386.deb", 
+    "pkg": "plasma-dataengines-workspace", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "plasma-dataengines-workspace_4.11.13-2_i386.deb", 
+    "pkg": "plasma-dataengines-workspace", 
+    "pkg_version": "4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "plasma-dataengines-workspace_4.8.4-6_i386.deb", 
+    "pkg": "plasma-dataengines-workspace", 
+    "pkg_version": "4.8.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "plasma-dataengines-workspace_4.11.12-0ubuntu1.1_i386.deb", 
+    "pkg": "plasma-dataengines-workspace", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "plasma-dataengines-workspace_4.11.11-0ubuntu0.2_i386.deb", 
+    "pkg": "plasma-dataengines-workspace", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

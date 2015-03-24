@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-django-pipeline-doc_1.4.4.1-1_all.deb", 
+    "pkg": "python-django-pipeline-doc", 
+    "pkg_version": "1.4.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-django-pipeline-doc_1.3.24-0.2_all.deb", 
+    "pkg": "python-django-pipeline-doc", 
+    "pkg_version": "1.3.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-django-pipeline-doc_1.3.24-0.2_all.deb", 
+    "pkg": "python-django-pipeline-doc", 
+    "pkg_version": "1.3.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

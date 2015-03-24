@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "trac-datefieldplugin_0.7782-3.1_all.deb", 
+    "pkg": "trac-datefieldplugin", 
+    "pkg_version": "0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "trac-datefieldplugin_0.7782-3_all.deb", 
+    "pkg": "trac-datefieldplugin", 
+    "pkg_version": "0.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "trac-datefieldplugin_0.7782-3.1_all.deb", 
+    "pkg": "trac-datefieldplugin", 
+    "pkg_version": "0.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "trac-datefieldplugin_0.7782-3.1_all.deb", 
+    "pkg": "trac-datefieldplugin", 
+    "pkg_version": "0.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

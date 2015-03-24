@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "plee-the-bear-data_0.6.0-3.1_all.deb", 
+    "pkg": "plee-the-bear-data", 
+    "pkg_version": "0.6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "plee-the-bear-data_0.6.0-3.1_all.deb", 
+    "pkg": "plee-the-bear-data", 
+    "pkg_version": "0.6.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "plee-the-bear-data_0.6.0-1_all.deb", 
+    "pkg": "plee-the-bear-data", 
+    "pkg_version": "0.6.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "plee-the-bear-data-0.7.0-1.79.noarch.rpm", 
+    "pkg": "plee-the-bear-data", 
+    "pkg_version": "0.7.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "plee-the-bear-data-0.7.0-1.6.noarch.rpm", 
+    "pkg": "plee-the-bear-data", 
+    "pkg_version": "0.7.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "plee-the-bear-data-0.7.0-1.7.noarch.rpm", 
+    "pkg": "plee-the-bear-data", 
+    "pkg_version": "0.7.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "plee-the-bear-data_0.6.0-3.1_all.deb", 
+    "pkg": "plee-the-bear-data", 
+    "pkg_version": "0.6.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "plee-the-bear-data_0.6.0-3_all.deb", 
+    "pkg": "plee-the-bear-data", 
+    "pkg_version": "0.6.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

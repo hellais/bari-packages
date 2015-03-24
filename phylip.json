@@ -1,0 +1,83 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "phylip_3.696+dfsg-1_i386.deb", 
+    "pkg": "phylip", 
+    "pkg_version": "3.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "phylip_3.696+dfsg-1_i386.deb", 
+    "pkg": "phylip", 
+    "pkg_version": "3.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Nonfree", 
+    "pkg_full_name": "phylip_3.69-1_i386.deb", 
+    "pkg": "phylip", 
+    "pkg_version": "3.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "phylip-3.695-7.1.x86_64.rpm", 
+    "pkg": "phylip", 
+    "pkg_version": "3.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "phylip-3.695-7.1.x86_64.rpm", 
+    "pkg": "phylip", 
+    "pkg_version": "3.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ROSA Restricted", 
+    "pkg_full_name": "phylip-3.69-1-plf2014.1.x86_64.rpm", 
+    "pkg": "phylip", 
+    "pkg_version": "3.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Restricted", 
+    "pkg_full_name": "phylip-3.69-1-plf2012.1.x86_64.rpm", 
+    "pkg": "phylip", 
+    "pkg_version": "3.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Multiverse", 
+    "pkg_full_name": "phylip_3.695-1_i386.deb", 
+    "pkg": "phylip", 
+    "pkg_version": "3.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Multiverse", 
+    "pkg_full_name": "phylip_3.695-1_i386.deb", 
+    "pkg": "phylip", 
+    "pkg_version": "3.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

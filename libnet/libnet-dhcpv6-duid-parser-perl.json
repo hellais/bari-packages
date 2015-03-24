@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libnet-dhcpv6-duid-parser-perl_1.01-1_all.deb", 
+    "pkg": "libnet-dhcpv6-duid-parser-perl", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libnet-dhcpv6-duid-parser-perl_1.01-1_all.deb", 
+    "pkg": "libnet-dhcpv6-duid-parser-perl", 
+    "pkg_version": "1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

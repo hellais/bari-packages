@@ -1,0 +1,83 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-blinker_1.3.dfsg2-1_all.deb", 
+    "pkg": "python3-blinker", 
+    "pkg_version": "1.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-blinker_1.3.dfsg2-1_all.deb", 
+    "pkg": "python3-blinker", 
+    "pkg_version": "1.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-blinker-1.3-3.fc21.noarch.rpm", 
+    "pkg": "python3-blinker", 
+    "pkg_version": "1.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-blinker-1.3-3.fc21.noarch.rpm", 
+    "pkg": "python3-blinker", 
+    "pkg_version": "1.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-blinker-1.3-3.fc21.noarch.rpm", 
+    "pkg": "python3-blinker", 
+    "pkg_version": "1.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-blinker-1.3-1.fc20.noarch.rpm", 
+    "pkg": "python3-blinker", 
+    "pkg_version": "1.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python3-blinker-1.3-1.1.noarch.rpm", 
+    "pkg": "python3-blinker", 
+    "pkg_version": "1.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python3-blinker-1.2-4.1.3.noarch.rpm", 
+    "pkg": "python3-blinker", 
+    "pkg_version": "1.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python3-blinker-1.2-2.1.2.noarch.rpm", 
+    "pkg": "python3-blinker", 
+    "pkg_version": "1.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }
+]

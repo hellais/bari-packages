@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-pies_2.6.1-1_all.deb", 
+    "pkg": "python-pies", 
+    "pkg_version": "2.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "python-pies-2.6.0-3.1.noarch.rpm", 
+    "pkg": "python-pies", 
+    "pkg_version": "2.6.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "python-pies-2.6.0-3.1.noarch.rpm", 
+    "pkg": "python-pies", 
+    "pkg_version": "2.6.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

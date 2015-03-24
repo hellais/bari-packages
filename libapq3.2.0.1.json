@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libapq3.2.0.1_3.2.0-2_i386.deb", 
+    "pkg": "libapq", 
+    "pkg_version": "3.2.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libapq3.2.0.1_3.2.0-2_i386.deb", 
+    "pkg": "libapq", 
+    "pkg_version": "3.2.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

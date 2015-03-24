@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-paver-1.2.1-1.el7.noarch.rpm", 
+    "pkg": "python-paver", 
+    "pkg_version": "1.2.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "python-paver-1.0-4.el6.noarch.rpm", 
+    "pkg": "python-paver", 
+    "pkg_version": "1.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-paver_1.2.1-1_all.deb", 
+    "pkg": "python-paver", 
+    "pkg_version": "1.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-paver_1.2.1-1_all.deb", 
+    "pkg": "python-paver", 
+    "pkg_version": "1.2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "python-paver_1.2.1-1~bpo70+1_all.deb", 
+    "pkg": "python-paver", 
+    "pkg_version": "1.2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-paver-1.2.1-2.fc20.noarch.rpm", 
+    "pkg": "python-paver", 
+    "pkg_version": "1.2.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-paver_1.2.1-1_all.deb", 
+    "pkg": "python-paver", 
+    "pkg_version": "1.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

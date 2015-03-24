@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nslcd-utils_0.9.4-3_all.deb", 
+    "pkg": "nslcd-utils", 
+    "pkg_version": "0.9.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nslcd-utils_0.9.4-3_all.deb", 
+    "pkg": "nslcd-utils", 
+    "pkg_version": "0.9.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "nslcd-utils_0.9.4-2~bpo70+1_all.deb", 
+    "pkg": "nslcd-utils", 
+    "pkg_version": "0.9.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

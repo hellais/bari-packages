@@ -1,0 +1,325 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xinit-1.3.2-alt1.x86_64.rpm", 
+    "pkg": "xinit", 
+    "pkg_version": "1.3.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xinit_1.3.4-1_i386.deb", 
+    "pkg": "xinit", 
+    "pkg_version": "1.3.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xinit_1.3.4-1_i386.deb", 
+    "pkg": "xinit", 
+    "pkg_version": "1.3.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xinit_1.3.2-1_i386.deb", 
+    "pkg": "xinit", 
+    "pkg_version": "1.3.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xorg-x11-xinit-1.3.4-7.fc23.x86_64.rpm", 
+    "pkg": "xorg-x11-xinit", 
+    "pkg_version": "1.3.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xinit_1.3.2-1_i386.deb", 
+    "pkg": "xinit", 
+    "pkg_version": "1.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xorg-x11-xinit-1.3.4-4.fc22.x86_64.rpm", 
+    "pkg": "xorg-x11-xinit", 
+    "pkg_version": "1.3.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xinit_1.3.2-1_i386.deb", 
+    "pkg": "xinit", 
+    "pkg_version": "1.3.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "xorg-x11-xinit-1.3.4-3.fc21.x86_64.rpm", 
+    "pkg": "xorg-x11-xinit", 
+    "pkg_version": "1.3.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xinit_1.3.2-1_i386.deb", 
+    "pkg": "xinit", 
+    "pkg_version": "1.3.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "xorg-x11-xinit-1.3.4-3.fc21.x86_64.rpm", 
+    "pkg": "xorg-x11-xinit", 
+    "pkg_version": "1.3.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "xinit-1.3.4-3-omv2015.0.x86_64.rpm", 
+    "pkg": "xinit", 
+    "pkg_version": "1.3.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "xorg-x11-xinit-1.3.4-3.fc21.x86_64.rpm", 
+    "pkg": "xorg-x11-xinit", 
+    "pkg_version": "1.3.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "xinit-1.3.4-1.1-omv2014.0.x86_64.rpm", 
+    "pkg": "xinit", 
+    "pkg_version": "1.3.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "xorg-x11-xinit-1.3.4-3.fc21.x86_64.rpm", 
+    "pkg": "xorg-x11-xinit", 
+    "pkg_version": "1.3.4", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "xinit-1.3.2-5-omv2013.0.x86_64.rpm", 
+    "pkg": "xinit", 
+    "pkg_version": "1.3.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "xorg-x11-xinit-1.3.4-3.fc21.x86_64.rpm", 
+    "pkg": "xorg-x11-xinit", 
+    "pkg_version": "1.3.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xinit-1.3.4-5.1.x86_64.rpm", 
+    "pkg": "xinit", 
+    "pkg_version": "1.3.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "xorg-x11-xinit-1.3.4-3.fc21.x86_64.rpm", 
+    "pkg": "xorg-x11-xinit", 
+    "pkg_version": "1.3.4", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xinit-1.3.3-6.2.2.x86_64.rpm", 
+    "pkg": "xinit", 
+    "pkg_version": "1.3.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "xorg-x11-xinit-1.3.4-3.fc21.x86_64.rpm", 
+    "pkg": "xorg-x11-xinit", 
+    "pkg_version": "1.3.4", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xinit-1.3.3-3.1.2.i586.rpm", 
+    "pkg": "xinit", 
+    "pkg_version": "1.3.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "xorg-x11-xinit-1.3.4-3.fc21.x86_64.rpm", 
+    "pkg": "xorg-x11-xinit", 
+    "pkg_version": "1.3.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "xinit-1.3.3-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "xinit", 
+    "pkg_version": "1.3.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "xorg-x11-xinit-1.3.4-3.fc21.x86_64.rpm", 
+    "pkg": "xorg-x11-xinit", 
+    "pkg_version": "1.3.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "xinit-1.3.2-7-rosa2012.1.x86_64.rpm", 
+    "pkg": "xinit", 
+    "pkg_version": "1.3.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "xorg-x11-xinit-1.3.4-3.fc21.x86_64.rpm", 
+    "pkg": "xorg-x11-xinit", 
+    "pkg_version": "1.3.4", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "xinit-1.3.3-x86_64-1.txz", 
+    "pkg": "xinit", 
+    "pkg_version": "1.3.3", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "xorg-x11-xinit-1.3.4-3.fc21.x86_64.rpm", 
+    "pkg": "xorg-x11-xinit", 
+    "pkg_version": "1.3.4", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "xinit-1.3.2-x86_64-1.txz", 
+    "pkg": "xinit", 
+    "pkg_version": "1.3.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "xorg-x11-xinit-1.3.4-3.fc21.x86_64.rpm", 
+    "pkg": "xorg-x11-xinit", 
+    "pkg_version": "1.3.4", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "xinit-1.3.0-x86_64-1.txz", 
+    "pkg": "xinit", 
+    "pkg_version": "1.3.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "xorg-x11-xinit-1.3.4-3.fc21.x86_64.rpm", 
+    "pkg": "xorg-x11-xinit", 
+    "pkg_version": "1.3.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "xinit_1.3.2-1_i386.deb", 
+    "pkg": "xinit", 
+    "pkg_version": "1.3.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "xorg-x11-xinit-1.3.4-3.fc21.x86_64.rpm", 
+    "pkg": "xorg-x11-xinit", 
+    "pkg_version": "1.3.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "xinit_1.3.2-1_i386.deb", 
+    "pkg": "xinit", 
+    "pkg_version": "1.3.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

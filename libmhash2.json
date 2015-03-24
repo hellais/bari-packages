@@ -1,0 +1,101 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmhash2_0.9.9.9-7_i386.deb", 
+    "pkg": "libmhash2", 
+    "pkg_version": "0.9.9.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmhash2_0.9.9.9-7_i386.deb", 
+    "pkg": "libmhash2", 
+    "pkg_version": "0.9.9.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmhash2_0.9.9.9-1.1_i386.deb", 
+    "pkg": "libmhash2", 
+    "pkg_version": "0.9.9.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libmhash2-0.9.9.9-16-omv2015.0.i586.rpm", 
+    "pkg": "libmhash2", 
+    "pkg_version": "0.9.9.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libmhash2-0.9.9.9-10-omv2014.0.i586.rpm", 
+    "pkg": "libmhash2", 
+    "pkg_version": "0.9.9.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libmhash2-0.9.9.9-9-omv2013.0.i586.rpm", 
+    "pkg": "libmhash2", 
+    "pkg_version": "0.9.9.9", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libmhash2-0.9.9.9-29.1.x86_64.rpm", 
+    "pkg": "libmhash2", 
+    "pkg_version": "0.9.9.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libmhash2-0.9.9.9-9-rosa2014.1.i586.rpm", 
+    "pkg": "libmhash2", 
+    "pkg_version": "0.9.9.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libmhash2-0.9.9.9-8-rosa2012.1.i586.rpm", 
+    "pkg": "libmhash2", 
+    "pkg_version": "0.9.9.9", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libmhash2_0.9.9.9-6ubuntu1_i386.deb", 
+    "pkg": "libmhash2", 
+    "pkg_version": "0.9.9.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libmhash2_0.9.9.9-4_i386.deb", 
+    "pkg": "libmhash2", 
+    "pkg_version": "0.9.9.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

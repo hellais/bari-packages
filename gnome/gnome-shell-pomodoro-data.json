@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-shell-pomodoro-data_0.10.3-1_all.deb", 
+    "pkg": "gnome-shell-pomodoro-data", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-shell-pomodoro-data_0.10.3-1_all.deb", 
+    "pkg": "gnome-shell-pomodoro-data", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

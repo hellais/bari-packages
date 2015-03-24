@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-swish-doc_0.9.0.15-1_all.deb", 
+    "pkg": "libghc-swish-doc", 
+    "pkg_version": "0.9.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-swish-doc_0.9.0.15-1_all.deb", 
+    "pkg": "libghc-swish-doc", 
+    "pkg_version": "0.9.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-swish-doc_0.9.0.14-1build2_all.deb", 
+    "pkg": "libghc-swish-doc", 
+    "pkg_version": "0.9.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

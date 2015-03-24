@@ -1,0 +1,101 @@
+[
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "am-utils-6.1.5-9.el5_10.x86_64.rpm", 
+    "pkg": "am-utils", 
+    "pkg_version": "6.1.5", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "am-utils_6.2+rc20110530-3.2_i386.deb", 
+    "pkg": "am-utils", 
+    "pkg_version": "6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "am-utils_6.2+rc20110530-3.2_i386.deb", 
+    "pkg": "am-utils", 
+    "pkg_version": "6.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "am-utils_6.2+rc20110530-3_i386.deb", 
+    "pkg": "am-utils", 
+    "pkg_version": "6.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "am-utils-6.2.0-2.20140906gitbb13dea6.fc22.x86_64.rpm", 
+    "pkg": "am-utils", 
+    "pkg_version": "6.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "am-utils-6.2.0-2.20140906gitbb13dea6.fc22.x86_64.rpm", 
+    "pkg": "am-utils", 
+    "pkg_version": "6.2.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "am-utils-6.1.5-32.fc21.x86_64.rpm", 
+    "pkg": "am-utils", 
+    "pkg_version": "6.1.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "am-utils-6.1.5-30.fc20.x86_64.rpm", 
+    "pkg": "am-utils", 
+    "pkg_version": "6.1.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "am-utils-6.1.5-9-rosa2012.1.x86_64.rpm", 
+    "pkg": "am-utils", 
+    "pkg_version": "6.1.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "am-utils_6.2+rc20110530-3.2ubuntu1_i386.deb", 
+    "pkg": "am-utils", 
+    "pkg_version": "6.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "am-utils_6.2+rc20110530-3.2ubuntu1_i386.deb", 
+    "pkg": "am-utils", 
+    "pkg_version": "6.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

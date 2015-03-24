@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "python3-apsw-3.7.15.2.r1-1.el7.nux.x86_64.rpm", 
+    "pkg": "python3-apsw", 
+    "pkg_version": "3.7.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-apsw_3.8.6-r1-1_i386.deb", 
+    "pkg": "python3-apsw", 
+    "pkg_version": "3.8.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-apsw_3.8.6-r1-1_i386.deb", 
+    "pkg": "python3-apsw", 
+    "pkg_version": "3.8.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-apsw-3.8.4.3.r1-4.fc22.x86_64.rpm", 
+    "pkg": "python3-apsw", 
+    "pkg_version": "3.8.4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-apsw-3.8.4.3.r1-4.fc22.x86_64.rpm", 
+    "pkg": "python3-apsw", 
+    "pkg_version": "3.8.4.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-apsw-3.8.4.3.r1-4.fc21.x86_64.rpm", 
+    "pkg": "python3-apsw", 
+    "pkg_version": "3.8.4.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-apsw-3.8.0.r2-2.fc20.x86_64.rpm", 
+    "pkg": "python3-apsw", 
+    "pkg_version": "3.8.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "python3-apsw-3.7.17.r1-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "python3-apsw", 
+    "pkg_version": "3.7.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "python3-apsw-3.7.17.r1-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "python3-apsw", 
+    "pkg_version": "3.7.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python3-apsw_3.8.2-r1-1ubuntu1_i386.deb", 
+    "pkg": "python3-apsw", 
+    "pkg_version": "3.8.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

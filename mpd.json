@@ -1,0 +1,207 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "mpd-0.19.9-alt1.x86_64.rpm", 
+    "pkg": "mpd", 
+    "pkg_version": "0.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "mpd-0.19.9-2-x86_64.pkg.tar.xz", 
+    "pkg": "mpd", 
+    "pkg_version": "0.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "mpd-0.18.11-1.el7.nux.x86_64.rpm", 
+    "pkg": "mpd", 
+    "pkg_version": "0.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "mpd-0.16.4-1.el6.rf.x86_64.rpm", 
+    "pkg": "mpd", 
+    "pkg_version": "0.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "mpd-0.16-1.el5.rf.x86_64.rpm", 
+    "pkg": "mpd", 
+    "pkg_version": "0.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "mpd_0.19.9-dmo2_i386.deb", 
+    "pkg": "mpd", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "mpd_0.19.9-dmo2_i386.deb", 
+    "pkg": "mpd", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mpd_0.16.7-2_i386.deb", 
+    "pkg": "mpd", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "mpd-0.19.2-1.fc21.x86_64.rpm", 
+    "pkg": "mpd", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "mpd-0.19.2-1.fc21.x86_64.rpm", 
+    "pkg": "mpd", 
+    "pkg_version": "0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free Updates", 
+    "pkg_full_name": "mpd-0.18.11-1.fc20.x86_64.rpm", 
+    "pkg": "mpd", 
+    "pkg_version": "0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "mpd-0.18.10-2-omv2015.0.x86_64.rpm", 
+    "pkg": "mpd", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "mpd-0.17.2-3-omv2014.0.x86_64.rpm", 
+    "pkg": "mpd", 
+    "pkg_version": "0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "mpd-0.17.2-2-omv2013.0.x86_64.rpm", 
+    "pkg": "mpd", 
+    "pkg_version": "0.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "mpd-0.19.9-1.1.x86_64.rpm", 
+    "pkg": "mpd", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "mpd-0.19.9-1.1.x86_64.rpm", 
+    "pkg": "mpd", 
+    "pkg_version": "0.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Restricted Updates", 
+    "pkg_full_name": "mpd-0.19-1plf-plf2014.1.x86_64.rpm", 
+    "pkg": "mpd", 
+    "pkg_version": "0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Restricted Updates", 
+    "pkg_full_name": "mpd-0.18.9-3plf-plf2012.1.x86_64.rpm", 
+    "pkg": "mpd", 
+    "pkg_version": "0.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackel", 
+    "pkg_full_name": "mpd-0.16.8-x86_64-3dj.txz", 
+    "pkg": "mpd", 
+    "pkg_version": "0.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "MLES", 
+    "pkg_full_name": "mpd-0.17.1-x86_64-4_microlinux.txz", 
+    "pkg": "mpd", 
+    "pkg_version": "0.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "mpd-0.15.16-i486-1sl.txz", 
+    "pkg": "mpd", 
+    "pkg_version": "0.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mpd_0.18.12-1build1_i386.deb", 
+    "pkg": "mpd", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mpd_0.18.7-1_i386.deb", 
+    "pkg": "mpd", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

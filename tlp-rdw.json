@@ -1,0 +1,82 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "tlp-rdw-0.7-2-any.pkg.tar.xz", 
+    "pkg": "tlp-rdw", 
+    "pkg_version": "0.7", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "tlp-rdw-0.5-3.el7.nux.noarch.rpm", 
+    "pkg": "tlp-rdw", 
+    "pkg_version": "0.5", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "tlp-rdw-0.6-3.el6.noarch.rpm", 
+    "pkg": "tlp-rdw", 
+    "pkg_version": "0.6", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tlp-rdw_0.7-1_all.deb", 
+    "pkg": "tlp-rdw", 
+    "pkg_version": "0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "tlp-rdw-0.7-2.fc22.noarch.rpm", 
+    "pkg": "tlp-rdw", 
+    "pkg_version": "0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "tlp-rdw-0.7-2.fc22.noarch.rpm", 
+    "pkg": "tlp-rdw", 
+    "pkg_version": "0.7", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "tlp-rdw-0.6-2.fc21.noarch.rpm", 
+    "pkg": "tlp-rdw", 
+    "pkg_version": "0.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "tlp-rdw-0.6-2.fc20.noarch.rpm", 
+    "pkg": "tlp-rdw", 
+    "pkg_version": "0.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "tlp-rdw-0.7-1.1.noarch.rpm", 
+    "pkg": "tlp-rdw", 
+    "pkg_version": "0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fact++_1.6.2~dfsg-2_i386.deb", 
+    "pkg": "fact++", 
+    "pkg_version": "1.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fact++_1.6.2~dfsg-2_i386.deb", 
+    "pkg": "fact++", 
+    "pkg_version": "1.6.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fact++_1.5.3~dfsg-1_i386.deb", 
+    "pkg": "fact++", 
+    "pkg_version": "1.5.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "fact++_1.6.2~dfsg-2_i386.deb", 
+    "pkg": "fact++", 
+    "pkg_version": "1.6.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "exfalso-2.4.1-alt1.x86_64.rpm", 
+    "pkg": "exfalso", 
+    "pkg_version": "2.4.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "exfalso-3.2.2-1.el7.nux.noarch.rpm", 
+    "pkg": "exfalso", 
+    "pkg_version": "3.2.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "exfalso_3.2.2-1_all.deb", 
+    "pkg": "exfalso", 
+    "pkg_version": "3.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "exfalso_3.2.2-1_all.deb", 
+    "pkg": "exfalso", 
+    "pkg_version": "3.2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "exfalso_2.4-1_all.deb", 
+    "pkg": "exfalso", 
+    "pkg_version": "2.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "exfalso-3.3.1-1.fc22.noarch.rpm", 
+    "pkg": "exfalso", 
+    "pkg_version": "3.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "exfalso-3.3.1-1.fc22.noarch.rpm", 
+    "pkg": "exfalso", 
+    "pkg_version": "3.3.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "exfalso-3.3.1-1.fc21.noarch.rpm", 
+    "pkg": "exfalso", 
+    "pkg_version": "3.3.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "exfalso-3.3.1-1.fc20.noarch.rpm", 
+    "pkg": "exfalso", 
+    "pkg_version": "3.3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "exfalso_3.1.2-1_all.deb", 
+    "pkg": "exfalso", 
+    "pkg_version": "3.1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "exfalso_3.0.2-3_all.deb", 
+    "pkg": "exfalso", 
+    "pkg_version": "3.0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

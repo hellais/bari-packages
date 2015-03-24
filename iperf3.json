@@ -1,0 +1,99 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "iperf3-3.0.8-alt1.x86_64.rpm", 
+    "pkg": "iperf3", 
+    "pkg_version": "3.0.8", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "iperf3-3.0.11-1-x86_64.pkg.tar.xz", 
+    "pkg": "iperf3", 
+    "pkg_version": "3.0.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "iperf3-3.0.6-1.sdl7.x86_64.rpm", 
+    "pkg": "iperf3", 
+    "pkg_version": "3.0.6", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Ghettoforge", 
+    "pkg_full_name": "iperf3-3.0-1.gf.el6.x86_64.rpm", 
+    "pkg": "iperf3", 
+    "pkg_version": "3.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "iperf3-3.0.6-1.el5.x86_64.rpm", 
+    "pkg": "iperf3", 
+    "pkg_version": "3.0.6", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "iperf3_3.0.7-1_i386.deb", 
+    "pkg": "iperf3", 
+    "pkg_version": "3.0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "iperf3_3.0.7-1_i386.deb", 
+    "pkg": "iperf3", 
+    "pkg_version": "3.0.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "iperf3-3.0.10-1.fc22.x86_64.rpm", 
+    "pkg": "iperf3", 
+    "pkg_version": "3.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "iperf3-3.0.10-1.fc22.x86_64.rpm", 
+    "pkg": "iperf3", 
+    "pkg_version": "3.0.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "iperf3-3.0.10-1.fc21.x86_64.rpm", 
+    "pkg": "iperf3", 
+    "pkg_version": "3.0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "iperf3-3.0.10-1.fc20.x86_64.rpm", 
+    "pkg": "iperf3", 
+    "pkg_version": "3.0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

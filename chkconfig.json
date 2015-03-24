@@ -1,0 +1,271 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "chkconfig-1.3.59-alt4.x86_64.rpm", 
+    "pkg": "chkconfig", 
+    "pkg_version": "1.3.5", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "chkconfig-1.3.61-4.el7.x86_64.rpm", 
+    "pkg": "chkconfig", 
+    "pkg_version": "1.3.6", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "chkconfig-1.3.49.3-2.el6_4.1.x86_64.rpm", 
+    "pkg": "chkconfig", 
+    "pkg_version": "1.3.4", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "chkconfig-1.3.30.2-2.el5.x86_64.rpm", 
+    "pkg": "chkconfig", 
+    "pkg_version": "1.3.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "chkconfig_11.4.54.60.1debian1_all.deb", 
+    "pkg": "chkconfig_1", 
+    "pkg_version": "1.4.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "chkconfig-1.3.30.2-2.el5.x86_64.rpm", 
+    "pkg": "chkconfig", 
+    "pkg_version": "1.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "chkconfig_11.4.54.60.1debian1_all.deb", 
+    "pkg": "chkconfig_1", 
+    "pkg_version": "1.4.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "chkconfig-1.3.30.2-2.el5.x86_64.rpm", 
+    "pkg": "chkconfig", 
+    "pkg_version": "1.3.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "chkconfig_11.4-54.60.1-1_all.deb", 
+    "pkg": "chkconfig_1", 
+    "pkg_version": "1.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "chkconfig-1.3.30.2-2.el5.x86_64.rpm", 
+    "pkg": "chkconfig", 
+    "pkg_version": "1.3.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "chkconfig_11.4-54.60.1-1_all.deb", 
+    "pkg": "chkconfig_1", 
+    "pkg_version": "1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "chkconfig-1.3.63-1.fc22.x86_64.rpm", 
+    "pkg": "chkconfig", 
+    "pkg_version": "1.3.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "chkconfig_11.4-54.60.1-1_all.deb", 
+    "pkg": "chkconfig_1", 
+    "pkg_version": "1.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "chkconfig-1.3.63-1.fc22.x86_64.rpm", 
+    "pkg": "chkconfig", 
+    "pkg_version": "1.3.6", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "chkconfig_11.4-54.60.1-1_all.deb", 
+    "pkg": "chkconfig_1", 
+    "pkg_version": "1.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "chkconfig-1.3.63-1.fc21.x86_64.rpm", 
+    "pkg": "chkconfig", 
+    "pkg_version": "1.3.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "chkconfig_11.4-54.60.1-1_all.deb", 
+    "pkg": "chkconfig_1", 
+    "pkg_version": "1.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "chkconfig-1.3.63-1.fc20.x86_64.rpm", 
+    "pkg": "chkconfig", 
+    "pkg_version": "1.3.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "chkconfig_11.4-54.60.1-1_all.deb", 
+    "pkg": "chkconfig_1", 
+    "pkg_version": "1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "chkconfig-1.3.60-11-omv2015.0.x86_64.rpm", 
+    "pkg": "chkconfig", 
+    "pkg_version": "1.3.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "chkconfig_11.4-54.60.1-1_all.deb", 
+    "pkg": "chkconfig_1", 
+    "pkg_version": "1.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "chkconfig-1.3.60-4-omv2014.0.x86_64.rpm", 
+    "pkg": "chkconfig", 
+    "pkg_version": "1.3.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "chkconfig_11.4-54.60.1-1_all.deb", 
+    "pkg": "chkconfig_1", 
+    "pkg_version": "1.4", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "chkconfig-1.3.60-3-omv2013.0.x86_64.rpm", 
+    "pkg": "chkconfig", 
+    "pkg_version": "1.3.6", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "chkconfig_11.4-54.60.1-1_all.deb", 
+    "pkg": "chkconfig_1", 
+    "pkg_version": "1.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "chkconfig-1.3.61-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "chkconfig", 
+    "pkg_version": "1.3.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "chkconfig_11.4-54.60.1-1_all.deb", 
+    "pkg": "chkconfig_1", 
+    "pkg_version": "1.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "chkconfig-1.3.61-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "chkconfig", 
+    "pkg_version": "1.3.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "chkconfig_11.4-54.60.1-1_all.deb", 
+    "pkg": "chkconfig_1", 
+    "pkg_version": "1.4", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Helmut Hullen", 
+    "pkg_full_name": "chkconfig-1.3.30c-i486-1hln.tgz", 
+    "pkg": "chkconfig", 
+    "pkg_version": "1.3.3", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }
+]

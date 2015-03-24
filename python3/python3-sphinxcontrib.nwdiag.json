@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-sphinxcontrib.nwdiag_0.9.0-1.1_all.deb", 
+    "pkg": "python3-sphinxcontrib.nwdiag", 
+    "pkg_version": "0.9.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libnewlib-arm-none-eabi_2.1.0+git20140818.1a8323b-2_all.deb", 
+    "pkg": "libnewlib-arm-none-eabi", 
+    "pkg_version": "2.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libnewlib-arm-none-eabi_2.1.0+git20140818.1a8323b-2_all.deb", 
+    "pkg": "libnewlib-arm-none-eabi", 
+    "pkg_version": "2.1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libnewlib-arm-none-eabi_2.1.0+git20140818.1a8323b-2_all.deb", 
+    "pkg": "libnewlib-arm-none-eabi", 
+    "pkg_version": "2.1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

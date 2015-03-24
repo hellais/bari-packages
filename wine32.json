@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "wine32_1.6.2-20_i386.deb", 
+    "pkg": "wine32", 
+    "pkg_version": "1.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "wine32_1.6.2-20_i386.deb", 
+    "pkg": "wine32", 
+    "pkg_version": "1.6.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wine32-1.7.36-2-omv2015.0.i586.rpm", 
+    "pkg": "wine32", 
+    "pkg_version": "1.7.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "wine32-1.7.35-1-omv2014.0.i586.rpm", 
+    "pkg": "wine32", 
+    "pkg_version": "1.7.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wine32-1.6-1-omv2013.0.i586.rpm", 
+    "pkg": "wine32", 
+    "pkg_version": "1.6", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "wine32-1.7.38-1-rosa2014.1.i586.rpm", 
+    "pkg": "wine32", 
+    "pkg_version": "1.7.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "wine32-1.7.10-2-rosa2012.1.i586.rpm", 
+    "pkg": "wine32", 
+    "pkg_version": "1.7.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmosquittopp1_1.3.4-2_i386.deb", 
+    "pkg": "libmosquittopp1", 
+    "pkg_version": "1.3.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

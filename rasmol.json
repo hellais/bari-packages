@@ -1,0 +1,262 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "RasMol-2.7.5.2-alt3.x86_64.rpm", 
+    "pkg": "RasMol", 
+    "pkg_version": "2.7.5.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rasmol_2.7.5.2-2_i386.deb", 
+    "pkg": "rasmol", 
+    "pkg_version": "2.7.5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "RasMol-2.7.5.2-alt3.x86_64.rpm", 
+    "pkg": "RasMol", 
+    "pkg_version": "2.7.5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rasmol_2.7.5.2-2_i386.deb", 
+    "pkg": "rasmol", 
+    "pkg_version": "2.7.5.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "RasMol-2.7.5.2-alt3.x86_64.rpm", 
+    "pkg": "RasMol", 
+    "pkg_version": "2.7.5.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rasmol_2.7.5.2-1_i386.deb", 
+    "pkg": "rasmol", 
+    "pkg_version": "2.7.5.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "RasMol-2.7.5.2-alt3.x86_64.rpm", 
+    "pkg": "RasMol", 
+    "pkg_version": "2.7.5.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rasmol-2.7.5.2-4.fc22.x86_64.rpm", 
+    "pkg": "rasmol", 
+    "pkg_version": "2.7.5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "RasMol-2.7.5.2-alt3.x86_64.rpm", 
+    "pkg": "RasMol", 
+    "pkg_version": "2.7.5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rasmol-2.7.5.2-4.fc22.x86_64.rpm", 
+    "pkg": "rasmol", 
+    "pkg_version": "2.7.5.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "RasMol-2.7.5.2-alt3.x86_64.rpm", 
+    "pkg": "RasMol", 
+    "pkg_version": "2.7.5.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rasmol-2.7.5.2-4.fc21.x86_64.rpm", 
+    "pkg": "rasmol", 
+    "pkg_version": "2.7.5.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "RasMol-2.7.5.2-alt3.x86_64.rpm", 
+    "pkg": "RasMol", 
+    "pkg_version": "2.7.5.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rasmol-2.7.5.2-1.fc20.x86_64.rpm", 
+    "pkg": "rasmol", 
+    "pkg_version": "2.7.5.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "RasMol-2.7.5.2-alt3.x86_64.rpm", 
+    "pkg": "RasMol", 
+    "pkg_version": "2.7.5.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "rasmol-2.7.4.2-75.2.x86_64.rpm", 
+    "pkg": "rasmol", 
+    "pkg_version": "2.7.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "RasMol-2.7.5.2-alt3.x86_64.rpm", 
+    "pkg": "RasMol", 
+    "pkg_version": "2.7.5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "rasmol-2.7.4.2-73.1.3.x86_64.rpm", 
+    "pkg": "rasmol", 
+    "pkg_version": "2.7.4.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "RasMol-2.7.5.2-alt3.x86_64.rpm", 
+    "pkg": "RasMol", 
+    "pkg_version": "2.7.5.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "rasmol-2.7.4.2-71.1.2.i586.rpm", 
+    "pkg": "rasmol", 
+    "pkg_version": "2.7.4.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "RasMol-2.7.5.2-alt3.x86_64.rpm", 
+    "pkg": "RasMol", 
+    "pkg_version": "2.7.5.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "rasmol-2.7.5.2-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "rasmol", 
+    "pkg_version": "2.7.5.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "RasMol-2.7.5.2-alt3.x86_64.rpm", 
+    "pkg": "RasMol", 
+    "pkg_version": "2.7.5.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "rasmol-2.7.5.2-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "rasmol", 
+    "pkg_version": "2.7.5.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "RasMol-2.7.5.2-alt3.x86_64.rpm", 
+    "pkg": "RasMol", 
+    "pkg_version": "2.7.5.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "rasmol_2.7.5.2-2_i386.deb", 
+    "pkg": "rasmol", 
+    "pkg_version": "2.7.5.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "RasMol-2.7.5.2-alt3.x86_64.rpm", 
+    "pkg": "RasMol", 
+    "pkg_version": "2.7.5.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "rasmol_2.7.5.2-2_i386.deb", 
+    "pkg": "rasmol", 
+    "pkg_version": "2.7.5.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "RasMol-2.7.5.2-alt3.x86_64.rpm", 
+    "pkg": "RasMol", 
+    "pkg_version": "2.7.5.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

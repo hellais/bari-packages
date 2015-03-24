@@ -1,0 +1,225 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "autojump-21.7.1-alt1_4.noarch.rpm", 
+    "pkg": "autojump-2", 
+    "pkg_version": "1.7.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "autojump-22.2.4-3-any.pkg.tar.xz", 
+    "pkg": "autojump-2", 
+    "pkg_version": "2.2.4", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "autojump-21.7.1-4.el7.noarch.rpm", 
+    "pkg": "autojump-2", 
+    "pkg_version": "1.7.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "autojump-21.7.1-4.el7.noarch.rpm", 
+    "pkg": "autojump-2", 
+    "pkg_version": "1.7.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "autojump-21.7.1-4.el7.noarch.rpm", 
+    "pkg": "autojump-2", 
+    "pkg_version": "1.7.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "autojump-21.7.1-4.el7.noarch.rpm", 
+    "pkg": "autojump-2", 
+    "pkg_version": "1.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "autojump_21.7.1-1_all.deb", 
+    "pkg": "autojump_2", 
+    "pkg_version": "1.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "autojump-21.7.1-4.el7.noarch.rpm", 
+    "pkg": "autojump-2", 
+    "pkg_version": "1.7.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "autojump_21.7.1-1_all.deb", 
+    "pkg": "autojump_2", 
+    "pkg_version": "1.7.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "autojump-21.7.1-4.el7.noarch.rpm", 
+    "pkg": "autojump-2", 
+    "pkg_version": "1.7.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "autojump_21.7.1-1_all.deb", 
+    "pkg": "autojump_2", 
+    "pkg_version": "1.7.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "autojump-21.7.1-4.fc22.noarch.rpm", 
+    "pkg": "autojump-2", 
+    "pkg_version": "1.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "autojump_21.7.1-1_all.deb", 
+    "pkg": "autojump_2", 
+    "pkg_version": "1.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "autojump-21.7.1-4.fc22.noarch.rpm", 
+    "pkg": "autojump-2", 
+    "pkg_version": "1.7.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "autojump_21.7.1-1_all.deb", 
+    "pkg": "autojump_2", 
+    "pkg_version": "1.7.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "autojump-21.7.1-4.fc21.noarch.rpm", 
+    "pkg": "autojump-2", 
+    "pkg_version": "1.7.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "autojump_21.7.1-1_all.deb", 
+    "pkg": "autojump_2", 
+    "pkg_version": "1.7.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "autojump-21.6.9-3.fc20.noarch.rpm", 
+    "pkg": "autojump-2", 
+    "pkg_version": "1.6.9", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "autojump_21.7.1-1_all.deb", 
+    "pkg": "autojump_2", 
+    "pkg_version": "1.7.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "autojump-21.1.2-3.mga4.noarch.rpm", 
+    "pkg": "autojump-2", 
+    "pkg_version": "1.1.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "autojump_21.7.1-1_all.deb", 
+    "pkg": "autojump_2", 
+    "pkg_version": "1.7.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "autojump-21.1.2-3.mga4.noarch.rpm", 
+    "pkg": "autojump-2", 
+    "pkg_version": "1.1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "autojump_21.7.1-1_all.deb", 
+    "pkg": "autojump_2", 
+    "pkg_version": "1.7.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "autojump-21.1.2-3.mga4.noarch.rpm", 
+    "pkg": "autojump-2", 
+    "pkg_version": "1.1.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "autojump_21.6.9-1_all.deb", 
+    "pkg": "autojump_2", 
+    "pkg_version": "1.6.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

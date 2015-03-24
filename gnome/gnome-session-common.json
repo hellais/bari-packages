@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-session-common_3.14.0-2_all.deb", 
+    "pkg": "gnome-session-common", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-session-common_3.14.0-2_all.deb", 
+    "pkg": "gnome-session-common", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-session-common_3.4.2.1-4_all.deb", 
+    "pkg": "gnome-session-common", 
+    "pkg_version": "3.4.2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "gnome-session-common_3.9.90-0ubuntu16_all.deb", 
+    "pkg": "gnome-session-common", 
+    "pkg_version": "3.9.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "gnome-session-common_3.9.90-0ubuntu12_all.deb", 
+    "pkg": "gnome-session-common", 
+    "pkg_version": "3.9.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

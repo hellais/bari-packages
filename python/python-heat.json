@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-heat_2014.1.3-7_all.deb", 
+    "pkg": "python-heat_201", 
+    "pkg_version": "4.1.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-heat_2014.1.3-7_all.deb", 
+    "pkg": "python-heat_201", 
+    "pkg_version": "4.1.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-heat_2014.1.3-7_all.deb", 
+    "pkg": "python-heat_201", 
+    "pkg_version": "4.1.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-heat-2013.2-1.1.noarch.rpm", 
+    "pkg": "python-heat-201", 
+    "pkg_version": "3.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "python-heat_2014.2.2-0ubuntu1_all.deb", 
+    "pkg": "python-heat_201", 
+    "pkg_version": "4.2.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-heat-2013.2-1.1.noarch.rpm", 
+    "pkg": "python-heat-201", 
+    "pkg_version": "3.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

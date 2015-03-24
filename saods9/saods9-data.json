@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "saods9-data_7.3.2+repack-1_all.deb", 
+    "pkg": "saods9-data", 
+    "pkg_version": "7.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "saods9-data_7.3.2+repack-1_all.deb", 
+    "pkg": "saods9-data", 
+    "pkg_version": "7.3.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "saods9-data_7.0.1+dfsg-1_all.deb", 
+    "pkg": "saods9-data", 
+    "pkg_version": "7.0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "saods9-data_7.2+dfsg-5_all.deb", 
+    "pkg": "saods9-data", 
+    "pkg_version": "7.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

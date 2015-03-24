@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "node-nwmatcher_1.3.3+dfsg-2_all.deb", 
+    "pkg": "node-nwmatcher", 
+    "pkg_version": "1.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fis-gtm-6.2-000_6.2-000-1_i386.deb", 
+    "pkg": "fis-gtm", 
+    "pkg_version": "6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

@@ -1,0 +1,181 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "latexdiff-1.0.2-alt1_4.noarch.rpm", 
+    "pkg": "latexdiff", 
+    "pkg_version": "1.0.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "latexdiff_1.0.4-1_all.deb", 
+    "pkg": "latexdiff", 
+    "pkg_version": "1.0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "latexdiff_1.0.4-1_all.deb", 
+    "pkg": "latexdiff", 
+    "pkg_version": "1.0.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "latexdiff_0.5-4_all.deb", 
+    "pkg": "latexdiff", 
+    "pkg_version": "0.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "latexdiff_0.5-4_all.deb", 
+    "pkg": "latexdiff", 
+    "pkg_version": "0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "texlive-latexdiff-1.0.3-8-omv2015.0.noarch.rpm", 
+    "pkg": "texlive-latexdiff", 
+    "pkg_version": "1.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "latexdiff_0.5-4_all.deb", 
+    "pkg": "latexdiff", 
+    "pkg_version": "0.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "texlive-latexdiff-0.5-4-omv2014.0.noarch.rpm", 
+    "pkg": "texlive-latexdiff", 
+    "pkg_version": "0.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "latexdiff_0.5-4_all.deb", 
+    "pkg": "latexdiff", 
+    "pkg_version": "0.5", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "texlive-latexdiff-0.5-3-omv2013.0.noarch.rpm", 
+    "pkg": "texlive-latexdiff", 
+    "pkg_version": "0.5", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "latexdiff_0.5-4_all.deb", 
+    "pkg": "latexdiff", 
+    "pkg_version": "0.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "texlive-latexdiff-1.0.3-6-rosa2014.1.noarch.rpm", 
+    "pkg": "texlive-latexdiff", 
+    "pkg_version": "1.0.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "latexdiff-0.5-4-rosa2012.1.noarch.rpm", 
+    "pkg": "latexdiff", 
+    "pkg_version": "0.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "texlive-latexdiff-1.0.3-5-rosa2012.1.noarch.rpm", 
+    "pkg": "texlive-latexdiff", 
+    "pkg_version": "1.0.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "latexdiff_1.0.2-1_all.deb", 
+    "pkg": "latexdiff", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "texlive-latexdiff-1.0.3-5-rosa2012.1.noarch.rpm", 
+    "pkg": "texlive-latexdiff", 
+    "pkg_version": "1.0.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "texlive-20110705-6-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "texlive-20110705-6-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "latexdiff_1.0.2-1_all.deb", 
+    "pkg": "latexdiff", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "texlive-latexdiff-1.0.3-5-rosa2012.1.noarch.rpm", 
+    "pkg": "texlive-latexdiff", 
+    "pkg_version": "1.0.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "texlive-20110705-6-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "texlive-20110705-6-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

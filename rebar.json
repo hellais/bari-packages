@@ -1,0 +1,298 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "rebar-1:2.5.1-1-any.pkg.tar.xz", 
+    "pkg": "rebar-1:", 
+    "pkg_version": "2.5.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "erlang-rebar-2.1.0-0.2.el7.x86_64.rpm", 
+    "pkg": "erlang-rebar", 
+    "pkg_version": "2.1.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "rebar-1:2.5.1-1-any.pkg.tar.xz", 
+    "pkg": "rebar-1:", 
+    "pkg_version": "2.5.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "erlang-rebar-2.1.0-0.2.el7.x86_64.rpm", 
+    "pkg": "erlang-rebar", 
+    "pkg_version": "2.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "rebar-1:2.5.1-1-any.pkg.tar.xz", 
+    "pkg": "rebar-1:", 
+    "pkg_version": "2.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rebar_2.0.0-5_i386.deb", 
+    "pkg": "rebar", 
+    "pkg_version": "2.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "erlang-rebar-2.1.0-0.2.el7.x86_64.rpm", 
+    "pkg": "erlang-rebar", 
+    "pkg_version": "2.1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "rebar-1:2.5.1-1-any.pkg.tar.xz", 
+    "pkg": "rebar-1:", 
+    "pkg_version": "2.5.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rebar_2.0.0-5_i386.deb", 
+    "pkg": "rebar", 
+    "pkg_version": "2.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "erlang-rebar-2.1.0-0.2.el7.x86_64.rpm", 
+    "pkg": "erlang-rebar", 
+    "pkg_version": "2.1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "rebar-1:2.5.1-1-any.pkg.tar.xz", 
+    "pkg": "rebar-1:", 
+    "pkg_version": "2.5.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "rebar_2.0.0-5~bpo70+1_i386.deb", 
+    "pkg": "rebar", 
+    "pkg_version": "2.0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "erlang-rebar-2.1.0-0.9.fc22.x86_64.rpm", 
+    "pkg": "erlang-rebar", 
+    "pkg_version": "2.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "rebar-1:2.5.1-1-any.pkg.tar.xz", 
+    "pkg": "rebar-1:", 
+    "pkg_version": "2.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "rebar_2.0.0-5~bpo70+1_i386.deb", 
+    "pkg": "rebar", 
+    "pkg_version": "2.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "erlang-rebar-2.1.0-0.9.fc22.x86_64.rpm", 
+    "pkg": "erlang-rebar", 
+    "pkg_version": "2.1.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "rebar-1:2.5.1-1-any.pkg.tar.xz", 
+    "pkg": "rebar-1:", 
+    "pkg_version": "2.5.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "rebar_2.0.0-5~bpo70+1_i386.deb", 
+    "pkg": "rebar", 
+    "pkg_version": "2.0.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "erlang-rebar-2.1.0-0.9.fc21.x86_64.rpm", 
+    "pkg": "erlang-rebar", 
+    "pkg_version": "2.1.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "rebar-1:2.5.1-1-any.pkg.tar.xz", 
+    "pkg": "rebar-1:", 
+    "pkg_version": "2.5.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "rebar_2.0.0-5~bpo70+1_i386.deb", 
+    "pkg": "rebar", 
+    "pkg_version": "2.0.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "erlang-rebar-2.1.0-0.6.fc20.x86_64.rpm", 
+    "pkg": "erlang-rebar", 
+    "pkg_version": "2.1.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "rebar-1:2.5.1-1-any.pkg.tar.xz", 
+    "pkg": "rebar-1:", 
+    "pkg_version": "2.5.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "rebar_2.0.0-5~bpo70+1_i386.deb", 
+    "pkg": "rebar", 
+    "pkg_version": "2.0.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "erlang-rebar-2.1.0pre+git.1379710511.179ed48-3.12.x86_64.rpm", 
+    "pkg": "erlang-rebar", 
+    "pkg_version": "2.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "rebar-1:2.5.1-1-any.pkg.tar.xz", 
+    "pkg": "rebar-1:", 
+    "pkg_version": "2.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "rebar_2.0.0-5~bpo70+1_i386.deb", 
+    "pkg": "rebar", 
+    "pkg_version": "2.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "erlang-rebar-2.1.0pre+git.1379710511.179ed48-3.1.x86_64.rpm", 
+    "pkg": "erlang-rebar", 
+    "pkg_version": "2.1.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "rebar-1:2.5.1-1-any.pkg.tar.xz", 
+    "pkg": "rebar-1:", 
+    "pkg_version": "2.5.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "rebar_2.0.0-5~bpo70+1_i386.deb", 
+    "pkg": "rebar", 
+    "pkg_version": "2.0.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "erlang-rebar-2.1.0pre+git.1379710511.179ed48-3.1.x86_64.rpm", 
+    "pkg": "erlang-rebar", 
+    "pkg_version": "2.1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "rebar-1:2.5.1-1-any.pkg.tar.xz", 
+    "pkg": "rebar-1:", 
+    "pkg_version": "2.5.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "rebar_2.0.0-5_i386.deb", 
+    "pkg": "rebar", 
+    "pkg_version": "2.0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

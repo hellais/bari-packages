@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-mccabe_0.2.1-1_all.deb", 
+    "pkg": "python3-mccabe", 
+    "pkg_version": "0.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-mccabe_0.2.1-1_all.deb", 
+    "pkg": "python3-mccabe", 
+    "pkg_version": "0.2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-mccabe-0.2.1-6.fc21.noarch.rpm", 
+    "pkg": "python3-mccabe", 
+    "pkg_version": "0.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-mccabe-0.2.1-6.fc21.noarch.rpm", 
+    "pkg": "python3-mccabe", 
+    "pkg_version": "0.2.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-mccabe-0.2.1-6.fc21.noarch.rpm", 
+    "pkg": "python3-mccabe", 
+    "pkg_version": "0.2.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-mccabe-0.2.1-3.fc20.noarch.rpm", 
+    "pkg": "python3-mccabe", 
+    "pkg_version": "0.2.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python3-mccabe-0.3-1.1.noarch.rpm", 
+    "pkg": "python3-mccabe", 
+    "pkg_version": "0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python3-mccabe-0.2.1-4.1.3.noarch.rpm", 
+    "pkg": "python3-mccabe", 
+    "pkg_version": "0.2.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python3-mccabe-0.2.1-2.1.2.noarch.rpm", 
+    "pkg": "python3-mccabe", 
+    "pkg_version": "0.2.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python3-mccabe_0.2.1-1_all.deb", 
+    "pkg": "python3-mccabe", 
+    "pkg_version": "0.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

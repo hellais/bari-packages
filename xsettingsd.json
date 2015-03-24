@@ -1,0 +1,253 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "xsettingsd-0-alt1_0.8.20091208git7804894.x86_64.rpm", 
+    "pkg": "xsettingsd-0-alt1", 
+    "pkg_version": "0.8.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "xsettingsd-0-alt1_0.8.20091208git7804894.x86_64.rpm", 
+    "pkg": "xsettingsd-0-alt1", 
+    "pkg_version": "0.8.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xsettingsd_0.0.20121210+72+g474f18a-1_i386.deb", 
+    "pkg": "xsettingsd", 
+    "pkg_version": "0.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "xsettingsd-0-alt1_0.8.20091208git7804894.x86_64.rpm", 
+    "pkg": "xsettingsd-0-alt1", 
+    "pkg_version": "0.8.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xsettingsd_0.0.20121210+72+g474f18a-1_i386.deb", 
+    "pkg": "xsettingsd", 
+    "pkg_version": "0.0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "xsettingsd-0-alt1_0.8.20091208git7804894.x86_64.rpm", 
+    "pkg": "xsettingsd-0-alt1", 
+    "pkg_version": "0.8.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "xsettingsd_0.0.20121210+72+g474f18a-1~bpo70+1_i386.deb", 
+    "pkg": "xsettingsd", 
+    "pkg_version": "0.0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "xsettingsd-0-alt1_0.8.20091208git7804894.x86_64.rpm", 
+    "pkg": "xsettingsd-0-alt1", 
+    "pkg_version": "0.8.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "xsettingsd_0.0.20121210+72+g474f18a-1~bpo70+1_i386.deb", 
+    "pkg": "xsettingsd", 
+    "pkg_version": "0.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xsettingsd-0-0.8.20091208git7804894.fc22.x86_64.rpm", 
+    "pkg": "xsettingsd-0", 
+    "pkg_version": "0.8.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "xsettingsd-0-alt1_0.8.20091208git7804894.x86_64.rpm", 
+    "pkg": "xsettingsd-0-alt1", 
+    "pkg_version": "0.8.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "xsettingsd_0.0.20121210+72+g474f18a-1~bpo70+1_i386.deb", 
+    "pkg": "xsettingsd", 
+    "pkg_version": "0.0.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xsettingsd-0-0.8.20091208git7804894.fc22.x86_64.rpm", 
+    "pkg": "xsettingsd-0", 
+    "pkg_version": "0.8.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "xsettingsd-0-alt1_0.8.20091208git7804894.x86_64.rpm", 
+    "pkg": "xsettingsd-0-alt1", 
+    "pkg_version": "0.8.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "xsettingsd_0.0.20121210+72+g474f18a-1~bpo70+1_i386.deb", 
+    "pkg": "xsettingsd", 
+    "pkg_version": "0.0.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xsettingsd-0-0.8.20091208git7804894.fc21.x86_64.rpm", 
+    "pkg": "xsettingsd-0", 
+    "pkg_version": "0.8.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "xsettingsd-0-alt1_0.8.20091208git7804894.x86_64.rpm", 
+    "pkg": "xsettingsd-0-alt1", 
+    "pkg_version": "0.8.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "xsettingsd_0.0.20121210+72+g474f18a-1~bpo70+1_i386.deb", 
+    "pkg": "xsettingsd", 
+    "pkg_version": "0.0.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xsettingsd-0-0.6.20091208git7804894.fc20.x86_64.rpm", 
+    "pkg": "xsettingsd-0", 
+    "pkg_version": "0.6.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "xsettingsd-0-alt1_0.8.20091208git7804894.x86_64.rpm", 
+    "pkg": "xsettingsd-0-alt1", 
+    "pkg_version": "0.8.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xsettingsd-0.0~git20141123-1.1.x86_64.rpm", 
+    "pkg": "xsettingsd", 
+    "pkg_version": "0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xsettingsd-0-0.6.20091208git7804894.fc20.x86_64.rpm", 
+    "pkg": "xsettingsd-0", 
+    "pkg_version": "0.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "xsettingsd-0-alt1_0.8.20091208git7804894.x86_64.rpm", 
+    "pkg": "xsettingsd-0-alt1", 
+    "pkg_version": "0.8.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xsettingsd-0.0~git20121210-3.1.3.x86_64.rpm", 
+    "pkg": "xsettingsd", 
+    "pkg_version": "0.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xsettingsd-0-0.6.20091208git7804894.fc20.x86_64.rpm", 
+    "pkg": "xsettingsd-0", 
+    "pkg_version": "0.6.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "xsettingsd-0-alt1_0.8.20091208git7804894.x86_64.rpm", 
+    "pkg": "xsettingsd-0-alt1", 
+    "pkg_version": "0.8.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xsettingsd_0.0.20121210+72+g474f18a-1_i386.deb", 
+    "pkg": "xsettingsd", 
+    "pkg_version": "0.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xsettingsd-0-0.6.20091208git7804894.fc20.x86_64.rpm", 
+    "pkg": "xsettingsd-0", 
+    "pkg_version": "0.6.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ax25-tools_0.0.10-rc2+cvs20120204-4_i386.deb", 
+    "pkg": "ax25-tools", 
+    "pkg_version": "0.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ax25-tools_0.0.10-rc2+cvs20120204-4_i386.deb", 
+    "pkg": "ax25-tools", 
+    "pkg_version": "0.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ax25-tools_0.0.10-rc2+cvs20120204-3_i386.deb", 
+    "pkg": "ax25-tools", 
+    "pkg_version": "0.0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ax25-tools-0.0.10-0.9.rc2.fc22.x86_64.rpm", 
+    "pkg": "ax25-tools", 
+    "pkg_version": "0.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ax25-tools-0.0.10-0.9.rc2.fc22.x86_64.rpm", 
+    "pkg": "ax25-tools", 
+    "pkg_version": "0.0.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ax25-tools-0.0.10-0.9.rc2.fc21.x86_64.rpm", 
+    "pkg": "ax25-tools", 
+    "pkg_version": "0.0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ax25-tools-0.0.10-0.6.rc2.fc20.x86_64.rpm", 
+    "pkg": "ax25-tools", 
+    "pkg_version": "0.0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "ax25-tools-0.0.10-0.rc2.1-omv2013.0.x86_64.rpm", 
+    "pkg": "ax25-tools", 
+    "pkg_version": "0.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "ax25-tools-0.0.10-0.rc2.1-omv2013.0.x86_64.rpm", 
+    "pkg": "ax25-tools", 
+    "pkg_version": "0.0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "ax25-tools-0.0.10-0.rc2.1-omv2013.0.x86_64.rpm", 
+    "pkg": "ax25-tools", 
+    "pkg_version": "0.0.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "ax25-tools-0.0.10-0.rc2.1-rosa2014.1.x86_64.rpm", 
+    "pkg": "ax25-tools", 
+    "pkg_version": "0.0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "ax25-tools-0.0.10-0.rc2.1-rosa2012.1.x86_64.rpm", 
+    "pkg": "ax25-tools", 
+    "pkg_version": "0.0.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ax25-tools_0.0.10-rc2+cvs20120204-3ubuntu1_i386.deb", 
+    "pkg": "ax25-tools", 
+    "pkg_version": "0.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ax25-tools_0.0.10-rc2+cvs20120204-3ubuntu1_i386.deb", 
+    "pkg": "ax25-tools", 
+    "pkg_version": "0.0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

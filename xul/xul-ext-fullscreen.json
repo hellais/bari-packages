@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xul-ext-fullscreen_1.0.4-1_all.deb", 
+    "pkg": "xul-ext-fullscreen", 
+    "pkg_version": "1.0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

@@ -1,0 +1,163 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "udftools-1.0.0-alt2.1.qa1.x86_64.rpm", 
+    "pkg": "udftools", 
+    "pkg_version": "1.0.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "udftools-1.0.0b3-26.el7.x86_64.rpm", 
+    "pkg": "udftools", 
+    "pkg_version": "1.0.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "udftools-1.0.0b3-12.el6.x86_64.rpm", 
+    "pkg": "udftools", 
+    "pkg_version": "1.0.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "udftools-1.0.0b3-0.1.el5.x86_64.rpm", 
+    "pkg": "udftools", 
+    "pkg_version": "1.0.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "udftools_1.0.0b3-14.3_i386.deb", 
+    "pkg": "udftools", 
+    "pkg_version": "1.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "udftools_1.0.0b3-14.3_i386.deb", 
+    "pkg": "udftools", 
+    "pkg_version": "1.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "udftools_1.0.0b3-14.2_i386.deb", 
+    "pkg": "udftools", 
+    "pkg_version": "1.0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "udftools-1.0.0b3-29.fc23.x86_64.rpm", 
+    "pkg": "udftools", 
+    "pkg_version": "1.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "udftools-1.0.0b3-29.fc22.x86_64.rpm", 
+    "pkg": "udftools", 
+    "pkg_version": "1.0.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "udftools-1.0.0b3-28.fc21.x86_64.rpm", 
+    "pkg": "udftools", 
+    "pkg_version": "1.0.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "udftools-1.0.0b3-24.fc20.x86_64.rpm", 
+    "pkg": "udftools", 
+    "pkg_version": "1.0.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "udftools-1.0.0b3-159.2.x86_64.rpm", 
+    "pkg": "udftools", 
+    "pkg_version": "1.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "udftools-1.0.0b3-157.1.2.x86_64.rpm", 
+    "pkg": "udftools", 
+    "pkg_version": "1.0.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "udftools-1.0.0b3-155.1.2.i586.rpm", 
+    "pkg": "udftools", 
+    "pkg_version": "1.0.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "udftools-1.0.0-0.b3.15-rosa2014.1.x86_64.rpm", 
+    "pkg": "udftools", 
+    "pkg_version": "1.0.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "udftools-1.0.0-0.b3.15-rosa2012.1.x86_64.rpm", 
+    "pkg": "udftools", 
+    "pkg_version": "1.0.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "udftools_1.0.0b3-14.3_i386.deb", 
+    "pkg": "udftools", 
+    "pkg_version": "1.0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "udftools_1.0.0b3-14.2ubuntu1_i386.deb", 
+    "pkg": "udftools", 
+    "pkg_version": "1.0.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

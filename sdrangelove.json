@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sdrangelove_0.0.1.20140824-1_i386.deb", 
+    "pkg": "sdrangelove", 
+    "pkg_version": "0.0.1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

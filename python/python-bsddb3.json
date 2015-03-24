@@ -1,0 +1,83 @@
+[
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "python-bsddb3-4.6.2-1.el5.rf.x86_64.rpm", 
+    "pkg": "python-bsddb3", 
+    "pkg_version": "4.6.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-bsddb3_6.1.0-1_i386.deb", 
+    "pkg": "python-bsddb3", 
+    "pkg_version": "6.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-bsddb3_6.1.0-1_i386.deb", 
+    "pkg": "python-bsddb3", 
+    "pkg_version": "6.1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-bsddb3_5.2.0-1+b1_i386.deb", 
+    "pkg": "python-bsddb3", 
+    "pkg_version": "5.2.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-bsddb3-6.1.0-3.2.x86_64.rpm", 
+    "pkg": "python-bsddb3", 
+    "pkg_version": "6.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-bsddb3-6.1.0-2.1.4.x86_64.rpm", 
+    "pkg": "python-bsddb3", 
+    "pkg_version": "6.1.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-bsddb3-6.0.0-2.1.2.i586.rpm", 
+    "pkg": "python-bsddb3", 
+    "pkg_version": "6.0.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python-bsddb3_6.1.0-1_i386.deb", 
+    "pkg": "python-bsddb3", 
+    "pkg_version": "6.1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python-bsddb3_6.0.1-1build1_i386.deb", 
+    "pkg": "python-bsddb3", 
+    "pkg_version": "6.0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

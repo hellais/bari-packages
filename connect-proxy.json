@@ -1,0 +1,109 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "connect-proxy-1.100-alt1_11.x86_64.rpm", 
+    "pkg": "connect-proxy", 
+    "pkg_version": "1.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "connect-proxy-1.93-2.el6.x86_64.rpm", 
+    "pkg": "connect-proxy", 
+    "pkg_version": "1.9", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "connect-proxy-1.93-2.0.el5.x86_64.rpm", 
+    "pkg": "connect-proxy", 
+    "pkg_version": "1.9", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "connect-proxy_1.101-1_i386.deb", 
+    "pkg": "connect-proxy", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "connect-proxy_1.101-1_i386.deb", 
+    "pkg": "connect-proxy", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "connect-proxy_1.101-1_i386.deb", 
+    "pkg": "connect-proxy", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "connect-proxy-1.100-11.fc22.x86_64.rpm", 
+    "pkg": "connect-proxy", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "connect-proxy-1.100-11.fc22.x86_64.rpm", 
+    "pkg": "connect-proxy", 
+    "pkg_version": "1.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "connect-proxy-1.100-11.fc21.x86_64.rpm", 
+    "pkg": "connect-proxy", 
+    "pkg_version": "1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "connect-proxy-1.100-9.fc20.x86_64.rpm", 
+    "pkg": "connect-proxy", 
+    "pkg_version": "1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "connect-proxy_1.101-1_i386.deb", 
+    "pkg": "connect-proxy", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "connect-proxy_1.101-1_i386.deb", 
+    "pkg": "connect-proxy", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php-symfony-proxy-manager-bridge_2.3.21+dfsg-3_all.deb", 
+    "pkg": "php-symfony-proxy-manager-bridge", 
+    "pkg_version": "2.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libmuparser2-2.2.3-alt1.x86_64.rpm", 
+    "pkg": "libmuparser2", 
+    "pkg_version": "2.2.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmuparser2_2.2.3-4_i386.deb", 
+    "pkg": "libmuparser2", 
+    "pkg_version": "2.2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmuparser2_2.2.3-4_i386.deb", 
+    "pkg": "libmuparser2", 
+    "pkg_version": "2.2.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmuparser2_2.1.0-3_i386.deb", 
+    "pkg": "libmuparser2", 
+    "pkg_version": "2.1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libmuparser2-2.2.3-4.1.2.x86_64.rpm", 
+    "pkg": "libmuparser2", 
+    "pkg_version": "2.2.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libmuparser2-2.2.3-2.1.2.i586.rpm", 
+    "pkg": "libmuparser2", 
+    "pkg_version": "2.2.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libmuparser2_2.2.3-3_i386.deb", 
+    "pkg": "libmuparser2", 
+    "pkg_version": "2.2.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,207 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hddtemp-0.3-alt12.beta15.x86_64.rpm", 
+    "pkg": "hddtemp", 
+    "pkg_version": "0.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "hddtemp-0.3.beta15.52-2-x86_64.pkg.tar.xz", 
+    "pkg": "hddtemp", 
+    "pkg_version": "0.3", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "hddtemp-0.3-0.31.beta15.el7.x86_64.rpm", 
+    "pkg": "hddtemp", 
+    "pkg_version": "0.3", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "LinuxTECH", 
+    "pkg_full_name": "hddtemp-0.3-0.20.beta15.el6.x86_64.rpm", 
+    "pkg": "hddtemp", 
+    "pkg_version": "0.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "hddtemp-0.3-0.beta15.1.el5.rf.x86_64.rpm", 
+    "pkg": "hddtemp", 
+    "pkg_version": "0.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "hddtemp_0.3-beta15-52_i386.deb", 
+    "pkg": "hddtemp", 
+    "pkg_version": "0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "hddtemp_0.3-beta15-52_i386.deb", 
+    "pkg": "hddtemp", 
+    "pkg_version": "0.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "hddtemp_0.3-beta15-52_i386.deb", 
+    "pkg": "hddtemp", 
+    "pkg_version": "0.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "hddtemp-0.3-0.33.beta15.fc22.x86_64.rpm", 
+    "pkg": "hddtemp", 
+    "pkg_version": "0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "hddtemp-0.3-0.33.beta15.fc22.x86_64.rpm", 
+    "pkg": "hddtemp", 
+    "pkg_version": "0.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "hddtemp-0.3-0.33.beta15.fc21.x86_64.rpm", 
+    "pkg": "hddtemp", 
+    "pkg_version": "0.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "hddtemp-0.3-0.31.beta15.fc20.x86_64.rpm", 
+    "pkg": "hddtemp", 
+    "pkg_version": "0.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "hddtemp-0.3-0.beta15.16-omv2015.0.x86_64.rpm", 
+    "pkg": "hddtemp", 
+    "pkg_version": "0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "hddtemp-0.3-0.beta15.15-omv2014.0.x86_64.rpm", 
+    "pkg": "hddtemp", 
+    "pkg_version": "0.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "hddtemp-0.3-0.beta15.15-omv2013.0.x86_64.rpm", 
+    "pkg": "hddtemp", 
+    "pkg_version": "0.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "hddtemp-0.3_beta15-14.51.x86_64.rpm", 
+    "pkg": "hddtemp", 
+    "pkg_version": "0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "hddtemp-0.3_beta15-14.40.x86_64.rpm", 
+    "pkg": "hddtemp", 
+    "pkg_version": "0.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "hddtemp-0.3-0.beta15.16-rosa2014.1.x86_64.rpm", 
+    "pkg": "hddtemp", 
+    "pkg_version": "0.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "hddtemp-0.3-0.beta15.15-rosa2012.1.x86_64.rpm", 
+    "pkg": "hddtemp", 
+    "pkg_version": "0.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Freestylers", 
+    "pkg_full_name": "hddtemp-0.3beta15-x86_64-1_fs.tgz", 
+    "pkg": "hddtemp", 
+    "pkg_version": "0.3", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "hddtemp-0.3beta15-x86_64-1sl.txz", 
+    "pkg": "hddtemp", 
+    "pkg_version": "0.3", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "hddtemp_0.3-beta15-52_i386.deb", 
+    "pkg": "hddtemp", 
+    "pkg_version": "0.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "hddtemp_0.3-beta15-52_i386.deb", 
+    "pkg": "hddtemp", 
+    "pkg_version": "0.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

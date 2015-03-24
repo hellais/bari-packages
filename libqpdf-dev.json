@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libqpdf-dev_5.1.2-2_i386.deb", 
+    "pkg": "libqpdf-dev", 
+    "pkg_version": "5.1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libqpdf-dev_5.1.2-2_i386.deb", 
+    "pkg": "libqpdf-dev", 
+    "pkg_version": "5.1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libqpdf-dev_2.3.1-4_i386.deb", 
+    "pkg": "libqpdf-dev", 
+    "pkg_version": "2.3.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libqpdf-dev_5.1.2-1_i386.deb", 
+    "pkg": "libqpdf-dev", 
+    "pkg_version": "5.1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libqpdf-dev_5.1.1-1_i386.deb", 
+    "pkg": "libqpdf-dev", 
+    "pkg_version": "5.1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

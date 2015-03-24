@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ubuntu-packaging-guide-epub-fr_0.3.6_all.deb", 
+    "pkg": "ubuntu-packaging-guide-epub-fr", 
+    "pkg_version": "0.3.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ubuntu-packaging-guide-epub-fr_0.3.6_all.deb", 
+    "pkg": "ubuntu-packaging-guide-epub-fr", 
+    "pkg_version": "0.3.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ubuntu-packaging-guide-epub-fr_0.3.6_all.deb", 
+    "pkg": "ubuntu-packaging-guide-epub-fr", 
+    "pkg_version": "0.3.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

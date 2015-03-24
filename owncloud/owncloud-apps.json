@@ -1,0 +1,19 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "owncloud-apps-7.0.4-alt1.noarch.rpm", 
+    "pkg": "owncloud-apps", 
+    "pkg_version": "7.0.4", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "owncloud-apps-7.0.4-alt1.noarch.rpm", 
+    "pkg": "owncloud-apps", 
+    "pkg_version": "7.0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

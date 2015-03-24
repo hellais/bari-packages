@@ -1,0 +1,225 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "meld-3.12.3-alt1.noarch.rpm", 
+    "pkg": "meld", 
+    "pkg_version": "3.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "meld-3.12.3-1-any.pkg.tar.xz", 
+    "pkg": "meld", 
+    "pkg_version": "3.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "meld-3.13.0-2.el7.noarch.rpm", 
+    "pkg": "meld", 
+    "pkg_version": "3.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "meld-1.4.0-1.el6.rf.noarch.rpm", 
+    "pkg": "meld", 
+    "pkg_version": "1.4.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "meld-1.1.5-1.el5.rf.noarch.rpm", 
+    "pkg": "meld", 
+    "pkg_version": "1.1.5", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "meld_3.12.3-1_all.deb", 
+    "pkg": "meld", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "meld_3.12.1-2_all.deb", 
+    "pkg": "meld", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "meld_1.6.1-1_all.deb", 
+    "pkg": "meld", 
+    "pkg_version": "1.6.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "meld-3.13.0-2.fc23.noarch.rpm", 
+    "pkg": "meld", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "meld-3.13.0-2.fc22.noarch.rpm", 
+    "pkg": "meld", 
+    "pkg_version": "3.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "meld-3.12.3-1.fc21.noarch.rpm", 
+    "pkg": "meld", 
+    "pkg_version": "3.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "meld-1.8.6-1.fc20.noarch.rpm", 
+    "pkg": "meld", 
+    "pkg_version": "1.8.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "meld-1.7.5-1-omv2013.0.noarch.rpm", 
+    "pkg": "meld", 
+    "pkg_version": "1.7.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "meld-1.8.4-1-omv2014.0.noarch.rpm", 
+    "pkg": "meld", 
+    "pkg_version": "1.8.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "meld-1.7.0-1-omv2013.0.noarch.rpm", 
+    "pkg": "meld", 
+    "pkg_version": "1.7.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "meld-3.12.3-1.2.noarch.rpm", 
+    "pkg": "meld", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "meld-3.12.2-9.7.noarch.rpm", 
+    "pkg": "meld", 
+    "pkg_version": "3.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "meld-1.8.2-1.1.noarch.rpm", 
+    "pkg": "meld", 
+    "pkg_version": "1.8.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "meld-3.12.1-1-rosa2014.1.noarch.rpm", 
+    "pkg": "meld", 
+    "pkg_version": "3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "meld-1.8.4-2-rosa2012.1.noarch.rpm", 
+    "pkg": "meld", 
+    "pkg_version": "1.8.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "SlackPack", 
+    "pkg_full_name": "meld-1.8.6-noarch-1gds.txz", 
+    "pkg": "meld", 
+    "pkg_version": "1.8.6", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "meld-1.6.1-i686-1sl.txz", 
+    "pkg": "meld", 
+    "pkg_version": "1.6.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "meld-1.5.2-i686-1sl.txz", 
+    "pkg": "meld", 
+    "pkg_version": "1.5.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "meld_3.12.0-1_all.deb", 
+    "pkg": "meld", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "meld_1.8.4-1_all.deb", 
+    "pkg": "meld", 
+    "pkg_version": "1.8.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

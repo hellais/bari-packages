@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "libkkc-common-0.3.1-4.el7.noarch.rpm", 
+    "pkg": "libkkc-common", 
+    "pkg_version": "0.3.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libkkc-common_0.3.4-1_all.deb", 
+    "pkg": "libkkc-common", 
+    "pkg_version": "0.3.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libkkc-common_0.3.4-1_all.deb", 
+    "pkg": "libkkc-common", 
+    "pkg_version": "0.3.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "libkkc-common-0.3.5-2.fc23.noarch.rpm", 
+    "pkg": "libkkc-common", 
+    "pkg_version": "0.3.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "libkkc-common-0.3.5-2.fc22.noarch.rpm", 
+    "pkg": "libkkc-common", 
+    "pkg_version": "0.3.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "libkkc-common-0.3.5-2.fc21.noarch.rpm", 
+    "pkg": "libkkc-common", 
+    "pkg_version": "0.3.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "libkkc-common-0.3.3-1.fc20.noarch.rpm", 
+    "pkg": "libkkc-common", 
+    "pkg_version": "0.3.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "libkkc-common-0.3.1-2-rosa2014.1.noarch.rpm", 
+    "pkg": "libkkc-common", 
+    "pkg_version": "0.3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mono-utils_3.2.8+dfsg-10_i386.deb", 
+    "pkg": "mono-utils", 
+    "pkg_version": "3.2.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mono-utils_3.2.8+dfsg-10_i386.deb", 
+    "pkg": "mono-utils", 
+    "pkg_version": "3.2.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "mono-utils_2.10.8.1-8+deb7u1_i386.deb", 
+    "pkg": "mono-utils", 
+    "pkg_version": "2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "mono-utils_3.2.8+dfsg-4ubuntu2_i386.deb", 
+    "pkg": "mono-utils", 
+    "pkg_version": "3.2.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "mono-utils_3.2.8+dfsg-4ubuntu1_i386.deb", 
+    "pkg": "mono-utils", 
+    "pkg_version": "3.2.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

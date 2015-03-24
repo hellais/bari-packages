@@ -1,0 +1,173 @@
+[
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "libreoffice-writer-4.1.4.2-3.el7.x86_64.rpm", 
+    "pkg": "libreoffice-writer", 
+    "pkg_version": "4.1.4.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Russian Fedora Free Updates Testing", 
+    "pkg_full_name": "libreoffice-writer-3.4.3.2-3.el6.R.x86_64.rpm", 
+    "pkg": "libreoffice-writer", 
+    "pkg_version": "3.4.3.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libreoffice-writer_4.3.3-2_i386.deb", 
+    "pkg": "libreoffice-writer", 
+    "pkg_version": "4.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libreoffice-writer_4.3.3-2_i386.deb", 
+    "pkg": "libreoffice-writer", 
+    "pkg_version": "4.3.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "libreoffice-writer_3.5.4+dfsg2-0+deb7u3_i386.deb", 
+    "pkg": "libreoffice-writer", 
+    "pkg_version": "3.5.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "libreoffice-writer-4.4.2.1-1.fc23.x86_64.rpm", 
+    "pkg": "libreoffice-writer", 
+    "pkg_version": "4.4.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "libreoffice-writer-4.4.0.3-5.fc22.x86_64.rpm", 
+    "pkg": "libreoffice-writer", 
+    "pkg_version": "4.4.0.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "libreoffice-writer-4.3.6.2-4.fc21.x86_64.rpm", 
+    "pkg": "libreoffice-writer", 
+    "pkg_version": "4.3.6.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "libreoffice-writer-4.2.8.2-7.fc20.x86_64.rpm", 
+    "pkg": "libreoffice-writer", 
+    "pkg_version": "4.2.8.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libreoffice-writer-4.4.0-2-omv2015.0.x86_64.rpm", 
+    "pkg": "libreoffice-writer", 
+    "pkg_version": "4.4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "libreoffice-writer-4.3.5-1.1-omv2014.0.x86_64.rpm", 
+    "pkg": "libreoffice-writer", 
+    "pkg_version": "4.3.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libreoffice-writer-4.1.3-1-omv2013.0.x86_64.rpm", 
+    "pkg": "libreoffice-writer", 
+    "pkg_version": "4.1.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libreoffice-writer-4.4.1.2-2.1.x86_64.rpm", 
+    "pkg": "libreoffice-writer", 
+    "pkg_version": "4.4.1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "libreoffice-writer-4.3.5.2-8.1.x86_64.rpm", 
+    "pkg": "libreoffice-writer", 
+    "pkg_version": "4.3.5.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "libreoffice-writer-4.1.6.2-37.1.x86_64.rpm", 
+    "pkg": "libreoffice-writer", 
+    "pkg_version": "4.1.6.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "libreoffice-writer-4.3.5-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "libreoffice-writer", 
+    "pkg_version": "4.3.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "libreoffice-writer-4.1.3-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "libreoffice-writer", 
+    "pkg_version": "4.1.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "libreoffice-writer_4.3.3-0ubuntu1_i386.deb", 
+    "pkg": "libreoffice-writer", 
+    "pkg_version": "4.3.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "libreoffice-writer_4.2.7-0ubuntu2_i386.deb", 
+    "pkg": "libreoffice-writer", 
+    "pkg_version": "4.2.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

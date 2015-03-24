@@ -1,0 +1,767 @@
+[
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "wireless-tools-29-9.1.el7.nux.x86_64.rpm", 
+    "pkg": "wireless-tools-29", 
+    "pkg_version": "9.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "wireless-tools-29-5.1.1.el6.x86_64.rpm", 
+    "pkg": "wireless-tools-29", 
+    "pkg_version": "5.1.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "wireless-tools-29-5.1.1.el6.x86_64.rpm", 
+    "pkg": "wireless-tools-29", 
+    "pkg_version": "5.1.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "wireless-tools-29-5.1.1.el6.x86_64.rpm", 
+    "pkg": "wireless-tools-29", 
+    "pkg_version": "5.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "wireless-tools-29-5.1.1.el6.x86_64.rpm", 
+    "pkg": "wireless-tools-29", 
+    "pkg_version": "5.1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "wireless-tools-29-5.1.1.el6.x86_64.rpm", 
+    "pkg": "wireless-tools-29", 
+    "pkg_version": "5.1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "wireless-tools-29-5.1.1.el6.x86_64.rpm", 
+    "pkg": "wireless-tools-29", 
+    "pkg_version": "5.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "wireless-tools-29-12.1.fc22.x86_64.rpm", 
+    "pkg": "wireless-tools-29-1", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "wireless-tools-29-5.1.1.el6.x86_64.rpm", 
+    "pkg": "wireless-tools-29", 
+    "pkg_version": "5.1.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "wireless-tools-29-12.1.fc22.x86_64.rpm", 
+    "pkg": "wireless-tools-29-1", 
+    "pkg_version": "2.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "wireless-tools-29-5.1.1.el6.x86_64.rpm", 
+    "pkg": "wireless-tools-29", 
+    "pkg_version": "5.1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "wireless-tools-29-12.1.fc21.x86_64.rpm", 
+    "pkg": "wireless-tools-29-1", 
+    "pkg_version": "2.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "wireless-tools-29-5.1.1.el6.x86_64.rpm", 
+    "pkg": "wireless-tools-29", 
+    "pkg_version": "5.1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "wireless-tools-29-10.1.fc20.x86_64.rpm", 
+    "pkg": "wireless-tools-29-1", 
+    "pkg_version": "0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "wireless-tools-29-5.1.1.el6.x86_64.rpm", 
+    "pkg": "wireless-tools-29", 
+    "pkg_version": "5.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-tools-30-0.pre9.4-omv2015.0.x86_64.rpm", 
+    "pkg": "wireless-tools-30-0.pre", 
+    "pkg_version": "9.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "wireless-tools-29-10.1.fc20.x86_64.rpm", 
+    "pkg": "wireless-tools-29-1", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "wireless-tools-29-5.1.1.el6.x86_64.rpm", 
+    "pkg": "wireless-tools-29", 
+    "pkg_version": "5.1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-tools-30-0.pre9.4-omv2014.0.x86_64.rpm", 
+    "pkg": "wireless-tools-30-0.pre", 
+    "pkg_version": "9.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "wireless-tools-29-10.1.fc20.x86_64.rpm", 
+    "pkg": "wireless-tools-29-1", 
+    "pkg_version": "0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "wireless-tools-29-5.1.1.el6.x86_64.rpm", 
+    "pkg": "wireless-tools-29", 
+    "pkg_version": "5.1.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-tools-30-0.pre9.4-omv2013.0.x86_64.rpm", 
+    "pkg": "wireless-tools-30-0.pre", 
+    "pkg_version": "9.4", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "wireless-tools-29-10.1.fc20.x86_64.rpm", 
+    "pkg": "wireless-tools-29-1", 
+    "pkg_version": "0.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "wireless-tools-30.pre9-37.2.x86_64.rpm", 
+    "pkg": "wireless-tools-30.pre9-3", 
+    "pkg_version": "7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "wireless-tools-29-5.1.1.el6.x86_64.rpm", 
+    "pkg": "wireless-tools-29", 
+    "pkg_version": "5.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-tools-30-0.pre9.4-omv2013.0.x86_64.rpm", 
+    "pkg": "wireless-tools-30-0.pre", 
+    "pkg_version": "9.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "wireless-tools-29-10.1.fc20.x86_64.rpm", 
+    "pkg": "wireless-tools-29-1", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Hardware", 
+    "pkg_full_name": "wireless-tools-30.pre9-65.4.x86_64.rpm", 
+    "pkg": "wireless-tools-30.pre9-6", 
+    "pkg_version": "5.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "wireless-tools-30.pre9-35.1.2.x86_64.rpm", 
+    "pkg": "wireless-tools-30.pre9-3", 
+    "pkg_version": "5.1.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "wireless-tools-29-5.1.1.el6.x86_64.rpm", 
+    "pkg": "wireless-tools-29", 
+    "pkg_version": "5.1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-tools-30-0.pre9.4-omv2013.0.x86_64.rpm", 
+    "pkg": "wireless-tools-30-0.pre", 
+    "pkg_version": "9.4", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "wireless-tools-29-10.1.fc20.x86_64.rpm", 
+    "pkg": "wireless-tools-29-1", 
+    "pkg_version": "0.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Hardware", 
+    "pkg_full_name": "wireless-tools-30.pre9-65.4.x86_64.rpm", 
+    "pkg": "wireless-tools-30.pre9-6", 
+    "pkg_version": "5.4", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "wireless-tools-30.pre9-32.1.2.i586.rpm", 
+    "pkg": "wireless-tools-30.pre9-3", 
+    "pkg_version": "2.1.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "wireless-tools-29-5.1.1.el6.x86_64.rpm", 
+    "pkg": "wireless-tools-29", 
+    "pkg_version": "5.1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-tools-30-0.pre9.4-omv2013.0.x86_64.rpm", 
+    "pkg": "wireless-tools-30-0.pre", 
+    "pkg_version": "9.4", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "wireless-tools-29-10.1.fc20.x86_64.rpm", 
+    "pkg": "wireless-tools-29-1", 
+    "pkg_version": "0.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Hardware", 
+    "pkg_full_name": "wireless-tools-30.pre9-65.4.x86_64.rpm", 
+    "pkg": "wireless-tools-30.pre9-6", 
+    "pkg_version": "5.4", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "wireless-tools-30.pre9-32.1.2.i586.rpm", 
+    "pkg": "wireless-tools-30.pre9-3", 
+    "pkg_version": "2.1.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "wireless-tools-29-6-rosa2014.1.x86_64.rpm", 
+    "pkg": "wireless-tools-29-6-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Hardware", 
+    "pkg_full_name": "wireless-tools-30.pre9-65.4.x86_64.rpm", 
+    "pkg": "wireless-tools-30.pre9-6", 
+    "pkg_version": "5.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "wireless-tools-29-5.1.1.el6.x86_64.rpm", 
+    "pkg": "wireless-tools-29", 
+    "pkg_version": "5.1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "wireless-tools-29-10.1.fc20.x86_64.rpm", 
+    "pkg": "wireless-tools-29-1", 
+    "pkg_version": "0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-tools-30-0.pre9.4-omv2013.0.x86_64.rpm", 
+    "pkg": "wireless-tools-30-0.pre", 
+    "pkg_version": "9.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "wireless-tools-30.pre9-32.1.2.i586.rpm", 
+    "pkg": "wireless-tools-30.pre9-3", 
+    "pkg_version": "2.1.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "wireless-tools-29-6-rosa2012.1.x86_64.rpm", 
+    "pkg": "wireless-tools-29-6-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Hardware", 
+    "pkg_full_name": "wireless-tools-30.pre9-65.4.x86_64.rpm", 
+    "pkg": "wireless-tools-30.pre9-6", 
+    "pkg_version": "5.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "wireless-tools-29-5.1.1.el6.x86_64.rpm", 
+    "pkg": "wireless-tools-29", 
+    "pkg_version": "5.1.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "wireless-tools-29-10.1.fc20.x86_64.rpm", 
+    "pkg": "wireless-tools-29-1", 
+    "pkg_version": "0.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-tools-30-0.pre9.4-omv2013.0.x86_64.rpm", 
+    "pkg": "wireless-tools-30-0.pre", 
+    "pkg_version": "9.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "wireless-tools-30.pre9-32.1.2.i586.rpm", 
+    "pkg": "wireless-tools-30.pre9-3", 
+    "pkg_version": "2.1.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "wireless-tools-29-6-rosa2012.1.x86_64.rpm", 
+    "pkg": "wireless-tools-29-6-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Hardware", 
+    "pkg_full_name": "wireless-tools-30.pre9-65.4.x86_64.rpm", 
+    "pkg": "wireless-tools-30.pre9-6", 
+    "pkg_version": "5.4", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "wireless-tools-29-5.1.1.el6.x86_64.rpm", 
+    "pkg": "wireless-tools-29", 
+    "pkg_version": "5.1.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "wireless-tools-29-10.1.fc20.x86_64.rpm", 
+    "pkg": "wireless-tools-29-1", 
+    "pkg_version": "0.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-tools-30-0.pre9.4-omv2013.0.x86_64.rpm", 
+    "pkg": "wireless-tools-30-0.pre", 
+    "pkg_version": "9.4", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "wireless-tools-29-6-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "wireless-tools-29-6-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "wireless-tools-30.pre9-32.1.2.i586.rpm", 
+    "pkg": "wireless-tools-30.pre9-3", 
+    "pkg_version": "2.1.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "wireless-tools-29-6-rosa2012.1.x86_64.rpm", 
+    "pkg": "wireless-tools-29-6-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Hardware", 
+    "pkg_full_name": "wireless-tools-30.pre9-65.4.x86_64.rpm", 
+    "pkg": "wireless-tools-30.pre9-6", 
+    "pkg_version": "5.4", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "wireless-tools-29-5.1.1.el6.x86_64.rpm", 
+    "pkg": "wireless-tools-29", 
+    "pkg_version": "5.1.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "wireless-tools-29-10.1.fc20.x86_64.rpm", 
+    "pkg": "wireless-tools-29-1", 
+    "pkg_version": "0.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-tools-30-0.pre9.4-omv2013.0.x86_64.rpm", 
+    "pkg": "wireless-tools-30-0.pre", 
+    "pkg_version": "9.4", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "wireless-tools-29-6-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "wireless-tools-29-6-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "wireless-tools-30.pre9-32.1.2.i586.rpm", 
+    "pkg": "wireless-tools-30.pre9-3", 
+    "pkg_version": "2.1.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "wireless-tools-29-6-rosa2012.1.x86_64.rpm", 
+    "pkg": "wireless-tools-29-6-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Hardware", 
+    "pkg_full_name": "wireless-tools-30.pre9-65.4.x86_64.rpm", 
+    "pkg": "wireless-tools-30.pre9-6", 
+    "pkg_version": "5.4", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "wireless-tools-29-5.1.1.el6.x86_64.rpm", 
+    "pkg": "wireless-tools-29", 
+    "pkg_version": "5.1.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "wireless-tools-29-10.1.fc20.x86_64.rpm", 
+    "pkg": "wireless-tools-29-1", 
+    "pkg_version": "0.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-tools-30-0.pre9.4-omv2013.0.x86_64.rpm", 
+    "pkg": "wireless-tools-30-0.pre", 
+    "pkg_version": "9.4", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "wireless-tools-29-6-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "wireless-tools-29-6-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "wireless-tools-30.pre9-32.1.2.i586.rpm", 
+    "pkg": "wireless-tools-30.pre9-3", 
+    "pkg_version": "2.1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "wireless-tools-29-6-rosa2012.1.x86_64.rpm", 
+    "pkg": "wireless-tools-29-6-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Hardware", 
+    "pkg_full_name": "wireless-tools-30.pre9-65.4.x86_64.rpm", 
+    "pkg": "wireless-tools-30.pre9-6", 
+    "pkg_version": "5.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "wireless-tools-29-5.1.1.el6.x86_64.rpm", 
+    "pkg": "wireless-tools-29", 
+    "pkg_version": "5.1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "wireless-tools-29-10.1.fc20.x86_64.rpm", 
+    "pkg": "wireless-tools-29-1", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-tools-30-0.pre9.4-omv2013.0.x86_64.rpm", 
+    "pkg": "wireless-tools-30-0.pre", 
+    "pkg_version": "9.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "wireless-tools-29-6-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "wireless-tools-29-6-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "wireless-tools-30.pre9-32.1.2.i586.rpm", 
+    "pkg": "wireless-tools-30.pre9-3", 
+    "pkg_version": "2.1.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "wireless-tools-29-6-rosa2012.1.x86_64.rpm", 
+    "pkg": "wireless-tools-29-6-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Hardware", 
+    "pkg_full_name": "wireless-tools-30.pre9-65.4.x86_64.rpm", 
+    "pkg": "wireless-tools-30.pre9-6", 
+    "pkg_version": "5.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "wireless-tools-29-5.1.1.el6.x86_64.rpm", 
+    "pkg": "wireless-tools-29", 
+    "pkg_version": "5.1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "wireless-tools-29-10.1.fc20.x86_64.rpm", 
+    "pkg": "wireless-tools-29-1", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-tools-30-0.pre9.4-omv2013.0.x86_64.rpm", 
+    "pkg": "wireless-tools-30-0.pre", 
+    "pkg_version": "9.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "wireless-tools-29-6-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "wireless-tools-29-6-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

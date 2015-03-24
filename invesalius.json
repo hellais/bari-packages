@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "invesalius_3.0~b5-4_all.deb", 
+    "pkg": "invesalius", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "invesalius_3.0~b5-4_all.deb", 
+    "pkg": "invesalius", 
+    "pkg_version": "3.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "invesalius-3.0.1925-5.1.x86_64.rpm", 
+    "pkg": "invesalius", 
+    "pkg_version": "3.0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "invesalius-3.0.1925-5.1.x86_64.rpm", 
+    "pkg": "invesalius", 
+    "pkg_version": "3.0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "invesalius-3.0.1925-5-omv2015.0.x86_64.rpm", 
+    "pkg": "invesalius", 
+    "pkg_version": "3.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "invesalius-3.0.1925-3-rosa2012.1.x86_64.rpm", 
+    "pkg": "invesalius", 
+    "pkg_version": "3.0.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "invesalius_3.0~b5-3_all.deb", 
+    "pkg": "invesalius", 
+    "pkg_version": "3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

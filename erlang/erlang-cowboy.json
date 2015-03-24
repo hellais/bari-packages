@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "erlang-cowboy_1.0.0+dfsg1-1_i386.deb", 
+    "pkg": "erlang-cowboy", 
+    "pkg_version": "1.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "erlang-cowboy_1.0.0+dfsg1-1_i386.deb", 
+    "pkg": "erlang-cowboy", 
+    "pkg_version": "1.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "erlang-cowboy-0.8.2-7.fc22.x86_64.rpm", 
+    "pkg": "erlang-cowboy", 
+    "pkg_version": "0.8.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "erlang-cowboy-0.8.2-7.fc22.x86_64.rpm", 
+    "pkg": "erlang-cowboy", 
+    "pkg_version": "0.8.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "erlang-cowboy-0.8.2-7.fc21.x86_64.rpm", 
+    "pkg": "erlang-cowboy", 
+    "pkg_version": "0.8.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "erlang-cowboy-0.8.2-5.fc20.x86_64.rpm", 
+    "pkg": "erlang-cowboy", 
+    "pkg_version": "0.8.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "erlang-cowboy_0.8.6+dfsg1-1_i386.deb", 
+    "pkg": "erlang-cowboy", 
+    "pkg_version": "0.8.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

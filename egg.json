@@ -1,0 +1,82 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "apt-indicator-0.2.10-alt1.1.1.x86_64.rpm", 
+    "pkg": "apt-indicator", 
+    "pkg_version": "0.2.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "egg_4.1.8-1_all.deb", 
+    "pkg": "egg", 
+    "pkg_version": "4.1.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "apt-indicator-0.2.10-alt1.1.1.x86_64.rpm", 
+    "pkg": "apt-indicator", 
+    "pkg_version": "0.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "egg_4.0.6+0.20041122cvs-19_all.deb", 
+    "pkg": "egg", 
+    "pkg_version": "4.0.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "apt-indicator-0.2.10-alt1.1.1.x86_64.rpm", 
+    "pkg": "apt-indicator", 
+    "pkg_version": "0.2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "egg_4.0.6+0.20041122cvs-19_all.deb", 
+    "pkg": "egg", 
+    "pkg_version": "4.0.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "apt-indicator-0.2.10-alt1.1.1.x86_64.rpm", 
+    "pkg": "apt-indicator", 
+    "pkg_version": "0.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "egg_4.0.6+0.20041122cvs-19_all.deb", 
+    "pkg": "egg", 
+    "pkg_version": "4.0.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "apt-indicator-0.2.10-alt1.1.1.x86_64.rpm", 
+    "pkg": "apt-indicator", 
+    "pkg_version": "0.2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

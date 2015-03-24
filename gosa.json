@@ -1,0 +1,100 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gosa-2.6.11-alt1.noarch.rpm", 
+    "pkg": "gosa", 
+    "pkg_version": "2.6.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gosa_2.7.4+reloaded2-1_all.deb", 
+    "pkg": "gosa", 
+    "pkg_version": "2.7.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gosa_2.7.4+reloaded2-1_all.deb", 
+    "pkg": "gosa", 
+    "pkg_version": "2.7.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gosa_2.7.4-4.3~deb7u2_all.deb", 
+    "pkg": "gosa", 
+    "pkg_version": "2.7.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "gosa-2.5.14-10-omv2015.0.noarch.rpm", 
+    "pkg": "gosa", 
+    "pkg_version": "2.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib Updates", 
+    "pkg_full_name": "gosa-2.5.14-9.1-omv2014.0.noarch.rpm", 
+    "pkg": "gosa", 
+    "pkg_version": "2.5.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "gosa-2.5.14-9-mdk2013.0.noarch.rpm", 
+    "pkg": "gosa", 
+    "pkg_version": "2.5.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "gosa-2.5.14-12-rosa2014.1.noarch.rpm", 
+    "pkg": "gosa", 
+    "pkg_version": "2.5.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "gosa-2.5.14-10-rosa2012.1.noarch.rpm", 
+    "pkg": "gosa", 
+    "pkg_version": "2.5.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gosa_2.7.4+reloaded1-4_all.deb", 
+    "pkg": "gosa", 
+    "pkg_version": "2.7.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gosa_2.7.4+reloaded1-1_all.deb", 
+    "pkg": "gosa", 
+    "pkg_version": "2.7.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

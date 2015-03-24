@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jenkins-ant-plugin_1.2-1_all.deb", 
+    "pkg": "jenkins-ant-plugin", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jenkins-ant-plugin_1.2-1_all.deb", 
+    "pkg": "jenkins-ant-plugin", 
+    "pkg_version": "1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "jenkins-ant-plugin-1.2-3.fc22.noarch.rpm", 
+    "pkg": "jenkins-ant-plugin", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "jenkins-ant-plugin-1.2-3.fc22.noarch.rpm", 
+    "pkg": "jenkins-ant-plugin", 
+    "pkg_version": "1.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

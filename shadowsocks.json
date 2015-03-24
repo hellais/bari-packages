@@ -1,0 +1,19 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "shadowsocks-2.6.8-1-any.pkg.tar.xz", 
+    "pkg": "shadowsocks", 
+    "pkg_version": "2.6.8", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "shadowsocks_2.1.0-1_all.deb", 
+    "pkg": "shadowsocks", 
+    "pkg_version": "2.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

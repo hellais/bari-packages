@@ -1,0 +1,82 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "mate-default-1.7.0-alt2.noarch.rpm", 
+    "pkg": "mate-default", 
+    "pkg_version": "1.7.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mate-desktop-environment_1.8.0+9_all.deb", 
+    "pkg": "mate-desktop-environment", 
+    "pkg_version": "1.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "mate-default-1.7.0-alt2.noarch.rpm", 
+    "pkg": "mate-default", 
+    "pkg_version": "1.7.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mate-desktop-environment_1.8.0+9_all.deb", 
+    "pkg": "mate-desktop-environment", 
+    "pkg_version": "1.8.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "mate-default-1.7.0-alt2.noarch.rpm", 
+    "pkg": "mate-default", 
+    "pkg_version": "1.7.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "mate-desktop-environment_1.8.0+7~bpo70+1_all.deb", 
+    "pkg": "mate-desktop-environment", 
+    "pkg_version": "1.8.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "mate-default-1.7.0-alt2.noarch.rpm", 
+    "pkg": "mate-default", 
+    "pkg_version": "1.7.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "mate-desktop-environment-1.2-x86_64-1sl.txz", 
+    "pkg": "mate-desktop-environment", 
+    "pkg_version": "1.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "mate-default-1.7.0-alt2.noarch.rpm", 
+    "pkg": "mate-default", 
+    "pkg_version": "1.7.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }
+]

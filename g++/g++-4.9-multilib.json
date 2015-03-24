@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "g++-4.9-multilib_4.9.2-10_i386.deb", 
+    "pkg": "g++", 
+    "pkg_version": "4.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "g++-4.9-multilib_4.9.2-10_i386.deb", 
+    "pkg": "g++", 
+    "pkg_version": "4.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

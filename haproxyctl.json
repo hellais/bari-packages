@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "haproxyctl_1.3.0-1_all.deb", 
+    "pkg": "haproxyctl", 
+    "pkg_version": "1.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

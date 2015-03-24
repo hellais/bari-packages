@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsnapper2_0.2.4-1_i386.deb", 
+    "pkg": "libsnapper2", 
+    "pkg_version": "0.2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsnapper2_0.2.4-1_i386.deb", 
+    "pkg": "libsnapper2", 
+    "pkg_version": "0.2.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libsnapper2-0.2.4-4.1.x86_64.rpm", 
+    "pkg": "libsnapper2", 
+    "pkg_version": "0.2.4", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libsnapper2-0.1.7-1.1.i586.rpm", 
+    "pkg": "libsnapper2", 
+    "pkg_version": "0.1.7", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libsnapper2_0.1.8-2build1_i386.deb", 
+    "pkg": "libsnapper2", 
+    "pkg_version": "0.1.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

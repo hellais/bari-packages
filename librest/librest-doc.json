@@ -1,0 +1,218 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "librest-doc_0.7.92-3_all.deb", 
+    "pkg": "librest-doc", 
+    "pkg_version": "0.7.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "librest-doc_0.7.92-3_all.deb", 
+    "pkg": "librest-doc", 
+    "pkg_version": "0.7.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "librest-doc_0.7.12-3_all.deb", 
+    "pkg": "librest-doc", 
+    "pkg_version": "0.7.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "librest-devel-0.7.92-2-omv2015.0.i586.rpm", 
+    "pkg": "librest-devel", 
+    "pkg_version": "0.7.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lib64rest-devel-0.7.92-2-omv2015.0.x86_64.rpm", 
+    "pkg": "lib64rest-devel", 
+    "pkg_version": "0.7.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "librest-doc_0.7.12-3_all.deb", 
+    "pkg": "librest-doc", 
+    "pkg_version": "0.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "librest-devel-0.7.12-4-omv2014.0.i586.rpm", 
+    "pkg": "librest-devel", 
+    "pkg_version": "0.7.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lib64rest-devel-0.7.12-4-omv2014.0.x86_64.rpm", 
+    "pkg": "lib64rest-devel", 
+    "pkg_version": "0.7.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "librest-doc_0.7.12-3_all.deb", 
+    "pkg": "librest-doc", 
+    "pkg_version": "0.7.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "librest-devel-0.7.12-3-omv2013.0.i586.rpm", 
+    "pkg": "librest-devel", 
+    "pkg_version": "0.7.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lib64rest-devel-0.7.12-3-omv2013.0.x86_64.rpm", 
+    "pkg": "lib64rest-devel", 
+    "pkg_version": "0.7.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "librest-doc_0.7.12-3_all.deb", 
+    "pkg": "librest-doc", 
+    "pkg_version": "0.7.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "librest-devel-0.7.91-2-rosa2014.1.i586.rpm", 
+    "pkg": "librest-devel", 
+    "pkg_version": "0.7.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "lib64rest-devel-0.7.91-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "lib64rest-devel", 
+    "pkg_version": "0.7.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "librest-doc-0.7.90-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "librest-doc", 
+    "pkg_version": "0.7.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "librest-devel-0.7.91-2-rosa2014.1.i586.rpm", 
+    "pkg": "librest-devel", 
+    "pkg_version": "0.7.9", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "lib64rest-devel-0.7.91-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "lib64rest-devel", 
+    "pkg_version": "0.7.9", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "librest-doc-0.7.90-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "librest-doc", 
+    "pkg_version": "0.7.9", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "librest-devel-0.7.12-1-rosa.lts2012.0.i586.rpm", 
+    "pkg": "librest-devel", 
+    "pkg_version": "0.7.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "lib64rest-devel-0.7.12-1-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "lib64rest-devel", 
+    "pkg_version": "0.7.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "librest-doc_0.7.91-1_all.deb", 
+    "pkg": "librest-doc", 
+    "pkg_version": "0.7.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "librest-devel-0.7.12-1-rosa.lts2012.0.i586.rpm", 
+    "pkg": "librest-devel", 
+    "pkg_version": "0.7.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "lib64rest-devel-0.7.12-1-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "lib64rest-devel", 
+    "pkg_version": "0.7.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "librest-doc_0.7.90-0ubuntu1_all.deb", 
+    "pkg": "librest-doc", 
+    "pkg_version": "0.7.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

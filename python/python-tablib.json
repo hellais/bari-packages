@@ -1,0 +1,101 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-tablib-0.9.11.20120702git752443f-5.el6.noarch.rpm", 
+    "pkg": "python-tablib", 
+    "pkg_version": "0.9.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-tablib_0.9.11-2_all.deb", 
+    "pkg": "python-tablib", 
+    "pkg_version": "0.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-tablib_0.9.11-2_all.deb", 
+    "pkg": "python-tablib", 
+    "pkg_version": "0.9.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-tablib-0.9.11.20120702git752443f-9.fc21.noarch.rpm", 
+    "pkg": "python-tablib", 
+    "pkg_version": "0.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-tablib-0.9.11.20120702git752443f-9.fc21.noarch.rpm", 
+    "pkg": "python-tablib", 
+    "pkg_version": "0.9.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-tablib-0.9.11.20120702git752443f-9.fc21.noarch.rpm", 
+    "pkg": "python-tablib", 
+    "pkg_version": "0.9.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-tablib-0.9.11.20120702git752443f-8.fc20.noarch.rpm", 
+    "pkg": "python-tablib", 
+    "pkg_version": "0.9.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-tablib-0.9.11-8.2.noarch.rpm", 
+    "pkg": "python-tablib", 
+    "pkg_version": "0.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-tablib-0.9.11-7.1.4.noarch.rpm", 
+    "pkg": "python-tablib", 
+    "pkg_version": "0.9.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-tablib-0.9.11-4.1.2.noarch.rpm", 
+    "pkg": "python-tablib", 
+    "pkg_version": "0.9.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python-tablib_0.9.11-2build1_all.deb", 
+    "pkg": "python-tablib", 
+    "pkg_version": "0.9.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

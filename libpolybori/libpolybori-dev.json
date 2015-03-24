@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpolybori-dev_0.8.3-5_i386.deb", 
+    "pkg": "libpolybori-dev", 
+    "pkg_version": "0.8.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpolybori-dev_0.8.3-3+b2_i386.deb", 
+    "pkg": "libpolybori-dev", 
+    "pkg_version": "0.8.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpolybori-dev_0.5~rc1-2.2_i386.deb", 
+    "pkg": "libpolybori-dev", 
+    "pkg_version": "0.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libpolybori-dev_0.8.3-3build1_i386.deb", 
+    "pkg": "libpolybori-dev", 
+    "pkg_version": "0.8.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libpolybori-dev_0.8.3-3_i386.deb", 
+    "pkg": "libpolybori-dev", 
+    "pkg_version": "0.8.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

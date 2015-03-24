@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "WTF", 
+    "pkg_full_name": "console-setup-freebsd_1.119+wtf1_all.deb", 
+    "pkg": "console-setup-freebsd", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "console-setup-freebsd_1.119_all.deb", 
+    "pkg": "console-setup-freebsd", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

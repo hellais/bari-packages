@@ -1,0 +1,118 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "globus-gridftp-server-progs-6.19-alt1_5.x86_64.rpm", 
+    "pkg": "globus-gridftp-server-progs", 
+    "pkg_version": "6.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "globus-gridftp-server-progs-7.20-1.el7.x86_64.rpm", 
+    "pkg": "globus-gridftp-server-progs", 
+    "pkg_version": "7.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "globus-gridftp-server-progs-7.20-1.el6.x86_64.rpm", 
+    "pkg": "globus-gridftp-server-progs", 
+    "pkg_version": "7.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "globus-gridftp-server-progs-7.20-1.el5.x86_64.rpm", 
+    "pkg": "globus-gridftp-server-progs", 
+    "pkg_version": "7.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "globus-gridftp-server-progs_7.20-1_i386.deb", 
+    "pkg": "globus-gridftp-server-progs", 
+    "pkg_version": "7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "globus-gridftp-server-progs_7.11-1_i386.deb", 
+    "pkg": "globus-gridftp-server-progs", 
+    "pkg_version": "7.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "globus-gridftp-server-progs_6.10-2_i386.deb", 
+    "pkg": "globus-gridftp-server-progs", 
+    "pkg_version": "6.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "globus-gridftp-server-progs-7.20-1.fc22.x86_64.rpm", 
+    "pkg": "globus-gridftp-server-progs", 
+    "pkg_version": "7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "globus-gridftp-server-progs-7.20-1.fc22.x86_64.rpm", 
+    "pkg": "globus-gridftp-server-progs", 
+    "pkg_version": "7.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "globus-gridftp-server-progs-7.20-1.fc21.x86_64.rpm", 
+    "pkg": "globus-gridftp-server-progs", 
+    "pkg_version": "7.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "globus-gridftp-server-progs-7.20-1.fc20.x86_64.rpm", 
+    "pkg": "globus-gridftp-server-progs", 
+    "pkg_version": "7.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "globus-gridftp-server-progs_6.38-1_i386.deb", 
+    "pkg": "globus-gridftp-server-progs", 
+    "pkg_version": "6.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "globus-gridftp-server-progs_6.38-1_i386.deb", 
+    "pkg": "globus-gridftp-server-progs", 
+    "pkg_version": "6.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

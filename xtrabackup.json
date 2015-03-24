@@ -1,0 +1,118 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "xtrabackup-2.2.9-1-x86_64.pkg.tar.xz", 
+    "pkg": "xtrabackup", 
+    "pkg_version": "2.2.9", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xtrabackup_2.2.3-2.1_all.deb", 
+    "pkg": "xtrabackup", 
+    "pkg_version": "2.2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "percona-xtrabackup_2.2.3-2.1_i386.deb", 
+    "pkg": "percona-xtrabackup", 
+    "pkg_version": "2.2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xtrabackup_2.2.3-2.1_all.deb", 
+    "pkg": "xtrabackup", 
+    "pkg_version": "2.2.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "percona-xtrabackup_2.2.3-2.1_i386.deb", 
+    "pkg": "percona-xtrabackup", 
+    "pkg_version": "2.2.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xtrabackup-2.2.9-2.1.x86_64.rpm", 
+    "pkg": "xtrabackup", 
+    "pkg_version": "2.2.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "percona-xtrabackup_2.2.3-2.1_i386.deb", 
+    "pkg": "percona-xtrabackup", 
+    "pkg_version": "2.2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "xtrabackup-2.2.9-4.1.x86_64.rpm", 
+    "pkg": "xtrabackup", 
+    "pkg_version": "2.2.9", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "percona-xtrabackup_2.2.3-2.1_i386.deb", 
+    "pkg": "percona-xtrabackup", 
+    "pkg_version": "2.2.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "xtrabackup-2.1.8-25.1.x86_64.rpm", 
+    "pkg": "xtrabackup", 
+    "pkg_version": "2.1.8", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "percona-xtrabackup_2.2.3-2.1_i386.deb", 
+    "pkg": "percona-xtrabackup", 
+    "pkg_version": "2.2.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xtrabackup_2.2.3-2_all.deb", 
+    "pkg": "xtrabackup", 
+    "pkg_version": "2.2.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "percona-xtrabackup_2.2.3-2_i386.deb", 
+    "pkg": "percona-xtrabackup", 
+    "pkg_version": "2.2.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

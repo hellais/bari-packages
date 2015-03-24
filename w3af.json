@@ -1,0 +1,137 @@
+[
+  {
+    "pkg_repo": "Atomic", 
+    "pkg_full_name": "w3af-1.6.0.5-4.el7.art.x86_64.rpm", 
+    "pkg": "w3af", 
+    "pkg_version": "1.6.0.5", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Atomic", 
+    "pkg_full_name": "w3af-1.6.0.5-5.el6.art.x86_64.rpm", 
+    "pkg": "w3af", 
+    "pkg_version": "1.6.0.5", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Atomic", 
+    "pkg_full_name": "w3af-1.6.0.5-4.el5.art.x86_64.rpm", 
+    "pkg": "w3af", 
+    "pkg_version": "1.6.0.5", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "w3af_1.1svn5547-1_all.deb", 
+    "pkg": "w3af", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "w3af_1.0-rc3svn3489-1_all.deb", 
+    "pkg": "w3af", 
+    "pkg_version": "1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "w3af_1.0-rc3svn3489-1_all.deb", 
+    "pkg": "w3af", 
+    "pkg_version": "1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Atomic", 
+    "pkg_full_name": "w3af-1.6.0.5-4.fc21.art.x86_64.rpm", 
+    "pkg": "w3af", 
+    "pkg_version": "1.6.0.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Atomic", 
+    "pkg_full_name": "w3af-1.6.0.5-4.fc20.art.x86_64.rpm", 
+    "pkg": "w3af", 
+    "pkg_version": "1.6.0.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "w3af-1.1-2-omv2013.0.noarch.rpm", 
+    "pkg": "w3af", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "w3af-1.1-2-omv2013.0.noarch.rpm", 
+    "pkg": "w3af", 
+    "pkg_version": "1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "w3af-1.1-2-omv2013.0.noarch.rpm", 
+    "pkg": "w3af", 
+    "pkg_version": "1.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "w3af-1.1-3-rosa2014.1.noarch.rpm", 
+    "pkg": "w3af", 
+    "pkg_version": "1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "w3af-1.1-2-rosa2012.1.noarch.rpm", 
+    "pkg": "w3af", 
+    "pkg_version": "1.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "w3af_1.1svn5547-1_all.deb", 
+    "pkg": "w3af", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "w3af_1.1svn5547-1_all.deb", 
+    "pkg": "w3af", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

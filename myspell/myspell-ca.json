@@ -1,0 +1,371 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "myspell-ca_0.20111230b-7_all.deb", 
+    "pkg": "myspell-ca", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "myspell-ca_0.20111230b-7_all.deb", 
+    "pkg": "myspell-ca", 
+    "pkg_version": "0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "myspell-ca_0.20111230b-4_all.deb", 
+    "pkg": "myspell-ca", 
+    "pkg_version": "0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "myspell-ca_0.20111230b-4_all.deb", 
+    "pkg": "myspell-ca", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "hunspell-ca-2.2.0-9.mga4.noarch.rpm", 
+    "pkg": "hunspell-ca", 
+    "pkg_version": "2.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "myspell-ca_ES-1.0.2-39-omv2015.0.noarch.rpm", 
+    "pkg": "myspell-ca_ES", 
+    "pkg_version": "1.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "myspell-ca_0.20111230b-4_all.deb", 
+    "pkg": "myspell-ca", 
+    "pkg_version": "0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "hunspell-ca-2.2.0-9.mga4.noarch.rpm", 
+    "pkg": "hunspell-ca", 
+    "pkg_version": "2.2.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "myspell-ca_ES-1.0.2-33-omv2014.0.noarch.rpm", 
+    "pkg": "myspell-ca_ES", 
+    "pkg_version": "1.0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "myspell-ca_0.20111230b-4_all.deb", 
+    "pkg": "myspell-ca", 
+    "pkg_version": "0.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "hunspell-ca-2.2.0-9.mga4.noarch.rpm", 
+    "pkg": "hunspell-ca", 
+    "pkg_version": "2.2.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "myspell-ca_ES-1.0.2-32-omv2013.0.noarch.rpm", 
+    "pkg": "myspell-ca_ES", 
+    "pkg_version": "1.0.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "myspell-ca-20150130-1.1.noarch.rpm", 
+    "pkg": "myspell-ca-20150130", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "myspell-ca_0.20111230b-4_all.deb", 
+    "pkg": "myspell-ca", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "hunspell-ca-2.2.0-9.mga4.noarch.rpm", 
+    "pkg": "hunspell-ca", 
+    "pkg_version": "2.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "myspell-ca_ES-1.0.2-32-omv2013.0.noarch.rpm", 
+    "pkg": "myspell-ca_ES", 
+    "pkg_version": "1.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "myspell-ca-20150130-1.1.noarch.rpm", 
+    "pkg": "myspell-ca-20150130", 
+    "pkg_version": "1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "myspell-ca_0.20111230b-4_all.deb", 
+    "pkg": "myspell-ca", 
+    "pkg_version": "0.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "hunspell-ca-2.2.0-9.mga4.noarch.rpm", 
+    "pkg": "hunspell-ca", 
+    "pkg_version": "2.2.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "myspell-ca-20140911-1.2.noarch.rpm", 
+    "pkg": "myspell-ca-20140911", 
+    "pkg_version": "1.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "myspell-ca_ES-1.0.2-32-omv2013.0.noarch.rpm", 
+    "pkg": "myspell-ca_ES", 
+    "pkg_version": "1.0.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "myspell-ca-20150130-1.1.noarch.rpm", 
+    "pkg": "myspell-ca-20150130", 
+    "pkg_version": "1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "myspell-ca_0.20111230b-4_all.deb", 
+    "pkg": "myspell-ca", 
+    "pkg_version": "0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "hunspell-ca-2.2.0-9.mga4.noarch.rpm", 
+    "pkg": "hunspell-ca", 
+    "pkg_version": "2.2.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "myspell-ca-20140911-1.2.noarch.rpm", 
+    "pkg": "myspell-ca-20140911", 
+    "pkg_version": "1.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "myspell-ca_ES-1.0.2-33-rosa2014.1.noarch.rpm", 
+    "pkg": "myspell-ca_ES", 
+    "pkg_version": "1.0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "myspell-ca-20150130-1.1.noarch.rpm", 
+    "pkg": "myspell-ca-20150130", 
+    "pkg_version": "1.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "myspell-ca_0.20111230b-4_all.deb", 
+    "pkg": "myspell-ca", 
+    "pkg_version": "0.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "hunspell-ca-2.2.0-9.mga4.noarch.rpm", 
+    "pkg": "hunspell-ca", 
+    "pkg_version": "2.2.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "myspell-ca-20140911-1.2.noarch.rpm", 
+    "pkg": "myspell-ca-20140911", 
+    "pkg_version": "1.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "myspell-ca_ES-1.0.2-32-rosa2012.1.noarch.rpm", 
+    "pkg": "myspell-ca_ES", 
+    "pkg_version": "1.0.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "myspell-ca-20150130-1.1.noarch.rpm", 
+    "pkg": "myspell-ca-20150130", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "myspell-ca_0.20111230b-5_all.deb", 
+    "pkg": "myspell-ca", 
+    "pkg_version": "0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "hunspell-ca-2.2.0-9.mga4.noarch.rpm", 
+    "pkg": "hunspell-ca", 
+    "pkg_version": "2.2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "myspell-ca-20140911-1.2.noarch.rpm", 
+    "pkg": "myspell-ca-20140911", 
+    "pkg_version": "1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "myspell-ca_ES-1.0.2-32-rosa.lts2012.0.noarch.rpm", 
+    "pkg": "myspell-ca_ES", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "myspell-ca-20150130-1.1.noarch.rpm", 
+    "pkg": "myspell-ca-20150130", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "myspell-ca_0.20111230b-4_all.deb", 
+    "pkg": "myspell-ca", 
+    "pkg_version": "0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "hunspell-ca-2.2.0-9.mga4.noarch.rpm", 
+    "pkg": "hunspell-ca", 
+    "pkg_version": "2.2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "myspell-ca-20140911-1.2.noarch.rpm", 
+    "pkg": "myspell-ca-20140911", 
+    "pkg_version": "1.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "myspell-ca_ES-1.0.2-32-rosa.lts2012.0.noarch.rpm", 
+    "pkg": "myspell-ca_ES", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

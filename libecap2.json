@@ -1,0 +1,154 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libecap-0.2.0-alt3.x86_64.rpm", 
+    "pkg": "libecap", 
+    "pkg_version": "0.2.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libecap2_0.2.0-3_i386.deb", 
+    "pkg": "libecap2", 
+    "pkg_version": "0.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libecap-0.2.0-alt3.x86_64.rpm", 
+    "pkg": "libecap", 
+    "pkg_version": "0.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libecap2_0.2.0-3_i386.deb", 
+    "pkg": "libecap2", 
+    "pkg_version": "0.2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libecap-0.2.0-alt3.x86_64.rpm", 
+    "pkg": "libecap", 
+    "pkg_version": "0.2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "libecap2_0.2.0-3~bpo70+1_i386.deb", 
+    "pkg": "libecap2", 
+    "pkg_version": "0.2.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libecap-0.2.0-alt3.x86_64.rpm", 
+    "pkg": "libecap", 
+    "pkg_version": "0.2.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libecap2-0.2.0-4-omv2014.0.i586.rpm", 
+    "pkg": "libecap2", 
+    "pkg_version": "0.2.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libecap-0.2.0-alt3.x86_64.rpm", 
+    "pkg": "libecap", 
+    "pkg_version": "0.2.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libecap2-0.2.0-3-omv2013.0.i586.rpm", 
+    "pkg": "libecap2", 
+    "pkg_version": "0.2.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libecap-0.2.0-alt3.x86_64.rpm", 
+    "pkg": "libecap", 
+    "pkg_version": "0.2.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libecap2-0.2.0-3-rosa2014.1.i586.rpm", 
+    "pkg": "libecap2", 
+    "pkg_version": "0.2.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libecap-0.2.0-alt3.x86_64.rpm", 
+    "pkg": "libecap", 
+    "pkg_version": "0.2.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libecap2-0.2.0-2-rosa2012.1.i586.rpm", 
+    "pkg": "libecap2", 
+    "pkg_version": "0.2.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libecap-0.2.0-alt3.x86_64.rpm", 
+    "pkg": "libecap", 
+    "pkg_version": "0.2.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libecap2_0.2.0-1ubuntu5_i386.deb", 
+    "pkg": "libecap2", 
+    "pkg_version": "0.2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libecap-0.2.0-alt3.x86_64.rpm", 
+    "pkg": "libecap", 
+    "pkg_version": "0.2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

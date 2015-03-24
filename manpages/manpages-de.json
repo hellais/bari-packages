@@ -1,0 +1,119 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "manpages-de_1.8-1_all.deb", 
+    "pkg": "manpages-de", 
+    "pkg_version": "1.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "manpages-de_1.8-1_all.deb", 
+    "pkg": "manpages-de", 
+    "pkg_version": "1.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "manpages-de_1.2-1_all.deb", 
+    "pkg": "manpages-de", 
+    "pkg_version": "1.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "man-pages-de-0.9-2-omv2013.0.noarch.rpm", 
+    "pkg": "man-pages-de", 
+    "pkg_version": "0.9", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "manpages-de_1.2-1_all.deb", 
+    "pkg": "manpages-de", 
+    "pkg_version": "1.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "man-pages-de-0.9-3-rosa2014.1.noarch.rpm", 
+    "pkg": "man-pages-de", 
+    "pkg_version": "0.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "manpages-de_1.2-1_all.deb", 
+    "pkg": "manpages-de", 
+    "pkg_version": "1.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "man-pages-de-0.9-2-rosa2012.1.noarch.rpm", 
+    "pkg": "man-pages-de", 
+    "pkg_version": "0.9", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "manpages-de_1.2-1_all.deb", 
+    "pkg": "manpages-de", 
+    "pkg_version": "1.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "man-pages-de-0.5-9-rosa.lts2012.0.noarch.rpm", 
+    "pkg": "man-pages-de", 
+    "pkg_version": "0.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "manpages-de_1.7-1_all.deb", 
+    "pkg": "manpages-de", 
+    "pkg_version": "1.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "man-pages-de-0.5-9-rosa.lts2012.0.noarch.rpm", 
+    "pkg": "man-pages-de", 
+    "pkg_version": "0.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "manpages-de_1.4-1_all.deb", 
+    "pkg": "manpages-de", 
+    "pkg_version": "1.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

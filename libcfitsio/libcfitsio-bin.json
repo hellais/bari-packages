@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcfitsio-bin_3.370-2_i386.deb", 
+    "pkg": "libcfitsio-bin", 
+    "pkg_version": "3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

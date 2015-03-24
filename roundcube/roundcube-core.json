@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "roundcube-core_0.9.5+dfsg1-4.2_all.deb", 
+    "pkg": "roundcube-core", 
+    "pkg_version": "0.9.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "roundcube-core_0.7.2-9+deb7u1_all.deb", 
+    "pkg": "roundcube-core", 
+    "pkg_version": "0.7.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "roundcube-core_0.9.5-4_all.deb", 
+    "pkg": "roundcube-core", 
+    "pkg_version": "0.9.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "roundcube-core_0.9.5-4_all.deb", 
+    "pkg": "roundcube-core", 
+    "pkg_version": "0.9.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

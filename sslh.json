@@ -1,0 +1,117 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "sslh-1.16-alt1.x86_64.rpm", 
+    "pkg": "sslh", 
+    "pkg_version": "1.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "sslh-1.17-2-x86_64.pkg.tar.xz", 
+    "pkg": "sslh", 
+    "pkg_version": "1.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "sslh-1.7a-1.el6.rf.x86_64.rpm", 
+    "pkg": "sslh", 
+    "pkg_version": "1.7", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "sslh-1.7a-1.el5.rf.x86_64.rpm", 
+    "pkg": "sslh", 
+    "pkg_version": "1.7", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sslh_1.16-2_i386.deb", 
+    "pkg": "sslh", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sslh_1.16-2_i386.deb", 
+    "pkg": "sslh", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sslh_1.13b-3.2_i386.deb", 
+    "pkg": "sslh", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "sslh-1.16-3.2.x86_64.rpm", 
+    "pkg": "sslh", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "sslh-1.16-3.1.x86_64.rpm", 
+    "pkg": "sslh", 
+    "pkg_version": "1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "sslh-1.16-3.1.x86_64.rpm", 
+    "pkg": "sslh", 
+    "pkg_version": "1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Slackers", 
+    "pkg_full_name": "sslh-1.17-x86_64-1cf.txz", 
+    "pkg": "sslh", 
+    "pkg_version": "1.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "sslh_1.15-1_i386.deb", 
+    "pkg": "sslh", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "sslh_1.15-1_i386.deb", 
+    "pkg": "sslh", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

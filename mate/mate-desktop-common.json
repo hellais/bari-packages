@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mate-desktop-common_1.8.1+dfsg1-2_all.deb", 
+    "pkg": "mate-desktop-common", 
+    "pkg_version": "1.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mate-desktop-common_1.8.1+dfsg1-2_all.deb", 
+    "pkg": "mate-desktop-common", 
+    "pkg_version": "1.8.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "mate-desktop-common_1.8.1+dfsg1-1~bpo70+1_all.deb", 
+    "pkg": "mate-desktop-common", 
+    "pkg_version": "1.8.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mate-desktop-common_1.8.1+dfsg1-1_all.deb", 
+    "pkg": "mate-desktop-common", 
+    "pkg_version": "1.8.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

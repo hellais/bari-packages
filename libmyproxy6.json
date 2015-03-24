@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmyproxy6_6.0-3_i386.deb", 
+    "pkg": "libmyproxy6", 
+    "pkg_version": "6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

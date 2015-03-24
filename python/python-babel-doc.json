@@ -1,0 +1,110 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-babel-doc_1.3+dfsg.1-5_all.deb", 
+    "pkg": "python-babel-doc", 
+    "pkg_version": "1.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-babel-doc_1.3+dfsg.1-5_all.deb", 
+    "pkg": "python-babel-doc", 
+    "pkg_version": "1.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "babel-doc-1.3-7.fc22.noarch.rpm", 
+    "pkg": "babel-doc", 
+    "pkg_version": "1.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-babel-doc_1.3+dfsg.1-5_all.deb", 
+    "pkg": "python-babel-doc", 
+    "pkg_version": "1.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "babel-doc-1.3-7.fc22.noarch.rpm", 
+    "pkg": "babel-doc", 
+    "pkg_version": "1.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-babel-doc_1.3+dfsg.1-5_all.deb", 
+    "pkg": "python-babel-doc", 
+    "pkg_version": "1.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "babel-doc-1.3-7.fc21.noarch.rpm", 
+    "pkg": "babel-doc", 
+    "pkg_version": "1.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-babel-doc_1.3+dfsg.1-5_all.deb", 
+    "pkg": "python-babel-doc", 
+    "pkg_version": "1.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "babel-doc-1.3-7.fc20.noarch.rpm", 
+    "pkg": "babel-doc", 
+    "pkg_version": "1.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-babel-doc_1.3+dfsg.1-5_all.deb", 
+    "pkg": "python-babel-doc", 
+    "pkg_version": "1.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "babel-doc-1.3-7.fc20.noarch.rpm", 
+    "pkg": "babel-doc", 
+    "pkg_version": "1.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python-babel-doc_1.3+dfsg.1-4_all.deb", 
+    "pkg": "python-babel-doc", 
+    "pkg_version": "1.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

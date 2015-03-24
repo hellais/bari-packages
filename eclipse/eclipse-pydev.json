@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Scientific Linux Cyrillic Edition", 
+    "pkg_full_name": "eclipse-pydev-1.5.1-1.Nau5x.noarch.rpm", 
+    "pkg": "eclipse-pydev", 
+    "pkg_version": "1.5.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "eclipse-pydev_3.9.2-2_i386.deb", 
+    "pkg": "eclipse-pydev", 
+    "pkg_version": "3.9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "eclipse-pydev-3.7.1-2.fc22.noarch.rpm", 
+    "pkg": "eclipse-pydev", 
+    "pkg_version": "3.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "eclipse-pydev-3.7.1-2.fc22.noarch.rpm", 
+    "pkg": "eclipse-pydev", 
+    "pkg_version": "3.7.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "eclipse-pydev-3.7.1-1.fc21.noarch.rpm", 
+    "pkg": "eclipse-pydev", 
+    "pkg_version": "3.7.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

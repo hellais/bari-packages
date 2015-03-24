@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bind9-host_9.9.5.dfsg-9_i386.deb", 
+    "pkg": "bind9-host", 
+    "pkg_version": "9.9.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bind9-host_9.9.5.dfsg-9_i386.deb", 
+    "pkg": "bind9-host", 
+    "pkg_version": "9.9.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "bind9-host_9.8.4.dfsg.P1-6+nmu2+deb7u4_i386.deb", 
+    "pkg": "bind9-host", 
+    "pkg_version": "9.8.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "bind9-host_9.9.5.dfsg-4.3ubuntu0.2_i386.deb", 
+    "pkg": "bind9-host", 
+    "pkg_version": "9.9.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "bind9-host_9.9.5.dfsg-3ubuntu0.2_i386.deb", 
+    "pkg": "bind9-host", 
+    "pkg_version": "9.9.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

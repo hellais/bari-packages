@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jekyll_2.2.0+dfsg-2_all.deb", 
+    "pkg": "jekyll", 
+    "pkg_version": "2.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jekyll_2.2.0+dfsg-2_all.deb", 
+    "pkg": "jekyll", 
+    "pkg_version": "2.2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jekyll_0.11.2-1_all.deb", 
+    "pkg": "jekyll", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "jekyll_2.0.3+dfsg-1_all.deb", 
+    "pkg": "jekyll", 
+    "pkg_version": "2.0.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

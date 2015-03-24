@@ -1,0 +1,236 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nqp_2014.07-3_i386.deb", 
+    "pkg": "nqp_201", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nqp_2014.07-3_i386.deb", 
+    "pkg": "nqp_201", 
+    "pkg_version": "4.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nqp_2014.07-3_i386.deb", 
+    "pkg": "nqp_201", 
+    "pkg_version": "4.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nqp_0.1~2012.01-5_i386.deb", 
+    "pkg": "nqp", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nqp_2014.07-3_i386.deb", 
+    "pkg": "nqp_201", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "nqp-0.0.2014.12-2.fc22.x86_64.rpm", 
+    "pkg": "nqp", 
+    "pkg_version": "0.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nqp_2014.07-3_i386.deb", 
+    "pkg": "nqp_201", 
+    "pkg_version": "4.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "nqp-0.0.2014.12-2.fc22.x86_64.rpm", 
+    "pkg": "nqp", 
+    "pkg_version": "0.0.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nqp_2014.07-3_i386.deb", 
+    "pkg": "nqp_201", 
+    "pkg_version": "4.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "nqp-0.0.2014.12-2.fc21.x86_64.rpm", 
+    "pkg": "nqp", 
+    "pkg_version": "0.0.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nqp_2014.07-3_i386.deb", 
+    "pkg": "nqp_201", 
+    "pkg_version": "4.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "nqp-0.0.2014.04-1.fc20.x86_64.rpm", 
+    "pkg": "nqp", 
+    "pkg_version": "0.0.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nqp_2014.07-3_i386.deb", 
+    "pkg": "nqp_201", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "nqp-0.0.2013.08-1-omv2013.0.x86_64.rpm", 
+    "pkg": "nqp", 
+    "pkg_version": "0.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nqp_2014.07-3_i386.deb", 
+    "pkg": "nqp_201", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "nqp-0.0.2013.08-1-omv2013.0.x86_64.rpm", 
+    "pkg": "nqp", 
+    "pkg_version": "0.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "nqp-2014.08-3.2.x86_64.rpm", 
+    "pkg": "nqp-201", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nqp_2014.07-3_i386.deb", 
+    "pkg": "nqp_201", 
+    "pkg_version": "4.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "nqp-0.0.2013.08-1-omv2013.0.x86_64.rpm", 
+    "pkg": "nqp", 
+    "pkg_version": "0.0.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "nqp-2014.08-2.1.5.x86_64.rpm", 
+    "pkg": "nqp-201", 
+    "pkg_version": "4.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nqp_2014.07-3_i386.deb", 
+    "pkg": "nqp_201", 
+    "pkg_version": "4.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "nqp-0.0.2013.08-1-omv2013.0.x86_64.rpm", 
+    "pkg": "nqp", 
+    "pkg_version": "0.0.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "nqp-2013.06-2.1.3.i586.rpm", 
+    "pkg": "nqp-201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "nqp_2014.04-3_i386.deb", 
+    "pkg": "nqp_201", 
+    "pkg_version": "4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "nqp-0.0.2013.08-1-omv2013.0.x86_64.rpm", 
+    "pkg": "nqp", 
+    "pkg_version": "0.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "nqp-2013.06-2.1.3.i586.rpm", 
+    "pkg": "nqp-201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

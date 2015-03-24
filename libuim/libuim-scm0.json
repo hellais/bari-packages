@@ -1,0 +1,83 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libuim-scm0_1.8.6-8_i386.deb", 
+    "pkg": "libuim-scm0", 
+    "pkg_version": "1.8.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libuim-scm0_1.8.6-8_i386.deb", 
+    "pkg": "libuim-scm0", 
+    "pkg_version": "1.8.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libuim-scm0_1.8.1-4_i386.deb", 
+    "pkg": "libuim-scm0", 
+    "pkg_version": "1.8.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libuim-scm0-1.8.6-4-omv2015.0.i586.rpm", 
+    "pkg": "libuim-scm0", 
+    "pkg_version": "1.8.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libuim-scm0-1.8.5-3-omv2014.0.i586.rpm", 
+    "pkg": "libuim-scm0", 
+    "pkg_version": "1.8.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libuim-scm0-1.8.5-2-omv2013.0.i586.rpm", 
+    "pkg": "libuim-scm0", 
+    "pkg_version": "1.8.5", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libuim-scm0-1.8.6-2-rosa2014.1.i586.rpm", 
+    "pkg": "libuim-scm0", 
+    "pkg_version": "1.8.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "libuim-scm0-1.8.6-1-rosa2012.1.i586.rpm", 
+    "pkg": "libuim-scm0", 
+    "pkg_version": "1.8.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libuim-scm0_1.8.6-7_i386.deb", 
+    "pkg": "libuim-scm0", 
+    "pkg_version": "1.8.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

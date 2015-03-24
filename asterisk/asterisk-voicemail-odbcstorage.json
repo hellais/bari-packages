@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "asterisk-voicemail-odbcstorage_13.1.0~dfsg-1+b1_i386.deb", 
+    "pkg": "asterisk-voicemail-odbcstorage_1", 
+    "pkg_version": "3.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "asterisk-voicemail-odbcstorage_11.13.1~dfsg-2+b1_i386.deb", 
+    "pkg": "asterisk-voicemail-odbcstorage_1", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "asterisk-voicemail-odbcstorage_11.13.1~dfsg-2~bpo70+1_i386.deb", 
+    "pkg": "asterisk-voicemail-odbcstorage_1", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "asterisk-voicemail-odbcstorage_1.8.13.1~dfsg1-3+deb7u3_i386.deb", 
+    "pkg": "asterisk-voicemail-odbcstorage", 
+    "pkg_version": "1.8.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "asterisk-voicemail-odbcstorage_11.11.0~dfsg-2ubuntu1_i386.deb", 
+    "pkg": "asterisk-voicemail-odbcstorage_1", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "asterisk-voicemail-odbcstorage_1.8.13.1~dfsg1-3+deb7u3_i386.deb", 
+    "pkg": "asterisk-voicemail-odbcstorage", 
+    "pkg_version": "1.8.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "asterisk-voicemail-odbcstorage_11.7.0~dfsg-1ubuntu1_i386.deb", 
+    "pkg": "asterisk-voicemail-odbcstorage_1", 
+    "pkg_version": "1.7.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "asterisk-voicemail-odbcstorage_1.8.13.1~dfsg1-3+deb7u3_i386.deb", 
+    "pkg": "asterisk-voicemail-odbcstorage", 
+    "pkg_version": "1.8.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libjs-highlight.js_8.2+ds-4_all.deb", 
+    "pkg": "libjs-highlight.js", 
+    "pkg_version": "8.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libjs-highlight_8.2+ds-4_all.deb", 
+    "pkg": "libjs-highlight", 
+    "pkg_version": "8.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libjs-highlight.js_8.2+ds-4_all.deb", 
+    "pkg": "libjs-highlight.js", 
+    "pkg_version": "8.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libjs-highlight_8.2+ds-4_all.deb", 
+    "pkg": "libjs-highlight", 
+    "pkg_version": "8.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libjs-highlight.js_8.2+ds-4_all.deb", 
+    "pkg": "libjs-highlight.js", 
+    "pkg_version": "8.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "libjs-highlight_8.0+ds-1~bpo70+1_all.deb", 
+    "pkg": "libjs-highlight", 
+    "pkg_version": "8.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libjs-highlight.js_8.2+ds-4_all.deb", 
+    "pkg": "libjs-highlight.js", 
+    "pkg_version": "8.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libjs-highlight_8.1+ds-1_all.deb", 
+    "pkg": "libjs-highlight", 
+    "pkg_version": "8.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

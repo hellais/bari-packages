@@ -1,0 +1,225 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "speex-1.2-alt0.5.pre1.x86_64.rpm", 
+    "pkg": "speex", 
+    "pkg_version": "1.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "speex-1.2rc2-1-x86_64.pkg.tar.xz", 
+    "pkg": "speex", 
+    "pkg_version": "1.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "speex-1.2-0.19.rc1.el7.x86_64.rpm", 
+    "pkg": "speex", 
+    "pkg_version": "1.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "speex-1.2-0.12.rc1.1.el6.x86_64.rpm", 
+    "pkg": "speex", 
+    "pkg_version": "1.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Scientific Linux Cyrillic Edition", 
+    "pkg_full_name": "speex-1.2rc1-1.i386.rpm", 
+    "pkg": "speex", 
+    "pkg_version": "1.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "speex_1.2~rc1.2-1_i386.deb", 
+    "pkg": "speex", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "speex_1.2~rc1.2-1_i386.deb", 
+    "pkg": "speex", 
+    "pkg_version": "1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "speex_1.2~rc1-7_i386.deb", 
+    "pkg": "speex", 
+    "pkg_version": "1.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "speex-1.2-0.23.rc2.fc22.x86_64.rpm", 
+    "pkg": "speex", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "speex-1.2-0.23.rc2.fc22.x86_64.rpm", 
+    "pkg": "speex", 
+    "pkg_version": "1.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "speex-1.2-0.21.rc1.fc21.x86_64.rpm", 
+    "pkg": "speex", 
+    "pkg_version": "1.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "speex-1.2-0.18.rc1.fc20.x86_64.rpm", 
+    "pkg": "speex", 
+    "pkg_version": "1.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "speex-1.2-0.rc1.8-omv2015.0.x86_64.rpm", 
+    "pkg": "speex", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "speex-1.2-0.rc1.7-omv2014.0.x86_64.rpm", 
+    "pkg": "speex", 
+    "pkg_version": "1.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "speex-1.2-0.rc1.7-omv2013.0.x86_64.rpm", 
+    "pkg": "speex", 
+    "pkg_version": "1.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "speex-1.2~rc2-1.1.x86_64.rpm", 
+    "pkg": "speex", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "speex-1.1.999_1.2rc1-23.1.2.x86_64.rpm", 
+    "pkg": "speex", 
+    "pkg_version": "1.1.9", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "speex-1.1.999_1.2rc1-21.1.2.i586.rpm", 
+    "pkg": "speex", 
+    "pkg_version": "1.1.9", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "speex-1.2-0.rc1.7-rosa2014.1.x86_64.rpm", 
+    "pkg": "speex", 
+    "pkg_version": "1.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "speex-1.2-0.rc1.7-rosa2012.1.x86_64.rpm", 
+    "pkg": "speex", 
+    "pkg_version": "1.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "speex-1.2rc1-x86_64-2sl.txz", 
+    "pkg": "speex", 
+    "pkg_version": "1.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "University of Queensland Vislab", 
+    "pkg_full_name": "speex-1.2rc1-i686-2_uqv.txz", 
+    "pkg": "speex", 
+    "pkg_version": "1.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "speex-1.2rc1-x86_64-5sl.txz", 
+    "pkg": "speex", 
+    "pkg_version": "1.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "speex_1.2~rc1.1-1ubuntu1_i386.deb", 
+    "pkg": "speex", 
+    "pkg_version": "1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "speex_1.2~rc1.1-1ubuntu1_i386.deb", 
+    "pkg": "speex", 
+    "pkg_version": "1.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

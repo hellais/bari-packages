@@ -1,0 +1,190 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ncompress-4.2.4.4-alt1.x86_64.rpm", 
+    "pkg": "ncompress", 
+    "pkg_version": "4.2.4.4", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ncompress-4.2.4.4-3.el7.x86_64.rpm", 
+    "pkg": "ncompress", 
+    "pkg_version": "4.2.4.4", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ncompress-4.2.4-54.el6_2.1.x86_64.rpm", 
+    "pkg": "ncompress", 
+    "pkg_version": "4.2.4", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ncompress-4.2.4-47.x86_64.rpm", 
+    "pkg": "ncompress", 
+    "pkg_version": "4.2.4", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ncompress_4.2.4.4-9_i386.deb", 
+    "pkg": "ncompress", 
+    "pkg_version": "4.2.4.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ncompress_4.2.4.4-9_i386.deb", 
+    "pkg": "ncompress", 
+    "pkg_version": "4.2.4.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ncompress_4.2.4.4-5_i386.deb", 
+    "pkg": "ncompress", 
+    "pkg_version": "4.2.4.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ncompress-4.2.4.4-3.fc21.x86_64.rpm", 
+    "pkg": "ncompress", 
+    "pkg_version": "4.2.4.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ncompress-4.2.4.4-3.fc21.x86_64.rpm", 
+    "pkg": "ncompress", 
+    "pkg_version": "4.2.4.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ncompress-4.2.4.4-3.fc21.x86_64.rpm", 
+    "pkg": "ncompress", 
+    "pkg_version": "4.2.4.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ncompress-4.2.4.4-2.fc20.x86_64.rpm", 
+    "pkg": "ncompress", 
+    "pkg_version": "4.2.4.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "ncompress-4.2.4.4-10-omv2015.0.x86_64.rpm", 
+    "pkg": "ncompress", 
+    "pkg_version": "4.2.4.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "ncompress-4.2.4.4-4-omv2014.0.x86_64.rpm", 
+    "pkg": "ncompress", 
+    "pkg_version": "4.2.4.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "ncompress-4.2.4.4-3-omv2013.0.x86_64.rpm", 
+    "pkg": "ncompress", 
+    "pkg_version": "4.2.4.4", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "ncompress-4.2.4.4-4-rosa2014.1.x86_64.rpm", 
+    "pkg": "ncompress", 
+    "pkg_version": "4.2.4.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "ncompress-4.2.4.4-3-rosa2012.1.x86_64.rpm", 
+    "pkg": "ncompress", 
+    "pkg_version": "4.2.4.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "ncompress-4.2.4.3-x86_64-1.txz", 
+    "pkg": "ncompress", 
+    "pkg_version": "4.2.4.3", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "ncompress-4.2.4.3-x86_64-1.txz", 
+    "pkg": "ncompress", 
+    "pkg_version": "4.2.4.3", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "ncompress-4.2.4.3-x86_64-1.txz", 
+    "pkg": "ncompress", 
+    "pkg_version": "4.2.4.3", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ncompress_4.2.4.4-8_i386.deb", 
+    "pkg": "ncompress", 
+    "pkg_version": "4.2.4.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ncompress_4.2.4.4-7_i386.deb", 
+    "pkg": "ncompress", 
+    "pkg_version": "4.2.4.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

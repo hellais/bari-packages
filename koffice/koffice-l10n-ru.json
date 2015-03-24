@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "koffice-l10n-ru_2.4.3+3_all.deb", 
+    "pkg": "koffice-l10n-ru", 
+    "pkg_version": "2.4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "koffice-l10n-ru_2.4.3+3_all.deb", 
+    "pkg": "koffice-l10n-ru", 
+    "pkg_version": "2.4.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "koffice-l10n-ru_2.4.3+2_all.deb", 
+    "pkg": "koffice-l10n-ru", 
+    "pkg_version": "2.4.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "koffice-l10n-ru-2.3.2-noarch-1.txz", 
+    "pkg": "koffice-l10n-ru", 
+    "pkg_version": "2.3.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }
+]

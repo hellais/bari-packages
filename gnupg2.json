@@ -1,0 +1,386 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnupg2-2.0.25-alt1.x86_64.rpm", 
+    "pkg": "gnupg2", 
+    "pkg_version": "2.0.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnupg2-2.0.25-alt1.x86_64.rpm", 
+    "pkg": "gnupg2", 
+    "pkg_version": "2.0.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Testing", 
+    "pkg_full_name": "gnupg-2.1.2-2-x86_64.pkg.tar.xz", 
+    "pkg": "gnupg", 
+    "pkg_version": "2.1.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "gnupg2-2.0.22-3.el7.x86_64.rpm", 
+    "pkg": "gnupg2", 
+    "pkg_version": "2.0.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Testing", 
+    "pkg_full_name": "gnupg-2.1.2-2-x86_64.pkg.tar.xz", 
+    "pkg": "gnupg", 
+    "pkg_version": "2.1.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "gnupg2-2.0.14-8.el6.x86_64.rpm", 
+    "pkg": "gnupg2", 
+    "pkg_version": "2.0.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Testing", 
+    "pkg_full_name": "gnupg-2.1.2-2-x86_64.pkg.tar.xz", 
+    "pkg": "gnupg", 
+    "pkg_version": "2.1.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "KBS Extras Testing", 
+    "pkg_full_name": "gnupg2-2.0.3-1.el5.kb.x86_64.rpm", 
+    "pkg": "gnupg2", 
+    "pkg_version": "2.0.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Testing", 
+    "pkg_full_name": "gnupg-2.1.2-2-x86_64.pkg.tar.xz", 
+    "pkg": "gnupg", 
+    "pkg_version": "2.1.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnupg2_2.0.26-6_i386.deb", 
+    "pkg": "gnupg2", 
+    "pkg_version": "2.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Testing", 
+    "pkg_full_name": "gnupg-2.1.2-2-x86_64.pkg.tar.xz", 
+    "pkg": "gnupg", 
+    "pkg_version": "2.1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnupg2_2.0.26-6_i386.deb", 
+    "pkg": "gnupg2", 
+    "pkg_version": "2.0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Testing", 
+    "pkg_full_name": "gnupg-2.1.2-2-x86_64.pkg.tar.xz", 
+    "pkg": "gnupg", 
+    "pkg_version": "2.1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "gnupg2_2.0.19-2+deb7u2_i386.deb", 
+    "pkg": "gnupg2", 
+    "pkg_version": "2.0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Testing", 
+    "pkg_full_name": "gnupg-2.1.2-2-x86_64.pkg.tar.xz", 
+    "pkg": "gnupg", 
+    "pkg_version": "2.1.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnupg2-2.1.2-2.fc23.x86_64.rpm", 
+    "pkg": "gnupg2", 
+    "pkg_version": "2.1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Testing", 
+    "pkg_full_name": "gnupg-2.1.2-2-x86_64.pkg.tar.xz", 
+    "pkg": "gnupg", 
+    "pkg_version": "2.1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnupg2-2.1.1-2.fc22.x86_64.rpm", 
+    "pkg": "gnupg2", 
+    "pkg_version": "2.1.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Testing", 
+    "pkg_full_name": "gnupg-2.1.2-2-x86_64.pkg.tar.xz", 
+    "pkg": "gnupg", 
+    "pkg_version": "2.1.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnupg2-2.0.25-2.fc21.x86_64.rpm", 
+    "pkg": "gnupg2", 
+    "pkg_version": "2.0.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Testing", 
+    "pkg_full_name": "gnupg-2.1.2-2-x86_64.pkg.tar.xz", 
+    "pkg": "gnupg", 
+    "pkg_version": "2.1.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "gnupg2-2.0.25-1.fc20.x86_64.rpm", 
+    "pkg": "gnupg2", 
+    "pkg_version": "2.0.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Testing", 
+    "pkg_full_name": "gnupg-2.1.2-2-x86_64.pkg.tar.xz", 
+    "pkg": "gnupg", 
+    "pkg_version": "2.1.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Mageia Core Updates", 
+    "pkg_full_name": "gnupg2-2.0.22-3.1.mga4.x86_64.rpm", 
+    "pkg": "gnupg2", 
+    "pkg_version": "2.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gnupg-2.1.2-1-omv2015.0.x86_64.rpm", 
+    "pkg": "gnupg", 
+    "pkg_version": "2.1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core Updates", 
+    "pkg_full_name": "gnupg2-2.0.22-3.1.mga4.x86_64.rpm", 
+    "pkg": "gnupg2", 
+    "pkg_version": "2.0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gnupg-2.0.22-2-omv2014.0.x86_64.rpm", 
+    "pkg": "gnupg", 
+    "pkg_version": "2.0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gnupg2-2.0.19-8-omv2013.0.x86_64.rpm", 
+    "pkg": "gnupg2", 
+    "pkg_version": "2.0.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gnupg-2.0.22-2-omv2014.0.x86_64.rpm", 
+    "pkg": "gnupg", 
+    "pkg_version": "2.0.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "gnupg2-2.0.26-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "gnupg2", 
+    "pkg_version": "2.0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gnupg-2.0.22-2-omv2014.0.x86_64.rpm", 
+    "pkg": "gnupg", 
+    "pkg_version": "2.0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "gnupg2-2.0.22-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "gnupg2", 
+    "pkg_version": "2.0.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gnupg-2.0.22-2-omv2014.0.x86_64.rpm", 
+    "pkg": "gnupg", 
+    "pkg_version": "2.0.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackware Patches", 
+    "pkg_full_name": "gnupg2-2.0.24-x86_64-1_slack14.1.txz", 
+    "pkg": "gnupg2", 
+    "pkg_version": "2.0.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gnupg-2.0.22-2-omv2014.0.x86_64.rpm", 
+    "pkg": "gnupg", 
+    "pkg_version": "2.0.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware Patches", 
+    "pkg_full_name": "gnupg2-2.0.24-x86_64-1_slack14.0.txz", 
+    "pkg": "gnupg2", 
+    "pkg_version": "2.0.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gnupg-2.0.22-2-omv2014.0.x86_64.rpm", 
+    "pkg": "gnupg", 
+    "pkg_version": "2.0.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware Patches", 
+    "pkg_full_name": "gnupg2-2.0.24-x86_64-1_slack13.37.txz", 
+    "pkg": "gnupg2", 
+    "pkg_version": "2.0.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gnupg-2.0.22-2-omv2014.0.x86_64.rpm", 
+    "pkg": "gnupg", 
+    "pkg_version": "2.0.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "gnupg2_2.0.24-1ubuntu2_i386.deb", 
+    "pkg": "gnupg2", 
+    "pkg_version": "2.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gnupg-2.0.22-2-omv2014.0.x86_64.rpm", 
+    "pkg": "gnupg", 
+    "pkg_version": "2.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "gnupg2_2.0.22-3ubuntu1.1_i386.deb", 
+    "pkg": "gnupg2", 
+    "pkg_version": "2.0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gnupg-2.0.22-2-omv2014.0.x86_64.rpm", 
+    "pkg": "gnupg", 
+    "pkg_version": "2.0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

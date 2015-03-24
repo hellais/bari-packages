@@ -1,0 +1,45 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "cgmanager-0.35-alt1.x86_64.rpm", 
+    "pkg": "cgmanager", 
+    "pkg_version": "0.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "cgmanager-0.36-1-x86_64.pkg.tar.xz", 
+    "pkg": "cgmanager", 
+    "pkg_version": "0.3", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cgmanager_0.36-2_i386.deb", 
+    "pkg": "cgmanager", 
+    "pkg_version": "0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cgmanager_0.33-2+deb8u2_i386.deb", 
+    "pkg": "cgmanager", 
+    "pkg_version": "0.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "cgmanager_0.32-4ubuntu1.3_i386.deb", 
+    "pkg": "cgmanager", 
+    "pkg_version": "0.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libglobus-scheduler-event-generator0_5.10-1_i386.deb", 
+    "pkg": "libglobus-scheduler-event-generator0", 
+    "pkg_version": "5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libglobus-scheduler-event-generator0_5.7-3_i386.deb", 
+    "pkg": "libglobus-scheduler-event-generator0", 
+    "pkg_version": "5.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libglobus-scheduler-event-generator0_4.6-1_i386.deb", 
+    "pkg": "libglobus-scheduler-event-generator0", 
+    "pkg_version": "4.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libglobus-scheduler-event-generator0_4.7-4_i386.deb", 
+    "pkg": "libglobus-scheduler-event-generator0", 
+    "pkg_version": "4.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libglobus-scheduler-event-generator0_4.7-4_i386.deb", 
+    "pkg": "libglobus-scheduler-event-generator0", 
+    "pkg_version": "4.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

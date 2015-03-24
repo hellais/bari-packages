@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "netmate_0.2.0-5_i386.deb", 
+    "pkg": "netmate", 
+    "pkg_version": "0.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "netmate_0.2.0-5_i386.deb", 
+    "pkg": "netmate", 
+    "pkg_version": "0.2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "netmate_0.2.0-3~bpo70+1_i386.deb", 
+    "pkg": "netmate", 
+    "pkg_version": "0.2.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "netmate_0.2.0-3_i386.deb", 
+    "pkg": "netmate", 
+    "pkg_version": "0.2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

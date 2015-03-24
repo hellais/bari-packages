@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "repsnapper_2.3.2a5-1_i386.deb", 
+    "pkg": "repsnapper", 
+    "pkg_version": "2.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "repsnapper_2.3.2a5-1_i386.deb", 
+    "pkg": "repsnapper", 
+    "pkg_version": "2.3.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "repsnapper-2.3.2-0.4.a5.fc22.x86_64.rpm", 
+    "pkg": "repsnapper", 
+    "pkg_version": "2.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "repsnapper-2.3.2-0.4.a5.fc22.x86_64.rpm", 
+    "pkg": "repsnapper", 
+    "pkg_version": "2.3.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "repsnapper-2.3.2-0.3.a4.fc21.x86_64.rpm", 
+    "pkg": "repsnapper", 
+    "pkg_version": "2.3.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "repsnapper-2.3.1-0.1.a0.fc20.x86_64.rpm", 
+    "pkg": "repsnapper", 
+    "pkg_version": "2.3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "repsnapper_2.3.2a4+git20140317.e132147d-1_i386.deb", 
+    "pkg": "repsnapper", 
+    "pkg_version": "2.3.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

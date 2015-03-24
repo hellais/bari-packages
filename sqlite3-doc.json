@@ -1,0 +1,152 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "sqlite3-doc-3.8.3.1-alt1.noarch.rpm", 
+    "pkg": "sqlite3-doc", 
+    "pkg_version": "3.8.3.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "sqlite3-doc-3.8.3.1-alt1.noarch.rpm", 
+    "pkg": "sqlite3-doc", 
+    "pkg_version": "3.8.3.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Core", 
+    "pkg_full_name": "sqlite-doc-3.8.8.3-1-x86_64.pkg.tar.xz", 
+    "pkg": "sqlite-doc", 
+    "pkg_version": "3.8.8.3", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sqlite3-doc_3.8.7.4-1_all.deb", 
+    "pkg": "sqlite3-doc", 
+    "pkg_version": "3.8.7.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Core", 
+    "pkg_full_name": "sqlite-doc-3.8.8.3-1-x86_64.pkg.tar.xz", 
+    "pkg": "sqlite-doc", 
+    "pkg_version": "3.8.8.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sqlite3-doc_3.8.7.1-1_all.deb", 
+    "pkg": "sqlite3-doc", 
+    "pkg_version": "3.8.7.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Core", 
+    "pkg_full_name": "sqlite-doc-3.8.8.3-1-x86_64.pkg.tar.xz", 
+    "pkg": "sqlite-doc", 
+    "pkg_version": "3.8.8.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sqlite3-doc_3.7.13-1+deb7u1_all.deb", 
+    "pkg": "sqlite3-doc", 
+    "pkg_version": "3.7.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Core", 
+    "pkg_full_name": "sqlite-doc-3.8.8.3-1-x86_64.pkg.tar.xz", 
+    "pkg": "sqlite-doc", 
+    "pkg_version": "3.8.8.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "sqlite3-doc-3.8.8.3-1.1.noarch.rpm", 
+    "pkg": "sqlite3-doc", 
+    "pkg_version": "3.8.8.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Core", 
+    "pkg_full_name": "sqlite-doc-3.8.8.3-1-x86_64.pkg.tar.xz", 
+    "pkg": "sqlite-doc", 
+    "pkg_version": "3.8.8.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "sqlite3-doc-3.8.6-1.2.noarch.rpm", 
+    "pkg": "sqlite3-doc", 
+    "pkg_version": "3.8.6", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Core", 
+    "pkg_full_name": "sqlite-doc-3.8.8.3-1-x86_64.pkg.tar.xz", 
+    "pkg": "sqlite-doc", 
+    "pkg_version": "3.8.8.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "sqlite3-doc_3.8.6-1_all.deb", 
+    "pkg": "sqlite3-doc", 
+    "pkg_version": "3.8.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Core", 
+    "pkg_full_name": "sqlite-doc-3.8.8.3-1-x86_64.pkg.tar.xz", 
+    "pkg": "sqlite-doc", 
+    "pkg_version": "3.8.8.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "sqlite3-doc_3.8.2-1ubuntu2_all.deb", 
+    "pkg": "sqlite3-doc", 
+    "pkg_version": "3.8.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Core", 
+    "pkg_full_name": "sqlite-doc-3.8.8.3-1-x86_64.pkg.tar.xz", 
+    "pkg": "sqlite-doc", 
+    "pkg_version": "3.8.8.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

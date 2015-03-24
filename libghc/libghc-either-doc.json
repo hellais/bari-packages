@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-either-doc_4.3-1_all.deb", 
+    "pkg": "libghc-either-doc", 
+    "pkg_version": "4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-either-doc_4.3-1_all.deb", 
+    "pkg": "libghc-either-doc", 
+    "pkg_version": "4.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-either-doc_4.3-1build3_all.deb", 
+    "pkg": "libghc-either-doc", 
+    "pkg_version": "4.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

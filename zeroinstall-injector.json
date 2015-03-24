@@ -1,0 +1,317 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "zeroinstall-injector-2.3.3-1.el6.noarch.rpm", 
+    "pkg": "zeroinstall-injector", 
+    "pkg_version": "2.3.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "zeroinstall-injector-0.38-2.el5.noarch.rpm", 
+    "pkg": "zeroinstall-injector", 
+    "pkg_version": "0.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "zeroinstall-injector_2.8-1_all.deb", 
+    "pkg": "zeroinstall-injector", 
+    "pkg_version": "2.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "0install-core_2.8-1_i386.deb", 
+    "pkg": "0install-core", 
+    "pkg_version": "2.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "zeroinstall-injector_2.7-3_all.deb", 
+    "pkg": "zeroinstall-injector", 
+    "pkg_version": "2.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "0install-core_2.7-3_i386.deb", 
+    "pkg": "0install-core", 
+    "pkg_version": "2.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "zeroinstall-injector_1.9-1_all.deb", 
+    "pkg": "zeroinstall-injector", 
+    "pkg_version": "1.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "0install-core_2.7-3_i386.deb", 
+    "pkg": "0install-core", 
+    "pkg_version": "2.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "zeroinstall-injector-2.3.3-2.fc21.noarch.rpm", 
+    "pkg": "zeroinstall-injector", 
+    "pkg_version": "2.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "0install-2.6.1-2.fc21.x86_64.rpm", 
+    "pkg": "0install", 
+    "pkg_version": "2.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "0install-core_2.7-3_i386.deb", 
+    "pkg": "0install-core", 
+    "pkg_version": "2.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "zeroinstall-injector-2.3.3-2.fc21.noarch.rpm", 
+    "pkg": "zeroinstall-injector", 
+    "pkg_version": "2.3.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "0install-2.6.1-2.fc21.x86_64.rpm", 
+    "pkg": "0install", 
+    "pkg_version": "2.6.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "0install-core_2.7-3_i386.deb", 
+    "pkg": "0install-core", 
+    "pkg_version": "2.7", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "zeroinstall-injector-2.3.3-2.fc21.noarch.rpm", 
+    "pkg": "zeroinstall-injector", 
+    "pkg_version": "2.3.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "0install-2.6.1-5.fc21.x86_64.rpm", 
+    "pkg": "0install", 
+    "pkg_version": "2.6.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "0install-core_2.7-3_i386.deb", 
+    "pkg": "0install-core", 
+    "pkg_version": "2.7", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "zeroinstall-injector-2.3.3-1.fc20.noarch.rpm", 
+    "pkg": "zeroinstall-injector", 
+    "pkg_version": "2.3.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "0install-2.6.1-2.fc20.x86_64.rpm", 
+    "pkg": "0install", 
+    "pkg_version": "2.6.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "0install-core_2.7-3_i386.deb", 
+    "pkg": "0install-core", 
+    "pkg_version": "2.7", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "zeroinstall-injector-2.3.3-3.2.noarch.rpm", 
+    "pkg": "zeroinstall-injector", 
+    "pkg_version": "2.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "0install-2.6.1-2.fc20.x86_64.rpm", 
+    "pkg": "0install", 
+    "pkg_version": "2.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "0install-core_2.7-3_i386.deb", 
+    "pkg": "0install-core", 
+    "pkg_version": "2.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "zeroinstall-injector-2.3.3-2.1.10.noarch.rpm", 
+    "pkg": "zeroinstall-injector", 
+    "pkg_version": "2.3.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "0install-2.6.1-2.fc20.x86_64.rpm", 
+    "pkg": "0install", 
+    "pkg_version": "2.6.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "0install-core_2.7-3_i386.deb", 
+    "pkg": "0install-core", 
+    "pkg_version": "2.7", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "zeroinstall-injector-2.3.3-1.2.noarch.rpm", 
+    "pkg": "zeroinstall-injector", 
+    "pkg_version": "2.3.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "0install-2.6.1-2.fc20.x86_64.rpm", 
+    "pkg": "0install", 
+    "pkg_version": "2.6.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "0install-core_2.7-3_i386.deb", 
+    "pkg": "0install-core", 
+    "pkg_version": "2.7", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "zeroinstall-injector_2.7-1_all.deb", 
+    "pkg": "zeroinstall-injector", 
+    "pkg_version": "2.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "0install-2.6.1-2.fc20.x86_64.rpm", 
+    "pkg": "0install", 
+    "pkg_version": "2.6.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "0install-core_2.7-1_i386.deb", 
+    "pkg": "0install-core", 
+    "pkg_version": "2.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "zeroinstall-injector_2.3.3-1_i386.deb", 
+    "pkg": "zeroinstall-injector", 
+    "pkg_version": "2.3.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "0install-2.6.1-2.fc20.x86_64.rpm", 
+    "pkg": "0install", 
+    "pkg_version": "2.6.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "0install-core_2.7-1_i386.deb", 
+    "pkg": "0install-core", 
+    "pkg_version": "2.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

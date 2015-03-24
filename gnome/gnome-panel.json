@@ -1,0 +1,172 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnome-panel-3.14.0-alt1.x86_64.rpm", 
+    "pkg": "gnome-panel", 
+    "pkg_version": "3.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Russian Fedora Fixes", 
+    "pkg_full_name": "gnome-panel-2.30.2-14.el6.1.R.x86_64.rpm", 
+    "pkg": "gnome-panel", 
+    "pkg_version": "2.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "gnome-panel-2.16.1-7.el5.x86_64.rpm", 
+    "pkg": "gnome-panel", 
+    "pkg_version": "2.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-panel_3.8.1-7+b1_i386.deb", 
+    "pkg": "gnome-panel", 
+    "pkg_version": "3.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-panel_3.8.1-7+b1_i386.deb", 
+    "pkg": "gnome-panel", 
+    "pkg_version": "3.8.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-panel_3.4.2.1-4_i386.deb", 
+    "pkg": "gnome-panel", 
+    "pkg_version": "3.4.2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gnome-panel-3.8.1-2-omv2015.0.x86_64.rpm", 
+    "pkg": "gnome-panel", 
+    "pkg_version": "3.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gnome-panel-3.7.0-0.2-omv2014.0.x86_64.rpm", 
+    "pkg": "gnome-panel", 
+    "pkg_version": "3.7.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gnome-panel-3.7.0-0.1-omv2013.0.x86_64.rpm", 
+    "pkg": "gnome-panel", 
+    "pkg_version": "3.7.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "gnome-classic-session-3.12.2-4-rosa2014.1.noarch.rpm", 
+    "pkg": "gnome-classic-session", 
+    "pkg_version": "3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gnome-panel-3.7.0-0.1-omv2013.0.x86_64.rpm", 
+    "pkg": "gnome-panel", 
+    "pkg_version": "3.7.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "gnome-classic-session-3.8.4-2-rosa2012.1.noarch.rpm", 
+    "pkg": "gnome-classic-session", 
+    "pkg_version": "3.8.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "gnome-panel-3.6.2-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "gnome-panel", 
+    "pkg_version": "3.6.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "gnome-classic-session-3.8.4-2-rosa2012.1.noarch.rpm", 
+    "pkg": "gnome-classic-session", 
+    "pkg_version": "3.8.4", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "GNOME SlackBuild 3.2 GSB", 
+    "pkg_full_name": "gnome-panel-3.2.1-x86_64-2gsb.txz", 
+    "pkg": "gnome-panel", 
+    "pkg_version": "3.2.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "gnome-classic-session-3.8.4-2-rosa2012.1.noarch.rpm", 
+    "pkg": "gnome-classic-session", 
+    "pkg_version": "3.8.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnome-panel_3.8.1-2ubuntu4_i386.deb", 
+    "pkg": "gnome-panel", 
+    "pkg_version": "3.8.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "gnome-classic-session-3.8.4-2-rosa2012.1.noarch.rpm", 
+    "pkg": "gnome-classic-session", 
+    "pkg_version": "3.8.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "gnome-panel_3.8.0-1ubuntu12.2_i386.deb", 
+    "pkg": "gnome-panel", 
+    "pkg_version": "3.8.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

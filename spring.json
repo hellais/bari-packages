@@ -1,0 +1,496 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "spring-98.0-4-x86_64.pkg.tar.xz", 
+    "pkg": "spring-9", 
+    "pkg_version": "8.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "spring-98.0-4-x86_64.pkg.tar.xz", 
+    "pkg": "spring-9", 
+    "pkg_version": "8.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "spring-1.2.9-4.jpp6.noarch.rpm", 
+    "pkg": "spring", 
+    "pkg_version": "1.2.9", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "spring-98.0-4-x86_64.pkg.tar.xz", 
+    "pkg": "spring-9", 
+    "pkg_version": "8.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "spring-1.2.9-4.jpp6.noarch.rpm", 
+    "pkg": "spring", 
+    "pkg_version": "1.2.9", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "spring-98.0-4-x86_64.pkg.tar.xz", 
+    "pkg": "spring-9", 
+    "pkg_version": "8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "spring_98.0+dfsg-1_i386.deb", 
+    "pkg": "spring_9", 
+    "pkg_version": "8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "spring-1.2.9-4.jpp6.noarch.rpm", 
+    "pkg": "spring", 
+    "pkg_version": "1.2.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "spring-98.0-4-x86_64.pkg.tar.xz", 
+    "pkg": "spring-9", 
+    "pkg_version": "8.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "spring_98.0+dfsg-1_i386.deb", 
+    "pkg": "spring_9", 
+    "pkg_version": "8.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "spring-1.2.9-4.jpp6.noarch.rpm", 
+    "pkg": "spring", 
+    "pkg_version": "1.2.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "spring-98.0-4-x86_64.pkg.tar.xz", 
+    "pkg": "spring-9", 
+    "pkg_version": "8.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "spring_98.0+dfsg-1_i386.deb", 
+    "pkg": "spring_9", 
+    "pkg_version": "8.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "spring_88.0+dfsg1-1.1_i386.deb", 
+    "pkg": "spring_8", 
+    "pkg_version": "8.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "spring-1.2.9-4.jpp6.noarch.rpm", 
+    "pkg": "spring", 
+    "pkg_version": "1.2.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "spring-98.0-3.fc23.x86_64.rpm", 
+    "pkg": "spring-9", 
+    "pkg_version": "8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "spring_98.0+dfsg-1_i386.deb", 
+    "pkg": "spring_9", 
+    "pkg_version": "8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "spring_88.0+dfsg1-1.1_i386.deb", 
+    "pkg": "spring_8", 
+    "pkg_version": "8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "spring-1.2.9-4.jpp6.noarch.rpm", 
+    "pkg": "spring", 
+    "pkg_version": "1.2.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "spring-98.0-3.fc22.x86_64.rpm", 
+    "pkg": "spring-9", 
+    "pkg_version": "8.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "spring_98.0+dfsg-1_i386.deb", 
+    "pkg": "spring_9", 
+    "pkg_version": "8.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "spring_88.0+dfsg1-1.1_i386.deb", 
+    "pkg": "spring_8", 
+    "pkg_version": "8.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "spring-1.2.9-4.jpp6.noarch.rpm", 
+    "pkg": "spring", 
+    "pkg_version": "1.2.9", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "spring-98.0-2.fc21.x86_64.rpm", 
+    "pkg": "spring-9", 
+    "pkg_version": "8.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "spring_98.0+dfsg-1_i386.deb", 
+    "pkg": "spring_9", 
+    "pkg_version": "8.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "spring_88.0+dfsg1-1.1_i386.deb", 
+    "pkg": "spring_8", 
+    "pkg_version": "8.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "spring-1.2.9-4.jpp6.noarch.rpm", 
+    "pkg": "spring", 
+    "pkg_version": "1.2.9", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "spring-98.0-2.fc20.x86_64.rpm", 
+    "pkg": "spring-9", 
+    "pkg_version": "8.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "spring_98.0+dfsg-1_i386.deb", 
+    "pkg": "spring_9", 
+    "pkg_version": "8.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "spring_88.0+dfsg1-1.1_i386.deb", 
+    "pkg": "spring_8", 
+    "pkg_version": "8.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "spring-1.2.9-4.jpp6.noarch.rpm", 
+    "pkg": "spring", 
+    "pkg_version": "1.2.9", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "spring-94.1-5.mga4.x86_64.rpm", 
+    "pkg": "spring-9", 
+    "pkg_version": "4.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "spring_98.0+dfsg-1_i386.deb", 
+    "pkg": "spring_9", 
+    "pkg_version": "8.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "spring_88.0+dfsg1-1.1_i386.deb", 
+    "pkg": "spring_8", 
+    "pkg_version": "8.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "spring-1.2.9-4.jpp6.noarch.rpm", 
+    "pkg": "spring", 
+    "pkg_version": "1.2.9", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "spring-94.1-5.mga4.x86_64.rpm", 
+    "pkg": "spring-9", 
+    "pkg_version": "4.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "spring_98.0+dfsg-1_i386.deb", 
+    "pkg": "spring_9", 
+    "pkg_version": "8.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "spring_88.0+dfsg1-1.1_i386.deb", 
+    "pkg": "spring_8", 
+    "pkg_version": "8.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "spring-1.2.9-4.jpp6.noarch.rpm", 
+    "pkg": "spring", 
+    "pkg_version": "1.2.9", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "spring-97.0-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "spring-9", 
+    "pkg_version": "7.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "spring_98.0+dfsg-1_i386.deb", 
+    "pkg": "spring_9", 
+    "pkg_version": "8.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "spring_88.0+dfsg1-1.1_i386.deb", 
+    "pkg": "spring_8", 
+    "pkg_version": "8.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "spring-1.2.9-4.jpp6.noarch.rpm", 
+    "pkg": "spring", 
+    "pkg_version": "1.2.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "spring-91.0-5-rosa2012.1.x86_64.rpm", 
+    "pkg": "spring-9", 
+    "pkg_version": "1.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "spring_98.0+dfsg-1_i386.deb", 
+    "pkg": "spring_9", 
+    "pkg_version": "8.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "spring_88.0+dfsg1-1.1_i386.deb", 
+    "pkg": "spring_8", 
+    "pkg_version": "8.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "spring-1.2.9-4.jpp6.noarch.rpm", 
+    "pkg": "spring", 
+    "pkg_version": "1.2.9", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "spring-91.0-5-rosa2012.1.x86_64.rpm", 
+    "pkg": "spring-9", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "spring_96.0+dfsg-2_i386.deb", 
+    "pkg": "spring_9", 
+    "pkg_version": "6.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "spring_88.0+dfsg1-1.1_i386.deb", 
+    "pkg": "spring_8", 
+    "pkg_version": "8.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "spring-1.2.9-4.jpp6.noarch.rpm", 
+    "pkg": "spring", 
+    "pkg_version": "1.2.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "spring-91.0-5-rosa2012.1.x86_64.rpm", 
+    "pkg": "spring-9", 
+    "pkg_version": "1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "spring_96.0+dfsg-1_i386.deb", 
+    "pkg": "spring_9", 
+    "pkg_version": "6.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "spring_88.0+dfsg1-1.1_i386.deb", 
+    "pkg": "spring_8", 
+    "pkg_version": "8.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "spring-1.2.9-4.jpp6.noarch.rpm", 
+    "pkg": "spring", 
+    "pkg_version": "1.2.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "openttd-data-1.4.4-alt1.noarch.rpm", 
+    "pkg": "openttd-data", 
+    "pkg_version": "1.4.4", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "openttd-data_1.4.4-2_all.deb", 
+    "pkg": "openttd-data", 
+    "pkg_version": "1.4.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "openttd-data_1.4.4-2_all.deb", 
+    "pkg": "openttd-data", 
+    "pkg_version": "1.4.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "openttd-data_1.2.1-3_all.deb", 
+    "pkg": "openttd-data", 
+    "pkg_version": "1.2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "openttd-data-1.4.4-3.2.noarch.rpm", 
+    "pkg": "openttd-data", 
+    "pkg_version": "1.4.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "openttd-data-1.4.1-2.1.4.noarch.rpm", 
+    "pkg": "openttd-data", 
+    "pkg_version": "1.4.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "openttd-data-1.3.3-2.4.1.noarch.rpm", 
+    "pkg": "openttd-data", 
+    "pkg_version": "1.3.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "openttd-data_1.4.1-1_all.deb", 
+    "pkg": "openttd-data", 
+    "pkg_version": "1.4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "openttd-data_1.3.3-1build1_all.deb", 
+    "pkg": "openttd-data", 
+    "pkg_version": "1.3.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

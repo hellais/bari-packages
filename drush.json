@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "drush-6.2.0-2.sdl6.noarch.rpm", 
+    "pkg": "drush", 
+    "pkg_version": "6.2.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "drush-4.5-2.2.noarch.rpm", 
+    "pkg": "drush", 
+    "pkg_version": "4.5", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "drush_5.10.0-2_all.deb", 
+    "pkg": "drush", 
+    "pkg_version": "5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "drush_5.10.0-2_all.deb", 
+    "pkg": "drush", 
+    "pkg_version": "5.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "drush_5.4-1_all.deb", 
+    "pkg": "drush", 
+    "pkg_version": "5.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "drush_5.10.0-2_all.deb", 
+    "pkg": "drush", 
+    "pkg_version": "5.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "drush_5.10.0-2_all.deb", 
+    "pkg": "drush", 
+    "pkg_version": "5.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

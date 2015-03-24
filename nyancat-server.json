@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nyancat-server_1.4.4-1_all.deb", 
+    "pkg": "nyancat-server", 
+    "pkg_version": "1.4.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nyancat-server_1.4.4-1_all.deb", 
+    "pkg": "nyancat-server", 
+    "pkg_version": "1.4.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nyancat-server_1.0+git20120523.99dc310-1_all.deb", 
+    "pkg": "nyancat-server", 
+    "pkg_version": "1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "nyancat-server_1.4.4-1_all.deb", 
+    "pkg": "nyancat-server", 
+    "pkg_version": "1.4.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

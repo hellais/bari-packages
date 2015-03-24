@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtspi-dev_0.3.13-3_i386.deb", 
+    "pkg": "libtspi-dev", 
+    "pkg_version": "0.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtspi-dev_0.3.13-3_i386.deb", 
+    "pkg": "libtspi-dev", 
+    "pkg_version": "0.3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtspi-dev_0.3.9-3+wheezy1_i386.deb", 
+    "pkg": "libtspi-dev", 
+    "pkg_version": "0.3.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libtspi-dev_0.3.13-1_i386.deb", 
+    "pkg": "libtspi-dev", 
+    "pkg_version": "0.3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libtspi-dev_0.3.11.2-1_i386.deb", 
+    "pkg": "libtspi-dev", 
+    "pkg_version": "0.3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

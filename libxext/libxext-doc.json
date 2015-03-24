@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libxext-doc_1.3.3-1_all.deb", 
+    "pkg": "libxext-doc", 
+    "pkg_version": "1.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libxext-doc_1.3.3-1_all.deb", 
+    "pkg": "libxext-doc", 
+    "pkg_version": "1.3.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "libxext-doc_1.3.1-2+deb7u1_all.deb", 
+    "pkg": "libxext-doc", 
+    "pkg_version": "1.3.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Proposed Main", 
+    "pkg_full_name": "libxext-doc_1.3.2-1ubuntu0.1_all.deb", 
+    "pkg": "libxext-doc", 
+    "pkg_version": "1.3.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

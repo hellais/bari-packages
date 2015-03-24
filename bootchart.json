@@ -1,0 +1,270 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "bootchart-0.9-alt2_2jpp5.noarch.rpm", 
+    "pkg": "bootchart", 
+    "pkg_version": "0.9", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "bootchart-1.20-2-x86_64.pkg.tar.xz", 
+    "pkg": "bootchart", 
+    "pkg_version": "1.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bootchart_0.10~svn407-4.1_all.deb", 
+    "pkg": "bootchart", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bootchart_0.10~svn407-4.1~deb7u1_all.deb", 
+    "pkg": "bootchart", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "bootchart-0.14.0-1.3.git20110630.5.mga4.x86_64.rpm", 
+    "pkg": "bootchart", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-219-10-omv2015.0.x86_64.rpm", 
+    "pkg": "systemd-219-10-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "bootchart-2.0.11.4-2-omv2013.0.x86_64.rpm", 
+    "pkg": "bootchart", 
+    "pkg_version": "2.0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-219-10-omv2015.0.x86_64.rpm", 
+    "pkg": "systemd-219-10-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "bootchart-2.0.11.4-2-omv2013.0.x86_64.rpm", 
+    "pkg": "bootchart", 
+    "pkg_version": "2.0.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-219-10-omv2015.0.x86_64.rpm", 
+    "pkg": "systemd-219-10-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "bootchart-2.0.14.7-1.1.x86_64.rpm", 
+    "pkg": "bootchart", 
+    "pkg_version": "2.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-219-10-omv2015.0.x86_64.rpm", 
+    "pkg": "systemd-219-10-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "bootchart-2.0.12.4-19.1.4.x86_64.rpm", 
+    "pkg": "bootchart", 
+    "pkg_version": "2.0.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-219-10-omv2015.0.x86_64.rpm", 
+    "pkg": "systemd-219-10-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "bootchart-2.0.12.4-17.1.2.i586.rpm", 
+    "pkg": "bootchart", 
+    "pkg_version": "2.0.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-219-10-omv2015.0.x86_64.rpm", 
+    "pkg": "systemd-219-10-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "bootchart-2.0.11.4-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "bootchart", 
+    "pkg_version": "2.0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-219-10-omv2015.0.x86_64.rpm", 
+    "pkg": "systemd-219-10-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "bootchart-2.0.11.4-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "bootchart", 
+    "pkg_version": "2.0.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-219-10-omv2015.0.x86_64.rpm", 
+    "pkg": "systemd-219-10-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "bootchart-0.9-noarch-1rl.txz", 
+    "pkg": "bootchart", 
+    "pkg_version": "0.9", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-219-10-omv2015.0.x86_64.rpm", 
+    "pkg": "systemd-219-10-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "bootchart-0.9-noarch-1rl.txz", 
+    "pkg": "bootchart", 
+    "pkg_version": "0.9", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-219-10-omv2015.0.x86_64.rpm", 
+    "pkg": "systemd-219-10-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "bootchart-0.9-noarch-1rl.txz", 
+    "pkg": "bootchart", 
+    "pkg_version": "0.9", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-219-10-omv2015.0.x86_64.rpm", 
+    "pkg": "systemd-219-10-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "bootchart_0.90.2-8ubuntu2_i386.deb", 
+    "pkg": "bootchart", 
+    "pkg_version": "0.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-219-10-omv2015.0.x86_64.rpm", 
+    "pkg": "systemd-219-10-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "bootchart_0.90.2-8ubuntu2_i386.deb", 
+    "pkg": "bootchart", 
+    "pkg_version": "0.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-219-10-omv2015.0.x86_64.rpm", 
+    "pkg": "systemd-219-10-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ste-plugins_0.0.2-2_i386.deb", 
+    "pkg": "ste-plugins", 
+    "pkg_version": "0.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ste-plugins_0.0.2-2_i386.deb", 
+    "pkg": "ste-plugins", 
+    "pkg_version": "0.0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

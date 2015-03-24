@@ -1,0 +1,91 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ddccontrol-db-20061014-alt1_6.20120904gite8cc385a.noarch.rpm", 
+    "pkg": "ddccontrol-db-20061014-alt1", 
+    "pkg_version": "6.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ddccontrol-db-20061014-alt1_6.20120904gite8cc385a.noarch.rpm", 
+    "pkg": "ddccontrol-db-20061014-alt1", 
+    "pkg_version": "6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ddccontrol-db-20061014-alt1_6.20120904gite8cc385a.noarch.rpm", 
+    "pkg": "ddccontrol-db-20061014-alt1", 
+    "pkg_version": "6.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ddccontrol-db-20061014-alt1_6.20120904gite8cc385a.noarch.rpm", 
+    "pkg": "ddccontrol-db-20061014-alt1", 
+    "pkg_version": "6.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ddccontrol-db-20061014-alt1_6.20120904gite8cc385a.noarch.rpm", 
+    "pkg": "ddccontrol-db-20061014-alt1", 
+    "pkg_version": "6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ddccontrol-db-20061014-6.20120904gite8cc385a.fc21.noarch.rpm", 
+    "pkg": "ddccontrol-db-20061014", 
+    "pkg_version": "6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ddccontrol-db-20061014-alt1_6.20120904gite8cc385a.noarch.rpm", 
+    "pkg": "ddccontrol-db-20061014-alt1", 
+    "pkg_version": "6.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ddccontrol-db-20061014-6.20120904gite8cc385a.fc21.noarch.rpm", 
+    "pkg": "ddccontrol-db-20061014", 
+    "pkg_version": "6.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ddccontrol-db-20061014-alt1_6.20120904gite8cc385a.noarch.rpm", 
+    "pkg": "ddccontrol-db-20061014-alt1", 
+    "pkg_version": "6.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ddccontrol-db-20061014-6.20120904gite8cc385a.fc21.noarch.rpm", 
+    "pkg": "ddccontrol-db-20061014", 
+    "pkg_version": "6.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

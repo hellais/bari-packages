@@ -1,0 +1,154 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "worker-3.3.3-alt1_3.x86_64.rpm", 
+    "pkg": "worker", 
+    "pkg_version": "3.3.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "worker_3.4.1-1_i386.deb", 
+    "pkg": "worker", 
+    "pkg_version": "3.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "worker_3.4.1-1_i386.deb", 
+    "pkg": "worker", 
+    "pkg_version": "3.4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "worker_2.19.2-2_i386.deb", 
+    "pkg": "worker", 
+    "pkg_version": "2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "worker-3.3.3-3.fc22.x86_64.rpm", 
+    "pkg": "worker", 
+    "pkg_version": "3.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "worker-3.3.3-3.fc22.x86_64.rpm", 
+    "pkg": "worker", 
+    "pkg_version": "3.3.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "worker-3.3.3-3.fc21.x86_64.rpm", 
+    "pkg": "worker", 
+    "pkg_version": "3.3.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "worker-3.3.3-1.fc20.x86_64.rpm", 
+    "pkg": "worker", 
+    "pkg_version": "3.3.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "worker-3.1.0-2-omv2015.0.x86_64.rpm", 
+    "pkg": "worker", 
+    "pkg_version": "3.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "worker-2.19.1-2-omv2013.0.x86_64.rpm", 
+    "pkg": "worker", 
+    "pkg_version": "2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "worker-2.19.1-2-omv2013.0.x86_64.rpm", 
+    "pkg": "worker", 
+    "pkg_version": "2.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "worker-3.1.0-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "worker", 
+    "pkg_version": "3.1.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "worker-3.1.0-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "worker", 
+    "pkg_version": "3.1.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "worker-2.19.5-x86_64-1sl.txz", 
+    "pkg": "worker", 
+    "pkg_version": "2.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "worker-2.18.1-i486-1sl.txz", 
+    "pkg": "worker", 
+    "pkg_version": "2.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "worker_3.4.1-1_i386.deb", 
+    "pkg": "worker", 
+    "pkg_version": "3.4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "worker_2.19.6-1ubuntu1_i386.deb", 
+    "pkg": "worker", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

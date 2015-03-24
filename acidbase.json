@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "acidbase_1.4.5-4_all.deb", 
+    "pkg": "acidbase", 
+    "pkg_version": "1.4.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

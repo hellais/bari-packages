@@ -1,0 +1,109 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "ruby-shadow-2.4.1-1-x86_64.pkg.tar.xz", 
+    "pkg": "ruby-shadow", 
+    "pkg_version": "2.4.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "ruby-shadow-1.4.1-21.sdl7.x86_64.rpm", 
+    "pkg": "ruby-shadow", 
+    "pkg_version": "1.4.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "ruby-shadow-1.4.1-2.el6.rf.x86_64.rpm", 
+    "pkg": "ruby-shadow", 
+    "pkg_version": "1.4.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "ruby-shadow-1.4.1-2.el5.rf.x86_64.rpm", 
+    "pkg": "ruby-shadow", 
+    "pkg_version": "1.4.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-shadow_2.3.4-2_i386.deb", 
+    "pkg": "ruby-shadow", 
+    "pkg_version": "2.3.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-shadow_2.3.4-2_i386.deb", 
+    "pkg": "ruby-shadow", 
+    "pkg_version": "2.3.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-shadow_2.1.4-2_i386.deb", 
+    "pkg": "ruby-shadow", 
+    "pkg_version": "2.1.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ruby-shadow-1.4.1-26.fc22.x86_64.rpm", 
+    "pkg": "ruby-shadow", 
+    "pkg_version": "1.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ruby-shadow-1.4.1-26.fc22.x86_64.rpm", 
+    "pkg": "ruby-shadow", 
+    "pkg_version": "1.4.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ruby-shadow-1.4.1-25.fc21.x86_64.rpm", 
+    "pkg": "ruby-shadow", 
+    "pkg_version": "1.4.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ruby-shadow-1.4.1-20.fc20.x86_64.rpm", 
+    "pkg": "ruby-shadow", 
+    "pkg_version": "1.4.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "ruby-shadow_2.3.4-2_i386.deb", 
+    "pkg": "ruby-shadow", 
+    "pkg_version": "2.3.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

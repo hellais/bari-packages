@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "quantum-common_2014.1.3-12_all.deb", 
+    "pkg": "quantum-common_201", 
+    "pkg_version": "4.1.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "quantum-common_2014.1.3-12_all.deb", 
+    "pkg": "quantum-common_201", 
+    "pkg_version": "4.1.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "quantum-common_2012.1-1_all.deb", 
+    "pkg": "quantum-common_201", 
+    "pkg_version": "2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

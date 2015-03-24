@@ -1,0 +1,100 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "icmake-doc-7.21.01-alt1.git20140120.noarch.rpm", 
+    "pkg": "icmake-doc", 
+    "pkg_version": "7.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "icmake-doc_7.21.01-1_all.deb", 
+    "pkg": "icmake-doc", 
+    "pkg_version": "7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "icmake-doc_7.21.01-1_all.deb", 
+    "pkg": "icmake-doc", 
+    "pkg_version": "7.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "icmake-doc_7.18.00-2_all.deb", 
+    "pkg": "icmake-doc", 
+    "pkg_version": "7.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "icmake-doc-7.21.00-8-omv2015.0.x86_64.rpm", 
+    "pkg": "icmake-doc", 
+    "pkg_version": "7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "icmake-doc-7.16.00-2-omv2014.0.x86_64.rpm", 
+    "pkg": "icmake-doc", 
+    "pkg_version": "7.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "icmake-doc-7.16.00-1-omv2013.0.x86_64.rpm", 
+    "pkg": "icmake-doc", 
+    "pkg_version": "7.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "icmake-doc-7.16.00-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "icmake-doc", 
+    "pkg_version": "7.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "icmake-doc-7.16.00-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "icmake-doc", 
+    "pkg_version": "7.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "icmake-doc_7.21.01-1_all.deb", 
+    "pkg": "icmake-doc", 
+    "pkg_version": "7.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "icmake-doc_7.21.01-1_all.deb", 
+    "pkg": "icmake-doc", 
+    "pkg_version": "7.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

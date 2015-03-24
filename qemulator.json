@@ -1,0 +1,128 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qemulator_0.6.352-1_all.deb", 
+    "pkg": "qemulator", 
+    "pkg_version": "0.6.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "virtualbricks_0.6.352-1_all.deb", 
+    "pkg": "virtualbricks", 
+    "pkg_version": "0.6.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qemulator_0.6.352-1_all.deb", 
+    "pkg": "qemulator", 
+    "pkg_version": "0.6.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "virtualbricks_0.6.352-1_all.deb", 
+    "pkg": "virtualbricks", 
+    "pkg_version": "0.6.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qemulator_0.6.352-1_all.deb", 
+    "pkg": "qemulator", 
+    "pkg_version": "0.6.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "virtualbricks_0.6.352-1_all.deb", 
+    "pkg": "virtualbricks", 
+    "pkg_version": "0.6.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "qemulator-0.5-11-omv2013.0.noarch.rpm", 
+    "pkg": "qemulator", 
+    "pkg_version": "0.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "virtualbricks_0.6.352-1_all.deb", 
+    "pkg": "virtualbricks", 
+    "pkg_version": "0.6.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "qemulator-0.5-11-omv2013.0.noarch.rpm", 
+    "pkg": "qemulator", 
+    "pkg_version": "0.5", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "virtualbricks_0.6.352-1_all.deb", 
+    "pkg": "virtualbricks", 
+    "pkg_version": "0.6.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "qemulator-0.5-12-rosa2014.1.noarch.rpm", 
+    "pkg": "qemulator", 
+    "pkg_version": "0.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "virtualbricks_0.6.352-1_all.deb", 
+    "pkg": "virtualbricks", 
+    "pkg_version": "0.6.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "qemulator-0.5-11-rosa2012.1.noarch.rpm", 
+    "pkg": "qemulator", 
+    "pkg_version": "0.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "virtualbricks_0.6.352-1_all.deb", 
+    "pkg": "virtualbricks", 
+    "pkg_version": "0.6.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

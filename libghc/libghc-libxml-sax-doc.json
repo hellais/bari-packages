@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-libxml-sax-doc_0.7.3-2_all.deb", 
+    "pkg": "libghc-libxml-sax-doc", 
+    "pkg_version": "0.7.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-libxml-sax-doc_0.7.3-2_all.deb", 
+    "pkg": "libghc-libxml-sax-doc", 
+    "pkg_version": "0.7.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-libxml-sax-doc_0.7.2-2_all.deb", 
+    "pkg": "libghc-libxml-sax-doc", 
+    "pkg_version": "0.7.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-libxml-sax-doc_0.7.3-2build2_all.deb", 
+    "pkg": "libghc-libxml-sax-doc", 
+    "pkg_version": "0.7.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,190 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "marco-1.8.3-1-x86_64.pkg.tar.xz", 
+    "pkg": "marco", 
+    "pkg_version": "1.8.3", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "marco-1.8.3-1.el7.x86_64.rpm", 
+    "pkg": "marco", 
+    "pkg_version": "1.8.3", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "marco_1.8.2+dfsg1-6_i386.deb", 
+    "pkg": "marco", 
+    "pkg_version": "1.8.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "marco_1.8.2+dfsg1-6_i386.deb", 
+    "pkg": "marco", 
+    "pkg_version": "1.8.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "marco_1.8.1+dfsg1-1~bpo70+1_i386.deb", 
+    "pkg": "marco", 
+    "pkg_version": "1.8.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "marco-1.9.90-1.fc23.x86_64.rpm", 
+    "pkg": "marco", 
+    "pkg_version": "1.9.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "marco-1.9.4-1.fc22.x86_64.rpm", 
+    "pkg": "marco", 
+    "pkg_version": "1.9.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "marco-1.8.3-1.fc21.x86_64.rpm", 
+    "pkg": "marco", 
+    "pkg_version": "1.8.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "marco-1.8.3-1.fc20.x86_64.rpm", 
+    "pkg": "marco", 
+    "pkg_version": "1.8.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "marco-1.8.2-2-omv2015.0.x86_64.rpm", 
+    "pkg": "marco", 
+    "pkg_version": "1.8.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "mate-window-manager-1.6.2-2.mga4.x86_64.rpm", 
+    "pkg": "mate-window-manager", 
+    "pkg_version": "1.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "marco-1.8.0-1-omv2014.0.x86_64.rpm", 
+    "pkg": "marco", 
+    "pkg_version": "1.8.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "mate-window-manager-1.6.2-2.mga4.x86_64.rpm", 
+    "pkg": "mate-window-manager", 
+    "pkg_version": "1.6.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "marco-1.8.2-2.2.x86_64.rpm", 
+    "pkg": "marco", 
+    "pkg_version": "1.8.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "mate-window-manager-1.6.2-2.mga4.x86_64.rpm", 
+    "pkg": "mate-window-manager", 
+    "pkg_version": "1.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "marco-1.8.2-1.1.x86_64.rpm", 
+    "pkg": "marco", 
+    "pkg_version": "1.8.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "mate-window-manager-1.6.2-2.mga4.x86_64.rpm", 
+    "pkg": "mate-window-manager", 
+    "pkg_version": "1.6.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "marco-1.8.0-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "marco", 
+    "pkg_version": "1.8.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "mate-window-manager-1.6.2-2.mga4.x86_64.rpm", 
+    "pkg": "mate-window-manager", 
+    "pkg_version": "1.6.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "marco-1.8.0-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "marco", 
+    "pkg_version": "1.8.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "mate-window-manager-1.6.2-2.mga4.x86_64.rpm", 
+    "pkg": "mate-window-manager", 
+    "pkg_version": "1.6.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

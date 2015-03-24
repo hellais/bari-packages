@@ -1,0 +1,55 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "autofs-ldap-5.0.9-alt2.x86_64.rpm", 
+    "pkg": "autofs-ldap", 
+    "pkg_version": "5.0.9", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "autofs-ldap_5.0.8-2_i386.deb", 
+    "pkg": "autofs-ldap", 
+    "pkg_version": "5.0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "autofs-ldap_5.0.8-1_i386.deb", 
+    "pkg": "autofs-ldap", 
+    "pkg_version": "5.0.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "autofs-ldap_5.0.7-3_i386.deb", 
+    "pkg": "autofs-ldap", 
+    "pkg_version": "5.0.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "autofs-ldap_5.0.8-1ubuntu1_i386.deb", 
+    "pkg": "autofs-ldap", 
+    "pkg_version": "5.0.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "autofs-ldap_5.0.7-3ubuntu3.1_i386.deb", 
+    "pkg": "autofs-ldap", 
+    "pkg_version": "5.0.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

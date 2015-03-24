@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libterm-readline-perl-perl_1.0303-1_all.deb", 
+    "pkg": "libterm-readline-perl-perl", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libterm-readline-perl-perl_1.0303-1_all.deb", 
+    "pkg": "libterm-readline-perl-perl", 
+    "pkg_version": "1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libterm-readline-perl-perl_1.0303-1_all.deb", 
+    "pkg": "libterm-readline-perl-perl", 
+    "pkg_version": "1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libterm-readline-perl-perl_1.0303-1_all.deb", 
+    "pkg": "libterm-readline-perl-perl", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libterm-readline-perl-perl_1.0303-1_all.deb", 
+    "pkg": "libterm-readline-perl-perl", 
+    "pkg_version": "1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

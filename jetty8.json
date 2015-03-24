@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jetty8_8.1.16-4_all.deb", 
+    "pkg": "jetty8", 
+    "pkg_version": "8.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jetty8_8.1.16-4_all.deb", 
+    "pkg": "jetty8", 
+    "pkg_version": "8.1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jetty8_8.1.3-4_all.deb", 
+    "pkg": "jetty8", 
+    "pkg_version": "8.1.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "jetty8-8.1.14-8.fc22.noarch.rpm", 
+    "pkg": "jetty8", 
+    "pkg_version": "8.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "jetty8-8.1.14-8.fc22.noarch.rpm", 
+    "pkg": "jetty8", 
+    "pkg_version": "8.1.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "jetty8-8.1.14-8.fc21.noarch.rpm", 
+    "pkg": "jetty8", 
+    "pkg_version": "8.1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "jetty8-8.1.14-4.fc20.noarch.rpm", 
+    "pkg": "jetty8", 
+    "pkg_version": "8.1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "jetty8_8.1.3-9_all.deb", 
+    "pkg": "jetty8", 
+    "pkg_version": "8.1.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

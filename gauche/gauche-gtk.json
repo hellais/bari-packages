@@ -1,0 +1,73 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "gauche-gtk-0.6-alt1_0.12.20121223gitceb4579.x86_64.rpm", 
+    "pkg": "gauche-gtk", 
+    "pkg_version": "0.6", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gauche-gtk_0.6~pre1+git20121223-1_i386.deb", 
+    "pkg": "gauche-gtk", 
+    "pkg_version": "0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gauche-gtk_0.6~pre1+git20121223-1_i386.deb", 
+    "pkg": "gauche-gtk", 
+    "pkg_version": "0.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gauche-gtk-0.6-0.12.20121223gitceb4579.fc22.x86_64.rpm", 
+    "pkg": "gauche-gtk", 
+    "pkg_version": "0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gauche-gtk-0.6-0.12.20121223gitceb4579.fc22.x86_64.rpm", 
+    "pkg": "gauche-gtk", 
+    "pkg_version": "0.6", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "gauche-gtk-0.6-0.12.20121223gitceb4579.fc21.x86_64.rpm", 
+    "pkg": "gauche-gtk", 
+    "pkg_version": "0.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "gauche-gtk-0.6-0.12.20121223gitceb4579.fc20.x86_64.rpm", 
+    "pkg": "gauche-gtk", 
+    "pkg_version": "0.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gauche-gtk_0.6~pre1+git20121223-1_i386.deb", 
+    "pkg": "gauche-gtk", 
+    "pkg_version": "0.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "crmsh-2.0-alt1.git20140904.x86_64.rpm", 
+    "pkg": "crmsh", 
+    "pkg_version": "2.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "crmsh_1.2.6+git+e77add-1.3_i386.deb", 
+    "pkg": "crmsh", 
+    "pkg_version": "1.2.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "crmsh-2.2.0~rc2+git101.ge971f44-1.1.noarch.rpm", 
+    "pkg": "crmsh", 
+    "pkg_version": "2.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "crmsh-2.1+git98-1.1.x86_64.rpm", 
+    "pkg": "crmsh", 
+    "pkg_version": "2.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "crmsh-1.2.6-2.3.1.i586.rpm", 
+    "pkg": "crmsh", 
+    "pkg_version": "1.2.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "crmsh_1.2.6+git+e77add-1.2ubuntu1_all.deb", 
+    "pkg": "crmsh", 
+    "pkg_version": "1.2.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

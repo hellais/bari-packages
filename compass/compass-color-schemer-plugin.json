@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "compass-color-schemer-plugin_0.2.8+20140309-2_all.deb", 
+    "pkg": "compass-color-schemer-plugin", 
+    "pkg_version": "0.2.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

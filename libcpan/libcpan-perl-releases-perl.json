@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcpan-perl-releases-perl_1.96-1_all.deb", 
+    "pkg": "libcpan-perl-releases-perl", 
+    "pkg_version": "1.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcpan-perl-releases-perl_1.96-1_all.deb", 
+    "pkg": "libcpan-perl-releases-perl", 
+    "pkg_version": "1.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcpan-perl-releases-perl_0.60-1_all.deb", 
+    "pkg": "libcpan-perl-releases-perl", 
+    "pkg_version": "0.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libcpan-perl-releases-perl_1.78-1_all.deb", 
+    "pkg": "libcpan-perl-releases-perl", 
+    "pkg_version": "1.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

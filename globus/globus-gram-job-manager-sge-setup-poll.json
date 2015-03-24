@@ -1,0 +1,101 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "globus-gram-job-manager-sge-setup-poll-2.5-1.el7.noarch.rpm", 
+    "pkg": "globus-gram-job-manager-sge-setup-poll", 
+    "pkg_version": "2.5", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "globus-gram-job-manager-sge-setup-poll-2.5-1.el6.noarch.rpm", 
+    "pkg": "globus-gram-job-manager-sge-setup-poll", 
+    "pkg_version": "2.5", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "globus-gram-job-manager-sge-setup-poll-2.5-1.el5.x86_64.rpm", 
+    "pkg": "globus-gram-job-manager-sge-setup-poll", 
+    "pkg_version": "2.5", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "globus-gram-job-manager-sge-setup-poll_2.5-1_all.deb", 
+    "pkg": "globus-gram-job-manager-sge-setup-poll", 
+    "pkg_version": "2.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "globus-gram-job-manager-sge-setup-poll_2.4-1_all.deb", 
+    "pkg": "globus-gram-job-manager-sge-setup-poll", 
+    "pkg_version": "2.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "globus-gram-job-manager-sge-setup-poll_1.5-1_all.deb", 
+    "pkg": "globus-gram-job-manager-sge-setup-poll", 
+    "pkg_version": "1.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "globus-gram-job-manager-sge-setup-poll-2.5-1.fc22.noarch.rpm", 
+    "pkg": "globus-gram-job-manager-sge-setup-poll", 
+    "pkg_version": "2.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "globus-gram-job-manager-sge-setup-poll-2.5-1.fc22.noarch.rpm", 
+    "pkg": "globus-gram-job-manager-sge-setup-poll", 
+    "pkg_version": "2.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "globus-gram-job-manager-sge-setup-poll-2.5-1.fc21.noarch.rpm", 
+    "pkg": "globus-gram-job-manager-sge-setup-poll", 
+    "pkg_version": "2.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "globus-gram-job-manager-sge-setup-poll-2.5-1.fc20.noarch.rpm", 
+    "pkg": "globus-gram-job-manager-sge-setup-poll", 
+    "pkg_version": "2.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "globus-gram-job-manager-sge-setup-poll_1.7-2_all.deb", 
+    "pkg": "globus-gram-job-manager-sge-setup-poll", 
+    "pkg_version": "1.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

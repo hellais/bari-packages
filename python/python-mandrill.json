@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-mandrill_1.0.51-1_all.deb", 
+    "pkg": "python-mandrill", 
+    "pkg_version": "1.0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-mandrill_1.0.51-1_all.deb", 
+    "pkg": "python-mandrill", 
+    "pkg_version": "1.0.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-mandrill-1.0.51-3.fc21.noarch.rpm", 
+    "pkg": "python-mandrill", 
+    "pkg_version": "1.0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-mandrill-1.0.51-3.fc21.noarch.rpm", 
+    "pkg": "python-mandrill", 
+    "pkg_version": "1.0.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-mandrill-1.0.51-3.fc21.noarch.rpm", 
+    "pkg": "python-mandrill", 
+    "pkg_version": "1.0.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-mandrill-1.0.51-2.fc20.noarch.rpm", 
+    "pkg": "python-mandrill", 
+    "pkg_version": "1.0.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-mandrill_1.0.51-1_all.deb", 
+    "pkg": "python-mandrill", 
+    "pkg_version": "1.0.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

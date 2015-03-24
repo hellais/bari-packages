@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-doctrine-collections-1.2-3.el7.remi.noarch.rpm", 
+    "pkg": "php-doctrine-collections", 
+    "pkg_version": "1.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-doctrine-collections-1.2-3.el6.remi.noarch.rpm", 
+    "pkg": "php-doctrine-collections", 
+    "pkg_version": "1.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-doctrine-collections-1.2-3.el5.remi.noarch.rpm", 
+    "pkg": "php-doctrine-collections", 
+    "pkg_version": "1.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php-doctrine-collections_1.2-1_all.deb", 
+    "pkg": "php-doctrine-collections", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php-doctrine-collections_1.2-1_all.deb", 
+    "pkg": "php-doctrine-collections", 
+    "pkg_version": "1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "php-doctrine-collections_1.2-1~bpo70+1_all.deb", 
+    "pkg": "php-doctrine-collections", 
+    "pkg_version": "1.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "php-doctrine-collections-1.2-3.fc21.noarch.rpm", 
+    "pkg": "php-doctrine-collections", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "php-doctrine-collections-1.2-3.fc21.noarch.rpm", 
+    "pkg": "php-doctrine-collections", 
+    "pkg_version": "1.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "php-doctrine-collections-1.2-3.fc21.noarch.rpm", 
+    "pkg": "php-doctrine-collections", 
+    "pkg_version": "1.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-doctrine-collections-1.2-3.fc20.remi.noarch.rpm", 
+    "pkg": "php-doctrine-collections", 
+    "pkg_version": "1.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

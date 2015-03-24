@@ -1,0 +1,199 @@
+[
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "udisks-1.0.5-1-x86_64.pkg.tar.xz", 
+    "pkg": "udisks", 
+    "pkg_version": "1.0.5", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "udisks-1.0.1-7.el6_5.x86_64.rpm", 
+    "pkg": "udisks", 
+    "pkg_version": "1.0.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "udisks_1.0.5-1+b1_i386.deb", 
+    "pkg": "udisks", 
+    "pkg_version": "1.0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "udisks_1.0.5-1+b1_i386.deb", 
+    "pkg": "udisks", 
+    "pkg_version": "1.0.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "udisks_1.0.4-7wheezy1_i386.deb", 
+    "pkg": "udisks", 
+    "pkg_version": "1.0.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "udisks-1.0.4-16.fc23.x86_64.rpm", 
+    "pkg": "udisks", 
+    "pkg_version": "1.0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "udisks-1.0.4-15.fc22.x86_64.rpm", 
+    "pkg": "udisks", 
+    "pkg_version": "1.0.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "udisks-1.0.4-15.fc21.x86_64.rpm", 
+    "pkg": "udisks", 
+    "pkg_version": "1.0.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "udisks-1.0.4-13.fc20.x86_64.rpm", 
+    "pkg": "udisks", 
+    "pkg_version": "1.0.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "udisks-1.0.5-1-omv2015.0.x86_64.rpm", 
+    "pkg": "udisks", 
+    "pkg_version": "1.0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "udisks-1.0.4-14-omv2014.0.x86_64.rpm", 
+    "pkg": "udisks", 
+    "pkg_version": "1.0.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "udisks-1.0.4-11-omv2013.0.x86_64.rpm", 
+    "pkg": "udisks", 
+    "pkg_version": "1.0.4", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "udisks-1.0.5-4.3.x86_64.rpm", 
+    "pkg": "udisks", 
+    "pkg_version": "1.0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "udisks-1.0.5-3.1.4.x86_64.rpm", 
+    "pkg": "udisks", 
+    "pkg_version": "1.0.5", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "udisks-1.0.4-13.4.1.x86_64.rpm", 
+    "pkg": "udisks", 
+    "pkg_version": "1.0.4", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "udisks-1.0.5-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "udisks", 
+    "pkg_version": "1.0.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "udisks-1.0.4-12-rosa2012.1.x86_64.rpm", 
+    "pkg": "udisks", 
+    "pkg_version": "1.0.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackware Patches", 
+    "pkg_full_name": "udisks-1.0.5-x86_64-1_slack14.1.txz", 
+    "pkg": "udisks", 
+    "pkg_version": "1.0.5", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware Patches", 
+    "pkg_full_name": "udisks-1.0.5-x86_64-1_slack14.0.txz", 
+    "pkg": "udisks", 
+    "pkg_version": "1.0.5", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ponce Qt Desktop", 
+    "pkg_full_name": "udisks-1.0.4-x86_64-1ponce.txz", 
+    "pkg": "udisks", 
+    "pkg_version": "1.0.4", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "udisks_1.0.5-1build1_i386.deb", 
+    "pkg": "udisks", 
+    "pkg_version": "1.0.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "udisks_1.0.5-1_i386.deb", 
+    "pkg": "udisks", 
+    "pkg_version": "1.0.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

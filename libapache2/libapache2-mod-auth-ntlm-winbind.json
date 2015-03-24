@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libapache2-mod-auth-ntlm-winbind_0.0.0.lorikeet+svn+801-4_i386.deb", 
+    "pkg": "libapache2-mod-auth-ntlm-winbind", 
+    "pkg_version": "0.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libapache2-mod-auth-ntlm-winbind_0.0.0.lorikeet+svn+801-4_i386.deb", 
+    "pkg": "libapache2-mod-auth-ntlm-winbind", 
+    "pkg_version": "0.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libapache2-mod-auth-ntlm-winbind_0.0.0.lorikeet+svn+801-1_i386.deb", 
+    "pkg": "libapache2-mod-auth-ntlm-winbind", 
+    "pkg_version": "0.0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libapache2-mod-auth-ntlm-winbind_0.0.0.lorikeet+svn+801-4_i386.deb", 
+    "pkg": "libapache2-mod-auth-ntlm-winbind", 
+    "pkg_version": "0.0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libapache2-mod-auth-ntlm-winbind_0.0.0.lorikeet+svn+801-4_i386.deb", 
+    "pkg": "libapache2-mod-auth-ntlm-winbind", 
+    "pkg_version": "0.0.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

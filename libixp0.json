@@ -1,0 +1,37 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libixp0-0.3-alt1.x86_64.rpm", 
+    "pkg": "libixp0", 
+    "pkg_version": "0.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libixp0_0.6~20121202+hg148-2_i386.deb", 
+    "pkg": "libixp0", 
+    "pkg_version": "0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libixp0_0.6~20121202+hg148-2_i386.deb", 
+    "pkg": "libixp0", 
+    "pkg_version": "0.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libixp0_0.6~20121202+hg148-2_i386.deb", 
+    "pkg": "libixp0", 
+    "pkg_version": "0.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

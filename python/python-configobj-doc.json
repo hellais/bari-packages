@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-configobj-doc_5.0.6-1_all.deb", 
+    "pkg": "python-configobj-doc", 
+    "pkg_version": "5.0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

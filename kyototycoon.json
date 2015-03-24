@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kyototycoon_0.9.56-1_i386.deb", 
+    "pkg": "kyototycoon", 
+    "pkg_version": "0.9.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kyototycoon_0.9.56-1_i386.deb", 
+    "pkg": "kyototycoon", 
+    "pkg_version": "0.9.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "kyototycoon-0.9.56-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "kyototycoon", 
+    "pkg_version": "0.9.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "kyototycoon_0.9.56-1_i386.deb", 
+    "pkg": "kyototycoon", 
+    "pkg_version": "0.9.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

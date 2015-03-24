@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-pyxb_1.2.4+dfsg-1_all.deb", 
+    "pkg": "python-pyxb", 
+    "pkg_version": "1.2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-pyxb_1.2.3+dfsg-2_all.deb", 
+    "pkg": "python-pyxb", 
+    "pkg_version": "1.2.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-pyxb-1.2.4-2-omv2015.0.noarch.rpm", 
+    "pkg": "python-pyxb", 
+    "pkg_version": "1.2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-pyxb-1.2.4-2.1.noarch.rpm", 
+    "pkg": "python-pyxb", 
+    "pkg_version": "1.2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE JAVA", 
+    "pkg_full_name": "python-pyxb-1.2.4-11.1.noarch.rpm", 
+    "pkg": "python-pyxb", 
+    "pkg_version": "1.2.4", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }
+]

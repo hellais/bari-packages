@@ -1,0 +1,128 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "coccinelle-doc_1.0.0~rc22.deb-1_all.deb", 
+    "pkg": "coccinelle-doc", 
+    "pkg_version": "1.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "coccinelle-doc_1.0.0~rc22.deb-1_all.deb", 
+    "pkg": "coccinelle-doc", 
+    "pkg_version": "1.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "coccinelle-doc_1.0.0~rc12.deb-5_all.deb", 
+    "pkg": "coccinelle-doc", 
+    "pkg_version": "1.0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "coccinelle-doc-1.0.0-0.rc21.1.fc23.5.x86_64.rpm", 
+    "pkg": "coccinelle-doc", 
+    "pkg_version": "1.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "coccinelle-doc-1.0.0-0.rc21.1.fc22.4.x86_64.rpm", 
+    "pkg": "coccinelle-doc", 
+    "pkg_version": "1.0.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "coccinelle-doc-1.0.0-0.rc20.1.fc21.2.x86_64.rpm", 
+    "pkg": "coccinelle-doc", 
+    "pkg_version": "1.0.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "coccinelle-doc-1.0.0-0.rc17.2.fc20.1.x86_64.rpm", 
+    "pkg": "coccinelle-doc", 
+    "pkg_version": "1.0.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "coccinelle-doc-1.0.0.rc7-1-omv2013.0.x86_64.rpm", 
+    "pkg": "coccinelle-doc", 
+    "pkg_version": "1.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "coccinelle-doc-1.0.0.rc7-1-omv2013.0.x86_64.rpm", 
+    "pkg": "coccinelle-doc", 
+    "pkg_version": "1.0.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "coccinelle-doc-1.0.0.rc7-1-omv2013.0.x86_64.rpm", 
+    "pkg": "coccinelle-doc", 
+    "pkg_version": "1.0.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "coccinelle-doc-1.0.0.rc7-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "coccinelle-doc", 
+    "pkg_version": "1.0.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "coccinelle-doc-1.0.0.rc7-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "coccinelle-doc", 
+    "pkg_version": "1.0.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "coccinelle-doc_1.0.0~rc21.deb-1_all.deb", 
+    "pkg": "coccinelle-doc", 
+    "pkg_version": "1.0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "coccinelle-doc_1.0.0~rc19.deb-3_all.deb", 
+    "pkg": "coccinelle-doc", 
+    "pkg_version": "1.0.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

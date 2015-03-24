@@ -1,0 +1,164 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-pexpect_3.2-1_all.deb", 
+    "pkg": "python3-pexpect", 
+    "pkg_version": "3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-pexpect_3.2-1_all.deb", 
+    "pkg": "python3-pexpect", 
+    "pkg_version": "3.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-pexpect-3.1-3.fc21.noarch.rpm", 
+    "pkg": "python3-pexpect", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-pexpect-3.1-3.fc21.noarch.rpm", 
+    "pkg": "python3-pexpect", 
+    "pkg_version": "3.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-pexpect-3.1-3.fc21.noarch.rpm", 
+    "pkg": "python3-pexpect", 
+    "pkg_version": "3.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python3-pexpect-3.1-1.fc20.noarch.rpm", 
+    "pkg": "python3-pexpect", 
+    "pkg_version": "3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-pexpect-2.5.1-9-omv2015.0.noarch.rpm", 
+    "pkg": "python-pexpect", 
+    "pkg_version": "2.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "python3-pexpect-3.0-1.mga4.noarch.rpm", 
+    "pkg": "python3-pexpect", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-pexpect-2.5.1-9-omv2015.0.noarch.rpm", 
+    "pkg": "python-pexpect", 
+    "pkg_version": "2.5.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python3-pexpect-2.5.1-2-omv2014.0.noarch.rpm", 
+    "pkg": "python3-pexpect", 
+    "pkg_version": "2.5.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-pexpect-2.5.1-9-omv2015.0.noarch.rpm", 
+    "pkg": "python-pexpect", 
+    "pkg_version": "2.5.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python3-pexpect-2.5.1-1-omv2013.0.noarch.rpm", 
+    "pkg": "python3-pexpect", 
+    "pkg_version": "2.5.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-pexpect-2.5.1-9-omv2015.0.noarch.rpm", 
+    "pkg": "python-pexpect", 
+    "pkg_version": "2.5.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "python3-pexpect-2.5.1-4-rosa2014.1.noarch.rpm", 
+    "pkg": "python3-pexpect", 
+    "pkg_version": "2.5.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-pexpect-2.5.1-9-omv2015.0.noarch.rpm", 
+    "pkg": "python-pexpect", 
+    "pkg_version": "2.5.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "python3-pexpect-2.5.1-2-rosa2012.1.noarch.rpm", 
+    "pkg": "python3-pexpect", 
+    "pkg_version": "2.5.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-pexpect-2.5.1-9-omv2015.0.noarch.rpm", 
+    "pkg": "python-pexpect", 
+    "pkg_version": "2.5.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python3-pexpect_3.2-1_all.deb", 
+    "pkg": "python3-pexpect", 
+    "pkg_version": "3.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

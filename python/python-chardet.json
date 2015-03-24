@@ -1,0 +1,208 @@
+[
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "python-chardet-2.3.0-1-any.pkg.tar.xz", 
+    "pkg": "python-chardet", 
+    "pkg_version": "2.3.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "python-chardet-2.0.1-7.el7.noarch.rpm", 
+    "pkg": "python-chardet", 
+    "pkg_version": "2.0.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "python-chardet-2.0.1-1.el6.rf.noarch.rpm", 
+    "pkg": "python-chardet", 
+    "pkg_version": "2.0.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "python-chardet-2.0.1-1.el5.rf.noarch.rpm", 
+    "pkg": "python-chardet", 
+    "pkg_version": "2.0.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-chardet_2.3.0-1_all.deb", 
+    "pkg": "python-chardet", 
+    "pkg_version": "2.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-chardet_2.3.0-1_all.deb", 
+    "pkg": "python-chardet", 
+    "pkg_version": "2.3.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-chardet_2.0.1-2_all.deb", 
+    "pkg": "python-chardet", 
+    "pkg_version": "2.0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-chardet-2.2.1-2.fc22.noarch.rpm", 
+    "pkg": "python-chardet", 
+    "pkg_version": "2.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-chardet-2.2.1-2.fc22.noarch.rpm", 
+    "pkg": "python-chardet", 
+    "pkg_version": "2.2.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-chardet-2.2.1-2.fc21.noarch.rpm", 
+    "pkg": "python-chardet", 
+    "pkg_version": "2.2.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-chardet-2.0.1-7.fc20.noarch.rpm", 
+    "pkg": "python-chardet", 
+    "pkg_version": "2.0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-chardet-2.2.1-1-omv2015.0.noarch.rpm", 
+    "pkg": "python-chardet", 
+    "pkg_version": "2.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-chardet-2.0.1-4-omv2013.0.noarch.rpm", 
+    "pkg": "python-chardet", 
+    "pkg_version": "2.0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-chardet-2.0.1-4-omv2013.0.noarch.rpm", 
+    "pkg": "python-chardet", 
+    "pkg_version": "2.0.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-chardet-2.3.0-1.1.noarch.rpm", 
+    "pkg": "python-chardet", 
+    "pkg_version": "2.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-chardet-2.1.1-7.1.4.noarch.rpm", 
+    "pkg": "python-chardet", 
+    "pkg_version": "2.1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-chardet-2.1.1-4.1.2.noarch.rpm", 
+    "pkg": "python-chardet", 
+    "pkg_version": "2.1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "python-chardet-2.2.1-1-rosa2014.1.noarch.rpm", 
+    "pkg": "python-chardet", 
+    "pkg_version": "2.2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "python-chardet-2.1.1-2-rosa2012.1.noarch.rpm", 
+    "pkg": "python-chardet", 
+    "pkg_version": "2.1.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "python-chardet-2.1.1-x86_64-1rl.txz", 
+    "pkg": "python-chardet", 
+    "pkg_version": "2.1.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "python-chardet-1.1-x86_64-1gv.txz", 
+    "pkg": "python-chardet", 
+    "pkg_version": "1.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python-chardet_2.2.1-2_all.deb", 
+    "pkg": "python-chardet", 
+    "pkg_version": "2.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python-chardet_2.0.1-2build2_all.deb", 
+    "pkg": "python-chardet", 
+    "pkg_version": "2.0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

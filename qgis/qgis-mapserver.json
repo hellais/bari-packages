@@ -1,0 +1,82 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "qgis-mapserver-2.4.0-alt1.git4dce5ec.x86_64.rpm", 
+    "pkg": "qgis-mapserver", 
+    "pkg_version": "2.4.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "qgis-mapserver-1.8.0-13.sdl6.x86_64.rpm", 
+    "pkg": "qgis-mapserver", 
+    "pkg_version": "1.8.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qgis-mapserver_2.4.0-1+b1_i386.deb", 
+    "pkg": "qgis-mapserver", 
+    "pkg_version": "2.4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qgis-mapserver_2.4.0-1+b1_i386.deb", 
+    "pkg": "qgis-mapserver", 
+    "pkg_version": "2.4.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qgis-mapserver_1.7.4+1.7.5~20120320-1.1+b1_i386.deb", 
+    "pkg": "qgis-mapserver", 
+    "pkg_version": "1.7.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "qgis-mapserver-2.6.1-1.fc22.x86_64.rpm", 
+    "pkg": "qgis-mapserver", 
+    "pkg_version": "2.6.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "qgis-mapserver-2.6.0-2.fc21.x86_64.rpm", 
+    "pkg": "qgis-mapserver", 
+    "pkg_version": "2.6.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "qgis-mapserver-2.2.0-1.fc20.x86_64.rpm", 
+    "pkg": "qgis-mapserver", 
+    "pkg_version": "2.2.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "qgis-mapserver_2.2.0-1_i386.deb", 
+    "pkg": "qgis-mapserver", 
+    "pkg_version": "2.2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

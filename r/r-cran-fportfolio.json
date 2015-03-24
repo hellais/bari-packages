@@ -1,0 +1,83 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "r-cran-fportfolio_3011.81-1_i386.deb", 
+    "pkg": "r-cran-fportfolio_301", 
+    "pkg_version": "1.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "r-cran-fportfolio_2130.80-2_i386.deb", 
+    "pkg": "r-cran-fportfolio_213", 
+    "pkg_version": "0.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "r-cran-fportfolio_3011.81-1_i386.deb", 
+    "pkg": "r-cran-fportfolio_301", 
+    "pkg_version": "1.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "r-cran-fportfolio_2130.80-1_i386.deb", 
+    "pkg": "r-cran-fportfolio_213", 
+    "pkg_version": "0.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "r-cran-fportfolio_3011.81-1_i386.deb", 
+    "pkg": "r-cran-fportfolio_301", 
+    "pkg_version": "1.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "r-cran-fportfolio_2130.80-2_i386.deb", 
+    "pkg": "r-cran-fportfolio_213", 
+    "pkg_version": "0.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "r-cran-fportfolio_3011.81-1_i386.deb", 
+    "pkg": "r-cran-fportfolio_301", 
+    "pkg_version": "1.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "r-cran-fportfolio_2130.80-2_i386.deb", 
+    "pkg": "r-cran-fportfolio_213", 
+    "pkg_version": "0.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "r-cran-fportfolio_3011.81-1_i386.deb", 
+    "pkg": "r-cran-fportfolio_301", 
+    "pkg_version": "1.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

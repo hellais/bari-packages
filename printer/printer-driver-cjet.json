@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "printer-driver-cjet_0.8.9-6_i386.deb", 
+    "pkg": "printer-driver-cjet", 
+    "pkg_version": "0.8.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "printer-driver-cjet_0.8.9-6_i386.deb", 
+    "pkg": "printer-driver-cjet", 
+    "pkg_version": "0.8.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "printer-driver-cjet_0.8.9-3_i386.deb", 
+    "pkg": "printer-driver-cjet", 
+    "pkg_version": "0.8.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "printer-driver-cjet_0.8.9-6_i386.deb", 
+    "pkg": "printer-driver-cjet", 
+    "pkg_version": "0.8.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

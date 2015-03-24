@@ -1,0 +1,119 @@
+[
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "clustalw-1.83-1.el6.rf.x86_64.rpm", 
+    "pkg": "clustalw", 
+    "pkg_version": "1.8", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "clustalw-1.83-1.el5.rf.x86_64.rpm", 
+    "pkg": "clustalw", 
+    "pkg_version": "1.8", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "clustalw_2.1+lgpl-4_i386.deb", 
+    "pkg": "clustalw", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "clustalw_2.1+lgpl-4_i386.deb", 
+    "pkg": "clustalw", 
+    "pkg_version": "2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "clustalw_2.1+lgpl-2_i386.deb", 
+    "pkg": "clustalw", 
+    "pkg_version": "2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Nonfree", 
+    "pkg_full_name": "clustalw-2.1-3-omv2015.0.x86_64.rpm", 
+    "pkg": "clustalw", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Nonfree", 
+    "pkg_full_name": "clustalw-2.1-4-omv2014.0.x86_64.rpm", 
+    "pkg": "clustalw", 
+    "pkg_version": "2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Nonfree", 
+    "pkg_full_name": "clustalw-2.1-2-omv2013.0.x86_64.rpm", 
+    "pkg": "clustalw", 
+    "pkg_version": "2.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Nonfree", 
+    "pkg_full_name": "clustalw-2.1-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "clustalw", 
+    "pkg_version": "2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Nonfree", 
+    "pkg_full_name": "clustalw-2.1-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "clustalw", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Freestylers", 
+    "pkg_full_name": "clustalw-2.1-x86_64-1_fs.tgz", 
+    "pkg": "clustalw", 
+    "pkg_version": "2.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "clustalw_2.1+lgpl-4_i386.deb", 
+    "pkg": "clustalw", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Multiverse", 
+    "pkg_full_name": "clustalw_2.1+lgpl-4_i386.deb", 
+    "pkg": "clustalw", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

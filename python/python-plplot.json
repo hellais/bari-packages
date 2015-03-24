@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-plplot_5.10.0+dfsg-1_i386.deb", 
+    "pkg": "python-plplot", 
+    "pkg_version": "5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-plplot_5.10.0+dfsg-1_i386.deb", 
+    "pkg": "python-plplot", 
+    "pkg_version": "5.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-plplot_5.9.9-5_i386.deb", 
+    "pkg": "python-plplot", 
+    "pkg_version": "5.9.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "python-plplot-5.10.0-19-rosa2014.1.x86_64.rpm", 
+    "pkg": "python-plplot", 
+    "pkg_version": "5.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "python-plplot-5.10.0-17-rosa2012.1.x86_64.rpm", 
+    "pkg": "python-plplot", 
+    "pkg_version": "5.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-plplot_5.10.0-0ubuntu5_i386.deb", 
+    "pkg": "python-plplot", 
+    "pkg_version": "5.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-plplot_5.10.0-0ubuntu5_i386.deb", 
+    "pkg": "python-plplot", 
+    "pkg_version": "5.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

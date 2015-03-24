@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwtdbomysql38_3.3.3+dfsg-4.1_i386.deb", 
+    "pkg": "libwtdbomysql38", 
+    "pkg_version": "3.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwtdbomysql38_3.3.3+dfsg-4.1_i386.deb", 
+    "pkg": "libwtdbomysql38", 
+    "pkg_version": "3.3.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libwtdbomysql38-3.3.3-1.3.x86_64.rpm", 
+    "pkg": "libwtdbomysql38", 
+    "pkg_version": "3.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }
+]

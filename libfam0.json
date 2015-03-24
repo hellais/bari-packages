@@ -1,0 +1,182 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgamin0_0.1.10-4.1_i386.deb", 
+    "pkg": "libgamin0", 
+    "pkg_version": "0.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libfam0_2.7.0-17.1_i386.deb", 
+    "pkg": "libfam0", 
+    "pkg_version": "2.7.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgamin0_0.1.10-4.1_i386.deb", 
+    "pkg": "libgamin0", 
+    "pkg_version": "0.1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libfam0_2.7.0-17.1_i386.deb", 
+    "pkg": "libfam0", 
+    "pkg_version": "2.7.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgamin0_0.1.10-4.1_i386.deb", 
+    "pkg": "libgamin0", 
+    "pkg_version": "0.1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libfam0_2.7.0-17_i386.deb", 
+    "pkg": "libfam0", 
+    "pkg_version": "2.7.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgamin0_0.1.10-4.1_i386.deb", 
+    "pkg": "libgamin0", 
+    "pkg_version": "0.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libfam0-0.1.10-17-omv2015.0.i586.rpm", 
+    "pkg": "libfam0", 
+    "pkg_version": "0.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgamin0_0.1.10-4.1_i386.deb", 
+    "pkg": "libgamin0", 
+    "pkg_version": "0.1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libfam0-0.1.10-14-omv2014.0.i586.rpm", 
+    "pkg": "libfam0", 
+    "pkg_version": "0.1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgamin0_0.1.10-4.1_i386.deb", 
+    "pkg": "libgamin0", 
+    "pkg_version": "0.1.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libfam0-0.1.10-9-omv2013.0.i586.rpm", 
+    "pkg": "libfam0", 
+    "pkg_version": "0.1.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgamin0_0.1.10-4.1_i386.deb", 
+    "pkg": "libgamin0", 
+    "pkg_version": "0.1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libfam0-2.7.0-168.1.2.i586.rpm", 
+    "pkg": "libfam0", 
+    "pkg_version": "2.7.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "libgamin-1_0-0.1.10-7-rosa.lts2012.0.i586.rpm", 
+    "pkg": "libgamin-1_0", 
+    "pkg_version": "0.1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libgamin0_0.1.10-4.1ubuntu1_i386.deb", 
+    "pkg": "libgamin0", 
+    "pkg_version": "0.1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libfam0_2.7.0-17.1_i386.deb", 
+    "pkg": "libfam0", 
+    "pkg_version": "2.7.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "libgamin-1_0-0.1.10-7-rosa.lts2012.0.i586.rpm", 
+    "pkg": "libgamin-1_0", 
+    "pkg_version": "0.1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libgamin0_0.1.10-4.1ubuntu1_i386.deb", 
+    "pkg": "libgamin0", 
+    "pkg_version": "0.1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libfam0_2.7.0-17.1_i386.deb", 
+    "pkg": "libfam0", 
+    "pkg_version": "2.7.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-pypump-doc_0.3+git20130823.1.97bffc6-1_all.deb", 
+    "pkg": "python-pypump-doc", 
+    "pkg_version": "0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-pypump-doc_0.3+git20130823.1.97bffc6-1_all.deb", 
+    "pkg": "python-pypump-doc", 
+    "pkg_version": "0.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-pypump-doc_0.3+git20130823.1.97bffc6-1_all.deb", 
+    "pkg": "python-pypump-doc", 
+    "pkg_version": "0.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "papi-tools_5.3.2-2_i386.deb", 
+    "pkg": "papi-tools", 
+    "pkg_version": "5.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "papi-tools_5.3.2-2_i386.deb", 
+    "pkg": "papi-tools", 
+    "pkg_version": "5.3.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "papi-tools_5.3.2-2_i386.deb", 
+    "pkg": "papi-tools", 
+    "pkg_version": "5.3.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "papi-utils-1.0-0.177.11-rosa2012.1.x86_64.rpm", 
+    "pkg": "papi-utils", 
+    "pkg_version": "1.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "papi-tools_5.3.0-3_i386.deb", 
+    "pkg": "papi-tools", 
+    "pkg_version": "5.3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "papi-utils-1.0-0.177.8-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "papi-utils", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

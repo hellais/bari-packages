@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qt4-default_4.8.6+git64-g5dc8b2b+dfsg-3_i386.deb", 
+    "pkg": "qt4-default", 
+    "pkg_version": "4.8.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qt4-default_4.8.6+git64-g5dc8b2b+dfsg-3_i386.deb", 
+    "pkg": "qt4-default", 
+    "pkg_version": "4.8.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "qt4-default_4.8.6+dfsg-2~bpo70+1_i386.deb", 
+    "pkg": "qt4-default", 
+    "pkg_version": "4.8.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "qt4-default_4.8.6+git49-gbc62005+dfsg-1ubuntu1_i386.deb", 
+    "pkg": "qt4-default", 
+    "pkg_version": "4.8.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

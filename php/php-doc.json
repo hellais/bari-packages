@@ -1,0 +1,209 @@
+[
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "php-doc-5.6.6-1-omv2015.0.x86_64.rpm", 
+    "pkg": "php-doc", 
+    "pkg_version": "5.6.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "php-doc-5.5.22-1-omv2014.0.x86_64.rpm", 
+    "pkg": "php-doc", 
+    "pkg_version": "5.5.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "php-doc-5.5.5-1-omv2013.0.x86_64.rpm", 
+    "pkg": "php-doc", 
+    "pkg_version": "5.5.5", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "php-doc-5.5.5-1-omv2013.0.x86_64.rpm", 
+    "pkg": "php-doc", 
+    "pkg_version": "5.5.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "php-doc-20150203-1.1.noarch.rpm", 
+    "pkg": "php-doc-20150203", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "php-doc-20100723-14.1.2.noarch.rpm", 
+    "pkg": "php-doc-20100723-1", 
+    "pkg_version": "4.1.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "php-doc-5.5.5-1-omv2013.0.x86_64.rpm", 
+    "pkg": "php-doc", 
+    "pkg_version": "5.5.5", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "php-doc-20150203-1.1.noarch.rpm", 
+    "pkg": "php-doc-20150203", 
+    "pkg_version": "1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "php-doc-20100723-12.1.2.noarch.rpm", 
+    "pkg": "php-doc-20100723-1", 
+    "pkg_version": "2.1.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "php-doc-5.5.5-1-omv2013.0.x86_64.rpm", 
+    "pkg": "php-doc", 
+    "pkg_version": "5.5.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "php-doc-20150203-1.1.noarch.rpm", 
+    "pkg": "php-doc-20150203", 
+    "pkg_version": "1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "php-doc-20100723-12.1.2.noarch.rpm", 
+    "pkg": "php-doc-20100723-1", 
+    "pkg_version": "2.1.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "php-doc-5.5.22-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "php-doc", 
+    "pkg_version": "5.5.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "php-doc-20150203-1.1.noarch.rpm", 
+    "pkg": "php-doc-20150203", 
+    "pkg_version": "1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "php-doc-20100723-12.1.2.noarch.rpm", 
+    "pkg": "php-doc-20100723-1", 
+    "pkg_version": "2.1.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "php-doc-5.5.22-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "php-doc", 
+    "pkg_version": "5.5.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "php-doc-20150203-1.1.noarch.rpm", 
+    "pkg": "php-doc-20150203", 
+    "pkg_version": "1.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "php-doc-20100723-12.1.2.noarch.rpm", 
+    "pkg": "php-doc-20100723-1", 
+    "pkg_version": "2.1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "php-doc-5.3.28-1-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "php-doc", 
+    "pkg_version": "5.3.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "php-doc-20150203-1.1.noarch.rpm", 
+    "pkg": "php-doc-20150203", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "php-doc-20100723-12.1.2.noarch.rpm", 
+    "pkg": "php-doc-20100723-1", 
+    "pkg_version": "2.1.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "php-doc-5.3.28-1-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "php-doc", 
+    "pkg_version": "5.3.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "php-doc-20150203-1.1.noarch.rpm", 
+    "pkg": "php-doc-20150203", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

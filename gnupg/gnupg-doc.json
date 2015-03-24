@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnupg-doc_2003.04.06+dak1-1_all.deb", 
+    "pkg": "gnupg-doc_200", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnupg-doc_2003.04.06+dak1-1_all.deb", 
+    "pkg": "gnupg-doc_200", 
+    "pkg_version": "3.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "gnupg-doc_2003.04.06+dak1-1ubuntu1_all.deb", 
+    "pkg": "gnupg-doc_200", 
+    "pkg_version": "3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "gnupg-doc_2003.04.06+dak1-1ubuntu1_all.deb", 
+    "pkg": "gnupg-doc_200", 
+    "pkg_version": "3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

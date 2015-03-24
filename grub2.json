@@ -1,0 +1,388 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "grub2-pc-2.00-alt20.x86_64.rpm", 
+    "pkg": "grub2-pc", 
+    "pkg_version": "2.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "grub2-2.02-0.2.10.el7.centos.1.x86_64.rpm", 
+    "pkg": "grub2", 
+    "pkg_version": "2.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "grub2-pc-2.00-alt20.x86_64.rpm", 
+    "pkg": "grub2-pc", 
+    "pkg_version": "2.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "grub2_2.02~beta2-22_i386.deb", 
+    "pkg": "grub2", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "grub2-pc-2.00-alt20.x86_64.rpm", 
+    "pkg": "grub2-pc", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "grub2_2.02~beta2-21_i386.deb", 
+    "pkg": "grub2", 
+    "pkg_version": "2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "grub2-pc-2.00-alt20.x86_64.rpm", 
+    "pkg": "grub2-pc", 
+    "pkg_version": "2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "grub2_1.99-27+deb7u2_i386.deb", 
+    "pkg": "grub2", 
+    "pkg_version": "1.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "grub2-pc-2.00-alt20.x86_64.rpm", 
+    "pkg": "grub2-pc", 
+    "pkg_version": "2.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "grub2-2.02-0.15.fc22.x86_64.rpm", 
+    "pkg": "grub2", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "grub2-pc-2.00-alt20.x86_64.rpm", 
+    "pkg": "grub2-pc", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "grub2-2.02-0.15.fc22.x86_64.rpm", 
+    "pkg": "grub2", 
+    "pkg_version": "2.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "grub2-pc-2.00-alt20.x86_64.rpm", 
+    "pkg": "grub2-pc", 
+    "pkg_version": "2.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "grub2-2.02-0.13.fc21.x86_64.rpm", 
+    "pkg": "grub2", 
+    "pkg_version": "2.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "grub2-pc-2.00-alt20.x86_64.rpm", 
+    "pkg": "grub2-pc", 
+    "pkg_version": "2.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "grub2-2.00-27.fc20.x86_64.rpm", 
+    "pkg": "grub2", 
+    "pkg_version": "2.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "grub2-pc-2.00-alt20.x86_64.rpm", 
+    "pkg": "grub2-pc", 
+    "pkg_version": "2.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "grub2-2.02-1.beta2.15-omv2015.0.x86_64.rpm", 
+    "pkg": "grub2", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "grub2-pc-2.00-alt20.x86_64.rpm", 
+    "pkg": "grub2-pc", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "grub2-2.02-1.beta2.4-omv2014.0.x86_64.rpm", 
+    "pkg": "grub2", 
+    "pkg_version": "2.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "grub2-pc-2.00-alt20.x86_64.rpm", 
+    "pkg": "grub2-pc", 
+    "pkg_version": "2.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "grub2-2.00-36-omv2013.0.x86_64.rpm", 
+    "pkg": "grub2", 
+    "pkg_version": "2.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "grub2-pc-2.00-alt20.x86_64.rpm", 
+    "pkg": "grub2-pc", 
+    "pkg_version": "2.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "grub2-2.02~beta2-35.1.x86_64.rpm", 
+    "pkg": "grub2", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "grub2-pc-2.00-alt20.x86_64.rpm", 
+    "pkg": "grub2-pc", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "grub2-2.02~beta2-20.5.1.x86_64.rpm", 
+    "pkg": "grub2", 
+    "pkg_version": "2.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "grub2-pc-2.00-alt20.x86_64.rpm", 
+    "pkg": "grub2-pc", 
+    "pkg_version": "2.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "grub2-2.00-39.8.1.x86_64.rpm", 
+    "pkg": "grub2", 
+    "pkg_version": "2.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "grub2-pc-2.00-alt20.x86_64.rpm", 
+    "pkg": "grub2-pc", 
+    "pkg_version": "2.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "grub2-2.00-70-rosa2014.1.x86_64.rpm", 
+    "pkg": "grub2", 
+    "pkg_version": "2.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "grub2-pc-2.00-alt20.x86_64.rpm", 
+    "pkg": "grub2-pc", 
+    "pkg_version": "2.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "grub2-2.00-58-rosa2012.1.x86_64.rpm", 
+    "pkg": "grub2", 
+    "pkg_version": "2.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "grub2-pc-2.00-alt20.x86_64.rpm", 
+    "pkg": "grub2-pc", 
+    "pkg_version": "2.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackel", 
+    "pkg_full_name": "grub2-2.00-x86_64-4dj.txz", 
+    "pkg": "grub2", 
+    "pkg_version": "2.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "grub2-pc-2.00-alt20.x86_64.rpm", 
+    "pkg": "grub2-pc", 
+    "pkg_version": "2.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "University of Queensland Vislab", 
+    "pkg_full_name": "grub2-2.00-i486-1_uqv.txz", 
+    "pkg": "grub2", 
+    "pkg_version": "2.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "grub2-pc-2.00-alt20.x86_64.rpm", 
+    "pkg": "grub2-pc", 
+    "pkg_version": "2.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "grub2-1.99-x86_64-4ab.txz", 
+    "pkg": "grub2", 
+    "pkg_version": "1.9", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "grub2-pc-2.00-alt20.x86_64.rpm", 
+    "pkg": "grub2-pc", 
+    "pkg_version": "2.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "grub2_2.02~beta2-15_i386.deb", 
+    "pkg": "grub2", 
+    "pkg_version": "2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "grub2-pc-2.00-alt20.x86_64.rpm", 
+    "pkg": "grub2-pc", 
+    "pkg_version": "2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "grub2_2.02~beta2-9ubuntu1_i386.deb", 
+    "pkg": "grub2", 
+    "pkg_version": "2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "grub2-pc-2.00-alt20.x86_64.rpm", 
+    "pkg": "grub2-pc", 
+    "pkg_version": "2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

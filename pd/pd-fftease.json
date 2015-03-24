@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pd-fftease_2.5.2.git20121005-1_i386.deb", 
+    "pkg": "pd-fftease", 
+    "pkg_version": "2.5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pd-fftease_2.5.2.git20121005-1_i386.deb", 
+    "pkg": "pd-fftease", 
+    "pkg_version": "2.5.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Planet CCRMA", 
+    "pkg_full_name": "pd-fftease-0.0.0-0.1.svn7517.fc20.ccrma.x86_64.rpm", 
+    "pkg": "pd-fftease", 
+    "pkg_version": "0.0.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "pd-fftease_2.5.2.git20121005-1_i386.deb", 
+    "pkg": "pd-fftease", 
+    "pkg_version": "2.5.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

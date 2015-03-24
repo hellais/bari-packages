@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mobile-atlas-creator_1.9.16+dfsg1-1_all.deb", 
+    "pkg": "mobile-atlas-creator", 
+    "pkg_version": "1.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mobile-atlas-creator_1.9.16+dfsg1-1_all.deb", 
+    "pkg": "mobile-atlas-creator", 
+    "pkg_version": "1.9.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mobile-atlas-creator_1.9.7-1_all.deb", 
+    "pkg": "mobile-atlas-creator", 
+    "pkg_version": "1.9.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Hany.sk", 
+    "pkg_full_name": "mobile-atlas-creator-1.9.16-1.fc20.noarch.rpm", 
+    "pkg": "mobile-atlas-creator", 
+    "pkg_version": "1.9.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mobile-atlas-creator_1.9.16+dfsg1-1_all.deb", 
+    "pkg": "mobile-atlas-creator", 
+    "pkg_version": "1.9.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mobile-atlas-creator_1.9.14+dfsg1-1_all.deb", 
+    "pkg": "mobile-atlas-creator", 
+    "pkg_version": "1.9.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,163 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "openssh-server-6.7p1-alt1.x86_64.rpm", 
+    "pkg": "openssh-server", 
+    "pkg_version": "6.7", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "openssh-server-6.4p1-8.el7.x86_64.rpm", 
+    "pkg": "openssh-server", 
+    "pkg_version": "6.4", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Ghettoforge Testing", 
+    "pkg_full_name": "openssh-server-6.6.1p1-4.gf.el6.x86_64.rpm", 
+    "pkg": "openssh-server", 
+    "pkg_version": "6.6.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Ghettoforge Testing", 
+    "pkg_full_name": "openssh-server-6.6.1p1-1.gf.el5.x86_64.rpm", 
+    "pkg": "openssh-server", 
+    "pkg_version": "6.6.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "openssh-server_6.7p1-5_i386.deb", 
+    "pkg": "openssh-server", 
+    "pkg_version": "6.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "openssh-server_6.7p1-3_i386.deb", 
+    "pkg": "openssh-server", 
+    "pkg_version": "6.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "openssh-server_6.0p1-4+deb7u1_i386.deb", 
+    "pkg": "openssh-server", 
+    "pkg_version": "6.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "openssh-server-6.7p1-11.fc23.x86_64.rpm", 
+    "pkg": "openssh-server", 
+    "pkg_version": "6.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "openssh-server-6.7p1-4.fc22.x86_64.rpm", 
+    "pkg": "openssh-server", 
+    "pkg_version": "6.7", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "openssh-server-6.6.1p1-11.1.fc21.x86_64.rpm", 
+    "pkg": "openssh-server", 
+    "pkg_version": "6.6.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "openssh-server-6.4p1-8.fc20.x86_64.rpm", 
+    "pkg": "openssh-server", 
+    "pkg_version": "6.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "openssh-server-6.7p1-4-omv2015.0.x86_64.rpm", 
+    "pkg": "openssh-server", 
+    "pkg_version": "6.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "openssh-server-6.6p1-1.1-omv2014.0.x86_64.rpm", 
+    "pkg": "openssh-server", 
+    "pkg_version": "6.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "openssh-server-6.4p1-1-omv2013.0.x86_64.rpm", 
+    "pkg": "openssh-server", 
+    "pkg_version": "6.4", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "openssh-server-6.6p1-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "openssh-server", 
+    "pkg_version": "6.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "openssh-server-6.6p1-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "openssh-server", 
+    "pkg_version": "6.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "openssh-server_6.6p1-8_i386.deb", 
+    "pkg": "openssh-server", 
+    "pkg_version": "6.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "openssh-server_6.6p1-2ubuntu2_i386.deb", 
+    "pkg": "openssh-server", 
+    "pkg_version": "6.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

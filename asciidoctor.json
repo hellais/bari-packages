@@ -1,0 +1,101 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "asciidoctor_0.1.4-3_all.deb", 
+    "pkg": "asciidoctor", 
+    "pkg_version": "0.1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "asciidoctor_0.1.4-3_all.deb", 
+    "pkg": "asciidoctor", 
+    "pkg_version": "0.1.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "asciidoctor_0.1.3-1~bpo70+1_all.deb", 
+    "pkg": "asciidoctor", 
+    "pkg_version": "0.1.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "asciidoctor_0.1.3-1~bpo70+1_all.deb", 
+    "pkg": "asciidoctor", 
+    "pkg_version": "0.1.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rubygem-asciidoctor-1.5.2-1.fc22.noarch.rpm", 
+    "pkg": "rubygem-asciidoctor", 
+    "pkg_version": "1.5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "asciidoctor_0.1.3-1~bpo70+1_all.deb", 
+    "pkg": "asciidoctor", 
+    "pkg_version": "0.1.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rubygem-asciidoctor-1.5.2-1.fc22.noarch.rpm", 
+    "pkg": "rubygem-asciidoctor", 
+    "pkg_version": "1.5.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "asciidoctor_0.1.3-1~bpo70+1_all.deb", 
+    "pkg": "asciidoctor", 
+    "pkg_version": "0.1.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "rubygem-asciidoctor-1.5.2-1.fc21.noarch.rpm", 
+    "pkg": "rubygem-asciidoctor", 
+    "pkg_version": "1.5.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "asciidoctor_0.1.4-3_all.deb", 
+    "pkg": "asciidoctor", 
+    "pkg_version": "0.1.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "rubygem-asciidoctor-1.5.2-1.fc21.noarch.rpm", 
+    "pkg": "rubygem-asciidoctor", 
+    "pkg_version": "1.5.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

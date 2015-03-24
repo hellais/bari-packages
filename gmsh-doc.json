@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gmsh-doc_2.8.5+dfsg-1.1_all.deb", 
+    "pkg": "gmsh-doc", 
+    "pkg_version": "2.8.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gmsh-doc_2.8.5+dfsg-1.1_all.deb", 
+    "pkg": "gmsh-doc", 
+    "pkg_version": "2.8.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "gmsh-doc_2.7.0.dfsg-1~bpo70+1_all.deb", 
+    "pkg": "gmsh-doc", 
+    "pkg_version": "2.7.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gmsh-doc-2.9.1-1.fc23.noarch.rpm", 
+    "pkg": "gmsh-doc", 
+    "pkg_version": "2.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gmsh-doc-2.8.5-7.fc22.noarch.rpm", 
+    "pkg": "gmsh-doc", 
+    "pkg_version": "2.8.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gmsh-doc-2.8.5-5.fc21.noarch.rpm", 
+    "pkg": "gmsh-doc", 
+    "pkg_version": "2.8.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

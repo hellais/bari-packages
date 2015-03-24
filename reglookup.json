@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "CERT Forensics Tools", 
+    "pkg_full_name": "reglookup-1.0.1-2.el7.x86_64.rpm", 
+    "pkg": "reglookup", 
+    "pkg_version": "1.0.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "reglookup-0.9.0-1.el6.rf.x86_64.rpm", 
+    "pkg": "reglookup", 
+    "pkg_version": "0.9.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "reglookup-0.9.0-1.el5.rf.x86_64.rpm", 
+    "pkg": "reglookup", 
+    "pkg_version": "0.9.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "reglookup_0.12.0-1_i386.deb", 
+    "pkg": "reglookup", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "reglookup_0.12.0-1_i386.deb", 
+    "pkg": "reglookup", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "reglookup_0.12.0-1_i386.deb", 
+    "pkg": "reglookup", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CERT Forensics Tools Test", 
+    "pkg_full_name": "reglookup-1.0.1-2.fc21.x86_64.rpm", 
+    "pkg": "reglookup", 
+    "pkg_version": "1.0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CERT Forensics Tools", 
+    "pkg_full_name": "reglookup-1.0.1-2.fc20.x86_64.rpm", 
+    "pkg": "reglookup", 
+    "pkg_version": "1.0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "reglookup_0.12.0-1ubuntu2_i386.deb", 
+    "pkg": "reglookup", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "reglookup_0.12.0-1ubuntu2_i386.deb", 
+    "pkg": "reglookup", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

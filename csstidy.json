@@ -1,0 +1,109 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "csstidy-1.4-alt1_12.x86_64.rpm", 
+    "pkg": "csstidy", 
+    "pkg_version": "1.4", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "csstidy-1.4-1.el5.x86_64.rpm", 
+    "pkg": "csstidy", 
+    "pkg_version": "1.4", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "csstidy_1.4-3_i386.deb", 
+    "pkg": "csstidy", 
+    "pkg_version": "1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "csstidy_1.4-3_i386.deb", 
+    "pkg": "csstidy", 
+    "pkg_version": "1.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "csstidy_1.4-3_i386.deb", 
+    "pkg": "csstidy", 
+    "pkg_version": "1.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "csstidy-1.4-12.fc22.x86_64.rpm", 
+    "pkg": "csstidy", 
+    "pkg_version": "1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "csstidy-1.4-12.fc22.x86_64.rpm", 
+    "pkg": "csstidy", 
+    "pkg_version": "1.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "csstidy-1.4-12.fc21.x86_64.rpm", 
+    "pkg": "csstidy", 
+    "pkg_version": "1.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Olea", 
+    "pkg_full_name": "csstidy-1.2-1olea.i386.rpm", 
+    "pkg": "csstidy", 
+    "pkg_version": "1.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "csstidy-1.4-i686-3sl.txz", 
+    "pkg": "csstidy", 
+    "pkg_version": "1.4", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "csstidy_1.4-3_i386.deb", 
+    "pkg": "csstidy", 
+    "pkg_version": "1.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "csstidy_1.4-3_i386.deb", 
+    "pkg": "csstidy", 
+    "pkg_version": "1.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

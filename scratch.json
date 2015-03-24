@@ -1,0 +1,162 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "scratch-1.4.0.7-alt2.noarch.rpm", 
+    "pkg": "scratch", 
+    "pkg_version": "1.4.0.7", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "scratch-1.4.0.7-5-x86_64.pkg.tar.xz", 
+    "pkg": "scratch", 
+    "pkg_version": "1.4.0.7", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scratch_1.4.0.6~dfsg1-5_all.deb", 
+    "pkg": "scratch", 
+    "pkg_version": "1.4.0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scratch_1.4.0.6~dfsg1-5_all.deb", 
+    "pkg": "scratch", 
+    "pkg_version": "1.4.0.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scratch_1.4.0.6~dfsg1-4_all.deb", 
+    "pkg": "scratch", 
+    "pkg_version": "1.4.0.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "scratch-1.4.0.7-8.fc22.noarch.rpm", 
+    "pkg": "scratch", 
+    "pkg_version": "1.4.0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "scratch-1.4.0.7-8.fc22.noarch.rpm", 
+    "pkg": "scratch", 
+    "pkg_version": "1.4.0.7", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "scratch-1.4.0.7-7.fc21.noarch.rpm", 
+    "pkg": "scratch", 
+    "pkg_version": "1.4.0.7", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Olea", 
+    "pkg_full_name": "scratch-1.4.0.6-1.i686.rpm", 
+    "pkg": "scratch", 
+    "pkg_version": "1.4.0.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "scratch-1.4.0.7-3-omv2015.0.x86_64.rpm", 
+    "pkg": "scratch", 
+    "pkg_version": "1.4.0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "scratch-1.4.0.7-1-mdv2013.0.x86_64.rpm", 
+    "pkg": "scratch", 
+    "pkg_version": "1.4.0.7", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "scratch-1.4.0.7-1-mdv2013.0.x86_64.rpm", 
+    "pkg": "scratch", 
+    "pkg_version": "1.4.0.7", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "scratch-1.4.0-3.8.x86_64.rpm", 
+    "pkg": "scratch", 
+    "pkg_version": "1.4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "scratch-1.4.0-3.1.x86_64.rpm", 
+    "pkg": "scratch", 
+    "pkg_version": "1.4.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "scratch-1.4.0-3.1.x86_64.rpm", 
+    "pkg": "scratch", 
+    "pkg_version": "1.4.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "scratch-1.4.0.7-4-rosa2014.1.x86_64.rpm", 
+    "pkg": "scratch", 
+    "pkg_version": "1.4.0.7", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "scratch-1.4.0.7-3-rosa2012.1.x86_64.rpm", 
+    "pkg": "scratch", 
+    "pkg_version": "1.4.0.7", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "scratch_1.4.0.6~dfsg1-5_all.deb", 
+    "pkg": "scratch", 
+    "pkg_version": "1.4.0.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

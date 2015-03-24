@@ -1,0 +1,190 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "pluma-1.8.1-1-x86_64.pkg.tar.xz", 
+    "pkg": "pluma", 
+    "pkg_version": "1.8.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "pluma-1.8.1-1.el7.x86_64.rpm", 
+    "pkg": "pluma", 
+    "pkg_version": "1.8.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pluma_1.8.1+dfsg1-2_i386.deb", 
+    "pkg": "pluma", 
+    "pkg_version": "1.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pluma_1.8.1+dfsg1-2_i386.deb", 
+    "pkg": "pluma", 
+    "pkg_version": "1.8.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "pluma_1.8.1+dfsg1-2~bpo70+1_i386.deb", 
+    "pkg": "pluma", 
+    "pkg_version": "1.8.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pluma-1.9.1-1.fc22.x86_64.rpm", 
+    "pkg": "pluma", 
+    "pkg_version": "1.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pluma-1.9.1-1.fc22.x86_64.rpm", 
+    "pkg": "pluma", 
+    "pkg_version": "1.9.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pluma-1.8.1-3.fc21.x86_64.rpm", 
+    "pkg": "pluma", 
+    "pkg_version": "1.8.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "pluma-1.8.1-2.fc20.x86_64.rpm", 
+    "pkg": "pluma", 
+    "pkg_version": "1.8.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "mate-text-editor-1.6.2-1.mga4.x86_64.rpm", 
+    "pkg": "mate-text-editor", 
+    "pkg_version": "1.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "pluma-1.8.0-1-omv2014.1.x86_64.rpm", 
+    "pkg": "pluma", 
+    "pkg_version": "1.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "mate-text-editor-1.6.2-1.mga4.x86_64.rpm", 
+    "pkg": "mate-text-editor", 
+    "pkg_version": "1.6.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "pluma-1.8.0-2-omv2014.0.x86_64.rpm", 
+    "pkg": "pluma", 
+    "pkg_version": "1.8.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "mate-text-editor-1.6.2-1.mga4.x86_64.rpm", 
+    "pkg": "mate-text-editor", 
+    "pkg_version": "1.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pluma-1.8.1-4.2.x86_64.rpm", 
+    "pkg": "pluma", 
+    "pkg_version": "1.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "mate-text-editor-1.6.2-1.mga4.x86_64.rpm", 
+    "pkg": "mate-text-editor", 
+    "pkg_version": "1.6.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "pluma-1.8.1-2.4.1.x86_64.rpm", 
+    "pkg": "pluma", 
+    "pkg_version": "1.8.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "mate-text-editor-1.6.2-1.mga4.x86_64.rpm", 
+    "pkg": "mate-text-editor", 
+    "pkg_version": "1.6.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "pluma-1.8.0-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "pluma", 
+    "pkg_version": "1.8.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "mate-text-editor-1.6.2-1.mga4.x86_64.rpm", 
+    "pkg": "mate-text-editor", 
+    "pkg_version": "1.6.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "pluma-1.8.0-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "pluma", 
+    "pkg_version": "1.8.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

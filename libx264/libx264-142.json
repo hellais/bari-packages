@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libx264-142_0.142.2431+gita5831aa-1+b2_i386.deb", 
+    "pkg": "libx264-142", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libx264-142_0.142.2431+gita5831aa-1+b2_i386.deb", 
+    "pkg": "libx264-142", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "libx264-142-0.142svn20141218-1.1.x86_64.rpm", 
+    "pkg": "libx264-142", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "libx264-142-0.142svn20141218-1.1.x86_64.rpm", 
+    "pkg": "libx264-142", 
+    "pkg_version": "0.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libx264-142_0.142.2431+gita5831aa-1ubuntu1_i386.deb", 
+    "pkg": "libx264-142", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

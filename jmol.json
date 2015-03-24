@@ -1,0 +1,261 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "jmol-13.2.4-alt1_1jpp7.noarch.rpm", 
+    "pkg": "jmol-1", 
+    "pkg_version": "3.2.4", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "jmol-14.2.13-1-any.pkg.tar.xz", 
+    "pkg": "jmol-1", 
+    "pkg_version": "4.2.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "jmol-11.6-11.11223svn.el5.noarch.rpm", 
+    "pkg": "jmol-1", 
+    "pkg_version": "1.6", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jmol_12.2.32+dfsg2-1_all.deb", 
+    "pkg": "jmol_1", 
+    "pkg_version": "2.2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "jmol-11.6-11.11223svn.el5.noarch.rpm", 
+    "pkg": "jmol-1", 
+    "pkg_version": "1.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jmol_12.2.32+dfsg2-1_all.deb", 
+    "pkg": "jmol_1", 
+    "pkg_version": "2.2.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "jmol-11.6-11.11223svn.el5.noarch.rpm", 
+    "pkg": "jmol-1", 
+    "pkg_version": "1.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jmol_12.2.32+dfsg2-1_all.deb", 
+    "pkg": "jmol_1", 
+    "pkg_version": "2.2.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "jmol-11.6-11.11223svn.el5.noarch.rpm", 
+    "pkg": "jmol-1", 
+    "pkg_version": "1.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jmol_12.2.32+dfsg2-1_all.deb", 
+    "pkg": "jmol_1", 
+    "pkg_version": "2.2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "jmol-14.2.12-2.2015.01.22.fc22.noarch.rpm", 
+    "pkg": "jmol-1", 
+    "pkg_version": "4.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jmol_12.2.32+dfsg2-1_all.deb", 
+    "pkg": "jmol_1", 
+    "pkg_version": "2.2.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "jmol-14.2.12-2.2015.01.22.fc22.noarch.rpm", 
+    "pkg": "jmol-1", 
+    "pkg_version": "4.2.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jmol_12.2.32+dfsg2-1_all.deb", 
+    "pkg": "jmol_1", 
+    "pkg_version": "2.2.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "jmol-14.2.12-1.2015.01.22.fc21.noarch.rpm", 
+    "pkg": "jmol-1", 
+    "pkg_version": "4.2.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jmol_12.2.32+dfsg2-1_all.deb", 
+    "pkg": "jmol_1", 
+    "pkg_version": "2.2.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "jmol-14.2.12-1.2015.01.22.fc20.noarch.rpm", 
+    "pkg": "jmol-1", 
+    "pkg_version": "4.2.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jmol_12.2.32+dfsg2-1_all.deb", 
+    "pkg": "jmol_1", 
+    "pkg_version": "2.2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "jmol-13.2.4-1.0-omv2015.0.noarch.rpm", 
+    "pkg": "jmol-1", 
+    "pkg_version": "3.2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jmol_12.2.32+dfsg2-1_all.deb", 
+    "pkg": "jmol_1", 
+    "pkg_version": "2.2.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "jmol-13.2.4-1.0-omv2014.0.noarch.rpm", 
+    "pkg": "jmol-1", 
+    "pkg_version": "3.2.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jmol_12.2.32+dfsg2-1_all.deb", 
+    "pkg": "jmol_1", 
+    "pkg_version": "2.2.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "jmol-12.0.22-2-omv2013.0.x86_64.rpm", 
+    "pkg": "jmol-1", 
+    "pkg_version": "2.0.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jmol_12.2.32+dfsg2-1_all.deb", 
+    "pkg": "jmol_1", 
+    "pkg_version": "2.2.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "jmol-12.0.22-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "jmol-1", 
+    "pkg_version": "2.0.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "jmol_12.2.32+dfsg2-1_all.deb", 
+    "pkg": "jmol_1", 
+    "pkg_version": "2.2.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "jmol-12.0.22-1-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "jmol-1", 
+    "pkg_version": "2.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "jmol_12.2.32+dfsg2-1_all.deb", 
+    "pkg": "jmol_1", 
+    "pkg_version": "2.2.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "jmol-12.0.22-1-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "jmol-1", 
+    "pkg_version": "2.0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

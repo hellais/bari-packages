@@ -1,0 +1,200 @@
+[
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "tnftp-0.0.20050625-1.2.el5.rf.x86_64.rpm", 
+    "pkg": "tnftp", 
+    "pkg_version": "0.0.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "tnftp-0.0.20050625-1.2.el5.rf.x86_64.rpm", 
+    "pkg": "tnftp", 
+    "pkg_version": "0.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "tnftp-0.0.20050625-1.2.el5.rf.x86_64.rpm", 
+    "pkg": "tnftp", 
+    "pkg_version": "0.0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "tnftp-0.0.20050625-1.2.el5.rf.x86_64.rpm", 
+    "pkg": "tnftp", 
+    "pkg_version": "0.0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "tnftp-0.0.20050625-1.2.el5.rf.x86_64.rpm", 
+    "pkg": "tnftp", 
+    "pkg_version": "0.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "tnftp-0.0.20050625-1.2.el5.rf.x86_64.rpm", 
+    "pkg": "tnftp", 
+    "pkg_version": "0.0.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "tnftp-0.0.20050625-1.2.el5.rf.x86_64.rpm", 
+    "pkg": "tnftp", 
+    "pkg_version": "0.0.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "tnftp-0.0.20050625-1.2.el5.rf.x86_64.rpm", 
+    "pkg": "tnftp", 
+    "pkg_version": "0.0.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "tnftp-0.0.20050625-1.2.el5.rf.x86_64.rpm", 
+    "pkg": "tnftp", 
+    "pkg_version": "0.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "tnftp-20130505-1.2.x86_64.rpm", 
+    "pkg": "tnftp-20130505", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "tnftp-0.0.20050625-1.2.el5.rf.x86_64.rpm", 
+    "pkg": "tnftp", 
+    "pkg_version": "0.0.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "tnftp-20130505-4.4.1.x86_64.rpm", 
+    "pkg": "tnftp-20130505", 
+    "pkg_version": "4.4.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "tnftp-20100108-4.1.2.x86_64.rpm", 
+    "pkg": "tnftp-20100108", 
+    "pkg_version": "4.1.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "tnftp-0.0.20050625-1.2.el5.rf.x86_64.rpm", 
+    "pkg": "tnftp", 
+    "pkg_version": "0.0.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "tnftp-20130505-4.4.1.x86_64.rpm", 
+    "pkg": "tnftp-20130505", 
+    "pkg_version": "4.4.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "tnftp-20100108-2.4.1.x86_64.rpm", 
+    "pkg": "tnftp-20100108", 
+    "pkg_version": "2.4.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "tnftp-0.0.20050625-1.2.el5.rf.x86_64.rpm", 
+    "pkg": "tnftp", 
+    "pkg_version": "0.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "tnftp-20130505-4.4.1.x86_64.rpm", 
+    "pkg": "tnftp-20130505", 
+    "pkg_version": "4.4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "tnftp-20100108-2.4.1.x86_64.rpm", 
+    "pkg": "tnftp-20100108", 
+    "pkg_version": "2.4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "tnftp-0.0.20050625-1.2.el5.rf.x86_64.rpm", 
+    "pkg": "tnftp", 
+    "pkg_version": "0.0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "tnftp-20130505-4.4.1.x86_64.rpm", 
+    "pkg": "tnftp-20130505", 
+    "pkg_version": "4.4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "tnftp-20100108-2.4.1.x86_64.rpm", 
+    "pkg": "tnftp-20100108", 
+    "pkg_version": "2.4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

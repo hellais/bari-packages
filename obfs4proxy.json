@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "obfs4proxy_0.0.4-1_i386.deb", 
+    "pkg": "obfs4proxy", 
+    "pkg_version": "0.0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

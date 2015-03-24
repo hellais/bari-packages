@@ -1,0 +1,306 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "scorched3d-43.3d-alt2.2.x86_64.rpm", 
+    "pkg": "scorched3d-4", 
+    "pkg_version": "3.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "scorched3d-43.3d-alt2.2.x86_64.rpm", 
+    "pkg": "scorched3d-4", 
+    "pkg_version": "3.3", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "scorched3d-43.3d-alt2.2.x86_64.rpm", 
+    "pkg": "scorched3d-4", 
+    "pkg_version": "3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scorched3d_43.3.d+dfsg-1.1+b1_i386.deb", 
+    "pkg": "scorched3d_4", 
+    "pkg_version": "3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "scorched3d-43.3d-alt2.2.x86_64.rpm", 
+    "pkg": "scorched3d-4", 
+    "pkg_version": "3.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scorched3d_43.3.d+dfsg-1.1+b1_i386.deb", 
+    "pkg": "scorched3d_4", 
+    "pkg_version": "3.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "scorched3d-43.3d-alt2.2.x86_64.rpm", 
+    "pkg": "scorched3d-4", 
+    "pkg_version": "3.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scorched3d_43.2a.dfsg-6.1_i386.deb", 
+    "pkg": "scorched3d_4", 
+    "pkg_version": "3.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "scorched3d-43.3d-alt2.2.x86_64.rpm", 
+    "pkg": "scorched3d-4", 
+    "pkg_version": "3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scorched3d_43.2a.dfsg-6.1_i386.deb", 
+    "pkg": "scorched3d_4", 
+    "pkg_version": "3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "scorched3d-43.3d-alt2.2.x86_64.rpm", 
+    "pkg": "scorched3d-4", 
+    "pkg_version": "3.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scorched3d_43.2a.dfsg-6.1_i386.deb", 
+    "pkg": "scorched3d_4", 
+    "pkg_version": "3.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "scorched3d-43.3d-alt2.2.x86_64.rpm", 
+    "pkg": "scorched3d-4", 
+    "pkg_version": "3.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scorched3d_43.2a.dfsg-6.1_i386.deb", 
+    "pkg": "scorched3d_4", 
+    "pkg_version": "3.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "scorched3d-43.3d-9.fc20.x86_64.rpm", 
+    "pkg": "scorched3d-4", 
+    "pkg_version": "3.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scorched3d_43.2a.dfsg-6.1_i386.deb", 
+    "pkg": "scorched3d_4", 
+    "pkg_version": "3.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "scorched3d-43.3-3-omv2015.0.x86_64.rpm", 
+    "pkg": "scorched3d-4", 
+    "pkg_version": "3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scorched3d_43.2a.dfsg-6.1_i386.deb", 
+    "pkg": "scorched3d_4", 
+    "pkg_version": "3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib Updates", 
+    "pkg_full_name": "scorched3d-43.3-6-omv2014.0.x86_64.rpm", 
+    "pkg": "scorched3d-4", 
+    "pkg_version": "3.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scorched3d_43.2a.dfsg-6.1_i386.deb", 
+    "pkg": "scorched3d_4", 
+    "pkg_version": "3.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "scorched3d-43.3-6-omv2013.0.x86_64.rpm", 
+    "pkg": "scorched3d-4", 
+    "pkg_version": "3.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scorched3d_43.2a.dfsg-6.1_i386.deb", 
+    "pkg": "scorched3d_4", 
+    "pkg_version": "3.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "scorched3d-43.3d-3.103.x86_64.rpm", 
+    "pkg": "scorched3d-4", 
+    "pkg_version": "3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scorched3d_43.2a.dfsg-6.1_i386.deb", 
+    "pkg": "scorched3d_4", 
+    "pkg_version": "3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "scorched3d-43.3d-3.13.x86_64.rpm", 
+    "pkg": "scorched3d-4", 
+    "pkg_version": "3.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scorched3d_43.2a.dfsg-6.1_i386.deb", 
+    "pkg": "scorched3d_4", 
+    "pkg_version": "3.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "scorched3d-43.3d-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "scorched3d-4", 
+    "pkg_version": "3.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scorched3d_43.2a.dfsg-6.1_i386.deb", 
+    "pkg": "scorched3d_4", 
+    "pkg_version": "3.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "scorched3d-43.3-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "scorched3d-4", 
+    "pkg_version": "3.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scorched3d_43.2a.dfsg-6.1_i386.deb", 
+    "pkg": "scorched3d_4", 
+    "pkg_version": "3.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "scorched3d-43.3-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "scorched3d-4", 
+    "pkg_version": "3.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "scorched3d_43.3.d+dfsg-1.1_i386.deb", 
+    "pkg": "scorched3d_4", 
+    "pkg_version": "3.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "scorched3d-43.3-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "scorched3d-4", 
+    "pkg_version": "3.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "scorched3d_43.3.d+dfsg-1_i386.deb", 
+    "pkg": "scorched3d_4", 
+    "pkg_version": "3.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

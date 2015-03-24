@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vpcs_0.5b2-1_i386.deb", 
+    "pkg": "vpcs", 
+    "pkg_version": "0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vpcs_0.5b2-1_i386.deb", 
+    "pkg": "vpcs", 
+    "pkg_version": "0.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "vpcs-0.4b2-2.1.x86_64.rpm", 
+    "pkg": "vpcs", 
+    "pkg_version": "0.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "vpcs-0.4b2-2.1.x86_64.rpm", 
+    "pkg": "vpcs", 
+    "pkg_version": "0.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "vpcs-0.6-2.2.x86_64.rpm", 
+    "pkg": "vpcs", 
+    "pkg_version": "0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "vpcs-0.5b2-3.1.5.x86_64.rpm", 
+    "pkg": "vpcs", 
+    "pkg_version": "0.5", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "vpcs-0.6-17.1.x86_64.rpm", 
+    "pkg": "vpcs", 
+    "pkg_version": "0.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "vpcs_0.5b2-1_i386.deb", 
+    "pkg": "vpcs", 
+    "pkg_version": "0.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libonig2_5.9.6-1_i386.deb", 
+    "pkg": "libonig2", 
+    "pkg_version": "5.9.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libonig2_5.9.5-3.2_i386.deb", 
+    "pkg": "libonig2", 
+    "pkg_version": "5.9.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libonig2_5.9.1-1_i386.deb", 
+    "pkg": "libonig2", 
+    "pkg_version": "5.9.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libonig2-5.9.3-12-omv2015.0.i586.rpm", 
+    "pkg": "libonig2", 
+    "pkg_version": "5.9.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libonig2-5.9.3-6-omv2014.0.i586.rpm", 
+    "pkg": "libonig2", 
+    "pkg_version": "5.9.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libonig2-5.9.3-4-omv2013.0.i586.rpm", 
+    "pkg": "libonig2", 
+    "pkg_version": "5.9.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libonig2-5.9.5-1.3.x86_64.rpm", 
+    "pkg": "libonig2", 
+    "pkg_version": "5.9.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libonig2-5.9.5-1.2.x86_64.rpm", 
+    "pkg": "libonig2", 
+    "pkg_version": "5.9.5", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libonig2-5.9.2-10.1.2.i586.rpm", 
+    "pkg": "libonig2", 
+    "pkg_version": "5.9.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libonig2-5.9.2-4-rosa2014.1.i586.rpm", 
+    "pkg": "libonig2", 
+    "pkg_version": "5.9.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libonig2-5.9.2-3-rosa2012.1.i586.rpm", 
+    "pkg": "libonig2", 
+    "pkg_version": "5.9.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libonig2_5.9.5-2_i386.deb", 
+    "pkg": "libonig2", 
+    "pkg_version": "5.9.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libonig2_5.9.1-1ubuntu1_i386.deb", 
+    "pkg": "libonig2", 
+    "pkg_version": "5.9.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

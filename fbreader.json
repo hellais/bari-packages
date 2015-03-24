@@ -1,0 +1,216 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "fbreader-0.12.10-alt3.x86_64.rpm", 
+    "pkg": "fbreader", 
+    "pkg_version": "0.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "fbreader-0.99.4-4-x86_64.pkg.tar.xz", 
+    "pkg": "fbreader", 
+    "pkg_version": "0.9", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "fbreader-0.12.10-5.el6.x86_64.rpm", 
+    "pkg": "fbreader", 
+    "pkg_version": "0.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "fbreader-0.8.9-1.el5.rf.x86_64.rpm", 
+    "pkg": "fbreader", 
+    "pkg_version": "0.8.9", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fbreader_0.12.10dfsg-9.1+b1_i386.deb", 
+    "pkg": "fbreader", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fbreader_0.12.10dfsg-9.1+b1_i386.deb", 
+    "pkg": "fbreader", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fbreader_0.12.10dfsg-8_i386.deb", 
+    "pkg": "fbreader", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "fbreader-0.12.10-16.fc22.x86_64.rpm", 
+    "pkg": "fbreader", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "fbreader-0.12.10-16.fc22.x86_64.rpm", 
+    "pkg": "fbreader", 
+    "pkg_version": "0.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "fbreader-0.12.10-16.fc21.x86_64.rpm", 
+    "pkg": "fbreader", 
+    "pkg_version": "0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "fbreader-0.12.10-14.fc20.x86_64.rpm", 
+    "pkg": "fbreader", 
+    "pkg_version": "0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "fbreader-0.99.5-0.2-omv2015.0.x86_64.rpm", 
+    "pkg": "fbreader", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib Updates", 
+    "pkg_full_name": "fbreader-0.99.5-0.1-omv2014.0.x86_64.rpm", 
+    "pkg": "fbreader", 
+    "pkg_version": "0.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "fbreader-0.99.5-0.1-omv2013.0.x86_64.rpm", 
+    "pkg": "fbreader", 
+    "pkg_version": "0.9", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "fbreader-0.12.10-16.2.x86_64.rpm", 
+    "pkg": "fbreader", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "fbreader-0.12.10-15.1.10.x86_64.rpm", 
+    "pkg": "fbreader", 
+    "pkg_version": "0.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "fbreader-0.12.10-13.1.3.i586.rpm", 
+    "pkg": "fbreader", 
+    "pkg_version": "0.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "fbreader-0.99.5-0.2-rosa2014.1.x86_64.rpm", 
+    "pkg": "fbreader", 
+    "pkg_version": "0.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "fbreader-0.99.5-0.1-rosa2012.1.x86_64.rpm", 
+    "pkg": "fbreader", 
+    "pkg_version": "0.9", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackel", 
+    "pkg_full_name": "fbreader-0.99.4-x86_64-1dj.txz", 
+    "pkg": "fbreader", 
+    "pkg_version": "0.9", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "fbreader-0.99.2-x86_64-1dj.txz", 
+    "pkg": "fbreader", 
+    "pkg_version": "0.9", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "fbreader-0.12.10-x86_64-2dj.txz", 
+    "pkg": "fbreader", 
+    "pkg_version": "0.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "fbreader_0.12.10dfsg-9_i386.deb", 
+    "pkg": "fbreader", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "fbreader_0.12.10dfsg-9_i386.deb", 
+    "pkg": "fbreader", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

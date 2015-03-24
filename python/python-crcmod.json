@@ -1,0 +1,101 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-crcmod_1.7-1+b1_i386.deb", 
+    "pkg": "python-crcmod", 
+    "pkg_version": "1.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-crcmod_1.7-1+b1_i386.deb", 
+    "pkg": "python-crcmod", 
+    "pkg_version": "1.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-crcmod-1.7-4-omv2015.0.x86_64.rpm", 
+    "pkg": "python-crcmod", 
+    "pkg_version": "1.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-crcmod-1.7-3-omv2013.0.x86_64.rpm", 
+    "pkg": "python-crcmod", 
+    "pkg_version": "1.7", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-crcmod-1.7-3-omv2013.0.x86_64.rpm", 
+    "pkg": "python-crcmod", 
+    "pkg_version": "1.7", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-crcmod-1.7-6.2.x86_64.rpm", 
+    "pkg": "python-crcmod", 
+    "pkg_version": "1.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-crcmod-1.7-5.1.4.x86_64.rpm", 
+    "pkg": "python-crcmod", 
+    "pkg_version": "1.7", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-crcmod-1.7-2.1.2.i586.rpm", 
+    "pkg": "python-crcmod", 
+    "pkg_version": "1.7", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "python-crcmod-1.7-4-rosa2014.1.x86_64.rpm", 
+    "pkg": "python-crcmod", 
+    "pkg_version": "1.7", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "python-crcmod-1.7-3-rosa2012.1.x86_64.rpm", 
+    "pkg": "python-crcmod", 
+    "pkg_version": "1.7", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-crcmod_1.7-1_i386.deb", 
+    "pkg": "python-crcmod", 
+    "pkg_version": "1.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

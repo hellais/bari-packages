@@ -1,0 +1,458 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "jack2-1.9.10-1-x86_64.pkg.tar.xz", 
+    "pkg": "jack2", 
+    "pkg_version": "1.9.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "jack-0.124.1-3-x86_64.pkg.tar.xz", 
+    "pkg": "jack", 
+    "pkg_version": "0.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "jack2-dbus-1.9.10-1-x86_64.pkg.tar.xz", 
+    "pkg": "jack2-dbus", 
+    "pkg_version": "1.9.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "jack2-1.9.10-1-x86_64.pkg.tar.xz", 
+    "pkg": "jack2", 
+    "pkg_version": "1.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jack_3.1.1+cvs20050801-29_i386.deb", 
+    "pkg": "jack", 
+    "pkg_version": "3.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "jack2-dbus-1.9.10-1-x86_64.pkg.tar.xz", 
+    "pkg": "jack2-dbus", 
+    "pkg_version": "1.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "jack2-1.9.10-1-x86_64.pkg.tar.xz", 
+    "pkg": "jack2", 
+    "pkg_version": "1.9.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jack_3.1.1+cvs20050801-29_i386.deb", 
+    "pkg": "jack", 
+    "pkg_version": "3.1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "jack2-dbus-1.9.10-1-x86_64.pkg.tar.xz", 
+    "pkg": "jack2-dbus", 
+    "pkg_version": "1.9.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "jack2-1.9.10-1-x86_64.pkg.tar.xz", 
+    "pkg": "jack2", 
+    "pkg_version": "1.9.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jack_3.1.1+cvs20050801-29_i386.deb", 
+    "pkg": "jack", 
+    "pkg_version": "3.1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "jack2-dbus-1.9.10-1-x86_64.pkg.tar.xz", 
+    "pkg": "jack2-dbus", 
+    "pkg_version": "1.9.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "jack2-1.9.10-1-x86_64.pkg.tar.xz", 
+    "pkg": "jack2", 
+    "pkg_version": "1.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "jack-3.1.1-9-omv2013.0.x86_64.rpm", 
+    "pkg": "jack", 
+    "pkg_version": "3.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "jack2-dbus-1.9.10-1-x86_64.pkg.tar.xz", 
+    "pkg": "jack2-dbus", 
+    "pkg_version": "1.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "jack2-1.9.10-1-x86_64.pkg.tar.xz", 
+    "pkg": "jack2", 
+    "pkg_version": "1.9.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib Updates", 
+    "pkg_full_name": "jack-3.1.1-10-omv2014.0.x86_64.rpm", 
+    "pkg": "jack", 
+    "pkg_version": "3.1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "jack2-dbus-1.9.10-1-x86_64.pkg.tar.xz", 
+    "pkg": "jack2-dbus", 
+    "pkg_version": "1.9.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "jack2-1.9.10-1-x86_64.pkg.tar.xz", 
+    "pkg": "jack2", 
+    "pkg_version": "1.9.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "jack-3.1.1-9-omv2013.0.x86_64.rpm", 
+    "pkg": "jack", 
+    "pkg_version": "3.1.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "jack2-dbus-1.9.10-1-x86_64.pkg.tar.xz", 
+    "pkg": "jack2-dbus", 
+    "pkg_version": "1.9.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "jack2-1.9.10-1-x86_64.pkg.tar.xz", 
+    "pkg": "jack2", 
+    "pkg_version": "1.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "jack-1.9.10-2.1.x86_64.rpm", 
+    "pkg": "jack", 
+    "pkg_version": "1.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "jack2-dbus-1.9.10-1-x86_64.pkg.tar.xz", 
+    "pkg": "jack2-dbus", 
+    "pkg_version": "1.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "jack2-1.9.10-1-x86_64.pkg.tar.xz", 
+    "pkg": "jack2", 
+    "pkg_version": "1.9.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "jack-1.9.10-1.1.x86_64.rpm", 
+    "pkg": "jack", 
+    "pkg_version": "1.9.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "jack2-dbus-1.9.10-1-x86_64.pkg.tar.xz", 
+    "pkg": "jack2-dbus", 
+    "pkg_version": "1.9.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "jack2-1.9.10-1-x86_64.pkg.tar.xz", 
+    "pkg": "jack2", 
+    "pkg_version": "1.9.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "jack-1.9.9.5-5.1.2.i586.rpm", 
+    "pkg": "jack", 
+    "pkg_version": "1.9.9.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "jack2-dbus-1.9.10-1-x86_64.pkg.tar.xz", 
+    "pkg": "jack2-dbus", 
+    "pkg_version": "1.9.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "jack2-1.9.10-1-x86_64.pkg.tar.xz", 
+    "pkg": "jack2", 
+    "pkg_version": "1.9.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "jack-3.1.1-10-rosa2014.1.x86_64.rpm", 
+    "pkg": "jack", 
+    "pkg_version": "3.1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "jack2-dbus-1.9.10-1-x86_64.pkg.tar.xz", 
+    "pkg": "jack2-dbus", 
+    "pkg_version": "1.9.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "jack2-1.9.10-1-x86_64.pkg.tar.xz", 
+    "pkg": "jack2", 
+    "pkg_version": "1.9.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "jack-3.1.1-9-rosa2012.1.x86_64.rpm", 
+    "pkg": "jack", 
+    "pkg_version": "3.1.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "jack2-dbus-1.9.10-1-x86_64.pkg.tar.xz", 
+    "pkg": "jack2-dbus", 
+    "pkg_version": "1.9.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "jack2-1.9.10-1-x86_64.pkg.tar.xz", 
+    "pkg": "jack2", 
+    "pkg_version": "1.9.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "jack-1.9.9.5-i486-1sl.txz", 
+    "pkg": "jack", 
+    "pkg_version": "1.9.9.5", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "jack2-dbus-1.9.10-1-x86_64.pkg.tar.xz", 
+    "pkg": "jack2-dbus", 
+    "pkg_version": "1.9.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "jack2-1.9.10-1-x86_64.pkg.tar.xz", 
+    "pkg": "jack2", 
+    "pkg_version": "1.9.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "jack-1.9.8-x86_64-1dj.txz", 
+    "pkg": "jack", 
+    "pkg_version": "1.9.8", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "jack2-dbus-1.9.10-1-x86_64.pkg.tar.xz", 
+    "pkg": "jack2-dbus", 
+    "pkg_version": "1.9.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "jack2-1.9.10-1-x86_64.pkg.tar.xz", 
+    "pkg": "jack2", 
+    "pkg_version": "1.9.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "SlackPack", 
+    "pkg_full_name": "jack-1.9.8-x86_64-1gds.txz", 
+    "pkg": "jack", 
+    "pkg_version": "1.9.8", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "jack2-dbus-1.9.10-1-x86_64.pkg.tar.xz", 
+    "pkg": "jack2-dbus", 
+    "pkg_version": "1.9.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "jack2-1.9.10-1-x86_64.pkg.tar.xz", 
+    "pkg": "jack2", 
+    "pkg_version": "1.9.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "jack_3.1.1+cvs20050801-29_i386.deb", 
+    "pkg": "jack", 
+    "pkg_version": "3.1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "jack2-dbus-1.9.10-1-x86_64.pkg.tar.xz", 
+    "pkg": "jack2-dbus", 
+    "pkg_version": "1.9.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "jack2-1.9.10-1-x86_64.pkg.tar.xz", 
+    "pkg": "jack2", 
+    "pkg_version": "1.9.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "jack_3.1.1+cvs20050801-29_i386.deb", 
+    "pkg": "jack", 
+    "pkg_version": "3.1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "jack2-dbus-1.9.10-1-x86_64.pkg.tar.xz", 
+    "pkg": "jack2-dbus", 
+    "pkg_version": "1.9.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

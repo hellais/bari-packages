@@ -1,0 +1,37 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ekiga-plugin-evolution-4.0.2-alt0.git.ebfdaa06.1.x86_64.rpm", 
+    "pkg": "ekiga-plugin-evolution", 
+    "pkg_version": "4.0.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ekiga-plugin-evolution_4.0.1-5_i386.deb", 
+    "pkg": "ekiga-plugin-evolution", 
+    "pkg_version": "4.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ekiga-plugin-evolution_4.0.1-5_i386.deb", 
+    "pkg": "ekiga-plugin-evolution", 
+    "pkg_version": "4.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ekiga-plugin-evolution_4.0.1-4build1_i386.deb", 
+    "pkg": "ekiga-plugin-evolution", 
+    "pkg_version": "4.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

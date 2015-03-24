@@ -1,0 +1,100 @@
+[
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "docbook-xml-4.5-6-any.pkg.tar.xz", 
+    "pkg": "docbook-xml", 
+    "pkg_version": "4.5", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "docbook-xml-5.0_1-4.jpp6.noarch.rpm", 
+    "pkg": "docbook-xml", 
+    "pkg_version": "5.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "docbook-xml-5.0_1-4.jpp6.noarch.rpm", 
+    "pkg": "docbook-xml", 
+    "pkg_version": "5.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "docbook-xml_4.5-7.2_all.deb", 
+    "pkg": "docbook-xml", 
+    "pkg_version": "4.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "docbook-xml_4.5-7.2_all.deb", 
+    "pkg": "docbook-xml", 
+    "pkg_version": "4.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "docbook-xml_4.5-7.2_all.deb", 
+    "pkg": "docbook-xml", 
+    "pkg_version": "4.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "docbook-xml-5.0_1-4.jpp6.noarch.rpm", 
+    "pkg": "docbook-xml", 
+    "pkg_version": "5.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "docbook-xml-5.0_1-4.jpp6.noarch.rpm", 
+    "pkg": "docbook-xml", 
+    "pkg_version": "5.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "docbook-xml-5.0_1-4.jpp6.noarch.rpm", 
+    "pkg": "docbook-xml", 
+    "pkg_version": "5.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "docbook-xml_4.5-7.2_all.deb", 
+    "pkg": "docbook-xml", 
+    "pkg_version": "4.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "docbook-xml_4.5-7.2_all.deb", 
+    "pkg": "docbook-xml", 
+    "pkg_version": "4.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

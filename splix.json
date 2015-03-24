@@ -1,0 +1,296 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "printer-driver-splix-2.0.0-alt2.svn306.x86_64.rpm", 
+    "pkg": "printer-driver-splix", 
+    "pkg_version": "2.0.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "splix-2.0.0-12-x86_64.pkg.tar.xz", 
+    "pkg": "splix", 
+    "pkg_version": "2.0.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "printer-driver-splix-2.0.0-alt2.svn306.x86_64.rpm", 
+    "pkg": "printer-driver-splix", 
+    "pkg_version": "2.0.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "splix-2.0.1-0.24.20130902svn.el7.x86_64.rpm", 
+    "pkg": "splix", 
+    "pkg_version": "2.0.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "printer-driver-splix-2.0.0-alt2.svn306.x86_64.rpm", 
+    "pkg": "printer-driver-splix", 
+    "pkg_version": "2.0.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "splix_2.0.0+svn315-4_all.deb", 
+    "pkg": "splix", 
+    "pkg_version": "2.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "printer-driver-splix-2.0.0-alt2.svn306.x86_64.rpm", 
+    "pkg": "printer-driver-splix", 
+    "pkg_version": "2.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "splix_2.0.0+svn315-4_all.deb", 
+    "pkg": "splix", 
+    "pkg_version": "2.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "printer-driver-splix-2.0.0-alt2.svn306.x86_64.rpm", 
+    "pkg": "printer-driver-splix", 
+    "pkg_version": "2.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "splix_2.0.0+svn306-2_all.deb", 
+    "pkg": "splix", 
+    "pkg_version": "2.0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "printer-driver-splix-2.0.0-alt2.svn306.x86_64.rpm", 
+    "pkg": "printer-driver-splix", 
+    "pkg_version": "2.0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "splix-2.0.1-0.24.20130902svn.fc22.x86_64.rpm", 
+    "pkg": "splix", 
+    "pkg_version": "2.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "printer-driver-splix-2.0.0-alt2.svn306.x86_64.rpm", 
+    "pkg": "printer-driver-splix", 
+    "pkg_version": "2.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "splix-2.0.1-0.24.20130902svn.fc22.x86_64.rpm", 
+    "pkg": "splix", 
+    "pkg_version": "2.0.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "printer-driver-splix-2.0.0-alt2.svn306.x86_64.rpm", 
+    "pkg": "printer-driver-splix", 
+    "pkg_version": "2.0.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "splix-2.0.1-0.24.20130902svn.fc21.x86_64.rpm", 
+    "pkg": "splix", 
+    "pkg_version": "2.0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "printer-driver-splix-2.0.0-alt2.svn306.x86_64.rpm", 
+    "pkg": "printer-driver-splix", 
+    "pkg_version": "2.0.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "splix-2.0.1-0.19.20130902svn.fc20.x86_64.rpm", 
+    "pkg": "splix", 
+    "pkg_version": "2.0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "printer-driver-splix-2.0.0-alt2.svn306.x86_64.rpm", 
+    "pkg": "printer-driver-splix", 
+    "pkg_version": "2.0.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "splix-2.0.0-23.3.x86_64.rpm", 
+    "pkg": "splix", 
+    "pkg_version": "2.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "printer-driver-splix-2.0.0-alt2.svn306.x86_64.rpm", 
+    "pkg": "printer-driver-splix", 
+    "pkg_version": "2.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "splix-2.0.0-21.2.7.x86_64.rpm", 
+    "pkg": "splix", 
+    "pkg_version": "2.0.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "printer-driver-splix-2.0.0-alt2.svn306.x86_64.rpm", 
+    "pkg": "printer-driver-splix", 
+    "pkg_version": "2.0.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "splix-2.0.0-17.1.3.i586.rpm", 
+    "pkg": "splix", 
+    "pkg_version": "2.0.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "printer-driver-splix-2.0.0-alt2.svn306.x86_64.rpm", 
+    "pkg": "printer-driver-splix", 
+    "pkg_version": "2.0.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "splix-2.0.0-17.1.3.i586.rpm", 
+    "pkg": "splix", 
+    "pkg_version": "2.0.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "printer-driver-splix-2.0.0-alt2.svn306.x86_64.rpm", 
+    "pkg": "printer-driver-splix", 
+    "pkg_version": "2.0.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "splix-2.0.0-17.1.3.i586.rpm", 
+    "pkg": "splix", 
+    "pkg_version": "2.0.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "printer-driver-splix-2.0.0-alt2.svn306.x86_64.rpm", 
+    "pkg": "printer-driver-splix", 
+    "pkg_version": "2.0.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "splix_2.0.0+svn315-4fakesync1_all.deb", 
+    "pkg": "splix", 
+    "pkg_version": "2.0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "printer-driver-splix-2.0.0-alt2.svn306.x86_64.rpm", 
+    "pkg": "printer-driver-splix", 
+    "pkg_version": "2.0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "splix_2.0.0+svn315-2fakesync1_all.deb", 
+    "pkg": "splix", 
+    "pkg_version": "2.0.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "printer-driver-splix-2.0.0-alt2.svn306.x86_64.rpm", 
+    "pkg": "printer-driver-splix", 
+    "pkg_version": "2.0.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

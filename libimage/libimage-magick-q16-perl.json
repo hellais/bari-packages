@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libimage-magick-q16-perl_6.8.9.9-5_i386.deb", 
+    "pkg": "libimage-magick-q16-perl", 
+    "pkg_version": "6.8.9.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

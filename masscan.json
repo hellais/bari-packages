@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Nux Misc", 
+    "pkg_full_name": "masscan-1.0.3-2.el7.nux.x86_64.rpm", 
+    "pkg": "masscan", 
+    "pkg_version": "1.0.3", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Nux Misc", 
+    "pkg_full_name": "masscan-1.0.3-2.el6.nux.x86_64.rpm", 
+    "pkg": "masscan", 
+    "pkg_version": "1.0.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "masscan_1.0.3-90-g2441f18~ds0-1_i386.deb", 
+    "pkg": "masscan", 
+    "pkg_version": "1.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "masscan_1.0.3-90-g2441f18~ds0-1_i386.deb", 
+    "pkg": "masscan", 
+    "pkg_version": "1.0.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "masscan-1.0.3-2.fc22.x86_64.rpm", 
+    "pkg": "masscan", 
+    "pkg_version": "1.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "masscan-1.0.3-2.fc22.x86_64.rpm", 
+    "pkg": "masscan", 
+    "pkg_version": "1.0.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "masscan-1.0.3-2.fc21.x86_64.rpm", 
+    "pkg": "masscan", 
+    "pkg_version": "1.0.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

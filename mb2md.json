@@ -1,0 +1,126 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "mb2md-3.20-alt1.noarch.rpm", 
+    "pkg": "mb2md", 
+    "pkg_version": "3.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "mb2md-3.20-4-any.pkg.tar.xz", 
+    "pkg": "mb2md", 
+    "pkg_version": "3.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "mb2md-3.20-2.at.noarch.rpm", 
+    "pkg": "mb2md", 
+    "pkg_version": "3.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "mb2md-3.20-5.el6.noarch.rpm", 
+    "pkg": "mb2md", 
+    "pkg_version": "3.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "mb2md-3.20-4.el5.noarch.rpm", 
+    "pkg": "mb2md", 
+    "pkg_version": "3.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mb2md_3.20-7_all.deb", 
+    "pkg": "mb2md", 
+    "pkg_version": "3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mb2md_3.20-7_all.deb", 
+    "pkg": "mb2md", 
+    "pkg_version": "3.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mb2md_3.20-4_all.deb", 
+    "pkg": "mb2md", 
+    "pkg_version": "3.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mb2md-3.20-12.fc21.noarch.rpm", 
+    "pkg": "mb2md", 
+    "pkg_version": "3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mb2md-3.20-12.fc21.noarch.rpm", 
+    "pkg": "mb2md", 
+    "pkg_version": "3.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mb2md-3.20-12.fc21.noarch.rpm", 
+    "pkg": "mb2md", 
+    "pkg_version": "3.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mb2md-3.20-11.fc20.noarch.rpm", 
+    "pkg": "mb2md", 
+    "pkg_version": "3.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mb2md_3.20-6_all.deb", 
+    "pkg": "mb2md", 
+    "pkg_version": "3.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mb2md_3.20-5_all.deb", 
+    "pkg": "mb2md", 
+    "pkg_version": "3.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

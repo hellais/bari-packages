@@ -1,0 +1,118 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "tagainijisho-dic-fr-1.0.1-alt1_4.noarch.rpm", 
+    "pkg": "tagainijisho-dic-fr", 
+    "pkg_version": "1.0.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "tagainijisho-dic-fr-1.0.3-1.el7.noarch.rpm", 
+    "pkg": "tagainijisho-dic-fr", 
+    "pkg_version": "1.0.3", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tagainijisho-dic-fr_1.0.2-1_all.deb", 
+    "pkg": "tagainijisho-dic-fr", 
+    "pkg_version": "1.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tagainijisho-dic-fr_1.0.2-1_all.deb", 
+    "pkg": "tagainijisho-dic-fr", 
+    "pkg_version": "1.0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tagainijisho-dic-fr_0.9.4-1_all.deb", 
+    "pkg": "tagainijisho-dic-fr", 
+    "pkg_version": "0.9.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "tagainijisho-dic-fr-1.0.3-1.fc23.noarch.rpm", 
+    "pkg": "tagainijisho-dic-fr", 
+    "pkg_version": "1.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "tagainijisho-dic-fr-1.0.1-4.fc22.noarch.rpm", 
+    "pkg": "tagainijisho-dic-fr", 
+    "pkg_version": "1.0.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "tagainijisho-dic-fr-1.0.3-1.fc21.noarch.rpm", 
+    "pkg": "tagainijisho-dic-fr", 
+    "pkg_version": "1.0.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "tagainijisho-dic-fr-1.0.1-2.fc20.noarch.rpm", 
+    "pkg": "tagainijisho-dic-fr", 
+    "pkg_version": "1.0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "tagainijisho-dic-fr-1.0.0-1.35.x86_64.rpm", 
+    "pkg": "tagainijisho-dic-fr", 
+    "pkg_version": "1.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "tagainijisho-dic-fr-1.0.0-1.10.x86_64.rpm", 
+    "pkg": "tagainijisho-dic-fr", 
+    "pkg_version": "1.0.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "tagainijisho-dic-fr_1.0.2-1_all.deb", 
+    "pkg": "tagainijisho-dic-fr", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "tagainijisho-dic-fr_1.0.1-1_all.deb", 
+    "pkg": "tagainijisho-dic-fr", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

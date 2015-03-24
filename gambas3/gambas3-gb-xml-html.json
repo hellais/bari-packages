@@ -1,0 +1,117 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gambas3-gb-xml-html-3.7.0-alt1.x86_64.rpm", 
+    "pkg": "gambas3-gb-xml-html", 
+    "pkg_version": "3.7.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "gambas3-gb-xml-html-3.6.2-6-x86_64.pkg.tar.xz", 
+    "pkg": "gambas3-gb-xml-html", 
+    "pkg_version": "3.6.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gambas3-gb-xml-html_3.5.4-2+b1_i386.deb", 
+    "pkg": "gambas3-gb-xml-html", 
+    "pkg_version": "3.5.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gambas3-gb-xml-html_3.5.4-2+b1_i386.deb", 
+    "pkg": "gambas3-gb-xml-html", 
+    "pkg_version": "3.5.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gambas3-gb-xml-html-3.6.1-3.fc22.x86_64.rpm", 
+    "pkg": "gambas3-gb-xml-html", 
+    "pkg_version": "3.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gambas3-gb-xml-html-3.6.1-3.fc22.x86_64.rpm", 
+    "pkg": "gambas3-gb-xml-html", 
+    "pkg_version": "3.6.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "gambas3-gb-xml-html-3.6.1-2.fc21.x86_64.rpm", 
+    "pkg": "gambas3-gb-xml-html", 
+    "pkg_version": "3.6.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "gambas3-gb-xml-html-3.6.1-1.fc20.x86_64.rpm", 
+    "pkg": "gambas3-gb-xml-html", 
+    "pkg_version": "3.6.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "gambas3-gb-xml-html-3.4.1-1-omv2013.0.x86_64.rpm", 
+    "pkg": "gambas3-gb-xml-html", 
+    "pkg_version": "3.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib Updates", 
+    "pkg_full_name": "gambas3-gb-xml-html-3.6.2-1-omv2014.0.x86_64.rpm", 
+    "pkg": "gambas3-gb-xml-html", 
+    "pkg_version": "3.6.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "gambas3-gb-xml-html-3.4.1-1-omv2013.0.x86_64.rpm", 
+    "pkg": "gambas3-gb-xml-html", 
+    "pkg_version": "3.4.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "gambas3-gb-xml-html-3.6.2-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "gambas3-gb-xml-html", 
+    "pkg_version": "3.6.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "gambas3-gb-xml-html-3.5.4-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "gambas3-gb-xml-html", 
+    "pkg_version": "3.5.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

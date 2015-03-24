@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Contrib", 
+    "pkg_full_name": "google-android-build-tools-installer_20.0.0.2_i386.deb", 
+    "pkg": "google-android-build-tools-installer_2", 
+    "pkg_version": "0.0.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

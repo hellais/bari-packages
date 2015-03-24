@@ -1,0 +1,218 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-decoratortools-1.8-6.el7.noarch.rpm", 
+    "pkg": "python-decoratortools", 
+    "pkg_version": "1.8", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "python-decoratortools-1.7-4.1.el6.noarch.rpm", 
+    "pkg": "python-decoratortools", 
+    "pkg_version": "1.7", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Scientific Linux Cyrillic Edition", 
+    "pkg_full_name": "python-decoratortools-1.7-1.el5.noarch.rpm", 
+    "pkg": "python-decoratortools", 
+    "pkg_version": "1.7", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-decoratortools_1.8-2_all.deb", 
+    "pkg": "python-decoratortools", 
+    "pkg_version": "1.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-decoratortools_1.8-2_all.deb", 
+    "pkg": "python-decoratortools", 
+    "pkg_version": "1.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-decoratortools_1.8-2_all.deb", 
+    "pkg": "python-decoratortools", 
+    "pkg_version": "1.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-decoratortools-1.8-9.fc21.noarch.rpm", 
+    "pkg": "python-decoratortools", 
+    "pkg_version": "1.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-decoratortools-1.8-9.fc21.noarch.rpm", 
+    "pkg": "python-decoratortools", 
+    "pkg_version": "1.8", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-decoratortools-1.8-9.fc21.noarch.rpm", 
+    "pkg": "python-decoratortools", 
+    "pkg_version": "1.8", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-decoratortools-1.8-7.fc20.noarch.rpm", 
+    "pkg": "python-decoratortools", 
+    "pkg_version": "1.8", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "python-decoratortools-1.8-4.mga4.noarch.rpm", 
+    "pkg": "python-decoratortools", 
+    "pkg_version": "1.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python2-decoratortools-1.8-10-omv2015.0.noarch.rpm", 
+    "pkg": "python2-decoratortools", 
+    "pkg_version": "1.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-decoratortools-1.8-3-omv2014.0.noarch.rpm", 
+    "pkg": "python-decoratortools", 
+    "pkg_version": "1.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python2-decoratortools-1.8-10-omv2015.0.noarch.rpm", 
+    "pkg": "python2-decoratortools", 
+    "pkg_version": "1.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-decoratortools-1.8-2-omv2013.0.noarch.rpm", 
+    "pkg": "python-decoratortools", 
+    "pkg_version": "1.8", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python2-decoratortools-1.8-10-omv2015.0.noarch.rpm", 
+    "pkg": "python2-decoratortools", 
+    "pkg_version": "1.8", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "python-decoratortools-1.8-3-rosa2014.1.noarch.rpm", 
+    "pkg": "python-decoratortools", 
+    "pkg_version": "1.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python2-decoratortools-1.8-10-omv2015.0.noarch.rpm", 
+    "pkg": "python2-decoratortools", 
+    "pkg_version": "1.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "python-decoratortools-1.8-2-rosa2012.1.noarch.rpm", 
+    "pkg": "python-decoratortools", 
+    "pkg_version": "1.8", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python2-decoratortools-1.8-10-omv2015.0.noarch.rpm", 
+    "pkg": "python2-decoratortools", 
+    "pkg_version": "1.8", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-decoratortools_1.8-2_all.deb", 
+    "pkg": "python-decoratortools", 
+    "pkg_version": "1.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python2-decoratortools-1.8-10-omv2015.0.noarch.rpm", 
+    "pkg": "python2-decoratortools", 
+    "pkg_version": "1.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-decoratortools_1.8-2_all.deb", 
+    "pkg": "python-decoratortools", 
+    "pkg_version": "1.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python2-decoratortools-1.8-10-omv2015.0.noarch.rpm", 
+    "pkg": "python2-decoratortools", 
+    "pkg_version": "1.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

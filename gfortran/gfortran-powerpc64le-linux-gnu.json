@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gfortran-powerpc64le-linux-gnu_4.9.2-2_all.deb", 
+    "pkg": "gfortran-powerpc64le-linux-gnu", 
+    "pkg_version": "4.9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gfortran-powerpc64le-linux-gnu_4.9.1-1_i386.deb", 
+    "pkg": "gfortran-powerpc64le-linux-gnu", 
+    "pkg_version": "4.9.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

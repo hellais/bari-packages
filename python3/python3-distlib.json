@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-distlib_0.1.9-1_all.deb", 
+    "pkg": "python3-distlib", 
+    "pkg_version": "0.1.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-distlib_0.1.9-1_all.deb", 
+    "pkg": "python3-distlib", 
+    "pkg_version": "0.1.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-distlib-0.1.9-1.fc21.noarch.rpm", 
+    "pkg": "python3-distlib", 
+    "pkg_version": "0.1.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-distlib-0.1.9-1.fc21.noarch.rpm", 
+    "pkg": "python3-distlib", 
+    "pkg_version": "0.1.9", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-distlib-0.1.9-1.fc21.noarch.rpm", 
+    "pkg": "python3-distlib", 
+    "pkg_version": "0.1.9", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python3-distlib_0.1.9-1_all.deb", 
+    "pkg": "python3-distlib", 
+    "pkg_version": "0.1.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

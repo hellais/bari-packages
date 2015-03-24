@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-openid_3.0.2+git20140828-1_all.deb", 
+    "pkg": "python3-openid", 
+    "pkg_version": "3.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-openid_3.0.2+git20140828-1_all.deb", 
+    "pkg": "python3-openid", 
+    "pkg_version": "3.0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-openid-3.0.2-3.fc21.noarch.rpm", 
+    "pkg": "python3-openid", 
+    "pkg_version": "3.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-openid-3.0.2-3.fc21.noarch.rpm", 
+    "pkg": "python3-openid", 
+    "pkg_version": "3.0.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

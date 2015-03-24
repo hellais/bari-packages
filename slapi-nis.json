@@ -1,0 +1,73 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "slapi-nis-0.53-alt1.x86_64.rpm", 
+    "pkg": "slapi-nis", 
+    "pkg_version": "0.5", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "slapi-nis-0.52-4.el7.x86_64.rpm", 
+    "pkg": "slapi-nis", 
+    "pkg_version": "0.5", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "slapi-nis-0.40-6.el6.x86_64.rpm", 
+    "pkg": "slapi-nis", 
+    "pkg_version": "0.4", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "slapi-nis_0.54-1_i386.deb", 
+    "pkg": "slapi-nis", 
+    "pkg_version": "0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "slapi-nis_0.54-1_i386.deb", 
+    "pkg": "slapi-nis", 
+    "pkg_version": "0.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "slapi-nis-0.54.1-1.fc22.x86_64.rpm", 
+    "pkg": "slapi-nis", 
+    "pkg_version": "0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "slapi-nis-0.54.1-1.fc22.x86_64.rpm", 
+    "pkg": "slapi-nis", 
+    "pkg_version": "0.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "slapi-nis-0.54.1-1.fc21.x86_64.rpm", 
+    "pkg": "slapi-nis", 
+    "pkg_version": "0.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

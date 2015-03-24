@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liblucene++0_3.0.6-4_i386.deb", 
+    "pkg": "liblucene++0", 
+    "pkg_version": "3.0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liblucene++0_3.0.6-3_i386.deb", 
+    "pkg": "liblucene++0", 
+    "pkg_version": "3.0.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "liblucene++0-3.0.7-1.1.x86_64.rpm", 
+    "pkg": "liblucene++0", 
+    "pkg_version": "3.0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE KDE Extra", 
+    "pkg_full_name": "liblucene++0-3.0.7-7.2.x86_64.rpm", 
+    "pkg": "liblucene++0", 
+    "pkg_version": "3.0.7", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE KDE Extra", 
+    "pkg_full_name": "liblucene++0-3.0.7-6.1.x86_64.rpm", 
+    "pkg": "liblucene++0", 
+    "pkg_version": "3.0.7", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "liblucene++0-3.0.6-1.git20140729.1-rosa2014.1.i586.rpm", 
+    "pkg": "liblucene++0", 
+    "pkg_version": "3.0.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "liblucene++0_3.0.4-0ubuntu3_i386.deb", 
+    "pkg": "liblucene++0", 
+    "pkg_version": "3.0.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

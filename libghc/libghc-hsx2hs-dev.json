@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-hsx2hs-dev_0.13.2-1_i386.deb", 
+    "pkg": "libghc-hsx2hs-dev", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-hsx2hs-dev_0.13.2-1_i386.deb", 
+    "pkg": "libghc-hsx2hs-dev", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-hsx2hs-dev_0.13.1-1build2_i386.deb", 
+    "pkg": "libghc-hsx2hs-dev", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

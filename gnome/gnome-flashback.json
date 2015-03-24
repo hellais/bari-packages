@@ -1,0 +1,19 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnome-flashback-3.14.0-alt2.1.x86_64.rpm", 
+    "pkg": "gnome-flashback", 
+    "pkg_version": "3.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-flashback_3.10.0-3_i386.deb", 
+    "pkg": "gnome-flashback", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

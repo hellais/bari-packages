@@ -1,0 +1,126 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "lcab-1.0b12-alt1.x86_64.rpm", 
+    "pkg": "lcab", 
+    "pkg_version": "1.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "lcab-1.0b12-5-x86_64.pkg.tar.xz", 
+    "pkg": "lcab", 
+    "pkg_version": "1.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Atomic", 
+    "pkg_full_name": "lcab-1.0b9-1.el5.art.x86_64.rpm", 
+    "pkg": "lcab", 
+    "pkg_version": "1.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lcab_1.0b12-7_i386.deb", 
+    "pkg": "lcab", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lcab_1.0b12-7_i386.deb", 
+    "pkg": "lcab", 
+    "pkg_version": "1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lcab_1.0b12-5_i386.deb", 
+    "pkg": "lcab", 
+    "pkg_version": "1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Olea", 
+    "pkg_full_name": "lcab-1.0-0.4.b11.i386.rpm", 
+    "pkg": "lcab", 
+    "pkg_version": "1.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "lcab-1.0-0.b12.1-omv2013.0.i586.rpm", 
+    "pkg": "lcab", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "lcab-1.0-0.b12.1-omv2013.0.i586.rpm", 
+    "pkg": "lcab", 
+    "pkg_version": "1.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "lcab-1.0-0.b12.1-omv2013.0.i586.rpm", 
+    "pkg": "lcab", 
+    "pkg_version": "1.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "lcab-1.0-0.b12.1-rosa2014.1.x86_64.rpm", 
+    "pkg": "lcab", 
+    "pkg_version": "1.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "lcab-1.0-0.b12.1-rosa2012.1.x86_64.rpm", 
+    "pkg": "lcab", 
+    "pkg_version": "1.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "lcab_1.0b12-7_i386.deb", 
+    "pkg": "lcab", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "lcab_1.0b12-7_i386.deb", 
+    "pkg": "lcab", 
+    "pkg_version": "1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

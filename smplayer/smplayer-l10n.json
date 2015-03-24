@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smplayer-l10n_14.9.0~ds0-1_all.deb", 
+    "pkg": "smplayer-l10n_1", 
+    "pkg_version": "4.9.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smplayer-l10n_14.9.0~ds0-1_all.deb", 
+    "pkg": "smplayer-l10n_1", 
+    "pkg_version": "4.9.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

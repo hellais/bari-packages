@@ -1,0 +1,109 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "dircproxy-1.1.0-alt1.qa1.x86_64.rpm", 
+    "pkg": "dircproxy", 
+    "pkg_version": "1.1.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "dircproxy-1.2.0-0.11.RC1.el6.x86_64.rpm", 
+    "pkg": "dircproxy", 
+    "pkg_version": "1.2.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "KBS Extras Testing", 
+    "pkg_full_name": "dircproxy-1.2.0-0.5.beta2.el5.kb.x86_64.rpm", 
+    "pkg": "dircproxy", 
+    "pkg_version": "1.2.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dircproxy_1.0.5-5.2_i386.deb", 
+    "pkg": "dircproxy", 
+    "pkg_version": "1.0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dircproxy_1.0.5-5.2_i386.deb", 
+    "pkg": "dircproxy", 
+    "pkg_version": "1.0.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dircproxy_1.0.5-5.1_i386.deb", 
+    "pkg": "dircproxy", 
+    "pkg_version": "1.0.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "dircproxy-1.2.0-0.22.RC1.fc22.x86_64.rpm", 
+    "pkg": "dircproxy", 
+    "pkg_version": "1.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "dircproxy-1.2.0-0.22.RC1.fc22.x86_64.rpm", 
+    "pkg": "dircproxy", 
+    "pkg_version": "1.2.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "dircproxy-1.2.0-0.22.RC1.fc21.x86_64.rpm", 
+    "pkg": "dircproxy", 
+    "pkg_version": "1.2.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "dircproxy-1.2.0-0.20.RC1.fc20.x86_64.rpm", 
+    "pkg": "dircproxy", 
+    "pkg_version": "1.2.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "dircproxy_1.0.5-5.1ubuntu2_i386.deb", 
+    "pkg": "dircproxy", 
+    "pkg_version": "1.0.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "dircproxy_1.0.5-5.1ubuntu2_i386.deb", 
+    "pkg": "dircproxy", 
+    "pkg_version": "1.0.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

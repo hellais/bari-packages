@@ -1,0 +1,136 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "thinkfan-0.9.1-alt1.x86_64.rpm", 
+    "pkg": "thinkfan", 
+    "pkg_version": "0.9.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "thinkfan_0.9.2-1_i386.deb", 
+    "pkg": "thinkfan", 
+    "pkg_version": "0.9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "thinkfan_0.9.2-1_i386.deb", 
+    "pkg": "thinkfan", 
+    "pkg_version": "0.9.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "thinkfan_0.8.1-1_i386.deb", 
+    "pkg": "thinkfan", 
+    "pkg_version": "0.8.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "thinkfan-0.9.2-1.fc22.x86_64.rpm", 
+    "pkg": "thinkfan", 
+    "pkg_version": "0.9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "thinkfan-0.9.2-1.fc22.x86_64.rpm", 
+    "pkg": "thinkfan", 
+    "pkg_version": "0.9.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "thinkfan-0.8.1-7.fc21.x86_64.rpm", 
+    "pkg": "thinkfan", 
+    "pkg_version": "0.8.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Olea", 
+    "pkg_full_name": "thinkfan-0.8_alpha2-0.1.alpha.fc16.i686.rpm", 
+    "pkg": "thinkfan", 
+    "pkg_version": "0.8", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "thinkfan-0.8.0-9-omv2015.0.x86_64.rpm", 
+    "pkg": "thinkfan", 
+    "pkg_version": "0.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "thinkfan-0.8.0-3-omv2014.0.x86_64.rpm", 
+    "pkg": "thinkfan", 
+    "pkg_version": "0.8.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "thinkfan-0.8.0-2-omv2013.0.x86_64.rpm", 
+    "pkg": "thinkfan", 
+    "pkg_version": "0.8.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "thinkfan-0.8.0-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "thinkfan", 
+    "pkg_version": "0.8.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "thinkfan-0.8.0-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "thinkfan", 
+    "pkg_version": "0.8.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "thinkfan_0.9.2-1_i386.deb", 
+    "pkg": "thinkfan", 
+    "pkg_version": "0.9.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "thinkfan_0.8.1-1_i386.deb", 
+    "pkg": "thinkfan", 
+    "pkg_version": "0.8.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

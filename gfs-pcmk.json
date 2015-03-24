@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "cman-3.0.12.1-68.el6.x86_64.rpm", 
+    "pkg": "cman", 
+    "pkg_version": "3.0.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gfs-pcmk_3.1.3-1.2_i386.deb", 
+    "pkg": "gfs-pcmk", 
+    "pkg_version": "3.1.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "cman-3.0.12.1-68.el6.x86_64.rpm", 
+    "pkg": "cman", 
+    "pkg_version": "3.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gfs-pcmk_3.1.3-1.2_i386.deb", 
+    "pkg": "gfs-pcmk", 
+    "pkg_version": "3.1.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "cman-3.0.12.1-68.el6.x86_64.rpm", 
+    "pkg": "cman", 
+    "pkg_version": "3.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gfs-pcmk_3.0.12-3.2+deb7u2_i386.deb", 
+    "pkg": "gfs-pcmk", 
+    "pkg_version": "3.0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "cman-3.0.12.1-68.el6.x86_64.rpm", 
+    "pkg": "cman", 
+    "pkg_version": "3.0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

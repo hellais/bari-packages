@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-flask-openid_1.2.3+dfsg-3_all.deb", 
+    "pkg": "python3-flask-openid", 
+    "pkg_version": "1.2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

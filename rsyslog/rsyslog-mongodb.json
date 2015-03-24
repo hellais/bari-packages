@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Ghettoforge Plus", 
+    "pkg_full_name": "rsyslog-mongodb-8.2.0-3.gf.el6.x86_64.rpm", 
+    "pkg": "rsyslog-mongodb", 
+    "pkg_version": "8.2.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rsyslog-mongodb_8.4.2-1_i386.deb", 
+    "pkg": "rsyslog-mongodb", 
+    "pkg_version": "8.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rsyslog-mongodb_8.4.2-1_i386.deb", 
+    "pkg": "rsyslog-mongodb", 
+    "pkg_version": "8.4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "rsyslog-mongodb_7.6.3-2~bpo70+1_i386.deb", 
+    "pkg": "rsyslog-mongodb", 
+    "pkg_version": "7.6.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rsyslog-mongodb-8.8.0-2.fc23.x86_64.rpm", 
+    "pkg": "rsyslog-mongodb", 
+    "pkg_version": "8.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rsyslog-mongodb-7.4.10-5.fc22.x86_64.rpm", 
+    "pkg": "rsyslog-mongodb", 
+    "pkg_version": "7.4.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rsyslog-mongodb-7.4.10-5.fc21.x86_64.rpm", 
+    "pkg": "rsyslog-mongodb", 
+    "pkg_version": "7.4.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

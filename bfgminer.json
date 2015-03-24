@@ -1,0 +1,91 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "bfgminer-5.1.0-1-x86_64.pkg.tar.xz", 
+    "pkg": "bfgminer", 
+    "pkg_version": "5.1.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bfgminer_4.7.0+dfsg-2_i386.deb", 
+    "pkg": "bfgminer", 
+    "pkg_version": "4.7.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bfgminer_4.7.0+dfsg-2_i386.deb", 
+    "pkg": "bfgminer", 
+    "pkg_version": "4.7.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "bfgminer-3.3.0-3.fc22.x86_64.rpm", 
+    "pkg": "bfgminer", 
+    "pkg_version": "3.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "bfgminer-3.3.0-3.fc22.x86_64.rpm", 
+    "pkg": "bfgminer", 
+    "pkg_version": "3.3.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "bfgminer-3.3.0-3.fc21.x86_64.rpm", 
+    "pkg": "bfgminer", 
+    "pkg_version": "3.3.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "bfgminer-3.3.0-1-omv2013.0.x86_64.rpm", 
+    "pkg": "bfgminer", 
+    "pkg_version": "3.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "bfgminer-3.0.0-2-omv2014.0.x86_64.rpm", 
+    "pkg": "bfgminer", 
+    "pkg_version": "3.0.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "bfgminer-3.0.0-1-omv2013.0.x86_64.rpm", 
+    "pkg": "bfgminer", 
+    "pkg_version": "3.0.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "bfgminer_4.4.0+dfsg-1_i386.deb", 
+    "pkg": "bfgminer", 
+    "pkg_version": "4.4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

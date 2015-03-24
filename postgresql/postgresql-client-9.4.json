@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "postgresql-client-9.4_9.4.1-1_i386.deb", 
+    "pkg": "postgresql-client", 
+    "pkg_version": "9.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "postgresql-client-9.4_9.4.1-1_i386.deb", 
+    "pkg": "postgresql-client", 
+    "pkg_version": "9.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

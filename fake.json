@@ -1,0 +1,101 @@
+[
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "fake-1.1.8-1.2.el6.rf.i686.rpm", 
+    "pkg": "fake", 
+    "pkg_version": "1.1.8", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "fake-1.1.8-1.2.el5.rf.i386.rpm", 
+    "pkg": "fake", 
+    "pkg_version": "1.1.8", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fake_1.1.11-1+b1_i386.deb", 
+    "pkg": "fake", 
+    "pkg_version": "1.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fake_1.1.11-1+b1_i386.deb", 
+    "pkg": "fake", 
+    "pkg_version": "1.1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fake_1.1.11-1+b1_i386.deb", 
+    "pkg": "fake", 
+    "pkg_version": "1.1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Olea", 
+    "pkg_full_name": "fake-1.0-0.noarch.rpm", 
+    "pkg": "fake", 
+    "pkg_version": "1.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "fake-1.1.11-3-omv2014.1.x86_64.rpm", 
+    "pkg": "fake", 
+    "pkg_version": "1.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "fake-1.1.11-4-rosa2014.1.x86_64.rpm", 
+    "pkg": "fake", 
+    "pkg_version": "1.1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "fake-1.1.11-3-rosa2012.1.x86_64.rpm", 
+    "pkg": "fake", 
+    "pkg_version": "1.1.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "fake_1.1.11-1_i386.deb", 
+    "pkg": "fake", 
+    "pkg_version": "1.1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "fake_1.1.11-1_i386.deb", 
+    "pkg": "fake", 
+    "pkg_version": "1.1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "inxi-2.2.16-alt1_1.noarch.rpm", 
+    "pkg": "inxi", 
+    "pkg_version": "2.2.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "inxi-2.2.19-1-any.pkg.tar.xz", 
+    "pkg": "inxi", 
+    "pkg_version": "2.2.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "inxi-2.2.16-1.el7.noarch.rpm", 
+    "pkg": "inxi", 
+    "pkg_version": "2.2.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Russian Fedora Free Updates", 
+    "pkg_full_name": "inxi-1.9.12-1.el6.R.noarch.rpm", 
+    "pkg": "inxi", 
+    "pkg_version": "1.9.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "inxi_2.1.28-1_all.deb", 
+    "pkg": "inxi", 
+    "pkg_version": "2.1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "inxi_2.1.28-1_all.deb", 
+    "pkg": "inxi", 
+    "pkg_version": "2.1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "inxi-2.2.16-1.fc22.noarch.rpm", 
+    "pkg": "inxi", 
+    "pkg_version": "2.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "inxi-2.2.16-1.fc22.noarch.rpm", 
+    "pkg": "inxi", 
+    "pkg_version": "2.2.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "inxi-2.2.16-1.fc21.noarch.rpm", 
+    "pkg": "inxi", 
+    "pkg_version": "2.2.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Russian Fedora Free", 
+    "pkg_full_name": "inxi-1.9.12-1.fc20.R.noarch.rpm", 
+    "pkg": "inxi", 
+    "pkg_version": "1.9.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "inxi-1.9.18-2-omv2015.0.noarch.rpm", 
+    "pkg": "inxi", 
+    "pkg_version": "1.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "inxi-1.9.18-1-omv2014.0.noarch.rpm", 
+    "pkg": "inxi", 
+    "pkg_version": "1.9.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "inxi-1.9.16-1-omv2013.0.noarch.rpm", 
+    "pkg": "inxi", 
+    "pkg_version": "1.9.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "inxi-1.7.23-2.4.noarch.rpm", 
+    "pkg": "inxi", 
+    "pkg_version": "1.7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "inxi-1.7.23-2.3.noarch.rpm", 
+    "pkg": "inxi", 
+    "pkg_version": "1.7.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "inxi-2.2.15-2579.1-rosa2014.1.noarch.rpm", 
+    "pkg": "inxi", 
+    "pkg_version": "2.2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "inxi-1.9.14-2-rosa2012.1.noarch.rpm", 
+    "pkg": "inxi", 
+    "pkg_version": "1.9.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackers", 
+    "pkg_full_name": "inxi-2.2.19-noarch-1cf.txz", 
+    "pkg": "inxi", 
+    "pkg_version": "2.2.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "inxi-1.8.14-noarch-1fg.txz", 
+    "pkg": "inxi", 
+    "pkg_version": "1.8.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "inxi-1.4.22-noarch-1fg.txz", 
+    "pkg": "inxi", 
+    "pkg_version": "1.4.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "inxi_2.1.28-1_all.deb", 
+    "pkg": "inxi", 
+    "pkg_version": "2.1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

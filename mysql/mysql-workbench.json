@@ -1,0 +1,226 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community Testing", 
+    "pkg_full_name": "mysql-workbench-6.2.5-3-x86_64.pkg.tar.xz", 
+    "pkg": "mysql-workbench", 
+    "pkg_version": "6.2.5", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "mysql-workbench-5.2.47-1.el6.remi.x86_64.rpm", 
+    "pkg": "mysql-workbench", 
+    "pkg_version": "5.2.4", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mysql-workbench_6.2.3+dfsg-7_i386.deb", 
+    "pkg": "mysql-workbench", 
+    "pkg_version": "6.2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mysql-workbench_6.2.3+dfsg-7_i386.deb", 
+    "pkg": "mysql-workbench", 
+    "pkg_version": "6.2.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mysql-workbench_5.2.40+dfsg-2_i386.deb", 
+    "pkg": "mysql-workbench", 
+    "pkg_version": "5.2.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "mysql-workbench-6.0.6-5.mga4.x86_64.rpm", 
+    "pkg": "mysql-workbench", 
+    "pkg_version": "6.0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "mysql-workbench-oss-5.2.47-3-omv2013.0.x86_64.rpm", 
+    "pkg": "mysql-workbench-oss", 
+    "pkg_version": "5.2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "mysql-workbench-6.0.6-5.mga4.x86_64.rpm", 
+    "pkg": "mysql-workbench", 
+    "pkg_version": "6.0.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "mysql-workbench-oss-5.2.47-3-omv2013.0.x86_64.rpm", 
+    "pkg": "mysql-workbench-oss", 
+    "pkg_version": "5.2.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "mysql-workbench-6.0.6-5.mga4.x86_64.rpm", 
+    "pkg": "mysql-workbench", 
+    "pkg_version": "6.0.6", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "mysql-workbench-oss-5.2.47-3-omv2013.0.x86_64.rpm", 
+    "pkg": "mysql-workbench-oss", 
+    "pkg_version": "5.2.4", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "mysql-workbench-6.2.3-1.1.x86_64.rpm", 
+    "pkg": "mysql-workbench", 
+    "pkg_version": "6.2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "mysql-workbench-oss-5.2.47-3-omv2013.0.x86_64.rpm", 
+    "pkg": "mysql-workbench-oss", 
+    "pkg_version": "5.2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "mysql-workbench-6.1.7-3.5.1.x86_64.rpm", 
+    "pkg": "mysql-workbench", 
+    "pkg_version": "6.1.7", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "mysql-workbench-oss-5.2.47-3-omv2013.0.x86_64.rpm", 
+    "pkg": "mysql-workbench-oss", 
+    "pkg_version": "5.2.4", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "mysql-workbench-6.1.7-3.5.1.x86_64.rpm", 
+    "pkg": "mysql-workbench", 
+    "pkg_version": "6.1.7", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "mysql-workbench-oss-6.1.7-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "mysql-workbench-oss", 
+    "pkg_version": "6.1.7", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "mysql-workbench-6.1.7-3.5.1.x86_64.rpm", 
+    "pkg": "mysql-workbench", 
+    "pkg_version": "6.1.7", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "mysql-workbench-oss-5.2.47-3-rosa2012.1.x86_64.rpm", 
+    "pkg": "mysql-workbench-oss", 
+    "pkg_version": "5.2.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "mysql-workbench-5.2.38-i486-1sl.txz", 
+    "pkg": "mysql-workbench", 
+    "pkg_version": "5.2.3", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "mysql-workbench-oss-5.2.33-4-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "mysql-workbench-oss", 
+    "pkg_version": "5.2.3", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "mysql-workbench_6.1.7+dfsg-1ubuntu1_i386.deb", 
+    "pkg": "mysql-workbench", 
+    "pkg_version": "6.1.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "mysql-workbench-oss-5.2.33-4-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "mysql-workbench-oss", 
+    "pkg_version": "5.2.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mysql-workbench_6.0.8+dfsg-2_i386.deb", 
+    "pkg": "mysql-workbench", 
+    "pkg_version": "6.0.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "mysql-workbench-oss-5.2.33-4-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "mysql-workbench-oss", 
+    "pkg_version": "5.2.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

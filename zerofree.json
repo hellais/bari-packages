@@ -1,0 +1,127 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "zerofree-1.0.3-alt1.x86_64.rpm", 
+    "pkg": "zerofree", 
+    "pkg_version": "1.0.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "zerofree-1.0.1-5.el5.x86_64.rpm", 
+    "pkg": "zerofree", 
+    "pkg_version": "1.0.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "zerofree_1.0.3-1_i386.deb", 
+    "pkg": "zerofree", 
+    "pkg_version": "1.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "zerofree_1.0.3-1_i386.deb", 
+    "pkg": "zerofree", 
+    "pkg_version": "1.0.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "zerofree_1.0.2-1_i386.deb", 
+    "pkg": "zerofree", 
+    "pkg_version": "1.0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "zerofree-1.0.3-3.fc22.x86_64.rpm", 
+    "pkg": "zerofree", 
+    "pkg_version": "1.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "zerofree-1.0.3-3.fc22.x86_64.rpm", 
+    "pkg": "zerofree", 
+    "pkg_version": "1.0.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "zerofree-1.0.3-3.fc21.x86_64.rpm", 
+    "pkg": "zerofree", 
+    "pkg_version": "1.0.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "zerofree-1.0.1-13.fc20.x86_64.rpm", 
+    "pkg": "zerofree", 
+    "pkg_version": "1.0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "zerofree-1.0.3-5.2.x86_64.rpm", 
+    "pkg": "zerofree", 
+    "pkg_version": "1.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "zerofree-1.0.3-4.1.2.x86_64.rpm", 
+    "pkg": "zerofree", 
+    "pkg_version": "1.0.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "zerofree-1.0.3-2.1.2.i586.rpm", 
+    "pkg": "zerofree", 
+    "pkg_version": "1.0.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "zerofree_1.0.3-1_i386.deb", 
+    "pkg": "zerofree", 
+    "pkg_version": "1.0.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "zerofree_1.0.2-1ubuntu1_i386.deb", 
+    "pkg": "zerofree", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

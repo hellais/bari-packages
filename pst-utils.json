@@ -1,0 +1,137 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pst-utils_0.6.59-1_i386.deb", 
+    "pkg": "pst-utils", 
+    "pkg_version": "0.6.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pst-utils_0.6.59-1_i386.deb", 
+    "pkg": "pst-utils", 
+    "pkg_version": "0.6.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pst-utils_0.6.54-4.1_i386.deb", 
+    "pkg": "pst-utils", 
+    "pkg_version": "0.6.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "pst-utils-0.5.2-6-omv2015.0.x86_64.rpm", 
+    "pkg": "pst-utils", 
+    "pkg_version": "0.5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libpst-0.6.63-3-omv2015.0.x86_64.rpm", 
+    "pkg": "libpst", 
+    "pkg_version": "0.6.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "pst-utils-0.5.2-5-omv2013.0.x86_64.rpm", 
+    "pkg": "pst-utils", 
+    "pkg_version": "0.5.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "libpst-0.6.58-2-omv2014.0.x86_64.rpm", 
+    "pkg": "libpst", 
+    "pkg_version": "0.6.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "pst-utils-0.5.2-5-omv2013.0.x86_64.rpm", 
+    "pkg": "pst-utils", 
+    "pkg_version": "0.5.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libpst-0.6.58-1-omv2013.0.x86_64.rpm", 
+    "pkg": "libpst", 
+    "pkg_version": "0.6.5", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "pst-utils-0.5.2-6-rosa2014.1.x86_64.rpm", 
+    "pkg": "pst-utils", 
+    "pkg_version": "0.5.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libpst-0.6.63-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "libpst", 
+    "pkg_version": "0.6.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "pst-utils-0.5.2-5-rosa2012.1.x86_64.rpm", 
+    "pkg": "pst-utils", 
+    "pkg_version": "0.5.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libpst-0.6.54-3-rosa2012.1.x86_64.rpm", 
+    "pkg": "libpst", 
+    "pkg_version": "0.6.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "pst-utils_0.6.59-1build1_i386.deb", 
+    "pkg": "pst-utils", 
+    "pkg_version": "0.6.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libpst-0.6.52-3-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "libpst", 
+    "pkg_version": "0.6.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

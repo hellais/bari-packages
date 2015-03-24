@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "munin-plugins-java_2.0.25-1_all.deb", 
+    "pkg": "munin-plugins-java", 
+    "pkg_version": "2.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "munin-plugins-java_2.0.25-1_all.deb", 
+    "pkg": "munin-plugins-java", 
+    "pkg_version": "2.0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "munin-plugins-java_2.0.6-4+deb7u2_all.deb", 
+    "pkg": "munin-plugins-java", 
+    "pkg_version": "2.0.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "munin-plugins-java_2.0.21-2build1_all.deb", 
+    "pkg": "munin-plugins-java", 
+    "pkg_version": "2.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

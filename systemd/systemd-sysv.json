@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "systemd-sysv-208-11.el7_0.6.x86_64.rpm", 
+    "pkg": "systemd-sysv-208-11.el7", 
+    "pkg_version": "0.6", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "systemd-sysv-208-11.el7_0.6.x86_64.rpm", 
+    "pkg": "systemd-sysv-208-11.el7", 
+    "pkg_version": "0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "systemd-sysv-208-11.el7_0.6.x86_64.rpm", 
+    "pkg": "systemd-sysv-208-11.el7", 
+    "pkg_version": "0.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "systemd-sysv-208-11.el7_0.6.x86_64.rpm", 
+    "pkg": "systemd-sysv-208-11.el7", 
+    "pkg_version": "0.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "systemd-sysv-208-11.el7_0.6.x86_64.rpm", 
+    "pkg": "systemd-sysv-208-11.el7", 
+    "pkg_version": "0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "systemd-sysv-208-11.el7_0.6.x86_64.rpm", 
+    "pkg": "systemd-sysv-208-11.el7", 
+    "pkg_version": "0.6", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "systemd-sysv-208-11.el7_0.6.x86_64.rpm", 
+    "pkg": "systemd-sysv-208-11.el7", 
+    "pkg_version": "0.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "systemd-sysv-208-11.el7_0.6.x86_64.rpm", 
+    "pkg": "systemd-sysv-208-11.el7", 
+    "pkg_version": "0.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

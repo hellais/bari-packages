@@ -1,0 +1,442 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xscreensaver-hacks-gl-5.32-alt2.x86_64.rpm", 
+    "pkg": "xscreensaver-hacks-gl", 
+    "pkg_version": "5.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "xscreensaver-gl-extras-5.29-1.el7.nux.x86_64.rpm", 
+    "pkg": "xscreensaver-gl-extras", 
+    "pkg_version": "5.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xscreensaver-hacks-gl-5.32-alt2.x86_64.rpm", 
+    "pkg": "xscreensaver-hacks-gl", 
+    "pkg_version": "5.3", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS", 
+    "pkg_full_name": "xscreensaver-gl-extras-5.12-7.puias6.x86_64.rpm", 
+    "pkg": "xscreensaver-gl-extras", 
+    "pkg_version": "5.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xscreensaver-hacks-gl-5.32-alt2.x86_64.rpm", 
+    "pkg": "xscreensaver-hacks-gl", 
+    "pkg_version": "5.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS Server", 
+    "pkg_full_name": "xscreensaver-gl-extras-5.01-6.PU_IAS.5.x86_64.rpm", 
+    "pkg": "xscreensaver-gl-extras", 
+    "pkg_version": "5.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xscreensaver-hacks-gl-5.32-alt2.x86_64.rpm", 
+    "pkg": "xscreensaver-hacks-gl", 
+    "pkg_version": "5.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS Server", 
+    "pkg_full_name": "xscreensaver-gl-extras-5.01-6.PU_IAS.5.x86_64.rpm", 
+    "pkg": "xscreensaver-gl-extras", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xscreensaver-gl_5.30-1+b1_i386.deb", 
+    "pkg": "xscreensaver-gl", 
+    "pkg_version": "5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xscreensaver-hacks-gl-5.32-alt2.x86_64.rpm", 
+    "pkg": "xscreensaver-hacks-gl", 
+    "pkg_version": "5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "PUIAS Server", 
+    "pkg_full_name": "xscreensaver-gl-extras-5.01-6.PU_IAS.5.x86_64.rpm", 
+    "pkg": "xscreensaver-gl-extras", 
+    "pkg_version": "5.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xscreensaver-gl_5.30-1+b1_i386.deb", 
+    "pkg": "xscreensaver-gl", 
+    "pkg_version": "5.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xscreensaver-hacks-gl-5.32-alt2.x86_64.rpm", 
+    "pkg": "xscreensaver-hacks-gl", 
+    "pkg_version": "5.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "PUIAS Server", 
+    "pkg_full_name": "xscreensaver-gl-extras-5.01-6.PU_IAS.5.x86_64.rpm", 
+    "pkg": "xscreensaver-gl-extras", 
+    "pkg_version": "5.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xscreensaver-gl_5.15-3_i386.deb", 
+    "pkg": "xscreensaver-gl", 
+    "pkg_version": "5.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xscreensaver-hacks-gl-5.32-alt2.x86_64.rpm", 
+    "pkg": "xscreensaver-hacks-gl", 
+    "pkg_version": "5.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xscreensaver-gl-extras-5.32-11.fc23.x86_64.rpm", 
+    "pkg": "xscreensaver-gl-extras", 
+    "pkg_version": "5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xscreensaver-gl_5.15-3_i386.deb", 
+    "pkg": "xscreensaver-gl", 
+    "pkg_version": "5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xscreensaver-hacks-gl-5.32-alt2.x86_64.rpm", 
+    "pkg": "xscreensaver-hacks-gl", 
+    "pkg_version": "5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xscreensaver-gl-extras-5.32-8.fc22.x86_64.rpm", 
+    "pkg": "xscreensaver-gl-extras", 
+    "pkg_version": "5.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xscreensaver-gl_5.15-3_i386.deb", 
+    "pkg": "xscreensaver-gl", 
+    "pkg_version": "5.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xscreensaver-hacks-gl-5.32-alt2.x86_64.rpm", 
+    "pkg": "xscreensaver-hacks-gl", 
+    "pkg_version": "5.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "xscreensaver-gl-extras-5.32-10.fc21.x86_64.rpm", 
+    "pkg": "xscreensaver-gl-extras", 
+    "pkg_version": "5.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xscreensaver-gl_5.15-3_i386.deb", 
+    "pkg": "xscreensaver-gl", 
+    "pkg_version": "5.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xscreensaver-hacks-gl-5.32-alt2.x86_64.rpm", 
+    "pkg": "xscreensaver-hacks-gl", 
+    "pkg_version": "5.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "xscreensaver-gl-extras-5.32-10.fc20.x86_64.rpm", 
+    "pkg": "xscreensaver-gl-extras", 
+    "pkg_version": "5.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xscreensaver-gl_5.15-3_i386.deb", 
+    "pkg": "xscreensaver-gl", 
+    "pkg_version": "5.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xscreensaver-hacks-gl-5.32-alt2.x86_64.rpm", 
+    "pkg": "xscreensaver-hacks-gl", 
+    "pkg_version": "5.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "xscreensaver-gl-extras-5.32-10.fc20.x86_64.rpm", 
+    "pkg": "xscreensaver-gl-extras", 
+    "pkg_version": "5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "xscreensaver-gl-5.29-3-omv2015.0.x86_64.rpm", 
+    "pkg": "xscreensaver-gl", 
+    "pkg_version": "5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xscreensaver-hacks-gl-5.32-alt2.x86_64.rpm", 
+    "pkg": "xscreensaver-hacks-gl", 
+    "pkg_version": "5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "xscreensaver-gl-extras-5.32-10.fc20.x86_64.rpm", 
+    "pkg": "xscreensaver-gl-extras", 
+    "pkg_version": "5.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "xscreensaver-gl-5.29-1.1-omv2014.0.x86_64.rpm", 
+    "pkg": "xscreensaver-gl", 
+    "pkg_version": "5.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xscreensaver-hacks-gl-5.32-alt2.x86_64.rpm", 
+    "pkg": "xscreensaver-hacks-gl", 
+    "pkg_version": "5.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "xscreensaver-gl-extras-5.32-10.fc20.x86_64.rpm", 
+    "pkg": "xscreensaver-gl-extras", 
+    "pkg_version": "5.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "xscreensaver-gl-5.21-2-omv2013.0.x86_64.rpm", 
+    "pkg": "xscreensaver-gl", 
+    "pkg_version": "5.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xscreensaver-hacks-gl-5.32-alt2.x86_64.rpm", 
+    "pkg": "xscreensaver-hacks-gl", 
+    "pkg_version": "5.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "xscreensaver-gl-extras-5.32-10.fc20.x86_64.rpm", 
+    "pkg": "xscreensaver-gl-extras", 
+    "pkg_version": "5.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Restricted Updates", 
+    "pkg_full_name": "xscreensaver-gl-5.26-5plf-plf2014.1.x86_64.rpm", 
+    "pkg": "xscreensaver-gl", 
+    "pkg_version": "5.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xscreensaver-hacks-gl-5.32-alt2.x86_64.rpm", 
+    "pkg": "xscreensaver-hacks-gl", 
+    "pkg_version": "5.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "xscreensaver-gl-extras-5.32-10.fc20.x86_64.rpm", 
+    "pkg": "xscreensaver-gl-extras", 
+    "pkg_version": "5.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Restricted", 
+    "pkg_full_name": "xscreensaver-gl-5.15-2plf-plf2012.1.x86_64.rpm", 
+    "pkg": "xscreensaver-gl", 
+    "pkg_version": "5.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xscreensaver-hacks-gl-5.32-alt2.x86_64.rpm", 
+    "pkg": "xscreensaver-hacks-gl", 
+    "pkg_version": "5.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "xscreensaver-gl-extras-5.32-10.fc20.x86_64.rpm", 
+    "pkg": "xscreensaver-gl-extras", 
+    "pkg_version": "5.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xscreensaver-gl_5.26-1ubuntu3_i386.deb", 
+    "pkg": "xscreensaver-gl", 
+    "pkg_version": "5.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xscreensaver-hacks-gl-5.32-alt2.x86_64.rpm", 
+    "pkg": "xscreensaver-hacks-gl", 
+    "pkg_version": "5.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "xscreensaver-gl-extras-5.32-10.fc20.x86_64.rpm", 
+    "pkg": "xscreensaver-gl-extras", 
+    "pkg_version": "5.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xscreensaver-gl_5.15-3ubuntu1_i386.deb", 
+    "pkg": "xscreensaver-gl", 
+    "pkg_version": "5.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xscreensaver-hacks-gl-5.32-alt2.x86_64.rpm", 
+    "pkg": "xscreensaver-hacks-gl", 
+    "pkg_version": "5.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

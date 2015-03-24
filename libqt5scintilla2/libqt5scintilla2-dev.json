@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libqt5scintilla2-dev_2.8.4+dfsg-1_i386.deb", 
+    "pkg": "libqt5scintilla2-dev", 
+    "pkg_version": "2.8.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libqt5scintilla2-dev_2.8.4+dfsg-1_i386.deb", 
+    "pkg": "libqt5scintilla2-dev", 
+    "pkg_version": "2.8.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libqt5scintilla2-dev_2.8.3+dfsg-3_i386.deb", 
+    "pkg": "libqt5scintilla2-dev", 
+    "pkg_version": "2.8.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

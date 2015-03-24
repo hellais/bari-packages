@@ -1,0 +1,164 @@
+[
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "dtv-scan-tables-1-2.20140905git4aad313.fc22.noarch.rpm", 
+    "pkg": "dtv-scan-tables-1", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "dtv-scan-tables-1-2.20140905git4aad313.fc22.noarch.rpm", 
+    "pkg": "dtv-scan-tables-1", 
+    "pkg_version": "2.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "dtv-scan-tables-1-2.20140905git4aad313.fc21.noarch.rpm", 
+    "pkg": "dtv-scan-tables-1", 
+    "pkg_version": "2.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "dtv-scan-tables-0-7.20140512git1246b27.fc20.noarch.rpm", 
+    "pkg": "dtv-scan-tables-0", 
+    "pkg_version": "7.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "dtv-scan-tables-1-2.20140905git4aad313.fc21.noarch.rpm", 
+    "pkg": "dtv-scan-tables-1", 
+    "pkg_version": "2.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "dtv-scan-tables-0-7.20140512git1246b27.fc20.noarch.rpm", 
+    "pkg": "dtv-scan-tables-0", 
+    "pkg_version": "7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "dtv-scan-tables-1-2.20140905git4aad313.fc21.noarch.rpm", 
+    "pkg": "dtv-scan-tables-1", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "dtv-scan-tables-20130412-6.1.noarch.rpm", 
+    "pkg": "dtv-scan-tables-20130412", 
+    "pkg_version": "6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "dtv-scan-tables-0-7.20140512git1246b27.fc20.noarch.rpm", 
+    "pkg": "dtv-scan-tables-0", 
+    "pkg_version": "7.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "dtv-scan-tables-1-2.20140905git4aad313.fc21.noarch.rpm", 
+    "pkg": "dtv-scan-tables-1", 
+    "pkg_version": "2.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "dtv-scan-tables-20130412-5.1.2.noarch.rpm", 
+    "pkg": "dtv-scan-tables-20130412", 
+    "pkg_version": "5.1.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "dtv-scan-tables-0-7.20140512git1246b27.fc20.noarch.rpm", 
+    "pkg": "dtv-scan-tables-0", 
+    "pkg_version": "7.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "dtv-scan-tables-1-2.20140905git4aad313.fc21.noarch.rpm", 
+    "pkg": "dtv-scan-tables-1", 
+    "pkg_version": "2.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "dtv-scan-tables-20130412-2.1.2.noarch.rpm", 
+    "pkg": "dtv-scan-tables-20130412", 
+    "pkg_version": "2.1.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "dtv-scan-tables-0-7.20140512git1246b27.fc20.noarch.rpm", 
+    "pkg": "dtv-scan-tables-0", 
+    "pkg_version": "7.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "dtv-scan-tables-1-2.20140905git4aad313.fc21.noarch.rpm", 
+    "pkg": "dtv-scan-tables-1", 
+    "pkg_version": "2.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "dtv-scan-tables_0+git20140611.14bd6c7-1_all.deb", 
+    "pkg": "dtv-scan-tables_0+git2014061", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "dtv-scan-tables-20130412-2.1.2.noarch.rpm", 
+    "pkg": "dtv-scan-tables-20130412", 
+    "pkg_version": "2.1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

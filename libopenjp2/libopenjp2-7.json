@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libopenjp2-7_2.1.0-2_i386.deb", 
+    "pkg": "libopenjp2-7", 
+    "pkg_version": "2.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libopenjp2-7_2.1.0-2_i386.deb", 
+    "pkg": "libopenjp2-7", 
+    "pkg_version": "2.1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libopenjp2-7-2.1.0-3.2.x86_64.rpm", 
+    "pkg": "libopenjp2-7", 
+    "pkg_version": "2.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }
+]

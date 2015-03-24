@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bash-static_4.3-12_i386.deb", 
+    "pkg": "bash-static", 
+    "pkg_version": "4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bash-static_4.3-11+b1_i386.deb", 
+    "pkg": "bash-static", 
+    "pkg_version": "4.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "WTF", 
+    "pkg_full_name": "bash-static_4.2+dfsg-0.1+deb7u3tarent1_i386.deb", 
+    "pkg": "bash-static", 
+    "pkg_version": "4.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "bash-static_4.3-11ubuntu1_i386.deb", 
+    "pkg": "bash-static", 
+    "pkg_version": "4.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "bash-static_4.3-7ubuntu1.5_i386.deb", 
+    "pkg": "bash-static", 
+    "pkg_version": "4.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

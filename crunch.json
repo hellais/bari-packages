@@ -1,0 +1,46 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "crunch-3.6-alt1.x86_64.rpm", 
+    "pkg": "crunch", 
+    "pkg_version": "3.6", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "crunch_3.6-2_i386.deb", 
+    "pkg": "crunch", 
+    "pkg_version": "3.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "crunch_3.6-2_i386.deb", 
+    "pkg": "crunch", 
+    "pkg_version": "3.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "crunch_3.6-1~bpo70+1_i386.deb", 
+    "pkg": "crunch", 
+    "pkg_version": "3.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Freestylers", 
+    "pkg_full_name": "crunch-3.5-x86_64-1_fs.tgz", 
+    "pkg": "crunch", 
+    "pkg_version": "3.5", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }
+]

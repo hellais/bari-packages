@@ -1,0 +1,218 @@
+[
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python-tz_2011h-0.1~nd+1_all.deb", 
+    "pkg": "python-tz_2011h", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-tz_2012c+dfsg-0.1_all.deb", 
+    "pkg": "python-tz_2012c+dfsg", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python-tz_2011h-0.1~nd+1_all.deb", 
+    "pkg": "python-tz_2011h", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-tz_2012c+dfsg-0.1_all.deb", 
+    "pkg": "python-tz_2012c+dfsg", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python-tz_2011h-0.1~nd+1_all.deb", 
+    "pkg": "python-tz_2011h", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-tz_2012c+dfsg-0.1_all.deb", 
+    "pkg": "python-tz_2012c+dfsg", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-pytz-2014.10-2.1.noarch.rpm", 
+    "pkg": "python-pytz-201", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python-tz_2011h-0.1~nd+1_all.deb", 
+    "pkg": "python-tz_2011h", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-tz_2012c+dfsg-0.1_all.deb", 
+    "pkg": "python-tz_2012c+dfsg", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-pytz-2014.4-3.1.4.noarch.rpm", 
+    "pkg": "python-pytz-201", 
+    "pkg_version": "4.4", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python-tz_2011h-0.1~nd+1_all.deb", 
+    "pkg": "python-tz_2011h", 
+    "pkg_version": "0.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-tz_2012c+dfsg-0.1_all.deb", 
+    "pkg": "python-tz_2012c+dfsg", 
+    "pkg_version": "0.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "python-pytz-2013.8-2.5.1.noarch.rpm", 
+    "pkg": "python-pytz-201", 
+    "pkg_version": "3.8", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-pytz-2013d-2.1.2.noarch.rpm", 
+    "pkg": "python-pytz-2013d", 
+    "pkg_version": "2.1.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python-tz_2011h-0.1~nd+1_all.deb", 
+    "pkg": "python-tz_2011h", 
+    "pkg_version": "0.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-tz_2012c+dfsg-0.1_all.deb", 
+    "pkg": "python-tz_2012c+dfsg", 
+    "pkg_version": "0.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "python-pytz-2013.8-2.5.1.noarch.rpm", 
+    "pkg": "python-pytz-201", 
+    "pkg_version": "3.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-pytz-2013d-2.1.2.noarch.rpm", 
+    "pkg": "python-pytz-2013d", 
+    "pkg_version": "2.1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python-tz_2011h-0.1~nd+1_all.deb", 
+    "pkg": "python-tz_2011h", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-tz_2012c+dfsg-0.1_all.deb", 
+    "pkg": "python-tz_2012c+dfsg", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "python-pytz-2013.8-2.5.1.noarch.rpm", 
+    "pkg": "python-pytz-201", 
+    "pkg_version": "3.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-pytz-2013d-2.1.2.noarch.rpm", 
+    "pkg": "python-pytz-2013d", 
+    "pkg_version": "2.1.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python-tz_2011h-0.1~nd+1_all.deb", 
+    "pkg": "python-tz_2011h", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-tz_2012c+dfsg-0.1_all.deb", 
+    "pkg": "python-tz_2012c+dfsg", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

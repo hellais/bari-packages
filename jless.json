@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "less-458-6.1.2.x86_64.rpm", 
+    "pkg": "less-458", 
+    "pkg_version": "6.1.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "less-458-2.4.1.x86_64.rpm", 
+    "pkg": "less-458", 
+    "pkg_version": "2.4.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "less-458-2.4.1.x86_64.rpm", 
+    "pkg": "less-458", 
+    "pkg_version": "2.4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "less-458-2.4.1.x86_64.rpm", 
+    "pkg": "less-458", 
+    "pkg_version": "2.4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

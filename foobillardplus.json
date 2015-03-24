@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "foobillardplus_3.43~svn170+dfsg-2_i386.deb", 
+    "pkg": "foobillardplus", 
+    "pkg_version": "3.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "foobillardplus_3.43~svn170+dfsg-2_i386.deb", 
+    "pkg": "foobillardplus", 
+    "pkg_version": "3.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "foobillardplus-3.43-0.svn170.2-rosa2014.1.x86_64.rpm", 
+    "pkg": "foobillardplus", 
+    "pkg_version": "3.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "foobillardplus_3.43~svn170+dfsg-2_i386.deb", 
+    "pkg": "foobillardplus", 
+    "pkg_version": "3.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

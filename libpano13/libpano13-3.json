@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpano13-3_2.9.19+dfsg-1+b2_i386.deb", 
+    "pkg": "libpano13-3", 
+    "pkg_version": "2.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpano13-3_2.9.19+dfsg-1+b2_i386.deb", 
+    "pkg": "libpano13-3", 
+    "pkg_version": "2.9.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libpano13-3-2.9.19-1.2.x86_64.rpm", 
+    "pkg": "libpano13-3", 
+    "pkg_version": "2.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }
+]

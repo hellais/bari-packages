@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "postgresql-9.4-python-multicorn_1.0.4-1_i386.deb", 
+    "pkg": "postgresql", 
+    "pkg_version": "9.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

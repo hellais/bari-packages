@@ -1,0 +1,199 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xmlbeans-2.6.0-alt1_6jpp7.noarch.rpm", 
+    "pkg": "xmlbeans", 
+    "pkg_version": "2.6.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "xmlbeans-2.4.0-3.jpp6.noarch.rpm", 
+    "pkg": "xmlbeans", 
+    "pkg_version": "2.4.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "xmlbeans-2.4.0-3.jpp6.noarch.rpm", 
+    "pkg": "xmlbeans", 
+    "pkg_version": "2.4.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xmlbeans_2.6.0-2_all.deb", 
+    "pkg": "xmlbeans", 
+    "pkg_version": "2.6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xmlbeans_2.6.0-2_all.deb", 
+    "pkg": "xmlbeans", 
+    "pkg_version": "2.6.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xmlbeans_2.5.0-4_all.deb", 
+    "pkg": "xmlbeans", 
+    "pkg_version": "2.5.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xmlbeans-2.6.0-9.fc23.noarch.rpm", 
+    "pkg": "xmlbeans", 
+    "pkg_version": "2.6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xmlbeans-2.6.0-9.fc22.noarch.rpm", 
+    "pkg": "xmlbeans", 
+    "pkg_version": "2.6.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xmlbeans-2.6.0-8.fc21.noarch.rpm", 
+    "pkg": "xmlbeans", 
+    "pkg_version": "2.6.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "xmlbeans-2.4.0-3.jpp6.noarch.rpm", 
+    "pkg": "xmlbeans", 
+    "pkg_version": "2.4.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "xmlbeans-2.6.0-8-omv2015.0.noarch.rpm", 
+    "pkg": "xmlbeans", 
+    "pkg_version": "2.6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "xmlbeans-2.6.0-6.1-omv2014.0.noarch.rpm", 
+    "pkg": "xmlbeans", 
+    "pkg_version": "2.6.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xmlbeans-2.6.0-6.1.noarch.rpm", 
+    "pkg": "xmlbeans", 
+    "pkg_version": "2.6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xmlbeans-mini-2.6.0-6.1.noarch.rpm", 
+    "pkg": "xmlbeans-mini", 
+    "pkg_version": "2.6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xmlbeans-2.6.0-3.2.3.noarch.rpm", 
+    "pkg": "xmlbeans", 
+    "pkg_version": "2.6.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xmlbeans-mini-2.6.0-3.2.3.noarch.rpm", 
+    "pkg": "xmlbeans-mini", 
+    "pkg_version": "2.6.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xmlbeans-2.4.0-9.1.1.noarch.rpm", 
+    "pkg": "xmlbeans", 
+    "pkg_version": "2.4.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE JAVA", 
+    "pkg_full_name": "xmlbeans-mini-2.6.0-69.1.noarch.rpm", 
+    "pkg": "xmlbeans-mini", 
+    "pkg_version": "2.6.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xmlbeans_2.6.0-2_all.deb", 
+    "pkg": "xmlbeans", 
+    "pkg_version": "2.6.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE JAVA", 
+    "pkg_full_name": "xmlbeans-mini-2.6.0-69.1.noarch.rpm", 
+    "pkg": "xmlbeans-mini", 
+    "pkg_version": "2.6.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xmlbeans_2.5.0-4build1_all.deb", 
+    "pkg": "xmlbeans", 
+    "pkg_version": "2.5.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE JAVA", 
+    "pkg_full_name": "xmlbeans-mini-2.6.0-69.1.noarch.rpm", 
+    "pkg": "xmlbeans-mini", 
+    "pkg_version": "2.6.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

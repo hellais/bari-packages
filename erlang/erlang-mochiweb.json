@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "erlang-mochiweb-2.4.2-2.el7.x86_64.rpm", 
+    "pkg": "erlang-mochiweb", 
+    "pkg_version": "2.4.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "erlang-mochiweb-1.4.1-5.el6.x86_64.rpm", 
+    "pkg": "erlang-mochiweb", 
+    "pkg_version": "1.4.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "erlang-mochiweb-1.3-0.3.20100507svn159.el5.x86_64.rpm", 
+    "pkg": "erlang-mochiweb", 
+    "pkg_version": "1.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "erlang-mochiweb_2.9.2-1_all.deb", 
+    "pkg": "erlang-mochiweb", 
+    "pkg_version": "2.9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "erlang-mochiweb_2.9.2-1_all.deb", 
+    "pkg": "erlang-mochiweb", 
+    "pkg_version": "2.9.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "erlang-mochiweb-2.4.2-5.fc22.x86_64.rpm", 
+    "pkg": "erlang-mochiweb", 
+    "pkg_version": "2.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "erlang-mochiweb-2.4.2-5.fc22.x86_64.rpm", 
+    "pkg": "erlang-mochiweb", 
+    "pkg_version": "2.4.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "erlang-mochiweb-2.4.2-5.fc21.x86_64.rpm", 
+    "pkg": "erlang-mochiweb", 
+    "pkg_version": "2.4.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

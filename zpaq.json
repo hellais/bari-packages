@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Psychotic Ninja", 
+    "pkg_full_name": "zpaq-6.49-4.el7.psychotic.x86_64.rpm", 
+    "pkg": "zpaq", 
+    "pkg_version": "6.4", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Psychotic Ninja", 
+    "pkg_full_name": "zpaq-6.49-4.el6.psychotic.x86_64.rpm", 
+    "pkg": "zpaq", 
+    "pkg_version": "6.4", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Psychotic Ninja", 
+    "pkg_full_name": "zpaq-6.49-4.el5.psychotic.x86_64.rpm", 
+    "pkg": "zpaq", 
+    "pkg_version": "6.4", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "zpaq_1.10-1_i386.deb", 
+    "pkg": "zpaq", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "zpaq_1.10-1_i386.deb", 
+    "pkg": "zpaq", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "zpaq_1.10-1_i386.deb", 
+    "pkg": "zpaq", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "zpaq_1.10-1_i386.deb", 
+    "pkg": "zpaq", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "zpaq_1.10-1_i386.deb", 
+    "pkg": "zpaq", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

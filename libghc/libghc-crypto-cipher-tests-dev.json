@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-crypto-cipher-tests-dev_0.0.11-1+b7_amd64.deb", 
+    "pkg": "libghc-crypto-cipher-tests-dev", 
+    "pkg_version": "0.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-crypto-cipher-tests-dev_0.0.11-1+b7_amd64.deb", 
+    "pkg": "libghc-crypto-cipher-tests-dev", 
+    "pkg_version": "0.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-crypto-cipher-tests-dev_0.0.11-1build7_i386.deb", 
+    "pkg": "libghc-crypto-cipher-tests-dev", 
+    "pkg_version": "0.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

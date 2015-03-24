@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "plasma-widget-amule_2.3.1+git1a369e47-3_i386.deb", 
+    "pkg": "plasma-widget-amule", 
+    "pkg_version": "2.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "plasma-widget-amule_2.3.1-9_i386.deb", 
+    "pkg": "plasma-widget-amule", 
+    "pkg_version": "2.3.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "plasma-widget-amule_2.3.1-11_i386.deb", 
+    "pkg": "plasma-widget-amule", 
+    "pkg_version": "2.3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

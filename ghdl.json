@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "NauLinux Extras", 
+    "pkg_full_name": "ghdl-0.29-2.143svn.5.1.el6.x86_64.rpm", 
+    "pkg": "ghdl", 
+    "pkg_version": "0.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "ghdl-0.25-0.73svn.0.el5.x86_64.rpm", 
+    "pkg": "ghdl", 
+    "pkg_version": "0.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ghdl_0.29+gcc4.3.4+dfsg-1.1_i386.deb", 
+    "pkg": "ghdl", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ghdl-0.33dev-0.hg700.0.fc23.x86_64.rpm", 
+    "pkg": "ghdl", 
+    "pkg_version": "0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ghdl-0.32rc1-0.hg484.0.fc22.x86_64.rpm", 
+    "pkg": "ghdl", 
+    "pkg_version": "0.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ghdl-0.31-6.fc21.x86_64.rpm", 
+    "pkg": "ghdl", 
+    "pkg_version": "0.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

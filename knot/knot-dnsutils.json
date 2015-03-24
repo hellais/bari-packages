@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "knot-dnsutils_1.6.2-1_i386.deb", 
+    "pkg": "knot-dnsutils", 
+    "pkg_version": "1.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "knot-dnsutils_1.6.0-1_i386.deb", 
+    "pkg": "knot-dnsutils", 
+    "pkg_version": "1.6.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "knot-dnsutils_1.5.3-1~bpo70+1_i386.deb", 
+    "pkg": "knot-dnsutils", 
+    "pkg_version": "1.5.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "knot-dnsutils_1.5.0-1build1_i386.deb", 
+    "pkg": "knot-dnsutils", 
+    "pkg_version": "1.5.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

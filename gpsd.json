@@ -1,0 +1,198 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gpsd-2.94-alt2.1.x86_64.rpm", 
+    "pkg": "gpsd", 
+    "pkg_version": "2.9", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gpsd-3.11-5-x86_64.pkg.tar.xz", 
+    "pkg": "gpsd", 
+    "pkg_version": "3.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Russian Fedora Free", 
+    "pkg_full_name": "gpsd-3.9-4.el7.R.x86_64.rpm", 
+    "pkg": "gpsd", 
+    "pkg_version": "3.9", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Atomic", 
+    "pkg_full_name": "gpsd-2.39-7.el6.art.x86_64.rpm", 
+    "pkg": "gpsd", 
+    "pkg_version": "2.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gpsd_3.11-3_i386.deb", 
+    "pkg": "gpsd", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gpsd_3.11-3_i386.deb", 
+    "pkg": "gpsd", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gpsd_3.6-4+deb7u1_i386.deb", 
+    "pkg": "gpsd", 
+    "pkg_version": "3.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gpsd-3.13-2.fc23.x86_64.rpm", 
+    "pkg": "gpsd", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gpsd-3.11-1.fc22.x86_64.rpm", 
+    "pkg": "gpsd", 
+    "pkg_version": "3.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gpsd-3.11-1.fc21.x86_64.rpm", 
+    "pkg": "gpsd", 
+    "pkg_version": "3.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "gpsd-3.9-4.fc20.x86_64.rpm", 
+    "pkg": "gpsd", 
+    "pkg_version": "3.9", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gpsd-3.10-2-omv2015.0.x86_64.rpm", 
+    "pkg": "gpsd", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gpsd-2.95-10-omv2014.0.x86_64.rpm", 
+    "pkg": "gpsd", 
+    "pkg_version": "2.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gpsd-2.95-5-omv2013.0.x86_64.rpm", 
+    "pkg": "gpsd", 
+    "pkg_version": "2.9", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gpsd-3.13-1.1.x86_64.rpm", 
+    "pkg": "gpsd", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gpsd-3.10-2.1.10.x86_64.rpm", 
+    "pkg": "gpsd", 
+    "pkg_version": "3.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "gpsd-3.5-7.4.1.x86_64.rpm", 
+    "pkg": "gpsd", 
+    "pkg_version": "3.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "gpsd-2.95-7-rosa2014.1.x86_64.rpm", 
+    "pkg": "gpsd", 
+    "pkg_version": "2.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "gpsd-2.95-6-rosa2012.1.x86_64.rpm", 
+    "pkg": "gpsd", 
+    "pkg_version": "2.9", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "gpsd-2.96bis-i486-1sl.txz", 
+    "pkg": "gpsd", 
+    "pkg_version": "2.9", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gpsd_3.10+dev3~d6b65b48-2_i386.deb", 
+    "pkg": "gpsd", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gpsd_3.9-3_i386.deb", 
+    "pkg": "gpsd", 
+    "pkg_version": "3.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

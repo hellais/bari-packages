@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-charset-dev_0.3.7-1+b1_i386.deb", 
+    "pkg": "libghc-charset-dev", 
+    "pkg_version": "0.3.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-charset-dev_0.3.7-1+b1_i386.deb", 
+    "pkg": "libghc-charset-dev", 
+    "pkg_version": "0.3.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "pkg_repo": "KBS Extras Testing", 
+    "pkg_full_name": "ruby-bdb-0.6.0-1.el5.kb.x86_64.rpm", 
+    "pkg": "ruby-bdb", 
+    "pkg_version": "0.6.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-bdb_0.6.6-1+b2_i386.deb", 
+    "pkg": "ruby-bdb", 
+    "pkg_version": "0.6.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-bdb_0.6.6-1+b2_i386.deb", 
+    "pkg": "ruby-bdb", 
+    "pkg_version": "0.6.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-bdb_0.6.5-7_i386.deb", 
+    "pkg": "ruby-bdb", 
+    "pkg_version": "0.6.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "ruby-bdb-0.6.6-1-omv2013.0.x86_64.rpm", 
+    "pkg": "ruby-bdb", 
+    "pkg_version": "0.6.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "ruby-bdb-0.6.6-1-omv2013.0.x86_64.rpm", 
+    "pkg": "ruby-bdb", 
+    "pkg_version": "0.6.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "ruby-bdb-0.6.6-1-omv2013.0.x86_64.rpm", 
+    "pkg": "ruby-bdb", 
+    "pkg_version": "0.6.6", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "ruby-bdb-0.6.6-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "ruby-bdb", 
+    "pkg_version": "0.6.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "ruby-bdb-0.6.6-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "ruby-bdb", 
+    "pkg_version": "0.6.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

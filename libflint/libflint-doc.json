@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libflint-doc_2.4.4-2_all.deb", 
+    "pkg": "libflint-doc", 
+    "pkg_version": "2.4.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

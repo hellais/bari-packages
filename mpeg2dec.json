@@ -1,0 +1,530 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "mpeg2dec-0.5.1-alt3.svn20120718.x86_64.rpm", 
+    "pkg": "mpeg2dec", 
+    "pkg_version": "0.5.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "mpeg2dec-0.5.1-alt3.svn20120718.x86_64.rpm", 
+    "pkg": "mpeg2dec", 
+    "pkg_version": "0.5.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "libmpeg2-0.5.1-5-x86_64.pkg.tar.xz", 
+    "pkg": "libmpeg2", 
+    "pkg_version": "0.5.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "mpeg2dec-0.5.1-10.sdl7.x86_64.rpm", 
+    "pkg": "mpeg2dec", 
+    "pkg_version": "0.5.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "libmpeg2-0.5.1-5-x86_64.pkg.tar.xz", 
+    "pkg": "libmpeg2", 
+    "pkg_version": "0.5.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free Updates", 
+    "pkg_full_name": "mpeg2dec-0.5.1-9.el6.x86_64.rpm", 
+    "pkg": "mpeg2dec", 
+    "pkg_version": "0.5.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "libmpeg2-utils-0.5.1-2.el6.rf.x86_64.rpm", 
+    "pkg": "libmpeg2-utils", 
+    "pkg_version": "0.5.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "libmpeg2-0.5.1-5-x86_64.pkg.tar.xz", 
+    "pkg": "libmpeg2", 
+    "pkg_version": "0.5.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Scientific Linux Cyrillic Edition", 
+    "pkg_full_name": "mpeg2dec-0.4.0-8b.rf.i386.rpm", 
+    "pkg": "mpeg2dec", 
+    "pkg_version": "0.4.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "libmpeg2-utils-0.5.1-2.el5.rf.x86_64.rpm", 
+    "pkg": "libmpeg2-utils", 
+    "pkg_version": "0.5.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "libmpeg2-0.5.1-5-x86_64.pkg.tar.xz", 
+    "pkg": "libmpeg2", 
+    "pkg_version": "0.5.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mpeg2dec_0.5.1-7_i386.deb", 
+    "pkg": "mpeg2dec", 
+    "pkg_version": "0.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "libmpeg2-utils-0.5.1-2.el5.rf.x86_64.rpm", 
+    "pkg": "libmpeg2-utils", 
+    "pkg_version": "0.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "libmpeg2-0.5.1-5-x86_64.pkg.tar.xz", 
+    "pkg": "libmpeg2", 
+    "pkg_version": "0.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mpeg2dec_0.5.1-7_i386.deb", 
+    "pkg": "mpeg2dec", 
+    "pkg_version": "0.5.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "libmpeg2-utils-0.5.1-2.el5.rf.x86_64.rpm", 
+    "pkg": "libmpeg2-utils", 
+    "pkg_version": "0.5.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "libmpeg2-0.5.1-5-x86_64.pkg.tar.xz", 
+    "pkg": "libmpeg2", 
+    "pkg_version": "0.5.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mpeg2dec_0.4.1-3_i386.deb", 
+    "pkg": "mpeg2dec", 
+    "pkg_version": "0.4.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "libmpeg2-utils-0.5.1-2.el5.rf.x86_64.rpm", 
+    "pkg": "libmpeg2-utils", 
+    "pkg_version": "0.5.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "libmpeg2-0.5.1-5-x86_64.pkg.tar.xz", 
+    "pkg": "libmpeg2", 
+    "pkg_version": "0.5.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "mpeg2dec-0.5.1-11.fc21.x86_64.rpm", 
+    "pkg": "mpeg2dec", 
+    "pkg_version": "0.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "libmpeg2-utils-0.5.1-2.el5.rf.x86_64.rpm", 
+    "pkg": "libmpeg2-utils", 
+    "pkg_version": "0.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "libmpeg2-0.5.1-5-x86_64.pkg.tar.xz", 
+    "pkg": "libmpeg2", 
+    "pkg_version": "0.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "mpeg2dec-0.5.1-11.fc21.x86_64.rpm", 
+    "pkg": "mpeg2dec", 
+    "pkg_version": "0.5.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "libmpeg2-utils-0.5.1-2.el5.rf.x86_64.rpm", 
+    "pkg": "libmpeg2-utils", 
+    "pkg_version": "0.5.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "libmpeg2-0.5.1-5-x86_64.pkg.tar.xz", 
+    "pkg": "libmpeg2", 
+    "pkg_version": "0.5.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "mpeg2dec-0.5.1-10.fc19.x86_64.rpm", 
+    "pkg": "mpeg2dec", 
+    "pkg_version": "0.5.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "libmpeg2-utils-0.5.1-2.el5.rf.x86_64.rpm", 
+    "pkg": "libmpeg2-utils", 
+    "pkg_version": "0.5.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "libmpeg2-0.5.1-5-x86_64.pkg.tar.xz", 
+    "pkg": "libmpeg2", 
+    "pkg_version": "0.5.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "mpeg2dec-0.5.1-23-omv2015.0.x86_64.rpm", 
+    "pkg": "mpeg2dec", 
+    "pkg_version": "0.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "libmpeg2-utils-0.5.1-2.el5.rf.x86_64.rpm", 
+    "pkg": "libmpeg2-utils", 
+    "pkg_version": "0.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "libmpeg2-0.5.1-5-x86_64.pkg.tar.xz", 
+    "pkg": "libmpeg2", 
+    "pkg_version": "0.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "mpeg2dec-0.5.1-17-omv2014.0.x86_64.rpm", 
+    "pkg": "mpeg2dec", 
+    "pkg_version": "0.5.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "libmpeg2-utils-0.5.1-2.el5.rf.x86_64.rpm", 
+    "pkg": "libmpeg2-utils", 
+    "pkg_version": "0.5.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "libmpeg2-0.5.1-5-x86_64.pkg.tar.xz", 
+    "pkg": "libmpeg2", 
+    "pkg_version": "0.5.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "mpeg2dec-0.5.1-16-omv2013.0.x86_64.rpm", 
+    "pkg": "mpeg2dec", 
+    "pkg_version": "0.5.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "libmpeg2-utils-0.5.1-2.el5.rf.x86_64.rpm", 
+    "pkg": "libmpeg2-utils", 
+    "pkg_version": "0.5.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "libmpeg2-0.5.1-5-x86_64.pkg.tar.xz", 
+    "pkg": "libmpeg2", 
+    "pkg_version": "0.5.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "VLC", 
+    "pkg_full_name": "mpeg2dec-0.5.1-8.5.x86_64.rpm", 
+    "pkg": "mpeg2dec", 
+    "pkg_version": "0.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "libmpeg2-utils-0.5.1-2.el5.rf.x86_64.rpm", 
+    "pkg": "libmpeg2-utils", 
+    "pkg_version": "0.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "libmpeg2-0.5.1-5-x86_64.pkg.tar.xz", 
+    "pkg": "libmpeg2", 
+    "pkg_version": "0.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "VLC", 
+    "pkg_full_name": "mpeg2dec-0.5.1-8.1.x86_64.rpm", 
+    "pkg": "mpeg2dec", 
+    "pkg_version": "0.5.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "libmpeg2-utils-0.5.1-2.el5.rf.x86_64.rpm", 
+    "pkg": "libmpeg2-utils", 
+    "pkg_version": "0.5.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "libmpeg2-0.5.1-5-x86_64.pkg.tar.xz", 
+    "pkg": "libmpeg2", 
+    "pkg_version": "0.5.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "VLC", 
+    "pkg_full_name": "mpeg2dec-0.5.1-8.1.x86_64.rpm", 
+    "pkg": "mpeg2dec", 
+    "pkg_version": "0.5.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "libmpeg2-utils-0.5.1-2.el5.rf.x86_64.rpm", 
+    "pkg": "libmpeg2-utils", 
+    "pkg_version": "0.5.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "libmpeg2-0.5.1-5-x86_64.pkg.tar.xz", 
+    "pkg": "libmpeg2", 
+    "pkg_version": "0.5.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "mpeg2dec-0.5.1-12-rosa2014.1.x86_64.rpm", 
+    "pkg": "mpeg2dec", 
+    "pkg_version": "0.5.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "libmpeg2-utils-0.5.1-2.el5.rf.x86_64.rpm", 
+    "pkg": "libmpeg2-utils", 
+    "pkg_version": "0.5.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "libmpeg2-0.5.1-5-x86_64.pkg.tar.xz", 
+    "pkg": "libmpeg2", 
+    "pkg_version": "0.5.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "mpeg2dec-0.5.1-11-rosa2012.1.x86_64.rpm", 
+    "pkg": "mpeg2dec", 
+    "pkg_version": "0.5.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "libmpeg2-utils-0.5.1-2.el5.rf.x86_64.rpm", 
+    "pkg": "libmpeg2-utils", 
+    "pkg_version": "0.5.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "libmpeg2-0.5.1-5-x86_64.pkg.tar.xz", 
+    "pkg": "libmpeg2", 
+    "pkg_version": "0.5.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mpeg2dec_0.5.1-6_i386.deb", 
+    "pkg": "mpeg2dec", 
+    "pkg_version": "0.5.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "libmpeg2-utils-0.5.1-2.el5.rf.x86_64.rpm", 
+    "pkg": "libmpeg2-utils", 
+    "pkg_version": "0.5.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "libmpeg2-0.5.1-5-x86_64.pkg.tar.xz", 
+    "pkg": "libmpeg2", 
+    "pkg_version": "0.5.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mpeg2dec_0.5.1-5ubuntu1_i386.deb", 
+    "pkg": "mpeg2dec", 
+    "pkg_version": "0.5.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "libmpeg2-utils-0.5.1-2.el5.rf.x86_64.rpm", 
+    "pkg": "libmpeg2-utils", 
+    "pkg_version": "0.5.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "libmpeg2-0.5.1-5-x86_64.pkg.tar.xz", 
+    "pkg": "libmpeg2", 
+    "pkg_version": "0.5.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

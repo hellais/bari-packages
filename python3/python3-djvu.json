@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-djvu_0.3.9-3_i386.deb", 
+    "pkg": "python3-djvu", 
+    "pkg_version": "0.3.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

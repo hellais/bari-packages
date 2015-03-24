@@ -1,0 +1,253 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "phonon-backend-3-vlc-0.8.2-alt2.x86_64.rpm", 
+    "pkg": "phonon-backend-3-vlc", 
+    "pkg_version": "0.8.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "phonon-backend-3-vlc-0.8.2-alt2.x86_64.rpm", 
+    "pkg": "phonon-backend-3-vlc", 
+    "pkg_version": "0.8.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "phonon-backend-vlc_0.8.2-dmo1_i386.deb", 
+    "pkg": "phonon-backend-vlc", 
+    "pkg_version": "0.8.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "phonon-backend-3-vlc-0.8.2-alt2.x86_64.rpm", 
+    "pkg": "phonon-backend-3-vlc", 
+    "pkg_version": "0.8.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "phonon-backend-vlc_0.8.2-dmo1_i386.deb", 
+    "pkg": "phonon-backend-vlc", 
+    "pkg_version": "0.8.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "phonon-backend-3-vlc-0.8.2-alt2.x86_64.rpm", 
+    "pkg": "phonon-backend-3-vlc", 
+    "pkg_version": "0.8.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "phonon-backend-vlc_0.6.0-1_i386.deb", 
+    "pkg": "phonon-backend-vlc", 
+    "pkg_version": "0.6.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "phonon-backend-3-vlc-0.8.2-alt2.x86_64.rpm", 
+    "pkg": "phonon-backend-3-vlc", 
+    "pkg_version": "0.8.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "phonon-backend-vlc-0.8.1-2.fc21.x86_64.rpm", 
+    "pkg": "phonon-backend-vlc", 
+    "pkg_version": "0.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "phonon-backend-3-vlc-0.8.2-alt2.x86_64.rpm", 
+    "pkg": "phonon-backend-3-vlc", 
+    "pkg_version": "0.8.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free Updates", 
+    "pkg_full_name": "phonon-backend-vlc-0.8.2-1.fc21.x86_64.rpm", 
+    "pkg": "phonon-backend-vlc", 
+    "pkg_version": "0.8.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "phonon-backend-3-vlc-0.8.2-alt2.x86_64.rpm", 
+    "pkg": "phonon-backend-3-vlc", 
+    "pkg_version": "0.8.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "phonon-backend-vlc-0.7.1-1.fc20.x86_64.rpm", 
+    "pkg": "phonon-backend-vlc", 
+    "pkg_version": "0.7.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "phonon-vlc-0.8.2-2.mga5.x86_64.rpm", 
+    "pkg": "phonon-vlc", 
+    "pkg_version": "0.8.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "phonon-backend-3-vlc-0.8.2-alt2.x86_64.rpm", 
+    "pkg": "phonon-backend-3-vlc", 
+    "pkg_version": "0.8.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "phonon-backend-vlc-0.8.0-2.3.x86_64.rpm", 
+    "pkg": "phonon-backend-vlc", 
+    "pkg_version": "0.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "phonon-vlc-0.8.2-2.mga5.x86_64.rpm", 
+    "pkg": "phonon-vlc", 
+    "pkg_version": "0.8.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "phonon-backend-3-vlc-0.8.2-alt2.x86_64.rpm", 
+    "pkg": "phonon-backend-3-vlc", 
+    "pkg_version": "0.8.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "phonon-backend-vlc-0.8.0-2.4.1.x86_64.rpm", 
+    "pkg": "phonon-backend-vlc", 
+    "pkg_version": "0.8.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "phonon-vlc-0.8.2-2.mga5.x86_64.rpm", 
+    "pkg": "phonon-vlc", 
+    "pkg_version": "0.8.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "phonon-backend-3-vlc-0.8.2-alt2.x86_64.rpm", 
+    "pkg": "phonon-backend-3-vlc", 
+    "pkg_version": "0.8.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "phonon-backend-vlc-0.7.1-13.3.x86_64.rpm", 
+    "pkg": "phonon-backend-vlc", 
+    "pkg_version": "0.7.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "phonon-vlc-0.8.2-2.mga5.x86_64.rpm", 
+    "pkg": "phonon-vlc", 
+    "pkg_version": "0.8.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "phonon-backend-3-vlc-0.8.2-alt2.x86_64.rpm", 
+    "pkg": "phonon-backend-3-vlc", 
+    "pkg_version": "0.8.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "phonon-backend-vlc_0.7.80-0ubuntu2_i386.deb", 
+    "pkg": "phonon-backend-vlc", 
+    "pkg_version": "0.7.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "phonon-vlc-0.8.2-2.mga5.x86_64.rpm", 
+    "pkg": "phonon-vlc", 
+    "pkg_version": "0.8.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "phonon-backend-3-vlc-0.8.2-alt2.x86_64.rpm", 
+    "pkg": "phonon-backend-3-vlc", 
+    "pkg_version": "0.8.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "phonon-backend-vlc_0.7.80-0ubuntu1~ubuntu14.04_i386.deb", 
+    "pkg": "phonon-backend-vlc", 
+    "pkg_version": "0.7.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

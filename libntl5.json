@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libntl5_6.2.1-1_i386.deb", 
+    "pkg": "libntl5", 
+    "pkg_version": "6.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libntl5_6.2.1-1_i386.deb", 
+    "pkg": "libntl5", 
+    "pkg_version": "6.2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "libntl5-5.5.2-9-rosa2014.1.i586.rpm", 
+    "pkg": "libntl5", 
+    "pkg_version": "5.5.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "libntl5-5.5.2-8-rosa2012.1.i586.rpm", 
+    "pkg": "libntl5", 
+    "pkg_version": "5.5.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libvisio-doc-0.1.1-alt1.noarch.rpm", 
+    "pkg": "libvisio-doc", 
+    "pkg_version": "0.1.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "libvisio-doc-0.0.31-3.el7.noarch.rpm", 
+    "pkg": "libvisio-doc", 
+    "pkg_version": "0.0.3", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libvisio-doc_0.1.0-2_all.deb", 
+    "pkg": "libvisio-doc", 
+    "pkg_version": "0.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libvisio-doc_0.1.0-2_all.deb", 
+    "pkg": "libvisio-doc", 
+    "pkg_version": "0.1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libvisio-doc_0.0.17-1_all.deb", 
+    "pkg": "libvisio-doc", 
+    "pkg_version": "0.0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "libvisio-doc-0.1.1-2.fc22.noarch.rpm", 
+    "pkg": "libvisio-doc", 
+    "pkg_version": "0.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "libvisio-doc-0.1.1-2.fc22.noarch.rpm", 
+    "pkg": "libvisio-doc", 
+    "pkg_version": "0.1.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "libvisio-doc-0.1.1-1.fc21.noarch.rpm", 
+    "pkg": "libvisio-doc", 
+    "pkg_version": "0.1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "libvisio-doc-0.0.31-1.fc20.noarch.rpm", 
+    "pkg": "libvisio-doc", 
+    "pkg_version": "0.0.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "libvisio-doc-0.0.21-1-rosa2012.1.noarch.rpm", 
+    "pkg": "libvisio-doc", 
+    "pkg_version": "0.0.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libvisio-doc_0.1.0-2_all.deb", 
+    "pkg": "libvisio-doc", 
+    "pkg_version": "0.1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libvisio-doc_0.0.31-1ubuntu2_all.deb", 
+    "pkg": "libvisio-doc", 
+    "pkg_version": "0.0.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

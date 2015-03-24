@@ -1,0 +1,225 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "inkscape-0.91-alt1.x86_64.rpm", 
+    "pkg": "inkscape", 
+    "pkg_version": "0.9", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "inkscape-0.91-6-x86_64.pkg.tar.xz", 
+    "pkg": "inkscape", 
+    "pkg_version": "0.9", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "inkscape-0.48.4-10.el7.x86_64.rpm", 
+    "pkg": "inkscape", 
+    "pkg_version": "0.4", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "inkscape-0.47-6.el6.x86_64.rpm", 
+    "pkg": "inkscape", 
+    "pkg_version": "0.4", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Scientific Linux Cyrillic Edition", 
+    "pkg_full_name": "inkscape-0.45.1-1.Nau5x.i386.rpm", 
+    "pkg": "inkscape", 
+    "pkg_version": "0.4", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "inkscape_0.48.5-3_i386.deb", 
+    "pkg": "inkscape", 
+    "pkg_version": "0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "inkscape_0.48.5-3_i386.deb", 
+    "pkg": "inkscape", 
+    "pkg_version": "0.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "inkscape_0.48.3.1-1.3_i386.deb", 
+    "pkg": "inkscape", 
+    "pkg_version": "0.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "inkscape-0.91-5.fc23.x86_64.rpm", 
+    "pkg": "inkscape", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "inkscape-0.91-4.fc22.x86_64.rpm", 
+    "pkg": "inkscape", 
+    "pkg_version": "0.9", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "inkscape-0.91-2.fc21.x86_64.rpm", 
+    "pkg": "inkscape", 
+    "pkg_version": "0.9", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "inkscape-0.91-2.fc20.x86_64.rpm", 
+    "pkg": "inkscape", 
+    "pkg_version": "0.9", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "inkscape-0.91-2-omv2015.0.x86_64.rpm", 
+    "pkg": "inkscape", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "inkscape-0.48.4-8.1-omv2014.0.x86_64.rpm", 
+    "pkg": "inkscape", 
+    "pkg_version": "0.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "inkscape-0.48.4-6-omv2013.0.x86_64.rpm", 
+    "pkg": "inkscape", 
+    "pkg_version": "0.4", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "inkscape-0.91-1.2.x86_64.rpm", 
+    "pkg": "inkscape", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "inkscape-0.48.5-4.1.4.x86_64.rpm", 
+    "pkg": "inkscape", 
+    "pkg_version": "0.4", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "inkscape-0.48.4-5.1.6.i586.rpm", 
+    "pkg": "inkscape", 
+    "pkg_version": "0.4", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "inkscape-0.91-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "inkscape", 
+    "pkg_version": "0.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "inkscape-0.48.90-20130904-rosa2012.1.x86_64.rpm", 
+    "pkg": "inkscape", 
+    "pkg_version": "0.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "rworkman's Packages", 
+    "pkg_full_name": "inkscape-0.91pre1-x86_64-1_rlw.txz", 
+    "pkg": "inkscape", 
+    "pkg_version": "0.9", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "inkscape-0.48.4-x86_64-1sl.txz", 
+    "pkg": "inkscape", 
+    "pkg_version": "0.4", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "inkscape-0.48.2-x86_64-1sl.txz", 
+    "pkg": "inkscape", 
+    "pkg_version": "0.4", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "inkscape_0.48.5-2ubuntu1_i386.deb", 
+    "pkg": "inkscape", 
+    "pkg_version": "0.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "inkscape_0.48.4-3ubuntu2_i386.deb", 
+    "pkg": "inkscape", 
+    "pkg_version": "0.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

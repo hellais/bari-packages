@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmagics++-metview-dev_2.22.7.dfsg.1-4_i386.deb", 
+    "pkg": "libmagics++-metview-dev", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmagics++-metview-dev_2.22.7.dfsg.1-4_i386.deb", 
+    "pkg": "libmagics++-metview-dev", 
+    "pkg_version": "2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libmagics++-metview-dev_2.18.15-7_i386.deb", 
+    "pkg": "libmagics++-metview-dev", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

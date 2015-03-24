@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lgogdownloader_2.19-1_i386.deb", 
+    "pkg": "lgogdownloader", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lgogdownloader_2.19-1_i386.deb", 
+    "pkg": "lgogdownloader", 
+    "pkg_version": "2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "WebUpd8", 
+    "pkg_full_name": "lgogdownloader_2.20-1~webupd8~utopic_i386.deb", 
+    "pkg": "lgogdownloader", 
+    "pkg_version": "2.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

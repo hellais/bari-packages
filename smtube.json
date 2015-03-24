@@ -1,0 +1,350 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "smtube-2.1-alt1.x86_64.rpm", 
+    "pkg": "smtube", 
+    "pkg_version": "2.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "smtube-15.1.0-1-x86_64.pkg.tar.xz", 
+    "pkg": "smtube-1", 
+    "pkg_version": "5.1.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "smtube-2.1-alt1.x86_64.rpm", 
+    "pkg": "smtube", 
+    "pkg_version": "2.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "smtube-15.1.0-1-x86_64.pkg.tar.xz", 
+    "pkg": "smtube-1", 
+    "pkg_version": "5.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smtube_14.8.0-1_i386.deb", 
+    "pkg": "smtube_1", 
+    "pkg_version": "4.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "smtube-2.1-alt1.x86_64.rpm", 
+    "pkg": "smtube", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "smtube-15.1.0-1-x86_64.pkg.tar.xz", 
+    "pkg": "smtube-1", 
+    "pkg_version": "5.1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smtube_14.8.0-1_i386.deb", 
+    "pkg": "smtube_1", 
+    "pkg_version": "4.8.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "smtube-2.1-alt1.x86_64.rpm", 
+    "pkg": "smtube", 
+    "pkg_version": "2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "smtube-14.8.0-2-omv2015.0.x86_64.rpm", 
+    "pkg": "smtube-1", 
+    "pkg_version": "4.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smtube_14.8.0-1_i386.deb", 
+    "pkg": "smtube_1", 
+    "pkg_version": "4.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "smtube-1.7-2.mga4.x86_64.rpm", 
+    "pkg": "smtube", 
+    "pkg_version": "1.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib Updates", 
+    "pkg_full_name": "smtube-14.8.0-1-omv2014.0.x86_64.rpm", 
+    "pkg": "smtube-1", 
+    "pkg_version": "4.8.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smtube_14.8.0-1_i386.deb", 
+    "pkg": "smtube_1", 
+    "pkg_version": "4.8.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "smtube-1.6-1-omv2013.0.x86_64.rpm", 
+    "pkg": "smtube", 
+    "pkg_version": "1.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib Updates", 
+    "pkg_full_name": "smtube-14.8.0-1-omv2014.0.x86_64.rpm", 
+    "pkg": "smtube-1", 
+    "pkg_version": "4.8.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smtube_14.8.0-1_i386.deb", 
+    "pkg": "smtube_1", 
+    "pkg_version": "4.8.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "smtube-1.6-1-omv2013.0.x86_64.rpm", 
+    "pkg": "smtube", 
+    "pkg_version": "1.6", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "smtube-15.1.0-1.3.x86_64.rpm", 
+    "pkg": "smtube-1", 
+    "pkg_version": "5.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smtube_14.8.0-1_i386.deb", 
+    "pkg": "smtube_1", 
+    "pkg_version": "4.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "smtube-1.6-1-omv2013.0.x86_64.rpm", 
+    "pkg": "smtube", 
+    "pkg_version": "1.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "smtube-15.1.0-1.1.x86_64.rpm", 
+    "pkg": "smtube-1", 
+    "pkg_version": "5.1.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smtube_14.8.0-1_i386.deb", 
+    "pkg": "smtube_1", 
+    "pkg_version": "4.8.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "smtube-1.6-1-omv2013.0.x86_64.rpm", 
+    "pkg": "smtube", 
+    "pkg_version": "1.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "smtube-15.1.0-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "smtube-1", 
+    "pkg_version": "5.1.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smtube_14.8.0-1_i386.deb", 
+    "pkg": "smtube_1", 
+    "pkg_version": "4.8.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "smtube-2.1-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "smtube", 
+    "pkg_version": "2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "smtube-15.1.0-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "smtube-1", 
+    "pkg_version": "5.1.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smtube_14.8.0-1_i386.deb", 
+    "pkg": "smtube_1", 
+    "pkg_version": "4.8.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "smtube-2.1-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "smtube", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackers", 
+    "pkg_full_name": "smtube-15.1.0-x86_64-2cf.txz", 
+    "pkg": "smtube-1", 
+    "pkg_version": "5.1.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smtube_14.8.0-1_i386.deb", 
+    "pkg": "smtube_1", 
+    "pkg_version": "4.8.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "smtube-2.1-x86_64-2sl.txz", 
+    "pkg": "smtube", 
+    "pkg_version": "2.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackers", 
+    "pkg_full_name": "smtube-15.1.0-x86_64-2cf.txz", 
+    "pkg": "smtube-1", 
+    "pkg_version": "5.1.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smtube_14.8.0-1_i386.deb", 
+    "pkg": "smtube_1", 
+    "pkg_version": "4.8.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "smtube-1.2.1-i486-1sl.txz", 
+    "pkg": "smtube", 
+    "pkg_version": "1.2.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackers", 
+    "pkg_full_name": "smtube-15.1.0-x86_64-2cf.txz", 
+    "pkg": "smtube-1", 
+    "pkg_version": "5.1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "smtube_14.8.0-1_i386.deb", 
+    "pkg": "smtube_1", 
+    "pkg_version": "4.8.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "smtube_2.1-2_i386.deb", 
+    "pkg": "smtube", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

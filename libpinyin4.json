@@ -1,0 +1,83 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpinyin4_1.0.0+repack2-1_i386.deb", 
+    "pkg": "libpinyin4", 
+    "pkg_version": "1.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpinyin4_1.0.0+repack2-1_i386.deb", 
+    "pkg": "libpinyin4", 
+    "pkg_version": "1.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "libpinyin4_1.0.0+repack2-1~bpo70+1_i386.deb", 
+    "pkg": "libpinyin4", 
+    "pkg_version": "1.0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libpinyin4-0.9.91-8-omv2015.0.i586.rpm", 
+    "pkg": "libpinyin4", 
+    "pkg_version": "0.9.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libpinyin4-0.9.91-2-omv2014.0.i586.rpm", 
+    "pkg": "libpinyin4", 
+    "pkg_version": "0.9.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libpinyin4-0.9.91-1-omv2013.0.i586.rpm", 
+    "pkg": "libpinyin4", 
+    "pkg_version": "0.9.9", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libpinyin4-1.0.0-4.1.7.x86_64.rpm", 
+    "pkg": "libpinyin4", 
+    "pkg_version": "1.0.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libpinyin4-0.9.93-2.1.3.i586.rpm", 
+    "pkg": "libpinyin4", 
+    "pkg_version": "0.9.9", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libpinyin4_1.0.0+repack2-1_i386.deb", 
+    "pkg": "libpinyin4", 
+    "pkg_version": "1.0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

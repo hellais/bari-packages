@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-diffy_3.0.6-1_all.deb", 
+    "pkg": "ruby-diffy", 
+    "pkg_version": "3.0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

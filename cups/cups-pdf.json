@@ -1,0 +1,351 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "cups-pdf-2.6.1-alt1.x86_64.rpm", 
+    "pkg": "cups-pdf", 
+    "pkg_version": "2.6.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "cups-pdf-2.6.1-2-x86_64.pkg.tar.xz", 
+    "pkg": "cups-pdf", 
+    "pkg_version": "2.6.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "cups-pdf-2.6.1-7.el7.x86_64.rpm", 
+    "pkg": "cups-pdf", 
+    "pkg_version": "2.6.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "cups-pdf-2.5.1-1.el6.remi.x86_64.rpm", 
+    "pkg": "cups-pdf", 
+    "pkg_version": "2.5.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "cups-pdf-2.5.1-1.el5.remi.x86_64.rpm", 
+    "pkg": "cups-pdf", 
+    "pkg_version": "2.5.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "printer-driver-cups-pdf_2.6.1-17_i386.deb", 
+    "pkg": "printer-driver-cups-pdf", 
+    "pkg_version": "2.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cups-pdf_2.6.1-17_i386.deb", 
+    "pkg": "cups-pdf", 
+    "pkg_version": "2.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "printer-driver-cups-pdf_2.6.1-15_i386.deb", 
+    "pkg": "printer-driver-cups-pdf", 
+    "pkg_version": "2.6.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cups-pdf_2.6.1-15_i386.deb", 
+    "pkg": "cups-pdf", 
+    "pkg_version": "2.6.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "printer-driver-cups-pdf_2.6.1-15_i386.deb", 
+    "pkg": "printer-driver-cups-pdf", 
+    "pkg_version": "2.6.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cups-pdf_2.6.1-6_i386.deb", 
+    "pkg": "cups-pdf", 
+    "pkg_version": "2.6.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "printer-driver-cups-pdf_2.6.1-15_i386.deb", 
+    "pkg": "printer-driver-cups-pdf", 
+    "pkg_version": "2.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "cups-pdf-2.6.1-9.fc22.x86_64.rpm", 
+    "pkg": "cups-pdf", 
+    "pkg_version": "2.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "printer-driver-cups-pdf_2.6.1-15_i386.deb", 
+    "pkg": "printer-driver-cups-pdf", 
+    "pkg_version": "2.6.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "cups-pdf-2.6.1-9.fc22.x86_64.rpm", 
+    "pkg": "cups-pdf", 
+    "pkg_version": "2.6.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "printer-driver-cups-pdf_2.6.1-15_i386.deb", 
+    "pkg": "printer-driver-cups-pdf", 
+    "pkg_version": "2.6.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "cups-pdf-2.6.1-9.fc21.x86_64.rpm", 
+    "pkg": "cups-pdf", 
+    "pkg_version": "2.6.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "printer-driver-cups-pdf_2.6.1-15_i386.deb", 
+    "pkg": "printer-driver-cups-pdf", 
+    "pkg_version": "2.6.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "cups-pdf-2.6.1-7.fc20.x86_64.rpm", 
+    "pkg": "cups-pdf", 
+    "pkg_version": "2.6.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "printer-driver-cups-pdf_2.6.1-15_i386.deb", 
+    "pkg": "printer-driver-cups-pdf", 
+    "pkg_version": "2.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "cups-pdf-2.6.1-1-omv2013.0.x86_64.rpm", 
+    "pkg": "cups-pdf", 
+    "pkg_version": "2.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "printer-driver-cups-pdf_2.6.1-15_i386.deb", 
+    "pkg": "printer-driver-cups-pdf", 
+    "pkg_version": "2.6.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "cups-pdf-2.6.1-1-omv2013.0.x86_64.rpm", 
+    "pkg": "cups-pdf", 
+    "pkg_version": "2.6.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "printer-driver-cups-pdf_2.6.1-15_i386.deb", 
+    "pkg": "printer-driver-cups-pdf", 
+    "pkg_version": "2.6.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "cups-pdf-2.6.1-1-omv2013.0.x86_64.rpm", 
+    "pkg": "cups-pdf", 
+    "pkg_version": "2.6.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "printer-driver-cups-pdf_2.6.1-15_i386.deb", 
+    "pkg": "printer-driver-cups-pdf", 
+    "pkg_version": "2.6.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "cups-pdf-2.6.1-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "cups-pdf", 
+    "pkg_version": "2.6.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "printer-driver-cups-pdf_2.6.1-15_i386.deb", 
+    "pkg": "printer-driver-cups-pdf", 
+    "pkg_version": "2.6.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "cups-pdf-2.6.1-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "cups-pdf", 
+    "pkg_version": "2.6.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "printer-driver-cups-pdf_2.6.1-15_i386.deb", 
+    "pkg": "printer-driver-cups-pdf", 
+    "pkg_version": "2.6.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "rworkman's Packages", 
+    "pkg_full_name": "cups-pdf-3.0beta1-x86_64-1_rlw.txz", 
+    "pkg": "cups-pdf", 
+    "pkg_version": "3.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "printer-driver-cups-pdf_2.6.1-15_i386.deb", 
+    "pkg": "printer-driver-cups-pdf", 
+    "pkg_version": "2.6.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "rworkman's Packages", 
+    "pkg_full_name": "cups-pdf-3.0beta1-i486-1_rlw.txz", 
+    "pkg": "cups-pdf", 
+    "pkg_version": "3.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "printer-driver-cups-pdf_2.6.1-15_i386.deb", 
+    "pkg": "printer-driver-cups-pdf", 
+    "pkg_version": "2.6.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "cups-pdf-2.6.1-x86_64-1ab.txz", 
+    "pkg": "cups-pdf", 
+    "pkg_version": "2.6.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "printer-driver-cups-pdf_2.6.1-13_i386.deb", 
+    "pkg": "printer-driver-cups-pdf", 
+    "pkg_version": "2.6.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "cups-pdf_2.6.1-13_all.deb", 
+    "pkg": "cups-pdf", 
+    "pkg_version": "2.6.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "printer-driver-cups-pdf_2.6.1-13_i386.deb", 
+    "pkg": "printer-driver-cups-pdf", 
+    "pkg_version": "2.6.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "cups-pdf_2.6.1-9_i386.deb", 
+    "pkg": "cups-pdf", 
+    "pkg_version": "2.6.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "trackballs-1.1.4-alt1.qa1.x86_64.rpm", 
+    "pkg": "trackballs", 
+    "pkg_version": "1.1.4", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "trackballs-1.1.4-1.el5.rf.x86_64.rpm", 
+    "pkg": "trackballs", 
+    "pkg_version": "1.1.4", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "trackballs_1.1.4-4.1_i386.deb", 
+    "pkg": "trackballs", 
+    "pkg_version": "1.1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "trackballs_1.1.4-4.1_i386.deb", 
+    "pkg": "trackballs", 
+    "pkg_version": "1.1.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "trackballs-1.1.4-23.fc22.x86_64.rpm", 
+    "pkg": "trackballs", 
+    "pkg_version": "1.1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "trackballs-1.1.4-23.fc22.x86_64.rpm", 
+    "pkg": "trackballs", 
+    "pkg_version": "1.1.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "trackballs-1.1.4-23.fc21.x86_64.rpm", 
+    "pkg": "trackballs", 
+    "pkg_version": "1.1.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "trackballs-1.1.4-20.fc20.x86_64.rpm", 
+    "pkg": "trackballs", 
+    "pkg_version": "1.1.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "trackballs-1.1.4-161.59.x86_64.rpm", 
+    "pkg": "trackballs", 
+    "pkg_version": "1.1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "trackballs-1.1.4-161.2.x86_64.rpm", 
+    "pkg": "trackballs", 
+    "pkg_version": "1.1.4", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "trackballs-1.1.4-161.1.x86_64.rpm", 
+    "pkg": "trackballs", 
+    "pkg_version": "1.1.4", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ponce", 
+    "pkg_full_name": "trackballs-1.1.4-x86_64-2ponce.txz", 
+    "pkg": "trackballs", 
+    "pkg_version": "1.1.4", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ponce", 
+    "pkg_full_name": "trackballs-1.1.4-x86_64-1ponce.txz", 
+    "pkg": "trackballs", 
+    "pkg_version": "1.1.4", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ponce", 
+    "pkg_full_name": "trackballs-1.1.4-x86_64-1ponce.txz", 
+    "pkg": "trackballs", 
+    "pkg_version": "1.1.4", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "trackballs_1.1.4-4.1_i386.deb", 
+    "pkg": "trackballs", 
+    "pkg_version": "1.1.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "trackballs_1.1.4-4.1_i386.deb", 
+    "pkg": "trackballs", 
+    "pkg_version": "1.1.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

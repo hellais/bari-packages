@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "wizznic_0.9.2-preview2+dfsg-1.1_i386.deb", 
+    "pkg": "wizznic", 
+    "pkg_version": "0.9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "wizznic_0.9.2-preview2+dfsg-1.1_i386.deb", 
+    "pkg": "wizznic", 
+    "pkg_version": "0.9.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "wizznic_0.9.2-preview2+dfsg-1.1_i386.deb", 
+    "pkg": "wizznic", 
+    "pkg_version": "0.9.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "wizznic-0.9.9-1.2.x86_64.rpm", 
+    "pkg": "wizznic", 
+    "pkg_version": "0.9.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "wizznic-0.9.9-3.4.x86_64.rpm", 
+    "pkg": "wizznic", 
+    "pkg_version": "0.9.9", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "wizznic-0.9.9-3.5.x86_64.rpm", 
+    "pkg": "wizznic", 
+    "pkg_version": "0.9.9", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "wizznic-0.9.9-5-rosa2014.1.x86_64.rpm", 
+    "pkg": "wizznic", 
+    "pkg_version": "0.9.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "wizznic-0.9.9-3-rosa2012.1.x86_64.rpm", 
+    "pkg": "wizznic", 
+    "pkg_version": "0.9.9", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "wizznic_0.9.2-preview2+dfsg-1.1_i386.deb", 
+    "pkg": "wizznic", 
+    "pkg_version": "0.9.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "wizznic_0.9.2-preview2+dfsg-1.1_i386.deb", 
+    "pkg": "wizznic", 
+    "pkg_version": "0.9.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

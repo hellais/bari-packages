@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-coffin-doc_0.3.8-1_all.deb", 
+    "pkg": "python-coffin-doc", 
+    "pkg_version": "0.3.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

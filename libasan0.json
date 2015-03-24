@@ -1,0 +1,73 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libasan0-4.8.2-alt4.x86_64.rpm", 
+    "pkg": "libasan0", 
+    "pkg_version": "4.8.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libasan0_4.8.4-1_i386.deb", 
+    "pkg": "libasan0", 
+    "pkg_version": "4.8.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libasan0_4.8.4-1_i386.deb", 
+    "pkg": "libasan0", 
+    "pkg_version": "4.8.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "libasan0-4.8.3_2014.01-2.1-omv2014.0.x86_64.rpm", 
+    "pkg": "libasan0", 
+    "pkg_version": "4.8.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libasan0-4.8.3+r218481-2.1.x86_64.rpm", 
+    "pkg": "libasan0", 
+    "pkg_version": "4.8.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libasan0-4.8.3+r212056-2.2.4.x86_64.rpm", 
+    "pkg": "libasan0", 
+    "pkg_version": "4.8.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libasan0-4.8.1_20130909-3.2.1.i586.rpm", 
+    "pkg": "libasan0", 
+    "pkg_version": "4.8.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libasan0_4.8.3-12ubuntu3_i386.deb", 
+    "pkg": "libasan0", 
+    "pkg_version": "4.8.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

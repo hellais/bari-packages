@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "apt-cacher_1.7.10_all.deb", 
+    "pkg": "apt-cacher", 
+    "pkg_version": "1.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "apt-cacher_1.7.10_all.deb", 
+    "pkg": "apt-cacher", 
+    "pkg_version": "1.7.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "apt-cacher_1.7.6_all.deb", 
+    "pkg": "apt-cacher", 
+    "pkg_version": "1.7.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "apt-cacher_1.7.9.1_all.deb", 
+    "pkg": "apt-cacher", 
+    "pkg_version": "1.7.9.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "apt-cacher_1.7.8_all.deb", 
+    "pkg": "apt-cacher", 
+    "pkg_version": "1.7.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

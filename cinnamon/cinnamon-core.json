@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cinnamon-core_2.2.4_all.deb", 
+    "pkg": "cinnamon-core", 
+    "pkg_version": "2.2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

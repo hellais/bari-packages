@@ -1,0 +1,55 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "erc-0.6-alt1.noarch.rpm", 
+    "pkg": "erc", 
+    "pkg_version": "0.6", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "erc_5.3-1_all.deb", 
+    "pkg": "erc", 
+    "pkg_version": "5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "erc_5.3-1_all.deb", 
+    "pkg": "erc", 
+    "pkg_version": "5.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "erc_5.3-1_all.deb", 
+    "pkg": "erc", 
+    "pkg_version": "5.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "erc_5.3-1ubuntu2_all.deb", 
+    "pkg": "erc", 
+    "pkg_version": "5.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "erc_5.3-1ubuntu1_all.deb", 
+    "pkg": "erc", 
+    "pkg_version": "5.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

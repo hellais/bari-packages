@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsolv-perl_0.6.5-1_i386.deb", 
+    "pkg": "libsolv-perl", 
+    "pkg_version": "0.6.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

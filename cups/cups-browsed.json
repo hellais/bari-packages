@@ -1,0 +1,137 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cups-browsed_1.0.61-5_i386.deb", 
+    "pkg": "cups-browsed", 
+    "pkg_version": "1.0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cups-browsed_1.0.61-5_i386.deb", 
+    "pkg": "cups-browsed", 
+    "pkg_version": "1.0.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "cups-browsed-1.0.65-1-omv2015.0.x86_64.rpm", 
+    "pkg": "cups-browsed", 
+    "pkg_version": "1.0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "cups-browsed-1.0.49-4-omv2014.0.x86_64.rpm", 
+    "pkg": "cups-browsed", 
+    "pkg_version": "1.0.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "cups-browsed-1.0.38-2-omv2013.0.x86_64.rpm", 
+    "pkg": "cups-browsed", 
+    "pkg_version": "1.0.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "cups-filters-cups-browsed-1.0.67-1.1.x86_64.rpm", 
+    "pkg": "cups-filters-cups-browsed", 
+    "pkg_version": "1.0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "cups-browsed-1.0.38-2-omv2013.0.x86_64.rpm", 
+    "pkg": "cups-browsed", 
+    "pkg_version": "1.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "cups-filters-cups-browsed-1.0.58-2.4.1.x86_64.rpm", 
+    "pkg": "cups-filters-cups-browsed", 
+    "pkg_version": "1.0.5", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "cups-browsed-1.0.38-2-omv2013.0.x86_64.rpm", 
+    "pkg": "cups-browsed", 
+    "pkg_version": "1.0.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "cups-filters-cups-browsed-1.0.58-2.4.1.x86_64.rpm", 
+    "pkg": "cups-filters-cups-browsed", 
+    "pkg_version": "1.0.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "cups-browsed-1.0.54-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "cups-browsed", 
+    "pkg_version": "1.0.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "cups-filters-cups-browsed-1.0.58-2.4.1.x86_64.rpm", 
+    "pkg": "cups-filters-cups-browsed", 
+    "pkg_version": "1.0.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "cups-browsed-1.0.41-8-rosa2012.1.x86_64.rpm", 
+    "pkg": "cups-browsed", 
+    "pkg_version": "1.0.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "cups-filters-cups-browsed-1.0.58-2.4.1.x86_64.rpm", 
+    "pkg": "cups-filters-cups-browsed", 
+    "pkg_version": "1.0.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "cups-browsed_1.0.61-0ubuntu2.1_i386.deb", 
+    "pkg": "cups-browsed", 
+    "pkg_version": "1.0.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

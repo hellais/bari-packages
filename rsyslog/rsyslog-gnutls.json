@@ -1,0 +1,127 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "rsyslog-gnutls-8.7.0-alt1.x86_64.rpm", 
+    "pkg": "rsyslog-gnutls", 
+    "pkg_version": "8.7.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "rsyslog-gnutls-7.4.7-7.el7_0.x86_64.rpm", 
+    "pkg": "rsyslog-gnutls", 
+    "pkg_version": "7.4.7", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Ghettoforge Plus", 
+    "pkg_full_name": "rsyslog-gnutls-8.2.0-3.gf.el6.x86_64.rpm", 
+    "pkg": "rsyslog-gnutls", 
+    "pkg_version": "8.2.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "rsyslog-gnutls-4.4.2-2.centos5.x86_64.rpm", 
+    "pkg": "rsyslog-gnutls", 
+    "pkg_version": "4.4.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rsyslog-gnutls_8.4.2-1_i386.deb", 
+    "pkg": "rsyslog-gnutls", 
+    "pkg_version": "8.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rsyslog-gnutls_8.4.2-1_i386.deb", 
+    "pkg": "rsyslog-gnutls", 
+    "pkg_version": "8.4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "rsyslog-gnutls_5.8.11-3+deb7u2_i386.deb", 
+    "pkg": "rsyslog-gnutls", 
+    "pkg_version": "5.8.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rsyslog-gnutls-8.8.0-2.fc23.x86_64.rpm", 
+    "pkg": "rsyslog-gnutls", 
+    "pkg_version": "8.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rsyslog-gnutls-7.4.10-5.fc22.x86_64.rpm", 
+    "pkg": "rsyslog-gnutls", 
+    "pkg_version": "7.4.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rsyslog-gnutls-7.4.10-5.fc21.x86_64.rpm", 
+    "pkg": "rsyslog-gnutls", 
+    "pkg_version": "7.4.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "rsyslog-gnutls-7.4.8-2.fc20.x86_64.rpm", 
+    "pkg": "rsyslog-gnutls", 
+    "pkg_version": "7.4.8", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "rsyslog-gnutls-8.4.2-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "rsyslog-gnutls", 
+    "pkg_version": "8.4.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "rsyslog-gnutls_7.4.4-1ubuntu11.2_i386.deb", 
+    "pkg": "rsyslog-gnutls", 
+    "pkg_version": "7.4.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "rsyslog-gnutls_7.4.4-1ubuntu2.5_i386.deb", 
+    "pkg": "rsyslog-gnutls", 
+    "pkg_version": "7.4.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-builder-doc-3.0.0-alt1.1.noarch.rpm", 
+    "pkg": "ruby-builder-doc", 
+    "pkg_version": "3.0.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-builder-doc_3.2.2-4_all.deb", 
+    "pkg": "ruby-builder-doc", 
+    "pkg_version": "3.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-builder-doc_3.2.2-4_all.deb", 
+    "pkg": "ruby-builder-doc", 
+    "pkg_version": "3.2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ruby-builder-doc_3.2.2-3_all.deb", 
+    "pkg": "ruby-builder-doc", 
+    "pkg_version": "3.2.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

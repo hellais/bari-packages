@@ -1,0 +1,200 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "print-manager_4.14.0-1_i386.deb", 
+    "pkg": "print-manager", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "print-manager_4.14.0-1_i386.deb", 
+    "pkg": "print-manager", 
+    "pkg_version": "4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kde4-print-manager-14.12.3-1.1.x86_64.rpm", 
+    "pkg": "kde4-print-manager-1", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mint Import", 
+    "pkg_full_name": "print-manager_4.14.2-0ubuntu1~ubuntu14.04~ppa1_i386.deb", 
+    "pkg": "print-manager", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kde4-print-manager-14.12.3-16.3.x86_64.rpm", 
+    "pkg": "kde4-print-manager-1", 
+    "pkg_version": "4.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mint Import", 
+    "pkg_full_name": "print-manager_4.14.2-0ubuntu1~ubuntu14.04~ppa1_i386.deb", 
+    "pkg": "print-manager", 
+    "pkg_version": "4.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kde4-print-manager-4.14.3-4.5.x86_64.rpm", 
+    "pkg": "kde4-print-manager", 
+    "pkg_version": "4.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kde4-print-manager-14.12.3-16.3.x86_64.rpm", 
+    "pkg": "kde4-print-manager-1", 
+    "pkg_version": "4.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mint Import", 
+    "pkg_full_name": "print-manager_4.14.2-0ubuntu1~ubuntu14.04~ppa1_i386.deb", 
+    "pkg": "print-manager", 
+    "pkg_version": "4.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kde4-print-manager-4.11.5-128.1.x86_64.rpm", 
+    "pkg": "kde4-print-manager", 
+    "pkg_version": "4.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kde4-print-manager-14.12.3-16.3.x86_64.rpm", 
+    "pkg": "kde4-print-manager-1", 
+    "pkg_version": "4.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "print-manager-4.10.5-x86_64-1.txz", 
+    "pkg": "print-manager", 
+    "pkg_version": "4.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kde4-print-manager-4.11.5-128.1.x86_64.rpm", 
+    "pkg": "kde4-print-manager", 
+    "pkg_version": "4.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kde4-print-manager-14.12.3-16.3.x86_64.rpm", 
+    "pkg": "kde4-print-manager-1", 
+    "pkg_version": "4.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ktown", 
+    "pkg_full_name": "print-manager-4.10.5-x86_64-1alien.txz", 
+    "pkg": "print-manager", 
+    "pkg_version": "4.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kde4-print-manager-4.11.5-128.1.x86_64.rpm", 
+    "pkg": "kde4-print-manager", 
+    "pkg_version": "4.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kde4-print-manager-14.12.3-16.3.x86_64.rpm", 
+    "pkg": "kde4-print-manager-1", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "print-manager_4.14.1-0ubuntu1_i386.deb", 
+    "pkg": "print-manager", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kde4-print-manager-4.11.5-128.1.x86_64.rpm", 
+    "pkg": "kde4-print-manager", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kde4-print-manager-14.12.3-16.3.x86_64.rpm", 
+    "pkg": "kde4-print-manager-1", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "print-manager_4.13.3-0ubuntu0.1_i386.deb", 
+    "pkg": "print-manager", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kde4-print-manager-4.11.5-128.1.x86_64.rpm", 
+    "pkg": "kde4-print-manager", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

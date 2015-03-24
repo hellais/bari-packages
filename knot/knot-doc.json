@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "knot-doc_1.6.2-1_all.deb", 
+    "pkg": "knot-doc", 
+    "pkg_version": "1.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "knot-doc_1.6.0-1_all.deb", 
+    "pkg": "knot-doc", 
+    "pkg_version": "1.6.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "knot-doc_1.5.3-1~bpo70+1_all.deb", 
+    "pkg": "knot-doc", 
+    "pkg_version": "1.5.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "knot-doc-1.99.1-2.fc23.noarch.rpm", 
+    "pkg": "knot-doc", 
+    "pkg_version": "1.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "knot-doc_1.5.0-1build1_all.deb", 
+    "pkg": "knot-doc", 
+    "pkg_version": "1.5.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

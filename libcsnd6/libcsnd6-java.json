@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcsnd6-java_6.03.2~dfsg-1_i386.deb", 
+    "pkg": "libcsnd6-java", 
+    "pkg_version": "6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcsnd6-java_6.03.2~dfsg-1_i386.deb", 
+    "pkg": "libcsnd6-java", 
+    "pkg_version": "6.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libcsnd6-java_6.03.2~dfsg-1_i386.deb", 
+    "pkg": "libcsnd6-java", 
+    "pkg_version": "6.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcairo-script-interpreter2_1.14.0-2.1_i386.deb", 
+    "pkg": "libcairo-script-interpreter2", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcairo-script-interpreter2_1.14.0-2.1_i386.deb", 
+    "pkg": "libcairo-script-interpreter2", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcairo-script-interpreter2_1.12.2-3_i386.deb", 
+    "pkg": "libcairo-script-interpreter2", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libcairo-script-interpreter2-1.14.2-1-omv2015.0.i586.rpm", 
+    "pkg": "libcairo-script-interpreter2", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libcairo-script-interpreter2-1.12.16-9-omv2014.0.i586.rpm", 
+    "pkg": "libcairo-script-interpreter2", 
+    "pkg_version": "1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libcairo-script-interpreter2-1.12.14-4-omv2013.0.i586.rpm", 
+    "pkg": "libcairo-script-interpreter2", 
+    "pkg_version": "1.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libcairo-script-interpreter2-1.14.2-1.1.x86_64.rpm", 
+    "pkg": "libcairo-script-interpreter2", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "libcairo-script-interpreter2-1.14.0-7.8.1.x86_64.rpm", 
+    "pkg": "libcairo-script-interpreter2", 
+    "pkg_version": "1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "libcairo-script-interpreter2-1.12.16-3.4.1.x86_64.rpm", 
+    "pkg": "libcairo-script-interpreter2", 
+    "pkg_version": "1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "libcairo-script-interpreter2_1.13.0~20140204-0ubuntu1.1_i386.deb", 
+    "pkg": "libcairo-script-interpreter2", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "libcairo-script-interpreter2_1.13.0~20140204-0ubuntu1.1_i386.deb", 
+    "pkg": "libcairo-script-interpreter2", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libdca0-0.0.5-alt4.x86_64.rpm", 
+    "pkg": "libdca0", 
+    "pkg_version": "0.0.5", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "libdca0-0.0.5-4.el7.x86_64.rpm", 
+    "pkg": "libdca0", 
+    "pkg_version": "0.0.5", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "NauLinux School", 
+    "pkg_full_name": "libdca0-0.0.5-4.el6.x86_64.rpm", 
+    "pkg": "libdca0", 
+    "pkg_version": "0.0.5", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "libdca0-0.0.5-4.el5.x86_64.rpm", 
+    "pkg": "libdca0", 
+    "pkg_version": "0.0.5", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libdca0_0.0.5-dmo2_i386.deb", 
+    "pkg": "libdca0", 
+    "pkg_version": "0.0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libdca0_0.0.5-dmo2_i386.deb", 
+    "pkg": "libdca0", 
+    "pkg_version": "0.0.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libdca0_0.0.5-dmo1_i386.deb", 
+    "pkg": "libdca0", 
+    "pkg_version": "0.0.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "libdca0-0.0.5-4.fc20.x86_64.rpm", 
+    "pkg": "libdca0", 
+    "pkg_version": "0.0.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Restricted", 
+    "pkg_full_name": "libdca0-0.0.5-5-omv2015.0.i586.rpm", 
+    "pkg": "libdca0", 
+    "pkg_version": "0.0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Restricted", 
+    "pkg_full_name": "libdca0-0.0.5-4-plf2014.0.i586.rpm", 
+    "pkg": "libdca0", 
+    "pkg_version": "0.0.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "VLC", 
+    "pkg_full_name": "libdca0-0.0.5.90-6.1.x86_64.rpm", 
+    "pkg": "libdca0", 
+    "pkg_version": "0.0.5.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "VLC", 
+    "pkg_full_name": "libdca0-0.0.5.90-6.1.x86_64.rpm", 
+    "pkg": "libdca0", 
+    "pkg_version": "0.0.5.9", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "VLC", 
+    "pkg_full_name": "libdca0-0.0.5.90-6.1.x86_64.rpm", 
+    "pkg": "libdca0", 
+    "pkg_version": "0.0.5.9", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Restricted", 
+    "pkg_full_name": "libdca0-0.0.5-5-plf2014.1.i586.rpm", 
+    "pkg": "libdca0", 
+    "pkg_version": "0.0.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Restricted Updates", 
+    "pkg_full_name": "libdca0-0.0.5-5-plf2012.1.i586.rpm", 
+    "pkg": "libdca0", 
+    "pkg_version": "0.0.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libdca0_0.0.5-7_i386.deb", 
+    "pkg": "libdca0", 
+    "pkg_version": "0.0.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libdca0_0.0.5-6ubuntu1_i386.deb", 
+    "pkg": "libdca0", 
+    "pkg_version": "0.0.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sbmltoolbox_4.1.0-1_all.deb", 
+    "pkg": "sbmltoolbox", 
+    "pkg_version": "4.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sbmltoolbox_4.1.0-1_all.deb", 
+    "pkg": "sbmltoolbox", 
+    "pkg_version": "4.1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "sbmltoolbox-4.1.0-7.1.noarch.rpm", 
+    "pkg": "sbmltoolbox", 
+    "pkg_version": "4.1.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

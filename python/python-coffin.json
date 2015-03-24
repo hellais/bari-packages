@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-coffin-0.3.5-2.el6.noarch.rpm", 
+    "pkg": "python-coffin", 
+    "pkg_version": "0.3.5", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-coffin_0.3.8-1_all.deb", 
+    "pkg": "python-coffin", 
+    "pkg_version": "0.3.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-coffin_0.3.8-1_all.deb", 
+    "pkg": "python-coffin", 
+    "pkg_version": "0.3.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

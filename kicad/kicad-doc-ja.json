@@ -1,0 +1,155 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "kicad-doc-ja-2013.06.11-1.rev4021.el6.x86_64.rpm", 
+    "pkg": "kicad-doc-ja-201", 
+    "pkg_version": "3.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kicad-doc-ja_0.20141025+bzr4029-2_all.deb", 
+    "pkg": "kicad-doc-ja", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "kicad-doc-ja-2013.06.11-1.rev4021.el6.x86_64.rpm", 
+    "pkg": "kicad-doc-ja-201", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kicad-doc-ja_0.20141025+bzr4029-2_all.deb", 
+    "pkg": "kicad-doc-ja", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kicad-doc-ja-2015.03.21-1.rev5528.fc23.noarch.rpm", 
+    "pkg": "kicad-doc-ja-201", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kicad-doc-ja_0.20141025+bzr4029-2_all.deb", 
+    "pkg": "kicad-doc-ja", 
+    "pkg_version": "0.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kicad-doc-ja-2014.03.13-11.rev4744.fc22.noarch.rpm", 
+    "pkg": "kicad-doc-ja-201", 
+    "pkg_version": "4.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kicad-doc-ja_0.20141025+bzr4029-2_all.deb", 
+    "pkg": "kicad-doc-ja", 
+    "pkg_version": "0.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "kicad-doc-ja-2014.03.13-10.rev4744.fc21.noarch.rpm", 
+    "pkg": "kicad-doc-ja-201", 
+    "pkg_version": "4.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kicad-doc-ja_0.20141025+bzr4029-2_all.deb", 
+    "pkg": "kicad-doc-ja", 
+    "pkg_version": "0.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "kicad-doc-ja-2013.06.11-4.rev4021.fc20.noarch.rpm", 
+    "pkg": "kicad-doc-ja-201", 
+    "pkg_version": "3.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kicad-doc-ja_0.20141025+bzr4029-2_all.deb", 
+    "pkg": "kicad-doc-ja", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kicad-doc-ja-20130728-5.1.noarch.rpm", 
+    "pkg": "kicad-doc-ja-20130728", 
+    "pkg_version": "5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "kicad-doc-ja-2013.06.11-4.rev4021.fc20.noarch.rpm", 
+    "pkg": "kicad-doc-ja-201", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kicad-doc-ja_0.20141025+bzr4029-2_all.deb", 
+    "pkg": "kicad-doc-ja", 
+    "pkg_version": "0.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kicad-doc-ja-20130728-4.1.3.noarch.rpm", 
+    "pkg": "kicad-doc-ja-20130728", 
+    "pkg_version": "4.1.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "kicad-doc-ja-2013.06.11-4.rev4021.fc20.noarch.rpm", 
+    "pkg": "kicad-doc-ja-201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }
+]

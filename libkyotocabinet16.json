@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libkyotocabinet16_1.2.76-4_i386.deb", 
+    "pkg": "libkyotocabinet16", 
+    "pkg_version": "1.2.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libkyotocabinet16_1.2.76-4_i386.deb", 
+    "pkg": "libkyotocabinet16", 
+    "pkg_version": "1.2.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libkyotocabinet16-1.2.76-10.2.x86_64.rpm", 
+    "pkg": "libkyotocabinet16", 
+    "pkg_version": "1.2.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libkyotocabinet16-1.2.76-9.1.5.x86_64.rpm", 
+    "pkg": "libkyotocabinet16", 
+    "pkg_version": "1.2.7", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libkyotocabinet16-1.2.76-7.1.4.i586.rpm", 
+    "pkg": "libkyotocabinet16", 
+    "pkg_version": "1.2.7", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "libkyotocabinet16-1.2.76-2-rosa2014.1.i586.rpm", 
+    "pkg": "libkyotocabinet16", 
+    "pkg_version": "1.2.7", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libkyotocabinet16_1.2.76-4_i386.deb", 
+    "pkg": "libkyotocabinet16", 
+    "pkg_version": "1.2.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

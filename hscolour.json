@@ -1,0 +1,146 @@
+[
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "hscolour-1.20.3-7.sdl7.x86_64.rpm", 
+    "pkg": "hscolour", 
+    "pkg_version": "1.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "hscolour-1.19-6.sdl6.x86_64.rpm", 
+    "pkg": "hscolour", 
+    "pkg_version": "1.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Nogin.org Random", 
+    "pkg_full_name": "hscolour-1.16-3.el5.an.i386.rpm", 
+    "pkg": "hscolour", 
+    "pkg_version": "1.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "hscolour_1.20.3-3_i386.deb", 
+    "pkg": "hscolour", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "hscolour_1.20.3-3_i386.deb", 
+    "pkg": "hscolour", 
+    "pkg_version": "1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "hscolour_1.19-3+b1_i386.deb", 
+    "pkg": "hscolour", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "hscolour-1.20.3-11.fc22.x86_64.rpm", 
+    "pkg": "hscolour", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "hscolour-1.20.3-11.fc22.x86_64.rpm", 
+    "pkg": "hscolour", 
+    "pkg_version": "1.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "hscolour-1.20.3-10.fc21.x86_64.rpm", 
+    "pkg": "hscolour", 
+    "pkg_version": "1.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "hscolour-1.20.3-7.fc20.x86_64.rpm", 
+    "pkg": "hscolour", 
+    "pkg_version": "1.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "hscolour-1.20.3-8.5.x86_64.rpm", 
+    "pkg": "hscolour", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "hscolour-1.20.3-6.1.5.x86_64.rpm", 
+    "pkg": "hscolour", 
+    "pkg_version": "1.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "hscolour-1.20.3-2.1.3.i586.rpm", 
+    "pkg": "hscolour", 
+    "pkg_version": "1.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "University of Queensland Vislab", 
+    "pkg_full_name": "hscolour-1.20.2-i486-1_uqv.txz", 
+    "pkg": "hscolour", 
+    "pkg_version": "1.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "hscolour_1.20.3-3_i386.deb", 
+    "pkg": "hscolour", 
+    "pkg_version": "1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "hscolour_1.20.3-2_i386.deb", 
+    "pkg": "hscolour", 
+    "pkg_version": "1.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

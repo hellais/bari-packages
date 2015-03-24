@@ -1,0 +1,163 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ocsinventory-reports-1.02.1-alt4.noarch.rpm", 
+    "pkg": "ocsinventory-reports", 
+    "pkg_version": "1.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "ocsinventory-reports-2.1.2-3.el7.remi.noarch.rpm", 
+    "pkg": "ocsinventory-reports", 
+    "pkg_version": "2.1.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi Testing", 
+    "pkg_full_name": "ocsinventory-reports-2.1-1.el6.remi.noarch.rpm", 
+    "pkg": "ocsinventory-reports", 
+    "pkg_version": "2.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi Testing", 
+    "pkg_full_name": "ocsinventory-reports-2.1-1.el5.remi.noarch.rpm", 
+    "pkg": "ocsinventory-reports", 
+    "pkg_version": "2.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ocsinventory-reports_2.0.5-1.3_all.deb", 
+    "pkg": "ocsinventory-reports", 
+    "pkg_version": "2.0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ocsinventory-reports_2.0.5-1.3_all.deb", 
+    "pkg": "ocsinventory-reports", 
+    "pkg_version": "2.0.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ocsinventory-reports_2.0.5-1.1_all.deb", 
+    "pkg": "ocsinventory-reports", 
+    "pkg_version": "2.0.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ocsinventory-reports-2.1.2-4.fc22.noarch.rpm", 
+    "pkg": "ocsinventory-reports", 
+    "pkg_version": "2.1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ocsinventory-reports-2.1.2-4.fc22.noarch.rpm", 
+    "pkg": "ocsinventory-reports", 
+    "pkg_version": "2.1.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ocsinventory-reports-2.1.2-3.fc21.noarch.rpm", 
+    "pkg": "ocsinventory-reports", 
+    "pkg_version": "2.1.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi Testing", 
+    "pkg_full_name": "ocsinventory-reports-2.1-1.fc20.remi.noarch.rpm", 
+    "pkg": "ocsinventory-reports", 
+    "pkg_version": "2.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "ocsinventory-reports-2.0.3-4-omv2013.0.noarch.rpm", 
+    "pkg": "ocsinventory-reports", 
+    "pkg_version": "2.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "ocsinventory-reports-2.0.3-4-omv2013.0.noarch.rpm", 
+    "pkg": "ocsinventory-reports", 
+    "pkg_version": "2.0.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "ocsinventory-reports-2.0.3-4-omv2013.0.noarch.rpm", 
+    "pkg": "ocsinventory-reports", 
+    "pkg_version": "2.0.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "ocsinventory-reports-2.0.3-6-rosa2014.1.noarch.rpm", 
+    "pkg": "ocsinventory-reports", 
+    "pkg_version": "2.0.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "ocsinventory-reports-2.0.3-4-rosa2012.1.noarch.rpm", 
+    "pkg": "ocsinventory-reports", 
+    "pkg_version": "2.0.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ocsinventory-reports_2.0.5-1.1_all.deb", 
+    "pkg": "ocsinventory-reports", 
+    "pkg_version": "2.0.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ocsinventory-reports_2.0.5-1.1_all.deb", 
+    "pkg": "ocsinventory-reports", 
+    "pkg_version": "2.0.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

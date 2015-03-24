@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xul-ext-stylish_1.4.3-2_all.deb", 
+    "pkg": "xul-ext-stylish", 
+    "pkg_version": "1.4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "i7z-0.28.svn112-alt1_1.x86_64.rpm", 
+    "pkg": "i7z", 
+    "pkg_version": "0.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "i7z-0.27.2.git1-1-x86_64.pkg.tar.xz", 
+    "pkg": "i7z", 
+    "pkg_version": "0.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Russian Fedora Free Updates", 
+    "pkg_full_name": "i7z-0.28.svn103-1.el6.R.x86_64.rpm", 
+    "pkg": "i7z", 
+    "pkg_version": "0.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "i7z_0.27.2+git2013.10.12-g5023138-2_i386.deb", 
+    "pkg": "i7z", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "i7z_0.27.2+git2013.10.12-g5023138-2_i386.deb", 
+    "pkg": "i7z", 
+    "pkg_version": "0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Russian Fedora Free", 
+    "pkg_full_name": "i7z-0.28.svn112-1.fc21.R.x86_64.rpm", 
+    "pkg": "i7z", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "i7z-0.27.2-10.fc22.x86_64.rpm", 
+    "pkg": "i7z", 
+    "pkg_version": "0.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Russian Fedora Free", 
+    "pkg_full_name": "i7z-0.28.svn112-1.fc21.R.x86_64.rpm", 
+    "pkg": "i7z", 
+    "pkg_version": "0.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Russian Fedora Free", 
+    "pkg_full_name": "i7z-0.28.svn112-1.fc20.R.x86_64.rpm", 
+    "pkg": "i7z", 
+    "pkg_version": "0.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "i7z_0.27.2-2ubuntu1_i386.deb", 
+    "pkg": "i7z", 
+    "pkg_version": "0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

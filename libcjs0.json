@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcjs0_2.2.2-2_i386.deb", 
+    "pkg": "libcjs0", 
+    "pkg_version": "2.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcjs0_2.2.2-2_i386.deb", 
+    "pkg": "libcjs0", 
+    "pkg_version": "2.2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "libcjs0-2.0.0-3-rosa2014.1.i586.rpm", 
+    "pkg": "libcjs0", 
+    "pkg_version": "2.0.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "libcjs0-2.0.0-1-rosa2012.1.i586.rpm", 
+    "pkg": "libcjs0", 
+    "pkg_version": "2.0.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

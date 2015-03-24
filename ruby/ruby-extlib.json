@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "ruby-extlib-0.9.13-5.el6.noarch.rpm", 
+    "pkg": "ruby-extlib", 
+    "pkg_version": "0.9.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "ruby-extlib-0.9.13-5.el5.noarch.rpm", 
+    "pkg": "ruby-extlib", 
+    "pkg_version": "0.9.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-extlib_0.9.15-3_all.deb", 
+    "pkg": "ruby-extlib", 
+    "pkg_version": "0.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-extlib_0.9.15-3_all.deb", 
+    "pkg": "ruby-extlib", 
+    "pkg_version": "0.9.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-extlib_0.9.15-3_all.deb", 
+    "pkg": "ruby-extlib", 
+    "pkg_version": "0.9.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ruby-extlib_0.9.15-3build1_all.deb", 
+    "pkg": "ruby-extlib", 
+    "pkg_version": "0.9.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

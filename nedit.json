@@ -1,0 +1,189 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "nedit-5.5-alt5.git20121025.x86_64.rpm", 
+    "pkg": "nedit", 
+    "pkg_version": "5.5", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "nedit-5.6-1-x86_64.pkg.tar.xz", 
+    "pkg": "nedit", 
+    "pkg_version": "5.6", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "nedit-5.5-23.puias6.1.x86_64.rpm", 
+    "pkg": "nedit", 
+    "pkg_version": "5.5", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "nedit-5.5-16.el5.x86_64.rpm", 
+    "pkg": "nedit", 
+    "pkg_version": "5.5", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nedit_5.6~cvs20081118-9_i386.deb", 
+    "pkg": "nedit", 
+    "pkg_version": "5.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nedit_5.6~cvs20081118-9_i386.deb", 
+    "pkg": "nedit", 
+    "pkg_version": "5.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nedit_5.6~cvs20081118-7_i386.deb", 
+    "pkg": "nedit", 
+    "pkg_version": "5.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "nedit-5.5-32.fc21.x86_64.rpm", 
+    "pkg": "nedit", 
+    "pkg_version": "5.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "nedit-5.5-32.fc21.x86_64.rpm", 
+    "pkg": "nedit", 
+    "pkg_version": "5.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "nedit-5.5-33.fc21.x86_64.rpm", 
+    "pkg": "nedit", 
+    "pkg_version": "5.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "nedit-5.5-30.fc20.x86_64.rpm", 
+    "pkg": "nedit", 
+    "pkg_version": "5.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "nedit-5.5-10-omv2013.0.x86_64.rpm", 
+    "pkg": "nedit", 
+    "pkg_version": "5.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "nedit-5.5-10-omv2013.0.x86_64.rpm", 
+    "pkg": "nedit", 
+    "pkg_version": "5.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "nedit-5.5-10-omv2013.0.x86_64.rpm", 
+    "pkg": "nedit", 
+    "pkg_version": "5.5", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "nedit-5.5-11-rosa2014.1.x86_64.rpm", 
+    "pkg": "nedit", 
+    "pkg_version": "5.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "nedit-5.5-10-rosa2012.1.x86_64.rpm", 
+    "pkg": "nedit", 
+    "pkg_version": "5.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Johannes Sch\u00f6pfer", 
+    "pkg_full_name": "nedit-5.5-x86_64-1jsc.txz", 
+    "pkg": "nedit", 
+    "pkg_version": "5.5", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Johannes Sch\u00f6pfer", 
+    "pkg_full_name": "nedit-5.5-x86_64-1jsc.txz", 
+    "pkg": "nedit", 
+    "pkg_version": "5.5", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Johannes Sch\u00f6pfer", 
+    "pkg_full_name": "nedit-5.5-x86_64-1jsc.txz", 
+    "pkg": "nedit", 
+    "pkg_version": "5.5", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "nedit_5.6~cvs20081118-9_i386.deb", 
+    "pkg": "nedit", 
+    "pkg_version": "5.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "nedit_5.6~cvs20081118-8_i386.deb", 
+    "pkg": "nedit", 
+    "pkg_version": "5.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

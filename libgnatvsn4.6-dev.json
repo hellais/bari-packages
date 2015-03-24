@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgnatvsn4.6-dev_4.6.4-4_i386.deb", 
+    "pkg": "libgnatvsn", 
+    "pkg_version": "4.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgnatvsn4.6-dev_4.6.3-8_i386.deb", 
+    "pkg": "libgnatvsn", 
+    "pkg_version": "4.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libgnatvsn4.6-dev_4.6.4-0ubuntu5_i386.deb", 
+    "pkg": "libgnatvsn", 
+    "pkg_version": "4.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

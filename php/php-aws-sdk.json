@@ -1,0 +1,101 @@
+[
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-aws-sdk-2.7.22-1.el7.remi.noarch.rpm", 
+    "pkg": "php-aws-sdk", 
+    "pkg_version": "2.7.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-aws-sdk-2.7.22-1.el6.remi.noarch.rpm", 
+    "pkg": "php-aws-sdk", 
+    "pkg_version": "2.7.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-aws-sdk-2.7.22-1.el5.remi.noarch.rpm", 
+    "pkg": "php-aws-sdk", 
+    "pkg_version": "2.7.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php-aws-sdk_2.7.2-1_all.deb", 
+    "pkg": "php-aws-sdk", 
+    "pkg_version": "2.7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php-aws-sdk_2.7.2-1_all.deb", 
+    "pkg": "php-aws-sdk", 
+    "pkg_version": "2.7.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "php-aws-sdk_2.6.0-1~bpo70+1_all.deb", 
+    "pkg": "php-aws-sdk", 
+    "pkg_version": "2.6.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "php-aws-sdk-2.7.17-1.fc22.noarch.rpm", 
+    "pkg": "php-aws-sdk", 
+    "pkg_version": "2.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "php-aws-sdk-2.7.17-1.fc22.noarch.rpm", 
+    "pkg": "php-aws-sdk", 
+    "pkg_version": "2.7.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-aws-sdk-2.7.22-1.fc21.remi.noarch.rpm", 
+    "pkg": "php-aws-sdk", 
+    "pkg_version": "2.7.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-aws-sdk-2.7.22-1.fc20.remi.noarch.rpm", 
+    "pkg": "php-aws-sdk", 
+    "pkg_version": "2.7.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "php-aws-sdk_2.6.8-1_all.deb", 
+    "pkg": "php-aws-sdk", 
+    "pkg_version": "2.6.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

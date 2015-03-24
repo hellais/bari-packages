@@ -1,0 +1,746 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "linuxconsoletools-1.4.7-alt1_3.x86_64.rpm", 
+    "pkg": "linuxconsoletools", 
+    "pkg_version": "1.4.7", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "linuxconsole-1.4.7-1-x86_64.pkg.tar.xz", 
+    "pkg": "linuxconsole", 
+    "pkg_version": "1.4.7", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "linuxconsoletools-1.4.7-alt1_3.x86_64.rpm", 
+    "pkg": "linuxconsoletools", 
+    "pkg_version": "1.4.7", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "linuxconsole-1.4.7-1-x86_64.pkg.tar.xz", 
+    "pkg": "linuxconsole", 
+    "pkg_version": "1.4.7", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "linuxconsoletools-1.4.5-3.el7.x86_64.rpm", 
+    "pkg": "linuxconsoletools", 
+    "pkg_version": "1.4.5", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "linuxconsole-1.4.7-1-x86_64.pkg.tar.xz", 
+    "pkg": "linuxconsole", 
+    "pkg_version": "1.4.7", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "joystick-1.2.15-20.2.2.x86_64.rpm", 
+    "pkg": "joystick", 
+    "pkg_version": "1.2.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "linuxconsoletools-1.4.5-3.el7.x86_64.rpm", 
+    "pkg": "linuxconsoletools", 
+    "pkg_version": "1.4.5", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "linuxconsole-1.4.7-1-x86_64.pkg.tar.xz", 
+    "pkg": "linuxconsole", 
+    "pkg_version": "1.4.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "joystick_1.4.7-2_i386.deb", 
+    "pkg": "joystick", 
+    "pkg_version": "1.4.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "linuxconsoletools-1.4.5-3.el7.x86_64.rpm", 
+    "pkg": "linuxconsoletools", 
+    "pkg_version": "1.4.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "linuxconsole-1.4.7-1-x86_64.pkg.tar.xz", 
+    "pkg": "linuxconsole", 
+    "pkg_version": "1.4.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "joystick_1.4.7-2_i386.deb", 
+    "pkg": "joystick", 
+    "pkg_version": "1.4.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "linuxconsoletools-1.4.5-3.el7.x86_64.rpm", 
+    "pkg": "linuxconsoletools", 
+    "pkg_version": "1.4.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "linuxconsole-1.4.7-1-x86_64.pkg.tar.xz", 
+    "pkg": "linuxconsole", 
+    "pkg_version": "1.4.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "joystick_1.4.3-1_i386.deb", 
+    "pkg": "joystick", 
+    "pkg_version": "1.4.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "linuxconsoletools-1.4.5-3.el7.x86_64.rpm", 
+    "pkg": "linuxconsoletools", 
+    "pkg_version": "1.4.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "linuxconsole-1.4.7-1-x86_64.pkg.tar.xz", 
+    "pkg": "linuxconsole", 
+    "pkg_version": "1.4.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "joystick_1.4.3-1_i386.deb", 
+    "pkg": "joystick", 
+    "pkg_version": "1.4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "linuxconsoletools-1.4.8-1.fc22.x86_64.rpm", 
+    "pkg": "linuxconsoletools", 
+    "pkg_version": "1.4.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "linuxconsole-1.4.7-1-x86_64.pkg.tar.xz", 
+    "pkg": "linuxconsole", 
+    "pkg_version": "1.4.7", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "joystick_1.4.3-1_i386.deb", 
+    "pkg": "joystick", 
+    "pkg_version": "1.4.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "linuxconsoletools-1.4.8-1.fc22.x86_64.rpm", 
+    "pkg": "linuxconsoletools", 
+    "pkg_version": "1.4.8", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "linuxconsole-1.4.7-1-x86_64.pkg.tar.xz", 
+    "pkg": "linuxconsole", 
+    "pkg_version": "1.4.7", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "joystick_1.4.3-1_i386.deb", 
+    "pkg": "joystick", 
+    "pkg_version": "1.4.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "linuxconsoletools-1.4.7-3.fc21.x86_64.rpm", 
+    "pkg": "linuxconsoletools", 
+    "pkg_version": "1.4.7", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "linuxconsole-1.4.7-1-x86_64.pkg.tar.xz", 
+    "pkg": "linuxconsole", 
+    "pkg_version": "1.4.7", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "joystick_1.4.3-1_i386.deb", 
+    "pkg": "joystick", 
+    "pkg_version": "1.4.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "linuxconsoletools-1.4.6-2.fc20.x86_64.rpm", 
+    "pkg": "linuxconsoletools", 
+    "pkg_version": "1.4.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "linuxconsole-1.4.7-1-x86_64.pkg.tar.xz", 
+    "pkg": "linuxconsole", 
+    "pkg_version": "1.4.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "joystick_1.4.3-1_i386.deb", 
+    "pkg": "joystick", 
+    "pkg_version": "1.4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "linuxconsoletools-1.4.6-2.fc20.x86_64.rpm", 
+    "pkg": "linuxconsoletools", 
+    "pkg_version": "1.4.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "input-utils-0-1.svn2401.3.mga4.x86_64.rpm", 
+    "pkg": "input-utils-0-1.svn240", 
+    "pkg_version": "1.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "input-utils-0-0.20061008.4-omv2013.0.x86_64.rpm", 
+    "pkg": "input-utils-0", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "linuxconsole-1.4.7-1-x86_64.pkg.tar.xz", 
+    "pkg": "linuxconsole", 
+    "pkg_version": "1.4.7", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "joystick_1.4.3-1_i386.deb", 
+    "pkg": "joystick", 
+    "pkg_version": "1.4.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "linuxconsoletools-1.4.6-2.fc20.x86_64.rpm", 
+    "pkg": "linuxconsoletools", 
+    "pkg_version": "1.4.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "input-utils-0-1.svn2401.3.mga4.x86_64.rpm", 
+    "pkg": "input-utils-0-1.svn240", 
+    "pkg_version": "1.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "input-utils-0-0.20061008.4-omv2013.0.x86_64.rpm", 
+    "pkg": "input-utils-0", 
+    "pkg_version": "0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "linuxconsole-1.4.7-1-x86_64.pkg.tar.xz", 
+    "pkg": "linuxconsole", 
+    "pkg_version": "1.4.7", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "joystick_1.4.3-1_i386.deb", 
+    "pkg": "joystick", 
+    "pkg_version": "1.4.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "linuxconsoletools-1.4.6-2.fc20.x86_64.rpm", 
+    "pkg": "linuxconsoletools", 
+    "pkg_version": "1.4.6", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "input-utils-0-1.svn2401.3.mga4.x86_64.rpm", 
+    "pkg": "input-utils-0-1.svn240", 
+    "pkg_version": "1.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "input-utils-0-0.20061008.4-omv2013.0.x86_64.rpm", 
+    "pkg": "input-utils-0", 
+    "pkg_version": "0.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "linuxconsoletools-1.4.6-2.fc20.x86_64.rpm", 
+    "pkg": "linuxconsoletools", 
+    "pkg_version": "1.4.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "input-utils-2007.06.22-178.1.1.i586.rpm", 
+    "pkg": "input-utils-200", 
+    "pkg_version": "7.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "input-utils-0-1.svn2401.3.mga4.x86_64.rpm", 
+    "pkg": "input-utils-0-1.svn240", 
+    "pkg_version": "1.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "input-utils-0-0.20061008.4-omv2013.0.x86_64.rpm", 
+    "pkg": "input-utils-0", 
+    "pkg_version": "0.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "linuxconsole-1.4.7-1-x86_64.pkg.tar.xz", 
+    "pkg": "linuxconsole", 
+    "pkg_version": "1.4.7", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "joystick_1.4.3-1_i386.deb", 
+    "pkg": "joystick", 
+    "pkg_version": "1.4.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "linuxconsoletools-1.4.6-2.fc20.x86_64.rpm", 
+    "pkg": "linuxconsoletools", 
+    "pkg_version": "1.4.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "input-utils-2007.06.22-178.1.1.i586.rpm", 
+    "pkg": "input-utils-200", 
+    "pkg_version": "7.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "input-utils-0-1.svn2401.3.mga4.x86_64.rpm", 
+    "pkg": "input-utils-0-1.svn240", 
+    "pkg_version": "1.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "input-utils-0-0.20061008.4-rosa2014.1.x86_64.rpm", 
+    "pkg": "input-utils-0", 
+    "pkg_version": "0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "linuxconsole-1.4.7-1-x86_64.pkg.tar.xz", 
+    "pkg": "linuxconsole", 
+    "pkg_version": "1.4.7", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "joystick_1.4.3-1_i386.deb", 
+    "pkg": "joystick", 
+    "pkg_version": "1.4.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "linuxconsoletools-1.4.6-2.fc20.x86_64.rpm", 
+    "pkg": "linuxconsoletools", 
+    "pkg_version": "1.4.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "input-utils-2007.06.22-178.1.1.i586.rpm", 
+    "pkg": "input-utils-200", 
+    "pkg_version": "7.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "input-utils-0-1.svn2401.3.mga4.x86_64.rpm", 
+    "pkg": "input-utils-0-1.svn240", 
+    "pkg_version": "1.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "input-utils-0-0.20061008.4-rosa2012.1.x86_64.rpm", 
+    "pkg": "input-utils-0", 
+    "pkg_version": "0.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "linuxconsole-1.4.7-1-x86_64.pkg.tar.xz", 
+    "pkg": "linuxconsole", 
+    "pkg_version": "1.4.7", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "joystick_1.4.3-1_i386.deb", 
+    "pkg": "joystick", 
+    "pkg_version": "1.4.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "linuxconsoletools-1.4.6-2.fc20.x86_64.rpm", 
+    "pkg": "linuxconsoletools", 
+    "pkg_version": "1.4.6", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "input-utils-2007.06.22-178.1.1.i586.rpm", 
+    "pkg": "input-utils-200", 
+    "pkg_version": "7.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "input-utils-0-1.svn2401.3.mga4.x86_64.rpm", 
+    "pkg": "input-utils-0-1.svn240", 
+    "pkg_version": "1.3", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "input-utils-0-0.20061008.4-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "input-utils-0", 
+    "pkg_version": "0.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Helmut Hullen", 
+    "pkg_full_name": "joystick-2004.1.11-i586-38suse.tgz", 
+    "pkg": "joystick-200", 
+    "pkg_version": "4.1.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "linuxconsole-1.4.7-1-x86_64.pkg.tar.xz", 
+    "pkg": "linuxconsole", 
+    "pkg_version": "1.4.7", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "joystick_1.4.3-1_i386.deb", 
+    "pkg": "joystick", 
+    "pkg_version": "1.4.3", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "linuxconsoletools-1.4.6-2.fc20.x86_64.rpm", 
+    "pkg": "linuxconsoletools", 
+    "pkg_version": "1.4.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "input-utils-2007.06.22-178.1.1.i586.rpm", 
+    "pkg": "input-utils-200", 
+    "pkg_version": "7.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "input-utils-0-1.svn2401.3.mga4.x86_64.rpm", 
+    "pkg": "input-utils-0-1.svn240", 
+    "pkg_version": "1.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "input-utils-0-0.20061008.4-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "input-utils-0", 
+    "pkg_version": "0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Helmut Hullen", 
+    "pkg_full_name": "joystick-2004.1.11-i586-38suse.tgz", 
+    "pkg": "joystick-200", 
+    "pkg_version": "4.1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "linuxconsole-1.4.7-1-x86_64.pkg.tar.xz", 
+    "pkg": "linuxconsole", 
+    "pkg_version": "1.4.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "joystick_1.4.7-2_i386.deb", 
+    "pkg": "joystick", 
+    "pkg_version": "1.4.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "linuxconsoletools-1.4.6-2.fc20.x86_64.rpm", 
+    "pkg": "linuxconsoletools", 
+    "pkg_version": "1.4.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "input-utils-2007.06.22-178.1.1.i586.rpm", 
+    "pkg": "input-utils-200", 
+    "pkg_version": "7.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "input-utils-0-1.svn2401.3.mga4.x86_64.rpm", 
+    "pkg": "input-utils-0-1.svn240", 
+    "pkg_version": "1.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "input-utils-0-0.20061008.4-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "input-utils-0", 
+    "pkg_version": "0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Helmut Hullen", 
+    "pkg_full_name": "joystick-2004.1.11-i586-38suse.tgz", 
+    "pkg": "joystick-200", 
+    "pkg_version": "4.1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "linuxconsole-1.4.7-1-x86_64.pkg.tar.xz", 
+    "pkg": "linuxconsole", 
+    "pkg_version": "1.4.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "joystick_1.4.7-1_i386.deb", 
+    "pkg": "joystick", 
+    "pkg_version": "1.4.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

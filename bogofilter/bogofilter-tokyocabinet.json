@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bogofilter-tokyocabinet_1.2.4+dfsg1-3+b1_i386.deb", 
+    "pkg": "bogofilter-tokyocabinet", 
+    "pkg_version": "1.2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bogofilter-tokyocabinet_1.2.4+dfsg1-3+b1_i386.deb", 
+    "pkg": "bogofilter-tokyocabinet", 
+    "pkg_version": "1.2.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

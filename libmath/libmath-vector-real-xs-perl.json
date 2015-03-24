@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmath-vector-real-xs-perl_0.07-1+b1_i386.deb", 
+    "pkg": "libmath-vector-real-xs-perl", 
+    "pkg_version": "0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmath-vector-real-xs-perl_0.07-1+b1_i386.deb", 
+    "pkg": "libmath-vector-real-xs-perl", 
+    "pkg_version": "0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

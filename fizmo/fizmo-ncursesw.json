@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fizmo-ncursesw_0.7.9-1+b2_i386.deb", 
+    "pkg": "fizmo-ncursesw", 
+    "pkg_version": "0.7.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fizmo-ncursesw_0.7.9-1+b2_i386.deb", 
+    "pkg": "fizmo-ncursesw", 
+    "pkg_version": "0.7.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fizmo-ncursesw_0.7.2-2_i386.deb", 
+    "pkg": "fizmo-ncursesw", 
+    "pkg_version": "0.7.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "fizmo-ncursesw_0.7.9-1_i386.deb", 
+    "pkg": "fizmo-ncursesw", 
+    "pkg_version": "0.7.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

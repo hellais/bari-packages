@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "libsystemd-daemon-dev_208-8ubuntu8.2_i386.deb", 
+    "pkg": "libsystemd-daemon-dev_208-8ubuntu", 
+    "pkg_version": "8.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

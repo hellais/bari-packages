@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "at-spi2-doc_2.14.0-1_all.deb", 
+    "pkg": "at-spi2-doc", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "at-spi2-doc_2.14.0-1_all.deb", 
+    "pkg": "at-spi2-doc", 
+    "pkg_version": "2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "at-spi2-doc_2.5.3-2_all.deb", 
+    "pkg": "at-spi2-doc", 
+    "pkg_version": "2.5.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "at-spi2-doc_2.12.0-2ubuntu1_all.deb", 
+    "pkg": "at-spi2-doc", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "at-spi2-doc_2.10.2.is.2.10.1-0ubuntu1_all.deb", 
+    "pkg": "at-spi2-doc", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libbasicusageenvironment0_2015.03.19-dmo1_i386.deb", 
+    "pkg": "libbasicusageenvironment0_201", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libbasicusageenvironment0_2015.02.26-dmo1_i386.deb", 
+    "pkg": "libbasicusageenvironment0_201", 
+    "pkg_version": "5.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libbasicusageenvironment0_2014.01.13-1_i386.deb", 
+    "pkg": "libbasicusageenvironment0_201", 
+    "pkg_version": "4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

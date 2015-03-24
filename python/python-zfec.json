@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-zfec_1.4.5-2_i386.deb", 
+    "pkg": "python-zfec", 
+    "pkg_version": "1.4.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-zfec_1.4.5-2_i386.deb", 
+    "pkg": "python-zfec", 
+    "pkg_version": "1.4.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-zfec_1.4.5-2_i386.deb", 
+    "pkg": "python-zfec", 
+    "pkg_version": "1.4.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-zfec-1.4.22-6.fc20.x86_64.rpm", 
+    "pkg": "python-zfec", 
+    "pkg_version": "1.4.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-zfec-1.4.22-6.fc20.x86_64.rpm", 
+    "pkg": "python-zfec", 
+    "pkg_version": "1.4.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-zfec_1.4.5-2_i386.deb", 
+    "pkg": "python-zfec", 
+    "pkg_version": "1.4.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-zfec_1.4.5-2_i386.deb", 
+    "pkg": "python-zfec", 
+    "pkg_version": "1.4.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

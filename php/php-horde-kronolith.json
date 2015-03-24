@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-horde-kronolith-4.2.5-1.el7.remi.noarch.rpm", 
+    "pkg": "php-horde-kronolith", 
+    "pkg_version": "4.2.5", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-horde-kronolith-4.2.5-1.el6.remi.noarch.rpm", 
+    "pkg": "php-horde-kronolith", 
+    "pkg_version": "4.2.5", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-horde-kronolith-4.2.5-1.el5.remi.noarch.rpm", 
+    "pkg": "php-horde-kronolith", 
+    "pkg_version": "4.2.5", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php-horde-kronolith_4.2.2-4_all.deb", 
+    "pkg": "php-horde-kronolith", 
+    "pkg_version": "4.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php-horde-kronolith_4.2.2-4_all.deb", 
+    "pkg": "php-horde-kronolith", 
+    "pkg_version": "4.2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "php-horde-kronolith-4.2.5-1.fc23.noarch.rpm", 
+    "pkg": "php-horde-kronolith", 
+    "pkg_version": "4.2.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "php-horde-kronolith-4.2.5-1.fc22.noarch.rpm", 
+    "pkg": "php-horde-kronolith", 
+    "pkg_version": "4.2.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-horde-kronolith-4.2.5-1.fc21.remi.noarch.rpm", 
+    "pkg": "php-horde-kronolith", 
+    "pkg_version": "4.2.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Les RPM de Remi", 
+    "pkg_full_name": "php-horde-kronolith-4.2.5-1.fc20.remi.noarch.rpm", 
+    "pkg": "php-horde-kronolith", 
+    "pkg_version": "4.2.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "php-horde-kronolith_4.2.1-1_all.deb", 
+    "pkg": "php-horde-kronolith", 
+    "pkg_version": "4.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libauthen-smb-perl_0.91-6+b1_i386.deb", 
+    "pkg": "libauthen-smb-perl", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libauthen-smb-perl_0.91-6+b1_i386.deb", 
+    "pkg": "libauthen-smb-perl", 
+    "pkg_version": "0.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libauthen-smb-perl_0.91-4+b2_i386.deb", 
+    "pkg": "libauthen-smb-perl", 
+    "pkg_version": "0.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libauthen-smb-perl_0.91-6build1_i386.deb", 
+    "pkg": "libauthen-smb-perl", 
+    "pkg_version": "0.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libauthen-smb-perl_0.91-4build3_i386.deb", 
+    "pkg": "libauthen-smb-perl", 
+    "pkg_version": "0.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

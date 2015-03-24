@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwildmidi-config_0.3.7-1_all.deb", 
+    "pkg": "libwildmidi-config", 
+    "pkg_version": "0.3.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwildmidi-config_0.3.7-1_all.deb", 
+    "pkg": "libwildmidi-config", 
+    "pkg_version": "0.3.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwildmidi-config_0.2.3.4-2.1_all.deb", 
+    "pkg": "libwildmidi-config", 
+    "pkg_version": "0.2.3.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libwildmidi-config_0.3.7-1_all.deb", 
+    "pkg": "libwildmidi-config", 
+    "pkg_version": "0.3.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libwildmidi-config_0.2.3.4-2.1ubuntu3_all.deb", 
+    "pkg": "libwildmidi-config", 
+    "pkg_version": "0.2.3.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

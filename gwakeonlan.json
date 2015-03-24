@@ -1,0 +1,73 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "gwakeonlan-0.6.2-4-any.pkg.tar.xz", 
+    "pkg": "gwakeonlan", 
+    "pkg_version": "0.6.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gwakeonlan_0.5.1-1_all.deb", 
+    "pkg": "gwakeonlan", 
+    "pkg_version": "0.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gwakeonlan_0.5.1-1_all.deb", 
+    "pkg": "gwakeonlan", 
+    "pkg_version": "0.5.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gwakeonlan_0.5.1-1_all.deb", 
+    "pkg": "gwakeonlan", 
+    "pkg_version": "0.5.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "gwakeonlan-0.5.1-9.1.noarch.rpm", 
+    "pkg": "gwakeonlan", 
+    "pkg_version": "0.5.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "gwakeonlan-0.5.1-9.1.noarch.rpm", 
+    "pkg": "gwakeonlan", 
+    "pkg_version": "0.5.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gwakeonlan_0.5.1-1_all.deb", 
+    "pkg": "gwakeonlan", 
+    "pkg_version": "0.5.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gwakeonlan_0.5.1-1_all.deb", 
+    "pkg": "gwakeonlan", 
+    "pkg_version": "0.5.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

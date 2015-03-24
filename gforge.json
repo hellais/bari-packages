@@ -1,0 +1,110 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fusionforge-full_5.3.2+20141104-3_all.deb", 
+    "pkg": "fusionforge-full", 
+    "pkg_version": "5.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fusionforge-minimal_5.3.2+20141104-3_all.deb", 
+    "pkg": "fusionforge-minimal", 
+    "pkg_version": "5.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fusionforge-standard_5.3.2+20141104-3_all.deb", 
+    "pkg": "fusionforge-standard", 
+    "pkg_version": "5.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gforge_5.3.2+20141104-3_all.deb", 
+    "pkg": "gforge", 
+    "pkg_version": "5.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fusionforge-full_5.3.2+20141104-3_all.deb", 
+    "pkg": "fusionforge-full", 
+    "pkg_version": "5.3.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fusionforge-minimal_5.3.2+20141104-3_all.deb", 
+    "pkg": "fusionforge-minimal", 
+    "pkg_version": "5.3.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fusionforge-standard_5.3.2+20141104-3_all.deb", 
+    "pkg": "fusionforge-standard", 
+    "pkg_version": "5.3.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gforge_5.3.2+20141104-3_all.deb", 
+    "pkg": "gforge", 
+    "pkg_version": "5.3.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "fusionforge-full_5.3.2+20141104-3~bpo70+1_all.deb", 
+    "pkg": "fusionforge-full", 
+    "pkg_version": "5.3.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "fusionforge-minimal_5.3.2+20141104-3~bpo70+1_all.deb", 
+    "pkg": "fusionforge-minimal", 
+    "pkg_version": "5.3.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "fusionforge-standard_5.3.2+20141104-3~bpo70+1_all.deb", 
+    "pkg": "fusionforge-standard", 
+    "pkg_version": "5.3.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "gforge_5.3.2+20141104-3~bpo70+1_all.deb", 
+    "pkg": "gforge", 
+    "pkg_version": "5.3.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

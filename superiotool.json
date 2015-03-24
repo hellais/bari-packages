@@ -1,0 +1,415 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "superiotool-0-alt1_0.33.20110607svn6543.x86_64.rpm", 
+    "pkg": "superiotool-0-alt1", 
+    "pkg_version": "0.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "superiotool-0-alt1_0.33.20110607svn6543.x86_64.rpm", 
+    "pkg": "superiotool-0-alt1", 
+    "pkg_version": "0.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "superiotool-0-0.27.20110607svn6543.el6.x86_64.rpm", 
+    "pkg": "superiotool-0", 
+    "pkg_version": "0.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "superiotool-0-alt1_0.33.20110607svn6543.x86_64.rpm", 
+    "pkg": "superiotool-0-alt1", 
+    "pkg_version": "0.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "superiotool-0-0.27.20110607svn6543.el5.x86_64.rpm", 
+    "pkg": "superiotool-0", 
+    "pkg_version": "0.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "superiotool-0-alt1_0.33.20110607svn6543.x86_64.rpm", 
+    "pkg": "superiotool-0-alt1", 
+    "pkg_version": "0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "superiotool_0.0+r6637-1_i386.deb", 
+    "pkg": "superiotool", 
+    "pkg_version": "0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "superiotool-0-0.27.20110607svn6543.el5.x86_64.rpm", 
+    "pkg": "superiotool-0", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "superiotool-0-alt1_0.33.20110607svn6543.x86_64.rpm", 
+    "pkg": "superiotool-0-alt1", 
+    "pkg_version": "0.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "superiotool_0.0+r6637-1_i386.deb", 
+    "pkg": "superiotool", 
+    "pkg_version": "0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "superiotool-0-0.27.20110607svn6543.el5.x86_64.rpm", 
+    "pkg": "superiotool-0", 
+    "pkg_version": "0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "superiotool-0-alt1_0.33.20110607svn6543.x86_64.rpm", 
+    "pkg": "superiotool-0-alt1", 
+    "pkg_version": "0.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "superiotool_0.0+r6637-1_i386.deb", 
+    "pkg": "superiotool", 
+    "pkg_version": "0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "superiotool-0-0.27.20110607svn6543.el5.x86_64.rpm", 
+    "pkg": "superiotool-0", 
+    "pkg_version": "0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "superiotool-0-alt1_0.33.20110607svn6543.x86_64.rpm", 
+    "pkg": "superiotool-0-alt1", 
+    "pkg_version": "0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "coreboot-utils-4.0-6.20150109git78c5d58.fc22.x86_64.rpm", 
+    "pkg": "coreboot-utils", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "superiotool_0.0+r6637-1_i386.deb", 
+    "pkg": "superiotool", 
+    "pkg_version": "0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "superiotool-0-0.33.20110607svn6543.fc22.x86_64.rpm", 
+    "pkg": "superiotool-0", 
+    "pkg_version": "0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "superiotool-0-alt1_0.33.20110607svn6543.x86_64.rpm", 
+    "pkg": "superiotool-0-alt1", 
+    "pkg_version": "0.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "coreboot-utils-4.0-6.20150109git78c5d58.fc22.x86_64.rpm", 
+    "pkg": "coreboot-utils", 
+    "pkg_version": "4.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "superiotool_0.0+r6637-1_i386.deb", 
+    "pkg": "superiotool", 
+    "pkg_version": "0.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "superiotool-0-0.33.20110607svn6543.fc22.x86_64.rpm", 
+    "pkg": "superiotool-0", 
+    "pkg_version": "0.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "superiotool-0-alt1_0.33.20110607svn6543.x86_64.rpm", 
+    "pkg": "superiotool-0-alt1", 
+    "pkg_version": "0.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "coreboot-utils-4.0-6.20150109git78c5d58.fc21.x86_64.rpm", 
+    "pkg": "coreboot-utils", 
+    "pkg_version": "4.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "superiotool_0.0+r6637-1_i386.deb", 
+    "pkg": "superiotool", 
+    "pkg_version": "0.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "superiotool-0-0.33.20110607svn6543.fc21.x86_64.rpm", 
+    "pkg": "superiotool-0", 
+    "pkg_version": "0.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "superiotool-0-alt1_0.33.20110607svn6543.x86_64.rpm", 
+    "pkg": "superiotool-0-alt1", 
+    "pkg_version": "0.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "coreboot-utils-4.0-6.20150109git78c5d58.fc21.x86_64.rpm", 
+    "pkg": "coreboot-utils", 
+    "pkg_version": "4.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "superiotool_0.0+r6637-1_i386.deb", 
+    "pkg": "superiotool", 
+    "pkg_version": "0.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "superiotool-0-0.31.20110607svn6543.fc20.x86_64.rpm", 
+    "pkg": "superiotool-0", 
+    "pkg_version": "0.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "superiotool-0-alt1_0.33.20110607svn6543.x86_64.rpm", 
+    "pkg": "superiotool-0-alt1", 
+    "pkg_version": "0.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "coreboot-utils-4.0-6.20150109git78c5d58.fc21.x86_64.rpm", 
+    "pkg": "coreboot-utils", 
+    "pkg_version": "4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "superiotool-0.20111206-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "superiotool", 
+    "pkg_version": "0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "superiotool-0-0.31.20110607svn6543.fc20.x86_64.rpm", 
+    "pkg": "superiotool-0", 
+    "pkg_version": "0.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "superiotool-0-alt1_0.33.20110607svn6543.x86_64.rpm", 
+    "pkg": "superiotool-0-alt1", 
+    "pkg_version": "0.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "coreboot-utils-4.0-6.20150109git78c5d58.fc21.x86_64.rpm", 
+    "pkg": "coreboot-utils", 
+    "pkg_version": "4.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "superiotool-0.20111206-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "superiotool", 
+    "pkg_version": "0.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "superiotool-0-0.31.20110607svn6543.fc20.x86_64.rpm", 
+    "pkg": "superiotool-0", 
+    "pkg_version": "0.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "superiotool-0-alt1_0.33.20110607svn6543.x86_64.rpm", 
+    "pkg": "superiotool-0-alt1", 
+    "pkg_version": "0.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "coreboot-utils-4.0-6.20150109git78c5d58.fc21.x86_64.rpm", 
+    "pkg": "coreboot-utils", 
+    "pkg_version": "4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "superiotool_0.0+r6637-1_i386.deb", 
+    "pkg": "superiotool", 
+    "pkg_version": "0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "superiotool-0-0.31.20110607svn6543.fc20.x86_64.rpm", 
+    "pkg": "superiotool-0", 
+    "pkg_version": "0.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "superiotool-0-alt1_0.33.20110607svn6543.x86_64.rpm", 
+    "pkg": "superiotool-0-alt1", 
+    "pkg_version": "0.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "coreboot-utils-4.0-6.20150109git78c5d58.fc21.x86_64.rpm", 
+    "pkg": "coreboot-utils", 
+    "pkg_version": "4.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "superiotool_0.0+r6637-1_i386.deb", 
+    "pkg": "superiotool", 
+    "pkg_version": "0.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "superiotool-0-0.31.20110607svn6543.fc20.x86_64.rpm", 
+    "pkg": "superiotool-0", 
+    "pkg_version": "0.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

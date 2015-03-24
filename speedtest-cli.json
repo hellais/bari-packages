@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "speedtest-cli-0.3.1-1.el7.noarch.rpm", 
+    "pkg": "speedtest-cli", 
+    "pkg_version": "0.3.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "speedtest-cli_0.3.1-1_all.deb", 
+    "pkg": "speedtest-cli", 
+    "pkg_version": "0.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "speedtest-cli_0.3.1-1_all.deb", 
+    "pkg": "speedtest-cli", 
+    "pkg_version": "0.3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "speedtest-cli-0.3.1-1.fc22.noarch.rpm", 
+    "pkg": "speedtest-cli", 
+    "pkg_version": "0.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "speedtest-cli-0.3.1-1.fc22.noarch.rpm", 
+    "pkg": "speedtest-cli", 
+    "pkg_version": "0.3.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "speedtest-cli-0.3.1-1.fc21.noarch.rpm", 
+    "pkg": "speedtest-cli", 
+    "pkg_version": "0.3.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "speedtest-cli-0.3.1-1.fc20.noarch.rpm", 
+    "pkg": "speedtest-cli", 
+    "pkg_version": "0.3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Freestylers", 
+    "pkg_full_name": "speedtest-cli-0.2.7-x86_64-1_fs.tgz", 
+    "pkg": "speedtest-cli", 
+    "pkg_version": "0.2.7", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libbamf-dev_0.2.118-1_i386.deb", 
+    "pkg": "libbamf-dev", 
+    "pkg_version": "0.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libbamf-dev_0.2.118-1_i386.deb", 
+    "pkg": "libbamf-dev", 
+    "pkg_version": "0.2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libbamf-dev_0.2.118-1_i386.deb", 
+    "pkg": "libbamf-dev", 
+    "pkg_version": "0.2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

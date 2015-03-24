@@ -1,0 +1,199 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libavfilter5-11.3-alt1.x86_64.rpm", 
+    "pkg": "libavfilter5-1", 
+    "pkg_version": "1.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libavfilter5-11.3-alt1.x86_64.rpm", 
+    "pkg": "libavfilter5-1", 
+    "pkg_version": "1.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libavfilter5_11.3-1_i386.deb", 
+    "pkg": "libavfilter5_1", 
+    "pkg_version": "1.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libavfilter5_2.6.1-dmo1_i386.deb", 
+    "pkg": "libavfilter5", 
+    "pkg_version": "2.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libavfilter5-11.3-alt1.x86_64.rpm", 
+    "pkg": "libavfilter5-1", 
+    "pkg_version": "1.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libavfilter5_11.3-1_i386.deb", 
+    "pkg": "libavfilter5_1", 
+    "pkg_version": "1.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libavfilter5_2.6-dmo2_i386.deb", 
+    "pkg": "libavfilter5", 
+    "pkg_version": "2.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libavfilter5-11.3-alt1.x86_64.rpm", 
+    "pkg": "libavfilter5-1", 
+    "pkg_version": "1.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libavfilter5_11.3-1_i386.deb", 
+    "pkg": "libavfilter5_1", 
+    "pkg_version": "1.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libavfilter5-2.5.4-1-omv2015.0.i586.rpm", 
+    "pkg": "libavfilter5", 
+    "pkg_version": "2.5.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libavfilter5-11.3-alt1.x86_64.rpm", 
+    "pkg": "libavfilter5-1", 
+    "pkg_version": "1.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libavfilter5_11.3-1_i386.deb", 
+    "pkg": "libavfilter5_1", 
+    "pkg_version": "1.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Multimedia Libs", 
+    "pkg_full_name": "libavfilter5-2.6.1-1.1.x86_64.rpm", 
+    "pkg": "libavfilter5", 
+    "pkg_version": "2.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libavfilter5-11.3-alt1.x86_64.rpm", 
+    "pkg": "libavfilter5-1", 
+    "pkg_version": "1.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libavfilter5_11.3-1_i386.deb", 
+    "pkg": "libavfilter5_1", 
+    "pkg_version": "1.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Multimedia Libs", 
+    "pkg_full_name": "libavfilter5-2.6.1-1.3.x86_64.rpm", 
+    "pkg": "libavfilter5", 
+    "pkg_version": "2.6.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libavfilter5-11.3-alt1.x86_64.rpm", 
+    "pkg": "libavfilter5-1", 
+    "pkg_version": "1.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libavfilter5_11.3-1_i386.deb", 
+    "pkg": "libavfilter5_1", 
+    "pkg_version": "1.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Multimedia Libs", 
+    "pkg_full_name": "libavfilter5-2.6.1-1.3.x86_64.rpm", 
+    "pkg": "libavfilter5", 
+    "pkg_version": "2.6.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libavfilter5-11.3-alt1.x86_64.rpm", 
+    "pkg": "libavfilter5-1", 
+    "pkg_version": "1.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libavfilter5_11.3-1_i386.deb", 
+    "pkg": "libavfilter5_1", 
+    "pkg_version": "1.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Restricted Updates", 
+    "pkg_full_name": "libavfilter5-2.5.4-3plf-plf2014.1.i586.rpm", 
+    "pkg": "libavfilter5", 
+    "pkg_version": "2.5.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

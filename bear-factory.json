@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bear-factory_0.6.0-3.1_i386.deb", 
+    "pkg": "bear-factory", 
+    "pkg_version": "0.6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bear-factory_0.6.0-3.1_i386.deb", 
+    "pkg": "bear-factory", 
+    "pkg_version": "0.6.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bear-factory_0.6.0-1+b1_i386.deb", 
+    "pkg": "bear-factory", 
+    "pkg_version": "0.6.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "bear-factory-1.0.8-1.183.x86_64.rpm", 
+    "pkg": "bear-factory", 
+    "pkg_version": "1.0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "bear-factory-1.0.8-1.6.x86_64.rpm", 
+    "pkg": "bear-factory", 
+    "pkg_version": "1.0.8", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "bear-factory-1.0.8-1.12.x86_64.rpm", 
+    "pkg": "bear-factory", 
+    "pkg_version": "1.0.8", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "bear-factory_0.6.0-3.1_i386.deb", 
+    "pkg": "bear-factory", 
+    "pkg_version": "0.6.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "bear-factory_0.6.0-3_i386.deb", 
+    "pkg": "bear-factory", 
+    "pkg_version": "0.6.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

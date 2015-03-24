@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-zope.testrunner_4.4.3-1_all.deb", 
+    "pkg": "python-zope.testrunner", 
+    "pkg_version": "4.4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-zope.testrunner_4.4.3-1_all.deb", 
+    "pkg": "python-zope.testrunner", 
+    "pkg_version": "4.4.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-zope.testrunner_4.0.3-3_all.deb", 
+    "pkg": "python-zope.testrunner", 
+    "pkg_version": "4.0.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-zope.testrunner-4.4.1-5.2.noarch.rpm", 
+    "pkg": "python-zope.testrunner", 
+    "pkg_version": "4.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-zope.testrunner-4.4.1-3.1.6.noarch.rpm", 
+    "pkg": "python-zope.testrunner", 
+    "pkg_version": "4.4.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-zope.testrunner-4.3.3-2.1.2.noarch.rpm", 
+    "pkg": "python-zope.testrunner", 
+    "pkg_version": "4.3.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "python-zope.testrunner-4.4.1-3-rosa2014.1.noarch.rpm", 
+    "pkg": "python-zope.testrunner", 
+    "pkg_version": "4.4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "python-zope.testrunner-4.4.1-2-rosa2012.1.noarch.rpm", 
+    "pkg": "python-zope.testrunner", 
+    "pkg_version": "4.4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-zope.testrunner_4.4.3-1_all.deb", 
+    "pkg": "python-zope.testrunner", 
+    "pkg_version": "4.4.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-zope.testrunner_4.4.2-0ubuntu2_all.deb", 
+    "pkg": "python-zope.testrunner", 
+    "pkg_version": "4.4.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

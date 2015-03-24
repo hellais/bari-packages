@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "initramfs-tools-tcos_0.89.93_all.deb", 
+    "pkg": "initramfs-tools-tcos", 
+    "pkg_version": "0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "initramfs-tools-tcos_0.89.93ubuntu2_all.deb", 
+    "pkg": "initramfs-tools-tcos", 
+    "pkg_version": "0.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "initramfs-tools-tcos_0.89.93ubuntu2_all.deb", 
+    "pkg": "initramfs-tools-tcos", 
+    "pkg_version": "0.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-pyzolib_0.3.3-1_all.deb", 
+    "pkg": "python3-pyzolib", 
+    "pkg_version": "0.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-pyzolib-0.3.3-1.fc22.noarch.rpm", 
+    "pkg": "python3-pyzolib", 
+    "pkg_version": "0.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-pyzolib-0.3.3-1.fc22.noarch.rpm", 
+    "pkg": "python3-pyzolib", 
+    "pkg_version": "0.3.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-pyzolib-0.2.9-4.fc21.noarch.rpm", 
+    "pkg": "python3-pyzolib", 
+    "pkg_version": "0.2.9", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python3-pyzolib-0.2.9-2.fc20.noarch.rpm", 
+    "pkg": "python3-pyzolib", 
+    "pkg_version": "0.2.9", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

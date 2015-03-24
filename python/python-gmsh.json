@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-gmsh_2.8.5+dfsg-1.1+b1_i386.deb", 
+    "pkg": "python-gmsh", 
+    "pkg_version": "2.8.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-gmsh_2.8.5+dfsg-1.1+b1_i386.deb", 
+    "pkg": "python-gmsh", 
+    "pkg_version": "2.8.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

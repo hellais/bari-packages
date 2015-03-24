@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lwatch_0.6.2-1_i386.deb", 
+    "pkg": "lwatch", 
+    "pkg_version": "0.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lwatch_0.6.2-1_i386.deb", 
+    "pkg": "lwatch", 
+    "pkg_version": "0.6.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lwatch_0.6-1_i386.deb", 
+    "pkg": "lwatch", 
+    "pkg_version": "0.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Slackers", 
+    "pkg_full_name": "lwatch-0.6.2-x86_64-1cf.txz", 
+    "pkg": "lwatch", 
+    "pkg_version": "0.6.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "lwatch_0.6.2-1_i386.deb", 
+    "pkg": "lwatch", 
+    "pkg_version": "0.6.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "lwatch_0.6.2-1_i386.deb", 
+    "pkg": "lwatch", 
+    "pkg_version": "0.6.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

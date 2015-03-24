@@ -1,0 +1,207 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "unoconv-0.6-alt2.noarch.rpm", 
+    "pkg": "unoconv", 
+    "pkg_version": "0.6", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "unoconv-0.6-5-any.pkg.tar.xz", 
+    "pkg": "unoconv", 
+    "pkg_version": "0.6", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "unoconv-0.6-7.el7.noarch.rpm", 
+    "pkg": "unoconv", 
+    "pkg_version": "0.6", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "unoconv-0.5-1.el6.rf.noarch.rpm", 
+    "pkg": "unoconv", 
+    "pkg_version": "0.5", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "unoconv-0.5-1.el5.rf.noarch.rpm", 
+    "pkg": "unoconv", 
+    "pkg_version": "0.5", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "unoconv_0.6-6_all.deb", 
+    "pkg": "unoconv", 
+    "pkg_version": "0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "unoconv_0.6-6_all.deb", 
+    "pkg": "unoconv", 
+    "pkg_version": "0.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "unoconv_0.5-1_all.deb", 
+    "pkg": "unoconv", 
+    "pkg_version": "0.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "unoconv-0.6-11.fc21.noarch.rpm", 
+    "pkg": "unoconv", 
+    "pkg_version": "0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "unoconv-0.6-11.fc21.noarch.rpm", 
+    "pkg": "unoconv", 
+    "pkg_version": "0.6", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "unoconv-0.6-11.fc21.noarch.rpm", 
+    "pkg": "unoconv", 
+    "pkg_version": "0.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "unoconv-0.6-10.fc20.noarch.rpm", 
+    "pkg": "unoconv", 
+    "pkg_version": "0.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "unoconv-0.6-2-omv2015.0.noarch.rpm", 
+    "pkg": "unoconv", 
+    "pkg_version": "0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "unoconv-0.4-4-omv2014.0.noarch.rpm", 
+    "pkg": "unoconv", 
+    "pkg_version": "0.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "unoconv-0.4-3-omv2013.0.noarch.rpm", 
+    "pkg": "unoconv", 
+    "pkg_version": "0.4", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "unoconv-0.6-8.1.noarch.rpm", 
+    "pkg": "unoconv", 
+    "pkg_version": "0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "unoconv-0.6-6.4.1.noarch.rpm", 
+    "pkg": "unoconv", 
+    "pkg_version": "0.6", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "unoconv-0.6-4.1.2.noarch.rpm", 
+    "pkg": "unoconv", 
+    "pkg_version": "0.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "unoconv-0.6-4-rosa2014.1.noarch.rpm", 
+    "pkg": "unoconv", 
+    "pkg_version": "0.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "unoconv-0.6-2-rosa2012.1.noarch.rpm", 
+    "pkg": "unoconv", 
+    "pkg_version": "0.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackers", 
+    "pkg_full_name": "unoconv-0.6-x86_64-2cf.txz", 
+    "pkg": "unoconv", 
+    "pkg_version": "0.6", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "unoconv_0.6-6_all.deb", 
+    "pkg": "unoconv", 
+    "pkg_version": "0.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "unoconv_0.6-6_all.deb", 
+    "pkg": "unoconv", 
+    "pkg_version": "0.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

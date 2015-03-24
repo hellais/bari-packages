@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xombrero_1.6.3-1_i386.deb", 
+    "pkg": "xombrero", 
+    "pkg_version": "1.6.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xombrero_1.6.3-1_i386.deb", 
+    "pkg": "xombrero", 
+    "pkg_version": "1.6.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "xombrero_1.6.3-1~bpo70+1_i386.deb", 
+    "pkg": "xombrero", 
+    "pkg_version": "1.6.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "xombrero-1.2.2-2-omv2013.0.x86_64.rpm", 
+    "pkg": "xombrero", 
+    "pkg_version": "1.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "xombrero-1.2.2-2-omv2013.0.x86_64.rpm", 
+    "pkg": "xombrero", 
+    "pkg_version": "1.2.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "xombrero-1.2.2-2-omv2013.0.x86_64.rpm", 
+    "pkg": "xombrero", 
+    "pkg_version": "1.2.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "xombrero-1.6.3-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "xombrero", 
+    "pkg_version": "1.6.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

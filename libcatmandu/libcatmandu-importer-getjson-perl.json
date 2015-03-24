@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcatmandu-importer-getjson-perl_0.41-1_all.deb", 
+    "pkg": "libcatmandu-importer-getjson-perl", 
+    "pkg_version": "0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

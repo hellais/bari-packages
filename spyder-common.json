@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "spyder-common_2.3.1+dfsg-1_all.deb", 
+    "pkg": "spyder-common", 
+    "pkg_version": "2.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "spyder-common_2.3.1+dfsg-1_all.deb", 
+    "pkg": "spyder-common", 
+    "pkg_version": "2.3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

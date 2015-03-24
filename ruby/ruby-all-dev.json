@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-all-dev_2.1.5_all.deb", 
+    "pkg": "ruby-all-dev", 
+    "pkg_version": "2.1.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-all-dev_2.1.5_all.deb", 
+    "pkg": "ruby-all-dev", 
+    "pkg_version": "2.1.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "ruby-all-dev_2.1.0.0~ubuntu3_all.deb", 
+    "pkg": "ruby-all-dev", 
+    "pkg_version": "2.1.0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

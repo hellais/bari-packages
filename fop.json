@@ -1,0 +1,261 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "fop-1.1-alt1_5jpp7.noarch.rpm", 
+    "pkg": "fop", 
+    "pkg_version": "1.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "fop-1.1-2-any.pkg.tar.xz", 
+    "pkg": "fop", 
+    "pkg_version": "1.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "fop-1.1-6.el7.noarch.rpm", 
+    "pkg": "fop", 
+    "pkg_version": "1.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "fop-0.95-4.2.el6.x86_64.rpm", 
+    "pkg": "fop", 
+    "pkg_version": "0.9", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Nogin.org Random", 
+    "pkg_full_name": "fop-0.95-1.el5.noarch.rpm", 
+    "pkg": "fop", 
+    "pkg_version": "0.9", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fop_1.1.dfsg2-1_all.deb", 
+    "pkg": "fop", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fop_1.1.dfsg2-1_all.deb", 
+    "pkg": "fop", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fop_1.0.dfsg2-6_all.deb", 
+    "pkg": "fop", 
+    "pkg_version": "1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "fop-1.1-9.fc23.noarch.rpm", 
+    "pkg": "fop", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "fop-1.1-8.fc21.noarch.rpm", 
+    "pkg": "fop", 
+    "pkg_version": "1.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "fop-1.1-8.fc21.noarch.rpm", 
+    "pkg": "fop", 
+    "pkg_version": "1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "fop-1.1-5.fc20.noarch.rpm", 
+    "pkg": "fop", 
+    "pkg_version": "1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "fop-1.1-8.1-omv2015.0.noarch.rpm", 
+    "pkg": "fop", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "fop-1.1-5.1-omv2014.0.noarch.rpm", 
+    "pkg": "fop", 
+    "pkg_version": "1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "fop-1.0-0.0.5-mdv2013.0.noarch.rpm", 
+    "pkg": "fop", 
+    "pkg_version": "1.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "fop-1.0-0.0.5-mdv2013.0.noarch.rpm", 
+    "pkg": "fop", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xmlgraphics-fop-1.1-18.1.noarch.rpm", 
+    "pkg": "xmlgraphics-fop", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "fop-1.0-0.0.5-mdv2013.0.noarch.rpm", 
+    "pkg": "fop", 
+    "pkg_version": "1.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xmlgraphics-fop-1.1-16.1.5.noarch.rpm", 
+    "pkg": "xmlgraphics-fop", 
+    "pkg_version": "1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "fop-1.0-0.0.5-mdv2013.0.noarch.rpm", 
+    "pkg": "fop", 
+    "pkg_version": "1.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xmlgraphics-fop-1.1-13.1.3.noarch.rpm", 
+    "pkg": "xmlgraphics-fop", 
+    "pkg_version": "1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "fop-1.0-0.0.6-rosa2014.1.noarch.rpm", 
+    "pkg": "fop", 
+    "pkg_version": "1.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xmlgraphics-fop-1.1-13.1.3.noarch.rpm", 
+    "pkg": "xmlgraphics-fop", 
+    "pkg_version": "1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "fop-1.0-0.0.5-rosa2012.1.noarch.rpm", 
+    "pkg": "fop", 
+    "pkg_version": "1.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xmlgraphics-fop-1.1-13.1.3.noarch.rpm", 
+    "pkg": "xmlgraphics-fop", 
+    "pkg_version": "1.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "fop_1.1.dfsg-2ubuntu1_all.deb", 
+    "pkg": "fop", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xmlgraphics-fop-1.1-13.1.3.noarch.rpm", 
+    "pkg": "xmlgraphics-fop", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "fop_1.1.dfsg-2ubuntu1_all.deb", 
+    "pkg": "fop", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xmlgraphics-fop-1.1-13.1.3.noarch.rpm", 
+    "pkg": "xmlgraphics-fop", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

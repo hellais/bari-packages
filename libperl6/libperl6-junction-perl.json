@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libperl6-junction-perl_1.60000-1_all.deb", 
+    "pkg": "libperl6-junction-perl", 
+    "pkg_version": "1.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libperl6-junction-perl_1.60000-1_all.deb", 
+    "pkg": "libperl6-junction-perl", 
+    "pkg_version": "1.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libperl6-junction-perl_1.40000-1_all.deb", 
+    "pkg": "libperl6-junction-perl", 
+    "pkg_version": "1.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libperl6-junction-perl_1.60000-1_all.deb", 
+    "pkg": "libperl6-junction-perl", 
+    "pkg_version": "1.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libperl6-junction-perl_1.60000-1_all.deb", 
+    "pkg": "libperl6-junction-perl", 
+    "pkg_version": "1.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

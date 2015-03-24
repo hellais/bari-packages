@@ -1,0 +1,848 @@
+[
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "pcmciautils-015-4.2.el6.x86_64.rpm", 
+    "pkg": "pcmciautils-015", 
+    "pkg_version": "4.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "pcmciautils-015-4.2.el6.x86_64.rpm", 
+    "pkg": "pcmciautils-015", 
+    "pkg_version": "4.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "pcmciautils-015-4.2.el6.x86_64.rpm", 
+    "pkg": "pcmciautils-015", 
+    "pkg_version": "4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "pcmciautils-015-4.2.el6.x86_64.rpm", 
+    "pkg": "pcmciautils-015", 
+    "pkg_version": "4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "pcmciautils-015-4.2.el6.x86_64.rpm", 
+    "pkg": "pcmciautils-015", 
+    "pkg_version": "4.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "pcmciautils-015-4.2.el6.x86_64.rpm", 
+    "pkg": "pcmciautils-015", 
+    "pkg_version": "4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "pcmciautils-015-4.2.el6.x86_64.rpm", 
+    "pkg": "pcmciautils-015", 
+    "pkg_version": "4.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "pcmciautils-015-4.2.el6.x86_64.rpm", 
+    "pkg": "pcmciautils-015", 
+    "pkg_version": "4.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "pcmciautils-015-4.2.el6.x86_64.rpm", 
+    "pkg": "pcmciautils-015", 
+    "pkg_version": "4.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pcmciautils-018-8-omv2015.0.x86_64.rpm", 
+    "pkg": "pcmciautils-018-8-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "pcmciautils-015-4.2.el6.x86_64.rpm", 
+    "pkg": "pcmciautils-015", 
+    "pkg_version": "4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pcmciautils-018-2-omv2014.0.x86_64.rpm", 
+    "pkg": "pcmciautils-018-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pcmciautils-018-8-omv2015.0.x86_64.rpm", 
+    "pkg": "pcmciautils-018-8-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "pcmciautils-015-4.2.el6.x86_64.rpm", 
+    "pkg": "pcmciautils-015", 
+    "pkg_version": "4.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pcmciautils-018-1-omv2013.0.x86_64.rpm", 
+    "pkg": "pcmciautils-018-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pcmciautils-018-2-omv2014.0.x86_64.rpm", 
+    "pkg": "pcmciautils-018-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pcmciautils-018-8-omv2015.0.x86_64.rpm", 
+    "pkg": "pcmciautils-018-8-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "pcmciautils-015-4.2.el6.x86_64.rpm", 
+    "pkg": "pcmciautils-015", 
+    "pkg_version": "4.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pcmciautils-018-1-omv2013.0.x86_64.rpm", 
+    "pkg": "pcmciautils-018-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pcmciautils-018-2-omv2014.0.x86_64.rpm", 
+    "pkg": "pcmciautils-018-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pcmciautils-017-131.2.x86_64.rpm", 
+    "pkg": "pcmciautils-017-13", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pcmciautils-018-8-omv2015.0.x86_64.rpm", 
+    "pkg": "pcmciautils-018-8-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "pcmciautils-015-4.2.el6.x86_64.rpm", 
+    "pkg": "pcmciautils-015", 
+    "pkg_version": "4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pcmciautils-018-1-omv2013.0.x86_64.rpm", 
+    "pkg": "pcmciautils-018-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pcmciautils-018-2-omv2014.0.x86_64.rpm", 
+    "pkg": "pcmciautils-018-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pcmciautils-017-130.1.2.x86_64.rpm", 
+    "pkg": "pcmciautils-017-13", 
+    "pkg_version": "0.1.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pcmciautils-018-8-omv2015.0.x86_64.rpm", 
+    "pkg": "pcmciautils-018-8-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "pcmciautils-015-4.2.el6.x86_64.rpm", 
+    "pkg": "pcmciautils-015", 
+    "pkg_version": "4.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "pcmciautils-015-4.2.el6.x86_64.rpm", 
+    "pkg": "pcmciautils-015", 
+    "pkg_version": "4.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pcmciautils-018-8-omv2015.0.x86_64.rpm", 
+    "pkg": "pcmciautils-018-8-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pcmciautils-018-1-omv2013.0.x86_64.rpm", 
+    "pkg": "pcmciautils-018-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pcmciautils-018-2-omv2014.0.x86_64.rpm", 
+    "pkg": "pcmciautils-018-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pcmciautils-017-130.1.2.x86_64.rpm", 
+    "pkg": "pcmciautils-017-13", 
+    "pkg_version": "0.1.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pcmciautils-017-128.1.2.i586.rpm", 
+    "pkg": "pcmciautils-017-12", 
+    "pkg_version": "8.1.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "pcmciautils-015-4.2.el6.x86_64.rpm", 
+    "pkg": "pcmciautils-015", 
+    "pkg_version": "4.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "pcmciautils-018-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "pcmciautils-018-2-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pcmciautils-018-8-omv2015.0.x86_64.rpm", 
+    "pkg": "pcmciautils-018-8-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pcmciautils-018-1-omv2013.0.x86_64.rpm", 
+    "pkg": "pcmciautils-018-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pcmciautils-018-2-omv2014.0.x86_64.rpm", 
+    "pkg": "pcmciautils-018-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pcmciautils-017-130.1.2.x86_64.rpm", 
+    "pkg": "pcmciautils-017-13", 
+    "pkg_version": "0.1.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pcmciautils-017-128.1.2.i586.rpm", 
+    "pkg": "pcmciautils-017-12", 
+    "pkg_version": "8.1.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "pcmciautils-015-9-rosa2012.1.x86_64.rpm", 
+    "pkg": "pcmciautils-015-9-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "pcmciautils-015-4.2.el6.x86_64.rpm", 
+    "pkg": "pcmciautils-015", 
+    "pkg_version": "4.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "pcmciautils-018-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "pcmciautils-018-2-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pcmciautils-018-8-omv2015.0.x86_64.rpm", 
+    "pkg": "pcmciautils-018-8-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pcmciautils-018-1-omv2013.0.x86_64.rpm", 
+    "pkg": "pcmciautils-018-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pcmciautils-018-2-omv2014.0.x86_64.rpm", 
+    "pkg": "pcmciautils-018-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pcmciautils-017-130.1.2.x86_64.rpm", 
+    "pkg": "pcmciautils-017-13", 
+    "pkg_version": "0.1.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pcmciautils-017-128.1.2.i586.rpm", 
+    "pkg": "pcmciautils-017-12", 
+    "pkg_version": "8.1.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "pcmciautils-015-9-rosa2012.1.x86_64.rpm", 
+    "pkg": "pcmciautils-015-9-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "pcmciautils-015-4.2.el6.x86_64.rpm", 
+    "pkg": "pcmciautils-015", 
+    "pkg_version": "4.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "pcmciautils-018-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "pcmciautils-018-2-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pcmciautils-018-8-omv2015.0.x86_64.rpm", 
+    "pkg": "pcmciautils-018-8-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "pcmciautils-015-8-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "pcmciautils-015-8-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pcmciautils-018-1-omv2013.0.x86_64.rpm", 
+    "pkg": "pcmciautils-018-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pcmciautils-018-2-omv2014.0.x86_64.rpm", 
+    "pkg": "pcmciautils-018-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pcmciautils-017-130.1.2.x86_64.rpm", 
+    "pkg": "pcmciautils-017-13", 
+    "pkg_version": "0.1.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pcmciautils-017-128.1.2.i586.rpm", 
+    "pkg": "pcmciautils-017-12", 
+    "pkg_version": "8.1.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "pcmciautils-015-9-rosa2012.1.x86_64.rpm", 
+    "pkg": "pcmciautils-015-9-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "pcmciautils-015-4.2.el6.x86_64.rpm", 
+    "pkg": "pcmciautils-015", 
+    "pkg_version": "4.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "pcmciautils-018-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "pcmciautils-018-2-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pcmciautils-018-8-omv2015.0.x86_64.rpm", 
+    "pkg": "pcmciautils-018-8-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "pcmciautils-015-8-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "pcmciautils-015-8-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pcmciautils-018-1-omv2013.0.x86_64.rpm", 
+    "pkg": "pcmciautils-018-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pcmciautils-018-2-omv2014.0.x86_64.rpm", 
+    "pkg": "pcmciautils-018-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pcmciautils-017-130.1.2.x86_64.rpm", 
+    "pkg": "pcmciautils-017-13", 
+    "pkg_version": "0.1.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pcmciautils-017-128.1.2.i586.rpm", 
+    "pkg": "pcmciautils-017-12", 
+    "pkg_version": "8.1.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "pcmciautils-015-9-rosa2012.1.x86_64.rpm", 
+    "pkg": "pcmciautils-015-9-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "pcmciautils-015-4.2.el6.x86_64.rpm", 
+    "pkg": "pcmciautils-015", 
+    "pkg_version": "4.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "pcmciautils-018-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "pcmciautils-018-2-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pcmciautils-018-8-omv2015.0.x86_64.rpm", 
+    "pkg": "pcmciautils-018-8-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "pcmciautils-015-8-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "pcmciautils-015-8-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pcmciautils-018-1-omv2013.0.x86_64.rpm", 
+    "pkg": "pcmciautils-018-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pcmciautils-018-2-omv2014.0.x86_64.rpm", 
+    "pkg": "pcmciautils-018-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pcmciautils-017-130.1.2.x86_64.rpm", 
+    "pkg": "pcmciautils-017-13", 
+    "pkg_version": "0.1.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pcmciautils-017-128.1.2.i586.rpm", 
+    "pkg": "pcmciautils-017-12", 
+    "pkg_version": "8.1.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "pcmciautils-015-9-rosa2012.1.x86_64.rpm", 
+    "pkg": "pcmciautils-015-9-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "pcmciautils-015-4.2.el6.x86_64.rpm", 
+    "pkg": "pcmciautils-015", 
+    "pkg_version": "4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "pcmciautils-018-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "pcmciautils-018-2-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pcmciautils-018-8-omv2015.0.x86_64.rpm", 
+    "pkg": "pcmciautils-018-8-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "pcmciautils-015-8-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "pcmciautils-015-8-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pcmciautils-018-1-omv2013.0.x86_64.rpm", 
+    "pkg": "pcmciautils-018-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pcmciautils-018-2-omv2014.0.x86_64.rpm", 
+    "pkg": "pcmciautils-018-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pcmciautils-017-130.1.2.x86_64.rpm", 
+    "pkg": "pcmciautils-017-13", 
+    "pkg_version": "0.1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pcmciautils-017-128.1.2.i586.rpm", 
+    "pkg": "pcmciautils-017-12", 
+    "pkg_version": "8.1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "pcmciautils-015-9-rosa2012.1.x86_64.rpm", 
+    "pkg": "pcmciautils-015-9-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "pcmciautils-015-4.2.el6.x86_64.rpm", 
+    "pkg": "pcmciautils-015", 
+    "pkg_version": "4.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "pcmciautils-018-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "pcmciautils-018-2-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pcmciautils-018-8-omv2015.0.x86_64.rpm", 
+    "pkg": "pcmciautils-018-8-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "pcmciautils-015-8-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "pcmciautils-015-8-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pcmciautils-018-1-omv2013.0.x86_64.rpm", 
+    "pkg": "pcmciautils-018-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "pcmciautils-018-2-omv2014.0.x86_64.rpm", 
+    "pkg": "pcmciautils-018-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pcmciautils-017-130.1.2.x86_64.rpm", 
+    "pkg": "pcmciautils-017-13", 
+    "pkg_version": "0.1.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pcmciautils-017-128.1.2.i586.rpm", 
+    "pkg": "pcmciautils-017-12", 
+    "pkg_version": "8.1.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,181 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "python-openbabel-2.3.2-3-x86_64.pkg.tar.xz", 
+    "pkg": "python-openbabel", 
+    "pkg_version": "2.3.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-openbabel-2.3.2-2.el7.x86_64.rpm", 
+    "pkg": "python-openbabel", 
+    "pkg_version": "2.3.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-openbabel-2.2.3-1.el6.x86_64.rpm", 
+    "pkg": "python-openbabel", 
+    "pkg_version": "2.2.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-openbabel_2.3.2+dfsg-2_i386.deb", 
+    "pkg": "python-openbabel", 
+    "pkg_version": "2.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-openbabel_2.3.2+dfsg-2_i386.deb", 
+    "pkg": "python-openbabel", 
+    "pkg_version": "2.3.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-openbabel_2.3.1+dfsg-4_i386.deb", 
+    "pkg": "python-openbabel", 
+    "pkg_version": "2.3.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-openbabel-2.3.90-0.2.20150204git75414ad.fc23.x86_64.rpm", 
+    "pkg": "python-openbabel", 
+    "pkg_version": "2.3.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-openbabel-2.3.2-11.fc22.x86_64.rpm", 
+    "pkg": "python-openbabel", 
+    "pkg_version": "2.3.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python-openbabel-2.3.2-11.fc21.x86_64.rpm", 
+    "pkg": "python-openbabel", 
+    "pkg_version": "2.3.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-openbabel-2.3.2-2.fc20.x86_64.rpm", 
+    "pkg": "python-openbabel", 
+    "pkg_version": "2.3.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-openbabel-2.3.2-3-omv2015.0.x86_64.rpm", 
+    "pkg": "python-openbabel", 
+    "pkg_version": "2.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-openbabel-2.3.1-4-omv2014.0.x86_64.rpm", 
+    "pkg": "python-openbabel", 
+    "pkg_version": "2.3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-openbabel-2.3.1-3-omv2013.0.x86_64.rpm", 
+    "pkg": "python-openbabel", 
+    "pkg_version": "2.3.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-openbabel-2.3.1-17.2.x86_64.rpm", 
+    "pkg": "python-openbabel", 
+    "pkg_version": "2.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-openbabel-2.3.1-16.1.7.x86_64.rpm", 
+    "pkg": "python-openbabel", 
+    "pkg_version": "2.3.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-openbabel-2.3.1-14.1.3.i586.rpm", 
+    "pkg": "python-openbabel", 
+    "pkg_version": "2.3.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "python-openbabel-2.3.1-5-rosa2014.1.x86_64.rpm", 
+    "pkg": "python-openbabel", 
+    "pkg_version": "2.3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "python-openbabel-2.3.1-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "python-openbabel", 
+    "pkg_version": "2.3.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-openbabel_2.3.2+dfsg-1.3ubuntu1_i386.deb", 
+    "pkg": "python-openbabel", 
+    "pkg_version": "2.3.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-openbabel_2.3.2+dfsg-1.1_i386.deb", 
+    "pkg": "python-openbabel", 
+    "pkg_version": "2.3.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libstrigiqtdbusclient-dev_0.7.8-1.2+b2_i386.deb", 
+    "pkg": "libstrigiqtdbusclient-dev", 
+    "pkg_version": "0.7.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libstrigiqtdbusclient-dev_0.7.8-1.2+b2_i386.deb", 
+    "pkg": "libstrigiqtdbusclient-dev", 
+    "pkg_version": "0.7.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libstrigiqtdbusclient-dev_0.7.7-3_i386.deb", 
+    "pkg": "libstrigiqtdbusclient-dev", 
+    "pkg_version": "0.7.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libstrigiqtdbusclient-dev_0.7.8-1ubuntu2build1_i386.deb", 
+    "pkg": "libstrigiqtdbusclient-dev", 
+    "pkg_version": "0.7.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libstrigiqtdbusclient-dev_0.7.8-1ubuntu2_i386.deb", 
+    "pkg": "libstrigiqtdbusclient-dev", 
+    "pkg_version": "0.7.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

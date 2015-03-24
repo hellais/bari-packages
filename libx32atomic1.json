@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libx32atomic1_4.9.2-10_i386.deb", 
+    "pkg": "libx32atomic1", 
+    "pkg_version": "4.9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libx32atomic1_4.9.2-10_i386.deb", 
+    "pkg": "libx32atomic1", 
+    "pkg_version": "4.9.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libx32atomic1_4.9.1-16ubuntu6_i386.deb", 
+    "pkg": "libx32atomic1", 
+    "pkg_version": "4.9.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

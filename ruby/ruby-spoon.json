@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-spoon_0.0.4-2_all.deb", 
+    "pkg": "ruby-spoon", 
+    "pkg_version": "0.0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-spoon_0.0.4-2_all.deb", 
+    "pkg": "ruby-spoon", 
+    "pkg_version": "0.0.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ruby-spoon_0.0.4-1build1_all.deb", 
+    "pkg": "ruby-spoon", 
+    "pkg_version": "0.0.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

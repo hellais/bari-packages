@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libjackson2-module-jaxb-annotations-java_2.4.2-1_all.deb", 
+    "pkg": "libjackson2-module-jaxb-annotations-java", 
+    "pkg_version": "2.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

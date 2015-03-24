@@ -1,0 +1,83 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwpg-doc_0.3.0-3_all.deb", 
+    "pkg": "libwpg-doc", 
+    "pkg_version": "0.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwpg-doc_0.3.0-3_all.deb", 
+    "pkg": "libwpg-doc", 
+    "pkg_version": "0.3.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwpg-doc_0.2.1-1_all.deb", 
+    "pkg": "libwpg-doc", 
+    "pkg_version": "0.2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "libwpg-doc-0.3.0-3.fc22.noarch.rpm", 
+    "pkg": "libwpg-doc", 
+    "pkg_version": "0.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "libwpg-doc-0.3.0-3.fc22.noarch.rpm", 
+    "pkg": "libwpg-doc", 
+    "pkg_version": "0.3.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "libwpg-doc-0.3.0-3.fc21.noarch.rpm", 
+    "pkg": "libwpg-doc", 
+    "pkg_version": "0.3.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "libwpg-doc-0.2.2-5.fc20.noarch.rpm", 
+    "pkg": "libwpg-doc", 
+    "pkg_version": "0.2.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libwpg-doc_0.3.0-3_all.deb", 
+    "pkg": "libwpg-doc", 
+    "pkg_version": "0.3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libwpg-doc_0.2.2-1ubuntu1_all.deb", 
+    "pkg": "libwpg-doc", 
+    "pkg_version": "0.2.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

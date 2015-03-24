@@ -1,0 +1,110 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-webflash-0.1-0.8.a9.el7.noarch.rpm", 
+    "pkg": "python-webflash", 
+    "pkg_version": "0.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "python-webflash-0.1-0.2.a9.el6.noarch.rpm", 
+    "pkg": "python-webflash", 
+    "pkg_version": "0.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-webflash-0.1-0.1.a9.el5.noarch.rpm", 
+    "pkg": "python-webflash", 
+    "pkg_version": "0.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-webflash_0.1a9-5_all.deb", 
+    "pkg": "python-webflash", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-webflash_0.1a9-5_all.deb", 
+    "pkg": "python-webflash", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-webflash_0.1a9-4_all.deb", 
+    "pkg": "python-webflash", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-webflash-0.1-0.11.a9.fc21.noarch.rpm", 
+    "pkg": "python-webflash", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-webflash-0.1-0.11.a9.fc21.noarch.rpm", 
+    "pkg": "python-webflash", 
+    "pkg_version": "0.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-webflash-0.1-0.11.a9.fc21.noarch.rpm", 
+    "pkg": "python-webflash", 
+    "pkg_version": "0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-webflash-0.1-0.9.a9.fc20.noarch.rpm", 
+    "pkg": "python-webflash", 
+    "pkg_version": "0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-webflash_0.1a9-5_all.deb", 
+    "pkg": "python-webflash", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-webflash_0.1a9-4_all.deb", 
+    "pkg": "python-webflash", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

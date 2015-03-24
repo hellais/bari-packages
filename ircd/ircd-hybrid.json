@@ -1,0 +1,110 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "ircd-hybrid-7.3.1-2.el6.x86_64.rpm", 
+    "pkg": "ircd-hybrid", 
+    "pkg_version": "7.3.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "KBS Extras Testing", 
+    "pkg_full_name": "ircd-hybrid-7.2.3-1.el5.kb.x86_64.rpm", 
+    "pkg": "ircd-hybrid", 
+    "pkg_version": "7.2.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ircd-hybrid_8.2.0+dfsg.1-2_i386.deb", 
+    "pkg": "ircd-hybrid", 
+    "pkg_version": "8.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ircd-hybrid_8.2.0+dfsg.1-2_i386.deb", 
+    "pkg": "ircd-hybrid", 
+    "pkg_version": "8.2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ircd-hybrid_7.2.2.dfsg.2-10_i386.deb", 
+    "pkg": "ircd-hybrid", 
+    "pkg_version": "7.2.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "ircd-hybrid-7.2.3-9-omv2013.0.x86_64.rpm", 
+    "pkg": "ircd-hybrid", 
+    "pkg_version": "7.2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "ircd-hybrid-7.2.3-9-omv2013.0.x86_64.rpm", 
+    "pkg": "ircd-hybrid", 
+    "pkg_version": "7.2.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "ircd-hybrid-7.2.3-9-omv2013.0.x86_64.rpm", 
+    "pkg": "ircd-hybrid", 
+    "pkg_version": "7.2.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "ircd-hybrid-7.2.3-10-rosa2014.1.x86_64.rpm", 
+    "pkg": "ircd-hybrid", 
+    "pkg_version": "7.2.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "ircd-hybrid-7.2.3-9-rosa2012.1.x86_64.rpm", 
+    "pkg": "ircd-hybrid", 
+    "pkg_version": "7.2.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ircd-hybrid_8.1.17.dfsg.1-1_i386.deb", 
+    "pkg": "ircd-hybrid", 
+    "pkg_version": "8.1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ircd-hybrid_8.1.13.dfsg.1-1_i386.deb", 
+    "pkg": "ircd-hybrid", 
+    "pkg_version": "8.1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

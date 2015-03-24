@@ -1,0 +1,144 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "patchelf-0.8-alt1_2.x86_64.rpm", 
+    "pkg": "patchelf", 
+    "pkg_version": "0.8", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "patchelf-0.8-1-x86_64.pkg.tar.xz", 
+    "pkg": "patchelf", 
+    "pkg_version": "0.8", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "patchelf_0.8-2_i386.deb", 
+    "pkg": "patchelf", 
+    "pkg_version": "0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "patchelf_0.8-2_i386.deb", 
+    "pkg": "patchelf", 
+    "pkg_version": "0.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "patchelf-0.8-2.fc22.x86_64.rpm", 
+    "pkg": "patchelf", 
+    "pkg_version": "0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "patchelf-0.8-2.fc22.x86_64.rpm", 
+    "pkg": "patchelf", 
+    "pkg_version": "0.8", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "patchelf-0.8-2.fc21.x86_64.rpm", 
+    "pkg": "patchelf", 
+    "pkg_version": "0.8", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "patchelf-0.6-7.fc20.x86_64.rpm", 
+    "pkg": "patchelf", 
+    "pkg_version": "0.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "patchelf-0.6-1-omv2013.0.x86_64.rpm", 
+    "pkg": "patchelf", 
+    "pkg_version": "0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "patchelf-0.6-1-omv2013.0.x86_64.rpm", 
+    "pkg": "patchelf", 
+    "pkg_version": "0.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "patchelf-0.6-1-omv2013.0.x86_64.rpm", 
+    "pkg": "patchelf", 
+    "pkg_version": "0.6", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "patchelf-0.8-3.2.x86_64.rpm", 
+    "pkg": "patchelf", 
+    "pkg_version": "0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "patchelf-0.8-2.1.2.x86_64.rpm", 
+    "pkg": "patchelf", 
+    "pkg_version": "0.8", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "patchelf-0.6-5.1.2.i586.rpm", 
+    "pkg": "patchelf", 
+    "pkg_version": "0.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "patchelf-0.6-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "patchelf", 
+    "pkg_version": "0.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "patchelf-0.6-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "patchelf", 
+    "pkg_version": "0.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "git2cl-2.0-alt1_0.8.git8373c9f.noarch.rpm", 
+    "pkg": "git2cl", 
+    "pkg_version": "2.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "git2cl-2.0-0.8.git8373c9f.el7.noarch.rpm", 
+    "pkg": "git2cl", 
+    "pkg_version": "2.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "git2cl-2.0-0.1.git8373c9f.el6.noarch.rpm", 
+    "pkg": "git2cl", 
+    "pkg_version": "2.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "git2cl-2.0-0.1.git8373c9f.el5.noarch.rpm", 
+    "pkg": "git2cl", 
+    "pkg_version": "2.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "git2cl_2.0+git20120920-1_all.deb", 
+    "pkg": "git2cl", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "git2cl_2.0+git20120920-1_all.deb", 
+    "pkg": "git2cl", 
+    "pkg_version": "2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "git2cl_2.0+git200808271242-1_all.deb", 
+    "pkg": "git2cl", 
+    "pkg_version": "2.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "git2cl-2.0-0.8.git8373c9f.fc21.noarch.rpm", 
+    "pkg": "git2cl", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "git2cl-2.0-0.8.git8373c9f.fc21.noarch.rpm", 
+    "pkg": "git2cl", 
+    "pkg_version": "2.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "git2cl-2.0-0.8.git8373c9f.fc21.noarch.rpm", 
+    "pkg": "git2cl", 
+    "pkg_version": "2.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "git2cl-2.0-0.7.git8373c9f.fc20.noarch.rpm", 
+    "pkg": "git2cl", 
+    "pkg_version": "2.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "git2cl-2.0-0.0.git8373c9f-omv2013.0.noarch.rpm", 
+    "pkg": "git2cl", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "git2cl-2.0-0.0.git8373c9f-omv2013.0.noarch.rpm", 
+    "pkg": "git2cl", 
+    "pkg_version": "2.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "git2cl-2.0-0.0.git8373c9f-omv2013.0.noarch.rpm", 
+    "pkg": "git2cl", 
+    "pkg_version": "2.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "git2cl-2.0-0.0.git8373c9f-rosa2014.1.noarch.rpm", 
+    "pkg": "git2cl", 
+    "pkg_version": "2.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "git2cl-2.0-0.0.git8373c9f-rosa2012.1.noarch.rpm", 
+    "pkg": "git2cl", 
+    "pkg_version": "2.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "git2cl_2.0+git20120920-1_all.deb", 
+    "pkg": "git2cl", 
+    "pkg_version": "2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

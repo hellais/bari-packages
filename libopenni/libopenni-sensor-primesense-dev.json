@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libopenni-sensor-primesense-dev_5.1.0.41-3+b2_i386.deb", 
+    "pkg": "libopenni-sensor-primesense-dev", 
+    "pkg_version": "5.1.0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libopenni-sensor-primesense-dev_5.1.0.41-3+b2_i386.deb", 
+    "pkg": "libopenni-sensor-primesense-dev", 
+    "pkg_version": "5.1.0.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libopenni-sensor-primesense-dev_5.1.0.41-3_i386.deb", 
+    "pkg": "libopenni-sensor-primesense-dev", 
+    "pkg_version": "5.1.0.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

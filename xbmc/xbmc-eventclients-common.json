@@ -1,0 +1,218 @@
+[
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "xbmc-eventclients-common_14.2_all.deb", 
+    "pkg": "xbmc-eventclients-common_1", 
+    "pkg_version": "4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "xbmc-eventclients-common_14.2_all.deb", 
+    "pkg": "xbmc-eventclients-common_1", 
+    "pkg_version": "4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "xbmc-eventclients-common_12.3.1-dmo1_all.deb", 
+    "pkg": "xbmc-eventclients-common_1", 
+    "pkg_version": "2.3.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "xbmc-eventclients-common_12.3.1-dmo1_all.deb", 
+    "pkg": "xbmc-eventclients-common_1", 
+    "pkg_version": "2.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "kodi-eventclients-common-14.0-1.mga5.x86_64.rpm", 
+    "pkg": "kodi-eventclients-common-1", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "xbmc-eventclients-common-13.0-1-omv2014.1.x86_64.rpm", 
+    "pkg": "xbmc-eventclients-common-1", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "xbmc-eventclients-common_12.3.1-dmo1_all.deb", 
+    "pkg": "xbmc-eventclients-common_1", 
+    "pkg_version": "2.3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "kodi-eventclients-common-14.0-1.mga5.x86_64.rpm", 
+    "pkg": "kodi-eventclients-common-1", 
+    "pkg_version": "4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib Updates", 
+    "pkg_full_name": "xbmc-eventclients-common-13.1-1-omv2014.0.x86_64.rpm", 
+    "pkg": "xbmc-eventclients-common-1", 
+    "pkg_version": "3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "xbmc-eventclients-common_12.3.1-dmo1_all.deb", 
+    "pkg": "xbmc-eventclients-common_1", 
+    "pkg_version": "2.3.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "kodi-eventclients-common-14.0-1.mga5.x86_64.rpm", 
+    "pkg": "kodi-eventclients-common-1", 
+    "pkg_version": "4.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "xbmc-eventclients-common-12.2-2-omv2013.0.x86_64.rpm", 
+    "pkg": "xbmc-eventclients-common-1", 
+    "pkg_version": "2.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "xbmc-eventclients-common_12.3.1-dmo1_all.deb", 
+    "pkg": "xbmc-eventclients-common_1", 
+    "pkg_version": "2.3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "kodi-eventclients-common-14.0-1.mga5.x86_64.rpm", 
+    "pkg": "kodi-eventclients-common-1", 
+    "pkg_version": "4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "xbmc-eventclients-common-13.2-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "xbmc-eventclients-common-1", 
+    "pkg_version": "3.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "xbmc-eventclients-common_12.3.1-dmo1_all.deb", 
+    "pkg": "xbmc-eventclients-common_1", 
+    "pkg_version": "2.3.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "kodi-eventclients-common-14.0-1.mga5.x86_64.rpm", 
+    "pkg": "kodi-eventclients-common-1", 
+    "pkg_version": "4.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "xbmc-eventclients-common-13.2-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "xbmc-eventclients-common-1", 
+    "pkg_version": "3.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xbmc-eventclients-common_13.1~rc1+dfsg1-1ubuntu3_all.deb", 
+    "pkg": "xbmc-eventclients-common_1", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "kodi-eventclients-common-14.0-1.mga5.x86_64.rpm", 
+    "pkg": "kodi-eventclients-common-1", 
+    "pkg_version": "4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "xbmc-eventclients-common-11.0-1.pvr.2-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "xbmc-eventclients-common-1", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xbmc-eventclients-common_12.3+dfsg1-3ubuntu1_all.deb", 
+    "pkg": "xbmc-eventclients-common_1", 
+    "pkg_version": "2.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "kodi-eventclients-common-14.0-1.mga5.x86_64.rpm", 
+    "pkg": "kodi-eventclients-common-1", 
+    "pkg_version": "4.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "xbmc-eventclients-common-11.0-1.pvr.2-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "xbmc-eventclients-common-1", 
+    "pkg_version": "1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

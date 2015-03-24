@@ -1,0 +1,28 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-cookiejar-0.3.2-alt1.noarch.rpm", 
+    "pkg": "ruby-cookiejar", 
+    "pkg_version": "0.3.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-cookiejar_0.3.1-1_all.deb", 
+    "pkg": "ruby-cookiejar", 
+    "pkg_version": "0.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-cookiejar_0.3.1-1_all.deb", 
+    "pkg": "ruby-cookiejar", 
+    "pkg_version": "0.3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

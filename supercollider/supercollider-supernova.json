@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "supercollider-supernova_3.6.6~repack-2-1_i386.deb", 
+    "pkg": "supercollider-supernova", 
+    "pkg_version": "3.6.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "supercollider-supernova_3.6.6~repack-2-1_i386.deb", 
+    "pkg": "supercollider-supernova", 
+    "pkg_version": "3.6.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "supercollider-supernova_3.6.3~repack-6_i386.deb", 
+    "pkg": "supercollider-supernova", 
+    "pkg_version": "3.6.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

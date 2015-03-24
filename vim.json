@@ -1,0 +1,2466 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-console-7.3.353-alt4.1.x86_64.rpm", 
+    "pkg": "vim-console", 
+    "pkg_version": "7.3.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-X11-7.3.353-alt4.1.noarch.rpm", 
+    "pkg": "vim-X11", 
+    "pkg_version": "7.3.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-enhanced-7.3.353-alt4.1.x86_64.rpm", 
+    "pkg": "vim-enhanced", 
+    "pkg_version": "7.3.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-minimal-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim-minimal", 
+    "pkg_version": "7.4.6", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim-python3", 
+    "pkg_version": "7.4.6", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim-python3", 
+    "pkg_version": "7.4.6", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim", 
+    "pkg_version": "7.4.6", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-console-7.3.353-alt4.1.x86_64.rpm", 
+    "pkg": "vim-console", 
+    "pkg_version": "7.3.3", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim", 
+    "pkg_version": "7.4.6", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-X11-7.3.353-alt4.1.noarch.rpm", 
+    "pkg": "vim-X11", 
+    "pkg_version": "7.3.3", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-enhanced-7.3.353-alt4.1.x86_64.rpm", 
+    "pkg": "vim-enhanced", 
+    "pkg_version": "7.3.3", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-minimal-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim-minimal", 
+    "pkg_version": "7.4.6", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim", 
+    "pkg_version": "7.4.6", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-console-7.3.353-alt4.1.x86_64.rpm", 
+    "pkg": "vim-console", 
+    "pkg_version": "7.3.3", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim", 
+    "pkg_version": "7.4.6", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-X11-7.3.353-alt4.1.noarch.rpm", 
+    "pkg": "vim-X11", 
+    "pkg_version": "7.3.3", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Ghettoforge Plus", 
+    "pkg_full_name": "vim-enhanced-7.4.640-4.gf.el7.x86_64.rpm", 
+    "pkg": "vim-enhanced", 
+    "pkg_version": "7.4.6", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-minimal-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim-minimal", 
+    "pkg_version": "7.4.6", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim", 
+    "pkg_version": "7.4.6", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-console-7.3.353-alt4.1.x86_64.rpm", 
+    "pkg": "vim-console", 
+    "pkg_version": "7.3.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim", 
+    "pkg_version": "7.4.6", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-X11-7.3.353-alt4.1.noarch.rpm", 
+    "pkg": "vim-X11", 
+    "pkg_version": "7.3.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Ghettoforge Testing", 
+    "pkg_full_name": "vim-enhanced-7.4.430-1.gf.el6.x86_64.rpm", 
+    "pkg": "vim-enhanced", 
+    "pkg_version": "7.4.4", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-minimal-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim-minimal", 
+    "pkg_version": "7.4.6", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim", 
+    "pkg_version": "7.4.6", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-console-7.3.353-alt4.1.x86_64.rpm", 
+    "pkg": "vim-console", 
+    "pkg_version": "7.3.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim", 
+    "pkg_version": "7.4.6", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-X11-7.3.353-alt4.1.noarch.rpm", 
+    "pkg": "vim-X11", 
+    "pkg_version": "7.3.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Ghettoforge Plus", 
+    "pkg_full_name": "vim-enhanced-7.4.211-2.gf.el5.x86_64.rpm", 
+    "pkg": "vim-enhanced", 
+    "pkg_version": "7.4.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-minimal-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim-minimal", 
+    "pkg_version": "7.4.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-gnome_7.4.488-6_i386.deb", 
+    "pkg": "vim-gnome", 
+    "pkg_version": "7.4.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim", 
+    "pkg_version": "7.4.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-athena_7.4.488-6_i386.deb", 
+    "pkg": "vim-athena", 
+    "pkg_version": "7.4.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-console-7.3.353-alt4.1.x86_64.rpm", 
+    "pkg": "vim-console", 
+    "pkg_version": "7.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-gtk_7.4.488-6_i386.deb", 
+    "pkg": "vim-gtk", 
+    "pkg_version": "7.4.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim_7.4.488-6_i386.deb", 
+    "pkg": "vim", 
+    "pkg_version": "7.4.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-nox_7.4.488-6_i386.deb", 
+    "pkg": "vim-nox", 
+    "pkg_version": "7.4.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-X11-7.3.353-alt4.1.noarch.rpm", 
+    "pkg": "vim-X11", 
+    "pkg_version": "7.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ghettoforge Plus", 
+    "pkg_full_name": "vim-enhanced-7.4.211-2.gf.el5.x86_64.rpm", 
+    "pkg": "vim-enhanced", 
+    "pkg_version": "7.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-minimal-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim-minimal", 
+    "pkg_version": "7.4.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-gnome_7.4.488-4_i386.deb", 
+    "pkg": "vim-gnome", 
+    "pkg_version": "7.4.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim", 
+    "pkg_version": "7.4.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-athena_7.4.488-4_i386.deb", 
+    "pkg": "vim-athena", 
+    "pkg_version": "7.4.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-console-7.3.353-alt4.1.x86_64.rpm", 
+    "pkg": "vim-console", 
+    "pkg_version": "7.3.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-gtk_7.4.488-4_i386.deb", 
+    "pkg": "vim-gtk", 
+    "pkg_version": "7.4.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim_7.4.488-4_i386.deb", 
+    "pkg": "vim", 
+    "pkg_version": "7.4.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-nox_7.4.488-4_i386.deb", 
+    "pkg": "vim-nox", 
+    "pkg_version": "7.4.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-X11-7.3.353-alt4.1.noarch.rpm", 
+    "pkg": "vim-X11", 
+    "pkg_version": "7.3.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ghettoforge Plus", 
+    "pkg_full_name": "vim-enhanced-7.4.211-2.gf.el5.x86_64.rpm", 
+    "pkg": "vim-enhanced", 
+    "pkg_version": "7.4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-minimal-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim-minimal", 
+    "pkg_version": "7.4.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-gnome_7.3.547-7_i386.deb", 
+    "pkg": "vim-gnome", 
+    "pkg_version": "7.3.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim", 
+    "pkg_version": "7.4.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-athena_7.3.547-7_i386.deb", 
+    "pkg": "vim-athena", 
+    "pkg_version": "7.3.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-console-7.3.353-alt4.1.x86_64.rpm", 
+    "pkg": "vim-console", 
+    "pkg_version": "7.3.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-gtk_7.3.547-7_i386.deb", 
+    "pkg": "vim-gtk", 
+    "pkg_version": "7.3.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim_7.3.547-7_i386.deb", 
+    "pkg": "vim", 
+    "pkg_version": "7.3.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-nox_7.3.547-7_i386.deb", 
+    "pkg": "vim-nox", 
+    "pkg_version": "7.3.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-X11-7.3.353-alt4.1.noarch.rpm", 
+    "pkg": "vim-X11", 
+    "pkg_version": "7.3.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ghettoforge Plus", 
+    "pkg_full_name": "vim-enhanced-7.4.211-2.gf.el5.x86_64.rpm", 
+    "pkg": "vim-enhanced", 
+    "pkg_version": "7.4.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-minimal-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim-minimal", 
+    "pkg_version": "7.4.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-gnome_7.3.547-7_i386.deb", 
+    "pkg": "vim-gnome", 
+    "pkg_version": "7.3.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim", 
+    "pkg_version": "7.4.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-athena_7.3.547-7_i386.deb", 
+    "pkg": "vim-athena", 
+    "pkg_version": "7.3.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-console-7.3.353-alt4.1.x86_64.rpm", 
+    "pkg": "vim-console", 
+    "pkg_version": "7.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-gtk_7.3.547-7_i386.deb", 
+    "pkg": "vim-gtk", 
+    "pkg_version": "7.3.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim_7.3.547-7_i386.deb", 
+    "pkg": "vim", 
+    "pkg_version": "7.3.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-nox_7.3.547-7_i386.deb", 
+    "pkg": "vim-nox", 
+    "pkg_version": "7.3.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-X11-7.3.353-alt4.1.noarch.rpm", 
+    "pkg": "vim-X11", 
+    "pkg_version": "7.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "vim-enhanced-7.4.640-4.fc23.x86_64.rpm", 
+    "pkg": "vim-enhanced", 
+    "pkg_version": "7.4.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-minimal-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim-minimal", 
+    "pkg_version": "7.4.6", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-gnome_7.3.547-7_i386.deb", 
+    "pkg": "vim-gnome", 
+    "pkg_version": "7.3.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim", 
+    "pkg_version": "7.4.6", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-athena_7.3.547-7_i386.deb", 
+    "pkg": "vim-athena", 
+    "pkg_version": "7.3.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-console-7.3.353-alt4.1.x86_64.rpm", 
+    "pkg": "vim-console", 
+    "pkg_version": "7.3.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-gtk_7.3.547-7_i386.deb", 
+    "pkg": "vim-gtk", 
+    "pkg_version": "7.3.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim_7.3.547-7_i386.deb", 
+    "pkg": "vim", 
+    "pkg_version": "7.3.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-nox_7.3.547-7_i386.deb", 
+    "pkg": "vim-nox", 
+    "pkg_version": "7.3.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-X11-7.3.353-alt4.1.noarch.rpm", 
+    "pkg": "vim-X11", 
+    "pkg_version": "7.3.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "vim-enhanced-7.4.629-2.fc22.x86_64.rpm", 
+    "pkg": "vim-enhanced", 
+    "pkg_version": "7.4.6", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-minimal-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim-minimal", 
+    "pkg_version": "7.4.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-gnome_7.3.547-7_i386.deb", 
+    "pkg": "vim-gnome", 
+    "pkg_version": "7.3.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim", 
+    "pkg_version": "7.4.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-athena_7.3.547-7_i386.deb", 
+    "pkg": "vim-athena", 
+    "pkg_version": "7.3.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-console-7.3.353-alt4.1.x86_64.rpm", 
+    "pkg": "vim-console", 
+    "pkg_version": "7.3.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-gtk_7.3.547-7_i386.deb", 
+    "pkg": "vim-gtk", 
+    "pkg_version": "7.3.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim_7.3.547-7_i386.deb", 
+    "pkg": "vim", 
+    "pkg_version": "7.3.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-nox_7.3.547-7_i386.deb", 
+    "pkg": "vim-nox", 
+    "pkg_version": "7.3.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-X11-7.3.353-alt4.1.noarch.rpm", 
+    "pkg": "vim-X11", 
+    "pkg_version": "7.3.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "vim-enhanced-7.4.475-2.fc21.x86_64.rpm", 
+    "pkg": "vim-enhanced", 
+    "pkg_version": "7.4.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-minimal-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim-minimal", 
+    "pkg_version": "7.4.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-gnome_7.3.547-7_i386.deb", 
+    "pkg": "vim-gnome", 
+    "pkg_version": "7.3.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim", 
+    "pkg_version": "7.4.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-athena_7.3.547-7_i386.deb", 
+    "pkg": "vim-athena", 
+    "pkg_version": "7.3.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-console-7.3.353-alt4.1.x86_64.rpm", 
+    "pkg": "vim-console", 
+    "pkg_version": "7.3.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-gtk_7.3.547-7_i386.deb", 
+    "pkg": "vim-gtk", 
+    "pkg_version": "7.3.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim_7.3.547-7_i386.deb", 
+    "pkg": "vim", 
+    "pkg_version": "7.3.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-nox_7.3.547-7_i386.deb", 
+    "pkg": "vim-nox", 
+    "pkg_version": "7.3.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-X11-7.3.353-alt4.1.noarch.rpm", 
+    "pkg": "vim-X11", 
+    "pkg_version": "7.3.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "vim-enhanced-7.4.475-2.fc20.x86_64.rpm", 
+    "pkg": "vim-enhanced", 
+    "pkg_version": "7.4.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "vim-minimal-7.4.566-1-omv2015.0.x86_64.rpm", 
+    "pkg": "vim-minimal", 
+    "pkg_version": "7.4.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-gnome_7.3.547-7_i386.deb", 
+    "pkg": "vim-gnome", 
+    "pkg_version": "7.3.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim", 
+    "pkg_version": "7.4.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-athena_7.3.547-7_i386.deb", 
+    "pkg": "vim-athena", 
+    "pkg_version": "7.3.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-console-7.3.353-alt4.1.x86_64.rpm", 
+    "pkg": "vim-console", 
+    "pkg_version": "7.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-gtk_7.3.547-7_i386.deb", 
+    "pkg": "vim-gtk", 
+    "pkg_version": "7.3.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim_7.3.547-7_i386.deb", 
+    "pkg": "vim", 
+    "pkg_version": "7.3.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-nox_7.3.547-7_i386.deb", 
+    "pkg": "vim-nox", 
+    "pkg_version": "7.3.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "vim-X11-7.4.566-1-omv2015.0.x86_64.rpm", 
+    "pkg": "vim-X11", 
+    "pkg_version": "7.4.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "vim-enhanced-7.4.566-1-omv2015.0.x86_64.rpm", 
+    "pkg": "vim-enhanced", 
+    "pkg_version": "7.4.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "vim-minimal-7.4.244-1-omv2014.0.x86_64.rpm", 
+    "pkg": "vim-minimal", 
+    "pkg_version": "7.4.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-gnome_7.3.547-7_i386.deb", 
+    "pkg": "vim-gnome", 
+    "pkg_version": "7.3.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim", 
+    "pkg_version": "7.4.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-athena_7.3.547-7_i386.deb", 
+    "pkg": "vim-athena", 
+    "pkg_version": "7.3.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-console-7.3.353-alt4.1.x86_64.rpm", 
+    "pkg": "vim-console", 
+    "pkg_version": "7.3.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-gtk_7.3.547-7_i386.deb", 
+    "pkg": "vim-gtk", 
+    "pkg_version": "7.3.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim_7.3.547-7_i386.deb", 
+    "pkg": "vim", 
+    "pkg_version": "7.3.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-nox_7.3.547-7_i386.deb", 
+    "pkg": "vim-nox", 
+    "pkg_version": "7.3.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "vim-X11-7.4.244-1-omv2014.0.x86_64.rpm", 
+    "pkg": "vim-X11", 
+    "pkg_version": "7.4.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "vim-enhanced-7.4.244-1-omv2014.0.x86_64.rpm", 
+    "pkg": "vim-enhanced", 
+    "pkg_version": "7.4.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "vim-minimal-7.4.005-1-omv2013.0.x86_64.rpm", 
+    "pkg": "vim-minimal", 
+    "pkg_version": "7.4.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-gnome_7.3.547-7_i386.deb", 
+    "pkg": "vim-gnome", 
+    "pkg_version": "7.3.5", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim", 
+    "pkg_version": "7.4.6", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-athena_7.3.547-7_i386.deb", 
+    "pkg": "vim-athena", 
+    "pkg_version": "7.3.5", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-console-7.3.353-alt4.1.x86_64.rpm", 
+    "pkg": "vim-console", 
+    "pkg_version": "7.3.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-gtk_7.3.547-7_i386.deb", 
+    "pkg": "vim-gtk", 
+    "pkg_version": "7.3.5", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim_7.3.547-7_i386.deb", 
+    "pkg": "vim", 
+    "pkg_version": "7.3.5", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-nox_7.3.547-7_i386.deb", 
+    "pkg": "vim-nox", 
+    "pkg_version": "7.3.5", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "vim-X11-7.4.005-1-omv2013.0.x86_64.rpm", 
+    "pkg": "vim-X11", 
+    "pkg_version": "7.4.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "vim-enhanced-7.4.005-1-omv2013.0.x86_64.rpm", 
+    "pkg": "vim-enhanced", 
+    "pkg_version": "7.4.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "vim-minimal-7.4.005-1-omv2013.0.x86_64.rpm", 
+    "pkg": "vim-minimal", 
+    "pkg_version": "7.4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-gnome_7.3.547-7_i386.deb", 
+    "pkg": "vim-gnome", 
+    "pkg_version": "7.3.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim", 
+    "pkg_version": "7.4.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-athena_7.3.547-7_i386.deb", 
+    "pkg": "vim-athena", 
+    "pkg_version": "7.3.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-console-7.3.353-alt4.1.x86_64.rpm", 
+    "pkg": "vim-console", 
+    "pkg_version": "7.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-gtk_7.3.547-7_i386.deb", 
+    "pkg": "vim-gtk", 
+    "pkg_version": "7.3.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "vim-7.4.658.hg.6667-1.1.x86_64.rpm", 
+    "pkg": "vim", 
+    "pkg_version": "7.4.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-nox_7.3.547-7_i386.deb", 
+    "pkg": "vim-nox", 
+    "pkg_version": "7.3.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "vim-X11-7.4.005-1-omv2013.0.x86_64.rpm", 
+    "pkg": "vim-X11", 
+    "pkg_version": "7.4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "vim-enhanced-7.4.005-1-omv2013.0.x86_64.rpm", 
+    "pkg": "vim-enhanced", 
+    "pkg_version": "7.4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "vim-minimal-7.4.005-1-omv2013.0.x86_64.rpm", 
+    "pkg": "vim-minimal", 
+    "pkg_version": "7.4.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-gnome_7.3.547-7_i386.deb", 
+    "pkg": "vim-gnome", 
+    "pkg_version": "7.3.5", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim", 
+    "pkg_version": "7.4.6", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-athena_7.3.547-7_i386.deb", 
+    "pkg": "vim-athena", 
+    "pkg_version": "7.3.5", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-console-7.3.353-alt4.1.x86_64.rpm", 
+    "pkg": "vim-console", 
+    "pkg_version": "7.3.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-gtk_7.3.547-7_i386.deb", 
+    "pkg": "vim-gtk", 
+    "pkg_version": "7.3.5", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "vim-7.4.461.hg.6253-1.5.x86_64.rpm", 
+    "pkg": "vim", 
+    "pkg_version": "7.4.4", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-nox_7.3.547-7_i386.deb", 
+    "pkg": "vim-nox", 
+    "pkg_version": "7.3.5", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "vim-X11-7.4.005-1-omv2013.0.x86_64.rpm", 
+    "pkg": "vim-X11", 
+    "pkg_version": "7.4.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "vim-enhanced-7.4.005-1-omv2013.0.x86_64.rpm", 
+    "pkg": "vim-enhanced", 
+    "pkg_version": "7.4.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "vim-minimal-7.4.005-1-omv2013.0.x86_64.rpm", 
+    "pkg": "vim-minimal", 
+    "pkg_version": "7.4.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-gnome_7.3.547-7_i386.deb", 
+    "pkg": "vim-gnome", 
+    "pkg_version": "7.3.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim", 
+    "pkg_version": "7.4.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-athena_7.3.547-7_i386.deb", 
+    "pkg": "vim-athena", 
+    "pkg_version": "7.3.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-console-7.3.353-alt4.1.x86_64.rpm", 
+    "pkg": "vim-console", 
+    "pkg_version": "7.3.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-gtk_7.3.547-7_i386.deb", 
+    "pkg": "vim-gtk", 
+    "pkg_version": "7.3.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "vim-7.4.052-4.1.x86_64.rpm", 
+    "pkg": "vim", 
+    "pkg_version": "7.4.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-nox_7.3.547-7_i386.deb", 
+    "pkg": "vim-nox", 
+    "pkg_version": "7.3.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "vim-X11-7.4.005-1-omv2013.0.x86_64.rpm", 
+    "pkg": "vim-X11", 
+    "pkg_version": "7.4.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "vim-enhanced-7.4.005-1-omv2013.0.x86_64.rpm", 
+    "pkg": "vim-enhanced", 
+    "pkg_version": "7.4.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "vim-minimal-7.4.009-6-rosa2014.1.x86_64.rpm", 
+    "pkg": "vim-minimal", 
+    "pkg_version": "7.4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-gnome_7.3.547-7_i386.deb", 
+    "pkg": "vim-gnome", 
+    "pkg_version": "7.3.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim", 
+    "pkg_version": "7.4.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-athena_7.3.547-7_i386.deb", 
+    "pkg": "vim-athena", 
+    "pkg_version": "7.3.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-console-7.3.353-alt4.1.x86_64.rpm", 
+    "pkg": "vim-console", 
+    "pkg_version": "7.3.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-gtk_7.3.547-7_i386.deb", 
+    "pkg": "vim-gtk", 
+    "pkg_version": "7.3.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "vim-7.4.052-4.1.x86_64.rpm", 
+    "pkg": "vim", 
+    "pkg_version": "7.4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-nox_7.3.547-7_i386.deb", 
+    "pkg": "vim-nox", 
+    "pkg_version": "7.3.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "vim-X11-7.4.009-6-rosa2014.1.x86_64.rpm", 
+    "pkg": "vim-X11", 
+    "pkg_version": "7.4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "vim-enhanced-7.4.009-6-rosa2014.1.x86_64.rpm", 
+    "pkg": "vim-enhanced", 
+    "pkg_version": "7.4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "vim-minimal-7.4.009-5-rosa2012.1.x86_64.rpm", 
+    "pkg": "vim-minimal", 
+    "pkg_version": "7.4.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-gnome_7.3.547-7_i386.deb", 
+    "pkg": "vim-gnome", 
+    "pkg_version": "7.3.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim", 
+    "pkg_version": "7.4.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-athena_7.3.547-7_i386.deb", 
+    "pkg": "vim-athena", 
+    "pkg_version": "7.3.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-console-7.3.353-alt4.1.x86_64.rpm", 
+    "pkg": "vim-console", 
+    "pkg_version": "7.3.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-gtk_7.3.547-7_i386.deb", 
+    "pkg": "vim-gtk", 
+    "pkg_version": "7.3.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "vim-7.4.052-4.1.x86_64.rpm", 
+    "pkg": "vim", 
+    "pkg_version": "7.4.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-nox_7.3.547-7_i386.deb", 
+    "pkg": "vim-nox", 
+    "pkg_version": "7.3.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "vim-X11-7.4.009-5-rosa2012.1.x86_64.rpm", 
+    "pkg": "vim-X11", 
+    "pkg_version": "7.4.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "vim-enhanced-7.4.009-5-rosa2012.1.x86_64.rpm", 
+    "pkg": "vim-enhanced", 
+    "pkg_version": "7.4.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "vim-minimal-7.3.285-2-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "vim-minimal", 
+    "pkg_version": "7.3.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-gnome_7.3.547-7_i386.deb", 
+    "pkg": "vim-gnome", 
+    "pkg_version": "7.3.5", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim", 
+    "pkg_version": "7.4.6", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-athena_7.3.547-7_i386.deb", 
+    "pkg": "vim-athena", 
+    "pkg_version": "7.3.5", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-console-7.3.353-alt4.1.x86_64.rpm", 
+    "pkg": "vim-console", 
+    "pkg_version": "7.3.3", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-gtk_7.3.547-7_i386.deb", 
+    "pkg": "vim-gtk", 
+    "pkg_version": "7.3.5", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "vim-7.4.050-x86_64-1.txz", 
+    "pkg": "vim", 
+    "pkg_version": "7.4.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-nox_7.3.547-7_i386.deb", 
+    "pkg": "vim-nox", 
+    "pkg_version": "7.3.5", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "vim-X11-7.3.285-2-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "vim-X11", 
+    "pkg_version": "7.3.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "vim-enhanced-7.3.285-2-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "vim-enhanced", 
+    "pkg_version": "7.3.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "vim-minimal-7.3.285-2-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "vim-minimal", 
+    "pkg_version": "7.3.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-gnome_7.3.547-7_i386.deb", 
+    "pkg": "vim-gnome", 
+    "pkg_version": "7.3.5", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim", 
+    "pkg_version": "7.4.6", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-athena_7.3.547-7_i386.deb", 
+    "pkg": "vim-athena", 
+    "pkg_version": "7.3.5", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-console-7.3.353-alt4.1.x86_64.rpm", 
+    "pkg": "vim-console", 
+    "pkg_version": "7.3.3", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-gtk_7.3.547-7_i386.deb", 
+    "pkg": "vim-gtk", 
+    "pkg_version": "7.3.5", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "vim-7.3.645-x86_64-1.txz", 
+    "pkg": "vim", 
+    "pkg_version": "7.3.6", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-nox_7.3.547-7_i386.deb", 
+    "pkg": "vim-nox", 
+    "pkg_version": "7.3.5", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "vim-X11-7.3.285-2-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "vim-X11", 
+    "pkg_version": "7.3.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "vim-enhanced-7.3.285-2-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "vim-enhanced", 
+    "pkg_version": "7.3.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "vim-minimal-7.3.285-2-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "vim-minimal", 
+    "pkg_version": "7.3.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-gnome_7.3.547-7_i386.deb", 
+    "pkg": "vim-gnome", 
+    "pkg_version": "7.3.5", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim", 
+    "pkg_version": "7.4.6", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-athena_7.3.547-7_i386.deb", 
+    "pkg": "vim-athena", 
+    "pkg_version": "7.3.5", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-console-7.3.353-alt4.1.x86_64.rpm", 
+    "pkg": "vim-console", 
+    "pkg_version": "7.3.3", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-gtk_7.3.547-7_i386.deb", 
+    "pkg": "vim-gtk", 
+    "pkg_version": "7.3.5", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "vim-7.3.154-x86_64-1.txz", 
+    "pkg": "vim", 
+    "pkg_version": "7.3.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vim-nox_7.3.547-7_i386.deb", 
+    "pkg": "vim-nox", 
+    "pkg_version": "7.3.5", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "vim-X11-7.3.285-2-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "vim-X11", 
+    "pkg_version": "7.3.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "vim-enhanced-7.3.285-2-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "vim-enhanced", 
+    "pkg_version": "7.3.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "vim-minimal-7.3.285-2-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "vim-minimal", 
+    "pkg_version": "7.3.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "vim-gnome_7.4.273-2ubuntu4_i386.deb", 
+    "pkg": "vim-gnome", 
+    "pkg_version": "7.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim", 
+    "pkg_version": "7.4.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "vim-athena_7.4.273-2ubuntu4_i386.deb", 
+    "pkg": "vim-athena", 
+    "pkg_version": "7.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-console-7.3.353-alt4.1.x86_64.rpm", 
+    "pkg": "vim-console", 
+    "pkg_version": "7.3.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "vim-gtk_7.4.273-2ubuntu4_i386.deb", 
+    "pkg": "vim-gtk", 
+    "pkg_version": "7.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "vim_7.4.273-2ubuntu4_i386.deb", 
+    "pkg": "vim", 
+    "pkg_version": "7.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "vim-nox_7.4.273-2ubuntu4_i386.deb", 
+    "pkg": "vim-nox", 
+    "pkg_version": "7.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "vim-X11-7.3.285-2-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "vim-X11", 
+    "pkg_version": "7.3.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "vim-enhanced-7.3.285-2-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "vim-enhanced", 
+    "pkg_version": "7.3.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "vim-minimal-7.3.285-2-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "vim-minimal", 
+    "pkg_version": "7.3.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "vim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "vim-gnome_7.4.052-1ubuntu3_i386.deb", 
+    "pkg": "vim-gnome", 
+    "pkg_version": "7.4.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-python3-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim-python3", 
+    "pkg_version": "7.4.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gvim-7.4.663-1-x86_64.pkg.tar.xz", 
+    "pkg": "gvim", 
+    "pkg_version": "7.4.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "vim-athena_7.4.052-1ubuntu3_i386.deb", 
+    "pkg": "vim-athena", 
+    "pkg_version": "7.4.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vim-console-7.3.353-alt4.1.x86_64.rpm", 
+    "pkg": "vim-console", 
+    "pkg_version": "7.3.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "vim-gtk_7.4.052-1ubuntu3_i386.deb", 
+    "pkg": "vim-gtk", 
+    "pkg_version": "7.4.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "vim_7.4.052-1ubuntu3_i386.deb", 
+    "pkg": "vim", 
+    "pkg_version": "7.4.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "vim-nox_7.4.052-1ubuntu3_i386.deb", 
+    "pkg": "vim-nox", 
+    "pkg_version": "7.4.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "vim-X11-7.3.285-2-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "vim-X11", 
+    "pkg_version": "7.3.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "vim-enhanced-7.3.285-2-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "vim-enhanced", 
+    "pkg_version": "7.3.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

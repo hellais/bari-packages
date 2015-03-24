@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnash-doc_0.8.11~git20140708-3_all.deb", 
+    "pkg": "gnash-doc", 
+    "pkg_version": "0.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnash-doc_0.8.11~git20120629-1+deb7u1_all.deb", 
+    "pkg": "gnash-doc", 
+    "pkg_version": "0.8.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "gnash-0.8.10.99+git20150316.1510-1.1.x86_64.rpm", 
+    "pkg": "gnash", 
+    "pkg_version": "0.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnash-doc_0.8.11~git20120629-1+deb7u1_all.deb", 
+    "pkg": "gnash-doc", 
+    "pkg_version": "0.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "gnash-0.8.10.99+git20150316.1510-1.1.x86_64.rpm", 
+    "pkg": "gnash", 
+    "pkg_version": "0.8.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnash-doc_0.8.11~git20120629-1+deb7u1_all.deb", 
+    "pkg": "gnash-doc", 
+    "pkg_version": "0.8.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "gnash-0.8.10.99+git20150316.1510-1.1.x86_64.rpm", 
+    "pkg": "gnash", 
+    "pkg_version": "0.8.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnash-doc_0.8.11~git20140419-1ubuntu2_all.deb", 
+    "pkg": "gnash-doc", 
+    "pkg_version": "0.8.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "gnash-0.8.10.99+git20150316.1510-1.1.x86_64.rpm", 
+    "pkg": "gnash", 
+    "pkg_version": "0.8.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnash-doc_0.8.11~git20130903-3ubuntu1_all.deb", 
+    "pkg": "gnash-doc", 
+    "pkg_version": "0.8.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libparse-debianchangelog-perl_1.2.0-1.1_all.deb", 
+    "pkg": "libparse-debianchangelog-perl", 
+    "pkg_version": "1.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libparse-debianchangelog-perl_1.2.0-1.1_all.deb", 
+    "pkg": "libparse-debianchangelog-perl", 
+    "pkg_version": "1.2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libparse-debianchangelog-perl_1.2.0-1_all.deb", 
+    "pkg": "libparse-debianchangelog-perl", 
+    "pkg_version": "1.2.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libparse-debianchangelog-perl_1.2.0-1.1_all.deb", 
+    "pkg": "libparse-debianchangelog-perl", 
+    "pkg_version": "1.2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libparse-debianchangelog-perl_1.2.0-1ubuntu1_all.deb", 
+    "pkg": "libparse-debianchangelog-perl", 
+    "pkg_version": "1.2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

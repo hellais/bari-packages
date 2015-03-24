@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xserver-xorg-input-joystick_1.6.2-1+b3_i386.deb", 
+    "pkg": "xserver-xorg-input-joystick", 
+    "pkg_version": "1.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xserver-xorg-input-joystick_1.6.2-1+b3_i386.deb", 
+    "pkg": "xserver-xorg-input-joystick", 
+    "pkg_version": "1.6.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xserver-xorg-input-joystick_1.6.1-1+b1_i386.deb", 
+    "pkg": "xserver-xorg-input-joystick", 
+    "pkg_version": "1.6.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xserver-xorg-input-joystick_1.6.2-1build2_i386.deb", 
+    "pkg": "xserver-xorg-input-joystick", 
+    "pkg_version": "1.6.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "xserver-xorg-input-joystick-lts-utopic_1.6.2-1build2~trusty1_i386.deb", 
+    "pkg": "xserver-xorg-input-joystick-lts-utopic", 
+    "pkg_version": "1.6.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xserver-xorg-input-joystick_1.6.2-1build1_i386.deb", 
+    "pkg": "xserver-xorg-input-joystick", 
+    "pkg_version": "1.6.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

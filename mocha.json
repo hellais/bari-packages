@@ -1,0 +1,91 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "mocha-1.11.0-alt1_2.noarch.rpm", 
+    "pkg": "mocha", 
+    "pkg_version": "1.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "mocha-1.18.2-1.el7.noarch.rpm", 
+    "pkg": "mocha", 
+    "pkg_version": "1.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "mocha-1.18.2-2.el6.noarch.rpm", 
+    "pkg": "mocha", 
+    "pkg_version": "1.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mocha_1.20.1-1_all.deb", 
+    "pkg": "mocha", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mocha_1.20.1-1_all.deb", 
+    "pkg": "mocha", 
+    "pkg_version": "1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mocha-1.18.2-2.fc21.noarch.rpm", 
+    "pkg": "mocha", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mocha-1.18.2-2.fc21.noarch.rpm", 
+    "pkg": "mocha", 
+    "pkg_version": "1.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mocha-1.18.2-2.fc21.noarch.rpm", 
+    "pkg": "mocha", 
+    "pkg_version": "1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "mocha-1.18.2-1.fc20.noarch.rpm", 
+    "pkg": "mocha", 
+    "pkg_version": "1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "mocha-1.18.2-2-rosa2014.1.noarch.rpm", 
+    "pkg": "mocha", 
+    "pkg_version": "1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

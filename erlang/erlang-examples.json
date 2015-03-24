@@ -1,0 +1,532 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "erlang-examples-R15B.2-alt3.1.noarch.rpm", 
+    "pkg": "erlang-examples-R15B.2-alt", 
+    "pkg_version": "3.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "erlang-examples-R16B-03.10.el7.x86_64.rpm", 
+    "pkg": "erlang-examples-R16B-0", 
+    "pkg_version": "3.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "erlang-examples-R15B.2-alt3.1.noarch.rpm", 
+    "pkg": "erlang-examples-R15B.2-alt", 
+    "pkg_version": "3.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "erlang-examples-R14B-04.3.el6.x86_64.rpm", 
+    "pkg": "erlang-examples-R14B-0", 
+    "pkg_version": "4.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "erlang-examples-R14B-0.5.sdl6.x86_64.rpm", 
+    "pkg": "erlang-examples-R14B", 
+    "pkg_version": "0.5", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "erlang-examples-R16B-03.10.el7.x86_64.rpm", 
+    "pkg": "erlang-examples-R16B-0", 
+    "pkg_version": "3.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "erlang-examples-R15B.2-alt3.1.noarch.rpm", 
+    "pkg": "erlang-examples-R15B.2-alt", 
+    "pkg_version": "3.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "erlang-examples-R14B-04.3.el6.x86_64.rpm", 
+    "pkg": "erlang-examples-R14B-0", 
+    "pkg_version": "4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "erlang-examples-R14B-0.5.sdl6.x86_64.rpm", 
+    "pkg": "erlang-examples-R14B", 
+    "pkg_version": "0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "erlang-examples_17.3-dfsg-3_all.deb", 
+    "pkg": "erlang-examples_1", 
+    "pkg_version": "7.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "erlang-examples-R16B-03.10.el7.x86_64.rpm", 
+    "pkg": "erlang-examples-R16B-0", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "erlang-examples-R15B.2-alt3.1.noarch.rpm", 
+    "pkg": "erlang-examples-R15B.2-alt", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "erlang-examples-R14B-04.3.el6.x86_64.rpm", 
+    "pkg": "erlang-examples-R14B-0", 
+    "pkg_version": "4.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "erlang-examples-R14B-0.5.sdl6.x86_64.rpm", 
+    "pkg": "erlang-examples-R14B", 
+    "pkg_version": "0.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "erlang-examples_17.3-dfsg-3_all.deb", 
+    "pkg": "erlang-examples_1", 
+    "pkg_version": "7.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "erlang-examples-R16B-03.10.el7.x86_64.rpm", 
+    "pkg": "erlang-examples-R16B-0", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "erlang-examples-R15B.2-alt3.1.noarch.rpm", 
+    "pkg": "erlang-examples-R15B.2-alt", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "erlang-examples-R14B-04.3.el6.x86_64.rpm", 
+    "pkg": "erlang-examples-R14B-0", 
+    "pkg_version": "4.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "erlang-examples-R14B-0.5.sdl6.x86_64.rpm", 
+    "pkg": "erlang-examples-R14B", 
+    "pkg_version": "0.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "erlang-examples_17.1-dfsg-4~bpo70+1_all.deb", 
+    "pkg": "erlang-examples_1", 
+    "pkg_version": "7.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "erlang-examples-R16B-03.10.el7.x86_64.rpm", 
+    "pkg": "erlang-examples-R16B-0", 
+    "pkg_version": "3.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "erlang-examples-R15B.2-alt3.1.noarch.rpm", 
+    "pkg": "erlang-examples-R15B.2-alt", 
+    "pkg_version": "3.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "erlang-examples-R15B.2-alt3.1.noarch.rpm", 
+    "pkg": "erlang-examples-R15B.2-alt", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "erlang-examples_17.1-dfsg-4~bpo70+1_all.deb", 
+    "pkg": "erlang-examples_1", 
+    "pkg_version": "7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "erlang-examples-R14B-04.3.el6.x86_64.rpm", 
+    "pkg": "erlang-examples-R14B-0", 
+    "pkg_version": "4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "erlang-examples-R14B-0.5.sdl6.x86_64.rpm", 
+    "pkg": "erlang-examples-R14B", 
+    "pkg_version": "0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "erlang-examples-17.4-1.fc22.x86_64.rpm", 
+    "pkg": "erlang-examples-1", 
+    "pkg_version": "7.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "erlang-examples-R16B-03.10.el7.x86_64.rpm", 
+    "pkg": "erlang-examples-R16B-0", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "erlang-examples-R15B.2-alt3.1.noarch.rpm", 
+    "pkg": "erlang-examples-R15B.2-alt", 
+    "pkg_version": "3.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "erlang-examples_17.1-dfsg-4~bpo70+1_all.deb", 
+    "pkg": "erlang-examples_1", 
+    "pkg_version": "7.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "erlang-examples-R14B-04.3.el6.x86_64.rpm", 
+    "pkg": "erlang-examples-R14B-0", 
+    "pkg_version": "4.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "erlang-examples-R14B-0.5.sdl6.x86_64.rpm", 
+    "pkg": "erlang-examples-R14B", 
+    "pkg_version": "0.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "erlang-examples-17.4-1.fc22.x86_64.rpm", 
+    "pkg": "erlang-examples-1", 
+    "pkg_version": "7.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "erlang-examples-R16B-03.10.el7.x86_64.rpm", 
+    "pkg": "erlang-examples-R16B-0", 
+    "pkg_version": "3.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "erlang-examples-R15B.2-alt3.1.noarch.rpm", 
+    "pkg": "erlang-examples-R15B.2-alt", 
+    "pkg_version": "3.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "erlang-examples_17.1-dfsg-4~bpo70+1_all.deb", 
+    "pkg": "erlang-examples_1", 
+    "pkg_version": "7.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "erlang-examples-R14B-04.3.el6.x86_64.rpm", 
+    "pkg": "erlang-examples-R14B-0", 
+    "pkg_version": "4.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "erlang-examples-R14B-0.5.sdl6.x86_64.rpm", 
+    "pkg": "erlang-examples-R14B", 
+    "pkg_version": "0.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "erlang-examples-17.4-1.fc21.x86_64.rpm", 
+    "pkg": "erlang-examples-1", 
+    "pkg_version": "7.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "erlang-examples-R16B-03.10.el7.x86_64.rpm", 
+    "pkg": "erlang-examples-R16B-0", 
+    "pkg_version": "3.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "erlang-examples-R15B.2-alt3.1.noarch.rpm", 
+    "pkg": "erlang-examples-R15B.2-alt", 
+    "pkg_version": "3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "erlang-examples_17.1-dfsg-4~bpo70+1_all.deb", 
+    "pkg": "erlang-examples_1", 
+    "pkg_version": "7.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "erlang-examples-R14B-04.3.el6.x86_64.rpm", 
+    "pkg": "erlang-examples-R14B-0", 
+    "pkg_version": "4.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "erlang-examples-R14B-0.5.sdl6.x86_64.rpm", 
+    "pkg": "erlang-examples-R14B", 
+    "pkg_version": "0.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "erlang-examples-17.4-1.fc21.x86_64.rpm", 
+    "pkg": "erlang-examples-1", 
+    "pkg_version": "7.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "erlang-examples-R16B-03.10.fc20.x86_64.rpm", 
+    "pkg": "erlang-examples-R16B-0", 
+    "pkg_version": "3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "erlang-examples-R15B.2-alt3.1.noarch.rpm", 
+    "pkg": "erlang-examples-R15B.2-alt", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "erlang-examples_17.1-dfsg-4ubuntu2_all.deb", 
+    "pkg": "erlang-examples_1", 
+    "pkg_version": "7.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "erlang-examples-R14B-04.3.el6.x86_64.rpm", 
+    "pkg": "erlang-examples-R14B-0", 
+    "pkg_version": "4.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "erlang-examples-R14B-0.5.sdl6.x86_64.rpm", 
+    "pkg": "erlang-examples-R14B", 
+    "pkg_version": "0.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "erlang-examples-17.4-1.fc21.x86_64.rpm", 
+    "pkg": "erlang-examples-1", 
+    "pkg_version": "7.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "erlang-examples-R16B-03.10.fc20.x86_64.rpm", 
+    "pkg": "erlang-examples-R16B-0", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "erlang-examples_16.b.3-dfsg-1ubuntu2.1_all.deb", 
+    "pkg": "erlang-examples_16.b.3-dfsg-1ubuntu", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "erlang-examples-R15B.2-alt3.1.noarch.rpm", 
+    "pkg": "erlang-examples-R15B.2-alt", 
+    "pkg_version": "3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "erlang-examples_17.1-dfsg-4ubuntu2_all.deb", 
+    "pkg": "erlang-examples_1", 
+    "pkg_version": "7.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "erlang-examples-R14B-04.3.el6.x86_64.rpm", 
+    "pkg": "erlang-examples-R14B-0", 
+    "pkg_version": "4.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "erlang-examples-R14B-0.5.sdl6.x86_64.rpm", 
+    "pkg": "erlang-examples-R14B", 
+    "pkg_version": "0.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "erlang-examples-17.4-1.fc21.x86_64.rpm", 
+    "pkg": "erlang-examples-1", 
+    "pkg_version": "7.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "erlang-examples-R16B-03.10.fc20.x86_64.rpm", 
+    "pkg": "erlang-examples-R16B-0", 
+    "pkg_version": "3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

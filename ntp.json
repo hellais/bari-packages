@@ -1,0 +1,405 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ntp-4.2.8-alt1.x86_64.rpm", 
+    "pkg": "ntp", 
+    "pkg_version": "4.2.8", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "ntp-4.2.8.p1-1-x86_64.pkg.tar.xz", 
+    "pkg": "ntp", 
+    "pkg_version": "4.2.8", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "ntp-4.2.6p5-19.el7.centos.x86_64.rpm", 
+    "pkg": "ntp", 
+    "pkg_version": "4.2.6", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "ntp-4.2.6p5-3.el6.centos.x86_64.rpm", 
+    "pkg": "ntp", 
+    "pkg_version": "4.2.6", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "ntp-4.2.2p1-18.el5.centos.x86_64.rpm", 
+    "pkg": "ntp", 
+    "pkg_version": "4.2.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ntp_4.2.6.p5+dfsg-5_i386.deb", 
+    "pkg": "ntp", 
+    "pkg_version": "4.2.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "WTF", 
+    "pkg_full_name": "openntpd_3.9p1-7wtf16_i386.deb", 
+    "pkg": "openntpd", 
+    "pkg_version": "3.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ntp_4.2.6.p5+dfsg-5_i386.deb", 
+    "pkg": "ntp", 
+    "pkg_version": "4.2.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "WTF", 
+    "pkg_full_name": "openntpd_3.9p1-7wtf16_i386.deb", 
+    "pkg": "openntpd", 
+    "pkg_version": "3.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "ntp_4.2.6.p5+dfsg-2+deb7u3_i386.deb", 
+    "pkg": "ntp", 
+    "pkg_version": "4.2.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "WTF", 
+    "pkg_full_name": "openntpd_3.9p1-7wtf16_i386.deb", 
+    "pkg": "openntpd", 
+    "pkg_version": "3.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ntp-4.2.6p5-28.fc23.x86_64.rpm", 
+    "pkg": "ntp", 
+    "pkg_version": "4.2.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "WTF", 
+    "pkg_full_name": "openntpd_3.9p1-7wtf16_i386.deb", 
+    "pkg": "openntpd", 
+    "pkg_version": "3.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ntp-4.2.6p5-27.fc22.x86_64.rpm", 
+    "pkg": "ntp", 
+    "pkg_version": "4.2.6", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "WTF", 
+    "pkg_full_name": "openntpd_3.9p1-7wtf16_i386.deb", 
+    "pkg": "openntpd", 
+    "pkg_version": "3.9", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "ntp-4.2.6p5-27.fc21.x86_64.rpm", 
+    "pkg": "ntp", 
+    "pkg_version": "4.2.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "openntpd-5.7p1-4.1.x86_64.rpm", 
+    "pkg": "openntpd", 
+    "pkg_version": "5.7", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "ntp-4.2.6p5-20.fc20.x86_64.rpm", 
+    "pkg": "ntp", 
+    "pkg_version": "4.2.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "openntpd-5.7p1-4.1.x86_64.rpm", 
+    "pkg": "openntpd", 
+    "pkg_version": "5.7", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "ntp-4.2.6p5-18-omv2015.0.x86_64.rpm", 
+    "pkg": "ntp", 
+    "pkg_version": "4.2.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "openntpd-3.9p1-11-omv2015.0.x86_64.rpm", 
+    "pkg": "openntpd", 
+    "pkg_version": "3.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "ntp-4.2.6p5-4.1-omv2014.0.x86_64.rpm", 
+    "pkg": "ntp", 
+    "pkg_version": "4.2.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "openntpd-3.9p1-9-omv2013.0.x86_64.rpm", 
+    "pkg": "openntpd", 
+    "pkg_version": "3.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "ntp-4.2.6p5-2-omv2013.0.x86_64.rpm", 
+    "pkg": "ntp", 
+    "pkg_version": "4.2.6", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "openntpd-3.9p1-9-omv2013.0.x86_64.rpm", 
+    "pkg": "openntpd", 
+    "pkg_version": "3.9", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ntp-4.2.6p5-32.1.x86_64.rpm", 
+    "pkg": "ntp", 
+    "pkg_version": "4.2.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "openntpd-3.9p1-9-omv2013.0.x86_64.rpm", 
+    "pkg": "openntpd", 
+    "pkg_version": "3.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "ntp-4.2.6p5-25.9.1.x86_64.rpm", 
+    "pkg": "ntp", 
+    "pkg_version": "4.2.6", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "openntpd-3.9p1-9-omv2013.0.x86_64.rpm", 
+    "pkg": "openntpd", 
+    "pkg_version": "3.9", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "ntp-4.2.6p5-15.5.1.x86_64.rpm", 
+    "pkg": "ntp", 
+    "pkg_version": "4.2.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "openntpd-3.9p1-9-omv2013.0.x86_64.rpm", 
+    "pkg": "openntpd", 
+    "pkg_version": "3.9", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "ntp-4.2.6p5-4-rosa2014.1.x86_64.rpm", 
+    "pkg": "ntp", 
+    "pkg_version": "4.2.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "openntpd-3.9p1-10-rosa2014.1.x86_64.rpm", 
+    "pkg": "openntpd", 
+    "pkg_version": "3.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "ntp-4.2.6p3-4-rosa2012.1.x86_64.rpm", 
+    "pkg": "ntp", 
+    "pkg_version": "4.2.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "openntpd-3.9p1-8-rosa2012.1.x86_64.rpm", 
+    "pkg": "openntpd", 
+    "pkg_version": "3.9", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "University of Queensland Vislab", 
+    "pkg_full_name": "ntp-4.2.7p411-i486-1_uqv.txz", 
+    "pkg": "ntp", 
+    "pkg_version": "4.2.7", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "openntpd-3.9p1-7-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "openntpd", 
+    "pkg_version": "3.9", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware Patches", 
+    "pkg_full_name": "ntp-4.2.8-x86_64-1_slack14.0.txz", 
+    "pkg": "ntp", 
+    "pkg_version": "4.2.8", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "openntpd-3.9p1-7-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "openntpd", 
+    "pkg_version": "3.9", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "University of Queensland Vislab", 
+    "pkg_full_name": "ntp-4.2.7p411-i486-1_uqv.txz", 
+    "pkg": "ntp", 
+    "pkg_version": "4.2.7", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "openntpd-3.9p1-7-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "openntpd", 
+    "pkg_version": "3.9", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "ntp_4.2.6.p5+dfsg-3ubuntu2.14.10.2_i386.deb", 
+    "pkg": "ntp", 
+    "pkg_version": "4.2.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "openntpd-3.9p1-7-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "openntpd", 
+    "pkg_version": "3.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "ntp_4.2.6.p5+dfsg-3ubuntu2.14.04.2_i386.deb", 
+    "pkg": "ntp", 
+    "pkg_version": "4.2.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "openntpd-3.9p1-7-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "openntpd", 
+    "pkg_version": "3.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

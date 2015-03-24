@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwww-perl_6.08-1_all.deb", 
+    "pkg": "libwww-perl", 
+    "pkg_version": "6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwww-perl_6.08-1_all.deb", 
+    "pkg": "libwww-perl", 
+    "pkg_version": "6.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwww-perl_6.04-1_all.deb", 
+    "pkg": "libwww-perl", 
+    "pkg_version": "6.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "libwww-perl-6.05-x86_64-1gv.txz", 
+    "pkg": "libwww-perl", 
+    "pkg_version": "6.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "libwww-perl-5.837-x86_64-4gv.txz", 
+    "pkg": "libwww-perl", 
+    "pkg_version": "5.8", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "libwww-perl-5.837-x86_64-3gv.txz", 
+    "pkg": "libwww-perl", 
+    "pkg_version": "5.8", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libwww-perl_6.08-1_all.deb", 
+    "pkg": "libwww-perl", 
+    "pkg_version": "6.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libwww-perl_6.05-2_all.deb", 
+    "pkg": "libwww-perl", 
+    "pkg_version": "6.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

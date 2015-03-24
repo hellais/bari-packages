@@ -1,0 +1,280 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "opensm2-3.3.7-alt2.x86_64.rpm", 
+    "pkg": "opensm2", 
+    "pkg_version": "3.3.7", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "opensm2-3.3.7-alt2.x86_64.rpm", 
+    "pkg": "opensm2", 
+    "pkg_version": "3.3.7", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "opensm-3.3.15-7.el7.x86_64.rpm", 
+    "pkg": "opensm", 
+    "pkg_version": "3.3.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "opensm2-3.3.7-alt2.x86_64.rpm", 
+    "pkg": "opensm2", 
+    "pkg_version": "3.3.7", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "opensm-3.3.17-1.el6.x86_64.rpm", 
+    "pkg": "opensm", 
+    "pkg_version": "3.3.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "opensm2-3.3.7-alt2.x86_64.rpm", 
+    "pkg": "opensm2", 
+    "pkg_version": "3.3.7", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "opensm-3.3.13-1.el5.x86_64.rpm", 
+    "pkg": "opensm", 
+    "pkg_version": "3.3.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "opensm2-3.3.7-alt2.x86_64.rpm", 
+    "pkg": "opensm2", 
+    "pkg_version": "3.3.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "opensm_3.3.18-3_i386.deb", 
+    "pkg": "opensm", 
+    "pkg_version": "3.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "opensm2-3.3.7-alt2.x86_64.rpm", 
+    "pkg": "opensm2", 
+    "pkg_version": "3.3.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "opensm_3.3.18-3_i386.deb", 
+    "pkg": "opensm", 
+    "pkg_version": "3.3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "opensm2-3.3.7-alt2.x86_64.rpm", 
+    "pkg": "opensm2", 
+    "pkg_version": "3.3.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "opensm_3.2.6-20090317-2.1_i386.deb", 
+    "pkg": "opensm", 
+    "pkg_version": "3.2.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "opensm2-3.3.7-alt2.x86_64.rpm", 
+    "pkg": "opensm2", 
+    "pkg_version": "3.3.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "opensm-3.3.17-4.fc22.x86_64.rpm", 
+    "pkg": "opensm", 
+    "pkg_version": "3.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "opensm2-3.3.7-alt2.x86_64.rpm", 
+    "pkg": "opensm2", 
+    "pkg_version": "3.3.7", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "opensm-3.3.17-4.fc22.x86_64.rpm", 
+    "pkg": "opensm", 
+    "pkg_version": "3.3.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "opensm2-3.3.7-alt2.x86_64.rpm", 
+    "pkg": "opensm2", 
+    "pkg_version": "3.3.7", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "opensm-3.3.17-4.fc21.x86_64.rpm", 
+    "pkg": "opensm", 
+    "pkg_version": "3.3.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "opensm2-3.3.7-alt2.x86_64.rpm", 
+    "pkg": "opensm2", 
+    "pkg_version": "3.3.7", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "opensm-3.3.15-7.fc20.x86_64.rpm", 
+    "pkg": "opensm", 
+    "pkg_version": "3.3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "opensm2-3.3.7-alt2.x86_64.rpm", 
+    "pkg": "opensm2", 
+    "pkg_version": "3.3.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "opensm-3.3.17-1-omv2014.1.x86_64.rpm", 
+    "pkg": "opensm", 
+    "pkg_version": "3.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "opensm2-3.3.7-alt2.x86_64.rpm", 
+    "pkg": "opensm2", 
+    "pkg_version": "3.3.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "opensm-3.3.19-1.1.x86_64.rpm", 
+    "pkg": "opensm", 
+    "pkg_version": "3.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "opensm2-3.3.7-alt2.x86_64.rpm", 
+    "pkg": "opensm2", 
+    "pkg_version": "3.3.7", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "opensm-3.3.17-3.2.2.x86_64.rpm", 
+    "pkg": "opensm", 
+    "pkg_version": "3.3.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "opensm2-3.3.7-alt2.x86_64.rpm", 
+    "pkg": "opensm2", 
+    "pkg_version": "3.3.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "opensm_3.3.18-1_i386.deb", 
+    "pkg": "opensm", 
+    "pkg_version": "3.3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "opensm2-3.3.7-alt2.x86_64.rpm", 
+    "pkg": "opensm2", 
+    "pkg_version": "3.3.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "opensm_3.3.15-2_i386.deb", 
+    "pkg": "opensm", 
+    "pkg_version": "3.3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

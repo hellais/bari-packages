@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "LinuxTECH", 
+    "pkg_full_name": "flickcurl-utils-1.23-1.el6.x86_64.rpm", 
+    "pkg": "flickcurl-utils", 
+    "pkg_version": "1.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "flickcurl-utils_1.25-3_i386.deb", 
+    "pkg": "flickcurl-utils", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "flickcurl-utils_1.25-3_i386.deb", 
+    "pkg": "flickcurl-utils", 
+    "pkg_version": "1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "flickcurl-utils_1.25-3_i386.deb", 
+    "pkg": "flickcurl-utils", 
+    "pkg_version": "1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "flickcurl-utils_1.25-1ubuntu1_i386.deb", 
+    "pkg": "flickcurl-utils", 
+    "pkg_version": "1.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

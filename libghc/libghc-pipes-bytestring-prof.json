@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-pipes-bytestring-prof_2.1.0-1+b6_amd64.deb", 
+    "pkg": "libghc-pipes-bytestring-prof", 
+    "pkg_version": "2.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-pipes-bytestring-prof_2.1.0-1+b6_amd64.deb", 
+    "pkg": "libghc-pipes-bytestring-prof", 
+    "pkg_version": "2.1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-pipes-bytestring-prof_2.1.0-1build1_i386.deb", 
+    "pkg": "libghc-pipes-bytestring-prof", 
+    "pkg_version": "2.1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

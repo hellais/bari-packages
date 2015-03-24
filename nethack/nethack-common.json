@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nethack-common_3.4.3-15_i386.deb", 
+    "pkg": "nethack-common", 
+    "pkg_version": "3.4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nethack-common_3.4.3-15_i386.deb", 
+    "pkg": "nethack-common", 
+    "pkg_version": "3.4.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nethack-common_3.4.3-14_i386.deb", 
+    "pkg": "nethack-common", 
+    "pkg_version": "3.4.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "nethack-common_3.4.3-15_i386.deb", 
+    "pkg": "nethack-common", 
+    "pkg_version": "3.4.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "nethack-common_3.4.3-14_i386.deb", 
+    "pkg": "nethack-common", 
+    "pkg_version": "3.4.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

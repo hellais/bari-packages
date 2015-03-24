@@ -1,0 +1,145 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "calamaris-2.59-alt2_11.noarch.rpm", 
+    "pkg": "calamaris", 
+    "pkg_version": "2.5", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "calamaris-2.59-10.el7.noarch.rpm", 
+    "pkg": "calamaris", 
+    "pkg_version": "2.5", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "calamaris-2.59-1.2.el6.rf.noarch.rpm", 
+    "pkg": "calamaris", 
+    "pkg_version": "2.5", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "calamaris-2.59-1.2.el5.rf.noarch.rpm", 
+    "pkg": "calamaris", 
+    "pkg_version": "2.5", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "calamaris_2.99.4.0-19_all.deb", 
+    "pkg": "calamaris", 
+    "pkg_version": "2.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "calamaris_2.99.4.0-19_all.deb", 
+    "pkg": "calamaris", 
+    "pkg_version": "2.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "calamaris_2.99.4.0-18_all.deb", 
+    "pkg": "calamaris", 
+    "pkg_version": "2.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "calamaris-2.59-11.fc21.noarch.rpm", 
+    "pkg": "calamaris", 
+    "pkg_version": "2.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "calamaris-2.59-11.fc21.noarch.rpm", 
+    "pkg": "calamaris", 
+    "pkg_version": "2.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "calamaris-2.59-11.fc21.noarch.rpm", 
+    "pkg": "calamaris", 
+    "pkg_version": "2.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "calamaris-2.59-10.fc20.noarch.rpm", 
+    "pkg": "calamaris", 
+    "pkg_version": "2.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "calamaris-2.59-158.1.x86_64.rpm", 
+    "pkg": "calamaris", 
+    "pkg_version": "2.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "calamaris-2.59-157.1.2.x86_64.rpm", 
+    "pkg": "calamaris", 
+    "pkg_version": "2.5", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "calamaris-2.59-155.1.2.i586.rpm", 
+    "pkg": "calamaris", 
+    "pkg_version": "2.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "calamaris_2.99.4.0-19_all.deb", 
+    "pkg": "calamaris", 
+    "pkg_version": "2.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "calamaris_2.99.4.0-19_all.deb", 
+    "pkg": "calamaris", 
+    "pkg_version": "2.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

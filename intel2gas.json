@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "intel2gas_1.3.3-16_i386.deb", 
+    "pkg": "intel2gas", 
+    "pkg_version": "1.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "intel2gas_1.3.3-15_i386.deb", 
+    "pkg": "intel2gas", 
+    "pkg_version": "1.3.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "intel2gas_1.3.3-14_i386.deb", 
+    "pkg": "intel2gas", 
+    "pkg_version": "1.3.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "intel2gas_1.3.3-15_i386.deb", 
+    "pkg": "intel2gas", 
+    "pkg_version": "1.3.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "intel2gas_1.3.3-15_i386.deb", 
+    "pkg": "intel2gas", 
+    "pkg_version": "1.3.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

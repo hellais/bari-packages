@@ -1,0 +1,73 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "caja-gksu-1.8.0-3-x86_64.pkg.tar.xz", 
+    "pkg": "caja-gksu", 
+    "pkg_version": "1.8.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "caja-gksu_1.8.0-2_i386.deb", 
+    "pkg": "caja-gksu", 
+    "pkg_version": "1.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "caja-gksu_1.8.0-2_i386.deb", 
+    "pkg": "caja-gksu", 
+    "pkg_version": "1.8.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "caja-gksu_1.8.0-1~bpo70+1_i386.deb", 
+    "pkg": "caja-gksu", 
+    "pkg_version": "1.8.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "mate-file-manager-gksu-1.6.0-4.mga4.x86_64.rpm", 
+    "pkg": "mate-file-manager-gksu", 
+    "pkg_version": "1.6.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "caja-gksu-1.6.0-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "caja-gksu", 
+    "pkg_version": "1.6.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "mate-file-manager-gksu-1.6.0-4.mga4.x86_64.rpm", 
+    "pkg": "mate-file-manager-gksu", 
+    "pkg_version": "1.6.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "caja-gksu-1.6.0-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "caja-gksu", 
+    "pkg_version": "1.6.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

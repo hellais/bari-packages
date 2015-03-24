@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lazygal_0.8.8-2_all.deb", 
+    "pkg": "lazygal", 
+    "pkg_version": "0.8.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lazygal_0.8.7-1_all.deb", 
+    "pkg": "lazygal", 
+    "pkg_version": "0.8.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lazygal_0.7.4-1_all.deb", 
+    "pkg": "lazygal", 
+    "pkg_version": "0.7.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "lazygal_0.8.4-1_all.deb", 
+    "pkg": "lazygal", 
+    "pkg_version": "0.8.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "lazygal_0.8.2-2_all.deb", 
+    "pkg": "lazygal", 
+    "pkg_version": "0.8.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

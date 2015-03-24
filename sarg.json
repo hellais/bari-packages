@@ -1,0 +1,172 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "sarg-2.3.9-1-x86_64.pkg.tar.xz", 
+    "pkg": "sarg", 
+    "pkg_version": "2.3.9", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge) Testing", 
+    "pkg_full_name": "sarg-2.3.1-1.el6.test.x86_64.rpm", 
+    "pkg": "sarg", 
+    "pkg_version": "2.3.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge) Testing", 
+    "pkg_full_name": "sarg-2.3.1-1.el5.rft.x86_64.rpm", 
+    "pkg": "sarg", 
+    "pkg_version": "2.3.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sarg_2.3.6-1+b1_i386.deb", 
+    "pkg": "sarg", 
+    "pkg_version": "2.3.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sarg_2.3.6-1+b1_i386.deb", 
+    "pkg": "sarg", 
+    "pkg_version": "2.3.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sarg_2.3.2-2_i386.deb", 
+    "pkg": "sarg", 
+    "pkg_version": "2.3.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "sarg-2.3.9-6.1.x86_64.rpm", 
+    "pkg": "sarg", 
+    "pkg_version": "2.3.9", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "sarg-2.3.9-6.1.x86_64.rpm", 
+    "pkg": "sarg", 
+    "pkg_version": "2.3.9", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "sarg-2.3.2-2-omv2015.0.x86_64.rpm", 
+    "pkg": "sarg", 
+    "pkg_version": "2.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "sarg-2.3.2-1-omv2013.0.x86_64.rpm", 
+    "pkg": "sarg", 
+    "pkg_version": "2.3.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "sarg-2.3.2-1-omv2013.0.x86_64.rpm", 
+    "pkg": "sarg", 
+    "pkg_version": "2.3.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "sarg-2.3.9-2.1.x86_64.rpm", 
+    "pkg": "sarg", 
+    "pkg_version": "2.3.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "sarg-2.3.6-4.1.3.x86_64.rpm", 
+    "pkg": "sarg", 
+    "pkg_version": "2.3.6", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "sarg-2.3.6-2.1.1.i586.rpm", 
+    "pkg": "sarg", 
+    "pkg_version": "2.3.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "sarg-2.3.2-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "sarg", 
+    "pkg_version": "2.3.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "sarg-2.3.2-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "sarg", 
+    "pkg_version": "2.3.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackers", 
+    "pkg_full_name": "sarg-2.3.9-x86_64-2cf.txz", 
+    "pkg": "sarg", 
+    "pkg_version": "2.3.9", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "sarg_2.3.6-1ubuntu1_i386.deb", 
+    "pkg": "sarg", 
+    "pkg_version": "2.3.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "sarg_2.3.6-1build1_i386.deb", 
+    "pkg": "sarg", 
+    "pkg_version": "2.3.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

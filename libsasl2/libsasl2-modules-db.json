@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsasl2-modules-db_2.1.26.dfsg1-13_i386.deb", 
+    "pkg": "libsasl2-modules-db", 
+    "pkg_version": "2.1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsasl2-modules-db_2.1.26.dfsg1-13_i386.deb", 
+    "pkg": "libsasl2-modules-db", 
+    "pkg_version": "2.1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libsasl2-modules-db_2.1.26.dfsg1-11_i386.deb", 
+    "pkg": "libsasl2-modules-db", 
+    "pkg_version": "2.1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,803 @@
+[
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "systemd-208-11.el7_0.6.x86_64.rpm", 
+    "pkg": "systemd-208-11.el7", 
+    "pkg_version": "0.6", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "systemd-208-11.el7_0.6.x86_64.rpm", 
+    "pkg": "systemd-208-11.el7", 
+    "pkg_version": "0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "systemd-208-11.el7_0.6.x86_64.rpm", 
+    "pkg": "systemd-208-11.el7", 
+    "pkg_version": "0.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "systemd-208-11.el7_0.6.x86_64.rpm", 
+    "pkg": "systemd-208-11.el7", 
+    "pkg_version": "0.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "systemd-208-11.el7_0.6.x86_64.rpm", 
+    "pkg": "systemd-208-11.el7", 
+    "pkg_version": "0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "systemd-208-11.el7_0.6.x86_64.rpm", 
+    "pkg": "systemd-208-11.el7", 
+    "pkg_version": "0.6", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "systemd-208-11.el7_0.6.x86_64.rpm", 
+    "pkg": "systemd-208-11.el7", 
+    "pkg_version": "0.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "systemd-208-11.el7_0.6.x86_64.rpm", 
+    "pkg": "systemd-208-11.el7", 
+    "pkg_version": "0.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-219-10-omv2015.0.x86_64.rpm", 
+    "pkg": "systemd-219-10-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "systemd-208-11.el7_0.6.x86_64.rpm", 
+    "pkg": "systemd-208-11.el7", 
+    "pkg_version": "0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core Updates", 
+    "pkg_full_name": "systemd-208-10.5.mga4.x86_64.rpm", 
+    "pkg": "systemd-208-1", 
+    "pkg_version": "0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-219-10-omv2015.0.x86_64.rpm", 
+    "pkg": "systemd-219-10-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-208-19-omv2014.0.x86_64.rpm", 
+    "pkg": "systemd-208-19-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "systemd-208-11.el7_0.6.x86_64.rpm", 
+    "pkg": "systemd-208-11.el7", 
+    "pkg_version": "0.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "systemd-208-19.13-omv2014.0.x86_64.rpm", 
+    "pkg": "systemd-208-1", 
+    "pkg_version": "9.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-208-7-omv2013.0.x86_64.rpm", 
+    "pkg": "systemd-208-7-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-208-19-omv2014.0.x86_64.rpm", 
+    "pkg": "systemd-208-19-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "systemd-208-11.el7_0.6.x86_64.rpm", 
+    "pkg": "systemd-208-11.el7", 
+    "pkg_version": "0.6", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-219-10-omv2015.0.x86_64.rpm", 
+    "pkg": "systemd-219-10-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "systemd-208-19.13-omv2014.0.x86_64.rpm", 
+    "pkg": "systemd-208-1", 
+    "pkg_version": "9.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "systemd-208-8-omv2013.0.x86_64.rpm", 
+    "pkg": "systemd-208-8-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-208-7-omv2013.0.x86_64.rpm", 
+    "pkg": "systemd-208-7-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "systemd-210-40.1.x86_64.rpm", 
+    "pkg": "systemd-210-4", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-208-19-omv2014.0.x86_64.rpm", 
+    "pkg": "systemd-208-19-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "systemd-208-11.el7_0.6.x86_64.rpm", 
+    "pkg": "systemd-208-11.el7", 
+    "pkg_version": "0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-219-10-omv2015.0.x86_64.rpm", 
+    "pkg": "systemd-219-10-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "systemd-208-19.13-omv2014.0.x86_64.rpm", 
+    "pkg": "systemd-208-1", 
+    "pkg_version": "9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "systemd-208-8-omv2013.0.x86_64.rpm", 
+    "pkg": "systemd-208-8-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-208-7-omv2013.0.x86_64.rpm", 
+    "pkg": "systemd-208-7-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "systemd-210-40.1.x86_64.rpm", 
+    "pkg": "systemd-210-4", 
+    "pkg_version": "0.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "systemd-mini-210-25.8.1.x86_64.rpm", 
+    "pkg": "systemd-mini-210-2", 
+    "pkg_version": "5.8.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "systemd-210-25.8.1.x86_64.rpm", 
+    "pkg": "systemd-210-2", 
+    "pkg_version": "5.8.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-208-19-omv2014.0.x86_64.rpm", 
+    "pkg": "systemd-208-19-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "systemd-208-11.el7_0.6.x86_64.rpm", 
+    "pkg": "systemd-208-11.el7", 
+    "pkg_version": "0.6", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-219-10-omv2015.0.x86_64.rpm", 
+    "pkg": "systemd-219-10-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "systemd-208-19.13-omv2014.0.x86_64.rpm", 
+    "pkg": "systemd-208-1", 
+    "pkg_version": "9.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "systemd-208-8-omv2013.0.x86_64.rpm", 
+    "pkg": "systemd-208-8-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-208-7-omv2013.0.x86_64.rpm", 
+    "pkg": "systemd-208-7-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "systemd-210-40.1.x86_64.rpm", 
+    "pkg": "systemd-210-4", 
+    "pkg_version": "0.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "systemd-mini-210-25.8.1.x86_64.rpm", 
+    "pkg": "systemd-mini-210-2", 
+    "pkg_version": "5.8.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "systemd-210-25.8.1.x86_64.rpm", 
+    "pkg": "systemd-210-2", 
+    "pkg_version": "5.8.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "systemd-208-9.1.x86_64.rpm", 
+    "pkg": "systemd-208", 
+    "pkg_version": "9.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-208-19-omv2014.0.x86_64.rpm", 
+    "pkg": "systemd-208-19-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "systemd-208-11.el7_0.6.x86_64.rpm", 
+    "pkg": "systemd-208-11.el7", 
+    "pkg_version": "0.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-219-10-omv2015.0.x86_64.rpm", 
+    "pkg": "systemd-219-10-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "systemd-208-23.3.x86_64.rpm", 
+    "pkg": "systemd-208-2", 
+    "pkg_version": "3.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "systemd-208-32.1.x86_64.rpm", 
+    "pkg": "systemd-208-3", 
+    "pkg_version": "2.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "systemd-mini-208-19.1.x86_64.rpm", 
+    "pkg": "systemd-mini-208-1", 
+    "pkg_version": "9.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "systemd-208-19.1.x86_64.rpm", 
+    "pkg": "systemd-208-1", 
+    "pkg_version": "9.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "systemd-mini-208-32.1.x86_64.rpm", 
+    "pkg": "systemd-mini-208-3", 
+    "pkg_version": "2.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "systemd-208-8-omv2013.0.x86_64.rpm", 
+    "pkg": "systemd-208-8-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "systemd-mini-208-9.1.x86_64.rpm", 
+    "pkg": "systemd-mini-208", 
+    "pkg_version": "9.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "systemd-mini-208-23.1.x86_64.rpm", 
+    "pkg": "systemd-mini-208-2", 
+    "pkg_version": "3.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-208-7-omv2013.0.x86_64.rpm", 
+    "pkg": "systemd-208-7-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "systemd-210-40.1.x86_64.rpm", 
+    "pkg": "systemd-210-4", 
+    "pkg_version": "0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "systemd-mini-210-25.8.1.x86_64.rpm", 
+    "pkg": "systemd-mini-210-2", 
+    "pkg_version": "5.8.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "systemd-210-25.8.1.x86_64.rpm", 
+    "pkg": "systemd-210-2", 
+    "pkg_version": "5.8.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "systemd-208-9.1.x86_64.rpm", 
+    "pkg": "systemd-208", 
+    "pkg_version": "9.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-208-19-omv2014.0.x86_64.rpm", 
+    "pkg": "systemd-208-19-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "systemd-208-11.el7_0.6.x86_64.rpm", 
+    "pkg": "systemd-208-11.el7", 
+    "pkg_version": "0.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-219-10-omv2015.0.x86_64.rpm", 
+    "pkg": "systemd-219-10-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "systemd-208-36-rosa2014.1.x86_64.rpm", 
+    "pkg": "systemd-208-36-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "systemd-208-23.3.x86_64.rpm", 
+    "pkg": "systemd-208-2", 
+    "pkg_version": "3.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "systemd-208-38.1-rosa2014.1.x86_64.rpm", 
+    "pkg": "systemd-208-3", 
+    "pkg_version": "8.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "systemd-mini-208-19.1.x86_64.rpm", 
+    "pkg": "systemd-mini-208-1", 
+    "pkg_version": "9.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "systemd-208-19.1.x86_64.rpm", 
+    "pkg": "systemd-208-1", 
+    "pkg_version": "9.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "systemd-mini-208-32.1.x86_64.rpm", 
+    "pkg": "systemd-mini-208-3", 
+    "pkg_version": "2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "systemd-208-8-omv2013.0.x86_64.rpm", 
+    "pkg": "systemd-208-8-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "systemd-mini-208-9.1.x86_64.rpm", 
+    "pkg": "systemd-mini-208", 
+    "pkg_version": "9.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "systemd-mini-208-23.1.x86_64.rpm", 
+    "pkg": "systemd-mini-208-2", 
+    "pkg_version": "3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-208-7-omv2013.0.x86_64.rpm", 
+    "pkg": "systemd-208-7-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "systemd-210-40.1.x86_64.rpm", 
+    "pkg": "systemd-210-4", 
+    "pkg_version": "0.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "systemd-mini-210-25.8.1.x86_64.rpm", 
+    "pkg": "systemd-mini-210-2", 
+    "pkg_version": "5.8.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "systemd-194-10-rosa2012.1.x86_64.rpm", 
+    "pkg": "systemd-194-10-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "systemd-208-30-rosa2012.1.x86_64.rpm", 
+    "pkg": "systemd-208-30-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "systemd-210-25.8.1.x86_64.rpm", 
+    "pkg": "systemd-210-2", 
+    "pkg_version": "5.8.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "systemd-208-9.1.x86_64.rpm", 
+    "pkg": "systemd-208", 
+    "pkg_version": "9.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-208-19-omv2014.0.x86_64.rpm", 
+    "pkg": "systemd-208-19-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "systemd-208-11.el7_0.6.x86_64.rpm", 
+    "pkg": "systemd-208-11.el7", 
+    "pkg_version": "0.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-219-10-omv2015.0.x86_64.rpm", 
+    "pkg": "systemd-219-10-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "systemd-208-36-rosa2014.1.x86_64.rpm", 
+    "pkg": "systemd-208-36-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "systemd-208-23.3.x86_64.rpm", 
+    "pkg": "systemd-208-2", 
+    "pkg_version": "3.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "systemd-208-38.1-rosa2014.1.x86_64.rpm", 
+    "pkg": "systemd-208-3", 
+    "pkg_version": "8.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "systemd-mini-208-19.1.x86_64.rpm", 
+    "pkg": "systemd-mini-208-1", 
+    "pkg_version": "9.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "systemd-208-19.1.x86_64.rpm", 
+    "pkg": "systemd-208-1", 
+    "pkg_version": "9.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "systemd-mini-208-32.1.x86_64.rpm", 
+    "pkg": "systemd-mini-208-3", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "systemd-208-8-omv2013.0.x86_64.rpm", 
+    "pkg": "systemd-208-8-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "systemd-mini-208-9.1.x86_64.rpm", 
+    "pkg": "systemd-mini-208", 
+    "pkg_version": "9.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "systemd-mini-208-23.1.x86_64.rpm", 
+    "pkg": "systemd-mini-208-2", 
+    "pkg_version": "3.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

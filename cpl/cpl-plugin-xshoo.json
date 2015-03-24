@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cpl-plugin-xshoo_2.5.2+dfsg-1+b1_i386.deb", 
+    "pkg": "cpl-plugin-xshoo", 
+    "pkg_version": "2.5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cpl-plugin-xshoo_2.5.2+dfsg-1+b1_i386.deb", 
+    "pkg": "cpl-plugin-xshoo", 
+    "pkg_version": "2.5.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

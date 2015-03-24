@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "sshmenu-3.15-5.el5.noarch.rpm", 
+    "pkg": "sshmenu", 
+    "pkg_version": "3.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sshmenu_3.18-2_all.deb", 
+    "pkg": "sshmenu", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sshmenu_3.18-2_all.deb", 
+    "pkg": "sshmenu", 
+    "pkg_version": "3.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "sshmenu-3.18-14.fc21.noarch.rpm", 
+    "pkg": "sshmenu", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "sshmenu-3.18-14.fc21.noarch.rpm", 
+    "pkg": "sshmenu", 
+    "pkg_version": "3.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "sshmenu-3.18-14.fc21.noarch.rpm", 
+    "pkg": "sshmenu", 
+    "pkg_version": "3.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "sshmenu-3.18-13.fc20.noarch.rpm", 
+    "pkg": "sshmenu", 
+    "pkg_version": "3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

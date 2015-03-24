@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsimbody-dev_3.4.1+dfsg-1_i386.deb", 
+    "pkg": "libsimbody-dev", 
+    "pkg_version": "3.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

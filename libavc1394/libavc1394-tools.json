@@ -1,0 +1,83 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libavc1394-tools_0.5.4-2_i386.deb", 
+    "pkg": "libavc1394-tools", 
+    "pkg_version": "0.5.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libavc1394-tools_0.5.4-2_i386.deb", 
+    "pkg": "libavc1394-tools", 
+    "pkg_version": "0.5.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libavc1394-tools_0.5.4-2_i386.deb", 
+    "pkg": "libavc1394-tools", 
+    "pkg_version": "0.5.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libavc1394-tools-0.5.4-10-omv2015.0.x86_64.rpm", 
+    "pkg": "libavc1394-tools", 
+    "pkg_version": "0.5.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "libavc1394-tools-0.5.4-4-omv2014.0.x86_64.rpm", 
+    "pkg": "libavc1394-tools", 
+    "pkg_version": "0.5.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libavc1394-tools-0.5.4-3-omv2013.0.x86_64.rpm", 
+    "pkg": "libavc1394-tools", 
+    "pkg_version": "0.5.4", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libavc1394-tools-0.5.4-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "libavc1394-tools", 
+    "pkg_version": "0.5.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libavc1394-tools-0.5.4-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "libavc1394-tools", 
+    "pkg_version": "0.5.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libavc1394-tools_0.5.4-2_i386.deb", 
+    "pkg": "libavc1394-tools", 
+    "pkg_version": "0.5.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-hoogle-doc_4.2.33-4_all.deb", 
+    "pkg": "libghc-hoogle-doc", 
+    "pkg_version": "4.2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-hoogle-doc_4.2.33-4_all.deb", 
+    "pkg": "libghc-hoogle-doc", 
+    "pkg_version": "4.2.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-hoogle-doc_4.2.33-1build1_all.deb", 
+    "pkg": "libghc-hoogle-doc", 
+    "pkg_version": "4.2.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

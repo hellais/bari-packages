@@ -1,0 +1,90 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "launchy-2.5-alt1_11.x86_64.rpm", 
+    "pkg": "launchy", 
+    "pkg_version": "2.5", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "launchy-2.5-4-x86_64.pkg.tar.xz", 
+    "pkg": "launchy", 
+    "pkg_version": "2.5", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "launchy_2.5-3_i386.deb", 
+    "pkg": "launchy", 
+    "pkg_version": "2.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "launchy_2.5-3_i386.deb", 
+    "pkg": "launchy", 
+    "pkg_version": "2.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "launchy_2.5-1_i386.deb", 
+    "pkg": "launchy", 
+    "pkg_version": "2.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "launchy-2.5-12.fc22.x86_64.rpm", 
+    "pkg": "launchy", 
+    "pkg_version": "2.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "launchy-2.5-12.fc22.x86_64.rpm", 
+    "pkg": "launchy", 
+    "pkg_version": "2.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "launchy-2.5-11.fc21.x86_64.rpm", 
+    "pkg": "launchy", 
+    "pkg_version": "2.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "launchy-2.5-8.fc20.x86_64.rpm", 
+    "pkg": "launchy", 
+    "pkg_version": "2.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "launchy_2.5-3_i386.deb", 
+    "pkg": "launchy", 
+    "pkg_version": "2.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

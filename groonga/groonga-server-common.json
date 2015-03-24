@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "groonga-server-common_4.0.6.1-2_i386.deb", 
+    "pkg": "groonga-server-common", 
+    "pkg_version": "4.0.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "groonga-server-common-5.0.0-1.fc23.x86_64.rpm", 
+    "pkg": "groonga-server-common", 
+    "pkg_version": "5.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "groonga-server-common-4.1.0-1.fc22.x86_64.rpm", 
+    "pkg": "groonga-server-common", 
+    "pkg_version": "4.1.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "groonga-server-common-5.0.0-1.fc21.x86_64.rpm", 
+    "pkg": "groonga-server-common", 
+    "pkg_version": "5.0.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

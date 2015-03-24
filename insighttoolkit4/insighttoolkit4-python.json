@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "insighttoolkit4-python_4.7.0-1~nd+1_i386.deb", 
+    "pkg": "insighttoolkit4-python", 
+    "pkg_version": "4.7.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "insighttoolkit4-python_4.7.0-1~nd80+1_i386.deb", 
+    "pkg": "insighttoolkit4-python", 
+    "pkg_version": "4.7.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

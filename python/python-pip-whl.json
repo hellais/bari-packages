@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-pip-whl_1.5.6-5_all.deb", 
+    "pkg": "python-pip-whl", 
+    "pkg_version": "1.5.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-pip-whl_1.5.6-5_all.deb", 
+    "pkg": "python-pip-whl", 
+    "pkg_version": "1.5.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

@@ -1,0 +1,350 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "ladspa-caps-plugins-0.9.10-alt1_3.x86_64.rpm", 
+    "pkg": "ladspa-caps-plugins", 
+    "pkg_version": "0.9.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "ladspa-caps-plugins-0.9.10-alt1_3.x86_64.rpm", 
+    "pkg": "ladspa-caps-plugins", 
+    "pkg_version": "0.9.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "caps-0.9.24-1-x86_64.pkg.tar.xz", 
+    "pkg": "caps", 
+    "pkg_version": "0.9.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "LinuxTECH", 
+    "pkg_full_name": "ladspa-caps-plugins-0.4.5-1.el6.x86_64.rpm", 
+    "pkg": "ladspa-caps-plugins", 
+    "pkg_version": "0.4.5", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "caps-0.9.24-1-x86_64.pkg.tar.xz", 
+    "pkg": "caps", 
+    "pkg_version": "0.9.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "LinuxTECH", 
+    "pkg_full_name": "ladspa-caps-plugins-0.4.5-1.el6.x86_64.rpm", 
+    "pkg": "ladspa-caps-plugins", 
+    "pkg_version": "0.4.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "caps_0.9.24-1_i386.deb", 
+    "pkg": "caps", 
+    "pkg_version": "0.9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "LinuxTECH", 
+    "pkg_full_name": "ladspa-caps-plugins-0.4.5-1.el6.x86_64.rpm", 
+    "pkg": "ladspa-caps-plugins", 
+    "pkg_version": "0.4.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "caps_0.9.23-1_i386.deb", 
+    "pkg": "caps", 
+    "pkg_version": "0.9.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "LinuxTECH", 
+    "pkg_full_name": "ladspa-caps-plugins-0.4.5-1.el6.x86_64.rpm", 
+    "pkg": "ladspa-caps-plugins", 
+    "pkg_version": "0.4.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "caps_0.4.2-1_i386.deb", 
+    "pkg": "caps", 
+    "pkg_version": "0.4.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ladspa-caps-plugins-0.9.10-3.fc22.x86_64.rpm", 
+    "pkg": "ladspa-caps-plugins", 
+    "pkg_version": "0.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "caps_0.4.2-1_i386.deb", 
+    "pkg": "caps", 
+    "pkg_version": "0.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ladspa-caps-plugins-0.9.10-3.fc22.x86_64.rpm", 
+    "pkg": "ladspa-caps-plugins", 
+    "pkg_version": "0.9.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "caps_0.4.2-1_i386.deb", 
+    "pkg": "caps", 
+    "pkg_version": "0.4.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ladspa-caps-plugins-0.9.10-3.fc21.x86_64.rpm", 
+    "pkg": "ladspa-caps-plugins", 
+    "pkg_version": "0.9.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "caps_0.4.2-1_i386.deb", 
+    "pkg": "caps", 
+    "pkg_version": "0.4.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ladspa-caps-plugins-0.9.10-1.fc20.x86_64.rpm", 
+    "pkg": "ladspa-caps-plugins", 
+    "pkg_version": "0.9.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "caps_0.4.2-1_i386.deb", 
+    "pkg": "caps", 
+    "pkg_version": "0.4.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ladspa-caps-plugins-0.9.10-1.fc20.x86_64.rpm", 
+    "pkg": "ladspa-caps-plugins", 
+    "pkg_version": "0.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "caps-0.9.7-4-omv2015.0.x86_64.rpm", 
+    "pkg": "caps", 
+    "pkg_version": "0.9.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ladspa-caps-plugins-0.9.10-1.fc20.x86_64.rpm", 
+    "pkg": "ladspa-caps-plugins", 
+    "pkg_version": "0.9.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib Updates", 
+    "pkg_full_name": "caps-0.9.7-2-omv2013.0.x86_64.rpm", 
+    "pkg": "caps", 
+    "pkg_version": "0.9.7", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ladspa-caps-plugins-0.9.10-1.fc20.x86_64.rpm", 
+    "pkg": "ladspa-caps-plugins", 
+    "pkg_version": "0.9.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib Updates", 
+    "pkg_full_name": "caps-0.9.7-2-omv2013.0.x86_64.rpm", 
+    "pkg": "caps", 
+    "pkg_version": "0.9.7", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ladspa-caps-plugins-0.9.10-1.fc20.x86_64.rpm", 
+    "pkg": "ladspa-caps-plugins", 
+    "pkg_version": "0.9.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "caps-0.9.7-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "caps", 
+    "pkg_version": "0.9.7", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ladspa-caps-plugins-0.9.10-1.fc20.x86_64.rpm", 
+    "pkg": "ladspa-caps-plugins", 
+    "pkg_version": "0.9.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "caps-0.9.7-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "caps", 
+    "pkg_version": "0.9.7", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ladspa-caps-plugins-0.9.10-1.fc20.x86_64.rpm", 
+    "pkg": "ladspa-caps-plugins", 
+    "pkg_version": "0.9.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Johannes Sch\u00f6pfer", 
+    "pkg_full_name": "caps-0.4.4-x86_64-1jsc.txz", 
+    "pkg": "caps", 
+    "pkg_version": "0.4.4", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ladspa-caps-plugins-0.9.10-1.fc20.x86_64.rpm", 
+    "pkg": "ladspa-caps-plugins", 
+    "pkg_version": "0.9.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Johannes Sch\u00f6pfer", 
+    "pkg_full_name": "caps-0.4.4-x86_64-1jsc.txz", 
+    "pkg": "caps", 
+    "pkg_version": "0.4.4", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ladspa-caps-plugins-0.9.10-1.fc20.x86_64.rpm", 
+    "pkg": "ladspa-caps-plugins", 
+    "pkg_version": "0.9.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Johannes Sch\u00f6pfer", 
+    "pkg_full_name": "caps-0.4.4-x86_64-1jsc.txz", 
+    "pkg": "caps", 
+    "pkg_version": "0.4.4", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ladspa-caps-plugins-0.9.10-1.fc20.x86_64.rpm", 
+    "pkg": "ladspa-caps-plugins", 
+    "pkg_version": "0.9.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "caps_0.9.23-1_i386.deb", 
+    "pkg": "caps", 
+    "pkg_version": "0.9.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ladspa-caps-plugins-0.9.10-1.fc20.x86_64.rpm", 
+    "pkg": "ladspa-caps-plugins", 
+    "pkg_version": "0.9.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "caps_0.9.18-1_i386.deb", 
+    "pkg": "caps", 
+    "pkg_version": "0.9.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

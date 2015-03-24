@@ -1,0 +1,118 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libsane-1.0.24-alt2.3.x86_64.rpm", 
+    "pkg": "libsane", 
+    "pkg_version": "1.0.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsane_1.0.24-9_i386.deb", 
+    "pkg": "libsane", 
+    "pkg_version": "1.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsane_1.0.24-8_i386.deb", 
+    "pkg": "libsane", 
+    "pkg_version": "1.0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsane_1.0.22-7.4_i386.deb", 
+    "pkg": "libsane", 
+    "pkg_version": "1.0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsane_1.0.22-7.4_i386.deb", 
+    "pkg": "libsane", 
+    "pkg_version": "1.0.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "lib64sane1-1.0.23-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "lib64sane1", 
+    "pkg_version": "1.0.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libsane1-1.0.23-2-rosa2012.1.i586.rpm", 
+    "pkg": "libsane1", 
+    "pkg_version": "1.0.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libsane_1.0.24-1.1ubuntu1_i386.deb", 
+    "pkg": "libsane", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "lib64sane1-1.0.22-4-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "lib64sane1", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libsane1-1.0.22-4-rosa.lts2012.0.i586.rpm", 
+    "pkg": "libsane1", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "libsane_1.0.23-3ubuntu3.1_i386.deb", 
+    "pkg": "libsane", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "lib64sane1-1.0.22-4-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "lib64sane1", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libsane1-1.0.22-4-rosa.lts2012.0.i586.rpm", 
+    "pkg": "libsane1", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libykneomgr0_0.1.6-2_i386.deb", 
+    "pkg": "libykneomgr0", 
+    "pkg_version": "0.1.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libykneomgr0_0.1.6-2_i386.deb", 
+    "pkg": "libykneomgr0", 
+    "pkg_version": "0.1.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "libykneomgr0-0.1.6-1.3.x86_64.rpm", 
+    "pkg": "libykneomgr0", 
+    "pkg_version": "0.1.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "libykneomgr0-0.1.6-1.1.x86_64.rpm", 
+    "pkg": "libykneomgr0", 
+    "pkg_version": "0.1.6", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "libykneomgr0-0.1.6-1.1.x86_64.rpm", 
+    "pkg": "libykneomgr0", 
+    "pkg_version": "0.1.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }
+]

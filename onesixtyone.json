@@ -1,0 +1,109 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "onesixtyone-0.3.2-alt1_12.x86_64.rpm", 
+    "pkg": "onesixtyone", 
+    "pkg_version": "0.3.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "onesixtyone-0.3.2-12.el7.x86_64.rpm", 
+    "pkg": "onesixtyone", 
+    "pkg_version": "0.3.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "onesixtyone-0.3.2-3.el5.x86_64.rpm", 
+    "pkg": "onesixtyone", 
+    "pkg_version": "0.3.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "onesixtyone_0.3.2-1_i386.deb", 
+    "pkg": "onesixtyone", 
+    "pkg_version": "0.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "onesixtyone_0.3.2-1_i386.deb", 
+    "pkg": "onesixtyone", 
+    "pkg_version": "0.3.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "onesixtyone_0.3.2-1_i386.deb", 
+    "pkg": "onesixtyone", 
+    "pkg_version": "0.3.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "onesixtyone-0.3.2-12.fc22.x86_64.rpm", 
+    "pkg": "onesixtyone", 
+    "pkg_version": "0.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "onesixtyone-0.3.2-12.fc22.x86_64.rpm", 
+    "pkg": "onesixtyone", 
+    "pkg_version": "0.3.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "onesixtyone-0.3.2-12.fc21.x86_64.rpm", 
+    "pkg": "onesixtyone", 
+    "pkg_version": "0.3.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "onesixtyone-0.3.2-10.fc20.x86_64.rpm", 
+    "pkg": "onesixtyone", 
+    "pkg_version": "0.3.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "onesixtyone_0.3.2-1_i386.deb", 
+    "pkg": "onesixtyone", 
+    "pkg_version": "0.3.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "onesixtyone_0.3.2-1_i386.deb", 
+    "pkg": "onesixtyone", 
+    "pkg_version": "0.3.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

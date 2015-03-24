@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nagios-plugins-contrib_14.20141104_i386.deb", 
+    "pkg": "nagios-plugins-contrib_1", 
+    "pkg_version": "4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nagios-plugins-contrib_14.20141104_i386.deb", 
+    "pkg": "nagios-plugins-contrib_1", 
+    "pkg_version": "4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nagios-plugins-contrib_4.20120702_i386.deb", 
+    "pkg": "nagios-plugins-contrib", 
+    "pkg_version": "4.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "nagios-plugins-contrib_14.20141104~bpo70+1_i386.deb", 
+    "pkg": "nagios-plugins-contrib_1", 
+    "pkg_version": "4.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nagios-plugins-contrib_4.20120702_i386.deb", 
+    "pkg": "nagios-plugins-contrib", 
+    "pkg_version": "4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "nagios-plugins-contrib_11.20140704_i386.deb", 
+    "pkg": "nagios-plugins-contrib_1", 
+    "pkg_version": "1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

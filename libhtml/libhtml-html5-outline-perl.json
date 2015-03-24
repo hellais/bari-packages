@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libhtml-html5-outline-perl_0.006-2_all.deb", 
+    "pkg": "libhtml-html5-outline-perl", 
+    "pkg_version": "0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libhtml-html5-outline-perl_0.006-2_all.deb", 
+    "pkg": "libhtml-html5-outline-perl", 
+    "pkg_version": "0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libhtml-html5-outline-perl_0.006-1_all.deb", 
+    "pkg": "libhtml-html5-outline-perl", 
+    "pkg_version": "0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libhtml-html5-outline-perl_0.006-2_all.deb", 
+    "pkg": "libhtml-html5-outline-perl", 
+    "pkg_version": "0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libhtml-html5-outline-perl_0.006-1_all.deb", 
+    "pkg": "libhtml-html5-outline-perl", 
+    "pkg_version": "0.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

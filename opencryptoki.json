@@ -1,0 +1,101 @@
+[
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "opencryptoki-3.0-11.el7_0.1.x86_64.rpm", 
+    "pkg": "opencryptoki", 
+    "pkg_version": "3.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "opencryptoki-2.4.3.1-2.el6.x86_64.rpm", 
+    "pkg": "opencryptoki", 
+    "pkg_version": "2.4.3.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "opencryptoki_2.3.1+dfsg-3_i386.deb", 
+    "pkg": "opencryptoki", 
+    "pkg_version": "2.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "opencryptoki_2.3.1+dfsg-3_i386.deb", 
+    "pkg": "opencryptoki", 
+    "pkg_version": "2.3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "opencryptoki_2.3.1+dfsg-3_i386.deb", 
+    "pkg": "opencryptoki", 
+    "pkg_version": "2.3.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "opencryptoki-3.2-1.fc22.x86_64.rpm", 
+    "pkg": "opencryptoki", 
+    "pkg_version": "3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "opencryptoki-3.2-1.fc22.x86_64.rpm", 
+    "pkg": "opencryptoki", 
+    "pkg_version": "3.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "opencryptoki-3.2-1.fc21.x86_64.rpm", 
+    "pkg": "opencryptoki", 
+    "pkg_version": "3.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "opencryptoki-3.0-9.fc20.x86_64.rpm", 
+    "pkg": "opencryptoki", 
+    "pkg_version": "3.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "opencryptoki_2.3.1+dfsg-3ubuntu5_i386.deb", 
+    "pkg": "opencryptoki", 
+    "pkg_version": "2.3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "opencryptoki_2.3.1+dfsg-3ubuntu5_i386.deb", 
+    "pkg": "opencryptoki", 
+    "pkg_version": "2.3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

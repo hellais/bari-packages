@@ -1,0 +1,216 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "pkg-config-0.25-alt2.x86_64.rpm", 
+    "pkg": "pkg-config", 
+    "pkg_version": "0.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Core", 
+    "pkg_full_name": "pkg-config-0.28-2-x86_64.pkg.tar.xz", 
+    "pkg": "pkg-config", 
+    "pkg_version": "0.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pkgconf_0.9.7-1_i386.deb", 
+    "pkg": "pkgconf", 
+    "pkg_version": "0.9.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pkg-config_0.28-1_i386.deb", 
+    "pkg": "pkg-config", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pkgconf_0.9.7-1_i386.deb", 
+    "pkg": "pkgconf", 
+    "pkg_version": "0.9.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pkg-config_0.28-1_i386.deb", 
+    "pkg": "pkg-config", 
+    "pkg_version": "0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pkgconf_0.9.7-1_i386.deb", 
+    "pkg": "pkgconf", 
+    "pkg_version": "0.9.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pkg-config_0.26-1_i386.deb", 
+    "pkg": "pkg-config", 
+    "pkg_version": "0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pkgconf_0.9.7-1_i386.deb", 
+    "pkg": "pkgconf", 
+    "pkg_version": "0.9.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pkg-config-0.28-8.2.x86_64.rpm", 
+    "pkg": "pkg-config", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pkgconf_0.9.7-1_i386.deb", 
+    "pkg": "pkgconf", 
+    "pkg_version": "0.9.7", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pkg-config-0.28-7.1.2.x86_64.rpm", 
+    "pkg": "pkg-config", 
+    "pkg_version": "0.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pkgconf_0.9.7-1_i386.deb", 
+    "pkg": "pkgconf", 
+    "pkg_version": "0.9.7", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pkg-config-0.28-4.1.2.i586.rpm", 
+    "pkg": "pkg-config", 
+    "pkg_version": "0.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pkgconf_0.9.7-1_i386.deb", 
+    "pkg": "pkgconf", 
+    "pkg_version": "0.9.7", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "pkg-config-0.25-x86_64-1.txz", 
+    "pkg": "pkg-config", 
+    "pkg_version": "0.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pkgconf_0.9.7-1_i386.deb", 
+    "pkg": "pkgconf", 
+    "pkg_version": "0.9.7", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "pkg-config-0.25-x86_64-1.txz", 
+    "pkg": "pkg-config", 
+    "pkg_version": "0.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pkgconf_0.9.7-1_i386.deb", 
+    "pkg": "pkgconf", 
+    "pkg_version": "0.9.7", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "pkg-config-0.25-x86_64-1.txz", 
+    "pkg": "pkg-config", 
+    "pkg_version": "0.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "pkgconf_0.9.5-4_i386.deb", 
+    "pkg": "pkgconf", 
+    "pkg_version": "0.9.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "pkg-config_0.28-1ubuntu1_i386.deb", 
+    "pkg": "pkg-config", 
+    "pkg_version": "0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "pkgconf_0.9.5-4_i386.deb", 
+    "pkg": "pkgconf", 
+    "pkg_version": "0.9.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "pkg-config_0.26-1ubuntu4_i386.deb", 
+    "pkg": "pkg-config", 
+    "pkg_version": "0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

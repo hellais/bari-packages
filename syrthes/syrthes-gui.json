@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "syrthes-gui_4.1.1-dfsg1-5_all.deb", 
+    "pkg": "syrthes-gui", 
+    "pkg_version": "4.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libvlc-dev_2.2.0-dmo1_i386.deb", 
+    "pkg": "libvlc-dev", 
+    "pkg_version": "2.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libvlc-dev_2.2.0-dmo1_i386.deb", 
+    "pkg": "libvlc-dev", 
+    "pkg_version": "2.2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libvlc-dev_2.0.6-dmo3_i386.deb", 
+    "pkg": "libvlc-dev", 
+    "pkg_version": "2.0.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libvlc-dev_2.2.0~pre2-4build1_i386.deb", 
+    "pkg": "libvlc-dev", 
+    "pkg_version": "2.2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "libvlc-dev_2.1.4-0ubuntu14.04.1_i386.deb", 
+    "pkg": "libvlc-dev", 
+    "pkg_version": "2.1.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

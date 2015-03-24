@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "petitboot_13.05.29.14.00-g4dc604b-1+b3_i386.deb", 
+    "pkg": "petitboot_1", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "petitboot_13.05.29.14.00-g4dc604b-1+b3_i386.deb", 
+    "pkg": "petitboot_1", 
+    "pkg_version": "3.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "petitboot_12.03.29.20.47-g45e2534-2_i386.deb", 
+    "pkg": "petitboot_1", 
+    "pkg_version": "2.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "petitboot_13.05.29.14.00-g4dc604b-1_i386.deb", 
+    "pkg": "petitboot_1", 
+    "pkg_version": "3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libvlccore8_2.2.0-dmo1_i386.deb", 
+    "pkg": "libvlccore8", 
+    "pkg_version": "2.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libvlccore8_2.2.0-dmo1_i386.deb", 
+    "pkg": "libvlccore8", 
+    "pkg_version": "2.2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libvlccore8-2.2.0-2.1.x86_64.rpm", 
+    "pkg": "libvlccore8", 
+    "pkg_version": "2.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Multimedia Libs", 
+    "pkg_full_name": "libvlccore8-2.2.0-138.3.x86_64.rpm", 
+    "pkg": "libvlccore8", 
+    "pkg_version": "2.2.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Multimedia Libs", 
+    "pkg_full_name": "libvlccore8-2.2.0-138.3.x86_64.rpm", 
+    "pkg": "libvlccore8", 
+    "pkg_version": "2.2.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }
+]

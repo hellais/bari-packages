@@ -1,0 +1,91 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "emacs24-el-24.4-alt11.noarch.rpm", 
+    "pkg": "emacs24-el-2", 
+    "pkg_version": "4.4", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "emacs24-el-24.3-11.sdl6.noarch.rpm", 
+    "pkg": "emacs24-el-2", 
+    "pkg_version": "4.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "emacs24-el-24.3-11.sdl6.noarch.rpm", 
+    "pkg": "emacs24-el-2", 
+    "pkg_version": "4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "emacs24-el_24.4+1-5_all.deb", 
+    "pkg": "emacs24-el_2", 
+    "pkg_version": "4.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "emacs24-el-24.3-11.sdl6.noarch.rpm", 
+    "pkg": "emacs24-el-2", 
+    "pkg_version": "4.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "emacs24-el_24.4+1-5_all.deb", 
+    "pkg": "emacs24-el_2", 
+    "pkg_version": "4.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "emacs24-el-24.3-11.sdl6.noarch.rpm", 
+    "pkg": "emacs24-el-2", 
+    "pkg_version": "4.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "emacs24-el_24.4+1-4.1~bpo70+1_all.deb", 
+    "pkg": "emacs24-el_2", 
+    "pkg_version": "4.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "emacs24-el-24.3-11.sdl6.noarch.rpm", 
+    "pkg": "emacs24-el-2", 
+    "pkg_version": "4.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "emacs24-el_24.3+1-4ubuntu1_all.deb", 
+    "pkg": "emacs24-el_2", 
+    "pkg_version": "4.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

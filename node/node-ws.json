@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "node-ws_0.4.32-1_i386.deb", 
+    "pkg": "node-ws", 
+    "pkg_version": "0.4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "node-ws_0.4.32-1_i386.deb", 
+    "pkg": "node-ws", 
+    "pkg_version": "0.4.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

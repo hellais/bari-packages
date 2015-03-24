@@ -1,0 +1,342 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "aiccu-2007.01.15-alt2.qa1.x86_64.rpm", 
+    "pkg": "aiccu-200", 
+    "pkg_version": "7.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "aiccu-2007.01.15-alt2.qa1.x86_64.rpm", 
+    "pkg": "aiccu-200", 
+    "pkg_version": "7.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "aiccu-2007.01.15-7.el6.x86_64.rpm", 
+    "pkg": "aiccu-200", 
+    "pkg_version": "7.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "KBS Extras Testing", 
+    "pkg_full_name": "aiccu-2007.01.15-4.el5.kb.x86_64.rpm", 
+    "pkg": "aiccu-200", 
+    "pkg_version": "7.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "aiccu_20070115-15.2_i386.deb", 
+    "pkg": "aiccu_20070115-1", 
+    "pkg_version": "5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "KBS Extras Testing", 
+    "pkg_full_name": "aiccu-2007.01.15-4.el5.kb.x86_64.rpm", 
+    "pkg": "aiccu-200", 
+    "pkg_version": "7.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "aiccu_20070115-15.2_i386.deb", 
+    "pkg": "aiccu_20070115-1", 
+    "pkg_version": "5.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "KBS Extras Testing", 
+    "pkg_full_name": "aiccu-2007.01.15-4.el5.kb.x86_64.rpm", 
+    "pkg": "aiccu-200", 
+    "pkg_version": "7.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "aiccu_20070115-15.1_i386.deb", 
+    "pkg": "aiccu_20070115-1", 
+    "pkg_version": "5.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "KBS Extras Testing", 
+    "pkg_full_name": "aiccu-2007.01.15-4.el5.kb.x86_64.rpm", 
+    "pkg": "aiccu-200", 
+    "pkg_version": "7.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "aiccu_20070115-15.1_i386.deb", 
+    "pkg": "aiccu_20070115-1", 
+    "pkg_version": "5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "aiccu-2007.01.15-22.fc22.x86_64.rpm", 
+    "pkg": "aiccu-200", 
+    "pkg_version": "7.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "aiccu_20070115-15.1_i386.deb", 
+    "pkg": "aiccu_20070115-1", 
+    "pkg_version": "5.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "aiccu-2007.01.15-22.fc22.x86_64.rpm", 
+    "pkg": "aiccu-200", 
+    "pkg_version": "7.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "aiccu_20070115-15.1_i386.deb", 
+    "pkg": "aiccu_20070115-1", 
+    "pkg_version": "5.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "aiccu-2007.01.15-21.fc21.x86_64.rpm", 
+    "pkg": "aiccu-200", 
+    "pkg_version": "7.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "aiccu_20070115-15.1_i386.deb", 
+    "pkg": "aiccu_20070115-1", 
+    "pkg_version": "5.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "aiccu-2007.01.15-17.fc20.x86_64.rpm", 
+    "pkg": "aiccu-200", 
+    "pkg_version": "7.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "aiccu_20070115-15.1_i386.deb", 
+    "pkg": "aiccu_20070115-1", 
+    "pkg_version": "5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "aiccu-2007.01.15-17.fc20.x86_64.rpm", 
+    "pkg": "aiccu-200", 
+    "pkg_version": "7.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "aiccu-20070115-3.1.x86_64.rpm", 
+    "pkg": "aiccu-20070115", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Network Utilities", 
+    "pkg_full_name": "aiccu-20070115-103.1.x86_64.rpm", 
+    "pkg": "aiccu-20070115-10", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "aiccu_20070115-15.1_i386.deb", 
+    "pkg": "aiccu_20070115-1", 
+    "pkg_version": "5.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "aiccu-2007.01.15-17.fc20.x86_64.rpm", 
+    "pkg": "aiccu-200", 
+    "pkg_version": "7.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "aiccu-20070115-3.1.x86_64.rpm", 
+    "pkg": "aiccu-20070115", 
+    "pkg_version": "3.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Network Utilities", 
+    "pkg_full_name": "aiccu-20070115-103.1.x86_64.rpm", 
+    "pkg": "aiccu-20070115-10", 
+    "pkg_version": "3.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "aiccu_20070115-15.1_i386.deb", 
+    "pkg": "aiccu_20070115-1", 
+    "pkg_version": "5.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "aiccu-2007.01.15-17.fc20.x86_64.rpm", 
+    "pkg": "aiccu-200", 
+    "pkg_version": "7.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "aiccu-20070115-3.1.x86_64.rpm", 
+    "pkg": "aiccu-20070115", 
+    "pkg_version": "3.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Network Utilities", 
+    "pkg_full_name": "aiccu-20070115-103.1.x86_64.rpm", 
+    "pkg": "aiccu-20070115-10", 
+    "pkg_version": "3.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "aiccu_20070115-15.1ubuntu3_i386.deb", 
+    "pkg": "aiccu_20070115-1", 
+    "pkg_version": "5.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "aiccu-2007.01.15-17.fc20.x86_64.rpm", 
+    "pkg": "aiccu-200", 
+    "pkg_version": "7.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "aiccu-20070115-3.1.x86_64.rpm", 
+    "pkg": "aiccu-20070115", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Network Utilities", 
+    "pkg_full_name": "aiccu-20070115-103.1.x86_64.rpm", 
+    "pkg": "aiccu-20070115-10", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "aiccu_20070115-15.1ubuntu1_i386.deb", 
+    "pkg": "aiccu_20070115-1", 
+    "pkg_version": "5.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "aiccu-2007.01.15-17.fc20.x86_64.rpm", 
+    "pkg": "aiccu-200", 
+    "pkg_version": "7.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "aiccu-20070115-3.1.x86_64.rpm", 
+    "pkg": "aiccu-20070115", 
+    "pkg_version": "3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Network Utilities", 
+    "pkg_full_name": "aiccu-20070115-103.1.x86_64.rpm", 
+    "pkg": "aiccu-20070115-10", 
+    "pkg_version": "3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

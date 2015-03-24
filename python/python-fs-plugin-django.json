@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-fs-plugin-django_0.4.0-2_all.deb", 
+    "pkg": "python-fs-plugin-django", 
+    "pkg_version": "0.4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-fs-plugin-django_0.4.0-2_all.deb", 
+    "pkg": "python-fs-plugin-django", 
+    "pkg_version": "0.4.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

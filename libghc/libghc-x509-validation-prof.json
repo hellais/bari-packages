@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-x509-validation-prof_1.5.0-2+b6_i386.deb", 
+    "pkg": "libghc-x509-validation-prof", 
+    "pkg_version": "1.5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-x509-validation-prof_1.5.0-2+b6_i386.deb", 
+    "pkg": "libghc-x509-validation-prof", 
+    "pkg_version": "1.5.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-x509-validation-prof_1.5.0-2build3_i386.deb", 
+    "pkg": "libghc-x509-validation-prof", 
+    "pkg_version": "1.5.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

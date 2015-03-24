@@ -1,0 +1,127 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "python-pyside-1.2.2-4-x86_64.pkg.tar.xz", 
+    "pkg": "python-pyside", 
+    "pkg_version": "1.2.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "python-pyside-1.0.8-2.sdl6.x86_64.rpm", 
+    "pkg": "python-pyside", 
+    "pkg_version": "1.0.8", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-pyside_1.2.2-1_all.deb", 
+    "pkg": "python-pyside", 
+    "pkg_version": "1.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-pyside_1.2.2-1_all.deb", 
+    "pkg": "python-pyside", 
+    "pkg_version": "1.2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-pyside_1.1.1-3_all.deb", 
+    "pkg": "python-pyside", 
+    "pkg_version": "1.1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-pyside-1.2.2-2.fc22.x86_64.rpm", 
+    "pkg": "python-pyside", 
+    "pkg_version": "1.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-pyside-1.2.2-2.fc22.x86_64.rpm", 
+    "pkg": "python-pyside", 
+    "pkg_version": "1.2.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-pyside-1.2.2-2.fc21.x86_64.rpm", 
+    "pkg": "python-pyside", 
+    "pkg_version": "1.2.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-pyside-1.1.0-4.fc20.x86_64.rpm", 
+    "pkg": "python-pyside", 
+    "pkg_version": "1.1.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-pyside-1.2.2-3.2.x86_64.rpm", 
+    "pkg": "python-pyside", 
+    "pkg_version": "1.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-pyside-1.2.2-2.1.5.x86_64.rpm", 
+    "pkg": "python-pyside", 
+    "pkg_version": "1.2.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "python-pyside-1.2.2-8.1.x86_64.rpm", 
+    "pkg": "python-pyside", 
+    "pkg_version": "1.2.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-pyside_1.2.2-1_all.deb", 
+    "pkg": "python-pyside", 
+    "pkg_version": "1.2.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-pyside_1.2.1-4build1_all.deb", 
+    "pkg": "python-pyside", 
+    "pkg_version": "1.2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

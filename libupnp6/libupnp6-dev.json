@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libupnp6-dev_1.6.19+git20141001-1_i386.deb", 
+    "pkg": "libupnp6-dev", 
+    "pkg_version": "1.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libupnp6-dev_1.6.19+git20141001-1_i386.deb", 
+    "pkg": "libupnp6-dev", 
+    "pkg_version": "1.6.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libupnp6-dev_1.6.17-1.2_i386.deb", 
+    "pkg": "libupnp6-dev", 
+    "pkg_version": "1.6.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libupnp6-dev_1.6.17-1.2_i386.deb", 
+    "pkg": "libupnp6-dev", 
+    "pkg_version": "1.6.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

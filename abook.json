@@ -1,0 +1,216 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "abook-0.5.6-alt3.qa1.x86_64.rpm", 
+    "pkg": "abook", 
+    "pkg_version": "0.5.6", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "abook-0.6.0pre2.20131110-1-x86_64.pkg.tar.xz", 
+    "pkg": "abook", 
+    "pkg_version": "0.6.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "abook-0.5.6-1.el6.rf.x86_64.rpm", 
+    "pkg": "abook", 
+    "pkg_version": "0.5.6", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "abook-0.5.6-1.el5.rf.x86_64.rpm", 
+    "pkg": "abook", 
+    "pkg_version": "0.5.6", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "abook_0.6.0~pre2-3_i386.deb", 
+    "pkg": "abook", 
+    "pkg_version": "0.6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "abook_0.6.0~pre2-3_i386.deb", 
+    "pkg": "abook", 
+    "pkg_version": "0.6.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "abook_0.6.0~pre2-3_i386.deb", 
+    "pkg": "abook", 
+    "pkg_version": "0.6.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "abook-0.6.0-0.16.20141128git6e550af.fc23.x86_64.rpm", 
+    "pkg": "abook", 
+    "pkg_version": "0.6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "abook-0.6.0-0.16.20141128git6e550af.fc22.x86_64.rpm", 
+    "pkg": "abook", 
+    "pkg_version": "0.6.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "abook-0.6.0-0.15.20140116git5840fce.fc21.x86_64.rpm", 
+    "pkg": "abook", 
+    "pkg_version": "0.6.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "abook-0.6.0-0.11.pre2.fc20.x86_64.rpm", 
+    "pkg": "abook", 
+    "pkg_version": "0.6.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "abook-0.6.0-0.pre2.5-omv2013.0.x86_64.rpm", 
+    "pkg": "abook", 
+    "pkg_version": "0.6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "abook-0.6.0-0.pre2.5-omv2013.0.x86_64.rpm", 
+    "pkg": "abook", 
+    "pkg_version": "0.6.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "abook-0.6.0-0.pre2.5-omv2013.0.x86_64.rpm", 
+    "pkg": "abook", 
+    "pkg_version": "0.6.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "abook-0.6.0pre2-17.2.x86_64.rpm", 
+    "pkg": "abook", 
+    "pkg_version": "0.6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "abook-0.6.0pre2-16.1.2.x86_64.rpm", 
+    "pkg": "abook", 
+    "pkg_version": "0.6.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "abook-0.6.0pre2-14.1.2.i586.rpm", 
+    "pkg": "abook", 
+    "pkg_version": "0.6.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "abook-0.6.0-0.pre2.5-rosa2014.1.x86_64.rpm", 
+    "pkg": "abook", 
+    "pkg_version": "0.6.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "abook-0.6.0-0.pre2.5-rosa2012.1.x86_64.rpm", 
+    "pkg": "abook", 
+    "pkg_version": "0.6.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Freestylers", 
+    "pkg_full_name": "abook-0.5.6-x86_64-1_fs.tgz", 
+    "pkg": "abook", 
+    "pkg_version": "0.5.6", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "abook-0.6.0pre2-x86_64-1sl.txz", 
+    "pkg": "abook", 
+    "pkg_version": "0.6.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "abook-0.6.0pre2-x86_64-3sl.txz", 
+    "pkg": "abook", 
+    "pkg_version": "0.6.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "abook_0.6.0~pre2-3_i386.deb", 
+    "pkg": "abook", 
+    "pkg_version": "0.6.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "abook_0.6.0~pre2-3_i386.deb", 
+    "pkg": "abook", 
+    "pkg_version": "0.6.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

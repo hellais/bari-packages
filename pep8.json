@@ -1,0 +1,55 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "pep8-1.6.2-1-any.pkg.tar.xz", 
+    "pkg": "pep8", 
+    "pkg_version": "1.6.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pep8_1.5.7-2_all.deb", 
+    "pkg": "pep8", 
+    "pkg_version": "1.5.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pep8_1.5.7-2_all.deb", 
+    "pkg": "pep8", 
+    "pkg_version": "1.5.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pep8_1.2-1_all.deb", 
+    "pkg": "pep8", 
+    "pkg_version": "1.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "pep8_1.5.6-0ubuntu1_all.deb", 
+    "pkg": "pep8", 
+    "pkg_version": "1.5.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "pep8_1.4.6-1.1build1_all.deb", 
+    "pkg": "pep8", 
+    "pkg_version": "1.4.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

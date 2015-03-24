@@ -1,0 +1,118 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "globus-gfork-progs-3.2-alt1_7.x86_64.rpm", 
+    "pkg": "globus-gfork-progs", 
+    "pkg_version": "3.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "globus-gfork-progs-4.7-2.el7.x86_64.rpm", 
+    "pkg": "globus-gfork-progs", 
+    "pkg_version": "4.7", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "globus-gfork-progs-4.7-2.el6.x86_64.rpm", 
+    "pkg": "globus-gfork-progs", 
+    "pkg_version": "4.7", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "globus-gfork-progs-4.7-2.el5.x86_64.rpm", 
+    "pkg": "globus-gfork-progs", 
+    "pkg_version": "4.7", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "globus-gfork-progs_4.7-1_i386.deb", 
+    "pkg": "globus-gfork-progs", 
+    "pkg_version": "4.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "globus-gfork-progs_4.6-1_i386.deb", 
+    "pkg": "globus-gfork-progs", 
+    "pkg_version": "4.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "globus-gfork-progs_3.2-1_i386.deb", 
+    "pkg": "globus-gfork-progs", 
+    "pkg_version": "3.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "globus-gfork-progs-4.7-2.fc22.x86_64.rpm", 
+    "pkg": "globus-gfork-progs", 
+    "pkg_version": "4.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "globus-gfork-progs-4.7-2.fc22.x86_64.rpm", 
+    "pkg": "globus-gfork-progs", 
+    "pkg_version": "4.7", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "globus-gfork-progs-4.7-2.fc21.x86_64.rpm", 
+    "pkg": "globus-gfork-progs", 
+    "pkg_version": "4.7", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "globus-gfork-progs-4.7-2.fc20.x86_64.rpm", 
+    "pkg": "globus-gfork-progs", 
+    "pkg_version": "4.7", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "globus-gfork-progs_3.2-3_i386.deb", 
+    "pkg": "globus-gfork-progs", 
+    "pkg_version": "3.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "globus-gfork-progs_3.2-3_i386.deb", 
+    "pkg": "globus-gfork-progs", 
+    "pkg_version": "3.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libapache2-mod-auth-gssapi_1.0.3-2_i386.deb", 
+    "pkg": "libapache2-mod-auth-gssapi", 
+    "pkg_version": "1.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

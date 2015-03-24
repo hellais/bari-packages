@@ -1,0 +1,983 @@
+[
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "fontforge-20090622-3.1.el6.x86_64.rpm", 
+    "pkg": "fontforge-20090622", 
+    "pkg_version": "3.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "fontforge-0.0.20061025-1.el5.rf.x86_64.rpm", 
+    "pkg": "fontforge", 
+    "pkg_version": "0.0.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "fontforge-20090622-2.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "fontforge-20090622", 
+    "pkg_version": "2.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "fontforge-20080828-1.1.el5.x86_64.rpm", 
+    "pkg": "fontforge-20080828", 
+    "pkg_version": "1.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "fontforge-0.0.20061025-1.el5.rf.x86_64.rpm", 
+    "pkg": "fontforge", 
+    "pkg_version": "0.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "fontforge-20090622-2.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "fontforge-20090622", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "fontforge-20080828-1.1.el5.x86_64.rpm", 
+    "pkg": "fontforge-20080828", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "fontforge-0.0.20061025-1.el5.rf.x86_64.rpm", 
+    "pkg": "fontforge", 
+    "pkg_version": "0.0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "fontforge-20090622-2.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "fontforge-20090622", 
+    "pkg_version": "2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "fontforge-20080828-1.1.el5.x86_64.rpm", 
+    "pkg": "fontforge-20080828", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fontforge_0.0.20120101+git-2_i386.deb", 
+    "pkg": "fontforge", 
+    "pkg_version": "0.0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "fontforge-20090622-2.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "fontforge-20090622", 
+    "pkg_version": "2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "fontforge-20080828-1.1.el5.x86_64.rpm", 
+    "pkg": "fontforge-20080828", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fontforge_0.0.20120101+git-2_i386.deb", 
+    "pkg": "fontforge", 
+    "pkg_version": "0.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "fontforge-20090622-2.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "fontforge-20090622", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "fontforge-20080828-1.1.el5.x86_64.rpm", 
+    "pkg": "fontforge-20080828", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fontforge_0.0.20120101+git-2_i386.deb", 
+    "pkg": "fontforge", 
+    "pkg_version": "0.0.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "fontforge-20090622-2.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "fontforge-20090622", 
+    "pkg_version": "2.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "fontforge-20080828-1.1.el5.x86_64.rpm", 
+    "pkg": "fontforge-20080828", 
+    "pkg_version": "1.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fontforge_0.0.20120101+git-2_i386.deb", 
+    "pkg": "fontforge", 
+    "pkg_version": "0.0.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "fontforge-20090622-2.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "fontforge-20090622", 
+    "pkg_version": "2.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "fontforge-20080828-1.1.el5.x86_64.rpm", 
+    "pkg": "fontforge-20080828", 
+    "pkg_version": "1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fontforge_0.0.20120101+git-2_i386.deb", 
+    "pkg": "fontforge", 
+    "pkg_version": "0.0.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Infinality", 
+    "pkg_full_name": "fontforge-infinality-20110222-1.fc15.2.x86_64.rpm", 
+    "pkg": "fontforge-infinality-20110222-1.fc1", 
+    "pkg_version": "5.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "fontforge-20090622-2.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "fontforge-20090622", 
+    "pkg_version": "2.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "fontforge-20080828-1.1.el5.x86_64.rpm", 
+    "pkg": "fontforge-20080828", 
+    "pkg_version": "1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "fontforge-1.0-0.20120731.7.mga4.x86_64.rpm", 
+    "pkg": "fontforge", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Infinality", 
+    "pkg_full_name": "fontforge-infinality-20110222-1.fc15.2.x86_64.rpm", 
+    "pkg": "fontforge-infinality-20110222-1.fc1", 
+    "pkg_version": "5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "fontforge-20141014-3-omv2015.0.x86_64.rpm", 
+    "pkg": "fontforge-20141014-3-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "fontforge-20090622-2.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "fontforge-20090622", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "fontforge-20080828-1.1.el5.x86_64.rpm", 
+    "pkg": "fontforge-20080828", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "fontforge-1.0-0.20120731b.6-omv2014.0.x86_64.rpm", 
+    "pkg": "fontforge", 
+    "pkg_version": "1.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Infinality", 
+    "pkg_full_name": "fontforge-infinality-20110222-1.fc15.2.x86_64.rpm", 
+    "pkg": "fontforge-infinality-20110222-1.fc1", 
+    "pkg_version": "5.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "fontforge-20141014-3-omv2015.0.x86_64.rpm", 
+    "pkg": "fontforge-20141014-3-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "fontforge-20090622-2.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "fontforge-20090622", 
+    "pkg_version": "2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "fontforge-20080828-1.1.el5.x86_64.rpm", 
+    "pkg": "fontforge-20080828", 
+    "pkg_version": "1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "fontforge-1.0-0.20120731b.5-omv2013.0.x86_64.rpm", 
+    "pkg": "fontforge", 
+    "pkg_version": "1.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Infinality", 
+    "pkg_full_name": "fontforge-infinality-20110222-1.fc15.2.x86_64.rpm", 
+    "pkg": "fontforge-infinality-20110222-1.fc1", 
+    "pkg_version": "5.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "fontforge-20141014-3-omv2015.0.x86_64.rpm", 
+    "pkg": "fontforge-20141014-3-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "fontforge-20090622-2.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "fontforge-20090622", 
+    "pkg_version": "2.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "fontforge-20080828-1.1.el5.x86_64.rpm", 
+    "pkg": "fontforge-20080828", 
+    "pkg_version": "1.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "fontforge-20120731-15.1.x86_64.rpm", 
+    "pkg": "fontforge-20120731-1", 
+    "pkg_version": "5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Infinality", 
+    "pkg_full_name": "fontforge-infinality-20110222-1.fc15.2.x86_64.rpm", 
+    "pkg": "fontforge-infinality-20110222-1.fc1", 
+    "pkg_version": "5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "fontforge-20141014-3-omv2015.0.x86_64.rpm", 
+    "pkg": "fontforge-20141014-3-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "fontforge-1.0-0.20120731b.5-omv2013.0.x86_64.rpm", 
+    "pkg": "fontforge", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "fontforge-20090622-2.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "fontforge-20090622", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "fontforge-20080828-1.1.el5.x86_64.rpm", 
+    "pkg": "fontforge-20080828", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "fontforge-20120731-12.1.8.x86_64.rpm", 
+    "pkg": "fontforge-20120731-1", 
+    "pkg_version": "2.1.8", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Infinality", 
+    "pkg_full_name": "fontforge-infinality-20110222-1.fc15.2.x86_64.rpm", 
+    "pkg": "fontforge-infinality-20110222-1.fc1", 
+    "pkg_version": "5.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "fontforge-20141014-3-omv2015.0.x86_64.rpm", 
+    "pkg": "fontforge-20141014-3-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "fontforge-1.0-0.20120731b.5-omv2013.0.x86_64.rpm", 
+    "pkg": "fontforge", 
+    "pkg_version": "1.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "fontforge-20090622-2.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "fontforge-20090622", 
+    "pkg_version": "2.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "fontforge-20080828-1.1.el5.x86_64.rpm", 
+    "pkg": "fontforge-20080828", 
+    "pkg_version": "1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "fontforge-20120731-12.1.8.x86_64.rpm", 
+    "pkg": "fontforge-20120731-1", 
+    "pkg_version": "2.1.8", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Infinality", 
+    "pkg_full_name": "fontforge-infinality-20110222-1.fc15.2.x86_64.rpm", 
+    "pkg": "fontforge-infinality-20110222-1.fc1", 
+    "pkg_version": "5.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "fontforge-20141014-3-omv2015.0.x86_64.rpm", 
+    "pkg": "fontforge-20141014-3-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "fontforge-1.0-0.20120731b.5-omv2013.0.x86_64.rpm", 
+    "pkg": "fontforge", 
+    "pkg_version": "1.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "fontforge-20090622-2.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "fontforge-20090622", 
+    "pkg_version": "2.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "fontforge-20120731-6.4.1.x86_64.rpm", 
+    "pkg": "fontforge-20120731", 
+    "pkg_version": "6.4.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "fontforge-20080828-1.1.el5.x86_64.rpm", 
+    "pkg": "fontforge-20080828", 
+    "pkg_version": "1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "fontforge-20120731-12.1.8.x86_64.rpm", 
+    "pkg": "fontforge-20120731-1", 
+    "pkg_version": "2.1.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Infinality", 
+    "pkg_full_name": "fontforge-infinality-20110222-1.fc15.2.x86_64.rpm", 
+    "pkg": "fontforge-infinality-20110222-1.fc1", 
+    "pkg_version": "5.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "fontforge-20141014-3-omv2015.0.x86_64.rpm", 
+    "pkg": "fontforge-20141014-3-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "fontforge-1.0-0.20120731.2-rosa2014.1.x86_64.rpm", 
+    "pkg": "fontforge", 
+    "pkg_version": "1.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "fontforge-20090622-2.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "fontforge-20090622", 
+    "pkg_version": "2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "fontforge-20120731-6.4.1.x86_64.rpm", 
+    "pkg": "fontforge-20120731", 
+    "pkg_version": "6.4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "fontforge-20080828-1.1.el5.x86_64.rpm", 
+    "pkg": "fontforge-20080828", 
+    "pkg_version": "1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "fontforge-20120731-12.1.8.x86_64.rpm", 
+    "pkg": "fontforge-20120731-1", 
+    "pkg_version": "2.1.8", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Infinality", 
+    "pkg_full_name": "fontforge-infinality-20110222-1.fc15.2.x86_64.rpm", 
+    "pkg": "fontforge-infinality-20110222-1.fc1", 
+    "pkg_version": "5.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "fontforge-20141014-3-omv2015.0.x86_64.rpm", 
+    "pkg": "fontforge-20141014-3-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "fontforge-1.0-0.20110222.4-rosa2012.1.x86_64.rpm", 
+    "pkg": "fontforge", 
+    "pkg_version": "1.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "fontforge-20090622-2.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "fontforge-20090622", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "fontforge-20120731-6.4.1.x86_64.rpm", 
+    "pkg": "fontforge-20120731", 
+    "pkg_version": "6.4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "fontforge-20080828-1.1.el5.x86_64.rpm", 
+    "pkg": "fontforge-20080828", 
+    "pkg_version": "1.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "fontforge-20120731-12.1.8.x86_64.rpm", 
+    "pkg": "fontforge-20120731-1", 
+    "pkg_version": "2.1.8", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Infinality", 
+    "pkg_full_name": "fontforge-infinality-20110222-1.fc15.2.x86_64.rpm", 
+    "pkg": "fontforge-infinality-20110222-1.fc1", 
+    "pkg_version": "5.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "fontforge-20141014-3-omv2015.0.x86_64.rpm", 
+    "pkg": "fontforge-20141014-3-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "fontforge-1.0-0.20110222.2-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "fontforge", 
+    "pkg_version": "1.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "fontforge-20090622-2.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "fontforge-20090622", 
+    "pkg_version": "2.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "fontforge-20120731-6.4.1.x86_64.rpm", 
+    "pkg": "fontforge-20120731", 
+    "pkg_version": "6.4.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "fontforge-20080828-1.1.el5.x86_64.rpm", 
+    "pkg": "fontforge-20080828", 
+    "pkg_version": "1.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "fontforge-20120731-12.1.8.x86_64.rpm", 
+    "pkg": "fontforge-20120731-1", 
+    "pkg_version": "2.1.8", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Infinality", 
+    "pkg_full_name": "fontforge-infinality-20110222-1.fc15.2.x86_64.rpm", 
+    "pkg": "fontforge-infinality-20110222-1.fc1", 
+    "pkg_version": "5.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "fontforge-20141014-3-omv2015.0.x86_64.rpm", 
+    "pkg": "fontforge-20141014-3-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "fontforge-1.0-0.20110222.2-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "fontforge", 
+    "pkg_version": "1.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "fontforge-20090622-2.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "fontforge-20090622", 
+    "pkg_version": "2.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "fontforge-20120731-6.4.1.x86_64.rpm", 
+    "pkg": "fontforge-20120731", 
+    "pkg_version": "6.4.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "fontforge-20080828-1.1.el5.x86_64.rpm", 
+    "pkg": "fontforge-20080828", 
+    "pkg_version": "1.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "fontforge-20120731-12.1.8.x86_64.rpm", 
+    "pkg": "fontforge-20120731-1", 
+    "pkg_version": "2.1.8", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Infinality", 
+    "pkg_full_name": "fontforge-infinality-20110222-1.fc15.2.x86_64.rpm", 
+    "pkg": "fontforge-infinality-20110222-1.fc1", 
+    "pkg_version": "5.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "fontforge-20141014-3-omv2015.0.x86_64.rpm", 
+    "pkg": "fontforge-20141014-3-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "fontforge-1.0-0.20110222.2-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "fontforge", 
+    "pkg_version": "1.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "fontforge-20090622-2.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "fontforge-20090622", 
+    "pkg_version": "2.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "fontforge-20120731-6.4.1.x86_64.rpm", 
+    "pkg": "fontforge-20120731", 
+    "pkg_version": "6.4.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "fontforge-20080828-1.1.el5.x86_64.rpm", 
+    "pkg": "fontforge-20080828", 
+    "pkg_version": "1.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "fontforge-20120731-12.1.8.x86_64.rpm", 
+    "pkg": "fontforge-20120731-1", 
+    "pkg_version": "2.1.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Infinality", 
+    "pkg_full_name": "fontforge-infinality-20110222-1.fc15.2.x86_64.rpm", 
+    "pkg": "fontforge-infinality-20110222-1.fc1", 
+    "pkg_version": "5.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "fontforge-20141014-3-omv2015.0.x86_64.rpm", 
+    "pkg": "fontforge-20141014-3-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "fontforge-1.0-0.20110222.2-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "fontforge", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "fontforge-20090622-2.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "fontforge-20090622", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "fontforge-20120731-6.4.1.x86_64.rpm", 
+    "pkg": "fontforge-20120731", 
+    "pkg_version": "6.4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "fontforge-20080828-1.1.el5.x86_64.rpm", 
+    "pkg": "fontforge-20080828", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "fontforge-20120731-12.1.8.x86_64.rpm", 
+    "pkg": "fontforge-20120731-1", 
+    "pkg_version": "2.1.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Infinality", 
+    "pkg_full_name": "fontforge-infinality-20110222-1.fc15.2.x86_64.rpm", 
+    "pkg": "fontforge-infinality-20110222-1.fc1", 
+    "pkg_version": "5.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "fontforge-20141014-3-omv2015.0.x86_64.rpm", 
+    "pkg": "fontforge-20141014-3-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "fontforge-1.0-0.20110222.2-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "fontforge", 
+    "pkg_version": "1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "PUIAS Computational", 
+    "pkg_full_name": "fontforge-20090622-2.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "fontforge-20090622", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "fontforge-20120731-6.4.1.x86_64.rpm", 
+    "pkg": "fontforge-20120731", 
+    "pkg_version": "6.4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "fontforge-20080828-1.1.el5.x86_64.rpm", 
+    "pkg": "fontforge-20080828", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

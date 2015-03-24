@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liblwgeom-2.1.4_2.1.4+dfsg-2_i386.deb", 
+    "pkg": "liblwgeom", 
+    "pkg_version": "2.1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "fckeditor-2.6.5-alt1.1.noarch.rpm", 
+    "pkg": "fckeditor", 
+    "pkg_version": "2.6.5", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fckeditor_2.6.6-3_all.deb", 
+    "pkg": "fckeditor", 
+    "pkg_version": "2.6.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fckeditor_2.6.6-3_all.deb", 
+    "pkg": "fckeditor", 
+    "pkg_version": "2.6.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "fckeditor_2.6.6-3_all.deb", 
+    "pkg": "fckeditor", 
+    "pkg_version": "2.6.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "fckeditor_2.6.6-3_all.deb", 
+    "pkg": "fckeditor", 
+    "pkg_version": "2.6.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

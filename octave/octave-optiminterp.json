@@ -1,0 +1,127 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "octave-optiminterp-0.3.4-alt2.x86_64.rpm", 
+    "pkg": "octave-optiminterp", 
+    "pkg_version": "0.3.4", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "octave-optiminterp-0.3.4-alt2.x86_64.rpm", 
+    "pkg": "octave-optiminterp", 
+    "pkg_version": "0.3.4", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "octave-optiminterp-0.3.4-alt2.x86_64.rpm", 
+    "pkg": "octave-optiminterp", 
+    "pkg_version": "0.3.4", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS Server", 
+    "pkg_full_name": "octave-forge-20071212-6.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "octave-forge-20071212", 
+    "pkg_version": "6.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "octave-optiminterp_0.3.4-1+b2_i386.deb", 
+    "pkg": "octave-optiminterp", 
+    "pkg_version": "0.3.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "PUIAS Server", 
+    "pkg_full_name": "octave-forge-20071212-6.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "octave-forge-20071212", 
+    "pkg_version": "6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "octave-optiminterp_0.3.4-1+b2_i386.deb", 
+    "pkg": "octave-optiminterp", 
+    "pkg_version": "0.3.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "PUIAS Server", 
+    "pkg_full_name": "octave-forge-20071212-6.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "octave-forge-20071212", 
+    "pkg_version": "6.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "octave-optiminterp_0.3.3-2_i386.deb", 
+    "pkg": "octave-optiminterp", 
+    "pkg_version": "0.3.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "PUIAS Server", 
+    "pkg_full_name": "octave-forge-20071212-6.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "octave-forge-20071212", 
+    "pkg_version": "6.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "octave-optiminterp_0.3.4-1build1_i386.deb", 
+    "pkg": "octave-optiminterp", 
+    "pkg_version": "0.3.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "PUIAS Server", 
+    "pkg_full_name": "octave-forge-20071212-6.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "octave-forge-20071212", 
+    "pkg_version": "6.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "octave-optiminterp_0.3.4-1build1_i386.deb", 
+    "pkg": "octave-optiminterp", 
+    "pkg_version": "0.3.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "PUIAS Server", 
+    "pkg_full_name": "octave-forge-20071212-6.1.PU_IAS.5.x86_64.rpm", 
+    "pkg": "octave-forge-20071212", 
+    "pkg_version": "6.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

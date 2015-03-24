@@ -1,0 +1,155 @@
+[
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "tv-fonts-1.1-5.el7.noarch.rpm", 
+    "pkg": "tv-fonts", 
+    "pkg_version": "1.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "tv-fonts-1.1-5.el6.noarch.rpm", 
+    "pkg": "tv-fonts", 
+    "pkg_version": "1.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "tv-fonts-1.1-5.0.el5.noarch.rpm", 
+    "pkg": "tv-fonts", 
+    "pkg_version": "1.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tv-fonts_1.1-8_all.deb", 
+    "pkg": "tv-fonts", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tv-fonts_1.1-8_all.deb", 
+    "pkg": "tv-fonts", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tv-fonts_1.1-8_all.deb", 
+    "pkg": "tv-fonts", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "tv-fonts-1.1-5.fc20.noarch.rpm", 
+    "pkg": "tv-fonts", 
+    "pkg_version": "1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "tv-fonts-1.1-23-omv2015.0.noarch.rpm", 
+    "pkg": "tv-fonts", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "tv-fonts-1.1-20-omv2014.0.noarch.rpm", 
+    "pkg": "tv-fonts", 
+    "pkg_version": "1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "tv-fonts-1.1-15-mdv2013.0.noarch.rpm", 
+    "pkg": "tv-fonts", 
+    "pkg_version": "1.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "tv-fonts-1.1-448.2.noarch.rpm", 
+    "pkg": "tv-fonts", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "tv-fonts-1.1-447.1.5.noarch.rpm", 
+    "pkg": "tv-fonts", 
+    "pkg_version": "1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "tv-fonts-1.1-445.1.2.noarch.rpm", 
+    "pkg": "tv-fonts", 
+    "pkg_version": "1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "tv-fonts-1.1-17-rosa2014.1.noarch.rpm", 
+    "pkg": "tv-fonts", 
+    "pkg_version": "1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "tv-fonts-1.1-15-rosa2012.1.noarch.rpm", 
+    "pkg": "tv-fonts", 
+    "pkg_version": "1.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "tv-fonts_1.1-8_all.deb", 
+    "pkg": "tv-fonts", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "tv-fonts_1.1-8_all.deb", 
+    "pkg": "tv-fonts", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

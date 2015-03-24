@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gambas3-gb-gui-opengl_3.5.4-2+b1_i386.deb", 
+    "pkg": "gambas3-gb-gui-opengl", 
+    "pkg_version": "3.5.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gambas3-gb-gui-opengl_3.5.4-2+b1_i386.deb", 
+    "pkg": "gambas3-gb-gui-opengl", 
+    "pkg_version": "3.5.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

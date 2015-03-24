@@ -1,0 +1,119 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scid_4.5.1.cvs20140429-2_i386.deb", 
+    "pkg": "scid", 
+    "pkg_version": "4.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scid_4.5.1.cvs20140429-2_i386.deb", 
+    "pkg": "scid", 
+    "pkg_version": "4.5.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scid_4.3.0.cvs20120311-1_i386.deb", 
+    "pkg": "scid", 
+    "pkg_version": "4.3.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "scid-4.5.2-22.1.x86_64.rpm", 
+    "pkg": "scid", 
+    "pkg_version": "4.5.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "scid-4.5.2-22.1.x86_64.rpm", 
+    "pkg": "scid", 
+    "pkg_version": "4.5.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "scid-4.5.2-1.9.x86_64.rpm", 
+    "pkg": "scid", 
+    "pkg_version": "4.5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "scid-4.5.2-1.1.x86_64.rpm", 
+    "pkg": "scid", 
+    "pkg_version": "4.5.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "scid-4.5.2-1.1.x86_64.rpm", 
+    "pkg": "scid", 
+    "pkg_version": "4.5.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Johannes Sch\u00f6pfer", 
+    "pkg_full_name": "scid-4.4-x86_64-2jsc.txz", 
+    "pkg": "scid", 
+    "pkg_version": "4.4", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Johannes Sch\u00f6pfer", 
+    "pkg_full_name": "scid-4.2.2-x86_64-1jsc.txz", 
+    "pkg": "scid", 
+    "pkg_version": "4.2.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Johannes Sch\u00f6pfer", 
+    "pkg_full_name": "scid-4.2.2-x86_64-1jsc.txz", 
+    "pkg": "scid", 
+    "pkg_version": "4.2.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "scid_4.5.1.cvs20140429-1_i386.deb", 
+    "pkg": "scid", 
+    "pkg_version": "4.5.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "scid_4.3.0.cvs20120311-1ubuntu3_i386.deb", 
+    "pkg": "scid", 
+    "pkg_version": "4.3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

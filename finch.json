@@ -1,0 +1,198 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "finch-2.10.11-alt2.x86_64.rpm", 
+    "pkg": "finch", 
+    "pkg_version": "2.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "finch-2.10.11-1-x86_64.pkg.tar.xz", 
+    "pkg": "finch", 
+    "pkg_version": "2.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "finch-2.10.9-1.el7.x86_64.rpm", 
+    "pkg": "finch", 
+    "pkg_version": "2.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "finch-2.7.9-27.el6.x86_64.rpm", 
+    "pkg": "finch", 
+    "pkg_version": "2.7.9", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "finch-2.6.6-32.el5.x86_64.rpm", 
+    "pkg": "finch", 
+    "pkg_version": "2.6.6", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "finch_2.10.11-1_i386.deb", 
+    "pkg": "finch", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "finch_2.10.11-1_i386.deb", 
+    "pkg": "finch", 
+    "pkg_version": "2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "finch_2.10.10-1~deb7u1_i386.deb", 
+    "pkg": "finch", 
+    "pkg_version": "2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "finch-2.10.11-10.fc23.x86_64.rpm", 
+    "pkg": "finch", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "finch-2.10.11-2.fc22.x86_64.rpm", 
+    "pkg": "finch", 
+    "pkg_version": "2.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "finch-2.10.11-2.fc21.x86_64.rpm", 
+    "pkg": "finch", 
+    "pkg_version": "2.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "finch-2.10.10-3.fc20.x86_64.rpm", 
+    "pkg": "finch", 
+    "pkg_version": "2.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "finch-2.10.11-1-omv2015.0.x86_64.rpm", 
+    "pkg": "finch", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "finch-2.10.11-0.1-omv2014.0.x86_64.rpm", 
+    "pkg": "finch", 
+    "pkg_version": "2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "finch-2.10.7-4-omv2013.0.i586.rpm", 
+    "pkg": "finch", 
+    "pkg_version": "2.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "finch-2.10.11-2.2.x86_64.rpm", 
+    "pkg": "finch", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "finch-2.10.10-5.4.1.x86_64.rpm", 
+    "pkg": "finch", 
+    "pkg_version": "2.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "finch-2.10.9-4.18.1.x86_64.rpm", 
+    "pkg": "finch", 
+    "pkg_version": "2.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "finch-2.10.11-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "finch", 
+    "pkg_version": "2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "finch-2.10.11-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "finch", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "finch_2.10.9-0ubuntu7.1_i386.deb", 
+    "pkg": "finch", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "finch_2.10.9-0ubuntu3.2_i386.deb", 
+    "pkg": "finch", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

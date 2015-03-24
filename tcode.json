@@ -1,0 +1,118 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "tcode-2008.9.17-alt1_1jpp6.noarch.rpm", 
+    "pkg": "tcode-200", 
+    "pkg_version": "8.9.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0 Devel", 
+    "pkg_full_name": "tcode-2008.9.17-1.jpp6.noarch.rpm", 
+    "pkg": "tcode-200", 
+    "pkg_version": "8.9.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0 Devel", 
+    "pkg_full_name": "tcode-2008.9.17-1.jpp6.noarch.rpm", 
+    "pkg": "tcode-200", 
+    "pkg_version": "8.9.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tcode_0.1.20080918-2_all.deb", 
+    "pkg": "tcode", 
+    "pkg_version": "0.1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0 Devel", 
+    "pkg_full_name": "tcode-2008.9.17-1.jpp6.noarch.rpm", 
+    "pkg": "tcode-200", 
+    "pkg_version": "8.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tcode_0.1.20080918-2_all.deb", 
+    "pkg": "tcode", 
+    "pkg_version": "0.1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0 Devel", 
+    "pkg_full_name": "tcode-2008.9.17-1.jpp6.noarch.rpm", 
+    "pkg": "tcode-200", 
+    "pkg_version": "8.9.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tcode_0.1.20080918-2_all.deb", 
+    "pkg": "tcode", 
+    "pkg_version": "0.1.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0 Devel", 
+    "pkg_full_name": "tcode-2008.9.17-1.jpp6.noarch.rpm", 
+    "pkg": "tcode-200", 
+    "pkg_version": "8.9.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tcode_0.1.20080918-2_all.deb", 
+    "pkg": "tcode", 
+    "pkg_version": "0.1.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0 Devel", 
+    "pkg_full_name": "tcode-2008.9.17-1.jpp6.noarch.rpm", 
+    "pkg": "tcode-200", 
+    "pkg_version": "8.9.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tcode_0.1.20080918-2_all.deb", 
+    "pkg": "tcode", 
+    "pkg_version": "0.1.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0 Devel", 
+    "pkg_full_name": "tcode-2008.9.17-1.jpp6.noarch.rpm", 
+    "pkg": "tcode-200", 
+    "pkg_version": "8.9.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }
+]

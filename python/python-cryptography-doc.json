@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-cryptography-doc_0.6.1-1_all.deb", 
+    "pkg": "python-cryptography-doc", 
+    "pkg_version": "0.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-cryptography-doc_0.6.1-1_all.deb", 
+    "pkg": "python-cryptography-doc", 
+    "pkg_version": "0.6.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-cryptography-doc-0.6.1-2-omv2015.0.noarch.rpm", 
+    "pkg": "python-cryptography-doc", 
+    "pkg_version": "0.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "witty-examples_3.3.3+dfsg-4.1_i386.deb", 
+    "pkg": "witty-examples", 
+    "pkg_version": "3.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "witty-examples_3.3.3+dfsg-4.1_i386.deb", 
+    "pkg": "witty-examples", 
+    "pkg_version": "3.3.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "witty-examples_3.2.1-2+deb7u1_i386.deb", 
+    "pkg": "witty-examples", 
+    "pkg_version": "3.2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "witty-examples_3.3.3+dfsg-4_i386.deb", 
+    "pkg": "witty-examples", 
+    "pkg_version": "3.3.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "witty-examples_3.3.0-1build1_i386.deb", 
+    "pkg": "witty-examples", 
+    "pkg_version": "3.3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

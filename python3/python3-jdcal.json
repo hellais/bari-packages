@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python3-jdcal_1.0-1~nd+1_all.deb", 
+    "pkg": "python3-jdcal", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python3-jdcal_1.0-1~nd80+1_all.deb", 
+    "pkg": "python3-jdcal", 
+    "pkg_version": "1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python3-jdcal_1.0-1~nd70+1_all.deb", 
+    "pkg": "python3-jdcal", 
+    "pkg_version": "1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python3-jdcal_1.0-1~nd14.04+1+nd14.10+1_all.deb", 
+    "pkg": "python3-jdcal", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

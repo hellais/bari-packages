@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "eiskaltdcpp-gtk3_2.2.9-3+b2_i386.deb", 
+    "pkg": "eiskaltdcpp-gtk3", 
+    "pkg_version": "2.2.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "eiskaltdcpp-gtk3_2.2.9-3+b2_i386.deb", 
+    "pkg": "eiskaltdcpp-gtk3", 
+    "pkg_version": "2.2.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "eiskaltdcpp-gtk3_2.2.9-3~bpo70+1_i386.deb", 
+    "pkg": "eiskaltdcpp-gtk3", 
+    "pkg_version": "2.2.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "eiskaltdcpp-gtk3_2.2.9-3build1_i386.deb", 
+    "pkg": "eiskaltdcpp-gtk3", 
+    "pkg_version": "2.2.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

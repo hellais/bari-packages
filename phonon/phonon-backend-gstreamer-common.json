@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "phonon-backend-gstreamer-common_4.8.0-3_i386.deb", 
+    "pkg": "phonon-backend-gstreamer-common", 
+    "pkg_version": "4.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "phonon-backend-gstreamer-common_4.8.0-3_i386.deb", 
+    "pkg": "phonon-backend-gstreamer-common", 
+    "pkg_version": "4.8.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "phonon-backend-gstreamer-common_4.7.80-0ubuntu1_i386.deb", 
+    "pkg": "phonon-backend-gstreamer-common", 
+    "pkg_version": "4.7.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

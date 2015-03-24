@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-codec-install_0.4.7+nmu2_all.deb", 
+    "pkg": "gnome-codec-install", 
+    "pkg_version": "0.4.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-codec-install_0.4.7+nmu1_all.deb", 
+    "pkg": "gnome-codec-install", 
+    "pkg_version": "0.4.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "sessioninstaller_0.20+bzr141-0ubuntu4_all.deb", 
+    "pkg": "sessioninstaller", 
+    "pkg_version": "0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnome-codec-install_0.4.7+nmu1ubuntu3_all.deb", 
+    "pkg": "gnome-codec-install", 
+    "pkg_version": "0.4.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "sessioninstaller_0.20+bzr141-0ubuntu4_all.deb", 
+    "pkg": "sessioninstaller", 
+    "pkg_version": "0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnome-codec-install_0.4.7+nmu1ubuntu3_all.deb", 
+    "pkg": "gnome-codec-install", 
+    "pkg_version": "0.4.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

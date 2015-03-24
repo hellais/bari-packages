@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "listaller-devtools_0.5.9-4_i386.deb", 
+    "pkg": "listaller-devtools", 
+    "pkg_version": "0.5.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "listaller-devtools_0.5.9-4_i386.deb", 
+    "pkg": "listaller-devtools", 
+    "pkg_version": "0.5.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "listaller-devtools_0.5.5-2_i386.deb", 
+    "pkg": "listaller-devtools", 
+    "pkg_version": "0.5.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "listaller-devtools_0.5.8-2_i386.deb", 
+    "pkg": "listaller-devtools", 
+    "pkg_version": "0.5.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

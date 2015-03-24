@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bindechexascii_0.0+20140524.git7dcd86-1_i386.deb", 
+    "pkg": "bindechexascii", 
+    "pkg_version": "0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bindechexascii_0.0+20140524.git7dcd86-1_i386.deb", 
+    "pkg": "bindechexascii", 
+    "pkg_version": "0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "bindechexascii_0.0+20140524.git7dcd86-1~bpo70+1_i386.deb", 
+    "pkg": "bindechexascii", 
+    "pkg_version": "0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

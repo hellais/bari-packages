@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ghc-mod_5.2.1.1-3_i386.deb", 
+    "pkg": "ghc-mod", 
+    "pkg_version": "5.2.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ghc-mod_4.1.2-2_i386.deb", 
+    "pkg": "ghc-mod", 
+    "pkg_version": "4.1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ghc-mod_1.10.18-1_i386.deb", 
+    "pkg": "ghc-mod", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ghc-mod_4.1.2-2_i386.deb", 
+    "pkg": "ghc-mod", 
+    "pkg_version": "4.1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ghc-mod_3.1.4-1_i386.deb", 
+    "pkg": "ghc-mod", 
+    "pkg_version": "3.1.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

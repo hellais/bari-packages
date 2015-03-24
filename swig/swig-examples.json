@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "swig-examples_2.0.12-1_all.deb", 
+    "pkg": "swig-examples", 
+    "pkg_version": "2.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "swig-examples_2.0.12-1_all.deb", 
+    "pkg": "swig-examples", 
+    "pkg_version": "2.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "swig-examples_2.0.7-3_all.deb", 
+    "pkg": "swig-examples", 
+    "pkg_version": "2.0.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "swig-examples-3.0.5-1.1.x86_64.rpm", 
+    "pkg": "swig-examples", 
+    "pkg_version": "3.0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "swig-examples-3.0.2-2.3.2.x86_64.rpm", 
+    "pkg": "swig-examples", 
+    "pkg_version": "3.0.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "swig-examples-2.0.10-2.1.2.i586.rpm", 
+    "pkg": "swig-examples", 
+    "pkg_version": "2.0.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "swig-examples_2.0.12-1ubuntu1_all.deb", 
+    "pkg": "swig-examples", 
+    "pkg_version": "2.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "swig-examples_2.0.11-1ubuntu2_all.deb", 
+    "pkg": "swig-examples", 
+    "pkg_version": "2.0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

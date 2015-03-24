@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-networkx_1.9+dfsg1-1_all.deb", 
+    "pkg": "python3-networkx", 
+    "pkg_version": "1.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-networkx_1.9+dfsg1-1_all.deb", 
+    "pkg": "python3-networkx", 
+    "pkg_version": "1.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-networkx-1.9.1-3.fc23.noarch.rpm", 
+    "pkg": "python3-networkx", 
+    "pkg_version": "1.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-networkx-1.9.1-3.fc22.noarch.rpm", 
+    "pkg": "python3-networkx", 
+    "pkg_version": "1.9.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-networkx-1.9.1-2.fc21.noarch.rpm", 
+    "pkg": "python3-networkx", 
+    "pkg_version": "1.9.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python3-networkx-1.9.1-2.fc20.noarch.rpm", 
+    "pkg": "python3-networkx", 
+    "pkg_version": "1.9.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python3-networkx_1.8.1-0ubuntu3_all.deb", 
+    "pkg": "python3-networkx", 
+    "pkg_version": "1.8.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

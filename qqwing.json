@@ -1,0 +1,81 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "qqwing-1.3.3-alt1.x86_64.rpm", 
+    "pkg": "qqwing", 
+    "pkg_version": "1.3.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "qqwing-1.3.1-1-x86_64.pkg.tar.xz", 
+    "pkg": "qqwing", 
+    "pkg_version": "1.3.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qqwing_1.3.2-1_i386.deb", 
+    "pkg": "qqwing", 
+    "pkg_version": "1.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qqwing_1.3.2-1_i386.deb", 
+    "pkg": "qqwing", 
+    "pkg_version": "1.3.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "qqwing-1.3.3-1.fc22.x86_64.rpm", 
+    "pkg": "qqwing", 
+    "pkg_version": "1.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "qqwing-1.3.3-1.fc22.x86_64.rpm", 
+    "pkg": "qqwing", 
+    "pkg_version": "1.3.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "qqwing-1.2.0-2.fc21.x86_64.rpm", 
+    "pkg": "qqwing", 
+    "pkg_version": "1.2.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "qqwing-1.2.0-3.1.x86_64.rpm", 
+    "pkg": "qqwing", 
+    "pkg_version": "1.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "qqwing-1.2.0-2.1.2.x86_64.rpm", 
+    "pkg": "qqwing", 
+    "pkg_version": "1.2.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }
+]

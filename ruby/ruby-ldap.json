@@ -1,0 +1,118 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-ldap-0.9.11-alt2.3.x86_64.rpm", 
+    "pkg": "ruby-ldap", 
+    "pkg_version": "0.9.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "ruby-ldap-0.9.16-1.sdl7.x86_64.rpm", 
+    "pkg": "ruby-ldap", 
+    "pkg_version": "0.9.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "ruby-ldap-0.9.7-10.puias6.x86_64.rpm", 
+    "pkg": "ruby-ldap", 
+    "pkg_version": "0.9.7", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "ruby-ldap-0.9.7-3.PU_IAS.5.x86_64.rpm", 
+    "pkg": "ruby-ldap", 
+    "pkg_version": "0.9.7", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-ldap_0.9.16-1+b3_i386.deb", 
+    "pkg": "ruby-ldap", 
+    "pkg_version": "0.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-ldap_0.9.16-1+b3_i386.deb", 
+    "pkg": "ruby-ldap", 
+    "pkg_version": "0.9.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-ldap_0.9.12-2_i386.deb", 
+    "pkg": "ruby-ldap", 
+    "pkg_version": "0.9.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ruby-ldap-0.9.16-3.fc22.x86_64.rpm", 
+    "pkg": "ruby-ldap", 
+    "pkg_version": "0.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ruby-ldap-0.9.16-3.fc22.x86_64.rpm", 
+    "pkg": "ruby-ldap", 
+    "pkg_version": "0.9.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "ruby-ldap-0.9.16-2.fc21.x86_64.rpm", 
+    "pkg": "ruby-ldap", 
+    "pkg_version": "0.9.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ruby-ldap-0.9.10-17.fc20.x86_64.rpm", 
+    "pkg": "ruby-ldap", 
+    "pkg_version": "0.9.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ruby-ldap_0.9.16-1build1_i386.deb", 
+    "pkg": "ruby-ldap", 
+    "pkg_version": "0.9.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ruby-ldap_0.9.16-1_i386.deb", 
+    "pkg": "ruby-ldap", 
+    "pkg_version": "0.9.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

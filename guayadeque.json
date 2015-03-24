@@ -1,0 +1,163 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "guayadeque-0.3.7-1-x86_64.pkg.tar.xz", 
+    "pkg": "guayadeque", 
+    "pkg_version": "0.3.7", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "guayadeque_0.3.7~ds0-2.1_i386.deb", 
+    "pkg": "guayadeque", 
+    "pkg_version": "0.3.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "guayadeque_0.3.7~ds0-2.1_i386.deb", 
+    "pkg": "guayadeque", 
+    "pkg_version": "0.3.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "guayadeque_0.3.5~ds0-4_i386.deb", 
+    "pkg": "guayadeque", 
+    "pkg_version": "0.3.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "guayadeque-0.3.7-7.svn1893.fc23.x86_64.rpm", 
+    "pkg": "guayadeque", 
+    "pkg_version": "0.3.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "guayadeque-0.3.7-6.svn1893.fc22.x86_64.rpm", 
+    "pkg": "guayadeque", 
+    "pkg_version": "0.3.7", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "guayadeque-0.3.7-7.svn1893.fc21.x86_64.rpm", 
+    "pkg": "guayadeque", 
+    "pkg_version": "0.3.7", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "guayadeque-0.3.7-5.svn1893.fc20.x86_64.rpm", 
+    "pkg": "guayadeque", 
+    "pkg_version": "0.3.7", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "guayadeque-0.3.7-2-omv2015.0.x86_64.rpm", 
+    "pkg": "guayadeque", 
+    "pkg_version": "0.3.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "guayadeque-0.3.5-2-omv2014.0.x86_64.rpm", 
+    "pkg": "guayadeque", 
+    "pkg_version": "0.3.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "guayadeque-0.3.5-1-omv2013.0.x86_64.rpm", 
+    "pkg": "guayadeque", 
+    "pkg_version": "0.3.5", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "guayadeque-0.3.5-1.104.x86_64.rpm", 
+    "pkg": "guayadeque", 
+    "pkg_version": "0.3.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "guayadeque-0.3.5-1.6.x86_64.rpm", 
+    "pkg": "guayadeque", 
+    "pkg_version": "0.3.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "guayadeque-0.3.5-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "guayadeque", 
+    "pkg_version": "0.3.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "guayadeque-0.3.5-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "guayadeque", 
+    "pkg_version": "0.3.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "guayadeque-0.2.7-x86_64-1rl.txz", 
+    "pkg": "guayadeque", 
+    "pkg_version": "0.2.7", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "guayadeque_0.3.5~ds0-4ubuntu1_i386.deb", 
+    "pkg": "guayadeque", 
+    "pkg_version": "0.3.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "guayadeque_0.3.5~ds0-4ubuntu1_i386.deb", 
+    "pkg": "guayadeque", 
+    "pkg_version": "0.3.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

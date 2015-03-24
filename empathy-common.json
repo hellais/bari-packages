@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "empathy-common_3.12.7-1_all.deb", 
+    "pkg": "empathy-common", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "empathy-common_3.12.7-1_all.deb", 
+    "pkg": "empathy-common", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "empathy-common_3.4.2.3-2+deb7u1_all.deb", 
+    "pkg": "empathy-common", 
+    "pkg_version": "3.4.2.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "empathy-common_3.8.6-0ubuntu13_all.deb", 
+    "pkg": "empathy-common", 
+    "pkg_version": "3.8.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "empathy-common_3.8.6-0ubuntu9.1_all.deb", 
+    "pkg": "empathy-common", 
+    "pkg_version": "3.8.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

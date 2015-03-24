@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-pymongo-ext_2.7.2-1_i386.deb", 
+    "pkg": "python3-pymongo-ext", 
+    "pkg_version": "2.7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-pymongo-ext_2.7.2-1_i386.deb", 
+    "pkg": "python3-pymongo-ext", 
+    "pkg_version": "2.7.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python3-pymongo-ext_2.7.1-1_i386.deb", 
+    "pkg": "python3-pymongo-ext", 
+    "pkg_version": "2.7.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

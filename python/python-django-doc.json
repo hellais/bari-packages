@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "python-django-doc-1.6.10-1.sdl7.noarch.rpm", 
+    "pkg": "python-django-doc", 
+    "pkg_version": "1.6.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-django-doc_1.7.7-1_all.deb", 
+    "pkg": "python-django-doc", 
+    "pkg_version": "1.7.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-django-doc_1.7.6-1_all.deb", 
+    "pkg": "python-django-doc", 
+    "pkg_version": "1.7.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "python-django-doc_1.4.5-1+deb7u9_all.deb", 
+    "pkg": "python-django-doc", 
+    "pkg_version": "1.4.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-django-doc-1.8-0.7.c1.fc23.noarch.rpm", 
+    "pkg": "python-django-doc", 
+    "pkg_version": "1.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-django-doc-1.7.3-2.fc22.noarch.rpm", 
+    "pkg": "python-django-doc", 
+    "pkg_version": "1.7.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python-django-doc-1.6.10-1.fc21.noarch.rpm", 
+    "pkg": "python-django-doc", 
+    "pkg_version": "1.6.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python-django-doc-1.6.10-1.fc20.noarch.rpm", 
+    "pkg": "python-django-doc", 
+    "pkg_version": "1.6.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "python-django-doc_1.6.6-1ubuntu2.2_all.deb", 
+    "pkg": "python-django-doc", 
+    "pkg_version": "1.6.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "python-django-doc_1.6.1-2ubuntu0.8_all.deb", 
+    "pkg": "python-django-doc", 
+    "pkg_version": "1.6.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xmds-doc_0~svn.1884-3.1_all.deb", 
+    "pkg": "xmds-doc_0~svn.1884", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xmds-doc_0~svn.1884-3.1_all.deb", 
+    "pkg": "xmds-doc_0~svn.1884", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xmds-doc_0~svn.1884-3.1_all.deb", 
+    "pkg": "xmds-doc_0~svn.1884", 
+    "pkg_version": "3.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "xmds-doc-2.1.2-3.mga4.noarch.rpm", 
+    "pkg": "xmds-doc", 
+    "pkg_version": "2.1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xmds-doc_0~svn.1884-3.1_all.deb", 
+    "pkg": "xmds-doc_0~svn.1884", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "xmds-doc-2.1.2-3.mga4.noarch.rpm", 
+    "pkg": "xmds-doc", 
+    "pkg_version": "2.1.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xmds-doc_0~svn.1884-3.1_all.deb", 
+    "pkg": "xmds-doc_0~svn.1884", 
+    "pkg_version": "3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

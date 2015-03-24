@@ -1,0 +1,576 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "sane-1.0.24-alt2.3.x86_64.rpm", 
+    "pkg": "sane", 
+    "pkg_version": "1.0.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "sane-1.0.24-4-x86_64.pkg.tar.xz", 
+    "pkg": "sane", 
+    "pkg_version": "1.0.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "sane-frontends-1.0.14-9.2.el6.x86_64.rpm", 
+    "pkg": "sane-frontends", 
+    "pkg_version": "1.0.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "sane-1.0.24-4-x86_64.pkg.tar.xz", 
+    "pkg": "sane", 
+    "pkg_version": "1.0.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "sane-frontends-1.0.14-1.2.2.x86_64.rpm", 
+    "pkg": "sane-frontends", 
+    "pkg_version": "1.0.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "sane-1.0.24-4-x86_64.pkg.tar.xz", 
+    "pkg": "sane", 
+    "pkg_version": "1.0.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "sane-frontends-1.0.14-1.2.2.x86_64.rpm", 
+    "pkg": "sane-frontends", 
+    "pkg_version": "1.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sane_1.0.14-9_i386.deb", 
+    "pkg": "sane", 
+    "pkg_version": "1.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "sane-frontends-1.0.14-1.2.2.x86_64.rpm", 
+    "pkg": "sane-frontends", 
+    "pkg_version": "1.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sane_1.0.14-9_i386.deb", 
+    "pkg": "sane", 
+    "pkg_version": "1.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "sane-frontends-1.0.14-1.2.2.x86_64.rpm", 
+    "pkg": "sane-frontends", 
+    "pkg_version": "1.0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sane_1.0.14-9_i386.deb", 
+    "pkg": "sane", 
+    "pkg_version": "1.0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "sane-frontends-1.0.14-1.2.2.x86_64.rpm", 
+    "pkg": "sane-frontends", 
+    "pkg_version": "1.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sane_1.0.14-9_i386.deb", 
+    "pkg": "sane", 
+    "pkg_version": "1.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "saned-1.0.24-12-omv2015.0.x86_64.rpm", 
+    "pkg": "saned", 
+    "pkg_version": "1.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "sane-backends-1.0.24-12-omv2015.0.x86_64.rpm", 
+    "pkg": "sane-backends", 
+    "pkg_version": "1.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "sane-frontends-1.0.14-1.2.2.x86_64.rpm", 
+    "pkg": "sane-frontends", 
+    "pkg_version": "1.0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sane_1.0.14-9_i386.deb", 
+    "pkg": "sane", 
+    "pkg_version": "1.0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "saned-1.0.24-2-omv2014.0.x86_64.rpm", 
+    "pkg": "saned", 
+    "pkg_version": "1.0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "sane-backends-1.0.24-2-omv2014.0.x86_64.rpm", 
+    "pkg": "sane-backends", 
+    "pkg_version": "1.0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "sane-frontends-1.0.14-1.2.2.x86_64.rpm", 
+    "pkg": "sane-frontends", 
+    "pkg_version": "1.0.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sane_1.0.14-9_i386.deb", 
+    "pkg": "sane", 
+    "pkg_version": "1.0.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "saned-1.0.24-1-omv2013.0.x86_64.rpm", 
+    "pkg": "saned", 
+    "pkg_version": "1.0.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "sane-backends-1.0.24-1-omv2013.0.x86_64.rpm", 
+    "pkg": "sane-backends", 
+    "pkg_version": "1.0.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "sane-frontends-1.0.14-1.2.2.x86_64.rpm", 
+    "pkg": "sane-frontends", 
+    "pkg_version": "1.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sane_1.0.14-9_i386.deb", 
+    "pkg": "sane", 
+    "pkg_version": "1.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "saned-1.0.24-1-omv2013.0.x86_64.rpm", 
+    "pkg": "saned", 
+    "pkg_version": "1.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "sane-backends-1.0.24-4.2.x86_64.rpm", 
+    "pkg": "sane-backends", 
+    "pkg_version": "1.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "sane-frontends-1.0.14-1.2.2.x86_64.rpm", 
+    "pkg": "sane-frontends", 
+    "pkg_version": "1.0.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sane_1.0.14-9_i386.deb", 
+    "pkg": "sane", 
+    "pkg_version": "1.0.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "saned-1.0.24-1-omv2013.0.x86_64.rpm", 
+    "pkg": "saned", 
+    "pkg_version": "1.0.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "sane-backends-1.0.24-2.1.10.x86_64.rpm", 
+    "pkg": "sane-backends", 
+    "pkg_version": "1.0.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "sane-frontends-1.0.14-1.2.2.x86_64.rpm", 
+    "pkg": "sane-frontends", 
+    "pkg_version": "1.0.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sane_1.0.14-9_i386.deb", 
+    "pkg": "sane", 
+    "pkg_version": "1.0.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "saned-1.0.24-1-omv2013.0.x86_64.rpm", 
+    "pkg": "saned", 
+    "pkg_version": "1.0.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "sane-backends-1.0.23-9.2.3.i586.rpm", 
+    "pkg": "sane-backends", 
+    "pkg_version": "1.0.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "sane-frontends-1.0.14-1.2.2.x86_64.rpm", 
+    "pkg": "sane-frontends", 
+    "pkg_version": "1.0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sane_1.0.14-9_i386.deb", 
+    "pkg": "sane", 
+    "pkg_version": "1.0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "saned-1.0.24-7-rosa2014.1.x86_64.rpm", 
+    "pkg": "saned", 
+    "pkg_version": "1.0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "sane-backends-1.0.24-7-rosa2014.1.x86_64.rpm", 
+    "pkg": "sane-backends", 
+    "pkg_version": "1.0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "sane-frontends-1.0.14-1.2.2.x86_64.rpm", 
+    "pkg": "sane-frontends", 
+    "pkg_version": "1.0.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sane_1.0.14-9_i386.deb", 
+    "pkg": "sane", 
+    "pkg_version": "1.0.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "saned-1.0.24-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "saned", 
+    "pkg_version": "1.0.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "sane-backends-1.0.24-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "sane-backends", 
+    "pkg_version": "1.0.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "sane-frontends-1.0.14-1.2.2.x86_64.rpm", 
+    "pkg": "sane-frontends", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "sane-1.0.24-x86_64-1.txz", 
+    "pkg": "sane", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "saned-1.0.22-4-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "saned", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "sane-backends-1.0.22-4-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "sane-backends", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "sane-frontends-1.0.14-1.2.2.x86_64.rpm", 
+    "pkg": "sane-frontends", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "sane-1.0.22-x86_64-5.txz", 
+    "pkg": "sane", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "saned-1.0.22-4-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "saned", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "sane-backends-1.0.22-4-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "sane-backends", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "sane-frontends-1.0.14-1.2.2.x86_64.rpm", 
+    "pkg": "sane-frontends", 
+    "pkg_version": "1.0.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "sane-1.0.22-x86_64-2.txz", 
+    "pkg": "sane", 
+    "pkg_version": "1.0.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "saned-1.0.22-4-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "saned", 
+    "pkg_version": "1.0.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "sane-backends-1.0.22-4-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "sane-backends", 
+    "pkg_version": "1.0.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "sane-frontends-1.0.14-1.2.2.x86_64.rpm", 
+    "pkg": "sane-frontends", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "sane_1.0.14-9_i386.deb", 
+    "pkg": "sane", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "saned-1.0.22-4-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "saned", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "sane-backends-1.0.22-4-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "sane-backends", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "sane-frontends-1.0.14-1.2.2.x86_64.rpm", 
+    "pkg": "sane-frontends", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "sane_1.0.14-9_i386.deb", 
+    "pkg": "sane", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "saned-1.0.22-4-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "saned", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "sane-backends-1.0.22-4-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "sane-backends", 
+    "pkg_version": "1.0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

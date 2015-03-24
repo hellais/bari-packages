@@ -1,0 +1,207 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "nrg2iso-0.4-alt1.qa1.x86_64.rpm", 
+    "pkg": "nrg2iso", 
+    "pkg_version": "0.4", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "nrg2iso-0.4-9-x86_64.pkg.tar.xz", 
+    "pkg": "nrg2iso", 
+    "pkg_version": "0.4", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "nrg2iso-0.4-1.el7.rf.x86_64.rpm", 
+    "pkg": "nrg2iso", 
+    "pkg_version": "0.4", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "nrg2iso-0.4-1.el6.rf.x86_64.rpm", 
+    "pkg": "nrg2iso", 
+    "pkg_version": "0.4", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "nrg2iso-0.4-1.el5.rf.x86_64.rpm", 
+    "pkg": "nrg2iso", 
+    "pkg_version": "0.4", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nrg2iso_0.4-4_i386.deb", 
+    "pkg": "nrg2iso", 
+    "pkg_version": "0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nrg2iso_0.4-4_i386.deb", 
+    "pkg": "nrg2iso", 
+    "pkg_version": "0.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nrg2iso_0.4-4_i386.deb", 
+    "pkg": "nrg2iso", 
+    "pkg_version": "0.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "nrg2iso-0.4-13.fc22.x86_64.rpm", 
+    "pkg": "nrg2iso", 
+    "pkg_version": "0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "nrg2iso-0.4-13.fc22.x86_64.rpm", 
+    "pkg": "nrg2iso", 
+    "pkg_version": "0.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "nrg2iso-0.4-13.fc21.x86_64.rpm", 
+    "pkg": "nrg2iso", 
+    "pkg_version": "0.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Olea", 
+    "pkg_full_name": "nrg2iso-0.2-SuSE9_br.i386.rpm", 
+    "pkg": "nrg2iso", 
+    "pkg_version": "0.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "nrg2iso-0.4-8-omv2015.0.x86_64.rpm", 
+    "pkg": "nrg2iso", 
+    "pkg_version": "0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "nrg2iso-0.4-7-omv2013.0.x86_64.rpm", 
+    "pkg": "nrg2iso", 
+    "pkg_version": "0.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "nrg2iso-0.4-7-omv2013.0.x86_64.rpm", 
+    "pkg": "nrg2iso", 
+    "pkg_version": "0.4", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Multimedia Apps", 
+    "pkg_full_name": "nrg2iso-0.5-2.58.x86_64.rpm", 
+    "pkg": "nrg2iso", 
+    "pkg_version": "0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Multimedia Apps", 
+    "pkg_full_name": "nrg2iso-0.5-2.1.x86_64.rpm", 
+    "pkg": "nrg2iso", 
+    "pkg_version": "0.5", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Multimedia Apps", 
+    "pkg_full_name": "nrg2iso-0.5-2.1.x86_64.rpm", 
+    "pkg": "nrg2iso", 
+    "pkg_version": "0.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "nrg2iso-0.4-8-rosa2014.1.x86_64.rpm", 
+    "pkg": "nrg2iso", 
+    "pkg_version": "0.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "nrg2iso-0.4-7-rosa2012.1.x86_64.rpm", 
+    "pkg": "nrg2iso", 
+    "pkg_version": "0.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Freestylers", 
+    "pkg_full_name": "nrg2iso-0.4-x86_64-1_fs.tgz", 
+    "pkg": "nrg2iso", 
+    "pkg_version": "0.4", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "nrg2iso_0.4-4_i386.deb", 
+    "pkg": "nrg2iso", 
+    "pkg_version": "0.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "nrg2iso_0.4-4_i386.deb", 
+    "pkg": "nrg2iso", 
+    "pkg_version": "0.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

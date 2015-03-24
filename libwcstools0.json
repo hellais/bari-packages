@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwcstools0_3.9.0+dfsg-1_i386.deb", 
+    "pkg": "libwcstools0", 
+    "pkg_version": "3.9.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwcstools0_3.9.0+dfsg-1_i386.deb", 
+    "pkg": "libwcstools0", 
+    "pkg_version": "3.9.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwcstools0_3.8.5-1_i386.deb", 
+    "pkg": "libwcstools0", 
+    "pkg_version": "3.8.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libwcstools0_3.8.7-2_i386.deb", 
+    "pkg": "libwcstools0", 
+    "pkg_version": "3.8.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "me-tv_1.3.7-1_i386.deb", 
+    "pkg": "me-tv", 
+    "pkg_version": "1.3.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "me-tv_1.3.7-1_i386.deb", 
+    "pkg": "me-tv", 
+    "pkg_version": "1.3.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "me-tv_1.3.7-0.2_i386.deb", 
+    "pkg": "me-tv", 
+    "pkg_version": "1.3.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Multimedia Apps", 
+    "pkg_full_name": "me-tv-1.3.6-2.2.x86_64.rpm", 
+    "pkg": "me-tv", 
+    "pkg_version": "1.3.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Multimedia Apps", 
+    "pkg_full_name": "me-tv-1.3.6-2.10.x86_64.rpm", 
+    "pkg": "me-tv", 
+    "pkg_version": "1.3.6", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Multimedia Apps", 
+    "pkg_full_name": "me-tv-1.3.6-2.8.x86_64.rpm", 
+    "pkg": "me-tv", 
+    "pkg_version": "1.3.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "me-tv_1.3.7-1_i386.deb", 
+    "pkg": "me-tv", 
+    "pkg_version": "1.3.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "me-tv_1.3.7-0.2_i386.deb", 
+    "pkg": "me-tv", 
+    "pkg_version": "1.3.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

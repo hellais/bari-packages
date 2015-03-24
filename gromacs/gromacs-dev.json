@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gromacs-dev_5.0.2-1_i386.deb", 
+    "pkg": "gromacs-dev", 
+    "pkg_version": "5.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gromacs-dev_5.0.2-1_i386.deb", 
+    "pkg": "gromacs-dev", 
+    "pkg_version": "5.0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gromacs-dev_4.5.5-2_i386.deb", 
+    "pkg": "gromacs-dev", 
+    "pkg_version": "4.5.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gromacs-dev_4.6.6-1_i386.deb", 
+    "pkg": "gromacs-dev", 
+    "pkg_version": "4.6.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gromacs-dev_4.6.5-1build1_i386.deb", 
+    "pkg": "gromacs-dev", 
+    "pkg_version": "4.6.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

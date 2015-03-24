@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libprelude-dev_1.0.0-11.4_i386.deb", 
+    "pkg": "libprelude-dev", 
+    "pkg_version": "1.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libprelude-dev_1.0.0-11.4_i386.deb", 
+    "pkg": "libprelude-dev", 
+    "pkg_version": "1.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libprelude-dev_1.0.0-9_i386.deb", 
+    "pkg": "libprelude-dev", 
+    "pkg_version": "1.0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libprelude-dev_1.0.0-11.3ubuntu3_i386.deb", 
+    "pkg": "libprelude-dev", 
+    "pkg_version": "1.0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libprelude-dev_1.0.0-11ubuntu4_i386.deb", 
+    "pkg": "libprelude-dev", 
+    "pkg_version": "1.0.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

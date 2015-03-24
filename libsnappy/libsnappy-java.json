@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsnappy-java_1.1.1.6-2_all.deb", 
+    "pkg": "libsnappy-java", 
+    "pkg_version": "1.1.1.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsnappy-java_1.0.4.1~dfsg-1_all.deb", 
+    "pkg": "libsnappy-java", 
+    "pkg_version": "1.0.4.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libsnappy-java_1.0.4.1~dfsg-1_all.deb", 
+    "pkg": "libsnappy-java", 
+    "pkg_version": "1.0.4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

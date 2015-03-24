@@ -1,0 +1,63 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ca-certificates-java-0.01-alt1.noarch.rpm", 
+    "pkg": "ca-certificates-java", 
+    "pkg_version": "0.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ca-certificates-java-0.01-alt1.noarch.rpm", 
+    "pkg": "ca-certificates-java", 
+    "pkg_version": "0.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ca-certificates-java-0.01-alt1.noarch.rpm", 
+    "pkg": "ca-certificates-java", 
+    "pkg_version": "0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ca-certificates-java-0.01-alt1.noarch.rpm", 
+    "pkg": "ca-certificates-java", 
+    "pkg_version": "0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ca-certificates-java-0.01-alt1.noarch.rpm", 
+    "pkg": "ca-certificates-java", 
+    "pkg_version": "0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ca-certificates-java-0.01-alt1.noarch.rpm", 
+    "pkg": "ca-certificates-java", 
+    "pkg_version": "0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ca-certificates-java-0.01-alt1.noarch.rpm", 
+    "pkg": "ca-certificates-java", 
+    "pkg_version": "0.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

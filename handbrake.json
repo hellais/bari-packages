@@ -1,0 +1,190 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "handbrake-0.10.1-2-x86_64.pkg.tar.xz", 
+    "pkg": "handbrake", 
+    "pkg_version": "0.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop Testing", 
+    "pkg_full_name": "handbrake-cli-0.9.8-2.el6.nux.x86_64.rpm", 
+    "pkg": "handbrake-cli", 
+    "pkg_version": "0.9.8", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "handbrake-0.10.1-2-x86_64.pkg.tar.xz", 
+    "pkg": "handbrake", 
+    "pkg_version": "0.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop Testing", 
+    "pkg_full_name": "handbrake-cli-0.9.8-2.el6.nux.x86_64.rpm", 
+    "pkg": "handbrake-cli", 
+    "pkg_version": "0.9.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "handbrake_0.10.1-dmo2_all.deb", 
+    "pkg": "handbrake", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop Testing", 
+    "pkg_full_name": "handbrake-cli-0.9.8-2.el6.nux.x86_64.rpm", 
+    "pkg": "handbrake-cli", 
+    "pkg_version": "0.9.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "handbrake_0.10.1-dmo2_all.deb", 
+    "pkg": "handbrake", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop Testing", 
+    "pkg_full_name": "handbrake-cli-0.9.8-2.el6.nux.x86_64.rpm", 
+    "pkg": "handbrake-cli", 
+    "pkg_version": "0.9.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "handbrake_0.9.8+git20121007-dmo7_all.deb", 
+    "pkg": "handbrake", 
+    "pkg_version": "0.9.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop Testing", 
+    "pkg_full_name": "handbrake-cli-0.9.8-2.el6.nux.x86_64.rpm", 
+    "pkg": "handbrake-cli", 
+    "pkg_version": "0.9.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "handbrake-0.10.0-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "handbrake", 
+    "pkg_version": "0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop Testing", 
+    "pkg_full_name": "handbrake-cli-0.9.8-2.el6.nux.x86_64.rpm", 
+    "pkg": "handbrake-cli", 
+    "pkg_version": "0.9.8", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "handbrake-0.9.9-6-rosa2012.1.x86_64.rpm", 
+    "pkg": "handbrake", 
+    "pkg_version": "0.9.9", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop Testing", 
+    "pkg_full_name": "handbrake-cli-0.9.8-2.el6.nux.x86_64.rpm", 
+    "pkg": "handbrake-cli", 
+    "pkg_version": "0.9.8", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Alien Bob Restricted", 
+    "pkg_full_name": "handbrake-0.9.9-x86_64-1alien.txz", 
+    "pkg": "handbrake", 
+    "pkg_version": "0.9.9", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop Testing", 
+    "pkg_full_name": "handbrake-cli-0.9.8-2.el6.nux.x86_64.rpm", 
+    "pkg": "handbrake-cli", 
+    "pkg_version": "0.9.8", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Alien Bob Restricted", 
+    "pkg_full_name": "handbrake-0.9.9-x86_64-1alien.txz", 
+    "pkg": "handbrake", 
+    "pkg_version": "0.9.9", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop Testing", 
+    "pkg_full_name": "handbrake-cli-0.9.8-2.el6.nux.x86_64.rpm", 
+    "pkg": "handbrake-cli", 
+    "pkg_version": "0.9.8", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Alien Bob Restricted", 
+    "pkg_full_name": "handbrake-0.9.9-x86_64-1alien.txz", 
+    "pkg": "handbrake", 
+    "pkg_version": "0.9.9", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop Testing", 
+    "pkg_full_name": "handbrake-cli-0.9.8-2.el6.nux.x86_64.rpm", 
+    "pkg": "handbrake-cli", 
+    "pkg_version": "0.9.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "handbrake_0.9.9+svn6032+dfsg1-2build2_i386.deb", 
+    "pkg": "handbrake", 
+    "pkg_version": "0.9.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libforms-doc_1.2.3-1.2_all.deb", 
+    "pkg": "libforms-doc", 
+    "pkg_version": "1.2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libforms-doc_1.2.3-1.2_all.deb", 
+    "pkg": "libforms-doc", 
+    "pkg_version": "1.2.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libforms-doc_1.0.93sp1-2_all.deb", 
+    "pkg": "libforms-doc", 
+    "pkg_version": "1.0.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Multiverse", 
+    "pkg_full_name": "libforms-doc_1.2.3-1ubuntu1_all.deb", 
+    "pkg": "libforms-doc", 
+    "pkg_version": "1.2.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Multiverse", 
+    "pkg_full_name": "libforms-doc_1.0.93sp1-2ubuntu3_all.deb", 
+    "pkg": "libforms-doc", 
+    "pkg_version": "1.0.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

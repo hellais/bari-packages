@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libiperf-dev_3.0.7-1_i386.deb", 
+    "pkg": "libiperf-dev", 
+    "pkg_version": "3.0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

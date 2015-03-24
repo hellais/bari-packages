@@ -1,0 +1,458 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "celestia-kde-1.6.1-alt3.x86_64.rpm", 
+    "pkg": "celestia-kde", 
+    "pkg_version": "1.6.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "celestia-1.6.1-5-x86_64.pkg.tar.xz", 
+    "pkg": "celestia", 
+    "pkg_version": "1.6.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "celestia-kde-1.6.1-alt3.x86_64.rpm", 
+    "pkg": "celestia-kde", 
+    "pkg_version": "1.6.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "celestia-1.6.1-18.el6.x86_64.rpm", 
+    "pkg": "celestia", 
+    "pkg_version": "1.6.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "celestia-kde-1.6.1-alt3.x86_64.rpm", 
+    "pkg": "celestia-kde", 
+    "pkg_version": "1.6.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "celestia_1.6.1+dfsg-3.1_all.deb", 
+    "pkg": "celestia", 
+    "pkg_version": "1.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "celestia-kde-1.6.1-alt3.x86_64.rpm", 
+    "pkg": "celestia-kde", 
+    "pkg_version": "1.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "celestia_1.6.1+dfsg-3.1_all.deb", 
+    "pkg": "celestia", 
+    "pkg_version": "1.6.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "celestia-kde-1.6.1-alt3.x86_64.rpm", 
+    "pkg": "celestia-kde", 
+    "pkg_version": "1.6.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "celestia_1.6.1+dfsg-2_all.deb", 
+    "pkg": "celestia", 
+    "pkg_version": "1.6.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "celestia-kde-1.6.1-alt3.x86_64.rpm", 
+    "pkg": "celestia-kde", 
+    "pkg_version": "1.6.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "celestia-1.6.1-18.fc22.x86_64.rpm", 
+    "pkg": "celestia", 
+    "pkg_version": "1.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "celestia-kde-1.6.1-alt3.x86_64.rpm", 
+    "pkg": "celestia-kde", 
+    "pkg_version": "1.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "celestia-1.6.1-18.fc22.x86_64.rpm", 
+    "pkg": "celestia", 
+    "pkg_version": "1.6.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "celestia-kde-1.6.1-alt3.x86_64.rpm", 
+    "pkg": "celestia-kde", 
+    "pkg_version": "1.6.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "celestia-1.6.1-18.fc21.x86_64.rpm", 
+    "pkg": "celestia", 
+    "pkg_version": "1.6.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "celestia-kde-1.6.1-alt3.x86_64.rpm", 
+    "pkg": "celestia-kde", 
+    "pkg_version": "1.6.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "celestia-1.6.1-15.fc20.x86_64.rpm", 
+    "pkg": "celestia", 
+    "pkg_version": "1.6.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "celestia-kde-1.6.1-alt3.x86_64.rpm", 
+    "pkg": "celestia-kde", 
+    "pkg_version": "1.6.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "celestia-1.6.1-2-omv2014.1.x86_64.rpm", 
+    "pkg": "celestia", 
+    "pkg_version": "1.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "celestia-kde-1.6.1-alt3.x86_64.rpm", 
+    "pkg": "celestia-kde", 
+    "pkg_version": "1.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kde3-celestia-1.6.1-18.2.x86_64.rpm", 
+    "pkg": "kde3-celestia", 
+    "pkg_version": "1.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "celestia-1.6.1-2-omv2014.1.x86_64.rpm", 
+    "pkg": "celestia", 
+    "pkg_version": "1.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "celestia-kde-1.6.1-alt3.x86_64.rpm", 
+    "pkg": "celestia-kde", 
+    "pkg_version": "1.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kde3-celestia-1.6.1-17.1.10.x86_64.rpm", 
+    "pkg": "kde3-celestia", 
+    "pkg_version": "1.6.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "celestia-1.6.1-2-omv2014.1.x86_64.rpm", 
+    "pkg": "celestia", 
+    "pkg_version": "1.6.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "celestia-kde-1.6.1-alt3.x86_64.rpm", 
+    "pkg": "celestia-kde", 
+    "pkg_version": "1.6.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kde3-celestia-1.6.1-15.1.4.i586.rpm", 
+    "pkg": "kde3-celestia", 
+    "pkg_version": "1.6.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "celestia-1.6.1-2-omv2014.1.x86_64.rpm", 
+    "pkg": "celestia", 
+    "pkg_version": "1.6.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "celestia-kde-1.6.1-alt3.x86_64.rpm", 
+    "pkg": "celestia-kde", 
+    "pkg_version": "1.6.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kde3-celestia-1.6.1-15.1.4.i586.rpm", 
+    "pkg": "kde3-celestia", 
+    "pkg_version": "1.6.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "celestia-1.6.1-4-rosa2014.1.x86_64.rpm", 
+    "pkg": "celestia", 
+    "pkg_version": "1.6.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "celestia-kde-1.6.1-alt3.x86_64.rpm", 
+    "pkg": "celestia-kde", 
+    "pkg_version": "1.6.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kde3-celestia-1.6.1-15.1.4.i586.rpm", 
+    "pkg": "kde3-celestia", 
+    "pkg_version": "1.6.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "celestia-1.6.1-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "celestia", 
+    "pkg_version": "1.6.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "celestia-kde-1.6.1-alt3.x86_64.rpm", 
+    "pkg": "celestia-kde", 
+    "pkg_version": "1.6.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kde3-celestia-1.6.1-15.1.4.i586.rpm", 
+    "pkg": "kde3-celestia", 
+    "pkg_version": "1.6.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "celestia-1.6.1-x86_64-1sl.txz", 
+    "pkg": "celestia", 
+    "pkg_version": "1.6.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "celestia-kde-1.6.1-alt3.x86_64.rpm", 
+    "pkg": "celestia-kde", 
+    "pkg_version": "1.6.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kde3-celestia-1.6.1-15.1.4.i586.rpm", 
+    "pkg": "kde3-celestia", 
+    "pkg_version": "1.6.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "celestia-1.6.1-i486-3sl.txz", 
+    "pkg": "celestia", 
+    "pkg_version": "1.6.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "celestia-kde-1.6.1-alt3.x86_64.rpm", 
+    "pkg": "celestia-kde", 
+    "pkg_version": "1.6.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kde3-celestia-1.6.1-15.1.4.i586.rpm", 
+    "pkg": "kde3-celestia", 
+    "pkg_version": "1.6.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "celestia-1.6.1-x86_64-1sl.txz", 
+    "pkg": "celestia", 
+    "pkg_version": "1.6.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "celestia-kde-1.6.1-alt3.x86_64.rpm", 
+    "pkg": "celestia-kde", 
+    "pkg_version": "1.6.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kde3-celestia-1.6.1-15.1.4.i586.rpm", 
+    "pkg": "kde3-celestia", 
+    "pkg_version": "1.6.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "celestia_1.6.1+dfsg-3_all.deb", 
+    "pkg": "celestia", 
+    "pkg_version": "1.6.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "celestia-kde-1.6.1-alt3.x86_64.rpm", 
+    "pkg": "celestia-kde", 
+    "pkg_version": "1.6.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kde3-celestia-1.6.1-15.1.4.i586.rpm", 
+    "pkg": "kde3-celestia", 
+    "pkg_version": "1.6.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "celestia_1.6.1+dfsg-3_all.deb", 
+    "pkg": "celestia", 
+    "pkg_version": "1.6.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "celestia-kde-1.6.1-alt3.x86_64.rpm", 
+    "pkg": "celestia-kde", 
+    "pkg_version": "1.6.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

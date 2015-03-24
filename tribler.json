@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tribler_6.3.1+git20140902.9a5a2604-3_all.deb", 
+    "pkg": "tribler", 
+    "pkg_version": "6.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "tribler-6.4.0-5.1.noarch.rpm", 
+    "pkg": "tribler", 
+    "pkg_version": "6.4.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "tribler-6.4.0-5.1.noarch.rpm", 
+    "pkg": "tribler", 
+    "pkg_version": "6.4.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "tribler_6.2.0+git20130731.149555fa-2_all.deb", 
+    "pkg": "tribler", 
+    "pkg_version": "6.2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,209 @@
+[
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "libmp3lame0-3.99.3-23.el7.x86_64.rpm", 
+    "pkg": "libmp3lame0", 
+    "pkg_version": "3.9", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "NauLinux School", 
+    "pkg_full_name": "libmp3lame0-3.99.3-23.el6.x86_64.rpm", 
+    "pkg": "libmp3lame0", 
+    "pkg_version": "3.9", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "lame-3.99.5-1.el6.rf.x86_64.rpm", 
+    "pkg": "lame", 
+    "pkg_version": "3.9", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "libmp3lame0-3.99.3-23.el5.x86_64.rpm", 
+    "pkg": "libmp3lame0", 
+    "pkg_version": "3.9", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "lame-3.99.5-1.el5.rf.x86_64.rpm", 
+    "pkg": "lame", 
+    "pkg_version": "3.9", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libmp3lame0_3.99.5-dmo3_i386.deb", 
+    "pkg": "libmp3lame0", 
+    "pkg_version": "3.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "lame-3.99.5-1.el5.rf.x86_64.rpm", 
+    "pkg": "lame", 
+    "pkg_version": "3.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libmp3lame0_3.99.5-dmo3_i386.deb", 
+    "pkg": "libmp3lame0", 
+    "pkg_version": "3.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "lame-3.99.5-1.el5.rf.x86_64.rpm", 
+    "pkg": "lame", 
+    "pkg_version": "3.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libmp3lame0_3.99.5-dmo2_i386.deb", 
+    "pkg": "libmp3lame0", 
+    "pkg_version": "3.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "lame-3.99.5-1.el5.rf.x86_64.rpm", 
+    "pkg": "lame", 
+    "pkg_version": "3.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "libmp3lame0-3.99.3-23.fc20.x86_64.rpm", 
+    "pkg": "libmp3lame0", 
+    "pkg_version": "3.9", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "lame-3.99.5-1.el5.rf.x86_64.rpm", 
+    "pkg": "lame", 
+    "pkg_version": "3.9", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "VLC", 
+    "pkg_full_name": "libmp3lame0-3.99.5-1.126.x86_64.rpm", 
+    "pkg": "libmp3lame0", 
+    "pkg_version": "3.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "lame-3.99.5-1.el5.rf.x86_64.rpm", 
+    "pkg": "lame", 
+    "pkg_version": "3.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "VLC", 
+    "pkg_full_name": "libmp3lame0-3.99.5-1.1.x86_64.rpm", 
+    "pkg": "libmp3lame0", 
+    "pkg_version": "3.9", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "lame-3.99.5-1.el5.rf.x86_64.rpm", 
+    "pkg": "lame", 
+    "pkg_version": "3.9", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "VLC", 
+    "pkg_full_name": "libmp3lame0-3.99.5-1.2.x86_64.rpm", 
+    "pkg": "libmp3lame0", 
+    "pkg_version": "3.9", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "lame-3.99.5-1.el5.rf.x86_64.rpm", 
+    "pkg": "lame", 
+    "pkg_version": "3.9", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libmp3lame0_3.99.5+repack1-3ubuntu1_i386.deb", 
+    "pkg": "libmp3lame0", 
+    "pkg_version": "3.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "lame-3.99.5-1.el5.rf.x86_64.rpm", 
+    "pkg": "lame", 
+    "pkg_version": "3.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libmp3lame0_3.99.5+repack1-3ubuntu1_i386.deb", 
+    "pkg": "libmp3lame0", 
+    "pkg_version": "3.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "lame-3.99.5-1.el5.rf.x86_64.rpm", 
+    "pkg": "lame", 
+    "pkg_version": "3.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

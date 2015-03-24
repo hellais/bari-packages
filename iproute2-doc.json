@@ -1,0 +1,118 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "iproute2-doc-3.14.0-alt1.noarch.rpm", 
+    "pkg": "iproute2-doc", 
+    "pkg_version": "3.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "iproute2-doc_3.16.0-2_all.deb", 
+    "pkg": "iproute2-doc", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "iproute2-doc_3.16.0-2_all.deb", 
+    "pkg": "iproute2-doc", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "iproute2-doc_3.16.0-2~bpo70+1_all.deb", 
+    "pkg": "iproute2-doc", 
+    "pkg_version": "3.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "iproute2-doc-3.18.0-1-omv2015.0.x86_64.rpm", 
+    "pkg": "iproute2-doc", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "iproute2-doc-3.9.0-6-omv2014.0.x86_64.rpm", 
+    "pkg": "iproute2-doc", 
+    "pkg_version": "3.9.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "iproute2-doc-3.9.0-1-omv2013.0.x86_64.rpm", 
+    "pkg": "iproute2-doc", 
+    "pkg_version": "3.9.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "iproute2-doc-3.19-1.1.noarch.rpm", 
+    "pkg": "iproute2-doc", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "iproute2-doc-3.16-2.4.1.noarch.rpm", 
+    "pkg": "iproute2-doc", 
+    "pkg_version": "3.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "iproute2-doc-3.9.0-3.1.2.noarch.rpm", 
+    "pkg": "iproute2-doc", 
+    "pkg_version": "3.9.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "iproute2-doc-3.5.1-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "iproute2-doc", 
+    "pkg_version": "3.5.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "iproute2-doc-3.5.1-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "iproute2-doc", 
+    "pkg_version": "3.5.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "iproute2-doc_3.16.0-2_all.deb", 
+    "pkg": "iproute2-doc", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

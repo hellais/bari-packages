@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lcmaps-plugins-basic-bandn_1.6.1-3_i386.deb", 
+    "pkg": "lcmaps-plugins-basic-bandn", 
+    "pkg_version": "1.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lcmaps-plugins-basic-bandn_1.6.1-3_i386.deb", 
+    "pkg": "lcmaps-plugins-basic-bandn", 
+    "pkg_version": "1.6.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "lcmaps-plugins-basic-bandn_1.6.1-3_i386.deb", 
+    "pkg": "lcmaps-plugins-basic-bandn", 
+    "pkg_version": "1.6.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

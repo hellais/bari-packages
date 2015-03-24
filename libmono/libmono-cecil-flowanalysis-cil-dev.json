@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmono-cecil-flowanalysis-cil-dev_0.1~vcs20110809.r1.b34edf6-2_all.deb", 
+    "pkg": "libmono-cecil-flowanalysis-cil-dev", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmono-cecil-flowanalysis-cil-dev_0.1~vcs20110809.r1.b34edf6-2_all.deb", 
+    "pkg": "libmono-cecil-flowanalysis-cil-dev", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmono-cecil-flowanalysis-cil-dev_0.1~vcs20110809.r1.b34edf6-2_all.deb", 
+    "pkg": "libmono-cecil-flowanalysis-cil-dev", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libmono-cecil-flowanalysis-cil-dev_0.1~vcs20110809.r1.b34edf6-2_all.deb", 
+    "pkg": "libmono-cecil-flowanalysis-cil-dev", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libmono-cecil-flowanalysis-cil-dev_0.1~vcs20110809.r1.b34edf6-2_all.deb", 
+    "pkg": "libmono-cecil-flowanalysis-cil-dev", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

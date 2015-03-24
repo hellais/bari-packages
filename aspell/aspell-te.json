@@ -1,0 +1,199 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "aspell-te-0.01-alt2_12.x86_64.rpm", 
+    "pkg": "aspell-te", 
+    "pkg_version": "0.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "aspell-te-0.01-3.el5.x86_64.rpm", 
+    "pkg": "aspell-te", 
+    "pkg_version": "0.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "aspell-te_0.01-2-5_all.deb", 
+    "pkg": "aspell-te", 
+    "pkg_version": "0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "aspell-te_0.01-2-5_all.deb", 
+    "pkg": "aspell-te", 
+    "pkg_version": "0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "aspell-te_0.01-2-5_all.deb", 
+    "pkg": "aspell-te", 
+    "pkg_version": "0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "aspell-te-0.01-12.fc22.x86_64.rpm", 
+    "pkg": "aspell-te", 
+    "pkg_version": "0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "aspell-te-0.01-12.fc22.x86_64.rpm", 
+    "pkg": "aspell-te", 
+    "pkg_version": "0.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "aspell-te-0.01-12.fc21.x86_64.rpm", 
+    "pkg": "aspell-te", 
+    "pkg_version": "0.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "aspell-te-0.01-10.fc20.x86_64.rpm", 
+    "pkg": "aspell-te", 
+    "pkg_version": "0.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "aspell-te-0.60.0-6-omv2013.0.x86_64.rpm", 
+    "pkg": "aspell-te", 
+    "pkg_version": "0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "aspell-te-0.60.0-6-omv2013.0.x86_64.rpm", 
+    "pkg": "aspell-te", 
+    "pkg_version": "0.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "aspell-te-0.60.0-6-omv2013.0.x86_64.rpm", 
+    "pkg": "aspell-te", 
+    "pkg_version": "0.6", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "aspell-te-0.01.2-47.1.x86_64.rpm", 
+    "pkg": "aspell-te", 
+    "pkg_version": "0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "aspell-te-0.01.2-46.1.2.x86_64.rpm", 
+    "pkg": "aspell-te", 
+    "pkg_version": "0.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "aspell-te-0.01.2-42.1.2.i586.rpm", 
+    "pkg": "aspell-te", 
+    "pkg_version": "0.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "aspell-te-0.60.0-7-rosa2014.1.x86_64.rpm", 
+    "pkg": "aspell-te", 
+    "pkg_version": "0.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "aspell-te-0.60.0-6-rosa2012.1.x86_64.rpm", 
+    "pkg": "aspell-te", 
+    "pkg_version": "0.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackware Extra", 
+    "pkg_full_name": "aspell-te-0.01_2-noarch-4.txz", 
+    "pkg": "aspell-te", 
+    "pkg_version": "0.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware Extra", 
+    "pkg_full_name": "aspell-te-0.01_2-noarch-4.txz", 
+    "pkg": "aspell-te", 
+    "pkg_version": "0.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware Extra", 
+    "pkg_full_name": "aspell-te-0.01_2-noarch-4.txz", 
+    "pkg": "aspell-te", 
+    "pkg_version": "0.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "aspell-te_0.01-2-5_all.deb", 
+    "pkg": "aspell-te", 
+    "pkg_version": "0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "aspell-te_0.01-2-5_all.deb", 
+    "pkg": "aspell-te", 
+    "pkg_version": "0.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

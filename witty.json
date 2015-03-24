@@ -1,0 +1,452 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwtfcgi38_3.3.3+dfsg-4.1_i386.deb", 
+    "pkg": "libwtfcgi38", 
+    "pkg_version": "3.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwtext38_3.3.3+dfsg-4.1_i386.deb", 
+    "pkg": "libwtext38", 
+    "pkg_version": "3.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwt38_3.3.3+dfsg-4.1_i386.deb", 
+    "pkg": "libwt38", 
+    "pkg_version": "3.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "witty_3.3.3+dfsg-4.1_all.deb", 
+    "pkg": "witty", 
+    "pkg_version": "3.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwttest8_3.3.3+dfsg-4.1_i386.deb", 
+    "pkg": "libwttest8", 
+    "pkg_version": "3.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwthttp38_3.3.3+dfsg-4.1_i386.deb", 
+    "pkg": "libwthttp38", 
+    "pkg_version": "3.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwtfcgi38_3.3.3+dfsg-4.1_i386.deb", 
+    "pkg": "libwtfcgi38", 
+    "pkg_version": "3.3.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwtext38_3.3.3+dfsg-4.1_i386.deb", 
+    "pkg": "libwtext38", 
+    "pkg_version": "3.3.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwt38_3.3.3+dfsg-4.1_i386.deb", 
+    "pkg": "libwt38", 
+    "pkg_version": "3.3.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "witty_3.3.3+dfsg-4.1_all.deb", 
+    "pkg": "witty", 
+    "pkg_version": "3.3.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwttest8_3.3.3+dfsg-4.1_i386.deb", 
+    "pkg": "libwttest8", 
+    "pkg_version": "3.3.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwthttp38_3.3.3+dfsg-4.1_i386.deb", 
+    "pkg": "libwthttp38", 
+    "pkg_version": "3.3.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwt32_3.2.1-2+deb7u1_i386.deb", 
+    "pkg": "libwt32", 
+    "pkg_version": "3.2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwtfcgi38_3.3.3+dfsg-4.1_i386.deb", 
+    "pkg": "libwtfcgi38", 
+    "pkg_version": "3.3.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwtext38_3.3.3+dfsg-4.1_i386.deb", 
+    "pkg": "libwtext38", 
+    "pkg_version": "3.3.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwtfcgi32_3.2.1-2+deb7u1_i386.deb", 
+    "pkg": "libwtfcgi32", 
+    "pkg_version": "3.2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwt38_3.3.3+dfsg-4.1_i386.deb", 
+    "pkg": "libwt38", 
+    "pkg_version": "3.3.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "witty_3.2.1-2+deb7u1_all.deb", 
+    "pkg": "witty", 
+    "pkg_version": "3.2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwthttp32_3.2.1-2+deb7u1_i386.deb", 
+    "pkg": "libwthttp32", 
+    "pkg_version": "3.2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwttest8_3.3.3+dfsg-4.1_i386.deb", 
+    "pkg": "libwttest8", 
+    "pkg_version": "3.3.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwthttp38_3.3.3+dfsg-4.1_i386.deb", 
+    "pkg": "libwthttp38", 
+    "pkg_version": "3.3.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwttest2_3.2.1-2+deb7u1_i386.deb", 
+    "pkg": "libwttest2", 
+    "pkg_version": "3.2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwtext32_3.2.1-2+deb7u1_i386.deb", 
+    "pkg": "libwtext32", 
+    "pkg_version": "3.2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwt32_3.2.1-2+deb7u1_i386.deb", 
+    "pkg": "libwt32", 
+    "pkg_version": "3.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libwtfcgi38_3.3.3+dfsg-4_i386.deb", 
+    "pkg": "libwtfcgi38", 
+    "pkg_version": "3.3.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libwtext38_3.3.3+dfsg-4_i386.deb", 
+    "pkg": "libwtext38", 
+    "pkg_version": "3.3.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwtfcgi32_3.2.1-2+deb7u1_i386.deb", 
+    "pkg": "libwtfcgi32", 
+    "pkg_version": "3.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libwt38_3.3.3+dfsg-4_i386.deb", 
+    "pkg": "libwt38", 
+    "pkg_version": "3.3.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "witty_3.3.3+dfsg-4_all.deb", 
+    "pkg": "witty", 
+    "pkg_version": "3.3.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwthttp32_3.2.1-2+deb7u1_i386.deb", 
+    "pkg": "libwthttp32", 
+    "pkg_version": "3.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libwttest8_3.3.3+dfsg-4_i386.deb", 
+    "pkg": "libwttest8", 
+    "pkg_version": "3.3.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libwthttp38_3.3.3+dfsg-4_i386.deb", 
+    "pkg": "libwthttp38", 
+    "pkg_version": "3.3.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwttest2_3.2.1-2+deb7u1_i386.deb", 
+    "pkg": "libwttest2", 
+    "pkg_version": "3.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwtext32_3.2.1-2+deb7u1_i386.deb", 
+    "pkg": "libwtext32", 
+    "pkg_version": "3.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwt32_3.2.1-2+deb7u1_i386.deb", 
+    "pkg": "libwt32", 
+    "pkg_version": "3.2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libwtfcgi38_3.3.3+dfsg-4_i386.deb", 
+    "pkg": "libwtfcgi38", 
+    "pkg_version": "3.3.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libwtext38_3.3.3+dfsg-4_i386.deb", 
+    "pkg": "libwtext38", 
+    "pkg_version": "3.3.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libwt35_3.3.0-1build1_i386.deb", 
+    "pkg": "libwt35", 
+    "pkg_version": "3.3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwtfcgi32_3.2.1-2+deb7u1_i386.deb", 
+    "pkg": "libwtfcgi32", 
+    "pkg_version": "3.2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libwt38_3.3.3+dfsg-4_i386.deb", 
+    "pkg": "libwt38", 
+    "pkg_version": "3.3.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libwtfcgi35_3.3.0-1build1_i386.deb", 
+    "pkg": "libwtfcgi35", 
+    "pkg_version": "3.3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "witty_3.3.0-1build1_all.deb", 
+    "pkg": "witty", 
+    "pkg_version": "3.3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwthttp32_3.2.1-2+deb7u1_i386.deb", 
+    "pkg": "libwthttp32", 
+    "pkg_version": "3.2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libwttest8_3.3.3+dfsg-4_i386.deb", 
+    "pkg": "libwttest8", 
+    "pkg_version": "3.3.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libwthttp35_3.3.0-1build1_i386.deb", 
+    "pkg": "libwthttp35", 
+    "pkg_version": "3.3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libwthttp38_3.3.3+dfsg-4_i386.deb", 
+    "pkg": "libwthttp38", 
+    "pkg_version": "3.3.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwttest2_3.2.1-2+deb7u1_i386.deb", 
+    "pkg": "libwttest2", 
+    "pkg_version": "3.2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libwtext35_3.3.0-1build1_i386.deb", 
+    "pkg": "libwtext35", 
+    "pkg_version": "3.3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwtext32_3.2.1-2+deb7u1_i386.deb", 
+    "pkg": "libwtext32", 
+    "pkg_version": "3.2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libwttest5_3.3.0-1build1_i386.deb", 
+    "pkg": "libwttest5", 
+    "pkg_version": "3.3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

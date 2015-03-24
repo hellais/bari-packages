@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "golang-mux-dev_0.0~git20140505.1.136d54f-2_all.deb", 
+    "pkg": "golang-mux-dev", 
+    "pkg_version": "0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "golang-mux-dev_0.0~git20140505.1.136d54f-2_all.deb", 
+    "pkg": "golang-mux-dev", 
+    "pkg_version": "0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "golang-mux-dev_0.0~git20140505.1.136d54f-2_all.deb", 
+    "pkg": "golang-mux-dev", 
+    "pkg_version": "0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

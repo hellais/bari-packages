@@ -1,0 +1,172 @@
+[
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "kobodeluxe-0.5.1-4-x86_64.pkg.tar.xz", 
+    "pkg": "kobodeluxe", 
+    "pkg_version": "0.5.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "kobodeluxe-0.4-0.pre10.el5.rf.x86_64.rpm", 
+    "pkg": "kobodeluxe", 
+    "pkg_version": "0.4", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kobodeluxe_0.5.1-6_i386.deb", 
+    "pkg": "kobodeluxe", 
+    "pkg_version": "0.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kobodeluxe_0.5.1-6_i386.deb", 
+    "pkg": "kobodeluxe", 
+    "pkg_version": "0.5.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kobodeluxe_0.5.1-6_i386.deb", 
+    "pkg": "kobodeluxe", 
+    "pkg_version": "0.5.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "kobodeluxe-0.5.1-11.mga5.x86_64.rpm", 
+    "pkg": "kobodeluxe", 
+    "pkg_version": "0.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "skobo-0.5.1-14-omv2015.0.x86_64.rpm", 
+    "pkg": "skobo", 
+    "pkg_version": "0.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "kobodeluxe-0.5.1-11.mga5.x86_64.rpm", 
+    "pkg": "kobodeluxe", 
+    "pkg_version": "0.5.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "skobo-0.5.1-11-omv2014.0.x86_64.rpm", 
+    "pkg": "skobo", 
+    "pkg_version": "0.5.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "kobodeluxe-0.5.1-11.mga5.x86_64.rpm", 
+    "pkg": "kobodeluxe", 
+    "pkg_version": "0.5.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "skobo-0.5.1-6-omv2013.0.x86_64.rpm", 
+    "pkg": "skobo", 
+    "pkg_version": "0.5.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "kobodeluxe-0.5.1-11.mga5.x86_64.rpm", 
+    "pkg": "kobodeluxe", 
+    "pkg_version": "0.5.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "skobo-0.5.1-7-rosa2014.1.x86_64.rpm", 
+    "pkg": "skobo", 
+    "pkg_version": "0.5.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "kobodeluxe-0.5.1-11.mga5.x86_64.rpm", 
+    "pkg": "kobodeluxe", 
+    "pkg_version": "0.5.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "skobo-0.5.1-6-rosa2012.1.x86_64.rpm", 
+    "pkg": "skobo", 
+    "pkg_version": "0.5.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "kobodeluxe_0.5.1-6_i386.deb", 
+    "pkg": "kobodeluxe", 
+    "pkg_version": "0.5.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "skobo-0.5.1-6-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "skobo", 
+    "pkg_version": "0.5.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "kobodeluxe_0.5.1-6_i386.deb", 
+    "pkg": "kobodeluxe", 
+    "pkg_version": "0.5.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "skobo-0.5.1-6-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "skobo", 
+    "pkg_version": "0.5.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,163 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vobcopy-1.2.0-alt3.x86_64.rpm", 
+    "pkg": "vobcopy", 
+    "pkg_version": "1.2.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "vobcopy-1.1.2-1.el6.rf.x86_64.rpm", 
+    "pkg": "vobcopy", 
+    "pkg_version": "1.1.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "vobcopy-1.1.2-1.el5.rf.x86_64.rpm", 
+    "pkg": "vobcopy", 
+    "pkg_version": "1.1.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vobcopy_1.2.0-5_i386.deb", 
+    "pkg": "vobcopy", 
+    "pkg_version": "1.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vobcopy_1.2.0-5_i386.deb", 
+    "pkg": "vobcopy", 
+    "pkg_version": "1.2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "vobcopy_1.2.0-2_i386.deb", 
+    "pkg": "vobcopy", 
+    "pkg_version": "1.2.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "vobcopy-1.2.0-5.fc21.x86_64.rpm", 
+    "pkg": "vobcopy", 
+    "pkg_version": "1.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "vobcopy-1.2.0-5.fc21.x86_64.rpm", 
+    "pkg": "vobcopy", 
+    "pkg_version": "1.2.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "vobcopy-1.2.0-4.fc19.x86_64.rpm", 
+    "pkg": "vobcopy", 
+    "pkg_version": "1.2.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "vobcopy-1.2.0-3.3.x86_64.rpm", 
+    "pkg": "vobcopy", 
+    "pkg_version": "1.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "vobcopy-1.2.0-3.2.x86_64.rpm", 
+    "pkg": "vobcopy", 
+    "pkg_version": "1.2.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Restricted", 
+    "pkg_full_name": "vobcopy-1.2.0-2-plf2014.1.x86_64.rpm", 
+    "pkg": "vobcopy", 
+    "pkg_version": "1.2.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Restricted", 
+    "pkg_full_name": "vobcopy-1.2.0-2-plf2012.1.x86_64.rpm", 
+    "pkg": "vobcopy", 
+    "pkg_version": "1.2.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "vobcopy-1.2.0-x86_64-2sl.txz", 
+    "pkg": "vobcopy", 
+    "pkg_version": "1.2.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "vobcopy-1.2.0-x86_64-1sl.txz", 
+    "pkg": "vobcopy", 
+    "pkg_version": "1.2.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "vobcopy-1.2.0-x86_64-1sl.txz", 
+    "pkg": "vobcopy", 
+    "pkg_version": "1.2.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "vobcopy_1.2.0-5_i386.deb", 
+    "pkg": "vobcopy", 
+    "pkg_version": "1.2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "vobcopy_1.2.0-5_i386.deb", 
+    "pkg": "vobcopy", 
+    "pkg_version": "1.2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

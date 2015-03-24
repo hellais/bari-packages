@@ -1,0 +1,10 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "nfstrace-0.3.1-alt1.x86_64.rpm", 
+    "pkg": "nfstrace", 
+    "pkg_version": "0.3.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }
+]

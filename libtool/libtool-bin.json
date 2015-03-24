@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtool-bin_2.4.2-1.11_i386.deb", 
+    "pkg": "libtool-bin", 
+    "pkg_version": "2.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtool-bin_2.4.2-1.11_i386.deb", 
+    "pkg": "libtool-bin", 
+    "pkg_version": "2.4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

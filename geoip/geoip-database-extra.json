@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Contrib", 
+    "pkg_full_name": "geoip-database-contrib_1.17+nmu1_all.deb", 
+    "pkg": "geoip-database-contrib", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

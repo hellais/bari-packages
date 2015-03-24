@@ -1,0 +1,271 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "inadyn-mt-2.24.40-alt1_3.x86_64.rpm", 
+    "pkg": "inadyn-mt", 
+    "pkg_version": "2.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "inadyn-mt-2.24.38-1.el6.nux.x86_64.rpm", 
+    "pkg": "inadyn-mt", 
+    "pkg_version": "2.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "inadyn-1.96-3.el5.x86_64.rpm", 
+    "pkg": "inadyn", 
+    "pkg_version": "1.9", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "inadyn-mt-2.24.38-1.el6.nux.x86_64.rpm", 
+    "pkg": "inadyn-mt", 
+    "pkg_version": "2.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "inadyn_1.99.4-1_i386.deb", 
+    "pkg": "inadyn", 
+    "pkg_version": "1.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "inadyn-mt-2.24.38-1.el6.nux.x86_64.rpm", 
+    "pkg": "inadyn-mt", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "inadyn_1.99.4-1_i386.deb", 
+    "pkg": "inadyn", 
+    "pkg_version": "1.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "inadyn-mt-2.24.38-1.el6.nux.x86_64.rpm", 
+    "pkg": "inadyn-mt", 
+    "pkg_version": "2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "inadyn_1.96.2-1+b1_i386.deb", 
+    "pkg": "inadyn", 
+    "pkg_version": "1.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "inadyn-mt-2.24.38-1.el6.nux.x86_64.rpm", 
+    "pkg": "inadyn-mt", 
+    "pkg_version": "2.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "inadyn_1.96.2-1+b1_i386.deb", 
+    "pkg": "inadyn", 
+    "pkg_version": "1.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "inadyn-mt-2.24.44-1.fc22.x86_64.rpm", 
+    "pkg": "inadyn-mt", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "inadyn_1.96.2-1+b1_i386.deb", 
+    "pkg": "inadyn", 
+    "pkg_version": "1.9", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "inadyn-mt-2.24.44-1.fc22.x86_64.rpm", 
+    "pkg": "inadyn-mt", 
+    "pkg_version": "2.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "inadyn_1.96.2-1+b1_i386.deb", 
+    "pkg": "inadyn", 
+    "pkg_version": "1.9", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "inadyn-mt-2.24.44-1.fc21.x86_64.rpm", 
+    "pkg": "inadyn-mt", 
+    "pkg_version": "2.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "inadyn_1.96.2-1+b1_i386.deb", 
+    "pkg": "inadyn", 
+    "pkg_version": "1.9", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "inadyn-mt-2.24.44-1.fc20.x86_64.rpm", 
+    "pkg": "inadyn-mt", 
+    "pkg_version": "2.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "inadyn-1.98.0-5-omv2015.0.x86_64.rpm", 
+    "pkg": "inadyn", 
+    "pkg_version": "1.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "inadyn-mt-2.24.44-1.fc20.x86_64.rpm", 
+    "pkg": "inadyn-mt", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "inadyn-1.98.0-5-rosa2014.1.x86_64.rpm", 
+    "pkg": "inadyn", 
+    "pkg_version": "1.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "inadyn-mt-2.24.44-1.fc20.x86_64.rpm", 
+    "pkg": "inadyn-mt", 
+    "pkg_version": "2.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "inadyn-1.98.0-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "inadyn", 
+    "pkg_version": "1.9", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "inadyn-mt-2.24.44-1.fc20.x86_64.rpm", 
+    "pkg": "inadyn-mt", 
+    "pkg_version": "2.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackel", 
+    "pkg_full_name": "inadyn-1.96.3-x86_64-1dj.txz", 
+    "pkg": "inadyn", 
+    "pkg_version": "1.9", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "inadyn-mt-2.24.44-1.fc20.x86_64.rpm", 
+    "pkg": "inadyn-mt", 
+    "pkg_version": "2.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "inadyn_1.99.4-1_i386.deb", 
+    "pkg": "inadyn", 
+    "pkg_version": "1.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "inadyn-mt-2.24.44-1.fc20.x86_64.rpm", 
+    "pkg": "inadyn-mt", 
+    "pkg_version": "2.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "inadyn_1.99.4-1_i386.deb", 
+    "pkg": "inadyn", 
+    "pkg_version": "1.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "inadyn-mt-2.24.44-1.fc20.x86_64.rpm", 
+    "pkg": "inadyn-mt", 
+    "pkg_version": "2.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

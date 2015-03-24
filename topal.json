@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "topal-72-3.62.x86_64.rpm", 
+    "pkg": "topal-72", 
+    "pkg_version": "3.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "topal-72-3.10.x86_64.rpm", 
+    "pkg": "topal-72", 
+    "pkg_version": "3.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "topal-72-3.10.x86_64.rpm", 
+    "pkg": "topal-72", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "topal-72-3.10.x86_64.rpm", 
+    "pkg": "topal-72", 
+    "pkg_version": "3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

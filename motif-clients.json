@@ -1,0 +1,198 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "lesstif-clients-0.95.2-alt3.x86_64.rpm", 
+    "pkg": "lesstif-clients", 
+    "pkg_version": "0.9", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "openmotif-clients-2.3.3-alt4.1.x86_64.rpm", 
+    "pkg": "openmotif-clients", 
+    "pkg_version": "2.3.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "lesstif-clients-0.95.2-alt3.x86_64.rpm", 
+    "pkg": "lesstif-clients", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "openmotif-clients-2.3.3-alt4.1.x86_64.rpm", 
+    "pkg": "openmotif-clients", 
+    "pkg_version": "2.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mwm_2.3.4-6+b1_i386.deb", 
+    "pkg": "mwm", 
+    "pkg_version": "2.3.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "motif-clients_2.3.4-6_all.deb", 
+    "pkg": "motif-clients", 
+    "pkg_version": "2.3.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "lesstif-clients-0.95.2-alt3.x86_64.rpm", 
+    "pkg": "lesstif-clients", 
+    "pkg_version": "0.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "openmotif-clients-2.3.3-alt4.1.x86_64.rpm", 
+    "pkg": "openmotif-clients", 
+    "pkg_version": "2.3.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mwm_2.3.4-6+b1_i386.deb", 
+    "pkg": "mwm", 
+    "pkg_version": "2.3.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "motif-clients_2.3.4-6_all.deb", 
+    "pkg": "motif-clients", 
+    "pkg_version": "2.3.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "lesstif-clients-0.95.2-alt3.x86_64.rpm", 
+    "pkg": "lesstif-clients", 
+    "pkg_version": "0.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "openmotif-clients-2.3.3-alt4.1.x86_64.rpm", 
+    "pkg": "openmotif-clients", 
+    "pkg_version": "2.3.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mwm_2.3.4-6+b1_i386.deb", 
+    "pkg": "mwm", 
+    "pkg_version": "2.3.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Nonfree", 
+    "pkg_full_name": "motif-clients_2.3.3-8_i386.deb", 
+    "pkg": "motif-clients", 
+    "pkg_version": "2.3.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "lesstif-clients-0.95.2-alt3.x86_64.rpm", 
+    "pkg": "lesstif-clients", 
+    "pkg_version": "0.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "openmotif-clients-2.3.3-alt4.1.x86_64.rpm", 
+    "pkg": "openmotif-clients", 
+    "pkg_version": "2.3.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mwm_2.3.4-6_i386.deb", 
+    "pkg": "mwm", 
+    "pkg_version": "2.3.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "motif-clients_2.3.4-6_all.deb", 
+    "pkg": "motif-clients", 
+    "pkg_version": "2.3.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "lesstif-clients-0.95.2-alt3.x86_64.rpm", 
+    "pkg": "lesstif-clients", 
+    "pkg_version": "0.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "openmotif-clients-2.3.3-alt4.1.x86_64.rpm", 
+    "pkg": "openmotif-clients", 
+    "pkg_version": "2.3.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mwm_2.3.4-5_i386.deb", 
+    "pkg": "mwm", 
+    "pkg_version": "2.3.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "motif-clients_2.3.4-5_all.deb", 
+    "pkg": "motif-clients", 
+    "pkg_version": "2.3.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

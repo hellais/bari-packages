@@ -1,0 +1,110 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcamd2.3.1_4.2.1-3_i386.deb", 
+    "pkg": "libcamd", 
+    "pkg_version": "2.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcamd2.3.1_4.2.1-3_i386.deb", 
+    "pkg": "libcamd", 
+    "pkg_version": "2.3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "libcamd2-4.2.1-8.mga4.i586.rpm", 
+    "pkg": "libcamd2", 
+    "pkg_version": "4.2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "libcamd2.3.1-2.3.1-1-omv2013.0.i586.rpm", 
+    "pkg": "libcamd", 
+    "pkg_version": "2.3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "libcamd2-4.2.1-8.mga4.i586.rpm", 
+    "pkg": "libcamd2", 
+    "pkg_version": "4.2.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "libcamd2.3.1-2.3.1-1-omv2013.0.i586.rpm", 
+    "pkg": "libcamd", 
+    "pkg_version": "2.3.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "libcamd2-4.2.1-8.mga4.i586.rpm", 
+    "pkg": "libcamd2", 
+    "pkg_version": "4.2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "libcamd2.3.1-2.3.1-2-rosa2014.1.i586.rpm", 
+    "pkg": "libcamd", 
+    "pkg_version": "2.3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "libcamd2-4.2.1-8.mga4.i586.rpm", 
+    "pkg": "libcamd2", 
+    "pkg_version": "4.2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "libcamd2.3.1-2.3.1-1-rosa2012.1.i586.rpm", 
+    "pkg": "libcamd", 
+    "pkg_version": "2.3.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "libcamd2-4.2.1-8.mga4.i586.rpm", 
+    "pkg": "libcamd2", 
+    "pkg_version": "4.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libcamd2.3.1_4.2.1-3ubuntu1_i386.deb", 
+    "pkg": "libcamd", 
+    "pkg_version": "2.3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

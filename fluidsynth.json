@@ -1,0 +1,225 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "fluidsynth-1.1.6-alt2.x86_64.rpm", 
+    "pkg": "fluidsynth", 
+    "pkg_version": "1.1.6", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "fluidsynth-1.1.6-4-x86_64.pkg.tar.xz", 
+    "pkg": "fluidsynth", 
+    "pkg_version": "1.1.6", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "fluidsynth-1.1.6-4.el7.nux.x86_64.rpm", 
+    "pkg": "fluidsynth", 
+    "pkg_version": "1.1.6", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS", 
+    "pkg_full_name": "fluidsynth-1.1.3-1.puias6.x86_64.rpm", 
+    "pkg": "fluidsynth", 
+    "pkg_version": "1.1.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Scientific Linux Cyrillic Edition", 
+    "pkg_full_name": "fluidsynth-1.0.7-8.a.Nau5x.i386.rpm", 
+    "pkg": "fluidsynth", 
+    "pkg_version": "1.0.7", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fluidsynth_1.1.6-2_i386.deb", 
+    "pkg": "fluidsynth", 
+    "pkg_version": "1.1.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fluidsynth_1.1.6-2_i386.deb", 
+    "pkg": "fluidsynth", 
+    "pkg_version": "1.1.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fluidsynth_1.1.5-2_i386.deb", 
+    "pkg": "fluidsynth", 
+    "pkg_version": "1.1.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "fluidsynth-1.1.6-5.fc22.x86_64.rpm", 
+    "pkg": "fluidsynth", 
+    "pkg_version": "1.1.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "fluidsynth-1.1.6-5.fc22.x86_64.rpm", 
+    "pkg": "fluidsynth", 
+    "pkg_version": "1.1.6", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "fluidsynth-1.1.6-5.fc21.x86_64.rpm", 
+    "pkg": "fluidsynth", 
+    "pkg_version": "1.1.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "fluidsynth-1.1.6-4.fc20.x86_64.rpm", 
+    "pkg": "fluidsynth", 
+    "pkg_version": "1.1.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "fluidsynth-1.1.6-12-omv2015.0.x86_64.rpm", 
+    "pkg": "fluidsynth", 
+    "pkg_version": "1.1.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "fluidsynth-1.1.6-6-omv2014.0.x86_64.rpm", 
+    "pkg": "fluidsynth", 
+    "pkg_version": "1.1.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "fluidsynth-1.1.6-5-omv2013.0.x86_64.rpm", 
+    "pkg": "fluidsynth", 
+    "pkg_version": "1.1.6", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "fluidsynth-1.1.6-8.2.x86_64.rpm", 
+    "pkg": "fluidsynth", 
+    "pkg_version": "1.1.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "fluidsynth-1.1.6-7.1.4.x86_64.rpm", 
+    "pkg": "fluidsynth", 
+    "pkg_version": "1.1.6", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "fluidsynth-1.1.6-5.1.2.i586.rpm", 
+    "pkg": "fluidsynth", 
+    "pkg_version": "1.1.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "fluidsynth-1.1.6-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "fluidsynth", 
+    "pkg_version": "1.1.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "fluidsynth-1.1.6-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "fluidsynth", 
+    "pkg_version": "1.1.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "fluidsynth-1.1.6-x86_64-1sl.txz", 
+    "pkg": "fluidsynth", 
+    "pkg_version": "1.1.6", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "fluidsynth-1.1.3-x86_64-1sl.txz", 
+    "pkg": "fluidsynth", 
+    "pkg_version": "1.1.3", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "fluidsynth-1.1.3-x86_64-1sl.txz", 
+    "pkg": "fluidsynth", 
+    "pkg_version": "1.1.3", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "fluidsynth_1.1.6-2_i386.deb", 
+    "pkg": "fluidsynth", 
+    "pkg_version": "1.1.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "fluidsynth_1.1.6-2_i386.deb", 
+    "pkg": "fluidsynth", 
+    "pkg_version": "1.1.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

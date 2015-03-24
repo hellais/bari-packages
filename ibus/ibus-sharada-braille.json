@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ibus-sharada-braille_0.1.2.99+git0.c90ffb02-2_i386.deb", 
+    "pkg": "ibus-sharada-braille", 
+    "pkg_version": "0.1.2.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmodule-manifest-skip-perl_0.23-1_all.deb", 
+    "pkg": "libmodule-manifest-skip-perl", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmodule-manifest-skip-perl_0.23-1_all.deb", 
+    "pkg": "libmodule-manifest-skip-perl", 
+    "pkg_version": "0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libmodule-manifest-skip-perl_0.16-1_all.deb", 
+    "pkg": "libmodule-manifest-skip-perl", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libmodule-manifest-skip-perl_0.17-2_all.deb", 
+    "pkg": "libmodule-manifest-skip-perl", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

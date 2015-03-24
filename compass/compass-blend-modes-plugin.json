@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "compass-blend-modes-plugin_0.0.2~20130918-1_all.deb", 
+    "pkg": "compass-blend-modes-plugin", 
+    "pkg_version": "0.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

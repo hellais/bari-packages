@@ -1,0 +1,334 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-bzrtools-2.6.0-alt1.x86_64.rpm", 
+    "pkg": "python-module-bzrtools", 
+    "pkg_version": "2.6.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-bzrtools-2.6.0-alt1.x86_64.rpm", 
+    "pkg": "python-module-bzrtools", 
+    "pkg_version": "2.6.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "bzrtools-2.5-5.el7.x86_64.rpm", 
+    "pkg": "bzrtools", 
+    "pkg_version": "2.5", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-bzrtools-2.6.0-alt1.x86_64.rpm", 
+    "pkg": "python-module-bzrtools", 
+    "pkg_version": "2.6.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "bzrtools-2.1.0-1.el6.x86_64.rpm", 
+    "pkg": "bzrtools", 
+    "pkg_version": "2.1.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-bzrtools-2.6.0-alt1.x86_64.rpm", 
+    "pkg": "python-module-bzrtools", 
+    "pkg_version": "2.6.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "bzrtools-2.3.0-1.el5.rf.x86_64.rpm", 
+    "pkg": "bzrtools", 
+    "pkg_version": "2.3.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-bzrtools-2.6.0-alt1.x86_64.rpm", 
+    "pkg": "python-module-bzrtools", 
+    "pkg_version": "2.6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bzrtools_2.6.0-2_all.deb", 
+    "pkg": "bzrtools", 
+    "pkg_version": "2.6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-bzrtools-2.6.0-alt1.x86_64.rpm", 
+    "pkg": "python-module-bzrtools", 
+    "pkg_version": "2.6.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bzrtools_2.6.0-2_all.deb", 
+    "pkg": "bzrtools", 
+    "pkg_version": "2.6.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-bzrtools-2.6.0-alt1.x86_64.rpm", 
+    "pkg": "python-module-bzrtools", 
+    "pkg_version": "2.6.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bzrtools_2.5+bzr786-2_all.deb", 
+    "pkg": "bzrtools", 
+    "pkg_version": "2.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-bzrtools-2.6.0-alt1.x86_64.rpm", 
+    "pkg": "python-module-bzrtools", 
+    "pkg_version": "2.6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "bzrtools-2.6.0-3.fc22.x86_64.rpm", 
+    "pkg": "bzrtools", 
+    "pkg_version": "2.6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-bzrtools-2.6.0-alt1.x86_64.rpm", 
+    "pkg": "python-module-bzrtools", 
+    "pkg_version": "2.6.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "bzrtools-2.6.0-3.fc22.x86_64.rpm", 
+    "pkg": "bzrtools", 
+    "pkg_version": "2.6.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-bzrtools-2.6.0-alt1.x86_64.rpm", 
+    "pkg": "python-module-bzrtools", 
+    "pkg_version": "2.6.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "bzrtools-2.6.0-3.fc21.x86_64.rpm", 
+    "pkg": "bzrtools", 
+    "pkg_version": "2.6.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-bzrtools-2.6.0-alt1.x86_64.rpm", 
+    "pkg": "python-module-bzrtools", 
+    "pkg_version": "2.6.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "bzrtools-2.6.0-1.fc20.x86_64.rpm", 
+    "pkg": "bzrtools", 
+    "pkg_version": "2.6.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-bzrtools-2.6.0-alt1.x86_64.rpm", 
+    "pkg": "python-module-bzrtools", 
+    "pkg_version": "2.6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "bzrtools-2.6.0-1-omv2014.1.noarch.rpm", 
+    "pkg": "bzrtools", 
+    "pkg_version": "2.6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-bzrtools-2.6.0-alt1.x86_64.rpm", 
+    "pkg": "python-module-bzrtools", 
+    "pkg_version": "2.6.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "bzrtools-2.6.0-1-omv2014.0.noarch.rpm", 
+    "pkg": "bzrtools", 
+    "pkg_version": "2.6.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-bzrtools-2.6.0-alt1.x86_64.rpm", 
+    "pkg": "python-module-bzrtools", 
+    "pkg_version": "2.6.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "bzrtools-2.5-2-omv2013.0.noarch.rpm", 
+    "pkg": "bzrtools", 
+    "pkg_version": "2.5", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-bzrtools-2.6.0-alt1.x86_64.rpm", 
+    "pkg": "python-module-bzrtools", 
+    "pkg_version": "2.6.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "bzrtools-2.5-2-rosa2014.1.noarch.rpm", 
+    "pkg": "bzrtools", 
+    "pkg_version": "2.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-bzrtools-2.6.0-alt1.x86_64.rpm", 
+    "pkg": "python-module-bzrtools", 
+    "pkg_version": "2.6.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "bzrtools-2.5-1-rosa2012.1.noarch.rpm", 
+    "pkg": "bzrtools", 
+    "pkg_version": "2.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-bzrtools-2.6.0-alt1.x86_64.rpm", 
+    "pkg": "python-module-bzrtools", 
+    "pkg_version": "2.6.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackers", 
+    "pkg_full_name": "bzrtools-2.6.0-x86_64-1cf.txz", 
+    "pkg": "bzrtools", 
+    "pkg_version": "2.6.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-bzrtools-2.6.0-alt1.x86_64.rpm", 
+    "pkg": "python-module-bzrtools", 
+    "pkg_version": "2.6.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "bzrtools_2.6.0-2_all.deb", 
+    "pkg": "bzrtools", 
+    "pkg_version": "2.6.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "python-module-bzrtools-2.6.0-alt1.x86_64.rpm", 
+    "pkg": "python-module-bzrtools", 
+    "pkg_version": "2.6.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "bzrtools_2.6.0-1_all.deb", 
+    "pkg": "bzrtools", 
+    "pkg_version": "2.6.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "igtf-policy-unaccredited_1.62-1_all.deb", 
+    "pkg": "igtf-policy-unaccredited", 
+    "pkg_version": "1.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "igtf-policy-unaccredited_1.59-1_all.deb", 
+    "pkg": "igtf-policy-unaccredited", 
+    "pkg_version": "1.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

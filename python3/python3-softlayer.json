@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-softlayer_3.2.0-2_all.deb", 
+    "pkg": "python3-softlayer", 
+    "pkg_version": "3.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

@@ -1,0 +1,199 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnu-efi-3.0r-alt2.x86_64.rpm", 
+    "pkg": "gnu-efi", 
+    "pkg_version": "3.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "gnu-efi-3.0u-2.el7.x86_64.rpm", 
+    "pkg": "gnu-efi", 
+    "pkg_version": "3.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "gnu-efi-3.0g-2.el6.x86_64.rpm", 
+    "pkg": "gnu-efi", 
+    "pkg_version": "3.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "gnu-efi-3.0c-1.1.i386.rpm", 
+    "pkg": "gnu-efi", 
+    "pkg_version": "3.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnu-efi_3.0v-5_i386.deb", 
+    "pkg": "gnu-efi", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnu-efi_3.0v-5_i386.deb", 
+    "pkg": "gnu-efi", 
+    "pkg_version": "3.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnu-efi_3.0i-3_i386.deb", 
+    "pkg": "gnu-efi", 
+    "pkg_version": "3.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnu-efi-3.0.1-1.fc23.x86_64.rpm", 
+    "pkg": "gnu-efi", 
+    "pkg_version": "3.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnu-efi-3.0w-2.fc22.x86_64.rpm", 
+    "pkg": "gnu-efi", 
+    "pkg_version": "3.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnu-efi-3.0u-0.4.fc21.x86_64.rpm", 
+    "pkg": "gnu-efi", 
+    "pkg_version": "3.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnu-efi-3.0u-0.2.fc20.x86_64.rpm", 
+    "pkg": "gnu-efi", 
+    "pkg_version": "3.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gnu-efi-3.0.1-1-omv2015.0.x86_64.rpm", 
+    "pkg": "gnu-efi", 
+    "pkg_version": "3.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gnu-efi-3.0v-1-omv2014.0.x86_64.rpm", 
+    "pkg": "gnu-efi", 
+    "pkg_version": "3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gnu-efi-3.0t-1-omv2013.0.x86_64.rpm", 
+    "pkg": "gnu-efi", 
+    "pkg_version": "3.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gnu-efi-3.0w-1.2.x86_64.rpm", 
+    "pkg": "gnu-efi", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gnu-efi-3.0u-4.1.2.x86_64.rpm", 
+    "pkg": "gnu-efi", 
+    "pkg_version": "3.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "gnu-efi-3.0u-2.5.1.x86_64.rpm", 
+    "pkg": "gnu-efi", 
+    "pkg_version": "3.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "gnu-efi-3.0u-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "gnu-efi", 
+    "pkg_version": "3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "gnu-efi-3.0u-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "gnu-efi", 
+    "pkg_version": "3.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "gnu-efi-3.0s-x86_64-1.txz", 
+    "pkg": "gnu-efi", 
+    "pkg_version": "3.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "gnu-efi_3.0u+debian-4ubuntu1_i386.deb", 
+    "pkg": "gnu-efi", 
+    "pkg_version": "3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "gnu-efi_3.0u+debian-1ubuntu2_i386.deb", 
+    "pkg": "gnu-efi", 
+    "pkg_version": "3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

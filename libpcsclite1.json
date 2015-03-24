@@ -1,0 +1,227 @@
+[
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "libpcsclite1-1.4.0-9.el6.x86_64.rpm", 
+    "pkg": "libpcsclite1", 
+    "pkg_version": "1.4.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "libpcsclite1-1.4.0-9.0.el5.x86_64.rpm", 
+    "pkg": "libpcsclite1", 
+    "pkg_version": "1.4.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpcsclite1_1.8.13-1_i386.deb", 
+    "pkg": "libpcsclite1", 
+    "pkg_version": "1.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpcsclite1_1.8.13-1_i386.deb", 
+    "pkg": "libpcsclite1", 
+    "pkg_version": "1.8.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpcsclite1_1.8.4-1+deb7u1_i386.deb", 
+    "pkg": "libpcsclite1", 
+    "pkg_version": "1.8.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libpcsclite1-1.8.13-2-omv2015.0.i586.rpm", 
+    "pkg": "libpcsclite1", 
+    "pkg_version": "1.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lib64pcsclite1-1.8.13-2-omv2015.0.x86_64.rpm", 
+    "pkg": "lib64pcsclite1", 
+    "pkg_version": "1.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libpcsclite1-1.8.8-6-omv2014.0.i586.rpm", 
+    "pkg": "libpcsclite1", 
+    "pkg_version": "1.8.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lib64pcsclite1-1.8.8-6-omv2014.0.x86_64.rpm", 
+    "pkg": "lib64pcsclite1", 
+    "pkg_version": "1.8.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libpcsclite1-1.8.8-1-omv2013.0.i586.rpm", 
+    "pkg": "libpcsclite1", 
+    "pkg_version": "1.8.8", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lib64pcsclite1-1.8.8-1-omv2013.0.x86_64.rpm", 
+    "pkg": "lib64pcsclite1", 
+    "pkg_version": "1.8.8", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libpcsclite1-1.8.13-2.1.x86_64.rpm", 
+    "pkg": "libpcsclite1", 
+    "pkg_version": "1.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lib64pcsclite1-1.8.8-1-omv2013.0.x86_64.rpm", 
+    "pkg": "lib64pcsclite1", 
+    "pkg_version": "1.8.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "libpcsclite1-1.8.11-4.4.1.x86_64.rpm", 
+    "pkg": "libpcsclite1", 
+    "pkg_version": "1.8.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lib64pcsclite1-1.8.8-1-omv2013.0.x86_64.rpm", 
+    "pkg": "lib64pcsclite1", 
+    "pkg_version": "1.8.8", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libpcsclite1-1.8.8-4.1.2.i586.rpm", 
+    "pkg": "libpcsclite1", 
+    "pkg_version": "1.8.8", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lib64pcsclite1-1.8.8-1-omv2013.0.x86_64.rpm", 
+    "pkg": "lib64pcsclite1", 
+    "pkg_version": "1.8.8", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "libpcsclite1-1.8.10-3-rosa2014.1.i586.rpm", 
+    "pkg": "libpcsclite1", 
+    "pkg_version": "1.8.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "lib64pcsclite1-1.8.10-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "lib64pcsclite1", 
+    "pkg_version": "1.8.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libpcsclite1-1.8.6-1-rosa2012.1.i586.rpm", 
+    "pkg": "libpcsclite1", 
+    "pkg_version": "1.8.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "lib64pcsclite1-1.8.6-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "lib64pcsclite1", 
+    "pkg_version": "1.8.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libpcsclite1_1.8.11-3ubuntu1_i386.deb", 
+    "pkg": "libpcsclite1", 
+    "pkg_version": "1.8.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "lib64pcsclite1-1.6.6-3-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "lib64pcsclite1", 
+    "pkg_version": "1.6.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libpcsclite1_1.8.10-1ubuntu1_i386.deb", 
+    "pkg": "libpcsclite1", 
+    "pkg_version": "1.8.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "lib64pcsclite1-1.6.6-3-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "lib64pcsclite1", 
+    "pkg_version": "1.6.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

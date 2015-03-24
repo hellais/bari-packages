@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "transcode-doc_1.1.7-dmo11_all.deb", 
+    "pkg": "transcode-doc", 
+    "pkg_version": "1.1.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "transcode-doc_1.1.7-dmo11_all.deb", 
+    "pkg": "transcode-doc", 
+    "pkg_version": "1.1.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "transcode-doc_1.1.7-dmo4_all.deb", 
+    "pkg": "transcode-doc", 
+    "pkg_version": "1.1.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Multiverse", 
+    "pkg_full_name": "transcode-doc_1.1.7-9build2_all.deb", 
+    "pkg": "transcode-doc", 
+    "pkg_version": "1.1.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Multiverse", 
+    "pkg_full_name": "transcode-doc_1.1.7-8_all.deb", 
+    "pkg": "transcode-doc", 
+    "pkg_version": "1.1.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

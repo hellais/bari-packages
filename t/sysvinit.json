@@ -1,0 +1,703 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "sysvinit-2.88-alt5.x86_64.rpm", 
+    "pkg": "sysvinit", 
+    "pkg_version": "2.8", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "sysvinit-2.88-alt5.x86_64.rpm", 
+    "pkg": "sysvinit", 
+    "pkg_version": "2.8", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "upstart-0.6.5-13.el6_5.3.x86_64.rpm", 
+    "pkg": "upstart", 
+    "pkg_version": "0.6.5", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sysvinit_2.88dsf-58_i386.deb", 
+    "pkg": "sysvinit", 
+    "pkg_version": "2.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "upstart-0.6.5-13.el6_5.3.x86_64.rpm", 
+    "pkg": "upstart", 
+    "pkg_version": "0.6.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sysvinit_2.88dsf-58_i386.deb", 
+    "pkg": "sysvinit", 
+    "pkg_version": "2.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "upstart-0.6.5-13.el6_5.3.x86_64.rpm", 
+    "pkg": "upstart", 
+    "pkg_version": "0.6.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sysvinit_2.88dsf-41+deb7u1_i386.deb", 
+    "pkg": "sysvinit", 
+    "pkg_version": "2.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "upstart-0.6.5-13.el6_5.3.x86_64.rpm", 
+    "pkg": "upstart", 
+    "pkg_version": "0.6.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sysvinit_2.88dsf-41+deb7u1_i386.deb", 
+    "pkg": "sysvinit", 
+    "pkg_version": "2.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "upstart-0.6.5-13.el6_5.3.x86_64.rpm", 
+    "pkg": "upstart", 
+    "pkg_version": "0.6.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-219-10-omv2015.0.x86_64.rpm", 
+    "pkg": "systemd-219-10-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core Updates", 
+    "pkg_full_name": "systemd-208-10.5.mga4.x86_64.rpm", 
+    "pkg": "systemd-208-1", 
+    "pkg_version": "0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sysvinit_2.88dsf-41+deb7u1_i386.deb", 
+    "pkg": "sysvinit", 
+    "pkg_version": "2.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "upstart-0.6.5-13.el6_5.3.x86_64.rpm", 
+    "pkg": "upstart", 
+    "pkg_version": "0.6.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-208-19-omv2014.0.x86_64.rpm", 
+    "pkg": "systemd-208-19-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-219-10-omv2015.0.x86_64.rpm", 
+    "pkg": "systemd-219-10-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "systemd-208-19.13-omv2014.0.x86_64.rpm", 
+    "pkg": "systemd-208-1", 
+    "pkg_version": "9.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-208-7-omv2013.0.x86_64.rpm", 
+    "pkg": "systemd-208-7-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-219-10-omv2015.0.x86_64.rpm", 
+    "pkg": "systemd-219-10-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "upstart-0.6.5-13.el6_5.3.x86_64.rpm", 
+    "pkg": "upstart", 
+    "pkg_version": "0.6.5", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-208-19-omv2014.0.x86_64.rpm", 
+    "pkg": "systemd-208-19-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "sysvinit-2.87-16-mdv2013.0.x86_64.rpm", 
+    "pkg": "sysvinit", 
+    "pkg_version": "2.8", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "systemd-208-19.13-omv2014.0.x86_64.rpm", 
+    "pkg": "systemd-208-1", 
+    "pkg_version": "9.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "systemd-208-8-omv2013.0.x86_64.rpm", 
+    "pkg": "systemd-208-8-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-208-7-omv2013.0.x86_64.rpm", 
+    "pkg": "systemd-208-7-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-219-10-omv2015.0.x86_64.rpm", 
+    "pkg": "systemd-219-10-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "upstart-0.6.5-13.el6_5.3.x86_64.rpm", 
+    "pkg": "upstart", 
+    "pkg_version": "0.6.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-208-19-omv2014.0.x86_64.rpm", 
+    "pkg": "systemd-208-19-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "sysvinit-2.88+-89.1.2.i586.rpm", 
+    "pkg": "sysvinit", 
+    "pkg_version": "2.8", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "systemd-208-19.13-omv2014.0.x86_64.rpm", 
+    "pkg": "systemd-208-1", 
+    "pkg_version": "9.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "systemd-208-8-omv2013.0.x86_64.rpm", 
+    "pkg": "systemd-208-8-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-208-7-omv2013.0.x86_64.rpm", 
+    "pkg": "systemd-208-7-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-219-10-omv2015.0.x86_64.rpm", 
+    "pkg": "systemd-219-10-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "systemd-sysvinit-208-38.1-rosa2014.1.x86_64.rpm", 
+    "pkg": "systemd-sysvinit-208-3", 
+    "pkg_version": "8.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "upstart-0.6.5-13.el6_5.3.x86_64.rpm", 
+    "pkg": "upstart", 
+    "pkg_version": "0.6.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-208-19-omv2014.0.x86_64.rpm", 
+    "pkg": "systemd-208-19-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "sysvinit-2.88+-89.1.2.i586.rpm", 
+    "pkg": "sysvinit", 
+    "pkg_version": "2.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "systemd-208-19.13-omv2014.0.x86_64.rpm", 
+    "pkg": "systemd-208-1", 
+    "pkg_version": "9.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "systemd-sysvinit-208-36-rosa2014.1.x86_64.rpm", 
+    "pkg": "systemd-sysvinit-208-36-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "systemd-208-8-omv2013.0.x86_64.rpm", 
+    "pkg": "systemd-208-8-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-208-7-omv2013.0.x86_64.rpm", 
+    "pkg": "systemd-208-7-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-219-10-omv2015.0.x86_64.rpm", 
+    "pkg": "systemd-219-10-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "systemd-sysvinit-208-38.1-rosa2014.1.x86_64.rpm", 
+    "pkg": "systemd-sysvinit-208-3", 
+    "pkg_version": "8.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "upstart-0.6.5-13.el6_5.3.x86_64.rpm", 
+    "pkg": "upstart", 
+    "pkg_version": "0.6.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-208-19-omv2014.0.x86_64.rpm", 
+    "pkg": "systemd-208-19-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "systemd-sysvinit-194-10-rosa2012.1.x86_64.rpm", 
+    "pkg": "systemd-sysvinit-194-10-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "sysvinit-2.87-16-rosa2012.1.x86_64.rpm", 
+    "pkg": "sysvinit", 
+    "pkg_version": "2.8", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "systemd-sysvinit-208-30-rosa2012.1.x86_64.rpm", 
+    "pkg": "systemd-sysvinit-208-30-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "systemd-208-19.13-omv2014.0.x86_64.rpm", 
+    "pkg": "systemd-208-1", 
+    "pkg_version": "9.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "systemd-sysvinit-208-36-rosa2014.1.x86_64.rpm", 
+    "pkg": "systemd-sysvinit-208-36-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "systemd-208-8-omv2013.0.x86_64.rpm", 
+    "pkg": "systemd-208-8-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-208-7-omv2013.0.x86_64.rpm", 
+    "pkg": "systemd-208-7-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "systemd-sysvinit-39-3-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "systemd-sysvinit-39-3-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-219-10-omv2015.0.x86_64.rpm", 
+    "pkg": "systemd-219-10-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "systemd-sysvinit-208-38.1-rosa2014.1.x86_64.rpm", 
+    "pkg": "systemd-sysvinit-208-3", 
+    "pkg_version": "8.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "upstart-0.6.5-13.el6_5.3.x86_64.rpm", 
+    "pkg": "upstart", 
+    "pkg_version": "0.6.5", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-208-19-omv2014.0.x86_64.rpm", 
+    "pkg": "systemd-208-19-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "systemd-sysvinit-194-10-rosa2012.1.x86_64.rpm", 
+    "pkg": "systemd-sysvinit-194-10-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "sysvinit-2.88dsf-x86_64-3.txz", 
+    "pkg": "sysvinit", 
+    "pkg_version": "2.8", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "systemd-sysvinit-208-30-rosa2012.1.x86_64.rpm", 
+    "pkg": "systemd-sysvinit-208-30-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "systemd-sysvinit-39-4-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "systemd-sysvinit-39-4-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "systemd-208-19.13-omv2014.0.x86_64.rpm", 
+    "pkg": "systemd-208-1", 
+    "pkg_version": "9.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "systemd-sysvinit-208-36-rosa2014.1.x86_64.rpm", 
+    "pkg": "systemd-sysvinit-208-36-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "systemd-208-8-omv2013.0.x86_64.rpm", 
+    "pkg": "systemd-208-8-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-208-7-omv2013.0.x86_64.rpm", 
+    "pkg": "systemd-208-7-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "systemd-sysvinit-39-3-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "systemd-sysvinit-39-3-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-219-10-omv2015.0.x86_64.rpm", 
+    "pkg": "systemd-219-10-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "systemd-sysvinit-208-38.1-rosa2014.1.x86_64.rpm", 
+    "pkg": "systemd-sysvinit-208-3", 
+    "pkg_version": "8.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "upstart-0.6.5-13.el6_5.3.x86_64.rpm", 
+    "pkg": "upstart", 
+    "pkg_version": "0.6.5", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "systemd-208-19-omv2014.0.x86_64.rpm", 
+    "pkg": "systemd-208-19-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "systemd-sysvinit-194-10-rosa2012.1.x86_64.rpm", 
+    "pkg": "systemd-sysvinit-194-10-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "sysvinit-2.88dsf-x86_64-2.txz", 
+    "pkg": "sysvinit", 
+    "pkg_version": "2.8", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "systemd-sysvinit-208-30-rosa2012.1.x86_64.rpm", 
+    "pkg": "systemd-sysvinit-208-30-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "systemd-sysvinit-39-4-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "systemd-sysvinit-39-4-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "systemd-208-19.13-omv2014.0.x86_64.rpm", 
+    "pkg": "systemd-208-1", 
+    "pkg_version": "9.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "systemd-sysvinit-208-36-rosa2014.1.x86_64.rpm", 
+    "pkg": "systemd-sysvinit-208-36-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "systemd-208-8-omv2013.0.x86_64.rpm", 
+    "pkg": "systemd-208-8-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }
+]

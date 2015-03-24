@@ -1,0 +1,874 @@
+[
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "python-twisted-15.0.0-1-x86_64.pkg.tar.xz", 
+    "pkg": "python-twisted-1", 
+    "pkg_version": "5.0.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "python-twisted-12.1.0-2.el7.nux.noarch.rpm", 
+    "pkg": "python-twisted-1", 
+    "pkg_version": "2.1.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "python-twisted-12.1.0-2.el7.nux.noarch.rpm", 
+    "pkg": "python-twisted-1", 
+    "pkg_version": "2.1.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "python-twisted-8.2.0-3.1.el6.noarch.rpm", 
+    "pkg": "python-twisted", 
+    "pkg_version": "8.2.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "python-twisted-core-8.2.0-1.el5.rf.x86_64.rpm", 
+    "pkg": "python-twisted-core", 
+    "pkg_version": "8.2.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "python-twisted-12.1.0-2.el7.nux.noarch.rpm", 
+    "pkg": "python-twisted-1", 
+    "pkg_version": "2.1.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "python-twisted-8.2.0-3.centos5.noarch.rpm", 
+    "pkg": "python-twisted", 
+    "pkg_version": "8.2.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "python-twisted-core-8.2.0-1.el5.rf.x86_64.rpm", 
+    "pkg": "python-twisted-core", 
+    "pkg_version": "8.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-twisted_14.0.2-3_all.deb", 
+    "pkg": "python-twisted_1", 
+    "pkg_version": "4.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "python-twisted-12.1.0-2.el7.nux.noarch.rpm", 
+    "pkg": "python-twisted-1", 
+    "pkg_version": "2.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "python-twisted-8.2.0-3.centos5.noarch.rpm", 
+    "pkg": "python-twisted", 
+    "pkg_version": "8.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "python-twisted-core-8.2.0-1.el5.rf.x86_64.rpm", 
+    "pkg": "python-twisted-core", 
+    "pkg_version": "8.2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-twisted_14.0.2-3_all.deb", 
+    "pkg": "python-twisted_1", 
+    "pkg_version": "4.0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "python-twisted-12.1.0-2.el7.nux.noarch.rpm", 
+    "pkg": "python-twisted-1", 
+    "pkg_version": "2.1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "python-twisted-8.2.0-3.centos5.noarch.rpm", 
+    "pkg": "python-twisted", 
+    "pkg_version": "8.2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "python-twisted-core-8.2.0-1.el5.rf.x86_64.rpm", 
+    "pkg": "python-twisted-core", 
+    "pkg_version": "8.2.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-twisted_12.0.0-1_all.deb", 
+    "pkg": "python-twisted_1", 
+    "pkg_version": "2.0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "python-twisted-12.1.0-2.el7.nux.noarch.rpm", 
+    "pkg": "python-twisted-1", 
+    "pkg_version": "2.1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "python-twisted-8.2.0-3.centos5.noarch.rpm", 
+    "pkg": "python-twisted", 
+    "pkg_version": "8.2.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "python-twisted-core-8.2.0-1.el5.rf.x86_64.rpm", 
+    "pkg": "python-twisted-core", 
+    "pkg_version": "8.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-twisted_12.0.0-1_all.deb", 
+    "pkg": "python-twisted_1", 
+    "pkg_version": "2.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-twisted-14.0.2-1.fc22.x86_64.rpm", 
+    "pkg": "python-twisted-1", 
+    "pkg_version": "4.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "python-twisted-8.2.0-3.centos5.noarch.rpm", 
+    "pkg": "python-twisted", 
+    "pkg_version": "8.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "python-twisted-core-8.2.0-1.el5.rf.x86_64.rpm", 
+    "pkg": "python-twisted-core", 
+    "pkg_version": "8.2.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-twisted_12.0.0-1_all.deb", 
+    "pkg": "python-twisted_1", 
+    "pkg_version": "2.0.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-twisted-14.0.2-1.fc22.x86_64.rpm", 
+    "pkg": "python-twisted-1", 
+    "pkg_version": "4.0.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "python-twisted-8.2.0-3.centos5.noarch.rpm", 
+    "pkg": "python-twisted", 
+    "pkg_version": "8.2.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "python-twisted-core-8.2.0-1.el5.rf.x86_64.rpm", 
+    "pkg": "python-twisted-core", 
+    "pkg_version": "8.2.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-twisted_12.0.0-1_all.deb", 
+    "pkg": "python-twisted_1", 
+    "pkg_version": "2.0.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python-twisted-14.0.2-1.fc21.x86_64.rpm", 
+    "pkg": "python-twisted-1", 
+    "pkg_version": "4.0.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "python-twisted-8.2.0-3.centos5.noarch.rpm", 
+    "pkg": "python-twisted", 
+    "pkg_version": "8.2.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "python-twisted-core-8.2.0-1.el5.rf.x86_64.rpm", 
+    "pkg": "python-twisted-core", 
+    "pkg_version": "8.2.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-twisted_12.0.0-1_all.deb", 
+    "pkg": "python-twisted_1", 
+    "pkg_version": "2.0.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-twisted-12.2.0-3.fc20.noarch.rpm", 
+    "pkg": "python-twisted-1", 
+    "pkg_version": "2.2.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "python-twisted-8.2.0-3.centos5.noarch.rpm", 
+    "pkg": "python-twisted", 
+    "pkg_version": "8.2.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "python-twisted-core-8.2.0-1.el5.rf.x86_64.rpm", 
+    "pkg": "python-twisted-core", 
+    "pkg_version": "8.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-twisted_12.0.0-1_all.deb", 
+    "pkg": "python-twisted_1", 
+    "pkg_version": "2.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-twisted-14.0.2-1-omv2015.0.x86_64.rpm", 
+    "pkg": "python-twisted-1", 
+    "pkg_version": "4.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "python-twisted-8.2.0-3.centos5.noarch.rpm", 
+    "pkg": "python-twisted", 
+    "pkg_version": "8.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "python-twisted-core-8.2.0-1.el5.rf.x86_64.rpm", 
+    "pkg": "python-twisted-core", 
+    "pkg_version": "8.2.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-twisted_12.0.0-1_all.deb", 
+    "pkg": "python-twisted_1", 
+    "pkg_version": "2.0.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-twisted-13.0.0-2-omv2014.0.noarch.rpm", 
+    "pkg": "python-twisted-1", 
+    "pkg_version": "3.0.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "python-twisted-8.2.0-3.centos5.noarch.rpm", 
+    "pkg": "python-twisted", 
+    "pkg_version": "8.2.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "python-twisted-core-8.2.0-1.el5.rf.x86_64.rpm", 
+    "pkg": "python-twisted-core", 
+    "pkg_version": "8.2.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-twisted_12.0.0-1_all.deb", 
+    "pkg": "python-twisted_1", 
+    "pkg_version": "2.0.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-twisted-13.0.0-1-omv2013.0.noarch.rpm", 
+    "pkg": "python-twisted-1", 
+    "pkg_version": "3.0.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "python-twisted-8.2.0-3.centos5.noarch.rpm", 
+    "pkg": "python-twisted", 
+    "pkg_version": "8.2.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-Twisted-15.0.0-1.1.x86_64.rpm", 
+    "pkg": "python-Twisted-1", 
+    "pkg_version": "5.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "python-twisted-core-8.2.0-1.el5.rf.x86_64.rpm", 
+    "pkg": "python-twisted-core", 
+    "pkg_version": "8.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-twisted_12.0.0-1_all.deb", 
+    "pkg": "python-twisted_1", 
+    "pkg_version": "2.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-twisted-13.0.0-1-omv2013.0.noarch.rpm", 
+    "pkg": "python-twisted-1", 
+    "pkg_version": "3.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "python-twisted-8.2.0-3.centos5.noarch.rpm", 
+    "pkg": "python-twisted", 
+    "pkg_version": "8.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-Twisted-13.2.0-3.1.4.x86_64.rpm", 
+    "pkg": "python-Twisted-1", 
+    "pkg_version": "3.2.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "python-twisted-core-8.2.0-1.el5.rf.x86_64.rpm", 
+    "pkg": "python-twisted-core", 
+    "pkg_version": "8.2.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-twisted_12.0.0-1_all.deb", 
+    "pkg": "python-twisted_1", 
+    "pkg_version": "2.0.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-twisted-13.0.0-1-omv2013.0.noarch.rpm", 
+    "pkg": "python-twisted-1", 
+    "pkg_version": "3.0.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "python-twisted-8.2.0-3.centos5.noarch.rpm", 
+    "pkg": "python-twisted", 
+    "pkg_version": "8.2.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "python-Twisted-13.2.0-2.4.1.x86_64.rpm", 
+    "pkg": "python-Twisted-1", 
+    "pkg_version": "3.2.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "python-twisted-core-8.2.0-1.el5.rf.x86_64.rpm", 
+    "pkg": "python-twisted-core", 
+    "pkg_version": "8.2.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-twisted_12.0.0-1_all.deb", 
+    "pkg": "python-twisted_1", 
+    "pkg_version": "2.0.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-twisted-13.0.0-1-omv2013.0.noarch.rpm", 
+    "pkg": "python-twisted-1", 
+    "pkg_version": "3.0.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "python-twisted-8.2.0-3.centos5.noarch.rpm", 
+    "pkg": "python-twisted", 
+    "pkg_version": "8.2.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "python-Twisted-13.2.0-2.4.1.x86_64.rpm", 
+    "pkg": "python-Twisted-1", 
+    "pkg_version": "3.2.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "python-twisted-core-8.2.0-1.el5.rf.x86_64.rpm", 
+    "pkg": "python-twisted-core", 
+    "pkg_version": "8.2.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-twisted_12.0.0-1_all.deb", 
+    "pkg": "python-twisted_1", 
+    "pkg_version": "2.0.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "python-twisted-13.1.0-2-rosa2014.1.noarch.rpm", 
+    "pkg": "python-twisted-1", 
+    "pkg_version": "3.1.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "python-twisted-8.2.0-3.centos5.noarch.rpm", 
+    "pkg": "python-twisted", 
+    "pkg_version": "8.2.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "python-Twisted-13.2.0-2.4.1.x86_64.rpm", 
+    "pkg": "python-Twisted-1", 
+    "pkg_version": "3.2.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "python-twisted-core-8.2.0-1.el5.rf.x86_64.rpm", 
+    "pkg": "python-twisted-core", 
+    "pkg_version": "8.2.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-twisted_12.0.0-1_all.deb", 
+    "pkg": "python-twisted_1", 
+    "pkg_version": "2.0.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "python-twisted-13.1.0-1-rosa2012.1.noarch.rpm", 
+    "pkg": "python-twisted-1", 
+    "pkg_version": "3.1.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "python-twisted-8.2.0-3.centos5.noarch.rpm", 
+    "pkg": "python-twisted", 
+    "pkg_version": "8.2.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "python-Twisted-13.2.0-2.4.1.x86_64.rpm", 
+    "pkg": "python-Twisted-1", 
+    "pkg_version": "3.2.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "python-twisted-core-8.2.0-1.el5.rf.x86_64.rpm", 
+    "pkg": "python-twisted-core", 
+    "pkg_version": "8.2.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-twisted_12.0.0-1_all.deb", 
+    "pkg": "python-twisted_1", 
+    "pkg_version": "2.0.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "python-twisted-13.0.0-x86_64-1rl.txz", 
+    "pkg": "python-twisted-1", 
+    "pkg_version": "3.0.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "python-twisted-8.2.0-3.centos5.noarch.rpm", 
+    "pkg": "python-twisted", 
+    "pkg_version": "8.2.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "python-Twisted-13.2.0-2.4.1.x86_64.rpm", 
+    "pkg": "python-Twisted-1", 
+    "pkg_version": "3.2.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "python-twisted-core-8.2.0-1.el5.rf.x86_64.rpm", 
+    "pkg": "python-twisted-core", 
+    "pkg_version": "8.2.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-twisted_12.0.0-1_all.deb", 
+    "pkg": "python-twisted_1", 
+    "pkg_version": "2.0.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ponce", 
+    "pkg_full_name": "python-twisted-12.1.0-x86_64-1ponce.txz", 
+    "pkg": "python-twisted-1", 
+    "pkg_version": "2.1.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "python-twisted-8.2.0-3.centos5.noarch.rpm", 
+    "pkg": "python-twisted", 
+    "pkg_version": "8.2.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "python-Twisted-13.2.0-2.4.1.x86_64.rpm", 
+    "pkg": "python-Twisted-1", 
+    "pkg_version": "3.2.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "python-twisted-core-8.2.0-1.el5.rf.x86_64.rpm", 
+    "pkg": "python-twisted-core", 
+    "pkg_version": "8.2.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-twisted_12.0.0-1_all.deb", 
+    "pkg": "python-twisted_1", 
+    "pkg_version": "2.0.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ponce", 
+    "pkg_full_name": "python-twisted-11.0.0-x86_64-1ponce.txz", 
+    "pkg": "python-twisted-1", 
+    "pkg_version": "1.0.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "python-twisted-8.2.0-3.centos5.noarch.rpm", 
+    "pkg": "python-twisted", 
+    "pkg_version": "8.2.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "python-Twisted-13.2.0-2.4.1.x86_64.rpm", 
+    "pkg": "python-Twisted-1", 
+    "pkg_version": "3.2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "python-twisted-core-8.2.0-1.el5.rf.x86_64.rpm", 
+    "pkg": "python-twisted-core", 
+    "pkg_version": "8.2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python-twisted_14.0.2-1ubuntu1_all.deb", 
+    "pkg": "python-twisted_1", 
+    "pkg_version": "4.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ponce", 
+    "pkg_full_name": "python-twisted-11.0.0-x86_64-1ponce.txz", 
+    "pkg": "python-twisted-1", 
+    "pkg_version": "1.0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "python-twisted-8.2.0-3.centos5.noarch.rpm", 
+    "pkg": "python-twisted", 
+    "pkg_version": "8.2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "python-Twisted-13.2.0-2.4.1.x86_64.rpm", 
+    "pkg": "python-Twisted-1", 
+    "pkg_version": "3.2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "python-twisted-core-8.2.0-1.el5.rf.x86_64.rpm", 
+    "pkg": "python-twisted-core", 
+    "pkg_version": "8.2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python-twisted_13.2.0-1ubuntu1_all.deb", 
+    "pkg": "python-twisted_1", 
+    "pkg_version": "3.2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ponce", 
+    "pkg_full_name": "python-twisted-11.0.0-x86_64-1ponce.txz", 
+    "pkg": "python-twisted-1", 
+    "pkg_version": "1.0.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "FlexBox", 
+    "pkg_full_name": "python-twisted-8.2.0-3.centos5.noarch.rpm", 
+    "pkg": "python-twisted", 
+    "pkg_version": "8.2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

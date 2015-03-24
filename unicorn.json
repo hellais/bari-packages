@@ -1,0 +1,55 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "unicorn-4.8.3-alt1.x86_64.rpm", 
+    "pkg": "unicorn", 
+    "pkg_version": "4.8.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "unicorn_4.8.3-1_i386.deb", 
+    "pkg": "unicorn", 
+    "pkg_version": "4.8.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "unicorn_4.8.3-1_i386.deb", 
+    "pkg": "unicorn", 
+    "pkg_version": "4.8.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "unicorn_4.3.1-4_i386.deb", 
+    "pkg": "unicorn", 
+    "pkg_version": "4.3.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ROSA Nonfree", 
+    "pkg_full_name": "unicorn-0.9.3-9-rosa2012.1.x86_64.rpm", 
+    "pkg": "unicorn", 
+    "pkg_version": "0.9.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "unicorn_4.8.3-1_i386.deb", 
+    "pkg": "unicorn", 
+    "pkg_version": "4.8.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

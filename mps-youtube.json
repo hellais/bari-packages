@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mps-youtube_0.01.46-3_i386.deb", 
+    "pkg": "mps-youtube", 
+    "pkg_version": "0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mps-youtube_0.01.46-3_i386.deb", 
+    "pkg": "mps-youtube", 
+    "pkg_version": "0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Freestylers", 
+    "pkg_full_name": "mps-youtube-0.01.44-x86_64-1_fs.tgz", 
+    "pkg": "mps-youtube", 
+    "pkg_version": "0.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }
+]

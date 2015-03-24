@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libevhtp-doc_1.2.9-1_all.deb", 
+    "pkg": "libevhtp-doc", 
+    "pkg_version": "1.2.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libevhtp-doc_1.2.9-1_all.deb", 
+    "pkg": "libevhtp-doc", 
+    "pkg_version": "1.2.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

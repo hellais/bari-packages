@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcollectdclient1_5.4.1-6_i386.deb", 
+    "pkg": "libcollectdclient1", 
+    "pkg_version": "5.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcollectdclient1_5.4.1-6_i386.deb", 
+    "pkg": "libcollectdclient1", 
+    "pkg_version": "5.4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libcollectdclient1-5.4.1-4.2.x86_64.rpm", 
+    "pkg": "libcollectdclient1", 
+    "pkg_version": "5.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libcollectdclient1-5.4.1-3.1.8.x86_64.rpm", 
+    "pkg": "libcollectdclient1", 
+    "pkg_version": "5.4.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libcollectdclient1-5.4.0-2.1.3.i586.rpm", 
+    "pkg": "libcollectdclient1", 
+    "pkg_version": "5.4.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libcollectdclient1_5.4.1-3ubuntu3_i386.deb", 
+    "pkg": "libcollectdclient1", 
+    "pkg_version": "5.4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

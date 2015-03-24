@@ -1,0 +1,163 @@
+[
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "cabal-install-1.22.0.0-1-x86_64.pkg.tar.xz", 
+    "pkg": "cabal-install", 
+    "pkg_version": "1.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "cabal-install-1.16.0.2-32.el7.x86_64.rpm", 
+    "pkg": "cabal-install", 
+    "pkg_version": "1.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "cabal-install-0.14.0-22.sdl6.x86_64.rpm", 
+    "pkg": "cabal-install", 
+    "pkg_version": "0.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "cabal-install-0.10.2-6.1.el5.x86_64.rpm", 
+    "pkg": "cabal-install", 
+    "pkg_version": "0.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cabal-install_1.20.0.3-1_i386.deb", 
+    "pkg": "cabal-install", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cabal-install_1.20.0.3-1_i386.deb", 
+    "pkg": "cabal-install", 
+    "pkg_version": "1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cabal-install_0.14.0-2_i386.deb", 
+    "pkg": "cabal-install", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "cabal-install-1.18.0.5-1.fc22.x86_64.rpm", 
+    "pkg": "cabal-install", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "cabal-install-1.18.0.5-1.fc22.x86_64.rpm", 
+    "pkg": "cabal-install", 
+    "pkg_version": "1.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "cabal-install-1.16.0.2-36.fc21.x86_64.rpm", 
+    "pkg": "cabal-install", 
+    "pkg_version": "1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "cabal-install-1.16.0.2-34.fc20.x86_64.rpm", 
+    "pkg": "cabal-install", 
+    "pkg_version": "1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "cabal-install-1.18.0.5-1.2.x86_64.rpm", 
+    "pkg": "cabal-install", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "cabal-install-1.16.0.2-5.1.2.x86_64.rpm", 
+    "pkg": "cabal-install", 
+    "pkg_version": "1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "cabal-install-1.16.0.2-2.1.2.i586.rpm", 
+    "pkg": "cabal-install", 
+    "pkg_version": "1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "cabal-install-1.16.0.2-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "cabal-install", 
+    "pkg_version": "1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "cabal-install-1.16.0.2-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "cabal-install", 
+    "pkg_version": "1.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "cabal-install_1.20.0.3-1_i386.deb", 
+    "pkg": "cabal-install", 
+    "pkg_version": "1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "cabal-install_1.16.0.2-2_i386.deb", 
+    "pkg": "cabal-install", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

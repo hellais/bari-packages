@@ -1,0 +1,803 @@
+[
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "libportaudio2-19-22.snapshot20140130.6.mga5.i586.rpm", 
+    "pkg": "libportaudio2-19-22.snapshot2014013", 
+    "pkg_version": "0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libportaudio2-19-29-omv2015.0.i586.rpm", 
+    "pkg": "libportaudio2-19-29-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lib64portaudio2-19-23-omv2014.0.x86_64.rpm", 
+    "pkg": "lib64portaudio2-19-23-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libportaudio2-19-23-omv2014.0.i586.rpm", 
+    "pkg": "libportaudio2-19-23-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "libportaudio2-19-22.snapshot20140130.6.mga5.i586.rpm", 
+    "pkg": "libportaudio2-19-22.snapshot2014013", 
+    "pkg_version": "0.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libportaudio2-19-29-omv2015.0.i586.rpm", 
+    "pkg": "libportaudio2-19-29-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lib64portaudio2-19-22-omv2013.0.x86_64.rpm", 
+    "pkg": "lib64portaudio2-19-22-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libportaudio2-19-23-omv2014.0.i586.rpm", 
+    "pkg": "libportaudio2-19-23-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libportaudio2-19-22-omv2013.0.i586.rpm", 
+    "pkg": "libportaudio2-19-22-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "libportaudio2-19-22.snapshot20140130.6.mga5.i586.rpm", 
+    "pkg": "libportaudio2-19-22.snapshot2014013", 
+    "pkg_version": "0.6", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lib64portaudio2-19-23-omv2014.0.x86_64.rpm", 
+    "pkg": "lib64portaudio2-19-23-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libportaudio2-19-29-omv2015.0.i586.rpm", 
+    "pkg": "libportaudio2-19-29-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lib64portaudio2-19-22-omv2013.0.x86_64.rpm", 
+    "pkg": "lib64portaudio2-19-22-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libportaudio2-19-23-omv2014.0.i586.rpm", 
+    "pkg": "libportaudio2-19-23-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libportaudio2-19-22-omv2013.0.i586.rpm", 
+    "pkg": "libportaudio2-19-22-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "libportaudio2-19-22.snapshot20140130.6.mga5.i586.rpm", 
+    "pkg": "libportaudio2-19-22.snapshot2014013", 
+    "pkg_version": "0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lib64portaudio2-19-23-omv2014.0.x86_64.rpm", 
+    "pkg": "lib64portaudio2-19-23-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libportaudio2-19_20140130-4.2.x86_64.rpm", 
+    "pkg": "libportaudio2-19_20140130", 
+    "pkg_version": "4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Multimedia Libs", 
+    "pkg_full_name": "libportaudio2-19_20140130-291.6.x86_64.rpm", 
+    "pkg": "libportaudio2-19_20140130-29", 
+    "pkg_version": "1.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libportaudio2-19-29-omv2015.0.i586.rpm", 
+    "pkg": "libportaudio2-19-29-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lib64portaudio2-19-22-omv2013.0.x86_64.rpm", 
+    "pkg": "lib64portaudio2-19-22-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libportaudio2-19-23-omv2014.0.i586.rpm", 
+    "pkg": "libportaudio2-19-23-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libportaudio2-19-22-omv2013.0.i586.rpm", 
+    "pkg": "libportaudio2-19-22-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "libportaudio2-19-22.snapshot20140130.6.mga5.i586.rpm", 
+    "pkg": "libportaudio2-19-22.snapshot2014013", 
+    "pkg_version": "0.6", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lib64portaudio2-19-23-omv2014.0.x86_64.rpm", 
+    "pkg": "lib64portaudio2-19-23-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libportaudio2-19_20140130-3.1.3.x86_64.rpm", 
+    "pkg": "libportaudio2-19_20140130", 
+    "pkg_version": "3.1.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Multimedia Libs", 
+    "pkg_full_name": "libportaudio2-19_20140130-291.1.x86_64.rpm", 
+    "pkg": "libportaudio2-19_20140130-29", 
+    "pkg_version": "1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libportaudio2-19-29-omv2015.0.i586.rpm", 
+    "pkg": "libportaudio2-19-29-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lib64portaudio2-19-22-omv2013.0.x86_64.rpm", 
+    "pkg": "lib64portaudio2-19-22-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libportaudio2-19-23-omv2014.0.i586.rpm", 
+    "pkg": "libportaudio2-19-23-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libportaudio2-19-22-omv2013.0.i586.rpm", 
+    "pkg": "libportaudio2-19-22-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "libportaudio2-19-22.snapshot20140130.6.mga5.i586.rpm", 
+    "pkg": "libportaudio2-19-22.snapshot2014013", 
+    "pkg_version": "0.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lib64portaudio2-19-23-omv2014.0.x86_64.rpm", 
+    "pkg": "lib64portaudio2-19-23-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libportaudio2-19_20140130-3.1.3.x86_64.rpm", 
+    "pkg": "libportaudio2-19_20140130", 
+    "pkg_version": "3.1.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Multimedia Libs", 
+    "pkg_full_name": "libportaudio2-19_20140130-291.5.x86_64.rpm", 
+    "pkg": "libportaudio2-19_20140130-29", 
+    "pkg_version": "1.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libportaudio2-19_20111121-7.1.2.i586.rpm", 
+    "pkg": "libportaudio2-19_20111121", 
+    "pkg_version": "7.1.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libportaudio2-19-29-omv2015.0.i586.rpm", 
+    "pkg": "libportaudio2-19-29-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libportaudio2-19-22-rosa2014.1.i586.rpm", 
+    "pkg": "libportaudio2-19-22-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lib64portaudio2-19-22-omv2013.0.x86_64.rpm", 
+    "pkg": "lib64portaudio2-19-22-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libportaudio2-19-23-omv2014.0.i586.rpm", 
+    "pkg": "libportaudio2-19-23-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libportaudio2-19-22-omv2013.0.i586.rpm", 
+    "pkg": "libportaudio2-19-22-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "lib64portaudio2-19-22-rosa2014.1.x86_64.rpm", 
+    "pkg": "lib64portaudio2-19-22-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "libportaudio2-19-22.snapshot20140130.6.mga5.i586.rpm", 
+    "pkg": "libportaudio2-19-22.snapshot2014013", 
+    "pkg_version": "0.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lib64portaudio2-19-23-omv2014.0.x86_64.rpm", 
+    "pkg": "lib64portaudio2-19-23-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libportaudio2-19_20140130-3.1.3.x86_64.rpm", 
+    "pkg": "libportaudio2-19_20140130", 
+    "pkg_version": "3.1.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Multimedia Libs", 
+    "pkg_full_name": "libportaudio2-19_20140130-291.5.x86_64.rpm", 
+    "pkg": "libportaudio2-19_20140130-29", 
+    "pkg_version": "1.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libportaudio2-19_20111121-7.1.2.i586.rpm", 
+    "pkg": "libportaudio2-19_20111121", 
+    "pkg_version": "7.1.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libportaudio2-19-29-omv2015.0.i586.rpm", 
+    "pkg": "libportaudio2-19-29-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libportaudio2-19-22-rosa2014.1.i586.rpm", 
+    "pkg": "libportaudio2-19-22-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libportaudio2-19-21-rosa2012.1.i586.rpm", 
+    "pkg": "libportaudio2-19-21-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lib64portaudio2-19-22-omv2013.0.x86_64.rpm", 
+    "pkg": "lib64portaudio2-19-22-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libportaudio2-19-23-omv2014.0.i586.rpm", 
+    "pkg": "libportaudio2-19-23-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libportaudio2-19-22-omv2013.0.i586.rpm", 
+    "pkg": "libportaudio2-19-22-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "lib64portaudio2-19-22-rosa2014.1.x86_64.rpm", 
+    "pkg": "lib64portaudio2-19-22-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "libportaudio2-19-22.snapshot20140130.6.mga5.i586.rpm", 
+    "pkg": "libportaudio2-19-22.snapshot2014013", 
+    "pkg_version": "0.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "lib64portaudio2-19-21-rosa2012.1.x86_64.rpm", 
+    "pkg": "lib64portaudio2-19-21-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lib64portaudio2-19-23-omv2014.0.x86_64.rpm", 
+    "pkg": "lib64portaudio2-19-23-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libportaudio2-19_20140130-3.1.3.x86_64.rpm", 
+    "pkg": "libportaudio2-19_20140130", 
+    "pkg_version": "3.1.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Multimedia Libs", 
+    "pkg_full_name": "libportaudio2-19_20140130-291.5.x86_64.rpm", 
+    "pkg": "libportaudio2-19_20140130-29", 
+    "pkg_version": "1.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libportaudio2-19_20111121-7.1.2.i586.rpm", 
+    "pkg": "libportaudio2-19_20111121", 
+    "pkg_version": "7.1.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libportaudio2-19-29-omv2015.0.i586.rpm", 
+    "pkg": "libportaudio2-19-29-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libportaudio2-19-22-rosa2014.1.i586.rpm", 
+    "pkg": "libportaudio2-19-22-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libportaudio2-19-21-rosa2012.1.i586.rpm", 
+    "pkg": "libportaudio2-19-21-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lib64portaudio2-19-22-omv2013.0.x86_64.rpm", 
+    "pkg": "lib64portaudio2-19-22-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libportaudio2-19-23-omv2014.0.i586.rpm", 
+    "pkg": "libportaudio2-19-23-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libportaudio2-19-22-omv2013.0.i586.rpm", 
+    "pkg": "libportaudio2-19-22-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "lib64portaudio2-19-22-rosa2014.1.x86_64.rpm", 
+    "pkg": "lib64portaudio2-19-22-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "libportaudio2-19-22.snapshot20140130.6.mga5.i586.rpm", 
+    "pkg": "libportaudio2-19-22.snapshot2014013", 
+    "pkg_version": "0.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "lib64portaudio2-19-21-rosa2012.1.x86_64.rpm", 
+    "pkg": "lib64portaudio2-19-21-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libportaudio2-19-18-rosa.lts2012.0.i586.rpm", 
+    "pkg": "libportaudio2-19-18-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lib64portaudio2-19-23-omv2014.0.x86_64.rpm", 
+    "pkg": "lib64portaudio2-19-23-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libportaudio2-19_20140130-3.1.3.x86_64.rpm", 
+    "pkg": "libportaudio2-19_20140130", 
+    "pkg_version": "3.1.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Multimedia Libs", 
+    "pkg_full_name": "libportaudio2-19_20140130-291.5.x86_64.rpm", 
+    "pkg": "libportaudio2-19_20140130-29", 
+    "pkg_version": "1.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libportaudio2-19_20111121-7.1.2.i586.rpm", 
+    "pkg": "libportaudio2-19_20111121", 
+    "pkg_version": "7.1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libportaudio2-19-29-omv2015.0.i586.rpm", 
+    "pkg": "libportaudio2-19-29-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libportaudio2-19-22-rosa2014.1.i586.rpm", 
+    "pkg": "libportaudio2-19-22-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libportaudio2-19-21-rosa2012.1.i586.rpm", 
+    "pkg": "libportaudio2-19-21-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lib64portaudio2-19-22-omv2013.0.x86_64.rpm", 
+    "pkg": "lib64portaudio2-19-22-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libportaudio2-19-23-omv2014.0.i586.rpm", 
+    "pkg": "libportaudio2-19-23-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libportaudio2-19-22-omv2013.0.i586.rpm", 
+    "pkg": "libportaudio2-19-22-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "lib64portaudio2-19-22-rosa2014.1.x86_64.rpm", 
+    "pkg": "lib64portaudio2-19-22-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "libportaudio2-19-22.snapshot20140130.6.mga5.i586.rpm", 
+    "pkg": "libportaudio2-19-22.snapshot2014013", 
+    "pkg_version": "0.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "lib64portaudio2-19-21-rosa2012.1.x86_64.rpm", 
+    "pkg": "lib64portaudio2-19-21-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libportaudio2-19-18-rosa.lts2012.0.i586.rpm", 
+    "pkg": "libportaudio2-19-18-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lib64portaudio2-19-23-omv2014.0.x86_64.rpm", 
+    "pkg": "lib64portaudio2-19-23-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libportaudio2-19_20140130-3.1.3.x86_64.rpm", 
+    "pkg": "libportaudio2-19_20140130", 
+    "pkg_version": "3.1.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Multimedia Libs", 
+    "pkg_full_name": "libportaudio2-19_20140130-291.5.x86_64.rpm", 
+    "pkg": "libportaudio2-19_20140130-29", 
+    "pkg_version": "1.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libportaudio2-19_20111121-7.1.2.i586.rpm", 
+    "pkg": "libportaudio2-19_20111121", 
+    "pkg_version": "7.1.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libportaudio2-19-29-omv2015.0.i586.rpm", 
+    "pkg": "libportaudio2-19-29-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

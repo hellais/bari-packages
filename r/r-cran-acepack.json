@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "r-cran-acepack_1.3.3.3-1_i386.deb", 
+    "pkg": "r-cran-acepack", 
+    "pkg_version": "1.3.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-augeas_0.5.0-2+b2_i386.deb", 
+    "pkg": "ruby-augeas", 
+    "pkg_version": "0.5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libaugeas-ruby1.9.1_0.5.0-2_all.deb", 
+    "pkg": "libaugeas-ruby", 
+    "pkg_version": "1.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-augeas_0.5.0-2+b2_i386.deb", 
+    "pkg": "ruby-augeas", 
+    "pkg_version": "0.5.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libaugeas-ruby1.9.1_0.5.0-2_all.deb", 
+    "pkg": "libaugeas-ruby", 
+    "pkg_version": "1.9.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-augeas_0.5.0-2+b2_i386.deb", 
+    "pkg": "ruby-augeas", 
+    "pkg_version": "0.5.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libaugeas-ruby1.9.1_0.4.1-1.1_i386.deb", 
+    "pkg": "libaugeas-ruby", 
+    "pkg_version": "1.9.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "ruby-augeas_0.5.0-2build1_i386.deb", 
+    "pkg": "ruby-augeas", 
+    "pkg_version": "0.5.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libaugeas-ruby1.9.1_0.5.0-2build1_all.deb", 
+    "pkg": "libaugeas-ruby", 
+    "pkg_version": "1.9.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "ruby-augeas_0.5.0-2_i386.deb", 
+    "pkg": "ruby-augeas", 
+    "pkg_version": "0.5.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libaugeas-ruby1.9.1_0.5.0-2_all.deb", 
+    "pkg": "libaugeas-ruby", 
+    "pkg_version": "1.9.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

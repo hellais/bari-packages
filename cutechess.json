@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cutechess_20111114+0.4.2+0.0.1-1_i386.deb", 
+    "pkg": "cutechess_20111114+", 
+    "pkg_version": "0.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "cutechess_20111114+0.4.2+0.0.1-1_i386.deb", 
+    "pkg": "cutechess_20111114+", 
+    "pkg_version": "0.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

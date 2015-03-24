@@ -1,0 +1,190 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ant-contrib-1.0-alt5_0.22.b3jpp7.noarch.rpm", 
+    "pkg": "ant-contrib", 
+    "pkg_version": "1.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ant-contrib-1.0-0.23.b3.el7.noarch.rpm", 
+    "pkg": "ant-contrib", 
+    "pkg_version": "1.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "ant-contrib-1.0-1.b3.2.jpp6.noarch.rpm", 
+    "pkg": "ant-contrib", 
+    "pkg_version": "1.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "ant-contrib-1.0-1.b3.2.jpp6.noarch.rpm", 
+    "pkg": "ant-contrib", 
+    "pkg_version": "1.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ant-contrib_1.0~b3+svn177-6_all.deb", 
+    "pkg": "ant-contrib", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ant-contrib_1.0~b3+svn177-6_all.deb", 
+    "pkg": "ant-contrib", 
+    "pkg_version": "1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ant-contrib_1.0~b3+svn177-5_all.deb", 
+    "pkg": "ant-contrib", 
+    "pkg_version": "1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ant-contrib-1.0-0.27.b3.fc22.noarch.rpm", 
+    "pkg": "ant-contrib", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ant-contrib-1.0-0.27.b3.fc22.noarch.rpm", 
+    "pkg": "ant-contrib", 
+    "pkg_version": "1.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ant-contrib-1.0-0.25.b3.fc21.noarch.rpm", 
+    "pkg": "ant-contrib", 
+    "pkg_version": "1.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "ant-contrib-1.0-1.b3.2.jpp6.noarch.rpm", 
+    "pkg": "ant-contrib", 
+    "pkg_version": "1.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "ant-contrib-1.0-0.22.b3.0.1-omv2015.0.noarch.rpm", 
+    "pkg": "ant-contrib", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "ant-contrib-1.0-0.22.b3.0-omv2014.0.noarch.rpm", 
+    "pkg": "ant-contrib", 
+    "pkg_version": "1.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "ant-contrib-1.0-0.12.b2-omv2013.0.noarch.rpm", 
+    "pkg": "ant-contrib", 
+    "pkg_version": "1.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ant-contrib-1.0b3-5.1.noarch.rpm", 
+    "pkg": "ant-contrib", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ant-contrib-1.0b3-3.1.8.noarch.rpm", 
+    "pkg": "ant-contrib", 
+    "pkg_version": "1.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ant-contrib-1.0b2-61.1.2.noarch.rpm", 
+    "pkg": "ant-contrib", 
+    "pkg_version": "1.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "ant-contrib-1.0-0.13.b2-rosa2014.1.noarch.rpm", 
+    "pkg": "ant-contrib", 
+    "pkg_version": "1.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "ant-contrib-1.0-0.13.b2-rosa2012.1.noarch.rpm", 
+    "pkg": "ant-contrib", 
+    "pkg_version": "1.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "ant-contrib_1.0~b3+svn177-6_all.deb", 
+    "pkg": "ant-contrib", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "ant-contrib_1.0~b3+svn177-6_all.deb", 
+    "pkg": "ant-contrib", 
+    "pkg_version": "1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "c-icap-20080706.01-alt2.3.x86_64.rpm", 
+    "pkg": "c-icap-2008070", 
+    "pkg_version": "6.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "c-icap-20080706.01-alt2.3.x86_64.rpm", 
+    "pkg": "c-icap-2008070", 
+    "pkg_version": "6.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "c-icap_0.3.4-2_i386.deb", 
+    "pkg": "c-icap", 
+    "pkg_version": "0.3.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "c-icap-20080706.01-alt2.3.x86_64.rpm", 
+    "pkg": "c-icap-2008070", 
+    "pkg_version": "6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "c-icap_0.3.4-2_i386.deb", 
+    "pkg": "c-icap", 
+    "pkg_version": "0.3.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "c-icap-20080706.01-alt2.3.x86_64.rpm", 
+    "pkg": "c-icap-2008070", 
+    "pkg_version": "6.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "c-icap_0.1.6-1.1+deb7u1_i386.deb", 
+    "pkg": "c-icap", 
+    "pkg_version": "0.1.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "c-icap-20080706.01-alt2.3.x86_64.rpm", 
+    "pkg": "c-icap-2008070", 
+    "pkg_version": "6.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "c-icap_0.3.3-3_i386.deb", 
+    "pkg": "c-icap", 
+    "pkg_version": "0.3.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "c-icap-20080706.01-alt2.3.x86_64.rpm", 
+    "pkg": "c-icap-2008070", 
+    "pkg_version": "6.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "c-icap_0.3.2-1_i386.deb", 
+    "pkg": "c-icap", 
+    "pkg_version": "0.3.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "c-icap-20080706.01-alt2.3.x86_64.rpm", 
+    "pkg": "c-icap-2008070", 
+    "pkg_version": "6.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "python-nbxmpp-0.5.2-1-any.pkg.tar.xz", 
+    "pkg": "python-nbxmpp", 
+    "pkg_version": "0.5.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "python-nbxmpp-0.5.2-1.el7.noarch.rpm", 
+    "pkg": "python-nbxmpp", 
+    "pkg_version": "0.5.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-nbxmpp_0.5.1-2_all.deb", 
+    "pkg": "python-nbxmpp", 
+    "pkg_version": "0.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-nbxmpp_0.5.1-2_all.deb", 
+    "pkg": "python-nbxmpp", 
+    "pkg_version": "0.5.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-nbxmpp-0.5.2-1.fc23.noarch.rpm", 
+    "pkg": "python-nbxmpp", 
+    "pkg_version": "0.5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-nbxmpp-0.5.1-1.fc22.noarch.rpm", 
+    "pkg": "python-nbxmpp", 
+    "pkg_version": "0.5.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python-nbxmpp-0.5.2-1.fc21.noarch.rpm", 
+    "pkg": "python-nbxmpp", 
+    "pkg_version": "0.5.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "python-nbxmpp-0.5.2-1.fc20.noarch.rpm", 
+    "pkg": "python-nbxmpp", 
+    "pkg_version": "0.5.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-nbxmpp-0.5.2-1.1.noarch.rpm", 
+    "pkg": "python-nbxmpp", 
+    "pkg_version": "0.5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-nbxmpp-0.2-2.1.4.noarch.rpm", 
+    "pkg": "python-nbxmpp", 
+    "pkg_version": "0.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-nbxmpp-0.1-5.1.2.noarch.rpm", 
+    "pkg": "python-nbxmpp", 
+    "pkg_version": "0.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "python-nbxmpp-0.5.1-1-rosa2014.1.noarch.rpm", 
+    "pkg": "python-nbxmpp", 
+    "pkg_version": "0.5.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

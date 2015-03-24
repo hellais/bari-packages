@@ -1,0 +1,73 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "nemo-fileroller-2.4.0-2-x86_64.pkg.tar.xz", 
+    "pkg": "nemo-fileroller", 
+    "pkg_version": "2.4.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nemo-fileroller_1.8.0-1_i386.deb", 
+    "pkg": "nemo-fileroller", 
+    "pkg_version": "1.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nemo-fileroller_1.8.0-1_i386.deb", 
+    "pkg": "nemo-fileroller", 
+    "pkg_version": "1.8.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "nemo-fileroller-2.4.x-3.fc22.x86_64.rpm", 
+    "pkg": "nemo-fileroller", 
+    "pkg_version": "2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "nemo-fileroller-2.4.x-3.fc22.x86_64.rpm", 
+    "pkg": "nemo-fileroller", 
+    "pkg_version": "2.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "nemo-fileroller-2.4.x-2.fc21.x86_64.rpm", 
+    "pkg": "nemo-fileroller", 
+    "pkg_version": "2.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "nemo-fileroller-2.4.x-2.fc20.x86_64.rpm", 
+    "pkg": "nemo-fileroller", 
+    "pkg_version": "2.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "nemo-fileroller_1.8.0-1_i386.deb", 
+    "pkg": "nemo-fileroller", 
+    "pkg_version": "1.8.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

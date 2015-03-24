@@ -1,0 +1,101 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "check-mk-multisite-1.2.4p5-2.el7.noarch.rpm", 
+    "pkg": "check-mk-multisite", 
+    "pkg_version": "1.2.4", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "check-mk-multisite-1.2.4p5-2.el6.noarch.rpm", 
+    "pkg": "check-mk-multisite", 
+    "pkg_version": "1.2.4", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "check-mk-multisite-1.2.4p5-1.el5.x86_64.rpm", 
+    "pkg": "check-mk-multisite", 
+    "pkg_version": "1.2.4", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "check-mk-multisite_1.2.2p3-1_i386.deb", 
+    "pkg": "check-mk-multisite", 
+    "pkg_version": "1.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "check-mk-multisite_1.1.12p7-1_i386.deb", 
+    "pkg": "check-mk-multisite", 
+    "pkg_version": "1.1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "check-mk-multisite-1.2.4p5-2.fc22.noarch.rpm", 
+    "pkg": "check-mk-multisite", 
+    "pkg_version": "1.2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "check-mk-multisite-1.2.4p5-2.fc22.noarch.rpm", 
+    "pkg": "check-mk-multisite", 
+    "pkg_version": "1.2.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "check-mk-multisite-1.2.4p5-2.fc21.noarch.rpm", 
+    "pkg": "check-mk-multisite", 
+    "pkg_version": "1.2.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "check-mk-multisite-1.2.4p5-2.fc20.noarch.rpm", 
+    "pkg": "check-mk-multisite", 
+    "pkg_version": "1.2.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "check-mk-multisite_1.2.2p3-1_i386.deb", 
+    "pkg": "check-mk-multisite", 
+    "pkg_version": "1.2.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "check-mk-multisite_1.2.2p3-1_i386.deb", 
+    "pkg": "check-mk-multisite", 
+    "pkg_version": "1.2.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

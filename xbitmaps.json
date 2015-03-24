@@ -1,0 +1,377 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xorg-bitmaps-1.1.0-alt1.noarch.rpm", 
+    "pkg": "xorg-bitmaps", 
+    "pkg_version": "1.1.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "xbitmaps-1.1.1-3-any.pkg.tar.xz", 
+    "pkg": "xbitmaps", 
+    "pkg_version": "1.1.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xorg-bitmaps-1.1.0-alt1.noarch.rpm", 
+    "pkg": "xorg-bitmaps", 
+    "pkg_version": "1.1.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "xbitmaps-1.1.1-3-any.pkg.tar.xz", 
+    "pkg": "xbitmaps", 
+    "pkg_version": "1.1.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "xorg-x11-xbitmaps-1.0.1-9.1.el6.x86_64.rpm", 
+    "pkg": "xorg-x11-xbitmaps", 
+    "pkg_version": "1.0.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xorg-bitmaps-1.1.0-alt1.noarch.rpm", 
+    "pkg": "xorg-bitmaps", 
+    "pkg_version": "1.1.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "xbitmaps-1.1.1-3-any.pkg.tar.xz", 
+    "pkg": "xbitmaps", 
+    "pkg_version": "1.1.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "xorg-x11-xbitmaps-1.0.1-4.1.x86_64.rpm", 
+    "pkg": "xorg-x11-xbitmaps", 
+    "pkg_version": "1.0.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xorg-bitmaps-1.1.0-alt1.noarch.rpm", 
+    "pkg": "xorg-bitmaps", 
+    "pkg_version": "1.1.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xbitmaps_1.1.1-2_all.deb", 
+    "pkg": "xbitmaps", 
+    "pkg_version": "1.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "xorg-x11-xbitmaps-1.0.1-4.1.x86_64.rpm", 
+    "pkg": "xorg-x11-xbitmaps", 
+    "pkg_version": "1.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xorg-bitmaps-1.1.0-alt1.noarch.rpm", 
+    "pkg": "xorg-bitmaps", 
+    "pkg_version": "1.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xbitmaps_1.1.1-2_all.deb", 
+    "pkg": "xbitmaps", 
+    "pkg_version": "1.1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "xorg-x11-xbitmaps-1.0.1-4.1.x86_64.rpm", 
+    "pkg": "xorg-x11-xbitmaps", 
+    "pkg_version": "1.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xorg-bitmaps-1.1.0-alt1.noarch.rpm", 
+    "pkg": "xorg-bitmaps", 
+    "pkg_version": "1.1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xbitmaps_1.1.1-1_all.deb", 
+    "pkg": "xbitmaps", 
+    "pkg_version": "1.1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "xorg-x11-xbitmaps-1.0.1-4.1.x86_64.rpm", 
+    "pkg": "xorg-x11-xbitmaps", 
+    "pkg_version": "1.0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xorg-bitmaps-1.1.0-alt1.noarch.rpm", 
+    "pkg": "xorg-bitmaps", 
+    "pkg_version": "1.1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xbitmaps-1.1.1-12.1.noarch.rpm", 
+    "pkg": "xbitmaps", 
+    "pkg_version": "1.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "xorg-x11-xbitmaps-1.0.1-4.1.x86_64.rpm", 
+    "pkg": "xorg-x11-xbitmaps", 
+    "pkg_version": "1.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xorg-bitmaps-1.1.0-alt1.noarch.rpm", 
+    "pkg": "xorg-bitmaps", 
+    "pkg_version": "1.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xbitmaps-1.1.1-11.1.2.noarch.rpm", 
+    "pkg": "xbitmaps", 
+    "pkg_version": "1.1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "xorg-x11-xbitmaps-1.0.1-4.1.x86_64.rpm", 
+    "pkg": "xorg-x11-xbitmaps", 
+    "pkg_version": "1.0.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xorg-bitmaps-1.1.0-alt1.noarch.rpm", 
+    "pkg": "xorg-bitmaps", 
+    "pkg_version": "1.1.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "xbitmaps-1.1.1-9.1.2.noarch.rpm", 
+    "pkg": "xbitmaps", 
+    "pkg_version": "1.1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "xorg-x11-xbitmaps-1.0.1-4.1.x86_64.rpm", 
+    "pkg": "xorg-x11-xbitmaps", 
+    "pkg_version": "1.0.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xorg-bitmaps-1.1.0-alt1.noarch.rpm", 
+    "pkg": "xorg-bitmaps", 
+    "pkg_version": "1.1.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "xbitmaps-1.1.1-x86_64-1.txz", 
+    "pkg": "xbitmaps", 
+    "pkg_version": "1.1.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "xorg-x11-xbitmaps-1.0.1-4.1.x86_64.rpm", 
+    "pkg": "xorg-x11-xbitmaps", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xorg-bitmaps-1.1.0-alt1.noarch.rpm", 
+    "pkg": "xorg-bitmaps", 
+    "pkg_version": "1.1.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "xbitmaps-1.1.1-x86_64-1.txz", 
+    "pkg": "xbitmaps", 
+    "pkg_version": "1.1.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "xorg-x11-xbitmaps-1.0.1-4.1.x86_64.rpm", 
+    "pkg": "xorg-x11-xbitmaps", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xorg-bitmaps-1.1.0-alt1.noarch.rpm", 
+    "pkg": "xorg-bitmaps", 
+    "pkg_version": "1.1.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "xbitmaps-1.1.1-x86_64-1.txz", 
+    "pkg": "xbitmaps", 
+    "pkg_version": "1.1.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "xorg-x11-xbitmaps-1.0.1-4.1.x86_64.rpm", 
+    "pkg": "xorg-x11-xbitmaps", 
+    "pkg_version": "1.0.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xorg-bitmaps-1.1.0-alt1.noarch.rpm", 
+    "pkg": "xorg-bitmaps", 
+    "pkg_version": "1.1.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "xbitmaps_1.1.1-2_all.deb", 
+    "pkg": "xbitmaps", 
+    "pkg_version": "1.1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "xorg-x11-xbitmaps-1.0.1-4.1.x86_64.rpm", 
+    "pkg": "xorg-x11-xbitmaps", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xorg-bitmaps-1.1.0-alt1.noarch.rpm", 
+    "pkg": "xorg-bitmaps", 
+    "pkg_version": "1.1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "xbitmaps_1.1.1-2_all.deb", 
+    "pkg": "xbitmaps", 
+    "pkg_version": "1.1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "xorg-x11-xbitmaps-1.0.1-4.1.x86_64.rpm", 
+    "pkg": "xorg-x11-xbitmaps", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xorg-bitmaps-1.1.0-alt1.noarch.rpm", 
+    "pkg": "xorg-bitmaps", 
+    "pkg_version": "1.1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

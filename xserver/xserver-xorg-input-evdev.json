@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xserver-xorg-input-evdev_2.9.0-2_i386.deb", 
+    "pkg": "xserver-xorg-input-evdev", 
+    "pkg_version": "2.9.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xserver-xorg-input-evdev_2.9.0-2_i386.deb", 
+    "pkg": "xserver-xorg-input-evdev", 
+    "pkg_version": "2.9.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xserver-xorg-input-evdev_2.7.0-1+b1_i386.deb", 
+    "pkg": "xserver-xorg-input-evdev", 
+    "pkg_version": "2.7.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "xserver-xorg-input-evdev_2.9.0-1ubuntu2_i386.deb", 
+    "pkg": "xserver-xorg-input-evdev", 
+    "pkg_version": "2.9.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "xserver-xorg-input-evdev_2.8.2-1ubuntu2_i386.deb", 
+    "pkg": "xserver-xorg-input-evdev", 
+    "pkg_version": "2.8.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "xserver-xorg-input-evdev-lts-utopic_2.9.0-1ubuntu2~trusty1_i386.deb", 
+    "pkg": "xserver-xorg-input-evdev-lts-utopic", 
+    "pkg_version": "2.9.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

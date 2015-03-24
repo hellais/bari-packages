@@ -1,0 +1,82 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "electrum-2.0.2-1-any.pkg.tar.xz", 
+    "pkg": "electrum", 
+    "pkg_version": "2.0.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "electrum_1.9.8-4_all.deb", 
+    "pkg": "electrum", 
+    "pkg_version": "1.9.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "electrum_1.9.8-4_all.deb", 
+    "pkg": "electrum", 
+    "pkg_version": "1.9.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "electrum_1.9.8-1~bpo70+1_all.deb", 
+    "pkg": "electrum", 
+    "pkg_version": "1.9.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "electrum-1.7.3-4.1.noarch.rpm", 
+    "pkg": "electrum", 
+    "pkg_version": "1.7.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "electrum-1.7.3-4.1.noarch.rpm", 
+    "pkg": "electrum", 
+    "pkg_version": "1.7.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Alien Bob", 
+    "pkg_full_name": "electrum-1.9.8-x86_64-1alien.tgz", 
+    "pkg": "electrum", 
+    "pkg_version": "1.9.8", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Alien Bob", 
+    "pkg_full_name": "electrum-1.9.8-x86_64-1alien.tgz", 
+    "pkg": "electrum", 
+    "pkg_version": "1.9.8", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "electrum_1.9.8-1_all.deb", 
+    "pkg": "electrum", 
+    "pkg_version": "1.9.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

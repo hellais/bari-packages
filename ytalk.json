@@ -1,0 +1,208 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ytalk-3.3.0-alt1.qa1.x86_64.rpm", 
+    "pkg": "ytalk", 
+    "pkg_version": "3.3.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Psychotic Ninja", 
+    "pkg_full_name": "ytalk-3.3.0-25.el7.psychotic.x86_64.rpm", 
+    "pkg": "ytalk", 
+    "pkg_version": "3.3.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "ytalk-3.3.0-1.0.el6.rf.x86_64.rpm", 
+    "pkg": "ytalk", 
+    "pkg_version": "3.3.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "ytalk-3.3.0-1.0.el5.rf.x86_64.rpm", 
+    "pkg": "ytalk", 
+    "pkg_version": "3.3.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ytalk_3.3.0-5_i386.deb", 
+    "pkg": "ytalk", 
+    "pkg_version": "3.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ytalk_3.3.0-5_i386.deb", 
+    "pkg": "ytalk", 
+    "pkg_version": "3.3.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ytalk-3.3.0-24.fc22.x86_64.rpm", 
+    "pkg": "ytalk", 
+    "pkg_version": "3.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ytalk-3.3.0-24.fc22.x86_64.rpm", 
+    "pkg": "ytalk", 
+    "pkg_version": "3.3.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ytalk-3.3.0-24.fc21.x86_64.rpm", 
+    "pkg": "ytalk", 
+    "pkg_version": "3.3.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ytalk-3.3.0-22.fc20.x86_64.rpm", 
+    "pkg": "ytalk", 
+    "pkg_version": "3.3.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "ytalk-3.3.0-17-omv2015.0.x86_64.rpm", 
+    "pkg": "ytalk", 
+    "pkg_version": "3.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "ytalk-3.3.0-11-omv2014.0.x86_64.rpm", 
+    "pkg": "ytalk", 
+    "pkg_version": "3.3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "ytalk-3.3.0-10-omv2013.0.x86_64.rpm", 
+    "pkg": "ytalk", 
+    "pkg_version": "3.3.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ytalk-3.3.0-237.2.x86_64.rpm", 
+    "pkg": "ytalk", 
+    "pkg_version": "3.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ytalk-3.3.0-236.1.2.x86_64.rpm", 
+    "pkg": "ytalk", 
+    "pkg_version": "3.3.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ytalk-3.3.0-234.1.2.i586.rpm", 
+    "pkg": "ytalk", 
+    "pkg_version": "3.3.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "ytalk-3.3.0-11-rosa2014.1.x86_64.rpm", 
+    "pkg": "ytalk", 
+    "pkg_version": "3.3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "ytalk-3.3.0-10-rosa2012.1.x86_64.rpm", 
+    "pkg": "ytalk", 
+    "pkg_version": "3.3.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "ytalk-3.3.0-x86_64-2.txz", 
+    "pkg": "ytalk", 
+    "pkg_version": "3.3.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "ytalk-3.3.0-x86_64-2.txz", 
+    "pkg": "ytalk", 
+    "pkg_version": "3.3.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "ytalk-3.3.0-x86_64-2.txz", 
+    "pkg": "ytalk", 
+    "pkg_version": "3.3.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ytalk_3.3.0-5_i386.deb", 
+    "pkg": "ytalk", 
+    "pkg_version": "3.3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ytalk_3.3.0-5_i386.deb", 
+    "pkg": "ytalk", 
+    "pkg_version": "3.3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

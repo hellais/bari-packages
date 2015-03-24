@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "claws-mail-fetchinfo-plugin_3.11.1-3_i386.deb", 
+    "pkg": "claws-mail-fetchinfo-plugin", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "claws-mail-fetchinfo-plugin_3.11.1-3_i386.deb", 
+    "pkg": "claws-mail-fetchinfo-plugin", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "claws-mail-fetchinfo-plugin_3.8.1-2_i386.deb", 
+    "pkg": "claws-mail-fetchinfo-plugin", 
+    "pkg_version": "3.8.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "claws-mail-fetchinfo-plugin-3.9.3-1-omv2014.1.x86_64.rpm", 
+    "pkg": "claws-mail-fetchinfo-plugin", 
+    "pkg_version": "3.9.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "claws-mail-fetchinfo-plugin-3.9.2-2-omv2013.0.x86_64.rpm", 
+    "pkg": "claws-mail-fetchinfo-plugin", 
+    "pkg_version": "3.9.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "claws-mail-fetchinfo-plugin-3.9.2-2-omv2013.0.x86_64.rpm", 
+    "pkg": "claws-mail-fetchinfo-plugin", 
+    "pkg_version": "3.9.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "claws-mail-fetchinfo-plugin-3.11.0-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "claws-mail-fetchinfo-plugin", 
+    "pkg_version": "3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "claws-mail-fetchinfo-plugin-3.11.0-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "claws-mail-fetchinfo-plugin", 
+    "pkg_version": "3.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "claws-mail-fetchinfo-plugin_3.10.1-2ubuntu2_i386.deb", 
+    "pkg": "claws-mail-fetchinfo-plugin", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "claws-mail-fetchinfo-plugin_3.9.3-1ubuntu1_i386.deb", 
+    "pkg": "claws-mail-fetchinfo-plugin", 
+    "pkg_version": "3.9.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

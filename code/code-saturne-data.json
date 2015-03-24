@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "code-saturne-data_3.3.2-4_all.deb", 
+    "pkg": "code-saturne-data", 
+    "pkg_version": "3.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "code-saturne-data_3.3.2-4_all.deb", 
+    "pkg": "code-saturne-data", 
+    "pkg_version": "3.3.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "code-saturne-data_2.1.7-1_all.deb", 
+    "pkg": "code-saturne-data", 
+    "pkg_version": "2.1.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "code-saturne-data_3.3.1-2_all.deb", 
+    "pkg": "code-saturne-data", 
+    "pkg_version": "3.3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "code-saturne-data_3.2.1-1build1_all.deb", 
+    "pkg": "code-saturne-data", 
+    "pkg_version": "3.2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

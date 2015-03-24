@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libxmp4_4.3.0-1_i386.deb", 
+    "pkg": "libxmp4", 
+    "pkg_version": "4.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libxmp4_4.3.0-1_i386.deb", 
+    "pkg": "libxmp4", 
+    "pkg_version": "4.3.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "libxmp4-4.2.5-1-omv2013.0.i586.rpm", 
+    "pkg": "libxmp4", 
+    "pkg_version": "4.2.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "libxmp4-4.2.5-1-omv2014.0.i586.rpm", 
+    "pkg": "libxmp4", 
+    "pkg_version": "4.2.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libxmp4-4.3.5-1.1.x86_64.rpm", 
+    "pkg": "libxmp4", 
+    "pkg_version": "4.3.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libxmp4-4.2.8-2.1.2.x86_64.rpm", 
+    "pkg": "libxmp4", 
+    "pkg_version": "4.2.8", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libxmp4-4.1.5-2.1.2.i586.rpm", 
+    "pkg": "libxmp4", 
+    "pkg_version": "4.1.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libxmp4_4.2.8-1_i386.deb", 
+    "pkg": "libxmp4", 
+    "pkg_version": "4.2.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

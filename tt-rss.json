@@ -1,0 +1,28 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "tt-rss-1.15.3-1-any.pkg.tar.xz", 
+    "pkg": "tt-rss", 
+    "pkg_version": "1.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tt-rss_1.15+dfsg-1_all.deb", 
+    "pkg": "tt-rss", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "tt-rss_1.13+dfsg-1_all.deb", 
+    "pkg": "tt-rss", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-django-reversion_1.8.4-1_all.deb", 
+    "pkg": "python3-django-reversion", 
+    "pkg_version": "1.8.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

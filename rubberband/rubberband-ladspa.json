@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rubberband-ladspa_1.8.1-6_i386.deb", 
+    "pkg": "rubberband-ladspa", 
+    "pkg_version": "1.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rubberband-ladspa_1.8.1-6_i386.deb", 
+    "pkg": "rubberband-ladspa", 
+    "pkg_version": "1.8.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rubberband-ladspa_1.3-1.3_i386.deb", 
+    "pkg": "rubberband-ladspa", 
+    "pkg_version": "1.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "rubberband-ladspa-1.8.1-1.1.x86_64.rpm", 
+    "pkg": "rubberband-ladspa", 
+    "pkg_version": "1.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "rubberband-ladspa-1.6.0-12.1.2.x86_64.rpm", 
+    "pkg": "rubberband-ladspa", 
+    "pkg_version": "1.6.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "rubberband-ladspa-1.6.0-10.1.2.i586.rpm", 
+    "pkg": "rubberband-ladspa", 
+    "pkg_version": "1.6.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "rubberband-ladspa_1.8.1-5_i386.deb", 
+    "pkg": "rubberband-ladspa", 
+    "pkg_version": "1.8.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "rubberband-ladspa_1.8.1-4_i386.deb", 
+    "pkg": "rubberband-ladspa", 
+    "pkg_version": "1.8.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

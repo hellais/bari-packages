@@ -1,0 +1,83 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xpilot-ng-server_4.7.3-2.2_i386.deb", 
+    "pkg": "xpilot-ng-server", 
+    "pkg_version": "4.7.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xpilot-ng-server_4.7.3-2.2_i386.deb", 
+    "pkg": "xpilot-ng-server", 
+    "pkg_version": "4.7.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xpilot-ng-server_4.7.3-1.4_i386.deb", 
+    "pkg": "xpilot-ng-server", 
+    "pkg_version": "4.7.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xpilot-ng-server-4.7.3-6.fc22.x86_64.rpm", 
+    "pkg": "xpilot-ng-server", 
+    "pkg_version": "4.7.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xpilot-ng-server-4.7.3-6.fc22.x86_64.rpm", 
+    "pkg": "xpilot-ng-server", 
+    "pkg_version": "4.7.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xpilot-ng-server-4.7.3-6.fc21.x86_64.rpm", 
+    "pkg": "xpilot-ng-server", 
+    "pkg_version": "4.7.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xpilot-ng-server-4.7.3-4.fc20.x86_64.rpm", 
+    "pkg": "xpilot-ng-server", 
+    "pkg_version": "4.7.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xpilot-ng-server_4.7.3-2ubuntu2_i386.deb", 
+    "pkg": "xpilot-ng-server", 
+    "pkg_version": "4.7.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xpilot-ng-server_4.7.3-2ubuntu2_i386.deb", 
+    "pkg": "xpilot-ng-server", 
+    "pkg_version": "4.7.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

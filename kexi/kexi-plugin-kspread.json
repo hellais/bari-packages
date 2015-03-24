@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kexi-plugin-kspread_2.4.3+3_all.deb", 
+    "pkg": "kexi-plugin-kspread", 
+    "pkg_version": "2.4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kexi-plugin-kspread_2.4.3+3_all.deb", 
+    "pkg": "kexi-plugin-kspread", 
+    "pkg_version": "2.4.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

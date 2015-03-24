@@ -1,0 +1,91 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ember-0.7.2-alt1.1.x86_64.rpm", 
+    "pkg": "ember", 
+    "pkg_version": "0.7.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ember_0.6.2+dfsg-2.1_i386.deb", 
+    "pkg": "ember", 
+    "pkg_version": "0.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ember_0.6.2+dfsg-2.1_i386.deb", 
+    "pkg": "ember", 
+    "pkg_version": "0.6.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ember_0.6.2+dfsg-2_i386.deb", 
+    "pkg": "ember", 
+    "pkg_version": "0.6.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ember-0.7.2-4.fc22.x86_64.rpm", 
+    "pkg": "ember", 
+    "pkg_version": "0.7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ember-0.7.2-4.fc22.x86_64.rpm", 
+    "pkg": "ember", 
+    "pkg_version": "0.7.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ember-0.7.2-2.fc21.x86_64.rpm", 
+    "pkg": "ember", 
+    "pkg_version": "0.7.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ember-0.7.0-10.fc20.x86_64.rpm", 
+    "pkg": "ember", 
+    "pkg_version": "0.7.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "ember-0.7.2-2.75.x86_64.rpm", 
+    "pkg": "ember", 
+    "pkg_version": "0.7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "ember-0.7.2-2.7.x86_64.rpm", 
+    "pkg": "ember", 
+    "pkg_version": "0.7.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }
+]

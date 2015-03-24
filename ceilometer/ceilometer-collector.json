@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ceilometer-collector_2014.1.3-6_all.deb", 
+    "pkg": "ceilometer-collector_201", 
+    "pkg_version": "4.1.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ceilometer-collector_2014.1.3-6_all.deb", 
+    "pkg": "ceilometer-collector_201", 
+    "pkg_version": "4.1.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "ceilometer-collector_2014.2.2-0ubuntu2_all.deb", 
+    "pkg": "ceilometer-collector_201", 
+    "pkg_version": "4.2.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

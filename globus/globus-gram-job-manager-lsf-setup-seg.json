@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "globus-gram-job-manager-lsf-setup-seg-2.6-2.el7.x86_64.rpm", 
+    "pkg": "globus-gram-job-manager-lsf-setup-seg", 
+    "pkg_version": "2.6", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "globus-gram-job-manager-lsf-setup-seg-2.6-2.el6.x86_64.rpm", 
+    "pkg": "globus-gram-job-manager-lsf-setup-seg", 
+    "pkg_version": "2.6", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "globus-gram-job-manager-lsf-setup-seg-2.6-2.el5.x86_64.rpm", 
+    "pkg": "globus-gram-job-manager-lsf-setup-seg", 
+    "pkg_version": "2.6", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "globus-gram-job-manager-lsf-setup-seg_2.6-1_i386.deb", 
+    "pkg": "globus-gram-job-manager-lsf-setup-seg", 
+    "pkg_version": "2.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "globus-gram-job-manager-lsf-setup-seg_2.5-1_i386.deb", 
+    "pkg": "globus-gram-job-manager-lsf-setup-seg", 
+    "pkg_version": "2.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "globus-gram-job-manager-lsf-setup-seg-2.6-2.fc22.x86_64.rpm", 
+    "pkg": "globus-gram-job-manager-lsf-setup-seg", 
+    "pkg_version": "2.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "globus-gram-job-manager-lsf-setup-seg-2.6-2.fc22.x86_64.rpm", 
+    "pkg": "globus-gram-job-manager-lsf-setup-seg", 
+    "pkg_version": "2.6", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "globus-gram-job-manager-lsf-setup-seg-2.6-2.fc21.x86_64.rpm", 
+    "pkg": "globus-gram-job-manager-lsf-setup-seg", 
+    "pkg_version": "2.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "globus-gram-job-manager-lsf-setup-seg-2.6-2.fc20.x86_64.rpm", 
+    "pkg": "globus-gram-job-manager-lsf-setup-seg", 
+    "pkg_version": "2.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "globus-gram-job-manager-lsf-setup-seg_1.2-2_i386.deb", 
+    "pkg": "globus-gram-job-manager-lsf-setup-seg", 
+    "pkg_version": "1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

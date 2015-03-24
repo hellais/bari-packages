@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "linux-compiler-gcc-4.8-x86_3.16.7-ckt7-1_i386.deb", 
+    "pkg": "linux-compiler-gcc", 
+    "pkg_version": "4.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

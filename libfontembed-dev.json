@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libfontembed-dev_1.0.61-5_i386.deb", 
+    "pkg": "libfontembed-dev", 
+    "pkg_version": "1.0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libfontembed-dev_1.0.61-5_i386.deb", 
+    "pkg": "libfontembed-dev", 
+    "pkg_version": "1.0.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "libfontembed-dev_1.0.61-0ubuntu2.1_i386.deb", 
+    "pkg": "libfontembed-dev", 
+    "pkg_version": "1.0.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

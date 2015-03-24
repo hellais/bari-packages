@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libplplot-d_5.10.0+dfsg-1_i386.deb", 
+    "pkg": "libplplot-d", 
+    "pkg_version": "5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libplplot-d_5.10.0+dfsg-1_i386.deb", 
+    "pkg": "libplplot-d", 
+    "pkg_version": "5.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libplplot-d_5.9.9-5_i386.deb", 
+    "pkg": "libplplot-d", 
+    "pkg_version": "5.9.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

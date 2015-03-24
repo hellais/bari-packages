@@ -1,0 +1,73 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "eclipse-ptp-rdt-6.0.5-alt1_2jpp7.noarch.rpm", 
+    "pkg": "eclipse-ptp-rdt", 
+    "pkg_version": "6.0.5", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "eclipse-ptp-rdt-4.0.7-1.el6.1.noarch.rpm", 
+    "pkg": "eclipse-ptp-rdt", 
+    "pkg_version": "4.0.7", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "eclipse-ptp-rdt_8.0.0-1_all.deb", 
+    "pkg": "eclipse-ptp-rdt", 
+    "pkg_version": "8.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "eclipse-ptp-rdt_8.0.0-1_all.deb", 
+    "pkg": "eclipse-ptp-rdt", 
+    "pkg_version": "8.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "eclipse-ptp-rdt-8.1.0-2.fc22.noarch.rpm", 
+    "pkg": "eclipse-ptp-rdt", 
+    "pkg_version": "8.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "eclipse-ptp-rdt-8.1.0-2.fc22.noarch.rpm", 
+    "pkg": "eclipse-ptp-rdt", 
+    "pkg_version": "8.1.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "eclipse-ptp-rdt-8.1.0-1.fc21.noarch.rpm", 
+    "pkg": "eclipse-ptp-rdt", 
+    "pkg_version": "8.1.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "eclipse-ptp-rdt-7.0.4-1.fc20.noarch.rpm", 
+    "pkg": "eclipse-ptp-rdt", 
+    "pkg_version": "7.0.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

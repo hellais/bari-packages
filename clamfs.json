@@ -1,0 +1,83 @@
+[
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "fuse-clamfs-0.9.1-2.el5.rf.x86_64.rpm", 
+    "pkg": "fuse-clamfs", 
+    "pkg_version": "0.9.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "fuse-clamfs-0.9.1-2.el5.rf.x86_64.rpm", 
+    "pkg": "fuse-clamfs", 
+    "pkg_version": "0.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "clamfs_1.0.1-1.1+b2_i386.deb", 
+    "pkg": "clamfs", 
+    "pkg_version": "1.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "fuse-clamfs-0.9.1-2.el5.rf.x86_64.rpm", 
+    "pkg": "fuse-clamfs", 
+    "pkg_version": "0.9.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "clamfs_1.0.1-1.1+b2_i386.deb", 
+    "pkg": "clamfs", 
+    "pkg_version": "1.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "fuse-clamfs-0.9.1-2.el5.rf.x86_64.rpm", 
+    "pkg": "fuse-clamfs", 
+    "pkg_version": "0.9.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "clamfs_1.0.1-1.1build1_i386.deb", 
+    "pkg": "clamfs", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "fuse-clamfs-0.9.1-2.el5.rf.x86_64.rpm", 
+    "pkg": "fuse-clamfs", 
+    "pkg_version": "0.9.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "clamfs_1.0.1-1.1build1_i386.deb", 
+    "pkg": "clamfs", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

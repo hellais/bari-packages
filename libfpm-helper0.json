@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libfpm-helper0_3.8-2.1_i386.deb", 
+    "pkg": "libfpm-helper0", 
+    "pkg_version": "3.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

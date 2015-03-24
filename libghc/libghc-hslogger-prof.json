@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-hslogger-prof_1.2.1+dfsg1-2+b2_i386.deb", 
+    "pkg": "libghc-hslogger-prof", 
+    "pkg_version": "1.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-hslogger-prof_1.2.1+dfsg1-2+b2_i386.deb", 
+    "pkg": "libghc-hslogger-prof", 
+    "pkg_version": "1.2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-hslogger-prof_1.1.4+dfsg1-2+b3_i386.deb", 
+    "pkg": "libghc-hslogger-prof", 
+    "pkg_version": "1.1.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-hslogger-prof_1.2.1+dfsg1-2build1_i386.deb", 
+    "pkg": "libghc-hslogger-prof", 
+    "pkg_version": "1.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-hslogger-prof_1.2.1+dfsg1-2build1_i386.deb", 
+    "pkg": "libghc-hslogger-prof", 
+    "pkg_version": "1.2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

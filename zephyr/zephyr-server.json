@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "zephyr-server-krb5_3.1.2-1_i386.deb", 
+    "pkg": "zephyr-server-krb5", 
+    "pkg_version": "3.1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "zephyr-server_3.1.2-1_i386.deb", 
+    "pkg": "zephyr-server", 
+    "pkg_version": "3.1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "zephyr-server-krb5_3.1.2-1_i386.deb", 
+    "pkg": "zephyr-server-krb5", 
+    "pkg_version": "3.1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "zephyr-server_3.1.2-1_i386.deb", 
+    "pkg": "zephyr-server", 
+    "pkg_version": "3.1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "zephyr-server-krb5_3.0.2-2_i386.deb", 
+    "pkg": "zephyr-server-krb5", 
+    "pkg_version": "3.0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "zephyr-server_3.0.2-2_i386.deb", 
+    "pkg": "zephyr-server", 
+    "pkg_version": "3.0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "zephyr-server-krb5_3.1.2-1_i386.deb", 
+    "pkg": "zephyr-server-krb5", 
+    "pkg_version": "3.1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "zephyr-server_3.1.2-1_i386.deb", 
+    "pkg": "zephyr-server", 
+    "pkg_version": "3.1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "zephyr-server-krb5_3.1.2-1_i386.deb", 
+    "pkg": "zephyr-server-krb5", 
+    "pkg_version": "3.1.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "zephyr-server_3.1.2-1_i386.deb", 
+    "pkg": "zephyr-server", 
+    "pkg_version": "3.1.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

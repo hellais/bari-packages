@@ -1,0 +1,153 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gifsicle-1.87-alt1.x86_64.rpm", 
+    "pkg": "gifsicle", 
+    "pkg_version": "1.8", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gifsicle-1.83-1-x86_64.pkg.tar.xz", 
+    "pkg": "gifsicle", 
+    "pkg_version": "1.8", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Lux", 
+    "pkg_full_name": "gifsicle-1.84-2.el7.lux.1.x86_64.rpm", 
+    "pkg": "gifsicle", 
+    "pkg_version": "1.8", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "gifsicle-1.68-1.el6.rf.x86_64.rpm", 
+    "pkg": "gifsicle", 
+    "pkg_version": "1.6", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "gifsicle-1.68-1.el5.rf.x86_64.rpm", 
+    "pkg": "gifsicle", 
+    "pkg_version": "1.6", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gifsicle_1.86-1_i386.deb", 
+    "pkg": "gifsicle", 
+    "pkg_version": "1.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gifsicle_1.86-1_i386.deb", 
+    "pkg": "gifsicle", 
+    "pkg_version": "1.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gifsicle_1.67-1_i386.deb", 
+    "pkg": "gifsicle", 
+    "pkg_version": "1.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gifsicle-1.87-1.fc22.x86_64.rpm", 
+    "pkg": "gifsicle", 
+    "pkg_version": "1.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gifsicle-1.87-1.fc22.x86_64.rpm", 
+    "pkg": "gifsicle", 
+    "pkg_version": "1.8", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gifsicle-1.84-2.fc21.x86_64.rpm", 
+    "pkg": "gifsicle", 
+    "pkg_version": "1.8", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gifsicle-1.71-1.fc20.x86_64.rpm", 
+    "pkg": "gifsicle", 
+    "pkg_version": "1.7", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Slackers", 
+    "pkg_full_name": "gifsicle-1.87-x86_64-1cf.txz", 
+    "pkg": "gifsicle", 
+    "pkg_version": "1.8", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Johannes Sch\u00f6pfer", 
+    "pkg_full_name": "gifsicle-1.51-i686-1jsc.tgz", 
+    "pkg": "gifsicle", 
+    "pkg_version": "1.5", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Johannes Sch\u00f6pfer", 
+    "pkg_full_name": "gifsicle-1.51-i686-1jsc.tgz", 
+    "pkg": "gifsicle", 
+    "pkg_version": "1.5", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gifsicle_1.84-1_i386.deb", 
+    "pkg": "gifsicle", 
+    "pkg_version": "1.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gifsicle_1.78-1_i386.deb", 
+    "pkg": "gifsicle", 
+    "pkg_version": "1.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

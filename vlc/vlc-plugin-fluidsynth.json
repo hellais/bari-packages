@@ -1,0 +1,100 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "vlc-plugin-fluidsynth-2.2.0-alt1.x86_64.rpm", 
+    "pkg": "vlc-plugin-fluidsynth", 
+    "pkg_version": "2.2.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "vlc-plugin-fluidsynth_2.2.0-dmo1_i386.deb", 
+    "pkg": "vlc-plugin-fluidsynth", 
+    "pkg_version": "2.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "vlc-plugin-fluidsynth_2.2.0-dmo1_i386.deb", 
+    "pkg": "vlc-plugin-fluidsynth", 
+    "pkg_version": "2.2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "vlc-plugin-fluidsynth_2.0.6-dmo3_i386.deb", 
+    "pkg": "vlc-plugin-fluidsynth", 
+    "pkg_version": "2.0.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Restricted", 
+    "pkg_full_name": "vlc-plugin-fluidsynth-2.1.4-3plf-omv2014.1.x86_64.rpm", 
+    "pkg": "vlc-plugin-fluidsynth", 
+    "pkg_version": "2.1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Restricted Updates", 
+    "pkg_full_name": "vlc-plugin-fluidsynth-2.1.4-4plf-plf2014.0.x86_64.rpm", 
+    "pkg": "vlc-plugin-fluidsynth", 
+    "pkg_version": "2.1.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "vlc-plugin-fluidsynth-2.0.7-3-omv2013.0.x86_64.rpm", 
+    "pkg": "vlc-plugin-fluidsynth", 
+    "pkg_version": "2.0.7", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Restricted Updates", 
+    "pkg_full_name": "vlc-plugin-fluidsynth-2.1.5-2plf-plf2014.1.x86_64.rpm", 
+    "pkg": "vlc-plugin-fluidsynth", 
+    "pkg_version": "2.1.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Restricted Updates", 
+    "pkg_full_name": "vlc-plugin-fluidsynth-2.1.5-1plf-plf2012.1.x86_64.rpm", 
+    "pkg": "vlc-plugin-fluidsynth", 
+    "pkg_version": "2.1.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "vlc-plugin-fluidsynth_2.2.0~pre2-4build1_i386.deb", 
+    "pkg": "vlc-plugin-fluidsynth", 
+    "pkg_version": "2.2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "vlc-plugin-fluidsynth_2.1.4-0ubuntu14.04.1_i386.deb", 
+    "pkg": "vlc-plugin-fluidsynth", 
+    "pkg_version": "2.1.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

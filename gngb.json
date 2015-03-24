@@ -1,0 +1,119 @@
+[
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "gngb-0.20060309-2-omv2013.0.x86_64.rpm", 
+    "pkg": "gngb", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "gngb-0.20060309-2-omv2013.0.x86_64.rpm", 
+    "pkg": "gngb", 
+    "pkg_version": "0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "gngb-0.20060309-2-omv2013.0.x86_64.rpm", 
+    "pkg": "gngb", 
+    "pkg_version": "0.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "gngb-0.20060309-2-omv2013.0.x86_64.rpm", 
+    "pkg": "gngb", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Emulators", 
+    "pkg_full_name": "gngb-20060309-2.113.x86_64.rpm", 
+    "pkg": "gngb-20060309", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "gngb-0.20060309-5-rosa2014.1.x86_64.rpm", 
+    "pkg": "gngb", 
+    "pkg_version": "0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Emulators", 
+    "pkg_full_name": "gngb-20060309-2.113.x86_64.rpm", 
+    "pkg": "gngb-20060309", 
+    "pkg_version": "2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "gngb-0.20060309-4-rosa2012.1.x86_64.rpm", 
+    "pkg": "gngb", 
+    "pkg_version": "0.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Emulators", 
+    "pkg_full_name": "gngb-20060309-2.113.x86_64.rpm", 
+    "pkg": "gngb-20060309", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "gngb-0.20060309-2-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "gngb", 
+    "pkg_version": "0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Emulators", 
+    "pkg_full_name": "gngb-20060309-2.113.x86_64.rpm", 
+    "pkg": "gngb-20060309", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "gngb-0.20060309-2-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "gngb", 
+    "pkg_version": "0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Emulators", 
+    "pkg_full_name": "gngb-20060309-2.113.x86_64.rpm", 
+    "pkg": "gngb-20060309", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

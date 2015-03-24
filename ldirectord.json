@@ -1,0 +1,244 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ldirectord-3.9.5-alt3.git.7fac8c7e.noarch.rpm", 
+    "pkg": "ldirectord", 
+    "pkg_version": "3.9.5", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ldirectord-3.9.5-alt3.git.7fac8c7e.noarch.rpm", 
+    "pkg": "ldirectord", 
+    "pkg_version": "3.9.5", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "heartbeat-ldirectord-2.1.4-11.el5.x86_64.rpm", 
+    "pkg": "heartbeat-ldirectord", 
+    "pkg_version": "2.1.4", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ldirectord_3.9.3+git20121009-3.1_all.deb", 
+    "pkg": "ldirectord", 
+    "pkg_version": "3.9.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "heartbeat-ldirectord-2.1.4-11.el5.x86_64.rpm", 
+    "pkg": "heartbeat-ldirectord", 
+    "pkg_version": "2.1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ldirectord_3.9.3+git20121009-3.1_all.deb", 
+    "pkg": "ldirectord", 
+    "pkg_version": "3.9.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "heartbeat-ldirectord-2.1.4-11.el5.x86_64.rpm", 
+    "pkg": "heartbeat-ldirectord", 
+    "pkg_version": "2.1.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ldirectord_3.9.2-5+deb7u2_all.deb", 
+    "pkg": "ldirectord", 
+    "pkg_version": "3.9.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "heartbeat-ldirectord-2.1.4-11.el5.x86_64.rpm", 
+    "pkg": "heartbeat-ldirectord", 
+    "pkg_version": "2.1.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ldirectord-3.9.5-12.fc22.2.x86_64.rpm", 
+    "pkg": "ldirectord", 
+    "pkg_version": "3.9.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "heartbeat-ldirectord-2.1.4-11.el5.x86_64.rpm", 
+    "pkg": "heartbeat-ldirectord", 
+    "pkg_version": "2.1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ldirectord-3.9.6-1.fc22.x86_64.rpm", 
+    "pkg": "ldirectord", 
+    "pkg_version": "3.9.6", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "heartbeat-ldirectord-2.1.4-11.el5.x86_64.rpm", 
+    "pkg": "heartbeat-ldirectord", 
+    "pkg_version": "2.1.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "ldirectord-3.9.6-1.fc21.x86_64.rpm", 
+    "pkg": "ldirectord", 
+    "pkg_version": "3.9.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "heartbeat-ldirectord-2.1.4-11.el5.x86_64.rpm", 
+    "pkg": "heartbeat-ldirectord", 
+    "pkg_version": "2.1.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "ldirectord-3.9.5-9.fc20.x86_64.rpm", 
+    "pkg": "ldirectord", 
+    "pkg_version": "3.9.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "heartbeat-ldirectord-2.1.4-11.el5.x86_64.rpm", 
+    "pkg": "heartbeat-ldirectord", 
+    "pkg_version": "2.1.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ldirectord-3.9.5+git631-2.1.x86_64.rpm", 
+    "pkg": "ldirectord", 
+    "pkg_version": "3.9.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "heartbeat-ldirectord-2.1.4-11.el5.x86_64.rpm", 
+    "pkg": "heartbeat-ldirectord", 
+    "pkg_version": "2.1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ldirectord-3.9.5+git578-1.4.x86_64.rpm", 
+    "pkg": "ldirectord", 
+    "pkg_version": "3.9.5", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "heartbeat-ldirectord-2.1.4-11.el5.x86_64.rpm", 
+    "pkg": "heartbeat-ldirectord", 
+    "pkg_version": "2.1.4", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ldirectord-3.9.5-4.2.2.i586.rpm", 
+    "pkg": "ldirectord", 
+    "pkg_version": "3.9.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "heartbeat-ldirectord-2.1.4-11.el5.x86_64.rpm", 
+    "pkg": "heartbeat-ldirectord", 
+    "pkg_version": "2.1.4", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ldirectord_3.9.3+git20121009-3.1_all.deb", 
+    "pkg": "ldirectord", 
+    "pkg_version": "3.9.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "heartbeat-ldirectord-2.1.4-11.el5.x86_64.rpm", 
+    "pkg": "heartbeat-ldirectord", 
+    "pkg_version": "2.1.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ldirectord_3.9.3+git20121009-3ubuntu2_all.deb", 
+    "pkg": "ldirectord", 
+    "pkg_version": "3.9.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "heartbeat-ldirectord-2.1.4-11.el5.x86_64.rpm", 
+    "pkg": "heartbeat-ldirectord", 
+    "pkg_version": "2.1.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

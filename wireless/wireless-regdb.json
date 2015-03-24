@@ -1,0 +1,793 @@
+[
+  {
+    "pkg_repo": "Arch Linux Core", 
+    "pkg_full_name": "wireless-regdb-2015.01.30-2-any.pkg.tar.xz", 
+    "pkg": "wireless-regdb-201", 
+    "pkg_version": "5.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Core", 
+    "pkg_full_name": "wireless-regdb-2015.01.30-2-any.pkg.tar.xz", 
+    "pkg": "wireless-regdb-201", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "wireless-regdb_2014.11.18-1_all.deb", 
+    "pkg": "wireless-regdb_201", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Core", 
+    "pkg_full_name": "wireless-regdb-2015.01.30-2-any.pkg.tar.xz", 
+    "pkg": "wireless-regdb-201", 
+    "pkg_version": "5.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "wireless-regdb_2014.11.18-1_all.deb", 
+    "pkg": "wireless-regdb_201", 
+    "pkg_version": "4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Core", 
+    "pkg_full_name": "wireless-regdb-2015.01.30-2-any.pkg.tar.xz", 
+    "pkg": "wireless-regdb-201", 
+    "pkg_version": "5.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Proposed Updates Main", 
+    "pkg_full_name": "wireless-regdb_2014.11.18-1~deb7u1_all.deb", 
+    "pkg": "wireless-regdb_201", 
+    "pkg_version": "4.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "wireless-regdb-2011.04.28-2.1.noarch.rpm", 
+    "pkg": "wireless-regdb-201", 
+    "pkg_version": "1.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Proposed Updates Main", 
+    "pkg_full_name": "wireless-regdb_2014.11.18-1~deb7u1_all.deb", 
+    "pkg": "wireless-regdb_201", 
+    "pkg_version": "4.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "wireless-regdb-2011.04.28-2.1.noarch.rpm", 
+    "pkg": "wireless-regdb-201", 
+    "pkg_version": "1.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Proposed Updates Main", 
+    "pkg_full_name": "wireless-regdb_2014.11.18-1~deb7u1_all.deb", 
+    "pkg": "wireless-regdb_201", 
+    "pkg_version": "4.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "wireless-regdb-2011.04.28-2.1.noarch.rpm", 
+    "pkg": "wireless-regdb-201", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-regdb-20150130-1-omv2015.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20150130-1-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Proposed Updates Main", 
+    "pkg_full_name": "wireless-regdb_2014.11.18-1~deb7u1_all.deb", 
+    "pkg": "wireless-regdb_201", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "wireless-regdb-2011.04.28-2.1.noarch.rpm", 
+    "pkg": "wireless-regdb-201", 
+    "pkg_version": "1.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-regdb-20150130-1-omv2015.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20150130-1-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "wireless-regdb-20141118-2-omv2014.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20141118-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-regdb-20131127-2-omv2014.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20131127-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Proposed Updates Main", 
+    "pkg_full_name": "wireless-regdb_2014.11.18-1~deb7u1_all.deb", 
+    "pkg": "wireless-regdb_201", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-regdb-20131127-2-omv2014.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20131127-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-regdb-20130213-1-omv2013.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20130213-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-regdb-20131011-1-omv2013.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20131011-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-regdb-20150130-1-omv2015.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20150130-1-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "wireless-regdb-20141118-2-omv2014.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20141118-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "wireless-regdb-2011.04.28-2.1.noarch.rpm", 
+    "pkg": "wireless-regdb-201", 
+    "pkg_version": "1.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Proposed Updates Main", 
+    "pkg_full_name": "wireless-regdb_2014.11.18-1~deb7u1_all.deb", 
+    "pkg": "wireless-regdb_201", 
+    "pkg_version": "4.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-regdb-20131127-2-omv2014.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20131127-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-regdb-20130213-1-omv2013.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20130213-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-regdb-20131011-1-omv2013.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20131011-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-regdb-20150130-1-omv2015.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20150130-1-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "wireless-regdb-20141118-2-omv2014.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20141118-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "wireless-regdb-2014.10.07-1.1.noarch.rpm", 
+    "pkg": "wireless-regdb-201", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Proposed Updates Main", 
+    "pkg_full_name": "wireless-regdb_2014.11.18-1~deb7u1_all.deb", 
+    "pkg": "wireless-regdb_201", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-regdb-20131127-2-omv2014.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20131127-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-regdb-20130213-1-omv2013.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20130213-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-regdb-20131011-1-omv2013.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20131011-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-regdb-20150130-1-omv2015.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20150130-1-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "wireless-regdb-20141118-2-omv2014.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20141118-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "wireless-regdb-2014.06.13-1.2.noarch.rpm", 
+    "pkg": "wireless-regdb-201", 
+    "pkg_version": "4.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Proposed Updates Main", 
+    "pkg_full_name": "wireless-regdb_2014.11.18-1~deb7u1_all.deb", 
+    "pkg": "wireless-regdb_201", 
+    "pkg_version": "4.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-regdb-20131127-2-omv2014.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20131127-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-regdb-20130213-1-omv2013.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20130213-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-regdb-20131011-1-omv2013.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20131011-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-regdb-20150130-1-omv2015.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20150130-1-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "wireless-regdb-20141118-2-omv2014.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20141118-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "wireless-regdb-2013.02.13-2.1.2.noarch.rpm", 
+    "pkg": "wireless-regdb-201", 
+    "pkg_version": "3.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Proposed Updates Main", 
+    "pkg_full_name": "wireless-regdb_2014.11.18-1~deb7u1_all.deb", 
+    "pkg": "wireless-regdb_201", 
+    "pkg_version": "4.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-regdb-20131127-2-omv2014.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20131127-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "wireless-regdb-20150130-1-rosa2014.1.noarch.rpm", 
+    "pkg": "wireless-regdb-20150130-1-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-regdb-20130213-1-omv2013.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20130213-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-regdb-20131011-1-omv2013.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20131011-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-regdb-20150130-1-omv2015.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20150130-1-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "wireless-regdb-20141118-2-omv2014.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20141118-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "wireless-regdb-2013.02.13-2.1.2.noarch.rpm", 
+    "pkg": "wireless-regdb-201", 
+    "pkg_version": "3.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "wireless-regdb-20140613-1-rosa2014.1.noarch.rpm", 
+    "pkg": "wireless-regdb-20140613-1-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Proposed Updates Main", 
+    "pkg_full_name": "wireless-regdb_2014.11.18-1~deb7u1_all.deb", 
+    "pkg": "wireless-regdb_201", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-regdb-20131127-2-omv2014.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20131127-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "wireless-regdb-20101124-3-rosa2012.1.noarch.rpm", 
+    "pkg": "wireless-regdb-20101124-3-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "wireless-regdb-20150130-1-rosa2014.1.noarch.rpm", 
+    "pkg": "wireless-regdb-20150130-1-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-regdb-20130213-1-omv2013.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20130213-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-regdb-20131011-1-omv2013.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20131011-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-regdb-20150130-1-omv2015.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20150130-1-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "wireless-regdb-20141118-2-omv2014.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20141118-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "wireless-regdb-2013.02.13-2.1.2.noarch.rpm", 
+    "pkg": "wireless-regdb-201", 
+    "pkg_version": "3.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "wireless-regdb-20140613-1-rosa2014.1.noarch.rpm", 
+    "pkg": "wireless-regdb-20140613-1-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Proposed Updates Main", 
+    "pkg_full_name": "wireless-regdb_2014.11.18-1~deb7u1_all.deb", 
+    "pkg": "wireless-regdb_201", 
+    "pkg_version": "4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-regdb-20131127-2-omv2014.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20131127-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "wireless-regdb-20101124-3-rosa2012.1.noarch.rpm", 
+    "pkg": "wireless-regdb-20101124-3-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "wireless-regdb-20150130-1-rosa2014.1.noarch.rpm", 
+    "pkg": "wireless-regdb-20150130-1-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-regdb-20130213-1-omv2013.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20130213-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-regdb-20131011-1-omv2013.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20131011-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-regdb-20150130-1-omv2015.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20150130-1-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "wireless-regdb-20101124-3-rosa.lts2012.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20101124-3-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "wireless-regdb-20141118-2-omv2014.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20141118-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "wireless-regdb-2013.02.13-2.1.2.noarch.rpm", 
+    "pkg": "wireless-regdb-201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "wireless-regdb-20140613-1-rosa2014.1.noarch.rpm", 
+    "pkg": "wireless-regdb-20140613-1-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "wireless-regdb_2013.02.13-1ubuntu1_all.deb", 
+    "pkg": "wireless-regdb_201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-regdb-20131127-2-omv2014.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20131127-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "wireless-regdb-20101124-3-rosa2012.1.noarch.rpm", 
+    "pkg": "wireless-regdb-20101124-3-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "wireless-regdb-20150130-1-rosa2014.1.noarch.rpm", 
+    "pkg": "wireless-regdb-20150130-1-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-regdb-20130213-1-omv2013.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20130213-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-regdb-20131011-1-omv2013.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20131011-1-omv201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "wireless-regdb-20150130-1-omv2015.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20150130-1-omv201", 
+    "pkg_version": "5.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "wireless-regdb-20101124-3-rosa.lts2012.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20101124-3-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "wireless-regdb-20141118-2-omv2014.0.noarch.rpm", 
+    "pkg": "wireless-regdb-20141118-2-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "wireless-regdb-2013.02.13-2.1.2.noarch.rpm", 
+    "pkg": "wireless-regdb-201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "wireless-regdb-20140613-1-rosa2014.1.noarch.rpm", 
+    "pkg": "wireless-regdb-20140613-1-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "wireless-regdb_2013.02.13-1ubuntu1_all.deb", 
+    "pkg": "wireless-regdb_201", 
+    "pkg_version": "3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

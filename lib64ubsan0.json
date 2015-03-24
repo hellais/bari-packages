@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lib64ubsan0_4.9.2-10_i386.deb", 
+    "pkg": "lib64ubsan0", 
+    "pkg_version": "4.9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lib64ubsan0_4.9.2-10_i386.deb", 
+    "pkg": "lib64ubsan0", 
+    "pkg_version": "4.9.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "lib64ubsan0-4.9.3_2015.03-3-omv2015.0.x86_64.rpm", 
+    "pkg": "lib64ubsan0", 
+    "pkg_version": "4.9.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "lib64ubsan0-4.9.2_2014.08-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "lib64ubsan0", 
+    "pkg_version": "4.9.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

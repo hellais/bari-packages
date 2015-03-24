@@ -1,0 +1,119 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libclips_6.24-3_i386.deb", 
+    "pkg": "libclips", 
+    "pkg_version": "6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libclips_6.24-3_i386.deb", 
+    "pkg": "libclips", 
+    "pkg_version": "6.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libclips_6.24-3_i386.deb", 
+    "pkg": "libclips", 
+    "pkg_version": "6.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libclips_6.24-3_i386.deb", 
+    "pkg": "libclips", 
+    "pkg_version": "6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "libclips2-6.30.0-2.244.x86_64.rpm", 
+    "pkg": "libclips2", 
+    "pkg_version": "6.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libclips_6.24-3_i386.deb", 
+    "pkg": "libclips", 
+    "pkg_version": "6.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "libclips2-6.30.0-2.1.x86_64.rpm", 
+    "pkg": "libclips2", 
+    "pkg_version": "6.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libclips_6.24-3_i386.deb", 
+    "pkg": "libclips", 
+    "pkg_version": "6.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "libclips2-6.30.0-2.10.x86_64.rpm", 
+    "pkg": "libclips2", 
+    "pkg_version": "6.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libclips_6.24-3ubuntu1_i386.deb", 
+    "pkg": "libclips", 
+    "pkg_version": "6.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "libclips2-6.30.0-2.10.x86_64.rpm", 
+    "pkg": "libclips2", 
+    "pkg_version": "6.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libclips_6.24-3ubuntu1_i386.deb", 
+    "pkg": "libclips", 
+    "pkg_version": "6.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "libclips2-6.30.0-2.10.x86_64.rpm", 
+    "pkg": "libclips2", 
+    "pkg_version": "6.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

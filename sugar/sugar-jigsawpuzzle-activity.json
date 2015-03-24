@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sugar-jigsawpuzzle-activity_8-1.1_all.deb", 
+    "pkg": "sugar-jigsawpuzzle-activity_8", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

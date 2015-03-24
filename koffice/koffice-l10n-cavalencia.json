@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "koffice-l10n-cavalencia_2.4.3+3_all.deb", 
+    "pkg": "koffice-l10n-cavalencia", 
+    "pkg_version": "2.4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "koffice-l10n-cavalencia_2.4.3+3_all.deb", 
+    "pkg": "koffice-l10n-cavalencia", 
+    "pkg_version": "2.4.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "koffice-l10n-cavalencia_2.4.3+2_all.deb", 
+    "pkg": "koffice-l10n-cavalencia", 
+    "pkg_version": "2.4.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

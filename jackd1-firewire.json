@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jackd1-firewire_0.124.1+20140122git5013bed0-3_i386.deb", 
+    "pkg": "jackd1-firewire", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jackd1-firewire_0.124.1+20140122git5013bed0-3_i386.deb", 
+    "pkg": "jackd1-firewire", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jackd1-firewire_0.121.3+20120418git75e3e20b-2.1_i386.deb", 
+    "pkg": "jackd1-firewire", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "jackd1-firewire_0.124.1+20140122git5013bed0-3_i386.deb", 
+    "pkg": "jackd1-firewire", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "jackd1-firewire_0.121.3+20120418git75e3e20b-2.1ubuntu1_i386.deb", 
+    "pkg": "jackd1-firewire", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

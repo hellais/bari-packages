@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "calf-plugins_0.0.19+git20140915+5de5da28-1_i386.deb", 
+    "pkg": "calf-plugins", 
+    "pkg_version": "0.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "calf-plugins_0.0.19+git20140915+5de5da28-1_i386.deb", 
+    "pkg": "calf-plugins", 
+    "pkg_version": "0.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "calf-plugins_0.0.18.6-5_i386.deb", 
+    "pkg": "calf-plugins", 
+    "pkg_version": "0.0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "calf-plugins_0.0.19+git20140527+e79ddef54-1_i386.deb", 
+    "pkg": "calf-plugins", 
+    "pkg_version": "0.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "calf-plugins_0.0.19+git20131202-1_i386.deb", 
+    "pkg": "calf-plugins", 
+    "pkg_version": "0.0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

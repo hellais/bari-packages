@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwireshark5_1.12.1+g01b65bf-3_i386.deb", 
+    "pkg": "libwireshark5", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwireshark5_1.12.1+g01b65bf-3_i386.deb", 
+    "pkg": "libwireshark5", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "libwireshark5_1.12.1+g01b65bf-2~bpo70+1_i386.deb", 
+    "pkg": "libwireshark5", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libwireshark5-1.12.1-2-omv2015.0.i586.rpm", 
+    "pkg": "libwireshark5", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libreoffice-librelogo_4.3.3-2_all.deb", 
+    "pkg": "libreoffice-librelogo", 
+    "pkg_version": "4.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libreoffice-librelogo_4.3.3-2_all.deb", 
+    "pkg": "libreoffice-librelogo", 
+    "pkg_version": "4.3.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "libreoffice-librelogo_4.3.3-2~bpo70+2_all.deb", 
+    "pkg": "libreoffice-librelogo", 
+    "pkg_version": "4.3.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "libreoffice-librelogo-4.4.2.1-1.fc23.x86_64.rpm", 
+    "pkg": "libreoffice-librelogo", 
+    "pkg_version": "4.4.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "libreoffice-librelogo-4.4.0.3-5.fc22.x86_64.rpm", 
+    "pkg": "libreoffice-librelogo", 
+    "pkg_version": "4.4.0.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "libreoffice-librelogo-4.3.6.2-4.fc21.x86_64.rpm", 
+    "pkg": "libreoffice-librelogo", 
+    "pkg_version": "4.3.6.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "libreoffice-librelogo-4.2.8.2-7.fc20.x86_64.rpm", 
+    "pkg": "libreoffice-librelogo", 
+    "pkg_version": "4.2.8.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "libreoffice-librelogo_4.3.3-0ubuntu1_all.deb", 
+    "pkg": "libreoffice-librelogo", 
+    "pkg_version": "4.3.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

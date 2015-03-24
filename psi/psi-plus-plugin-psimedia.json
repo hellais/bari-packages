@@ -1,0 +1,55 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "psi-plus-plugin-psimedia-1.0.3-alt2.1.x86_64.rpm", 
+    "pkg": "psi-plus-plugin-psimedia", 
+    "pkg_version": "1.0.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "psi-plus-plugin-psimedia_1.0.4-1_i386.deb", 
+    "pkg": "psi-plus-plugin-psimedia", 
+    "pkg_version": "1.0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "psi-plus-plugin-psimedia_1.0.4-1_i386.deb", 
+    "pkg": "psi-plus-plugin-psimedia", 
+    "pkg_version": "1.0.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "psi-plus-plugin-psimedia_1.0.3-git20120506-fb54b6e-1_i386.deb", 
+    "pkg": "psi-plus-plugin-psimedia", 
+    "pkg_version": "1.0.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "psi-plus-plugin-psimedia_1.0.4-1_i386.deb", 
+    "pkg": "psi-plus-plugin-psimedia", 
+    "pkg_version": "1.0.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "psi-plus-plugin-psimedia_1.0.3-git20131023-ea487d3-1_i386.deb", 
+    "pkg": "psi-plus-plugin-psimedia", 
+    "pkg_version": "1.0.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

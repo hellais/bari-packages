@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "texstudio-l10n_2.8.4+debian-3_all.deb", 
+    "pkg": "texstudio-l10n", 
+    "pkg_version": "2.8.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "texstudio-l10n_2.8.4+debian-3_all.deb", 
+    "pkg": "texstudio-l10n", 
+    "pkg_version": "2.8.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

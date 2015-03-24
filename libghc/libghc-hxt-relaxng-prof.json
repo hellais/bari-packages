@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-hxt-relaxng-prof_9.1.4-4+b3_i386.deb", 
+    "pkg": "libghc-hxt-relaxng-prof", 
+    "pkg_version": "9.1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-hxt-relaxng-prof_9.1.4-4+b3_i386.deb", 
+    "pkg": "libghc-hxt-relaxng-prof", 
+    "pkg_version": "9.1.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-hxt-relaxng-prof_9.1.4-1+b3_i386.deb", 
+    "pkg": "libghc-hxt-relaxng-prof", 
+    "pkg_version": "9.1.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-hxt-relaxng-prof_9.1.4-4build2_i386.deb", 
+    "pkg": "libghc-hxt-relaxng-prof", 
+    "pkg_version": "9.1.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-hxt-relaxng-prof_9.1.4-4build1_i386.deb", 
+    "pkg": "libghc-hxt-relaxng-prof", 
+    "pkg_version": "9.1.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

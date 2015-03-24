@@ -1,0 +1,225 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "mutt-1.4.2.3-alt7.x86_64.rpm", 
+    "pkg": "mutt", 
+    "pkg_version": "1.4.2.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "mutt-1.5.23-2-x86_64.pkg.tar.xz", 
+    "pkg": "mutt", 
+    "pkg_version": "1.5.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Psychotic Ninja Plus", 
+    "pkg_full_name": "mutt-1.5.23-8.el7.psychotic.x86_64.rpm", 
+    "pkg": "mutt", 
+    "pkg_version": "1.5.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Psychotic Ninja Plus", 
+    "pkg_full_name": "mutt-1.5.23-8.el6.psychotic.x86_64.rpm", 
+    "pkg": "mutt", 
+    "pkg_version": "1.5.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "mutt-1.4.2.2-6.el5.x86_64.rpm", 
+    "pkg": "mutt", 
+    "pkg_version": "1.4.2.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mutt_1.5.23-3_i386.deb", 
+    "pkg": "mutt", 
+    "pkg_version": "1.5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mutt_1.5.23-3_i386.deb", 
+    "pkg": "mutt", 
+    "pkg_version": "1.5.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "mutt_1.5.21-6.2+deb7u3_i386.deb", 
+    "pkg": "mutt", 
+    "pkg_version": "1.5.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mutt-1.5.23-7.fc22.x86_64.rpm", 
+    "pkg": "mutt", 
+    "pkg_version": "1.5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mutt-1.5.23-7.fc22.x86_64.rpm", 
+    "pkg": "mutt", 
+    "pkg_version": "1.5.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "mutt-1.5.23-7.fc21.x86_64.rpm", 
+    "pkg": "mutt", 
+    "pkg_version": "1.5.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "mutt-1.5.23-4.fc20.x86_64.rpm", 
+    "pkg": "mutt", 
+    "pkg_version": "1.5.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "mutt-1.5.21-13-omv2015.0.x86_64.rpm", 
+    "pkg": "mutt", 
+    "pkg_version": "1.5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "mutt-1.5.21-7-omv2014.0.x86_64.rpm", 
+    "pkg": "mutt", 
+    "pkg_version": "1.5.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "mutt-1.5.21-6-omv2013.0.x86_64.rpm", 
+    "pkg": "mutt", 
+    "pkg_version": "1.5.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "mutt-1.5.23-33.2.x86_64.rpm", 
+    "pkg": "mutt", 
+    "pkg_version": "1.5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "mutt-1.5.21-44.4.1.x86_64.rpm", 
+    "pkg": "mutt", 
+    "pkg_version": "1.5.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "mutt-1.5.21-41.8.1.x86_64.rpm", 
+    "pkg": "mutt", 
+    "pkg_version": "1.5.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "mutt-1.5.23-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "mutt", 
+    "pkg_version": "1.5.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "mutt-1.5.23-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "mutt", 
+    "pkg_version": "1.5.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackware Patches", 
+    "pkg_full_name": "mutt-1.5.23-x86_64-1_slack14.1.txz", 
+    "pkg": "mutt", 
+    "pkg_version": "1.5.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware Patches", 
+    "pkg_full_name": "mutt-1.5.23-x86_64-1_slack14.0.txz", 
+    "pkg": "mutt", 
+    "pkg_version": "1.5.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware Patches", 
+    "pkg_full_name": "mutt-1.5.23-x86_64-1_slack13.37.txz", 
+    "pkg": "mutt", 
+    "pkg_version": "1.5.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "mutt_1.5.23-1.1ubuntu0.2_i386.deb", 
+    "pkg": "mutt", 
+    "pkg_version": "1.5.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "mutt_1.5.21-6.4ubuntu2.1_i386.deb", 
+    "pkg": "mutt", 
+    "pkg_version": "1.5.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

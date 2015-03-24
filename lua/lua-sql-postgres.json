@@ -1,0 +1,46 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "lua-sql-postgres-2.3.0-1-x86_64.pkg.tar.xz", 
+    "pkg": "lua-sql-postgres", 
+    "pkg_version": "2.3.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lua-sql-postgres_2.3.0-4_i386.deb", 
+    "pkg": "lua-sql-postgres", 
+    "pkg_version": "2.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lua-sql-postgres_2.3.0-4_i386.deb", 
+    "pkg": "lua-sql-postgres", 
+    "pkg_version": "2.3.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lua-sql-postgres_2.3.0-1+build0_i386.deb", 
+    "pkg": "lua-sql-postgres", 
+    "pkg_version": "2.3.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "lua-sql-postgres_2.3.0-3_i386.deb", 
+    "pkg": "lua-sql-postgres", 
+    "pkg_version": "2.3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

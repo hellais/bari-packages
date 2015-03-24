@@ -1,0 +1,83 @@
+[
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "vowpal-wabbit_7.3-1~nd+1_i386.deb", 
+    "pkg": "vowpal-wabbit", 
+    "pkg_version": "7.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "vowpal-wabbit_7.3-1~nd80+1_i386.deb", 
+    "pkg": "vowpal-wabbit", 
+    "pkg_version": "7.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "vowpal-wabbit_7.3-1~nd70+1_i386.deb", 
+    "pkg": "vowpal-wabbit", 
+    "pkg_version": "7.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "vowpal-wabbit_7.3-1.1_i386.deb", 
+    "pkg": "vowpal-wabbit", 
+    "pkg_version": "7.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "lib64vowpal-wabbit0-7.3-2.mga4.x86_64.rpm", 
+    "pkg": "lib64vowpal-wabbit0", 
+    "pkg_version": "7.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "libvowpal-wabbit0-7.3-2.mga4.i586.rpm", 
+    "pkg": "libvowpal-wabbit0", 
+    "pkg_version": "7.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "vowpal-wabbit_7.3-1ubuntu1_i386.deb", 
+    "pkg": "vowpal-wabbit", 
+    "pkg_version": "7.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "lib64vowpal-wabbit0-7.3-2.mga4.x86_64.rpm", 
+    "pkg": "lib64vowpal-wabbit0", 
+    "pkg_version": "7.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "libvowpal-wabbit0-7.3-2.mga4.i586.rpm", 
+    "pkg": "libvowpal-wabbit0", 
+    "pkg_version": "7.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

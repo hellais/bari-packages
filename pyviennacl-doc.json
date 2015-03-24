@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pyviennacl-doc_1.0.2+dfsg-1_all.deb", 
+    "pkg": "pyviennacl-doc", 
+    "pkg_version": "1.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pyviennacl-doc_1.0.2+dfsg-1_all.deb", 
+    "pkg": "pyviennacl-doc", 
+    "pkg_version": "1.0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

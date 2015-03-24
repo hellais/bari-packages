@@ -1,0 +1,431 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "python-module-PyOpenGL-3.0.2-alt1_1.noarch.rpm", 
+    "pkg": "python-module-PyOpenGL", 
+    "pkg_version": "3.0.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "python-module-PyOpenGL-3.0.2-alt1_1.noarch.rpm", 
+    "pkg": "python-module-PyOpenGL", 
+    "pkg_version": "3.0.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "python-opengl-3.1.0-1-any.pkg.tar.xz", 
+    "pkg": "python-opengl", 
+    "pkg_version": "3.1.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "python-module-PyOpenGL-3.0.2-alt1_1.noarch.rpm", 
+    "pkg": "python-module-PyOpenGL", 
+    "pkg_version": "3.0.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "python-opengl-3.1.0-1-any.pkg.tar.xz", 
+    "pkg": "python-opengl", 
+    "pkg_version": "3.1.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "PyOpenGL-3.0.0-2.1.el6.noarch.rpm", 
+    "pkg": "PyOpenGL", 
+    "pkg_version": "3.0.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "python-module-PyOpenGL-3.0.2-alt1_1.noarch.rpm", 
+    "pkg": "python-module-PyOpenGL", 
+    "pkg_version": "3.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-opengl_3.0.2-1_all.deb", 
+    "pkg": "python-opengl", 
+    "pkg_version": "3.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "PyOpenGL-3.0.0-2.1.el6.noarch.rpm", 
+    "pkg": "PyOpenGL", 
+    "pkg_version": "3.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "python-module-PyOpenGL-3.0.2-alt1_1.noarch.rpm", 
+    "pkg": "python-module-PyOpenGL", 
+    "pkg_version": "3.0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-opengl_3.0.2-1_all.deb", 
+    "pkg": "python-opengl", 
+    "pkg_version": "3.0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "PyOpenGL-3.0.0-2.1.el6.noarch.rpm", 
+    "pkg": "PyOpenGL", 
+    "pkg_version": "3.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "python-module-PyOpenGL-3.0.2-alt1_1.noarch.rpm", 
+    "pkg": "python-module-PyOpenGL", 
+    "pkg_version": "3.0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-opengl_3.0.1-1_all.deb", 
+    "pkg": "python-opengl", 
+    "pkg_version": "3.0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "PyOpenGL-3.0.0-2.1.el6.noarch.rpm", 
+    "pkg": "PyOpenGL", 
+    "pkg_version": "3.0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "python-module-PyOpenGL-3.0.2-alt1_1.noarch.rpm", 
+    "pkg": "python-module-PyOpenGL", 
+    "pkg_version": "3.0.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-opengl_3.0.1-1_all.deb", 
+    "pkg": "python-opengl", 
+    "pkg_version": "3.0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "PyOpenGL-3.0.2-1.fc20.noarch.rpm", 
+    "pkg": "PyOpenGL", 
+    "pkg_version": "3.0.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "python-module-PyOpenGL-3.0.2-alt1_1.noarch.rpm", 
+    "pkg": "python-module-PyOpenGL", 
+    "pkg_version": "3.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-opengl-3.0.2-8-omv2015.0.noarch.rpm", 
+    "pkg": "python-opengl", 
+    "pkg_version": "3.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "PyOpenGL-3.0.2-1.fc20.noarch.rpm", 
+    "pkg": "PyOpenGL", 
+    "pkg_version": "3.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "python-module-PyOpenGL-3.0.2-alt1_1.noarch.rpm", 
+    "pkg": "python-module-PyOpenGL", 
+    "pkg_version": "3.0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-opengl-3.0.1-5-omv2014.0.noarch.rpm", 
+    "pkg": "python-opengl", 
+    "pkg_version": "3.0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "PyOpenGL-3.0.2-1.fc20.noarch.rpm", 
+    "pkg": "PyOpenGL", 
+    "pkg_version": "3.0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "python-module-PyOpenGL-3.0.2-alt1_1.noarch.rpm", 
+    "pkg": "python-module-PyOpenGL", 
+    "pkg_version": "3.0.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-opengl-3.0.1-4-omv2013.0.noarch.rpm", 
+    "pkg": "python-opengl", 
+    "pkg_version": "3.0.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "PyOpenGL-3.0.2-1.fc20.noarch.rpm", 
+    "pkg": "PyOpenGL", 
+    "pkg_version": "3.0.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "python-module-PyOpenGL-3.0.2-alt1_1.noarch.rpm", 
+    "pkg": "python-module-PyOpenGL", 
+    "pkg_version": "3.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-opengl-3.1.0-3.2.noarch.rpm", 
+    "pkg": "python-opengl", 
+    "pkg_version": "3.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "PyOpenGL-3.0.2-1.fc20.noarch.rpm", 
+    "pkg": "PyOpenGL", 
+    "pkg_version": "3.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "python-module-PyOpenGL-3.0.2-alt1_1.noarch.rpm", 
+    "pkg": "python-module-PyOpenGL", 
+    "pkg_version": "3.0.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-opengl-3.1.0-2.1.4.noarch.rpm", 
+    "pkg": "python-opengl", 
+    "pkg_version": "3.1.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "PyOpenGL-3.0.2-1.fc20.noarch.rpm", 
+    "pkg": "PyOpenGL", 
+    "pkg_version": "3.0.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "python-module-PyOpenGL-3.0.2-alt1_1.noarch.rpm", 
+    "pkg": "python-module-PyOpenGL", 
+    "pkg_version": "3.0.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-opengl-3.0.2-3.1.2.noarch.rpm", 
+    "pkg": "python-opengl", 
+    "pkg_version": "3.0.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "PyOpenGL-3.0.2-1.fc20.noarch.rpm", 
+    "pkg": "PyOpenGL", 
+    "pkg_version": "3.0.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "python-module-PyOpenGL-3.0.2-alt1_1.noarch.rpm", 
+    "pkg": "python-module-PyOpenGL", 
+    "pkg_version": "3.0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "python-opengl-3.0.2-2-rosa2014.1.noarch.rpm", 
+    "pkg": "python-opengl", 
+    "pkg_version": "3.0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "PyOpenGL-3.0.2-1.fc20.noarch.rpm", 
+    "pkg": "PyOpenGL", 
+    "pkg_version": "3.0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "python-module-PyOpenGL-3.0.2-alt1_1.noarch.rpm", 
+    "pkg": "python-module-PyOpenGL", 
+    "pkg_version": "3.0.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "python-opengl-3.0.2-1-rosa2012.1.noarch.rpm", 
+    "pkg": "python-opengl", 
+    "pkg_version": "3.0.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "PyOpenGL-3.0.2-1.fc20.noarch.rpm", 
+    "pkg": "PyOpenGL", 
+    "pkg_version": "3.0.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "python-module-PyOpenGL-3.0.2-alt1_1.noarch.rpm", 
+    "pkg": "python-module-PyOpenGL", 
+    "pkg_version": "3.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-opengl_3.0.2-1_all.deb", 
+    "pkg": "python-opengl", 
+    "pkg_version": "3.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "PyOpenGL-3.0.2-1.fc20.noarch.rpm", 
+    "pkg": "PyOpenGL", 
+    "pkg_version": "3.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "python-module-PyOpenGL-3.0.2-alt1_1.noarch.rpm", 
+    "pkg": "python-module-PyOpenGL", 
+    "pkg_version": "3.0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-opengl_3.0.2-1_all.deb", 
+    "pkg": "python-opengl", 
+    "pkg_version": "3.0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "PyOpenGL-3.0.2-1.fc20.noarch.rpm", 
+    "pkg": "PyOpenGL", 
+    "pkg_version": "3.0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

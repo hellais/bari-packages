@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xul-ext-ubiquity_0.6.4~pre20140729-1_all.deb", 
+    "pkg": "xul-ext-ubiquity", 
+    "pkg_version": "0.6.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xul-ext-ubiquity_0.6.4~pre20140729-1_all.deb", 
+    "pkg": "xul-ext-ubiquity", 
+    "pkg_version": "0.6.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

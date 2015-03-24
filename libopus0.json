@@ -1,0 +1,110 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libopus0_1.1-2_i386.deb", 
+    "pkg": "libopus0", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libopus0_1.1-2_i386.deb", 
+    "pkg": "libopus0", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libopus0_0.9.14+20120615-1+nmu1_i386.deb", 
+    "pkg": "libopus0", 
+    "pkg_version": "0.9.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libopus0-1.1.1-0.beta.1-omv2015.0.i586.rpm", 
+    "pkg": "libopus0", 
+    "pkg_version": "1.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libopus0-1.0.3-2-omv2014.0.i586.rpm", 
+    "pkg": "libopus0", 
+    "pkg_version": "1.0.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libopus0-1.0.3-1-omv2013.0.i586.rpm", 
+    "pkg": "libopus0", 
+    "pkg_version": "1.0.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libopus0-1.1-3.2.x86_64.rpm", 
+    "pkg": "libopus0", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libopus0-1.1-2.1.2.x86_64.rpm", 
+    "pkg": "libopus0", 
+    "pkg_version": "1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libopus0-1.0.3-2.1.2.i586.rpm", 
+    "pkg": "libopus0", 
+    "pkg_version": "1.0.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libopus0-1.1-10-rosa2014.1.i586.rpm", 
+    "pkg": "libopus0", 
+    "pkg_version": "1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "libopus0-1.0.3-1-rosa2012.1.i586.rpm", 
+    "pkg": "libopus0", 
+    "pkg_version": "1.0.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libopus0_1.1-0ubuntu1_i386.deb", 
+    "pkg": "libopus0", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

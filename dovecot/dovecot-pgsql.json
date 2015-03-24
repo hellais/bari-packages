@@ -1,0 +1,317 @@
+[
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "dovecot-2.2.10-1_14.el7.x86_64.rpm", 
+    "pkg": "dovecot", 
+    "pkg_version": "2.2.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "dovecot-pgsql-2.2.10-4.el7_0.1.x86_64.rpm", 
+    "pkg": "dovecot-pgsql", 
+    "pkg_version": "2.2.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "dovecot-2.2.10-1_14.el6.x86_64.rpm", 
+    "pkg": "dovecot", 
+    "pkg_version": "2.2.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Ghettoforge Testing", 
+    "pkg_full_name": "dovecot22-pgsql-2.2.13-1.gf.el6.x86_64.rpm", 
+    "pkg": "dovecot22-pgsql", 
+    "pkg_version": "2.2.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "dovecot-pgsql-2.0.9-8.el6_6.4.x86_64.rpm", 
+    "pkg": "dovecot-pgsql", 
+    "pkg_version": "2.0.9", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "dovecot-2.2.10-1_14.el5.x86_64.rpm", 
+    "pkg": "dovecot", 
+    "pkg_version": "2.2.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Ghettoforge Testing", 
+    "pkg_full_name": "dovecot22-pgsql-2.2.13-1.gf.el5.x86_64.rpm", 
+    "pkg": "dovecot22-pgsql", 
+    "pkg_version": "2.2.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Ghettoforge Testing", 
+    "pkg_full_name": "dovecot-pgsql-2.1.17-1.gf.el5.x86_64.rpm", 
+    "pkg": "dovecot-pgsql", 
+    "pkg_version": "2.1.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "dovecot-2.2.10-1_14.el5.x86_64.rpm", 
+    "pkg": "dovecot", 
+    "pkg_version": "2.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ghettoforge Testing", 
+    "pkg_full_name": "dovecot22-pgsql-2.2.13-1.gf.el5.x86_64.rpm", 
+    "pkg": "dovecot22-pgsql", 
+    "pkg_version": "2.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dovecot-pgsql_2.2.13-11_i386.deb", 
+    "pkg": "dovecot-pgsql", 
+    "pkg_version": "2.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "dovecot-2.2.10-1_14.el5.x86_64.rpm", 
+    "pkg": "dovecot", 
+    "pkg_version": "2.2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ghettoforge Testing", 
+    "pkg_full_name": "dovecot22-pgsql-2.2.13-1.gf.el5.x86_64.rpm", 
+    "pkg": "dovecot22-pgsql", 
+    "pkg_version": "2.2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dovecot-pgsql_2.2.13-11_i386.deb", 
+    "pkg": "dovecot-pgsql", 
+    "pkg_version": "2.2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "dovecot-2.2.10-1_14.el5.x86_64.rpm", 
+    "pkg": "dovecot", 
+    "pkg_version": "2.2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ghettoforge Testing", 
+    "pkg_full_name": "dovecot22-pgsql-2.2.13-1.gf.el5.x86_64.rpm", 
+    "pkg": "dovecot22-pgsql", 
+    "pkg_version": "2.2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "dovecot-pgsql_2.1.7-7+deb7u1_i386.deb", 
+    "pkg": "dovecot-pgsql", 
+    "pkg_version": "2.1.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "dovecot-2.2.10-1_14.el5.x86_64.rpm", 
+    "pkg": "dovecot", 
+    "pkg_version": "2.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ghettoforge Testing", 
+    "pkg_full_name": "dovecot22-pgsql-2.2.13-1.gf.el5.x86_64.rpm", 
+    "pkg": "dovecot22-pgsql", 
+    "pkg_version": "2.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "dovecot-pgsql-2.2.16-1.fc23.x86_64.rpm", 
+    "pkg": "dovecot-pgsql", 
+    "pkg_version": "2.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "dovecot-2.2.10-1_14.el5.x86_64.rpm", 
+    "pkg": "dovecot", 
+    "pkg_version": "2.2.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ghettoforge Testing", 
+    "pkg_full_name": "dovecot22-pgsql-2.2.13-1.gf.el5.x86_64.rpm", 
+    "pkg": "dovecot22-pgsql", 
+    "pkg_version": "2.2.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "dovecot-pgsql-2.2.15-3.fc22.x86_64.rpm", 
+    "pkg": "dovecot-pgsql", 
+    "pkg_version": "2.2.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ATrpms Testing", 
+    "pkg_full_name": "dovecot-2.2.10-1_14.el5.x86_64.rpm", 
+    "pkg": "dovecot", 
+    "pkg_version": "2.2.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ghettoforge Testing", 
+    "pkg_full_name": "dovecot22-pgsql-2.2.13-1.gf.el5.x86_64.rpm", 
+    "pkg": "dovecot22-pgsql", 
+    "pkg_version": "2.2.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "dovecot-pgsql-2.2.15-3.fc21.x86_64.rpm", 
+    "pkg": "dovecot-pgsql", 
+    "pkg_version": "2.2.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "dovecot-2.2.10-1_14.fc20.x86_64.rpm", 
+    "pkg": "dovecot", 
+    "pkg_version": "2.2.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ghettoforge Testing", 
+    "pkg_full_name": "dovecot22-pgsql-2.2.13-1.gf.el5.x86_64.rpm", 
+    "pkg": "dovecot22-pgsql", 
+    "pkg_version": "2.2.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "dovecot-pgsql-2.2.15-3.fc20.x86_64.rpm", 
+    "pkg": "dovecot-pgsql", 
+    "pkg_version": "2.2.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "dovecot-2.2.10-1_14.fc20.x86_64.rpm", 
+    "pkg": "dovecot", 
+    "pkg_version": "2.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ghettoforge Testing", 
+    "pkg_full_name": "dovecot22-pgsql-2.2.13-1.gf.el5.x86_64.rpm", 
+    "pkg": "dovecot22-pgsql", 
+    "pkg_version": "2.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "dovecot-pgsql_2.2.9-1ubuntu5_i386.deb", 
+    "pkg": "dovecot-pgsql", 
+    "pkg_version": "2.2.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "dovecot-2.2.10-1_14.fc20.x86_64.rpm", 
+    "pkg": "dovecot", 
+    "pkg_version": "2.2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ghettoforge Testing", 
+    "pkg_full_name": "dovecot22-pgsql-2.2.13-1.gf.el5.x86_64.rpm", 
+    "pkg": "dovecot22-pgsql", 
+    "pkg_version": "2.2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "dovecot-pgsql_2.2.9-1ubuntu2.1_i386.deb", 
+    "pkg": "dovecot-pgsql", 
+    "pkg_version": "2.2.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "siril-0.8-9.el6.x86_64.rpm", 
+    "pkg": "siril", 
+    "pkg_version": "0.8", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "siril_0.9.0~rc1-1_i386.deb", 
+    "pkg": "siril", 
+    "pkg_version": "0.9.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "siril-0.8-19.fc22.x86_64.rpm", 
+    "pkg": "siril", 
+    "pkg_version": "0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "siril-0.8-19.fc22.x86_64.rpm", 
+    "pkg": "siril", 
+    "pkg_version": "0.8", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "siril-0.8-19.fc21.x86_64.rpm", 
+    "pkg": "siril", 
+    "pkg_version": "0.8", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

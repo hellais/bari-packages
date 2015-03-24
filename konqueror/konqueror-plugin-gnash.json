@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Gnash", 
+    "pkg_full_name": "konqueror-plugin-gnash_0.8.11~git.master21579-1~sid_i386.deb", 
+    "pkg": "konqueror-plugin-gnash", 
+    "pkg_version": "0.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Gnash", 
+    "pkg_full_name": "konqueror-plugin-gnash_0.8.11~git.master21704-1~wheezy_i386.deb", 
+    "pkg": "konqueror-plugin-gnash", 
+    "pkg_version": "0.8.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "konqueror-plugin-gnash_0.8.11~git20140419-1ubuntu2_i386.deb", 
+    "pkg": "konqueror-plugin-gnash", 
+    "pkg_version": "0.8.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "konqueror-plugin-gnash_0.8.11~git20130903-3ubuntu1_i386.deb", 
+    "pkg": "konqueror-plugin-gnash", 
+    "pkg_version": "0.8.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

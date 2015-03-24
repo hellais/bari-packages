@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-pyvmomi_5.5.0-2014.1.1-3_all.deb", 
+    "pkg": "python3-pyvmomi", 
+    "pkg_version": "5.5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-pyvmomi_5.5.0-2014.1.1-2_all.deb", 
+    "pkg": "python3-pyvmomi", 
+    "pkg_version": "5.5.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-pyvmomi-5.5.0.2014.1.1-2.fc22.noarch.rpm", 
+    "pkg": "python3-pyvmomi", 
+    "pkg_version": "5.5.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-pyvmomi-5.5.0.2014.1.1-2.fc22.noarch.rpm", 
+    "pkg": "python3-pyvmomi", 
+    "pkg_version": "5.5.0.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-pyvmomi-5.5.0.2014.1.1-2.fc21.noarch.rpm", 
+    "pkg": "python3-pyvmomi", 
+    "pkg_version": "5.5.0.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

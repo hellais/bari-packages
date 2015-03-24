@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-egenix-mxurl_3.2.8-1_i386.deb", 
+    "pkg": "python-egenix-mxurl", 
+    "pkg_version": "3.2.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-egenix-mxurl_3.2.8-1_i386.deb", 
+    "pkg": "python-egenix-mxurl", 
+    "pkg_version": "3.2.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-egenix-mxurl_3.2.1-1.1_i386.deb", 
+    "pkg": "python-egenix-mxurl", 
+    "pkg_version": "3.2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python-egenix-mxurl_3.2.7-1build1_i386.deb", 
+    "pkg": "python-egenix-mxurl", 
+    "pkg_version": "3.2.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python-egenix-mxurl_3.2.7-1build1_i386.deb", 
+    "pkg": "python-egenix-mxurl", 
+    "pkg_version": "3.2.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

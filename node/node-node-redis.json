@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "node-node-redis_0.1.7-1_all.deb", 
+    "pkg": "node-node-redis", 
+    "pkg_version": "0.1.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "node-node-redis_0.1.7-1_all.deb", 
+    "pkg": "node-node-redis", 
+    "pkg_version": "0.1.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "node-node-redis_0.1.6-2_all.deb", 
+    "pkg": "node-node-redis", 
+    "pkg_version": "0.1.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-riemann-client_0.2.3-1_all.deb", 
+    "pkg": "ruby-riemann-client", 
+    "pkg_version": "0.2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

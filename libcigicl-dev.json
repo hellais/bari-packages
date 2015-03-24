@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcigicl-dev_3.3.3a+svn818-8_i386.deb", 
+    "pkg": "libcigicl-dev", 
+    "pkg_version": "3.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcigicl-dev_3.3.3a+svn818-7_i386.deb", 
+    "pkg": "libcigicl-dev", 
+    "pkg_version": "3.3.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

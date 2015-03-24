@@ -1,0 +1,136 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "mstflint-1.4-alt2.qa1.x86_64.rpm", 
+    "pkg": "mstflint", 
+    "pkg_version": "1.4", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "mstflint-3.5.0-1.el7.x86_64.rpm", 
+    "pkg": "mstflint", 
+    "pkg_version": "3.5.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "mstflint-3.6.0-0.1_1.8.g7d4dede.el6.x86_64.rpm", 
+    "pkg": "mstflint", 
+    "pkg_version": "3.6.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "mstflint-1.4-2.el5.x86_64.rpm", 
+    "pkg": "mstflint", 
+    "pkg_version": "1.4", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mstflint_3.7.0+1.18.gcdb9f80-3_i386.deb", 
+    "pkg": "mstflint", 
+    "pkg_version": "3.7.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mstflint_3.7.0+1.18.gcdb9f80-3_i386.deb", 
+    "pkg": "mstflint", 
+    "pkg_version": "3.7.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mstflint_1.4-OFED-1.4.2-1_i386.deb", 
+    "pkg": "mstflint", 
+    "pkg_version": "1.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mstflint-3.0-0.9.g6961daa.1.fc22.x86_64.rpm", 
+    "pkg": "mstflint", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mstflint-3.0-0.9.g6961daa.1.fc22.x86_64.rpm", 
+    "pkg": "mstflint", 
+    "pkg_version": "3.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mstflint-3.0-0.9.g6961daa.1.fc21.x86_64.rpm", 
+    "pkg": "mstflint", 
+    "pkg_version": "3.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mstflint-1.4-10.fc20.x86_64.rpm", 
+    "pkg": "mstflint", 
+    "pkg_version": "1.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "mstflint-4.0.0-1.1.x86_64.rpm", 
+    "pkg": "mstflint", 
+    "pkg_version": "4.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "mstflint-3.6.0-2.1.5.x86_64.rpm", 
+    "pkg": "mstflint", 
+    "pkg_version": "3.6.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mstflint_3.7.0-1_i386.deb", 
+    "pkg": "mstflint", 
+    "pkg_version": "3.7.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mstflint_1.4-OFED-1.4.2-1_i386.deb", 
+    "pkg": "mstflint", 
+    "pkg_version": "1.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

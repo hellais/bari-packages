@@ -1,0 +1,118 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "console-setup-1.116-alt1_1.noarch.rpm", 
+    "pkg": "console-setup", 
+    "pkg_version": "1.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "WTF", 
+    "pkg_full_name": "console-setup_1.119+wtf1_all.deb", 
+    "pkg": "console-setup", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "console-setup_1.119_all.deb", 
+    "pkg": "console-setup", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "WTF", 
+    "pkg_full_name": "console-setup_1.119+wtf1_all.deb", 
+    "pkg": "console-setup", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "console-setup-1.118-1.fc23.noarch.rpm", 
+    "pkg": "console-setup", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "console-setup-1.116-1.fc22.noarch.rpm", 
+    "pkg": "console-setup", 
+    "pkg_version": "1.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "console-setup-1.108-2.fc21.noarch.rpm", 
+    "pkg": "console-setup", 
+    "pkg_version": "1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "console-setup-1.87-4.fc20.noarch.rpm", 
+    "pkg": "console-setup", 
+    "pkg_version": "1.8", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "console-setup-1.104-3-omv2015.0.noarch.rpm", 
+    "pkg": "console-setup", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "console-setup-1.87-3.2-omv2014.0.noarch.rpm", 
+    "pkg": "console-setup", 
+    "pkg_version": "1.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "console-setup-1.87-3-omv2013.0.noarch.rpm", 
+    "pkg": "console-setup", 
+    "pkg_version": "1.8", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "console-setup_1.70ubuntu9_all.deb", 
+    "pkg": "console-setup", 
+    "pkg_version": "1.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "console-setup_1.70ubuntu8_all.deb", 
+    "pkg": "console-setup", 
+    "pkg_version": "1.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

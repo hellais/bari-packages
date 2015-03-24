@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-pyte-doc_0.4.8-1_all.deb", 
+    "pkg": "python-pyte-doc", 
+    "pkg_version": "0.4.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "abyssinica-fonts-1.0-5.1.el6.noarch.rpm", 
+    "pkg": "abyssinica-fonts", 
+    "pkg_version": "1.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fonts-sil-abyssinica_1.500-1_all.deb", 
+    "pkg": "fonts-sil-abyssinica", 
+    "pkg_version": "1.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "abyssinica-fonts-1.0-5.1.el6.noarch.rpm", 
+    "pkg": "abyssinica-fonts", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fonts-sil-abyssinica_1.500-1_all.deb", 
+    "pkg": "fonts-sil-abyssinica", 
+    "pkg_version": "1.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "abyssinica-fonts-1.0-5.1.el6.noarch.rpm", 
+    "pkg": "abyssinica-fonts", 
+    "pkg_version": "1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "fonts-sil-abyssinica_1.200-3_all.deb", 
+    "pkg": "fonts-sil-abyssinica", 
+    "pkg_version": "1.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "abyssinica-fonts-1.0-5.1.el6.noarch.rpm", 
+    "pkg": "abyssinica-fonts", 
+    "pkg_version": "1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "fonts-sil-abyssinica_1.500-1_all.deb", 
+    "pkg": "fonts-sil-abyssinica", 
+    "pkg_version": "1.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "abyssinica-fonts-1.0-5.1.el6.noarch.rpm", 
+    "pkg": "abyssinica-fonts", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "fonts-sil-abyssinica_1.200-6_all.deb", 
+    "pkg": "fonts-sil-abyssinica", 
+    "pkg_version": "1.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "abyssinica-fonts-1.0-5.1.el6.noarch.rpm", 
+    "pkg": "abyssinica-fonts", 
+    "pkg_version": "1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

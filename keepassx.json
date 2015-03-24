@@ -1,0 +1,225 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "keepassx-0.4.3-alt3.x86_64.rpm", 
+    "pkg": "keepassx", 
+    "pkg_version": "0.4.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "keepassx-0.4.3-6-x86_64.pkg.tar.xz", 
+    "pkg": "keepassx", 
+    "pkg_version": "0.4.3", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "PUIAS Updates", 
+    "pkg_full_name": "keepassx-0.4.3-7.sdl7.x86_64.rpm", 
+    "pkg": "keepassx", 
+    "pkg_version": "0.4.3", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS", 
+    "pkg_full_name": "keepassx-0.4.3-1.puias6.x86_64.rpm", 
+    "pkg": "keepassx", 
+    "pkg_version": "0.4.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "keepassx-0.3.3-1.PU_IAS.1.x86_64.rpm", 
+    "pkg": "keepassx", 
+    "pkg_version": "0.3.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "keepassx_0.4.3+dfsg-0.1_i386.deb", 
+    "pkg": "keepassx", 
+    "pkg_version": "0.4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "keepassx_0.4.3+dfsg-0.1_i386.deb", 
+    "pkg": "keepassx", 
+    "pkg_version": "0.4.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "keepassx_0.4.3+dfsg-0.1_i386.deb", 
+    "pkg": "keepassx", 
+    "pkg_version": "0.4.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "keepassx-0.4.3-11.fc22.x86_64.rpm", 
+    "pkg": "keepassx", 
+    "pkg_version": "0.4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "keepassx-0.4.3-11.fc22.x86_64.rpm", 
+    "pkg": "keepassx", 
+    "pkg_version": "0.4.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "keepassx-0.4.3-11.fc21.x86_64.rpm", 
+    "pkg": "keepassx", 
+    "pkg_version": "0.4.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "keepassx-0.4.3-8.fc20.x86_64.rpm", 
+    "pkg": "keepassx", 
+    "pkg_version": "0.4.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "keepassx-0.4.3-3-omv2013.0.x86_64.rpm", 
+    "pkg": "keepassx", 
+    "pkg_version": "0.4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib Updates", 
+    "pkg_full_name": "keepassx-0.4.3-3-omv2013.0.x86_64.rpm", 
+    "pkg": "keepassx", 
+    "pkg_version": "0.4.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib Updates", 
+    "pkg_full_name": "keepassx-0.4.3-3-omv2013.0.x86_64.rpm", 
+    "pkg": "keepassx", 
+    "pkg_version": "0.4.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "keepassx-2.0~alpha6-21.8.x86_64.rpm", 
+    "pkg": "keepassx", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "keepassx-2.0~alpha6-21.1.x86_64.rpm", 
+    "pkg": "keepassx", 
+    "pkg_version": "2.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "keepassx-2.0~alpha6-21.38.i586.rpm", 
+    "pkg": "keepassx", 
+    "pkg_version": "2.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "keepassx-0.4.3-4-rosa2014.1.x86_64.rpm", 
+    "pkg": "keepassx", 
+    "pkg_version": "0.4.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "keepassx-0.4.3-3-rosa2012.1.x86_64.rpm", 
+    "pkg": "keepassx", 
+    "pkg_version": "0.4.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackers", 
+    "pkg_full_name": "keepassx-2.0_alpha6-x86_64-1cf.txz", 
+    "pkg": "keepassx", 
+    "pkg_version": "2.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "keepassx-0.4.3-i486-5sl.txz", 
+    "pkg": "keepassx", 
+    "pkg_version": "0.4.3", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "keepassx-0.4.3-i486-3sl.txz", 
+    "pkg": "keepassx", 
+    "pkg_version": "0.4.3", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "keepassx_0.4.3+dfsg-0.1ubuntu1_i386.deb", 
+    "pkg": "keepassx", 
+    "pkg_version": "0.4.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "keepassx_0.4.3+dfsg-0.1ubuntu1_i386.deb", 
+    "pkg": "keepassx", 
+    "pkg_version": "0.4.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

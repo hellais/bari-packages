@@ -1,0 +1,208 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "lyx-2.0.5.1-alt1.1.x86_64.rpm", 
+    "pkg": "lyx", 
+    "pkg_version": "2.0.5.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "lyx-common-2.1.2.2-1.el7.noarch.rpm", 
+    "pkg": "lyx-common", 
+    "pkg_version": "2.1.2.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "lyx-2.0.5.1-alt1.1.x86_64.rpm", 
+    "pkg": "lyx", 
+    "pkg_version": "2.0.5.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS", 
+    "pkg_full_name": "lyx-common-2.0.4-1.puias6.noarch.rpm", 
+    "pkg": "lyx-common", 
+    "pkg_version": "2.0.4", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "lyx-2.0.5.1-alt1.1.x86_64.rpm", 
+    "pkg": "lyx", 
+    "pkg_version": "2.0.5.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lyx-common_2.1.3-1_all.deb", 
+    "pkg": "lyx-common", 
+    "pkg_version": "2.1.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "lyx-2.0.5.1-alt1.1.x86_64.rpm", 
+    "pkg": "lyx", 
+    "pkg_version": "2.0.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lyx-common_2.1.2-2_all.deb", 
+    "pkg": "lyx-common", 
+    "pkg_version": "2.1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "lyx-2.0.5.1-alt1.1.x86_64.rpm", 
+    "pkg": "lyx", 
+    "pkg_version": "2.0.5.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lyx-common_2.0.3-3_all.deb", 
+    "pkg": "lyx-common", 
+    "pkg_version": "2.0.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "lyx-2.0.5.1-alt1.1.x86_64.rpm", 
+    "pkg": "lyx", 
+    "pkg_version": "2.0.5.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lyx-common-2.1.3-1.fc23.noarch.rpm", 
+    "pkg": "lyx-common", 
+    "pkg_version": "2.1.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "lyx-2.0.5.1-alt1.1.x86_64.rpm", 
+    "pkg": "lyx", 
+    "pkg_version": "2.0.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lyx-common-2.1.3-1.fc22.noarch.rpm", 
+    "pkg": "lyx-common", 
+    "pkg_version": "2.1.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "lyx-2.0.5.1-alt1.1.x86_64.rpm", 
+    "pkg": "lyx", 
+    "pkg_version": "2.0.5.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "lyx-common-2.1.3-1.fc21.noarch.rpm", 
+    "pkg": "lyx-common", 
+    "pkg_version": "2.1.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "lyx-2.0.5.1-alt1.1.x86_64.rpm", 
+    "pkg": "lyx", 
+    "pkg_version": "2.0.5.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "lyx-common-2.1.3-1.fc20.noarch.rpm", 
+    "pkg": "lyx-common", 
+    "pkg_version": "2.1.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "lyx-2.0.5.1-alt1.1.x86_64.rpm", 
+    "pkg": "lyx", 
+    "pkg_version": "2.0.5.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "lyx-common_2.0.6-1build2_all.deb", 
+    "pkg": "lyx-common", 
+    "pkg_version": "2.0.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "lyx-2.0.5.1-alt1.1.x86_64.rpm", 
+    "pkg": "lyx", 
+    "pkg_version": "2.0.5.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "lyx-common_2.0.6-1build1_all.deb", 
+    "pkg": "lyx-common", 
+    "pkg_version": "2.0.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "lyx-2.0.5.1-alt1.1.x86_64.rpm", 
+    "pkg": "lyx", 
+    "pkg_version": "2.0.5.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

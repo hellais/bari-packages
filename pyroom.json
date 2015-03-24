@@ -1,0 +1,118 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "pyroom-0.4.1-alt1_10.noarch.rpm", 
+    "pkg": "pyroom", 
+    "pkg_version": "0.4.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "pyroom-0.4.1-2.el6.nux.noarch.rpm", 
+    "pkg": "pyroom", 
+    "pkg_version": "0.4.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pyroom_0.4.1-6_all.deb", 
+    "pkg": "pyroom", 
+    "pkg_version": "0.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pyroom_0.4.1-6_all.deb", 
+    "pkg": "pyroom", 
+    "pkg_version": "0.4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pyroom_0.4.1-6_all.deb", 
+    "pkg": "pyroom", 
+    "pkg_version": "0.4.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pyroom-0.4.1-10.fc21.noarch.rpm", 
+    "pkg": "pyroom", 
+    "pkg_version": "0.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pyroom-0.4.1-10.fc21.noarch.rpm", 
+    "pkg": "pyroom", 
+    "pkg_version": "0.4.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pyroom-0.4.1-10.fc21.noarch.rpm", 
+    "pkg": "pyroom", 
+    "pkg_version": "0.4.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pyroom-0.4.1-9.fc20.noarch.rpm", 
+    "pkg": "pyroom", 
+    "pkg_version": "0.4.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "pyroom-0.4.1-x86_64-2gv.txz", 
+    "pkg": "pyroom", 
+    "pkg_version": "0.4.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "pyroom-0.4.1-x86_64-2gv.txz", 
+    "pkg": "pyroom", 
+    "pkg_version": "0.4.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "pyroom_0.4.1-6_all.deb", 
+    "pkg": "pyroom", 
+    "pkg_version": "0.4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "pyroom_0.4.1-6_all.deb", 
+    "pkg": "pyroom", 
+    "pkg_version": "0.4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnome-alsamixer-0.9.7-alt6.x86_64.rpm", 
+    "pkg": "gnome-alsamixer", 
+    "pkg_version": "0.9.7", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gnome-alsamixer-0.9.7-1-x86_64.pkg.tar.xz", 
+    "pkg": "gnome-alsamixer", 
+    "pkg_version": "0.9.7", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "gnome-alsamixer-0.9.6-6.el7.x86_64.rpm", 
+    "pkg": "gnome-alsamixer", 
+    "pkg_version": "0.9.6", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "LinuxTECH", 
+    "pkg_full_name": "gnome-alsamixer-0.9.7-0.20110630.1.el6.x86_64.rpm", 
+    "pkg": "gnome-alsamixer", 
+    "pkg_version": "0.9.7", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "gnome-alsamixer-0.9.6-6.el5.x86_64.rpm", 
+    "pkg": "gnome-alsamixer", 
+    "pkg_version": "0.9.6", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-alsamixer_0.9.7~cvs.20060916.ds.1-5_i386.deb", 
+    "pkg": "gnome-alsamixer", 
+    "pkg_version": "0.9.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-alsamixer_0.9.7~cvs.20060916.ds.1-3_i386.deb", 
+    "pkg": "gnome-alsamixer", 
+    "pkg_version": "0.9.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "gnome-alsamixer-0.9.6-6.fc20.x86_64.rpm", 
+    "pkg": "gnome-alsamixer", 
+    "pkg_version": "0.9.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "gnome-alsamixer-0.9.7-0.205.5-omv2015.0.x86_64.rpm", 
+    "pkg": "gnome-alsamixer", 
+    "pkg_version": "0.9.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "gnome-alsamixer-0.9.7-0.205.5-rosa2014.1.x86_64.rpm", 
+    "pkg": "gnome-alsamixer", 
+    "pkg_version": "0.9.7", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "gnome-alsamixer-0.9.7-0.205.5-rosa2012.1.x86_64.rpm", 
+    "pkg": "gnome-alsamixer", 
+    "pkg_version": "0.9.7", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnome-alsamixer_0.9.7~cvs.20060916.ds.1-5_i386.deb", 
+    "pkg": "gnome-alsamixer", 
+    "pkg_version": "0.9.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnome-alsamixer_0.9.7~cvs.20060916.ds.1-5_i386.deb", 
+    "pkg": "gnome-alsamixer", 
+    "pkg_version": "0.9.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

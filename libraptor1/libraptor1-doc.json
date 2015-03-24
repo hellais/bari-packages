@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libraptor1-doc_1.4.21-11_all.deb", 
+    "pkg": "libraptor1-doc", 
+    "pkg_version": "1.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libraptor1-doc_1.4.21-11_all.deb", 
+    "pkg": "libraptor1-doc", 
+    "pkg_version": "1.4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libraptor1-doc_1.4.21-7.1_all.deb", 
+    "pkg": "libraptor1-doc", 
+    "pkg_version": "1.4.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libraptor1-doc_1.4.21-11_all.deb", 
+    "pkg": "libraptor1-doc", 
+    "pkg_version": "1.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libraptor1-doc_1.4.21-10_all.deb", 
+    "pkg": "libraptor1-doc", 
+    "pkg_version": "1.4.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

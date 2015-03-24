@@ -1,0 +1,46 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-raindrops-0.7.0-alt2.2.x86_64.rpm", 
+    "pkg": "ruby-raindrops", 
+    "pkg_version": "0.7.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-raindrops_0.13.0-1+b2_i386.deb", 
+    "pkg": "ruby-raindrops", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-raindrops_0.13.0-1+b2_i386.deb", 
+    "pkg": "ruby-raindrops", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-raindrops_0.9.0-1_i386.deb", 
+    "pkg": "ruby-raindrops", 
+    "pkg_version": "0.9.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ruby-raindrops_0.13.0-1_i386.deb", 
+    "pkg": "ruby-raindrops", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,180 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "dsniff-2.4-alt0.12.b1.x86_64.rpm", 
+    "pkg": "dsniff", 
+    "pkg_version": "2.4", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "dsniff-2.4b1-22-x86_64.pkg.tar.xz", 
+    "pkg": "dsniff", 
+    "pkg_version": "2.4", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "dsniff-2.4-0.17.b1.el7.x86_64.rpm", 
+    "pkg": "dsniff", 
+    "pkg_version": "2.4", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "dsniff-2.4-0.17.b1.el6.x86_64.rpm", 
+    "pkg": "dsniff", 
+    "pkg_version": "2.4", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "dsniff-2.4-0.1.b1.el5.rf.x86_64.rpm", 
+    "pkg": "dsniff", 
+    "pkg_version": "2.4", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dsniff_2.4b1+debian-22.1+b1_i386.deb", 
+    "pkg": "dsniff", 
+    "pkg_version": "2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dsniff_2.4b1+debian-22.1+b1_i386.deb", 
+    "pkg": "dsniff", 
+    "pkg_version": "2.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dsniff_2.4b1+debian-22_i386.deb", 
+    "pkg": "dsniff", 
+    "pkg_version": "2.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "dsniff-2.4-0.19.b1.fc22.x86_64.rpm", 
+    "pkg": "dsniff", 
+    "pkg_version": "2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "dsniff-2.4-0.19.b1.fc22.x86_64.rpm", 
+    "pkg": "dsniff", 
+    "pkg_version": "2.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "dsniff-2.4-0.19.b1.fc21.x86_64.rpm", 
+    "pkg": "dsniff", 
+    "pkg_version": "2.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "dsniff-2.4-0.17.b1.fc20.x86_64.rpm", 
+    "pkg": "dsniff", 
+    "pkg_version": "2.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "dsniff-2.4-0.b2.18-omv2013.0.x86_64.rpm", 
+    "pkg": "dsniff", 
+    "pkg_version": "2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "dsniff-2.4-0.b2.18-omv2013.0.x86_64.rpm", 
+    "pkg": "dsniff", 
+    "pkg_version": "2.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "dsniff-2.4-0.b2.18-omv2013.0.x86_64.rpm", 
+    "pkg": "dsniff", 
+    "pkg_version": "2.4", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Network Utilities", 
+    "pkg_full_name": "dsniff-2.4_0.1-6.65.x86_64.rpm", 
+    "pkg": "dsniff", 
+    "pkg_version": "2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Network Utilities", 
+    "pkg_full_name": "dsniff-2.4_0.1-6.5.x86_64.rpm", 
+    "pkg": "dsniff", 
+    "pkg_version": "2.4", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Slackers", 
+    "pkg_full_name": "dsniff-2.4b1-x86_64-1cf.txz", 
+    "pkg": "dsniff", 
+    "pkg_version": "2.4", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "dsniff_2.4b1+debian-22.1_i386.deb", 
+    "pkg": "dsniff", 
+    "pkg_version": "2.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "dsniff_2.4b1+debian-22.1_i386.deb", 
+    "pkg": "dsniff", 
+    "pkg_version": "2.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

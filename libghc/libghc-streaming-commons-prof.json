@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-streaming-commons-prof_0.1.4.1-1_i386.deb", 
+    "pkg": "libghc-streaming-commons-prof", 
+    "pkg_version": "0.1.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-streaming-commons-prof_0.1.4.1-1_i386.deb", 
+    "pkg": "libghc-streaming-commons-prof", 
+    "pkg_version": "0.1.4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

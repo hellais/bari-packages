@@ -1,0 +1,137 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-django_1.7.7-1_all.deb", 
+    "pkg": "python3-django", 
+    "pkg_version": "1.7.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-django_1.7.6-1_all.deb", 
+    "pkg": "python3-django", 
+    "pkg_version": "1.7.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "python3-django_1.7.1-1~bpo70+1_all.deb", 
+    "pkg": "python3-django", 
+    "pkg_version": "1.7.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-django-1.8-0.7.c1.fc23.noarch.rpm", 
+    "pkg": "python3-django", 
+    "pkg_version": "1.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-django-1.7.3-2.fc22.noarch.rpm", 
+    "pkg": "python3-django", 
+    "pkg_version": "1.7.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python3-django-1.6.10-1.fc21.noarch.rpm", 
+    "pkg": "python3-django", 
+    "pkg_version": "1.6.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python3-django-1.6.10-1.fc20.noarch.rpm", 
+    "pkg": "python3-django", 
+    "pkg_version": "1.6.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Mageia Core Updates", 
+    "pkg_full_name": "python3-django-1.5.9-1.mga4.noarch.rpm", 
+    "pkg": "python3-django", 
+    "pkg_version": "1.5.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python3-Django-1.7.3-1.2.noarch.rpm", 
+    "pkg": "python3-Django", 
+    "pkg_version": "1.7.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mageia Core Updates", 
+    "pkg_full_name": "python3-django-1.5.9-1.mga4.noarch.rpm", 
+    "pkg": "python3-django", 
+    "pkg_version": "1.5.9", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python3-Django-1.6-4.1.2.noarch.rpm", 
+    "pkg": "python3-Django", 
+    "pkg_version": "1.6", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python3-django-1.5.2-2.1.2.noarch.rpm", 
+    "pkg": "python3-django", 
+    "pkg_version": "1.5.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python3-Django-1.6-4.1.2.noarch.rpm", 
+    "pkg": "python3-Django", 
+    "pkg_version": "1.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "python3-django-1.7.3-1-rosa2014.1.noarch.rpm", 
+    "pkg": "python3-django", 
+    "pkg_version": "1.7.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python3-Django-1.6-4.1.2.noarch.rpm", 
+    "pkg": "python3-Django", 
+    "pkg_version": "1.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

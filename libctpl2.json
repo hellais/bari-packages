@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libctpl2_0.3.3.dfsg-4_i386.deb", 
+    "pkg": "libctpl2", 
+    "pkg_version": "0.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libctpl2_0.3.3.dfsg-4_i386.deb", 
+    "pkg": "libctpl2", 
+    "pkg_version": "0.3.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libctpl2_0.3.3.dfsg-2_i386.deb", 
+    "pkg": "libctpl2", 
+    "pkg_version": "0.3.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "libctpl2-0.3.3-1-omv2013.0.i586.rpm", 
+    "pkg": "libctpl2", 
+    "pkg_version": "0.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "libctpl2-0.3.3-2-rosa2014.1.i586.rpm", 
+    "pkg": "libctpl2", 
+    "pkg_version": "0.3.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "libctpl2-0.3.3-1-rosa2012.1.i586.rpm", 
+    "pkg": "libctpl2", 
+    "pkg_version": "0.3.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libctpl2_0.3.3.dfsg-4_i386.deb", 
+    "pkg": "libctpl2", 
+    "pkg_version": "0.3.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libctpl2_0.3.3.dfsg-4_i386.deb", 
+    "pkg": "libctpl2", 
+    "pkg_version": "0.3.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

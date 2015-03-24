@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-gd-dev_3000.7.3-3+b3_i386.deb", 
+    "pkg": "libghc-gd-dev_300", 
+    "pkg_version": "0.7.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-gd-dev_3000.7.3-3+b3_i386.deb", 
+    "pkg": "libghc-gd-dev_300", 
+    "pkg_version": "0.7.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-gd-dev_3000.7.3-1_i386.deb", 
+    "pkg": "libghc-gd-dev_300", 
+    "pkg_version": "0.7.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-gd-dev_3000.7.3-3_i386.deb", 
+    "pkg": "libghc-gd-dev_300", 
+    "pkg_version": "0.7.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

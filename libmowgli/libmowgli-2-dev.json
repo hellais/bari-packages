@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libmowgli-2-dev_2.0.0-dmo1_i386.deb", 
+    "pkg": "libmowgli-2-dev", 
+    "pkg_version": "2.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libmowgli-2-dev_2.0.0-dmo1_i386.deb", 
+    "pkg": "libmowgli-2-dev", 
+    "pkg_version": "2.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libmowgli-2-dev_2.0.0-3_i386.deb", 
+    "pkg": "libmowgli-2-dev", 
+    "pkg_version": "2.0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

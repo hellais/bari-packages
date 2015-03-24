@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsipwitch1_1.6.1-1+b3_i386.deb", 
+    "pkg": "libsipwitch1", 
+    "pkg_version": "1.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsipwitch1_1.6.1-1+b3_i386.deb", 
+    "pkg": "libsipwitch1", 
+    "pkg_version": "1.6.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsipwitch1_1.2.4-1_i386.deb", 
+    "pkg": "libsipwitch1", 
+    "pkg_version": "1.2.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "libsipwitch1-1.4.0-1-mdv2013.0.i586.rpm", 
+    "pkg": "libsipwitch1", 
+    "pkg_version": "1.4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "libsipwitch1-1.4.0-1-mdv2013.0.i586.rpm", 
+    "pkg": "libsipwitch1", 
+    "pkg_version": "1.4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "libsipwitch1-1.4.0-1-mdv2013.0.i586.rpm", 
+    "pkg": "libsipwitch1", 
+    "pkg_version": "1.4.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libsipwitch1_1.6.1-1build3_i386.deb", 
+    "pkg": "libsipwitch1", 
+    "pkg_version": "1.6.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

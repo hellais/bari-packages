@@ -1,0 +1,181 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gpodder-3.8.3-alt1.noarch.rpm", 
+    "pkg": "gpodder", 
+    "pkg_version": "3.8.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gpodder_3.8.1-1_all.deb", 
+    "pkg": "gpodder", 
+    "pkg_version": "3.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gpodder_3.8.1-1_all.deb", 
+    "pkg": "gpodder", 
+    "pkg_version": "3.8.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gpodder_2.20.1-1_all.deb", 
+    "pkg": "gpodder", 
+    "pkg_version": "2.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gpodder-3.8.3-1.fc22.noarch.rpm", 
+    "pkg": "gpodder", 
+    "pkg_version": "3.8.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gpodder-3.8.3-1.fc22.noarch.rpm", 
+    "pkg": "gpodder", 
+    "pkg_version": "3.8.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "gpodder-3.8.3-1.fc21.noarch.rpm", 
+    "pkg": "gpodder", 
+    "pkg_version": "3.8.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gpodder-2.20.3-2.fc20.noarch.rpm", 
+    "pkg": "gpodder", 
+    "pkg_version": "2.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "gpodder-3.2.0-1-omv2013.0.noarch.rpm", 
+    "pkg": "gpodder", 
+    "pkg_version": "3.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "gpodder-3.2.0-1-omv2013.0.noarch.rpm", 
+    "pkg": "gpodder", 
+    "pkg_version": "3.2.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "gpodder-3.2.0-1-omv2013.0.noarch.rpm", 
+    "pkg": "gpodder", 
+    "pkg_version": "3.2.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "gpodder-2.20-1.192.noarch.rpm", 
+    "pkg": "gpodder", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "gpodder-2.20-1.22.noarch.rpm", 
+    "pkg": "gpodder", 
+    "pkg_version": "2.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "gpodder-3.8.3-1-rosa2014.1.noarch.rpm", 
+    "pkg": "gpodder", 
+    "pkg_version": "3.8.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "gpodder-3.2.0-1-rosa2012.1.noarch.rpm", 
+    "pkg": "gpodder", 
+    "pkg_version": "3.2.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "gpodder-3.5.2-x86_64-1tjb.txz", 
+    "pkg": "gpodder", 
+    "pkg_version": "3.5.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "gpodder-3.3.0-x86_64-1cf.txz", 
+    "pkg": "gpodder", 
+    "pkg_version": "3.3.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "gpodder-2.13-x86_64-1gv.txz", 
+    "pkg": "gpodder", 
+    "pkg_version": "2.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gpodder_3.8.0-1_all.deb", 
+    "pkg": "gpodder", 
+    "pkg_version": "3.8.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gpodder_3.5.2-1_all.deb", 
+    "pkg": "gpodder", 
+    "pkg_version": "3.5.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

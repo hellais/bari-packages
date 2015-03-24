@@ -1,0 +1,91 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "scrypt-1.1.6-4-x86_64.pkg.tar.xz", 
+    "pkg": "scrypt", 
+    "pkg_version": "1.1.6", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "scrypt-1.1.6-10.1.el6.nux.x86_64.rpm", 
+    "pkg": "scrypt", 
+    "pkg_version": "1.1.6", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scrypt_1.1.6+svn31-1_i386.deb", 
+    "pkg": "scrypt", 
+    "pkg_version": "1.1.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scrypt_1.1.6+svn31-1_i386.deb", 
+    "pkg": "scrypt", 
+    "pkg_version": "1.1.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scrypt_1.1.6-3_i386.deb", 
+    "pkg": "scrypt", 
+    "pkg_version": "1.1.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "scrypt-1.1.6-10.87.x86_64.rpm", 
+    "pkg": "scrypt", 
+    "pkg_version": "1.1.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "scrypt-1.1.6-10.1.x86_64.rpm", 
+    "pkg": "scrypt", 
+    "pkg_version": "1.1.6", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Security", 
+    "pkg_full_name": "scrypt-1.1.6-10.5.x86_64.rpm", 
+    "pkg": "scrypt", 
+    "pkg_version": "1.1.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "scrypt_1.1.6+svn31-1_i386.deb", 
+    "pkg": "scrypt", 
+    "pkg_version": "1.1.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "scrypt_1.1.6-3_i386.deb", 
+    "pkg": "scrypt", 
+    "pkg_version": "1.1.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

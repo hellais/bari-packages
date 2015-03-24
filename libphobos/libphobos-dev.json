@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libphobos-4.8-dev_4.8.4-1_i386.deb", 
+    "pkg": "libphobos", 
+    "pkg_version": "4.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libphobos-dev_4.9.2-2_i386.deb", 
+    "pkg": "libphobos-dev", 
+    "pkg_version": "4.9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libphobos-4.8-dev_4.8.4-1_i386.deb", 
+    "pkg": "libphobos", 
+    "pkg_version": "4.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libphobos-dev_4.9.2-2_i386.deb", 
+    "pkg": "libphobos-dev", 
+    "pkg_version": "4.9.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libphobos-4.4-dev_1.063-4.4.7-1_i386.deb", 
+    "pkg": "libphobos", 
+    "pkg_version": "4.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libphobos-dev_4.9.2-2_i386.deb", 
+    "pkg": "libphobos-dev", 
+    "pkg_version": "4.9.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libphobos-4.9-dev-armhf-cross_4.9.1-16ubuntu6cross0.4_all.deb", 
+    "pkg": "libphobos", 
+    "pkg_version": "4.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libphobos-dev_4.9.1-4ubuntu2_i386.deb", 
+    "pkg": "libphobos-dev", 
+    "pkg_version": "4.9.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libphobos-4.8-dev_4.8.2-19ubuntu1_i386.deb", 
+    "pkg": "libphobos", 
+    "pkg_version": "4.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libphobos-dev_4.9.1-4ubuntu2_i386.deb", 
+    "pkg": "libphobos-dev", 
+    "pkg_version": "4.9.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

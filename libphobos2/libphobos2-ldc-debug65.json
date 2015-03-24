@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libphobos2-ldc-debug65_0.14.0.dfsg-1_i386.deb", 
+    "pkg": "libphobos2-ldc-debug65", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

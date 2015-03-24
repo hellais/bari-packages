@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libnghttp2-doc_0.6.7-1_all.deb", 
+    "pkg": "libnghttp2-doc", 
+    "pkg_version": "0.6.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libnghttp2-doc_0.6.4-2_all.deb", 
+    "pkg": "libnghttp2-doc", 
+    "pkg_version": "0.6.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kiki-1.0.2-alt1.qa4.1.x86_64.rpm", 
+    "pkg": "kiki", 
+    "pkg_version": "1.0.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kiki_0.5.6-8.1_all.deb", 
+    "pkg": "kiki", 
+    "pkg_version": "0.5.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kiki_0.5.6-8.1_all.deb", 
+    "pkg": "kiki", 
+    "pkg_version": "0.5.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kiki_0.5.6-8_all.deb", 
+    "pkg": "kiki", 
+    "pkg_version": "0.5.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kiki-1.0.2-17-omv2015.0.x86_64.rpm", 
+    "pkg": "kiki", 
+    "pkg_version": "1.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kiki-1.0.2-11-omv2014.0.x86_64.rpm", 
+    "pkg": "kiki", 
+    "pkg_version": "1.0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kiki-1.0.2-10-omv2013.0.x86_64.rpm", 
+    "pkg": "kiki", 
+    "pkg_version": "1.0.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "kiki-1.0.2-10.79.x86_64.rpm", 
+    "pkg": "kiki", 
+    "pkg_version": "1.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "kiki-1.0.2-10.1.x86_64.rpm", 
+    "pkg": "kiki", 
+    "pkg_version": "1.0.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "kiki-1.0.2-10.1.x86_64.rpm", 
+    "pkg": "kiki", 
+    "pkg_version": "1.0.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "kiki_0.5.6-8fakesync1_all.deb", 
+    "pkg": "kiki", 
+    "pkg_version": "0.5.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "kiki_0.5.6-8fakesync1_all.deb", 
+    "pkg": "kiki", 
+    "pkg_version": "0.5.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

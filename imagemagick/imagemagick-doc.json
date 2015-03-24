@@ -1,0 +1,100 @@
+[
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "imagemagick-doc-6.9.1.0-1-x86_64.pkg.tar.xz", 
+    "pkg": "imagemagick-doc", 
+    "pkg_version": "6.9.1.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "imagemagick-doc_6.8.9.9-5_all.deb", 
+    "pkg": "imagemagick-doc", 
+    "pkg_version": "6.8.9.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "imagemagick-doc_6.8.9.9-5_all.deb", 
+    "pkg": "imagemagick-doc", 
+    "pkg_version": "6.8.9.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "imagemagick-doc_6.7.7.10-5+deb7u3_all.deb", 
+    "pkg": "imagemagick-doc", 
+    "pkg_version": "6.7.7.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "imagemagick-doc-6.9.0.0-3-omv2015.0.noarch.rpm", 
+    "pkg": "imagemagick-doc", 
+    "pkg_version": "6.9.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "imagemagick-doc-6.8.8.5-7-omv2014.0.noarch.rpm", 
+    "pkg": "imagemagick-doc", 
+    "pkg_version": "6.8.8.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "imagemagick-doc-6.8.5.6-1-omv2013.0.noarch.rpm", 
+    "pkg": "imagemagick-doc", 
+    "pkg_version": "6.8.5.6", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "imagemagick-doc-6.8.9.2-6-rosa2014.1.noarch.rpm", 
+    "pkg": "imagemagick-doc", 
+    "pkg_version": "6.8.9.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "imagemagick-doc-6.7.7.0-2-rosa2012.1.noarch.rpm", 
+    "pkg": "imagemagick-doc", 
+    "pkg_version": "6.7.7.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "imagemagick-doc_6.7.7.10+dfsg-4ubuntu1_all.deb", 
+    "pkg": "imagemagick-doc", 
+    "pkg_version": "6.7.7.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "imagemagick-doc_6.7.7.10-6ubuntu3_all.deb", 
+    "pkg": "imagemagick-doc", 
+    "pkg_version": "6.7.7.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

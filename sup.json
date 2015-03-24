@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rubygem-sup-0.10.2-13.fc21.noarch.rpm", 
+    "pkg": "rubygem-sup", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rubygem-sup-0.10.2-13.fc21.noarch.rpm", 
+    "pkg": "rubygem-sup", 
+    "pkg_version": "0.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rubygem-sup-0.10.2-13.fc21.noarch.rpm", 
+    "pkg": "rubygem-sup", 
+    "pkg_version": "0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rubygem-sup-0.10.2-12.fc20.noarch.rpm", 
+    "pkg": "rubygem-sup", 
+    "pkg_version": "0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rubygem-sup-0.10.2-12.fc20.noarch.rpm", 
+    "pkg": "rubygem-sup", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rubygem-sup-0.10.2-12.fc20.noarch.rpm", 
+    "pkg": "rubygem-sup", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gthumb-dev_3.3.1-2+b2_i386.deb", 
+    "pkg": "gthumb-dev", 
+    "pkg_version": "3.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gthumb-dev_3.3.1-2+b2_i386.deb", 
+    "pkg": "gthumb-dev", 
+    "pkg_version": "3.3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gthumb-dev_3.0.1-2_i386.deb", 
+    "pkg": "gthumb-dev", 
+    "pkg_version": "3.0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gthumb-dev_3.3.1.is.3.2.8-0ubuntu1build1_i386.deb", 
+    "pkg": "gthumb-dev", 
+    "pkg_version": "3.3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gthumb-dev_3.3.1.is.3.2.7-0ubuntu1_i386.deb", 
+    "pkg": "gthumb-dev", 
+    "pkg_version": "3.3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

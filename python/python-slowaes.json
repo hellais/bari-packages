@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-slowaes_0.1a1-2_all.deb", 
+    "pkg": "python-slowaes", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-slowaes_0.1a1-2_all.deb", 
+    "pkg": "python-slowaes", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "python-slowaes_0.1a1-1~bpo70+1_all.deb", 
+    "pkg": "python-slowaes", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Alien Bob", 
+    "pkg_full_name": "python-slowaes-0.1a1-x86_64-1alien.tgz", 
+    "pkg": "python-slowaes", 
+    "pkg_version": "0.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Alien Bob", 
+    "pkg_full_name": "python-slowaes-0.1a1-x86_64-1alien.tgz", 
+    "pkg": "python-slowaes", 
+    "pkg_version": "0.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-slowaes_0.1a1-1_all.deb", 
+    "pkg": "python-slowaes", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

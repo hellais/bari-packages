@@ -1,0 +1,235 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "mariadb-common-5.5.34-alt1.noarch.rpm", 
+    "pkg": "mariadb-common", 
+    "pkg_version": "5.5.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "mariadb-common-5.5.34-alt1.noarch.rpm", 
+    "pkg": "mariadb-common", 
+    "pkg_version": "5.5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mariadb-common_10.0.16-1_all.deb", 
+    "pkg": "mariadb-common_1", 
+    "pkg_version": "0.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "mariadb-common-5.5.34-alt1.noarch.rpm", 
+    "pkg": "mariadb-common", 
+    "pkg_version": "5.5.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mariadb-common_10.0.16-1_all.deb", 
+    "pkg": "mariadb-common_1", 
+    "pkg_version": "0.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "mariadb-common-5.5.34-alt1.noarch.rpm", 
+    "pkg": "mariadb-common", 
+    "pkg_version": "5.5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mariadb-common-10.0.17-2.fc23.x86_64.rpm", 
+    "pkg": "mariadb-common-1", 
+    "pkg_version": "0.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mariadb-common_10.0.16-1_all.deb", 
+    "pkg": "mariadb-common_1", 
+    "pkg_version": "0.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "mariadb-common-5.5.34-alt1.noarch.rpm", 
+    "pkg": "mariadb-common", 
+    "pkg_version": "5.5.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mariadb-common-10.0.16-4.fc22.x86_64.rpm", 
+    "pkg": "mariadb-common-1", 
+    "pkg_version": "0.0.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mariadb-common_10.0.16-1_all.deb", 
+    "pkg": "mariadb-common_1", 
+    "pkg_version": "0.0.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "mariadb-common-5.5.34-alt1.noarch.rpm", 
+    "pkg": "mariadb-common", 
+    "pkg_version": "5.5.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "mariadb-common-10.0.17-1.fc21.x86_64.rpm", 
+    "pkg": "mariadb-common-1", 
+    "pkg_version": "0.0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mariadb-common_10.0.16-1_all.deb", 
+    "pkg": "mariadb-common_1", 
+    "pkg_version": "0.0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Mageia Core Updates", 
+    "pkg_full_name": "mariadb-common-5.5.41-1.mga4.x86_64.rpm", 
+    "pkg": "mariadb-common", 
+    "pkg_version": "5.5.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "mariadb-common-10.1.1-3-omv2015.0.noarch.rpm", 
+    "pkg": "mariadb-common-1", 
+    "pkg_version": "0.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mariadb-common_10.0.16-1_all.deb", 
+    "pkg": "mariadb-common_1", 
+    "pkg_version": "0.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core Updates", 
+    "pkg_full_name": "mariadb-common-5.5.41-1.mga4.x86_64.rpm", 
+    "pkg": "mariadb-common", 
+    "pkg_version": "5.5.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "mariadb-common-10.0.15-0.1-omv2014.0.noarch.rpm", 
+    "pkg": "mariadb-common-1", 
+    "pkg_version": "0.0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mariadb-common_10.0.16-1_all.deb", 
+    "pkg": "mariadb-common_1", 
+    "pkg_version": "0.0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core Updates", 
+    "pkg_full_name": "mariadb-common-5.5.41-1.mga4.x86_64.rpm", 
+    "pkg": "mariadb-common", 
+    "pkg_version": "5.5.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "mariadb-common-10.0.15-8-rosa2014.1.noarch.rpm", 
+    "pkg": "mariadb-common-1", 
+    "pkg_version": "0.0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mariadb-common_10.0.16-1_all.deb", 
+    "pkg": "mariadb-common_1", 
+    "pkg_version": "0.0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "mariadb-common_5.5.41-1ubuntu0.14.10.1_all.deb", 
+    "pkg": "mariadb-common", 
+    "pkg_version": "5.5.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "mariadb-common-10.0.15-8-rosa2014.1.noarch.rpm", 
+    "pkg": "mariadb-common-1", 
+    "pkg_version": "0.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mariadb-common_10.0.16-1_all.deb", 
+    "pkg": "mariadb-common_1", 
+    "pkg_version": "0.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

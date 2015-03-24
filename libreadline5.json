@@ -1,0 +1,82 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libreadline5-5.2.14-alt5.x86_64.rpm", 
+    "pkg": "libreadline5", 
+    "pkg_version": "5.2.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libreadline5_5.2+dfsg-2_i386.deb", 
+    "pkg": "libreadline5", 
+    "pkg_version": "5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libreadline5_5.2+dfsg-2_i386.deb", 
+    "pkg": "libreadline5", 
+    "pkg_version": "5.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libreadline5_5.2+dfsg-2~deb7u1_i386.deb", 
+    "pkg": "libreadline5", 
+    "pkg_version": "5.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libreadline5-5.2-134.2.x86_64.rpm", 
+    "pkg": "libreadline5", 
+    "pkg_version": "5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libreadline5-5.2-133.1.2.x86_64.rpm", 
+    "pkg": "libreadline5", 
+    "pkg_version": "5.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libreadline5-5.2-131.1.2.i586.rpm", 
+    "pkg": "libreadline5", 
+    "pkg_version": "5.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libreadline5_5.2+dfsg-2_i386.deb", 
+    "pkg": "libreadline5", 
+    "pkg_version": "5.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libreadline5_5.2+dfsg-2_i386.deb", 
+    "pkg": "libreadline5", 
+    "pkg_version": "5.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

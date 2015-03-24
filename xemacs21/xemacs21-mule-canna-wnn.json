@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xemacs21-mule-canna-wnn_21.4.22-11_i386.deb", 
+    "pkg": "xemacs21-mule-canna-wnn_2", 
+    "pkg_version": "1.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xemacs21-mule-canna-wnn_21.4.22-11_i386.deb", 
+    "pkg": "xemacs21-mule-canna-wnn_2", 
+    "pkg_version": "1.4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xemacs21-mule-canna-wnn_21.4.22-4ubuntu3_i386.deb", 
+    "pkg": "xemacs21-mule-canna-wnn_2", 
+    "pkg_version": "1.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xemacs21-mule-canna-wnn_21.4.22-4ubuntu3_i386.deb", 
+    "pkg": "xemacs21-mule-canna-wnn_2", 
+    "pkg_version": "1.4.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

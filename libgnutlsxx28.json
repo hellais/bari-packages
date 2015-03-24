@@ -1,0 +1,118 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libgnutlsxx28-3.3.13-alt1.x86_64.rpm", 
+    "pkg": "libgnutlsxx28", 
+    "pkg_version": "3.3.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgnutlsxx28_3.3.8-6_i386.deb", 
+    "pkg": "libgnutlsxx28", 
+    "pkg_version": "3.3.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgnutlsxx28_3.3.8-6_i386.deb", 
+    "pkg": "libgnutlsxx28", 
+    "pkg_version": "3.3.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "libgnutlsxx28_3.3.8-6~bpo70+1_i386.deb", 
+    "pkg": "libgnutlsxx28", 
+    "pkg_version": "3.3.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libgnutlsxx28-3.2.20-2-omv2015.0.i586.rpm", 
+    "pkg": "libgnutlsxx28", 
+    "pkg_version": "3.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "libgnutlsxx28-3.2.20-1-omv2014.0.i586.rpm", 
+    "pkg": "libgnutlsxx28", 
+    "pkg_version": "3.2.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "libgnutlsxx28-3.2.12.1-0.1-omv2013.0.i586.rpm", 
+    "pkg": "libgnutlsxx28", 
+    "pkg_version": "3.2.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libgnutlsxx28-3.2.21-1.1.x86_64.rpm", 
+    "pkg": "libgnutlsxx28", 
+    "pkg_version": "3.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "libgnutlsxx28-3.2.18-4.1.x86_64.rpm", 
+    "pkg": "libgnutlsxx28", 
+    "pkg_version": "3.2.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "libgnutlsxx28-3.2.4-2.9.1.x86_64.rpm", 
+    "pkg": "libgnutlsxx28", 
+    "pkg_version": "3.2.4", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "libgnutlsxx28-3.2.21-1-rosa2014.1.i586.rpm", 
+    "pkg": "libgnutlsxx28", 
+    "pkg_version": "3.2.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "libgnutlsxx28_3.2.16-1ubuntu2.2_i386.deb", 
+    "pkg": "libgnutlsxx28", 
+    "pkg_version": "3.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libgnutlsxx28_3.2.11-2ubuntu1_i386.deb", 
+    "pkg": "libgnutlsxx28", 
+    "pkg_version": "3.2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

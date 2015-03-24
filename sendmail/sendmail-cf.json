@@ -1,0 +1,190 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "sendmail-cf-8.15.1-alt2.noarch.rpm", 
+    "pkg": "sendmail-cf", 
+    "pkg_version": "8.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "sendmail-cf-8.14.7-4.el7.noarch.rpm", 
+    "pkg": "sendmail-cf", 
+    "pkg_version": "8.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "sendmail-cf-8.14.4-8.el6.noarch.rpm", 
+    "pkg": "sendmail-cf", 
+    "pkg_version": "8.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "sendmail-cf-8.13.8-10.el5_11.x86_64.rpm", 
+    "pkg": "sendmail-cf", 
+    "pkg_version": "8.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sendmail-cf_8.14.4-8_all.deb", 
+    "pkg": "sendmail-cf", 
+    "pkg_version": "8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sendmail-cf_8.14.4-8_all.deb", 
+    "pkg": "sendmail-cf", 
+    "pkg_version": "8.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sendmail-cf_8.14.4-4_all.deb", 
+    "pkg": "sendmail-cf", 
+    "pkg_version": "8.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "sendmail-cf-8.15.1-4.fc23.noarch.rpm", 
+    "pkg": "sendmail-cf", 
+    "pkg_version": "8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "sendmail-cf-8.15.1-1.fc22.noarch.rpm", 
+    "pkg": "sendmail-cf", 
+    "pkg_version": "8.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "sendmail-cf-8.14.9-5.fc21.noarch.rpm", 
+    "pkg": "sendmail-cf", 
+    "pkg_version": "8.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "sendmail-cf-8.14.8-2.fc20.noarch.rpm", 
+    "pkg": "sendmail-cf", 
+    "pkg_version": "8.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "sendmail-cf-8.14.9-2-omv2015.0.x86_64.rpm", 
+    "pkg": "sendmail-cf", 
+    "pkg_version": "8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "sendmail-cf-8.14.5-5-omv2014.0.x86_64.rpm", 
+    "pkg": "sendmail-cf", 
+    "pkg_version": "8.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "sendmail-cf-8.14.5-4-omv2013.0.x86_64.rpm", 
+    "pkg": "sendmail-cf", 
+    "pkg_version": "8.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "sendmail-cf-8.14.9-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "sendmail-cf", 
+    "pkg_version": "8.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "sendmail-cf-8.14.5-5-rosa2012.1.x86_64.rpm", 
+    "pkg": "sendmail-cf", 
+    "pkg_version": "8.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackware Patches", 
+    "pkg_full_name": "sendmail-cf-8.14.9-noarch-1_slack14.1.txz", 
+    "pkg": "sendmail-cf", 
+    "pkg_version": "8.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware Patches", 
+    "pkg_full_name": "sendmail-cf-8.14.9-noarch-1_slack14.0.txz", 
+    "pkg": "sendmail-cf", 
+    "pkg_version": "8.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware Patches", 
+    "pkg_full_name": "sendmail-cf-8.14.9-noarch-1_slack13.37.txz", 
+    "pkg": "sendmail-cf", 
+    "pkg_version": "8.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "sendmail-cf_8.14.4-7_all.deb", 
+    "pkg": "sendmail-cf", 
+    "pkg_version": "8.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "sendmail-cf_8.14.4-4.1ubuntu1_all.deb", 
+    "pkg": "sendmail-cf", 
+    "pkg_version": "8.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

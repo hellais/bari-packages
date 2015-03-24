@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pnp4nagios-web_0.6.24+dfsg1-3_all.deb", 
+    "pkg": "pnp4nagios-web", 
+    "pkg_version": "0.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pnp4nagios-web_0.6.16-2_all.deb", 
+    "pkg": "pnp4nagios-web", 
+    "pkg_version": "0.6.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "pnp4nagios-web_0.6.16-2_all.deb", 
+    "pkg": "pnp4nagios-web", 
+    "pkg_version": "0.6.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "pnp4nagios-web_0.6.16-2_all.deb", 
+    "pkg": "pnp4nagios-web", 
+    "pkg_version": "0.6.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

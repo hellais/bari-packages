@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "moodle-debian-edu-theme_1.0.4_all.deb", 
+    "pkg": "moodle-debian-edu-theme", 
+    "pkg_version": "1.0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "moodle-debian-edu-theme_1.0.4_all.deb", 
+    "pkg": "moodle-debian-edu-theme", 
+    "pkg_version": "1.0.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "moodle-debian-edu-theme_1.0.3_all.deb", 
+    "pkg": "moodle-debian-edu-theme", 
+    "pkg_version": "1.0.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

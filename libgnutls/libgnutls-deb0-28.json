@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgnutls-deb0-28_3.3.8-6_i386.deb", 
+    "pkg": "libgnutls-deb0-28", 
+    "pkg_version": "3.3.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgnutls-deb0-28_3.3.8-6_i386.deb", 
+    "pkg": "libgnutls-deb0-28", 
+    "pkg_version": "3.3.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "libgnutls-deb0-28_3.3.8-6~bpo70+1_i386.deb", 
+    "pkg": "libgnutls-deb0-28", 
+    "pkg_version": "3.3.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

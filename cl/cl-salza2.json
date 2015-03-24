@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cl-salza2_2.0.9-1_all.deb", 
+    "pkg": "cl-salza2", 
+    "pkg_version": "2.0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

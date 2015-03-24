@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "pydf-9-3.el5.1.noarch.rpm", 
+    "pkg": "pydf-9-3.el", 
+    "pkg_version": "5.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "pydf-9-3.el5.1.noarch.rpm", 
+    "pkg": "pydf-9-3.el", 
+    "pkg_version": "5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "pydf-9-3.el5.1.noarch.rpm", 
+    "pkg": "pydf-9-3.el", 
+    "pkg_version": "5.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "pydf-9-3.el5.1.noarch.rpm", 
+    "pkg": "pydf-9-3.el", 
+    "pkg_version": "5.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "pydf-9-3.el5.1.noarch.rpm", 
+    "pkg": "pydf-9-3.el", 
+    "pkg_version": "5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "pydf-9-3.el5.1.noarch.rpm", 
+    "pkg": "pydf-9-3.el", 
+    "pkg_version": "5.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "pydf-9-3.el5.1.noarch.rpm", 
+    "pkg": "pydf-9-3.el", 
+    "pkg_version": "5.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "pydf-9-3.el5.1.noarch.rpm", 
+    "pkg": "pydf-9-3.el", 
+    "pkg_version": "5.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "pydf-9-3.el5.1.noarch.rpm", 
+    "pkg": "pydf-9-3.el", 
+    "pkg_version": "5.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "pydf-9-3.el5.1.noarch.rpm", 
+    "pkg": "pydf-9-3.el", 
+    "pkg_version": "5.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

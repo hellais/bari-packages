@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "wxastrocapture_1.8.1+git20140821+dfsg-1_i386.deb", 
+    "pkg": "wxastrocapture", 
+    "pkg_version": "1.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "wxastrocapture_1.8.1+git20140821+dfsg-1_i386.deb", 
+    "pkg": "wxastrocapture", 
+    "pkg_version": "1.8.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

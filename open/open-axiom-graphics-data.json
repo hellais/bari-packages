@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "open-axiom-graphics-data_1.5.0~svn3056+ds-1_all.deb", 
+    "pkg": "open-axiom-graphics-data", 
+    "pkg_version": "1.5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "open-axiom-graphics-data_1.5.0~svn3056+ds-1_all.deb", 
+    "pkg": "open-axiom-graphics-data", 
+    "pkg_version": "1.5.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "open-axiom-graphics-data_1.4.1+svn~2626-2_all.deb", 
+    "pkg": "open-axiom-graphics-data", 
+    "pkg_version": "1.4.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "open-axiom-graphics-data_1.4.1+svn~2626-2ubuntu2_all.deb", 
+    "pkg": "open-axiom-graphics-data", 
+    "pkg_version": "1.4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "open-axiom-graphics-data_1.4.1+svn~2626-2ubuntu2_all.deb", 
+    "pkg": "open-axiom-graphics-data", 
+    "pkg_version": "1.4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "drascula-1.0-alt2_12.noarch.rpm", 
+    "pkg": "drascula", 
+    "pkg_version": "1.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "drascula_1.0+ds2-1_all.deb", 
+    "pkg": "drascula", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "drascula_1.0+ds2-1_all.deb", 
+    "pkg": "drascula", 
+    "pkg_version": "1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "drascula-1.0-12.fc21.noarch.rpm", 
+    "pkg": "drascula", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "drascula-1.0-12.fc21.noarch.rpm", 
+    "pkg": "drascula", 
+    "pkg_version": "1.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "drascula-1.0-12.fc21.noarch.rpm", 
+    "pkg": "drascula", 
+    "pkg_version": "1.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "drascula-1.0-11.fc20.noarch.rpm", 
+    "pkg": "drascula", 
+    "pkg_version": "1.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Nonfree", 
+    "pkg_full_name": "drascula-1.0-3-omv2015.0.noarch.rpm", 
+    "pkg": "drascula", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Nonfree", 
+    "pkg_full_name": "drascula-1.0-3-omv2014.0.noarch.rpm", 
+    "pkg": "drascula", 
+    "pkg_version": "1.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Nonfree", 
+    "pkg_full_name": "drascula-1.0-2-omv2013.0.noarch.rpm", 
+    "pkg": "drascula", 
+    "pkg_version": "1.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Nonfree", 
+    "pkg_full_name": "drascula-1.0-2-rosa2014.1.noarch.rpm", 
+    "pkg": "drascula", 
+    "pkg_version": "1.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Nonfree Updates", 
+    "pkg_full_name": "drascula-1.0-2-rosa2012.1.noarch.rpm", 
+    "pkg": "drascula", 
+    "pkg_version": "1.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "drascula_1.0+ds2-1_all.deb", 
+    "pkg": "drascula", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

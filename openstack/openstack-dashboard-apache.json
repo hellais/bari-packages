@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "openstack-dashboard-apache_2014.1.3-7_all.deb", 
+    "pkg": "openstack-dashboard-apache_201", 
+    "pkg_version": "4.1.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "openstack-dashboard-apache_2014.1.3-7_all.deb", 
+    "pkg": "openstack-dashboard-apache_201", 
+    "pkg_version": "4.1.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

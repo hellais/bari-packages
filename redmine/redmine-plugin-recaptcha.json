@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "redmine-plugin-recaptcha_0.1.0+git20121018-3_all.deb", 
+    "pkg": "redmine-plugin-recaptcha", 
+    "pkg_version": "0.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "redmine-plugin-recaptcha_0.1.0+git20121018-3_all.deb", 
+    "pkg": "redmine-plugin-recaptcha", 
+    "pkg_version": "0.1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "redmine-plugin-recaptcha_0.1.0+git20121018-3_all.deb", 
+    "pkg": "redmine-plugin-recaptcha", 
+    "pkg_version": "0.1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

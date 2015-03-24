@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "gnome-applet-sensors-2.2.7-1.el6.rf.x86_64.rpm", 
+    "pkg": "gnome-applet-sensors", 
+    "pkg_version": "2.2.7", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "gnome-applet-sensors-1.7.10-1.el5.rf.x86_64.rpm", 
+    "pkg": "gnome-applet-sensors", 
+    "pkg_version": "1.7.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sensors-applet_3.0.0+git4-4_i386.deb", 
+    "pkg": "sensors-applet", 
+    "pkg_version": "3.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "gnome-applet-sensors-1.7.10-1.el5.rf.x86_64.rpm", 
+    "pkg": "gnome-applet-sensors", 
+    "pkg_version": "1.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sensors-applet_3.0.0+git4-4_i386.deb", 
+    "pkg": "sensors-applet", 
+    "pkg_version": "3.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "gnome-applet-sensors-1.7.10-1.el5.rf.x86_64.rpm", 
+    "pkg": "gnome-applet-sensors", 
+    "pkg_version": "1.7.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sensors-applet_3.0.0-0.2_i386.deb", 
+    "pkg": "sensors-applet", 
+    "pkg_version": "3.0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "gnome-applet-sensors-1.7.10-1.el5.rf.x86_64.rpm", 
+    "pkg": "gnome-applet-sensors", 
+    "pkg_version": "1.7.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "sensors-applet_3.0.0+git4-4ubuntu1_i386.deb", 
+    "pkg": "sensors-applet", 
+    "pkg_version": "3.0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "gnome-applet-sensors-1.7.10-1.el5.rf.x86_64.rpm", 
+    "pkg": "gnome-applet-sensors", 
+    "pkg_version": "1.7.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

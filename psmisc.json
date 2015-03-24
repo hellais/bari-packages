@@ -1,0 +1,351 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "psmisc-22.20-alt1.x86_64.rpm", 
+    "pkg": "psmisc-2", 
+    "pkg_version": "2.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Core", 
+    "pkg_full_name": "psmisc-22.21-2-x86_64.pkg.tar.xz", 
+    "pkg": "psmisc-2", 
+    "pkg_version": "2.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "psmisc-22.20-8.el7.x86_64.rpm", 
+    "pkg": "psmisc-2", 
+    "pkg_version": "2.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "psmisc-22.6-19.el6_5.x86_64.rpm", 
+    "pkg": "psmisc-2", 
+    "pkg_version": "2.6", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "psmisc-22.2-11.x86_64.rpm", 
+    "pkg": "psmisc-2", 
+    "pkg_version": "2.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "psmisc-22.2-11.x86_64.rpm", 
+    "pkg": "psmisc-2", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "psmisc_22.21-2_i386.deb", 
+    "pkg": "psmisc_2", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "psmisc-22.2-11.x86_64.rpm", 
+    "pkg": "psmisc-2", 
+    "pkg_version": "2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "psmisc_22.21-2_i386.deb", 
+    "pkg": "psmisc_2", 
+    "pkg_version": "2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "psmisc-22.2-11.x86_64.rpm", 
+    "pkg": "psmisc-2", 
+    "pkg_version": "2.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "psmisc_22.19-1+deb7u1_i386.deb", 
+    "pkg": "psmisc_2", 
+    "pkg_version": "2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "psmisc-22.21-6.fc23.x86_64.rpm", 
+    "pkg": "psmisc-2", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "psmisc_22.19-1+deb7u1_i386.deb", 
+    "pkg": "psmisc_2", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "psmisc-22.21-5.fc22.x86_64.rpm", 
+    "pkg": "psmisc-2", 
+    "pkg_version": "2.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "psmisc_22.19-1+deb7u1_i386.deb", 
+    "pkg": "psmisc_2", 
+    "pkg_version": "2.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "psmisc-22.21-5.fc21.x86_64.rpm", 
+    "pkg": "psmisc-2", 
+    "pkg_version": "2.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "psmisc_22.19-1+deb7u1_i386.deb", 
+    "pkg": "psmisc_2", 
+    "pkg_version": "2.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "psmisc-22.20-3.fc20.x86_64.rpm", 
+    "pkg": "psmisc-2", 
+    "pkg_version": "2.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "psmisc_22.19-1+deb7u1_i386.deb", 
+    "pkg": "psmisc_2", 
+    "pkg_version": "2.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "psmisc-22.21-5-omv2015.0.x86_64.rpm", 
+    "pkg": "psmisc-2", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "psmisc_22.19-1+deb7u1_i386.deb", 
+    "pkg": "psmisc_2", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "psmisc-22.20-8-omv2014.0.x86_64.rpm", 
+    "pkg": "psmisc-2", 
+    "pkg_version": "2.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "psmisc_22.19-1+deb7u1_i386.deb", 
+    "pkg": "psmisc_2", 
+    "pkg_version": "2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "psmisc-22.20-3-omv2013.0.x86_64.rpm", 
+    "pkg": "psmisc-2", 
+    "pkg_version": "2.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "psmisc_22.19-1+deb7u1_i386.deb", 
+    "pkg": "psmisc_2", 
+    "pkg_version": "2.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "psmisc-22.21-4.2.x86_64.rpm", 
+    "pkg": "psmisc-2", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "psmisc_22.19-1+deb7u1_i386.deb", 
+    "pkg": "psmisc_2", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "psmisc-22.21-3.1.2.x86_64.rpm", 
+    "pkg": "psmisc-2", 
+    "pkg_version": "2.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "psmisc_22.19-1+deb7u1_i386.deb", 
+    "pkg": "psmisc_2", 
+    "pkg_version": "2.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "psmisc-22.20-5.1.2.i586.rpm", 
+    "pkg": "psmisc-2", 
+    "pkg_version": "2.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "psmisc_22.19-1+deb7u1_i386.deb", 
+    "pkg": "psmisc_2", 
+    "pkg_version": "2.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "psmisc-22.13-4-rosa2014.1.x86_64.rpm", 
+    "pkg": "psmisc-2", 
+    "pkg_version": "2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "psmisc_22.19-1+deb7u1_i386.deb", 
+    "pkg": "psmisc_2", 
+    "pkg_version": "2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "psmisc-22.13-3-rosa2012.1.x86_64.rpm", 
+    "pkg": "psmisc-2", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "psmisc_22.19-1+deb7u1_i386.deb", 
+    "pkg": "psmisc_2", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "psmisc-22.13-3-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "psmisc-2", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "psmisc_22.21-2_i386.deb", 
+    "pkg": "psmisc_2", 
+    "pkg_version": "2.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "psmisc-22.13-3-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "psmisc-2", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "psmisc_22.20-1ubuntu2_i386.deb", 
+    "pkg": "psmisc_2", 
+    "pkg_version": "2.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

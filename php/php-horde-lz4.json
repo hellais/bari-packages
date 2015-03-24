@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php-horde-lz4_1.0.7-2_i386.deb", 
+    "pkg": "php-horde-lz4", 
+    "pkg_version": "1.0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php-horde-lz4_1.0.7-2_i386.deb", 
+    "pkg": "php-horde-lz4", 
+    "pkg_version": "1.0.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "php-horde-lz4_1.0.6-1_i386.deb", 
+    "pkg": "php-horde-lz4", 
+    "pkg_version": "1.0.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-vector-instances-prof_3.3-1+b10_i386.deb", 
+    "pkg": "libghc-vector-instances-prof", 
+    "pkg_version": "3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-vector-instances-prof_3.3-1+b10_i386.deb", 
+    "pkg": "libghc-vector-instances-prof", 
+    "pkg_version": "3.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

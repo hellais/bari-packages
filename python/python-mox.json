@@ -1,0 +1,164 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-mox-0.5.3-6.el7.noarch.rpm", 
+    "pkg": "python-mox", 
+    "pkg_version": "0.5.3", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-mox_0.5.3-3_all.deb", 
+    "pkg": "python-mox", 
+    "pkg_version": "0.5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-mox_0.5.3-3_all.deb", 
+    "pkg": "python-mox", 
+    "pkg_version": "0.5.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-mox_0.5.3-3_all.deb", 
+    "pkg": "python-mox", 
+    "pkg_version": "0.5.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-mox-0.5.3-8.fc21.noarch.rpm", 
+    "pkg": "python-mox", 
+    "pkg_version": "0.5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-mox-0.5.3-8.fc21.noarch.rpm", 
+    "pkg": "python-mox", 
+    "pkg_version": "0.5.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-mox-0.5.3-8.fc21.noarch.rpm", 
+    "pkg": "python-mox", 
+    "pkg_version": "0.5.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-mox-0.5.3-7.fc20.noarch.rpm", 
+    "pkg": "python-mox", 
+    "pkg_version": "0.5.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-mox-0.5.3-1-omv2013.0.noarch.rpm", 
+    "pkg": "python-mox", 
+    "pkg_version": "0.5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-mox-0.5.3-1-omv2013.0.noarch.rpm", 
+    "pkg": "python-mox", 
+    "pkg_version": "0.5.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-mox-0.5.3-1-omv2013.0.noarch.rpm", 
+    "pkg": "python-mox", 
+    "pkg_version": "0.5.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-mox-0.5.3-13.2.noarch.rpm", 
+    "pkg": "python-mox", 
+    "pkg_version": "0.5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-mox-0.5.3-12.1.4.noarch.rpm", 
+    "pkg": "python-mox", 
+    "pkg_version": "0.5.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-mox-0.5.3-10.1.2.noarch.rpm", 
+    "pkg": "python-mox", 
+    "pkg_version": "0.5.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "python-mox-0.5.3-2-rosa2014.1.noarch.rpm", 
+    "pkg": "python-mox", 
+    "pkg_version": "0.5.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "python-mox-0.5.3-1-rosa2012.1.noarch.rpm", 
+    "pkg": "python-mox", 
+    "pkg_version": "0.5.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python-mox_0.5.3-3build1_all.deb", 
+    "pkg": "python-mox", 
+    "pkg_version": "0.5.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python-mox_0.5.3-3build1_all.deb", 
+    "pkg": "python-mox", 
+    "pkg_version": "0.5.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

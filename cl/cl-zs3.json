@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cl-zs3_1.2.5-1_all.deb", 
+    "pkg": "cl-zs3", 
+    "pkg_version": "1.2.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

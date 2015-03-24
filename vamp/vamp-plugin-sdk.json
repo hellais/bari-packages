@@ -1,0 +1,172 @@
+[
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "vamp-plugin-sdk-2.5-2-x86_64.pkg.tar.xz", 
+    "pkg": "vamp-plugin-sdk", 
+    "pkg_version": "2.5", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "vamp-plugin-sdk-2.5-3.el7.nux.x86_64.rpm", 
+    "pkg": "vamp-plugin-sdk", 
+    "pkg_version": "2.5", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "NauLinux School", 
+    "pkg_full_name": "vamp-plugin-sdk-2.1-1.el6.x86_64.rpm", 
+    "pkg": "vamp-plugin-sdk", 
+    "pkg_version": "2.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "vamp-plugin-sdk-2.1-1.el5.x86_64.rpm", 
+    "pkg": "vamp-plugin-sdk", 
+    "pkg_version": "2.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "vamp-plugin-sdk_2.5-dmo6_i386.deb", 
+    "pkg": "vamp-plugin-sdk", 
+    "pkg_version": "2.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "vamp-plugin-sdk_2.5-dmo6_i386.deb", 
+    "pkg": "vamp-plugin-sdk", 
+    "pkg_version": "2.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "vamp-plugin-sdk_2.4-dmo1_i386.deb", 
+    "pkg": "vamp-plugin-sdk", 
+    "pkg_version": "2.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "vamp-plugin-sdk-2.5-4.fc22.x86_64.rpm", 
+    "pkg": "vamp-plugin-sdk", 
+    "pkg_version": "2.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "vamp-plugin-sdk-2.5-4.fc22.x86_64.rpm", 
+    "pkg": "vamp-plugin-sdk", 
+    "pkg_version": "2.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "vamp-plugin-sdk-2.5-4.fc21.x86_64.rpm", 
+    "pkg": "vamp-plugin-sdk", 
+    "pkg_version": "2.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "vamp-plugin-sdk-2.5-2.fc20.x86_64.rpm", 
+    "pkg": "vamp-plugin-sdk", 
+    "pkg_version": "2.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "vamp-plugin-sdk-2.2.1-13.2.x86_64.rpm", 
+    "pkg": "vamp-plugin-sdk", 
+    "pkg_version": "2.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "vamp-plugin-sdk-2.2.1-12.1.4.x86_64.rpm", 
+    "pkg": "vamp-plugin-sdk", 
+    "pkg_version": "2.2.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "vamp-plugin-sdk-2.2.1-10.1.2.i586.rpm", 
+    "pkg": "vamp-plugin-sdk", 
+    "pkg_version": "2.2.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "vamp-plugin-sdk-2.2.1-x86_64-2sl.txz", 
+    "pkg": "vamp-plugin-sdk", 
+    "pkg_version": "2.2.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "vamp-plugin-sdk-2.2.1-x86_64-2sl.txz", 
+    "pkg": "vamp-plugin-sdk", 
+    "pkg_version": "2.2.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "vamp-plugin-sdk-2.2.1-i486-1sl.txz", 
+    "pkg": "vamp-plugin-sdk", 
+    "pkg_version": "2.2.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "vamp-plugin-sdk_2.5+repack0-2_i386.deb", 
+    "pkg": "vamp-plugin-sdk", 
+    "pkg_version": "2.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "vamp-plugin-sdk_2.5+repack0-2_i386.deb", 
+    "pkg": "vamp-plugin-sdk", 
+    "pkg_version": "2.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

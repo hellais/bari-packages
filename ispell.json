@@ -1,0 +1,232 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ispell-3.2.06-alt14.x86_64.rpm", 
+    "pkg": "ispell", 
+    "pkg_version": "3.2.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "aspell-ispell-0.60.6.1-alt1.noarch.rpm", 
+    "pkg": "aspell-ispell", 
+    "pkg_version": "0.6", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "ispell-3.3.02-6-x86_64.pkg.tar.xz", 
+    "pkg": "ispell", 
+    "pkg_version": "3.3.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "aspell-ispell-0.60.6.1-alt1.noarch.rpm", 
+    "pkg": "aspell-ispell", 
+    "pkg_version": "0.6", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ispell_3.3.02-6_i386.deb", 
+    "pkg": "ispell", 
+    "pkg_version": "3.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "aspell-ispell-0.60.6.1-alt1.noarch.rpm", 
+    "pkg": "aspell-ispell", 
+    "pkg_version": "0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ispell_3.3.02-6_i386.deb", 
+    "pkg": "ispell", 
+    "pkg_version": "3.3.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "aspell-ispell-0.60.6.1-alt1.noarch.rpm", 
+    "pkg": "aspell-ispell", 
+    "pkg_version": "0.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ispell_3.3.02-6_i386.deb", 
+    "pkg": "ispell", 
+    "pkg_version": "3.3.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "aspell-ispell-0.60.6.1-alt1.noarch.rpm", 
+    "pkg": "aspell-ispell", 
+    "pkg_version": "0.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ispell-3.3.02-113.1.x86_64.rpm", 
+    "pkg": "ispell", 
+    "pkg_version": "3.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "aspell-ispell-0.60.6.1-alt1.noarch.rpm", 
+    "pkg": "aspell-ispell", 
+    "pkg_version": "0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ispell-3.3.02-109.1.2.x86_64.rpm", 
+    "pkg": "ispell", 
+    "pkg_version": "3.3.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "aspell-ispell-0.60.6.1-alt1.noarch.rpm", 
+    "pkg": "aspell-ispell", 
+    "pkg_version": "0.6", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ispell-3.3.02-106.1.2.i586.rpm", 
+    "pkg": "ispell", 
+    "pkg_version": "3.3.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "aspell-ispell-0.60.6.1-alt1.noarch.rpm", 
+    "pkg": "aspell-ispell", 
+    "pkg_version": "0.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "ispell-3.2.06-x86_64-1.txz", 
+    "pkg": "ispell", 
+    "pkg_version": "3.2.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "aspell-ispell-0.60.6.1-alt1.noarch.rpm", 
+    "pkg": "aspell-ispell", 
+    "pkg_version": "0.6", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "ispell-3.2.06-x86_64-1.txz", 
+    "pkg": "ispell", 
+    "pkg_version": "3.2.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "aspell-ispell-0.60.6.1-alt1.noarch.rpm", 
+    "pkg": "aspell-ispell", 
+    "pkg_version": "0.6", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "ispell-3.2.06-x86_64-1.txz", 
+    "pkg": "ispell", 
+    "pkg_version": "3.2.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "aspell-ispell-0.60.6.1-alt1.noarch.rpm", 
+    "pkg": "aspell-ispell", 
+    "pkg_version": "0.6", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "ispell_3.3.02-6_i386.deb", 
+    "pkg": "ispell", 
+    "pkg_version": "3.3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "aspell-ispell-0.60.6.1-alt1.noarch.rpm", 
+    "pkg": "aspell-ispell", 
+    "pkg_version": "0.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "ispell_3.3.02-6_i386.deb", 
+    "pkg": "ispell", 
+    "pkg_version": "3.3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "aspell-ispell-0.60.6.1-alt1.noarch.rpm", 
+    "pkg": "aspell-ispell", 
+    "pkg_version": "0.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

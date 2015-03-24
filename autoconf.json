@@ -1,0 +1,225 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "autoconf_2.60-2.69-alt2.noarch.rpm", 
+    "pkg": "autoconf", 
+    "pkg_version": "2.6", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Core", 
+    "pkg_full_name": "autoconf-2.69-2-any.pkg.tar.xz", 
+    "pkg": "autoconf", 
+    "pkg_version": "2.6", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "autoconf-2.69-11.el7.noarch.rpm", 
+    "pkg": "autoconf", 
+    "pkg_version": "2.6", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "autoconf-2.63-5.1.el6.noarch.rpm", 
+    "pkg": "autoconf", 
+    "pkg_version": "2.6", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "autoconf-2.59-12.noarch.rpm", 
+    "pkg": "autoconf", 
+    "pkg_version": "2.5", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "autoconf_2.69-8_all.deb", 
+    "pkg": "autoconf", 
+    "pkg_version": "2.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "autoconf_2.69-8_all.deb", 
+    "pkg": "autoconf", 
+    "pkg_version": "2.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "autoconf_2.69-1_all.deb", 
+    "pkg": "autoconf", 
+    "pkg_version": "2.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "autoconf-2.69-18.fc23.noarch.rpm", 
+    "pkg": "autoconf", 
+    "pkg_version": "2.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "autoconf-2.69-16.fc22.noarch.rpm", 
+    "pkg": "autoconf", 
+    "pkg_version": "2.6", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "autoconf-2.69-17.fc21.noarch.rpm", 
+    "pkg": "autoconf", 
+    "pkg_version": "2.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "autoconf-2.69-15.fc20.noarch.rpm", 
+    "pkg": "autoconf", 
+    "pkg_version": "2.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "autoconf-2.69-11-omv2015.0.noarch.rpm", 
+    "pkg": "autoconf", 
+    "pkg_version": "2.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "autoconf-2.69-4-omv2014.0.noarch.rpm", 
+    "pkg": "autoconf", 
+    "pkg_version": "2.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "autoconf-2.69-3-omv2013.0.noarch.rpm", 
+    "pkg": "autoconf", 
+    "pkg_version": "2.6", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "autoconf-2.69-11.2.noarch.rpm", 
+    "pkg": "autoconf", 
+    "pkg_version": "2.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "autoconf-2.69-10.1.2.noarch.rpm", 
+    "pkg": "autoconf", 
+    "pkg_version": "2.6", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "autoconf-2.69-8.1.2.noarch.rpm", 
+    "pkg": "autoconf", 
+    "pkg_version": "2.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "autoconf-2.69-3-rosa2014.1.noarch.rpm", 
+    "pkg": "autoconf", 
+    "pkg_version": "2.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "autoconf-2.69-1-rosa2012.1.noarch.rpm", 
+    "pkg": "autoconf", 
+    "pkg_version": "2.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "autoconf-2.69-noarch-1.txz", 
+    "pkg": "autoconf", 
+    "pkg_version": "2.6", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "autoconf-2.69-noarch-1.txz", 
+    "pkg": "autoconf", 
+    "pkg_version": "2.6", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "autoconf-2.68-noarch-1.txz", 
+    "pkg": "autoconf", 
+    "pkg_version": "2.6", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "autoconf_2.69-8_all.deb", 
+    "pkg": "autoconf", 
+    "pkg_version": "2.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "autoconf_2.69-6_all.deb", 
+    "pkg": "autoconf", 
+    "pkg_version": "2.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

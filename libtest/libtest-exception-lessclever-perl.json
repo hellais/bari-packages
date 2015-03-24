@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtest-exception-lessclever-perl_0.6-1_all.deb", 
+    "pkg": "libtest-exception-lessclever-perl", 
+    "pkg_version": "0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtest-exception-lessclever-perl_0.6-1_all.deb", 
+    "pkg": "libtest-exception-lessclever-perl", 
+    "pkg_version": "0.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libtest-exception-lessclever-perl_0.6-1_all.deb", 
+    "pkg": "libtest-exception-lessclever-perl", 
+    "pkg_version": "0.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

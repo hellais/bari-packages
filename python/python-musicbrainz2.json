@@ -1,0 +1,173 @@
+[
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "python-musicbrainz2-0.7.0-9.el7.nux.noarch.rpm", 
+    "pkg": "python-musicbrainz2", 
+    "pkg_version": "0.7.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "LinuxTECH", 
+    "pkg_full_name": "python-musicbrainz2-0.7.4-1.el6.noarch.rpm", 
+    "pkg": "python-musicbrainz2", 
+    "pkg_version": "0.7.4", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-musicbrainz2_0.7.4-1_all.deb", 
+    "pkg": "python-musicbrainz2", 
+    "pkg_version": "0.7.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-musicbrainz2_0.7.4-1_all.deb", 
+    "pkg": "python-musicbrainz2", 
+    "pkg_version": "0.7.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-musicbrainz2_0.7.4-1_all.deb", 
+    "pkg": "python-musicbrainz2", 
+    "pkg_version": "0.7.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-musicbrainz2-0.7.0-9.fc21.noarch.rpm", 
+    "pkg": "python-musicbrainz2", 
+    "pkg_version": "0.7.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-musicbrainz2-0.7.0-9.fc21.noarch.rpm", 
+    "pkg": "python-musicbrainz2", 
+    "pkg_version": "0.7.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-musicbrainz2-0.7.0-9.fc21.noarch.rpm", 
+    "pkg": "python-musicbrainz2", 
+    "pkg_version": "0.7.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-musicbrainz2-0.7.0-7.fc20.noarch.rpm", 
+    "pkg": "python-musicbrainz2", 
+    "pkg_version": "0.7.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-musicbrainz2-0.7.4-1-omv2014.1.noarch.rpm", 
+    "pkg": "python-musicbrainz2", 
+    "pkg_version": "0.7.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-musicbrainz2-0.7.4-1-omv2013.0.noarch.rpm", 
+    "pkg": "python-musicbrainz2", 
+    "pkg_version": "0.7.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-musicbrainz2-0.7.4-1-omv2013.0.noarch.rpm", 
+    "pkg": "python-musicbrainz2", 
+    "pkg_version": "0.7.4", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "python-musicbrainz2-0.7.2-4.16.noarch.rpm", 
+    "pkg": "python-musicbrainz2", 
+    "pkg_version": "0.7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "python-musicbrainz2-0.7.2-4.3.noarch.rpm", 
+    "pkg": "python-musicbrainz2", 
+    "pkg_version": "0.7.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "python-musicbrainz2-0.7.4-2-rosa2014.1.noarch.rpm", 
+    "pkg": "python-musicbrainz2", 
+    "pkg_version": "0.7.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "python-musicbrainz2-0.7.4-1-rosa2012.1.noarch.rpm", 
+    "pkg": "python-musicbrainz2", 
+    "pkg_version": "0.7.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "python-musicbrainz2-0.7.3-i686-1sl.txz", 
+    "pkg": "python-musicbrainz2", 
+    "pkg_version": "0.7.3", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-musicbrainz2_0.7.4-1_all.deb", 
+    "pkg": "python-musicbrainz2", 
+    "pkg_version": "0.7.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-musicbrainz2_0.7.4-1_all.deb", 
+    "pkg": "python-musicbrainz2", 
+    "pkg_version": "0.7.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

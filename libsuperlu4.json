@@ -1,0 +1,83 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsuperlu4_4.3+dfsg-3_i386.deb", 
+    "pkg": "libsuperlu4", 
+    "pkg_version": "4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsuperlu4_4.3+dfsg-3_i386.deb", 
+    "pkg": "libsuperlu4", 
+    "pkg_version": "4.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libsuperlu4-4.3-9-omv2015.0.i586.rpm", 
+    "pkg": "libsuperlu4", 
+    "pkg_version": "4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "libsuperlu4-4.3-7-omv2014.0.i586.rpm", 
+    "pkg": "libsuperlu4", 
+    "pkg_version": "4.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libsuperlu4-4.3-7.2.x86_64.rpm", 
+    "pkg": "libsuperlu4", 
+    "pkg_version": "4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libsuperlu4-4.3-6.1.4.x86_64.rpm", 
+    "pkg": "libsuperlu4", 
+    "pkg_version": "4.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libsuperlu4-4.3-4.1.2.i586.rpm", 
+    "pkg": "libsuperlu4", 
+    "pkg_version": "4.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "libsuperlu4-4.3-7-rosa2014.1.i586.rpm", 
+    "pkg": "libsuperlu4", 
+    "pkg_version": "4.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "libsuperlu4-4.3-6-rosa2012.1.i586.rpm", 
+    "pkg": "libsuperlu4", 
+    "pkg_version": "4.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

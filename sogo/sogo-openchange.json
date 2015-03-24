@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sogo-openchange_2.2.9+git20141017-1_i386.deb", 
+    "pkg": "sogo-openchange", 
+    "pkg_version": "2.2.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "sogo-openchange_2.2.9+git20141017-1_i386.deb", 
+    "pkg": "sogo-openchange", 
+    "pkg_version": "2.2.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

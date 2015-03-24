@@ -1,0 +1,146 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-pp-1.5.7-4.el6.noarch.rpm", 
+    "pkg": "python-pp", 
+    "pkg_version": "1.5.7", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-pp-1.5.5-1.el5.noarch.rpm", 
+    "pkg": "python-pp", 
+    "pkg_version": "1.5.5", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python-pp_1.6.2-2~nd+1_all.deb", 
+    "pkg": "python-pp", 
+    "pkg_version": "1.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python-pp_1.6.2-2~nd70+1_all.deb", 
+    "pkg": "python-pp", 
+    "pkg_version": "1.6.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "python-pp_1.6.2-2~nd70+1_all.deb", 
+    "pkg": "python-pp", 
+    "pkg_version": "1.6.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-pp-1.6.0-7.fc21.noarch.rpm", 
+    "pkg": "python-pp", 
+    "pkg_version": "1.6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-pp-1.6.0-7.fc21.noarch.rpm", 
+    "pkg": "python-pp", 
+    "pkg_version": "1.6.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-pp-1.6.0-7.fc21.noarch.rpm", 
+    "pkg": "python-pp", 
+    "pkg_version": "1.6.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-pp-1.6.0-6.fc20.noarch.rpm", 
+    "pkg": "python-pp", 
+    "pkg_version": "1.6.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-pp-1.6.4-1-omv2014.1.noarch.rpm", 
+    "pkg": "python-pp", 
+    "pkg_version": "1.6.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-pp-1.6.1-1-omv2013.0.noarch.rpm", 
+    "pkg": "python-pp", 
+    "pkg_version": "1.6.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-pp-1.6.1-1-omv2013.0.noarch.rpm", 
+    "pkg": "python-pp", 
+    "pkg_version": "1.6.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "python-pp-1.6.4-2-rosa2014.1.noarch.rpm", 
+    "pkg": "python-pp", 
+    "pkg_version": "1.6.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "python-pp-1.6.1-1-rosa2012.1.noarch.rpm", 
+    "pkg": "python-pp", 
+    "pkg_version": "1.6.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-pp_1.6.4-1_all.deb", 
+    "pkg": "python-pp", 
+    "pkg_version": "1.6.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-pp_1.6.4-1_all.deb", 
+    "pkg": "python-pp", 
+    "pkg_version": "1.6.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

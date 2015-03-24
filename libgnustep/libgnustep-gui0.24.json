@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgnustep-gui0.24_0.24.0-3_i386.deb", 
+    "pkg": "libgnustep-gui", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgnustep-gui0.24_0.24.0-3_i386.deb", 
+    "pkg": "libgnustep-gui", 
+    "pkg_version": "0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libgnustep-gui0.24-0.24.0-5-omv2015.0.i586.rpm", 
+    "pkg": "libgnustep-gui", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "libgnustep-gui0.24-0.24.0-6-rosa2014.1.i586.rpm", 
+    "pkg": "libgnustep-gui", 
+    "pkg_version": "0.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "libgnustep-gui0.24-0.24.0-2-rosa2012.1.i586.rpm", 
+    "pkg": "libgnustep-gui", 
+    "pkg_version": "0.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

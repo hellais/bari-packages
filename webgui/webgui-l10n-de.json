@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "webgui-l10n-de_7.10.29-1_all.deb", 
+    "pkg": "webgui-l10n-de", 
+    "pkg_version": "7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "webgui-l10n-de_7.10.28-1_all.deb", 
+    "pkg": "webgui-l10n-de", 
+    "pkg_version": "7.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

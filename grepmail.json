@@ -1,0 +1,136 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "grepmail-5.30.34-alt2.noarch.rpm", 
+    "pkg": "grepmail", 
+    "pkg_version": "5.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "grepmail-5.3033-1.el6.rf.x86_64.rpm", 
+    "pkg": "grepmail", 
+    "pkg_version": "5.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "grepmail-5.3033-1.el5.rf.x86_64.rpm", 
+    "pkg": "grepmail", 
+    "pkg_version": "5.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "grepmail_5.3033-6_all.deb", 
+    "pkg": "grepmail", 
+    "pkg_version": "5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "grepmail_5.3033-6_all.deb", 
+    "pkg": "grepmail", 
+    "pkg_version": "5.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "grepmail_5.3033-5_all.deb", 
+    "pkg": "grepmail", 
+    "pkg_version": "5.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "grepmail-5.3034-15.fc22.noarch.rpm", 
+    "pkg": "grepmail", 
+    "pkg_version": "5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "grepmail-5.3034-15.fc22.noarch.rpm", 
+    "pkg": "grepmail", 
+    "pkg_version": "5.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "grepmail-5.3034-14.fc21.noarch.rpm", 
+    "pkg": "grepmail", 
+    "pkg_version": "5.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "grepmail-5.3034-13.fc20.noarch.rpm", 
+    "pkg": "grepmail", 
+    "pkg_version": "5.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "grepmail-5.3033-118.1.noarch.rpm", 
+    "pkg": "grepmail", 
+    "pkg_version": "5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "grepmail-5.3033-117.1.3.noarch.rpm", 
+    "pkg": "grepmail", 
+    "pkg_version": "5.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "grepmail-5.3033-114.1.2.noarch.rpm", 
+    "pkg": "grepmail", 
+    "pkg_version": "5.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "grepmail_5.3033-6_all.deb", 
+    "pkg": "grepmail", 
+    "pkg_version": "5.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "grepmail_5.3033-6_all.deb", 
+    "pkg": "grepmail", 
+    "pkg_version": "5.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

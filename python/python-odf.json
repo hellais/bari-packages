@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-odf_1.2.0-6_all.deb", 
+    "pkg": "python-odf", 
+    "pkg_version": "1.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-odf_1.2.0-2_all.deb", 
+    "pkg": "python-odf", 
+    "pkg_version": "1.2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-odf-0.9.6-1-omv2013.0.noarch.rpm", 
+    "pkg": "python-odf", 
+    "pkg_version": "0.9.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-odf-0.9.4-1-omv2013.0.noarch.rpm", 
+    "pkg": "python-odf", 
+    "pkg_version": "0.9.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-odf-0.9.4-1-omv2013.0.noarch.rpm", 
+    "pkg": "python-odf", 
+    "pkg_version": "0.9.4", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "python-odf-0.9.6-2-rosa2014.1.noarch.rpm", 
+    "pkg": "python-odf", 
+    "pkg_version": "0.9.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "python-odf-0.9.6-1-rosa2012.1.noarch.rpm", 
+    "pkg": "python-odf", 
+    "pkg_version": "0.9.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-odf_0.9.6-2_all.deb", 
+    "pkg": "python-odf", 
+    "pkg_version": "0.9.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xserver-xorg-input-void_1.4.0-1+b4_i386.deb", 
+    "pkg": "xserver-xorg-input-void", 
+    "pkg_version": "1.4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xserver-xorg-input-void_1.4.0-1+b4_i386.deb", 
+    "pkg": "xserver-xorg-input-void", 
+    "pkg_version": "1.4.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xserver-xorg-input-void_1.4.0-1+b1_i386.deb", 
+    "pkg": "xserver-xorg-input-void", 
+    "pkg_version": "1.4.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xserver-xorg-input-void_1.4.0-1build4_i386.deb", 
+    "pkg": "xserver-xorg-input-void", 
+    "pkg_version": "1.4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "xserver-xorg-input-void-lts-utopic_1.4.0-1build4~trusty1_i386.deb", 
+    "pkg": "xserver-xorg-input-void-lts-utopic", 
+    "pkg_version": "1.4.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "xserver-xorg-input-void_1.4.0-1build3_i386.deb", 
+    "pkg": "xserver-xorg-input-void", 
+    "pkg_version": "1.4.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

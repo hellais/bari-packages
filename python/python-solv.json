@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-solv-0.6.4-2.el7.x86_64.rpm", 
+    "pkg": "python-solv", 
+    "pkg_version": "0.6.4", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-solv-0.0.0-1.git857fe28.el6.x86_64.rpm", 
+    "pkg": "python-solv", 
+    "pkg_version": "0.0.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-solv_0.6.5-1_i386.deb", 
+    "pkg": "python-solv", 
+    "pkg_version": "0.6.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-solv_0.6.5-1_i386.deb", 
+    "pkg": "python-solv", 
+    "pkg_version": "0.6.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-solv-0.6.8-3.fc23.x86_64.rpm", 
+    "pkg": "python-solv", 
+    "pkg_version": "0.6.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-solv-0.6.8-2.fc22.x86_64.rpm", 
+    "pkg": "python-solv", 
+    "pkg_version": "0.6.8", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-solv-0.6.4-3.fc21.x86_64.rpm", 
+    "pkg": "python-solv", 
+    "pkg_version": "0.6.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python-solv-0.6.4-0.git2a5c1c4.fc20.x86_64.rpm", 
+    "pkg": "python-solv", 
+    "pkg_version": "0.6.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-solv-0.6.9-1.1.x86_64.rpm", 
+    "pkg": "python-solv", 
+    "pkg_version": "0.6.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "python-solv-0.6.8-6.1.x86_64.rpm", 
+    "pkg": "python-solv", 
+    "pkg_version": "0.6.8", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }
+]

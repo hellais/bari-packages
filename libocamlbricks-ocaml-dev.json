@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libocamlbricks-ocaml-dev_0.90+bzr400-1_i386.deb", 
+    "pkg": "libocamlbricks-ocaml-dev", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libocamlbricks-ocaml-dev_0.90+bzr400-1_i386.deb", 
+    "pkg": "libocamlbricks-ocaml-dev", 
+    "pkg_version": "0.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libocamlbricks-ocaml-dev_0.50.1-4+b5_i386.deb", 
+    "pkg": "libocamlbricks-ocaml-dev", 
+    "pkg_version": "0.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libocamlbricks-ocaml-dev_0.90+bzr400-1_i386.deb", 
+    "pkg": "libocamlbricks-ocaml-dev", 
+    "pkg_version": "0.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libocamlbricks-ocaml-dev_0.90+bzr367-1build1_i386.deb", 
+    "pkg": "libocamlbricks-ocaml-dev", 
+    "pkg_version": "0.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

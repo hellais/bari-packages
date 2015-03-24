@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpwquality-common_1.2.3-1_all.deb", 
+    "pkg": "libpwquality-common", 
+    "pkg_version": "1.2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpwquality-common_1.2.3-1_all.deb", 
+    "pkg": "libpwquality-common", 
+    "pkg_version": "1.2.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libpwquality-common-1.2.4-2-omv2015.0.noarch.rpm", 
+    "pkg": "libpwquality-common", 
+    "pkg_version": "1.2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libpwquality-common-1.1.1-3-omv2014.0.noarch.rpm", 
+    "pkg": "libpwquality-common", 
+    "pkg_version": "1.1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libpwquality-common-1.1.1-2-omv2013.0.noarch.rpm", 
+    "pkg": "libpwquality-common", 
+    "pkg_version": "1.1.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "libpwquality-common-1.2.4-6-rosa2014.1.x86_64.rpm", 
+    "pkg": "libpwquality-common", 
+    "pkg_version": "1.2.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "libpwquality-common_1.2.3-1ubuntu1.2_all.deb", 
+    "pkg": "libpwquality-common", 
+    "pkg_version": "1.2.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "aeskulap-0.2.2-alt2.1.qa3.x86_64.rpm", 
+    "pkg": "aeskulap", 
+    "pkg_version": "0.2.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "aeskulap-0.2.1-1.2.el5.rf.x86_64.rpm", 
+    "pkg": "aeskulap", 
+    "pkg_version": "0.2.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "aeskulap_0.2.2b1-13+b2_i386.deb", 
+    "pkg": "aeskulap", 
+    "pkg_version": "0.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "aeskulap_0.2.2b1-13+b2_i386.deb", 
+    "pkg": "aeskulap", 
+    "pkg_version": "0.2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "aeskulap_0.2.2b1-11_i386.deb", 
+    "pkg": "aeskulap", 
+    "pkg_version": "0.2.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "aeskulap-0.2.2-0.19beta1.fc22.x86_64.rpm", 
+    "pkg": "aeskulap", 
+    "pkg_version": "0.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "aeskulap-0.2.2-0.19beta1.fc22.x86_64.rpm", 
+    "pkg": "aeskulap", 
+    "pkg_version": "0.2.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "aeskulap-0.2.2-0.20beta1.fc21.x86_64.rpm", 
+    "pkg": "aeskulap", 
+    "pkg_version": "0.2.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "aeskulap-0.2.2-0.20beta1.fc20.x86_64.rpm", 
+    "pkg": "aeskulap", 
+    "pkg_version": "0.2.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "aeskulap-0.2.2-70-rosa2014.1.x86_64.rpm", 
+    "pkg": "aeskulap", 
+    "pkg_version": "0.2.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "aeskulap_0.2.2b1-13_i386.deb", 
+    "pkg": "aeskulap", 
+    "pkg_version": "0.2.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "aeskulap_0.2.2b1-13_i386.deb", 
+    "pkg": "aeskulap", 
+    "pkg_version": "0.2.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ario-1.5.1-alt2.x86_64.rpm", 
+    "pkg": "ario", 
+    "pkg_version": "1.5.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "ario-1.5.1-3-x86_64.pkg.tar.xz", 
+    "pkg": "ario", 
+    "pkg_version": "1.5.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "ario-1.5.1-1.el6.nux.x86_64.rpm", 
+    "pkg": "ario", 
+    "pkg_version": "1.5.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ario_1.5.1-1.3_i386.deb", 
+    "pkg": "ario", 
+    "pkg_version": "1.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ario_1.5.1-1.3_i386.deb", 
+    "pkg": "ario", 
+    "pkg_version": "1.5.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ario_1.5.1-1+b1_i386.deb", 
+    "pkg": "ario", 
+    "pkg_version": "1.5.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "ario-1.5.1-3-omv2014.1.x86_64.rpm", 
+    "pkg": "ario", 
+    "pkg_version": "1.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "ario-1.5.1-4-rosa2014.1.x86_64.rpm", 
+    "pkg": "ario", 
+    "pkg_version": "1.5.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "ario-1.5.1-3-rosa2012.1.x86_64.rpm", 
+    "pkg": "ario", 
+    "pkg_version": "1.5.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "ario-1.5.1-x86_64-1ab.txz", 
+    "pkg": "ario", 
+    "pkg_version": "1.5.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ario_1.5.1-1.2build1_i386.deb", 
+    "pkg": "ario", 
+    "pkg_version": "1.5.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ario_1.5.1-1.1_i386.deb", 
+    "pkg": "ario", 
+    "pkg_version": "1.5.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

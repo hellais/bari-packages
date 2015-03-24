@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "saga_2.1.4+dfsg-1_i386.deb", 
+    "pkg": "saga", 
+    "pkg_version": "2.1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "saga_2.1.2+dfsg-3_i386.deb", 
+    "pkg": "saga", 
+    "pkg_version": "2.1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "saga-2.1.4-2.fc23.x86_64.rpm", 
+    "pkg": "saga", 
+    "pkg_version": "2.1.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "saga-2.1.4-1.fc22.x86_64.rpm", 
+    "pkg": "saga", 
+    "pkg_version": "2.1.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "saga-2.1.4-1.fc21.x86_64.rpm", 
+    "pkg": "saga", 
+    "pkg_version": "2.1.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "saga-2.0.8-13.fc20.x86_64.rpm", 
+    "pkg": "saga", 
+    "pkg_version": "2.0.8", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "saga_2.1.2+dfsg-1_i386.deb", 
+    "pkg": "saga", 
+    "pkg_version": "2.1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "saga_2.1.0+dfsg-1build2_i386.deb", 
+    "pkg": "saga", 
+    "pkg_version": "2.1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

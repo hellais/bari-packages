@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libqglviewer-doc_2.5.3+dfsg-4_all.deb", 
+    "pkg": "libqglviewer-doc", 
+    "pkg_version": "2.5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libqglviewer-doc_2.5.3+dfsg-4_all.deb", 
+    "pkg": "libqglviewer-doc", 
+    "pkg_version": "2.5.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libqglviewer-doc_2.5.2+dfsg-1_all.deb", 
+    "pkg": "libqglviewer-doc", 
+    "pkg_version": "2.5.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "samba-libs-4.1.17-alt1.x86_64.rpm", 
+    "pkg": "samba-libs", 
+    "pkg_version": "4.1.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Ghettoforge Plus", 
+    "pkg_full_name": "samba-libs-4.2.0-0.2.rc2.gf.el7.x86_64.rpm", 
+    "pkg": "samba-libs", 
+    "pkg_version": "4.2.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "samba-libs_4.1.17+dfsg-2_i386.deb", 
+    "pkg": "samba-libs", 
+    "pkg_version": "4.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "samba-libs_4.1.17+dfsg-2_i386.deb", 
+    "pkg": "samba-libs", 
+    "pkg_version": "4.1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "samba-libs_4.1.17+dfsg-1~bpo70+1_i386.deb", 
+    "pkg": "samba-libs", 
+    "pkg_version": "4.1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "samba-libs-4.2.0-0.6.rc3.fc22.x86_64.rpm", 
+    "pkg": "samba-libs", 
+    "pkg_version": "4.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "samba-libs-4.2.0-0.6.rc3.fc22.x86_64.rpm", 
+    "pkg": "samba-libs", 
+    "pkg_version": "4.2.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "samba-libs-4.1.17-1.fc21.x86_64.rpm", 
+    "pkg": "samba-libs", 
+    "pkg_version": "4.1.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "samba-libs-4.1.17-1.fc20.x86_64.rpm", 
+    "pkg": "samba-libs", 
+    "pkg_version": "4.1.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "samba-libs-4.1.17-1-omv2015.0.x86_64.rpm", 
+    "pkg": "samba-libs", 
+    "pkg_version": "4.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "samba-libs-4.2.0-1.1.x86_64.rpm", 
+    "pkg": "samba-libs", 
+    "pkg_version": "4.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "samba-libs-4.1.17-5.1.x86_64.rpm", 
+    "pkg": "samba-libs", 
+    "pkg_version": "4.1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "samba-libs-4.1.9-3.22.1.x86_64.rpm", 
+    "pkg": "samba-libs", 
+    "pkg_version": "4.1.9", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "samba-libs_4.1.11+dfsg-1ubuntu2.2_i386.deb", 
+    "pkg": "samba-libs", 
+    "pkg_version": "4.1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

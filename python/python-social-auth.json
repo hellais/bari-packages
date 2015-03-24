@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-social-auth-0.1.19-1.el7.noarch.rpm", 
+    "pkg": "python-social-auth", 
+    "pkg_version": "0.1.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-social-auth_0.2.1-2_all.deb", 
+    "pkg": "python-social-auth", 
+    "pkg_version": "0.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-social-auth_0.2.1-2_all.deb", 
+    "pkg": "python-social-auth", 
+    "pkg_version": "0.2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-social-auth-0.2.1-1.fc22.noarch.rpm", 
+    "pkg": "python-social-auth", 
+    "pkg_version": "0.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-social-auth-0.2.1-1.fc22.noarch.rpm", 
+    "pkg": "python-social-auth", 
+    "pkg_version": "0.2.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-social-auth-0.1.26-1.fc21.noarch.rpm", 
+    "pkg": "python-social-auth", 
+    "pkg_version": "0.1.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "CERT Forensics Tools", 
+    "pkg_full_name": "bokken-1.6-1.el7.x86_64.rpm", 
+    "pkg": "bokken", 
+    "pkg_version": "1.6", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CERT Forensics Tools", 
+    "pkg_full_name": "bokken-1.6-1.el6.x86_64.rpm", 
+    "pkg": "bokken", 
+    "pkg_version": "1.6", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bokken_1.6-1_all.deb", 
+    "pkg": "bokken", 
+    "pkg_version": "1.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bokken_1.6-1_all.deb", 
+    "pkg": "bokken", 
+    "pkg_version": "1.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CERT Forensics Tools Test", 
+    "pkg_full_name": "bokken-1.6-1.fc21.x86_64.rpm", 
+    "pkg": "bokken", 
+    "pkg_version": "1.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CERT Forensics Tools", 
+    "pkg_full_name": "bokken-1.6-1.fc20.x86_64.rpm", 
+    "pkg": "bokken", 
+    "pkg_version": "1.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }
+]

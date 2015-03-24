@@ -1,0 +1,137 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-django-contact-form-0.3-10.el6.hg97559a887345.noarch.rpm", 
+    "pkg": "python-django-contact-form", 
+    "pkg_version": "0.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-django-contact-form-0.3-10.el6.hg97559a887345.noarch.rpm", 
+    "pkg": "python-django-contact-form", 
+    "pkg_version": "0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-django-contact-form-0.3-10.el6.hg97559a887345.noarch.rpm", 
+    "pkg": "python-django-contact-form", 
+    "pkg_version": "0.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "python-django-contact-form-0.3-10.el6.hg97559a887345.noarch.rpm", 
+    "pkg": "python-django-contact-form", 
+    "pkg_version": "0.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-django-contact-form-1.0-1.fc22.noarch.rpm", 
+    "pkg": "python-django-contact-form", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-django-contact-form-1.0-1.fc22.noarch.rpm", 
+    "pkg": "python-django-contact-form", 
+    "pkg_version": "1.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-django-contact-form-0.3-12.fc21.hg97559a887345.noarch.rpm", 
+    "pkg": "python-django-contact-form", 
+    "pkg_version": "0.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-django-contact-form-0.3-11.fc20.hg97559a887345.noarch.rpm", 
+    "pkg": "python-django-contact-form", 
+    "pkg_version": "0.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-django-contact-form-0.3-4-omv2013.0.noarch.rpm", 
+    "pkg": "python-django-contact-form", 
+    "pkg_version": "0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-django-contact-form-0.3-4-omv2013.0.noarch.rpm", 
+    "pkg": "python-django-contact-form", 
+    "pkg_version": "0.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "python-django-contact-form-0.3-4-omv2013.0.noarch.rpm", 
+    "pkg": "python-django-contact-form", 
+    "pkg_version": "0.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "python-django-contact-form-0.3-5-rosa2014.1.noarch.rpm", 
+    "pkg": "python-django-contact-form", 
+    "pkg_version": "0.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "python-django-contact-form-0.3-4-rosa2012.1.noarch.rpm", 
+    "pkg": "python-django-contact-form", 
+    "pkg_version": "0.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "python-django-contact-form-0.3-4-rosa.lts2012.0.noarch.rpm", 
+    "pkg": "python-django-contact-form", 
+    "pkg_version": "0.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "python-django-contact-form-0.3-4-rosa.lts2012.0.noarch.rpm", 
+    "pkg": "python-django-contact-form", 
+    "pkg_version": "0.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

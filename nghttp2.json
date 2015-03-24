@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nghttp2_0.6.7-1_i386.deb", 
+    "pkg": "nghttp2", 
+    "pkg_version": "0.6.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nghttp2_0.6.4-2_i386.deb", 
+    "pkg": "nghttp2", 
+    "pkg_version": "0.6.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "nghttp2-0.7.5-3.1.x86_64.rpm", 
+    "pkg": "nghttp2", 
+    "pkg_version": "0.7.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }
+]

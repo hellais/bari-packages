@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-yaql_0.2.3-2_all.deb", 
+    "pkg": "python3-yaql", 
+    "pkg_version": "0.2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

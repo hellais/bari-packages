@@ -1,0 +1,55 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "pure-ftpd-ldap-1.0.29-alt1.2.x86_64.rpm", 
+    "pkg": "pure-ftpd-ldap", 
+    "pkg_version": "1.0.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pure-ftpd-ldap_1.0.36-3.2_i386.deb", 
+    "pkg": "pure-ftpd-ldap", 
+    "pkg_version": "1.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pure-ftpd-ldap_1.0.36-3.2_i386.deb", 
+    "pkg": "pure-ftpd-ldap", 
+    "pkg_version": "1.0.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pure-ftpd-ldap_1.0.36-1.1_i386.deb", 
+    "pkg": "pure-ftpd-ldap", 
+    "pkg_version": "1.0.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "pure-ftpd-ldap_1.0.36-2_i386.deb", 
+    "pkg": "pure-ftpd-ldap", 
+    "pkg_version": "1.0.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "pure-ftpd-ldap_1.0.36-1.1_i386.deb", 
+    "pkg": "pure-ftpd-ldap", 
+    "pkg_version": "1.0.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

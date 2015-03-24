@@ -1,0 +1,262 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "luminance-hdr-2.4.0-alt2.x86_64.rpm", 
+    "pkg": "luminance-hdr", 
+    "pkg_version": "2.4.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qtpfsgui_2.4.0-6_all.deb", 
+    "pkg": "qtpfsgui", 
+    "pkg_version": "2.4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "luminance-hdr-2.4.0-alt2.x86_64.rpm", 
+    "pkg": "luminance-hdr", 
+    "pkg_version": "2.4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qtpfsgui_2.4.0-6_all.deb", 
+    "pkg": "qtpfsgui", 
+    "pkg_version": "2.4.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "luminance-hdr-2.4.0-alt2.x86_64.rpm", 
+    "pkg": "luminance-hdr", 
+    "pkg_version": "2.4.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qtpfsgui_2.2.1-3_all.deb", 
+    "pkg": "qtpfsgui", 
+    "pkg_version": "2.2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "luminance-hdr-2.4.0-alt2.x86_64.rpm", 
+    "pkg": "luminance-hdr", 
+    "pkg_version": "2.4.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qtpfsgui_2.2.1-3_all.deb", 
+    "pkg": "qtpfsgui", 
+    "pkg_version": "2.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "luminance-hdr-2.3.1-11.fc22.x86_64.rpm", 
+    "pkg": "luminance-hdr", 
+    "pkg_version": "2.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qtpfsgui_2.2.1-3_all.deb", 
+    "pkg": "qtpfsgui", 
+    "pkg_version": "2.2.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "luminance-hdr-2.3.1-11.fc22.x86_64.rpm", 
+    "pkg": "luminance-hdr", 
+    "pkg_version": "2.3.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qtpfsgui_2.2.1-3_all.deb", 
+    "pkg": "qtpfsgui", 
+    "pkg_version": "2.2.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "luminance-hdr-2.3.1-8.fc21.x86_64.rpm", 
+    "pkg": "luminance-hdr", 
+    "pkg_version": "2.3.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qtpfsgui_2.2.1-3_all.deb", 
+    "pkg": "qtpfsgui", 
+    "pkg_version": "2.2.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "luminance-hdr-2.3.1-2.fc20.x86_64.rpm", 
+    "pkg": "luminance-hdr", 
+    "pkg_version": "2.3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qtpfsgui_2.2.1-3_all.deb", 
+    "pkg": "qtpfsgui", 
+    "pkg_version": "2.2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "luminance-hdr-2.2.0-1-omv2013.0.i586.rpm", 
+    "pkg": "luminance-hdr", 
+    "pkg_version": "2.2.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qtpfsgui_2.2.1-3_all.deb", 
+    "pkg": "qtpfsgui", 
+    "pkg_version": "2.2.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "luminance-hdr-2.2.0-1-omv2013.0.i586.rpm", 
+    "pkg": "luminance-hdr", 
+    "pkg_version": "2.2.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qtpfsgui_2.2.1-3_all.deb", 
+    "pkg": "qtpfsgui", 
+    "pkg_version": "2.2.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE KDE Extra", 
+    "pkg_full_name": "luminance-hdr-2.4.0-5.12.x86_64.rpm", 
+    "pkg": "luminance-hdr", 
+    "pkg_version": "2.4.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qtpfsgui_2.2.1-3_all.deb", 
+    "pkg": "qtpfsgui", 
+    "pkg_version": "2.2.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE KDE Extra", 
+    "pkg_full_name": "luminance-hdr-2.4.0-5.1.x86_64.rpm", 
+    "pkg": "luminance-hdr", 
+    "pkg_version": "2.4.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "qtpfsgui_2.2.1-3_all.deb", 
+    "pkg": "qtpfsgui", 
+    "pkg_version": "2.2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "luminance-hdr-2.2.0-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "luminance-hdr", 
+    "pkg_version": "2.2.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "qtpfsgui_2.4.0-4build2_all.deb", 
+    "pkg": "qtpfsgui", 
+    "pkg_version": "2.4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "luminance-hdr-2.0.2-2-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "luminance-hdr", 
+    "pkg_version": "2.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "qtpfsgui_2.3.0-3build1_all.deb", 
+    "pkg": "qtpfsgui", 
+    "pkg_version": "2.3.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "luminance-hdr-2.0.2-2-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "luminance-hdr", 
+    "pkg_version": "2.0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

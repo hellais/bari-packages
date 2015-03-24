@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "printer-driver-cups-pdf_2.6.1-17_i386.deb", 
+    "pkg": "printer-driver-cups-pdf", 
+    "pkg_version": "2.6.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "printer-driver-cups-pdf_2.6.1-15_i386.deb", 
+    "pkg": "printer-driver-cups-pdf", 
+    "pkg_version": "2.6.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

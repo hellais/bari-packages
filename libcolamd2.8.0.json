@@ -1,0 +1,128 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcolamd2.8.0_4.2.1-3_i386.deb", 
+    "pkg": "libcolamd", 
+    "pkg_version": "2.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcolamd2.8.0_4.2.1-3_i386.deb", 
+    "pkg": "libcolamd", 
+    "pkg_version": "2.8.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcolamd2.8.0_4.2.1-3_i386.deb", 
+    "pkg": "libcolamd", 
+    "pkg_version": "2.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libcolamd2-2.8.0-6-omv2015.0.i586.rpm", 
+    "pkg": "libcolamd2", 
+    "pkg_version": "2.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "libcolamd2.8.0-2.8.0-1-omv2013.0.i586.rpm", 
+    "pkg": "libcolamd", 
+    "pkg_version": "2.8.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libcolamd2-2.8.0-6-omv2015.0.i586.rpm", 
+    "pkg": "libcolamd2", 
+    "pkg_version": "2.8.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "libcolamd2.8.0-2.8.0-1-omv2013.0.i586.rpm", 
+    "pkg": "libcolamd", 
+    "pkg_version": "2.8.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libcolamd2-2.8.0-6-omv2015.0.i586.rpm", 
+    "pkg": "libcolamd2", 
+    "pkg_version": "2.8.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "libcolamd2.8.0-2.8.0-2-rosa2014.1.i586.rpm", 
+    "pkg": "libcolamd", 
+    "pkg_version": "2.8.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libcolamd2-2.8.0-6-omv2015.0.i586.rpm", 
+    "pkg": "libcolamd2", 
+    "pkg_version": "2.8.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "libcolamd2.8.0-2.8.0-1-rosa2012.1.i586.rpm", 
+    "pkg": "libcolamd", 
+    "pkg_version": "2.8.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libcolamd2-2.8.0-6-omv2015.0.i586.rpm", 
+    "pkg": "libcolamd2", 
+    "pkg_version": "2.8.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libcolamd2.8.0_4.2.1-3ubuntu1_i386.deb", 
+    "pkg": "libcolamd", 
+    "pkg_version": "2.8.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libcolamd2-2.8.0-6-omv2015.0.i586.rpm", 
+    "pkg": "libcolamd2", 
+    "pkg_version": "2.8.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

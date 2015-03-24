@@ -1,0 +1,180 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "xfce4-xkb-plugin-0.7.1-alt1.x86_64.rpm", 
+    "pkg": "xfce4-xkb-plugin", 
+    "pkg_version": "0.7.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "xfce4-xkb-plugin-0.7.1-2-x86_64.pkg.tar.xz", 
+    "pkg": "xfce4-xkb-plugin", 
+    "pkg_version": "0.7.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS Extras", 
+    "pkg_full_name": "xfce4-xkb-plugin-0.4.3-1.el5.centos.x86_64.rpm", 
+    "pkg": "xfce4-xkb-plugin", 
+    "pkg_version": "0.4.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xfce4-xkb-plugin_0.5.6-1_i386.deb", 
+    "pkg": "xfce4-xkb-plugin", 
+    "pkg_version": "0.5.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xfce4-xkb-plugin_0.5.6-1_i386.deb", 
+    "pkg": "xfce4-xkb-plugin", 
+    "pkg_version": "0.5.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xfce4-xkb-plugin_0.5.4.3-1+b1_i386.deb", 
+    "pkg": "xfce4-xkb-plugin", 
+    "pkg_version": "0.5.4.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xfce4-xkb-plugin-0.5.6-5.fc23.x86_64.rpm", 
+    "pkg": "xfce4-xkb-plugin", 
+    "pkg_version": "0.5.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xfce4-xkb-plugin-0.5.6-4.fc22.x86_64.rpm", 
+    "pkg": "xfce4-xkb-plugin", 
+    "pkg_version": "0.5.6", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xfce4-xkb-plugin-0.5.6-4.fc21.x86_64.rpm", 
+    "pkg": "xfce4-xkb-plugin", 
+    "pkg_version": "0.5.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xfce4-xkb-plugin-0.5.6-2.fc20.x86_64.rpm", 
+    "pkg": "xfce4-xkb-plugin", 
+    "pkg_version": "0.5.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "xfce4-xkb-plugin-0.5.6-1-omv2013.0.x86_64.rpm", 
+    "pkg": "xfce4-xkb-plugin", 
+    "pkg_version": "0.5.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "xfce4-xkb-plugin-0.5.6-1-omv2013.0.x86_64.rpm", 
+    "pkg": "xfce4-xkb-plugin", 
+    "pkg_version": "0.5.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "xfce4-xkb-plugin-0.5.6-1-omv2013.0.x86_64.rpm", 
+    "pkg": "xfce4-xkb-plugin", 
+    "pkg_version": "0.5.6", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "xfce4-xkb-plugin-0.7.0-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "xfce4-xkb-plugin", 
+    "pkg_version": "0.7.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "xfce4-xkb-plugin-0.5.4.3-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "xfce4-xkb-plugin", 
+    "pkg_version": "0.5.4.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "rworkman's Packages", 
+    "pkg_full_name": "xfce4-xkb-plugin-0.5.6-x86_64-1_rlw.txz", 
+    "pkg": "xfce4-xkb-plugin", 
+    "pkg_version": "0.5.6", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "rworkman's Packages", 
+    "pkg_full_name": "xfce4-xkb-plugin-0.5.4.3-i486-1_rlw.txz", 
+    "pkg": "xfce4-xkb-plugin", 
+    "pkg_version": "0.5.4.3", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "rworkman's Packages", 
+    "pkg_full_name": "xfce4-xkb-plugin-0.5.3.3-i486-3_rlw.txz", 
+    "pkg": "xfce4-xkb-plugin", 
+    "pkg_version": "0.5.3.3", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xfce4-xkb-plugin_0.7.0-0ubuntu2_i386.deb", 
+    "pkg": "xfce4-xkb-plugin", 
+    "pkg_version": "0.7.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xfce4-xkb-plugin_0.7.0-0ubuntu2_i386.deb", 
+    "pkg": "xfce4-xkb-plugin", 
+    "pkg_version": "0.7.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

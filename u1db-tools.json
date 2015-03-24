@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "u1db-tools_13.10-5_i386.deb", 
+    "pkg": "u1db-tools_1", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "u1db-tools_13.10-5_i386.deb", 
+    "pkg": "u1db-tools_1", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "u1db-tools_0.1.4-2~bpo70+1_i386.deb", 
+    "pkg": "u1db-tools", 
+    "pkg_version": "0.1.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "u1db-tools_13.10-5_i386.deb", 
+    "pkg": "u1db-tools_1", 
+    "pkg_version": "3.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "u1db-tools_0.1.4-2~bpo70+1_i386.deb", 
+    "pkg": "u1db-tools", 
+    "pkg_version": "0.1.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "u1db-tools_13.09-0ubuntu1_i386.deb", 
+    "pkg": "u1db-tools_1", 
+    "pkg_version": "3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

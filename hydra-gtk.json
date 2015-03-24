@@ -1,0 +1,46 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hydra-gtk-8.1-alt1.x86_64.rpm", 
+    "pkg": "hydra-gtk", 
+    "pkg_version": "8.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "hydra-gtk_8.1-1_i386.deb", 
+    "pkg": "hydra-gtk", 
+    "pkg_version": "8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "hydra-gtk_8.0-1_i386.deb", 
+    "pkg": "hydra-gtk", 
+    "pkg_version": "8.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "hydra-gtk_8.0-1_i386.deb", 
+    "pkg": "hydra-gtk", 
+    "pkg_version": "8.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "hydra-gtk_7.5-2_i386.deb", 
+    "pkg": "hydra-gtk", 
+    "pkg_version": "7.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

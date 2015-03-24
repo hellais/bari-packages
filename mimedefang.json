@@ -1,0 +1,119 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "mimedefang-2.75-1.el7.x86_64.rpm", 
+    "pkg": "mimedefang", 
+    "pkg_version": "2.7", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "mimedefang-2.70-1.el6.rf.x86_64.rpm", 
+    "pkg": "mimedefang", 
+    "pkg_version": "2.7", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "mimedefang-2.70-1.el5.rf.x86_64.rpm", 
+    "pkg": "mimedefang", 
+    "pkg_version": "2.7", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mimedefang_2.75-1_i386.deb", 
+    "pkg": "mimedefang", 
+    "pkg_version": "2.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mimedefang_2.75-1_i386.deb", 
+    "pkg": "mimedefang", 
+    "pkg_version": "2.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mimedefang_2.71-3_i386.deb", 
+    "pkg": "mimedefang", 
+    "pkg_version": "2.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mimedefang-2.75-4.fc22.x86_64.rpm", 
+    "pkg": "mimedefang", 
+    "pkg_version": "2.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mimedefang-2.75-4.fc22.x86_64.rpm", 
+    "pkg": "mimedefang", 
+    "pkg_version": "2.7", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mimedefang-2.75-3.fc21.x86_64.rpm", 
+    "pkg": "mimedefang", 
+    "pkg_version": "2.7", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "mimedefang-2.75-1.fc20.x86_64.rpm", 
+    "pkg": "mimedefang", 
+    "pkg_version": "2.7", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Helmut Hullen", 
+    "pkg_full_name": "mimedefang-2.67-i486-1hln.tgz", 
+    "pkg": "mimedefang", 
+    "pkg_version": "2.6", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mimedefang_2.73-2build2_i386.deb", 
+    "pkg": "mimedefang", 
+    "pkg_version": "2.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mimedefang_2.73-2build1_i386.deb", 
+    "pkg": "mimedefang", 
+    "pkg_version": "2.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

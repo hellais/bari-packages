@@ -1,0 +1,46 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "drbl-2.11.15-1-any.pkg.tar.xz", 
+    "pkg": "drbl", 
+    "pkg_version": "2.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "drbl_2.8.25-1_all.deb", 
+    "pkg": "drbl", 
+    "pkg_version": "2.8.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "drbl_2.8.25-1_all.deb", 
+    "pkg": "drbl", 
+    "pkg_version": "2.8.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "drbl_1.10.90-1_all.deb", 
+    "pkg": "drbl", 
+    "pkg_version": "1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "drbl_2.8.25-1_all.deb", 
+    "pkg": "drbl", 
+    "pkg_version": "2.8.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

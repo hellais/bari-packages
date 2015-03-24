@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libroot-math-genvector-dev_5.34.19+dfsg-1.2_i386.deb", 
+    "pkg": "libroot-math-genvector-dev", 
+    "pkg_version": "5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libroot-math-genvector-dev_5.34.19+dfsg-1.2_i386.deb", 
+    "pkg": "libroot-math-genvector-dev", 
+    "pkg_version": "5.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libroot-math-genvector-dev_5.34.00-2_i386.deb", 
+    "pkg": "libroot-math-genvector-dev", 
+    "pkg_version": "5.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libroot-math-genvector-dev_5.34.19+dfsg-1_i386.deb", 
+    "pkg": "libroot-math-genvector-dev", 
+    "pkg_version": "5.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

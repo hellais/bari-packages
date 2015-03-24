@@ -1,0 +1,117 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "mythes-it-2.0.9l-alt1_11.noarch.rpm", 
+    "pkg": "mythes-it", 
+    "pkg_version": "2.0.9", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "mythes-it-2.0.9l-4-any.pkg.tar.xz", 
+    "pkg": "mythes-it", 
+    "pkg_version": "2.0.9", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "mythes-it-2.0.9l-10.el7.noarch.rpm", 
+    "pkg": "mythes-it", 
+    "pkg_version": "2.0.9", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "mythes-it-2.0.9l-4.1.el6.noarch.rpm", 
+    "pkg": "mythes-it", 
+    "pkg_version": "2.0.9", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mythes-it_2.0.7.gh.deb1-4.1_all.deb", 
+    "pkg": "mythes-it", 
+    "pkg_version": "2.0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mythes-it_2.0.7.gh.deb1-4.1_all.deb", 
+    "pkg": "mythes-it", 
+    "pkg_version": "2.0.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mythes-it_2.0.7.gh.deb1-4.1_all.deb", 
+    "pkg": "mythes-it", 
+    "pkg_version": "2.0.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mythes-it-2.0.9l-11.fc21.noarch.rpm", 
+    "pkg": "mythes-it", 
+    "pkg_version": "2.0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mythes-it-2.0.9l-11.fc21.noarch.rpm", 
+    "pkg": "mythes-it", 
+    "pkg_version": "2.0.9", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mythes-it-2.0.9l-11.fc21.noarch.rpm", 
+    "pkg": "mythes-it", 
+    "pkg_version": "2.0.9", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mythes-it-2.0.9l-10.fc20.noarch.rpm", 
+    "pkg": "mythes-it", 
+    "pkg_version": "2.0.9", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "mythes-it_2.0.7.gh.deb1-4.1_all.deb", 
+    "pkg": "mythes-it", 
+    "pkg_version": "2.0.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "mythes-it_2.0.7.gh.deb1-4.1_all.deb", 
+    "pkg": "mythes-it", 
+    "pkg_version": "2.0.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

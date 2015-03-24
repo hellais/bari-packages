@@ -1,0 +1,119 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "librcd0_0.1.13-3_i386.deb", 
+    "pkg": "librcd0", 
+    "pkg_version": "0.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "librcd0_0.1.13-3_i386.deb", 
+    "pkg": "librcd0", 
+    "pkg_version": "0.1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "librcd0_0.1.13-3_i386.deb", 
+    "pkg": "librcd0", 
+    "pkg_version": "0.1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "librcd0-0.1.14-4-omv2015.0.i586.rpm", 
+    "pkg": "librcd0", 
+    "pkg_version": "0.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "librcd0-0.1.13-7-omv2014.0.i586.rpm", 
+    "pkg": "librcd0", 
+    "pkg_version": "0.1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "librcd0-0.1.13-5-omv2013.0.i586.rpm", 
+    "pkg": "librcd0", 
+    "pkg_version": "0.1.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "librcd0-0.1.14-3.2.x86_64.rpm", 
+    "pkg": "librcd0", 
+    "pkg_version": "0.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "librcd0-0.1.14-2.1.2.x86_64.rpm", 
+    "pkg": "librcd0", 
+    "pkg_version": "0.1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "librcd0-0.1.13-16.1.2.i586.rpm", 
+    "pkg": "librcd0", 
+    "pkg_version": "0.1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "librcd0-0.1.14-2-rosa2014.1.i586.rpm", 
+    "pkg": "librcd0", 
+    "pkg_version": "0.1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "librcd0-0.1.13-2-rosa2012.1.i586.rpm", 
+    "pkg": "librcd0", 
+    "pkg_version": "0.1.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "librcd0_0.1.13-3build1_i386.deb", 
+    "pkg": "librcd0", 
+    "pkg_version": "0.1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "librcd0_0.1.13-3build1_i386.deb", 
+    "pkg": "librcd0", 
+    "pkg_version": "0.1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

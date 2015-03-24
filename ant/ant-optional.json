@@ -1,0 +1,307 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ant-optional-1.9.2-alt1.noarch.rpm", 
+    "pkg": "ant-optional", 
+    "pkg_version": "1.9.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "ant-1.8.2-5.jpp6.noarch.rpm", 
+    "pkg": "ant", 
+    "pkg_version": "1.8.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "ant17-1.7.1-13.jpp6.noarch.rpm", 
+    "pkg": "ant17", 
+    "pkg_version": "1.7.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ant-optional-1.9.2-alt1.noarch.rpm", 
+    "pkg": "ant-optional", 
+    "pkg_version": "1.9.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "ant-1.8.2-5.jpp6.noarch.rpm", 
+    "pkg": "ant", 
+    "pkg_version": "1.8.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "ant17-1.7.1-13.jpp6.noarch.rpm", 
+    "pkg": "ant17", 
+    "pkg_version": "1.7.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ant-optional-1.9.2-alt1.noarch.rpm", 
+    "pkg": "ant-optional", 
+    "pkg_version": "1.9.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "ant-1.8.2-5.jpp6.noarch.rpm", 
+    "pkg": "ant", 
+    "pkg_version": "1.8.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "ant17-1.7.1-13.jpp6.noarch.rpm", 
+    "pkg": "ant17", 
+    "pkg_version": "1.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ant-optional_1.9.4-3_all.deb", 
+    "pkg": "ant-optional", 
+    "pkg_version": "1.9.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "ant-1.8.2-5.jpp6.noarch.rpm", 
+    "pkg": "ant", 
+    "pkg_version": "1.8.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "ant17-1.7.1-13.jpp6.noarch.rpm", 
+    "pkg": "ant17", 
+    "pkg_version": "1.7.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ant-optional_1.9.4-3_all.deb", 
+    "pkg": "ant-optional", 
+    "pkg_version": "1.9.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "ant-1.8.2-5.jpp6.noarch.rpm", 
+    "pkg": "ant", 
+    "pkg_version": "1.8.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "ant17-1.7.1-13.jpp6.noarch.rpm", 
+    "pkg": "ant17", 
+    "pkg_version": "1.7.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ant-optional_1.8.2-4_all.deb", 
+    "pkg": "ant-optional", 
+    "pkg_version": "1.8.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "ant-1.8.2-5.jpp6.noarch.rpm", 
+    "pkg": "ant", 
+    "pkg_version": "1.8.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "ant17-1.7.1-13.jpp6.noarch.rpm", 
+    "pkg": "ant17", 
+    "pkg_version": "1.7.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ant-optional_1.8.2-4_all.deb", 
+    "pkg": "ant-optional", 
+    "pkg_version": "1.8.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "ant-1.8.2-5.jpp6.noarch.rpm", 
+    "pkg": "ant", 
+    "pkg_version": "1.8.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "ant17-1.7.1-13.jpp6.noarch.rpm", 
+    "pkg": "ant17", 
+    "pkg_version": "1.7.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ant-optional_1.8.2-4_all.deb", 
+    "pkg": "ant-optional", 
+    "pkg_version": "1.8.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "ant-1.8.2-5.jpp6.noarch.rpm", 
+    "pkg": "ant", 
+    "pkg_version": "1.8.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "ant17-1.7.1-13.jpp6.noarch.rpm", 
+    "pkg": "ant17", 
+    "pkg_version": "1.7.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ant-optional_1.8.2-4_all.deb", 
+    "pkg": "ant-optional", 
+    "pkg_version": "1.8.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "ant-1.7.1-7.0.6-rosa2012.1.noarch.rpm", 
+    "pkg": "ant", 
+    "pkg_version": "1.7.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "ant17-1.7.1-13.jpp6.noarch.rpm", 
+    "pkg": "ant17", 
+    "pkg_version": "1.7.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ant-optional_1.8.2-4_all.deb", 
+    "pkg": "ant-optional", 
+    "pkg_version": "1.8.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "ant-1.7.1-7.0.6-rosa.lts2012.0.noarch.rpm", 
+    "pkg": "ant", 
+    "pkg_version": "1.7.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "ant17-1.7.1-13.jpp6.noarch.rpm", 
+    "pkg": "ant17", 
+    "pkg_version": "1.7.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "ant-optional_1.9.4-1_all.deb", 
+    "pkg": "ant-optional", 
+    "pkg_version": "1.9.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "ant-1.7.1-7.0.6-rosa.lts2012.0.noarch.rpm", 
+    "pkg": "ant", 
+    "pkg_version": "1.7.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "ant17-1.7.1-13.jpp6.noarch.rpm", 
+    "pkg": "ant17", 
+    "pkg_version": "1.7.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "ant-optional_1.9.3-2build1_all.deb", 
+    "pkg": "ant-optional", 
+    "pkg_version": "1.9.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libavifile-0.7-bin_0.7.48~20090503.ds-16.2_i386.deb", 
+    "pkg": "libavifile", 
+    "pkg_version": "0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libavifile-0.7-bin_0.7.48~20090503.ds-16.2_i386.deb", 
+    "pkg": "libavifile", 
+    "pkg_version": "0.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libavifile-0.7-bin_0.7.48~20090503.ds-13_i386.deb", 
+    "pkg": "libavifile", 
+    "pkg_version": "0.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libavifile-0.7-bin_0.7.48~20090503.ds-15build1_i386.deb", 
+    "pkg": "libavifile", 
+    "pkg_version": "0.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

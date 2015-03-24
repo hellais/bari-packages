@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xchat-gnome-common_0.30.0~git20131003.d20b8d-3_all.deb", 
+    "pkg": "xchat-gnome-common", 
+    "pkg_version": "0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xchat-gnome-common_0.30.0~git20110821.e2a400-0.2_all.deb", 
+    "pkg": "xchat-gnome-common", 
+    "pkg_version": "0.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "xchat-gnome-common_0.30.0~git20131003.d20b8d+really20110821-0.2ubuntu14_all.deb", 
+    "pkg": "xchat-gnome-common", 
+    "pkg_version": "0.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "xchat-gnome-common_0.30.0~git20131003.d20b8d+really20110821-0.2ubuntu12.1_all.deb", 
+    "pkg": "xchat-gnome-common", 
+    "pkg_version": "0.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

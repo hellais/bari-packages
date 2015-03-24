@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "python-leveldb-0.193-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "python-leveldb", 
+    "pkg_version": "0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "python-leveldb-0.193-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "python-leveldb", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

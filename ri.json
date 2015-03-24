@@ -1,0 +1,379 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ri-2.0.0-alt10.noarch.rpm", 
+    "pkg": "ri", 
+    "pkg_version": "2.0.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "rubygem-rdoc-4.0.0-22.el7_0.noarch.rpm", 
+    "pkg": "rubygem-rdoc", 
+    "pkg_version": "4.0.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ri-2.0.0-alt10.noarch.rpm", 
+    "pkg": "ri", 
+    "pkg_version": "2.0.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "ruby-ri-1.8.7.374-4.el6_6.x86_64.rpm", 
+    "pkg": "ruby-ri", 
+    "pkg_version": "1.8.7.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "rubygem-rdoc-4.0.0-22.el7_0.noarch.rpm", 
+    "pkg": "rubygem-rdoc", 
+    "pkg_version": "4.0.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ri-2.0.0-alt10.noarch.rpm", 
+    "pkg": "ri", 
+    "pkg_version": "2.0.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ruby-ri-1.8.5-31.el5_9.x86_64.rpm", 
+    "pkg": "ruby-ri", 
+    "pkg_version": "1.8.5", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "rubygem-rdoc-4.0.0-22.el7_0.noarch.rpm", 
+    "pkg": "rubygem-rdoc", 
+    "pkg_version": "4.0.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ri-2.0.0-alt10.noarch.rpm", 
+    "pkg": "ri", 
+    "pkg_version": "2.0.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ruby-ri-1.8.5-31.el5_9.x86_64.rpm", 
+    "pkg": "ruby-ri", 
+    "pkg_version": "1.8.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "rubygem-rdoc-4.0.0-22.el7_0.noarch.rpm", 
+    "pkg": "rubygem-rdoc", 
+    "pkg_version": "4.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ri_2.1.5_all.deb", 
+    "pkg": "ri", 
+    "pkg_version": "2.1.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ruby-ri-1.8.5-31.el5_9.x86_64.rpm", 
+    "pkg": "ruby-ri", 
+    "pkg_version": "1.8.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "rubygem-rdoc-4.0.0-22.el7_0.noarch.rpm", 
+    "pkg": "rubygem-rdoc", 
+    "pkg_version": "4.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ri_2.1.5_all.deb", 
+    "pkg": "ri", 
+    "pkg_version": "2.1.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ruby-ri-1.8.5-31.el5_9.x86_64.rpm", 
+    "pkg": "ruby-ri", 
+    "pkg_version": "1.8.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "rubygem-rdoc-4.0.0-22.el7_0.noarch.rpm", 
+    "pkg": "rubygem-rdoc", 
+    "pkg_version": "4.0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "ri1.8_1.8.7.358-7.1+deb7u2_all.deb", 
+    "pkg": "ri", 
+    "pkg_version": "1.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ruby-ri-1.8.5-31.el5_9.x86_64.rpm", 
+    "pkg": "ruby-ri", 
+    "pkg_version": "1.8.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rubygem-rdoc-4.2.0-9.fc23.noarch.rpm", 
+    "pkg": "rubygem-rdoc", 
+    "pkg_version": "4.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "ri1.8_1.8.7.358-7.1+deb7u2_all.deb", 
+    "pkg": "ri", 
+    "pkg_version": "1.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ruby-ri-1.8.5-31.el5_9.x86_64.rpm", 
+    "pkg": "ruby-ri", 
+    "pkg_version": "1.8.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rubygem-rdoc-4.2.0-7.fc22.noarch.rpm", 
+    "pkg": "rubygem-rdoc", 
+    "pkg_version": "4.2.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "ri1.8_1.8.7.358-7.1+deb7u2_all.deb", 
+    "pkg": "ri", 
+    "pkg_version": "1.8", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ruby-ri-1.8.5-31.el5_9.x86_64.rpm", 
+    "pkg": "ruby-ri", 
+    "pkg_version": "1.8.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "rubygem-rdoc-4.1.0-26.fc21.noarch.rpm", 
+    "pkg": "rubygem-rdoc", 
+    "pkg_version": "4.1.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "ri1.8_1.8.7.358-7.1+deb7u2_all.deb", 
+    "pkg": "ri", 
+    "pkg_version": "1.8", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ruby-ri-1.8.5-31.el5_9.x86_64.rpm", 
+    "pkg": "ruby-ri", 
+    "pkg_version": "1.8.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "rubygem-rdoc-4.0.0-16.fc20.noarch.rpm", 
+    "pkg": "rubygem-rdoc", 
+    "pkg_version": "4.0.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "ri1.8_1.8.7.358-7.1+deb7u2_all.deb", 
+    "pkg": "ri", 
+    "pkg_version": "1.8", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "ruby-rdoc-4.2.0-8-omv2015.0.noarch.rpm", 
+    "pkg": "ruby-rdoc", 
+    "pkg_version": "4.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ruby-ri-1.8.5-31.el5_9.x86_64.rpm", 
+    "pkg": "ruby-ri", 
+    "pkg_version": "1.8.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "rubygem-rdoc-4.0.0-16.fc20.noarch.rpm", 
+    "pkg": "rubygem-rdoc", 
+    "pkg_version": "4.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "ri1.8_1.8.7.358-7.1+deb7u2_all.deb", 
+    "pkg": "ri", 
+    "pkg_version": "1.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "ruby-rdoc-4.2.0-8-omv2015.0.noarch.rpm", 
+    "pkg": "ruby-rdoc", 
+    "pkg_version": "4.2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ruby-ri-1.8.5-31.el5_9.x86_64.rpm", 
+    "pkg": "ruby-ri", 
+    "pkg_version": "1.8.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "rubygem-rdoc-4.0.0-16.fc20.noarch.rpm", 
+    "pkg": "rubygem-rdoc", 
+    "pkg_version": "4.0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ri_2.1.0.0~ubuntu3_all.deb", 
+    "pkg": "ri", 
+    "pkg_version": "2.1.0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "ruby-rdoc-4.2.0-8-omv2015.0.noarch.rpm", 
+    "pkg": "ruby-rdoc", 
+    "pkg_version": "4.2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ruby-ri-1.8.5-31.el5_9.x86_64.rpm", 
+    "pkg": "ruby-ri", 
+    "pkg_version": "1.8.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "rubygem-rdoc-4.0.0-16.fc20.noarch.rpm", 
+    "pkg": "rubygem-rdoc", 
+    "pkg_version": "4.0.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ri_1.9.3.4_all.deb", 
+    "pkg": "ri", 
+    "pkg_version": "1.9.3.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

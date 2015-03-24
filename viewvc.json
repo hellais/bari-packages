@@ -1,0 +1,190 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "viewvc-1.1.22-alt1_2.noarch.rpm", 
+    "pkg": "viewvc", 
+    "pkg_version": "1.1.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "viewvc-1.1.9-1.el6.rf.noarch.rpm", 
+    "pkg": "viewvc", 
+    "pkg_version": "1.1.9", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "viewvc-1.1.9-1.el5.rf.noarch.rpm", 
+    "pkg": "viewvc", 
+    "pkg_version": "1.1.9", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "viewvc_1.1.22-1_all.deb", 
+    "pkg": "viewvc", 
+    "pkg_version": "1.1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "viewvc_1.1.22-1_all.deb", 
+    "pkg": "viewvc", 
+    "pkg_version": "1.1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "viewvc_1.1.5-1.4_all.deb", 
+    "pkg": "viewvc", 
+    "pkg_version": "1.1.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "viewvc-1.1.23-1.fc22.noarch.rpm", 
+    "pkg": "viewvc", 
+    "pkg_version": "1.1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "viewvc-1.1.23-1.fc22.noarch.rpm", 
+    "pkg": "viewvc", 
+    "pkg_version": "1.1.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "viewvc-1.1.23-1.fc21.noarch.rpm", 
+    "pkg": "viewvc", 
+    "pkg_version": "1.1.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "viewvc-1.1.23-1.fc20.noarch.rpm", 
+    "pkg": "viewvc", 
+    "pkg_version": "1.1.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "viewvc-1.1.15-4-omv2013.0.noarch.rpm", 
+    "pkg": "viewvc", 
+    "pkg_version": "1.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "viewvc-1.1.15-4-omv2013.0.noarch.rpm", 
+    "pkg": "viewvc", 
+    "pkg_version": "1.1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "viewvc-1.1.15-4-omv2013.0.noarch.rpm", 
+    "pkg": "viewvc", 
+    "pkg_version": "1.1.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "viewvc-1.1.22-3.2.noarch.rpm", 
+    "pkg": "viewvc", 
+    "pkg_version": "1.1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "viewvc-1.1.22-2.1.4.noarch.rpm", 
+    "pkg": "viewvc", 
+    "pkg_version": "1.1.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "viewvc-1.1.21-1.2.noarch.rpm", 
+    "pkg": "viewvc", 
+    "pkg_version": "1.1.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "viewvc-1.1.15-5-rosa2014.1.noarch.rpm", 
+    "pkg": "viewvc", 
+    "pkg_version": "1.1.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "viewvc-1.1.15-4-rosa2012.1.noarch.rpm", 
+    "pkg": "viewvc", 
+    "pkg_version": "1.1.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Niels Horn", 
+    "pkg_full_name": "viewvc-1.1.8-i486-1_nhh.tgz", 
+    "pkg": "viewvc", 
+    "pkg_version": "1.1.8", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "viewvc_1.1.22-1_all.deb", 
+    "pkg": "viewvc", 
+    "pkg_version": "1.1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "viewvc_1.1.5-1.4_all.deb", 
+    "pkg": "viewvc", 
+    "pkg_version": "1.1.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libverto-libev1_0.2.4-2_i386.deb", 
+    "pkg": "libverto-libev1", 
+    "pkg_version": "0.2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libverto-libev1_0.2.4-2_i386.deb", 
+    "pkg": "libverto-libev1", 
+    "pkg_version": "0.2.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libverto-libev1_0.2.2-1_i386.deb", 
+    "pkg": "libverto-libev1", 
+    "pkg_version": "0.2.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libverto-libev1-0.2.5-10-omv2015.0.i586.rpm", 
+    "pkg": "libverto-libev1", 
+    "pkg_version": "0.2.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libverto-libev1-0.2.5-4-omv2014.0.i586.rpm", 
+    "pkg": "libverto-libev1", 
+    "pkg_version": "0.2.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libverto-libev1-0.2.5-3-omv2013.0.i586.rpm", 
+    "pkg": "libverto-libev1", 
+    "pkg_version": "0.2.5", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }
+]

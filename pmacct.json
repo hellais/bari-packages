@@ -1,0 +1,82 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "pmacct-0.14.3-alt2.x86_64.rpm", 
+    "pkg": "pmacct", 
+    "pkg_version": "0.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pmacct_1.5.0-4_i386.deb", 
+    "pkg": "pmacct", 
+    "pkg_version": "1.5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pmacct_1.5.0-4_i386.deb", 
+    "pkg": "pmacct", 
+    "pkg_version": "1.5.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pmacct_0.14.0-1.1_i386.deb", 
+    "pkg": "pmacct", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "pmacct-0.12.5-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "pmacct", 
+    "pkg_version": "0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "pmacct-0.12.5-0-rosa2012.1.x86_64.rpm", 
+    "pkg": "pmacct", 
+    "pkg_version": "0.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackers", 
+    "pkg_full_name": "pmacct-1.5.1-x86_64-1cf.txz", 
+    "pkg": "pmacct", 
+    "pkg_version": "1.5.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "pmacct_0.14.0-1.1_i386.deb", 
+    "pkg": "pmacct", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "pmacct_0.14.0-1.1_i386.deb", 
+    "pkg": "pmacct", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

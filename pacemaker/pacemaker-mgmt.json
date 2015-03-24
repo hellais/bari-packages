@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pacemaker-mgmt_2.0.0+hg1141-2.3_i386.deb", 
+    "pkg": "pacemaker-mgmt", 
+    "pkg_version": "2.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "pacemaker-mgmt_2.1.2-0ubuntu3_i386.deb", 
+    "pkg": "pacemaker-mgmt", 
+    "pkg_version": "2.1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "pacemaker-mgmt_2.1.2-0ubuntu2_i386.deb", 
+    "pkg": "pacemaker-mgmt", 
+    "pkg_version": "2.1.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "gimp-ufraw-0.21-1-x86_64.pkg.tar.xz", 
+    "pkg": "gimp-ufraw", 
+    "pkg_version": "0.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gimp-ufraw_0.20-2_i386.deb", 
+    "pkg": "gimp-ufraw", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gimp-ufraw_0.20-2_i386.deb", 
+    "pkg": "gimp-ufraw", 
+    "pkg_version": "0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gimp-ufraw_0.18-2_i386.deb", 
+    "pkg": "gimp-ufraw", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gimp-ufraw-0.21-1.1.x86_64.rpm", 
+    "pkg": "gimp-ufraw", 
+    "pkg_version": "0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gimp-ufraw-0.19.2-4.1.4.x86_64.rpm", 
+    "pkg": "gimp-ufraw", 
+    "pkg_version": "0.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gimp-ufraw-0.19.2-2.1.3.i586.rpm", 
+    "pkg": "gimp-ufraw", 
+    "pkg_version": "0.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gimp-ufraw_0.19.2-2ubuntu2build1_i386.deb", 
+    "pkg": "gimp-ufraw", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gimp-ufraw_0.19.2-2ubuntu2_i386.deb", 
+    "pkg": "gimp-ufraw", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libreoffice-presenter-console_4.3.3-2_all.deb", 
+    "pkg": "libreoffice-presenter-console", 
+    "pkg_version": "4.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libreoffice-presenter-console_4.3.3-2_all.deb", 
+    "pkg": "libreoffice-presenter-console", 
+    "pkg_version": "4.3.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "libreoffice-presenter-console_1.1.0+LibO3.5.4+dfsg2-0+deb7u3_i386.deb", 
+    "pkg": "libreoffice-presenter-console", 
+    "pkg_version": "1.1.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "libreoffice-presenter-console_4.2.7-0ubuntu2_all.deb", 
+    "pkg": "libreoffice-presenter-console", 
+    "pkg_version": "4.2.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

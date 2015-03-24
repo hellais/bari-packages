@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpipebang-camlp4-dev_110.01.00-1_i386.deb", 
+    "pkg": "libpipebang-camlp4-dev_11", 
+    "pkg_version": "0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

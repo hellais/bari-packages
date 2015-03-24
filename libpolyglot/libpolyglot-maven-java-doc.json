@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpolyglot-maven-java-doc_0.8~tobrien+git20120905-3_all.deb", 
+    "pkg": "libpolyglot-maven-java-doc", 
+    "pkg_version": "0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libpolyglot-maven-java-doc_0.8~tobrien+git20120905-3_all.deb", 
+    "pkg": "libpolyglot-maven-java-doc", 
+    "pkg_version": "0.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libpolyglot-maven-java-doc_0.8~tobrien+git20120905-3_all.deb", 
+    "pkg": "libpolyglot-maven-java-doc", 
+    "pkg_version": "0.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

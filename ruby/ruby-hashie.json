@@ -1,0 +1,46 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-hashie-2.0.5-alt1.noarch.rpm", 
+    "pkg": "ruby-hashie", 
+    "pkg_version": "2.0.5", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-hashie_2.0.5-1_all.deb", 
+    "pkg": "ruby-hashie", 
+    "pkg_version": "2.0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-hashie_2.0.5-1_all.deb", 
+    "pkg": "ruby-hashie", 
+    "pkg_version": "2.0.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "ruby-hashie_2.0.5-1~bpo70+1_all.deb", 
+    "pkg": "ruby-hashie", 
+    "pkg_version": "2.0.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "ruby-hashie_2.0.5-1_all.deb", 
+    "pkg": "ruby-hashie", 
+    "pkg_version": "2.0.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

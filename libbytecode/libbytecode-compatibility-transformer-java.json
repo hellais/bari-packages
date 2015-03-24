@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libbytecode-compatibility-transformer-java_1.5-1_all.deb", 
+    "pkg": "libbytecode-compatibility-transformer-java", 
+    "pkg_version": "1.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

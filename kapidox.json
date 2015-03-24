@@ -1,0 +1,64 @@
+[
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "kapidox-5.8.0-1-any.pkg.tar.xz", 
+    "pkg": "kapidox", 
+    "pkg_version": "5.8.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kapidox_5.3.0-1_all.deb", 
+    "pkg": "kapidox", 
+    "pkg_version": "5.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kapidox_5.3.0-1_all.deb", 
+    "pkg": "kapidox", 
+    "pkg_version": "5.3.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "kapidox-5.6.0-1-omv2015.0.x86_64.rpm", 
+    "pkg": "kapidox", 
+    "pkg_version": "5.6.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kapidox-5.8.0-1.1.x86_64.rpm", 
+    "pkg": "kapidox", 
+    "pkg_version": "5.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "kapidox-5.7.0-12.1.x86_64.rpm", 
+    "pkg": "kapidox", 
+    "pkg_version": "5.7.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "kapidox-5.7.0-3-rosa2014.1.noarch.rpm", 
+    "pkg": "kapidox", 
+    "pkg_version": "5.7.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

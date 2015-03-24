@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "asciinema-0.9.8-1.el6.noarch.rpm", 
+    "pkg": "asciinema", 
+    "pkg_version": "0.9.8", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "asciinema_0.9.8-1_all.deb", 
+    "pkg": "asciinema", 
+    "pkg_version": "0.9.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "asciinema_0.9.8-1_all.deb", 
+    "pkg": "asciinema", 
+    "pkg_version": "0.9.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "asciinema-0.9.9-1.fc23.x86_64.rpm", 
+    "pkg": "asciinema", 
+    "pkg_version": "0.9.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "asciinema-0.9.8-2.fc21.noarch.rpm", 
+    "pkg": "asciinema", 
+    "pkg_version": "0.9.8", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "asciinema-0.9.8-2.fc21.noarch.rpm", 
+    "pkg": "asciinema", 
+    "pkg_version": "0.9.8", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "asciinema-0.9.8-1.fc20.noarch.rpm", 
+    "pkg": "asciinema", 
+    "pkg_version": "0.9.8", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Freestylers", 
+    "pkg_full_name": "asciinema-0.9.8-x86_64-1_fs.tgz", 
+    "pkg": "asciinema", 
+    "pkg_version": "0.9.8", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libnglib-dev_4.9.13.dfsg-8+b3_i386.deb", 
+    "pkg": "libnglib-dev", 
+    "pkg_version": "4.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libnglib-dev_4.9.13.dfsg-8build1_i386.deb", 
+    "pkg": "libnglib-dev", 
+    "pkg_version": "4.9.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libnglib-dev_4.9.13.dfsg-8build1_i386.deb", 
+    "pkg": "libnglib-dev", 
+    "pkg_version": "4.9.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

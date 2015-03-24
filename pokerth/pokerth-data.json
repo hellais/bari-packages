@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pokerth-data_1.1.1-2.2_all.deb", 
+    "pkg": "pokerth-data", 
+    "pkg_version": "1.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pokerth-data_1.1.1-2.2_all.deb", 
+    "pkg": "pokerth-data", 
+    "pkg_version": "1.1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pokerth-data_0.9.5-1_all.deb", 
+    "pkg": "pokerth-data", 
+    "pkg_version": "0.9.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "pokerth-data_1.1.1-2ubuntu3_all.deb", 
+    "pkg": "pokerth-data", 
+    "pkg_version": "1.1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "pokerth-data_1.1.1-2ubuntu2_all.deb", 
+    "pkg": "pokerth-data", 
+    "pkg_version": "1.1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

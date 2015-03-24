@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "talkd_0.17-15_i386.deb", 
+    "pkg": "talkd", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "inetutils-talkd_1.9.2.39.3a460-3_i386.deb", 
+    "pkg": "inetutils-talkd", 
+    "pkg_version": "1.9.2.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "talkd_0.17-15_i386.deb", 
+    "pkg": "talkd", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "inetutils-talkd_1.9.2.39.3a460-3_i386.deb", 
+    "pkg": "inetutils-talkd", 
+    "pkg_version": "1.9.2.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "talkd_0.17-15_i386.deb", 
+    "pkg": "talkd", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "inetutils-talkd_1.9-2_i386.deb", 
+    "pkg": "inetutils-talkd", 
+    "pkg_version": "1.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "talkd_0.17-15_i386.deb", 
+    "pkg": "talkd", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "inetutils-talkd_1.9.2-1_i386.deb", 
+    "pkg": "inetutils-talkd", 
+    "pkg_version": "1.9.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "talkd_0.17-15_i386.deb", 
+    "pkg": "talkd", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "inetutils-talkd_1.9.2-1_i386.deb", 
+    "pkg": "inetutils-talkd", 
+    "pkg_version": "1.9.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

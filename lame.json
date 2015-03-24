@@ -1,0 +1,216 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "lame-3.99.5-alt1.x86_64.rpm", 
+    "pkg": "lame", 
+    "pkg_version": "3.9", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "lame-3.99.5-2-x86_64.pkg.tar.xz", 
+    "pkg": "lame", 
+    "pkg_version": "3.9", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "lame-3.99.5-2.sdl7.x86_64.rpm", 
+    "pkg": "lame", 
+    "pkg_version": "3.9", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "lame-3.99.5-1.el6.rf.x86_64.rpm", 
+    "pkg": "lame", 
+    "pkg_version": "3.9", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "lame-3.99.5-1.el5.rf.x86_64.rpm", 
+    "pkg": "lame", 
+    "pkg_version": "3.9", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "lame_3.99.5-dmo3_i386.deb", 
+    "pkg": "lame", 
+    "pkg_version": "3.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "lame_3.99.5-dmo3_i386.deb", 
+    "pkg": "lame", 
+    "pkg_version": "3.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "lame_3.99.5-dmo2_i386.deb", 
+    "pkg": "lame", 
+    "pkg_version": "3.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "lame-3.99.5-5.fc21.x86_64.rpm", 
+    "pkg": "lame", 
+    "pkg_version": "3.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "lame-3.99.5-5.fc21.x86_64.rpm", 
+    "pkg": "lame", 
+    "pkg_version": "3.9", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "lame-3.99.5-2.fc19.x86_64.rpm", 
+    "pkg": "lame", 
+    "pkg_version": "3.9", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Restricted", 
+    "pkg_full_name": "lame-3.99.5-8-omv2015.0.x86_64.rpm", 
+    "pkg": "lame", 
+    "pkg_version": "3.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Restricted Updates", 
+    "pkg_full_name": "lame-3.99.5-3.1-omv2014.0.x86_64.rpm", 
+    "pkg": "lame", 
+    "pkg_version": "3.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Restricted Updates", 
+    "pkg_full_name": "lame-3.99.5-1-omv2013.0.x86_64.rpm", 
+    "pkg": "lame", 
+    "pkg_version": "3.9", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "VLC", 
+    "pkg_full_name": "lame-3.99.5-1.126.x86_64.rpm", 
+    "pkg": "lame", 
+    "pkg_version": "3.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "VLC", 
+    "pkg_full_name": "lame-3.99.5-1.1.x86_64.rpm", 
+    "pkg": "lame", 
+    "pkg_version": "3.9", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "VLC", 
+    "pkg_full_name": "lame-3.99.5-1.2.x86_64.rpm", 
+    "pkg": "lame", 
+    "pkg_version": "3.9", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Restricted", 
+    "pkg_full_name": "lame-3.99.5-4-plf2014.1.x86_64.rpm", 
+    "pkg": "lame", 
+    "pkg_version": "3.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Restricted", 
+    "pkg_full_name": "lame-3.99.5-2-plf2012.1.x86_64.rpm", 
+    "pkg": "lame", 
+    "pkg_version": "3.9", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "lame-3.99.5-x86_64-2sl.txz", 
+    "pkg": "lame", 
+    "pkg_version": "3.9", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "University of Queensland Vislab", 
+    "pkg_full_name": "lame-3.99.5-i686-1_uqv.txz", 
+    "pkg": "lame", 
+    "pkg_version": "3.9", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "lame-3.99-x86_64-1sl.txz", 
+    "pkg": "lame", 
+    "pkg_version": "3.9", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "lame_3.99.5+repack1-3ubuntu1_i386.deb", 
+    "pkg": "lame", 
+    "pkg_version": "3.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "lame_3.99.5+repack1-3ubuntu1_i386.deb", 
+    "pkg": "lame", 
+    "pkg_version": "3.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

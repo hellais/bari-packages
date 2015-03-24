@@ -1,0 +1,128 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dvbsnoop_1.4.50-5_i386.deb", 
+    "pkg": "dvbsnoop", 
+    "pkg_version": "1.4.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dvbsnoop_1.4.50-5_i386.deb", 
+    "pkg": "dvbsnoop", 
+    "pkg_version": "1.4.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dvbsnoop_1.4.50-4_i386.deb", 
+    "pkg": "dvbsnoop", 
+    "pkg_version": "1.4.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "dvbsnoop-1.4.50-13-omv2015.0.x86_64.rpm", 
+    "pkg": "dvbsnoop", 
+    "pkg_version": "1.4.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "dvbsnoop-1.4.50-7-omv2014.0.x86_64.rpm", 
+    "pkg": "dvbsnoop", 
+    "pkg_version": "1.4.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "dvbsnoop-1.4.50-6-omv2013.0.x86_64.rpm", 
+    "pkg": "dvbsnoop", 
+    "pkg_version": "1.4.5", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "dvbsnoop-1.4.50-20.2.x86_64.rpm", 
+    "pkg": "dvbsnoop", 
+    "pkg_version": "1.4.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "dvbsnoop-1.4.50-19.1.5.x86_64.rpm", 
+    "pkg": "dvbsnoop", 
+    "pkg_version": "1.4.5", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "dvbsnoop-1.4.50-17.1.4.i586.rpm", 
+    "pkg": "dvbsnoop", 
+    "pkg_version": "1.4.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "dvbsnoop-1.4.50-7-rosa2014.1.x86_64.rpm", 
+    "pkg": "dvbsnoop", 
+    "pkg_version": "1.4.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "dvbsnoop-1.4.50-6-rosa2012.1.x86_64.rpm", 
+    "pkg": "dvbsnoop", 
+    "pkg_version": "1.4.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Freestylers", 
+    "pkg_full_name": "dvbsnoop-1.4.50-x86_64-1_fs.tgz", 
+    "pkg": "dvbsnoop", 
+    "pkg_version": "1.4.5", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "dvbsnoop_1.4.50-5ubuntu1_i386.deb", 
+    "pkg": "dvbsnoop", 
+    "pkg_version": "1.4.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "dvbsnoop_1.4.50-5ubuntu1_i386.deb", 
+    "pkg": "dvbsnoop", 
+    "pkg_version": "1.4.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

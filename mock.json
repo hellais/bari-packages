@@ -1,0 +1,119 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "mock-1.2.7-1.el7.noarch.rpm", 
+    "pkg": "mock", 
+    "pkg_version": "1.2.7", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "mock-1.1.9-1.el6.rf.noarch.rpm", 
+    "pkg": "mock", 
+    "pkg_version": "1.1.9", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Scientific Linux Cyrillic Edition", 
+    "pkg_full_name": "mock-0.9.10-1.1.Nau5x.noarch.rpm", 
+    "pkg": "mock", 
+    "pkg_version": "0.9.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mock_1.1.33-1_all.deb", 
+    "pkg": "mock", 
+    "pkg_version": "1.1.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mock_1.1.33-1_all.deb", 
+    "pkg": "mock", 
+    "pkg_version": "1.1.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "mock_1.1.33-1~bpo7+1_all.deb", 
+    "pkg": "mock", 
+    "pkg_version": "1.1.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mock-1.2.7-1.fc23.noarch.rpm", 
+    "pkg": "mock", 
+    "pkg_version": "1.2.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "mock-1.2.7-1.fc22.noarch.rpm", 
+    "pkg": "mock", 
+    "pkg_version": "1.2.7", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "mock-1.2.7-1.fc21.noarch.rpm", 
+    "pkg": "mock", 
+    "pkg_version": "1.2.7", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "mock-1.2.7-1.fc20.noarch.rpm", 
+    "pkg": "mock", 
+    "pkg_version": "1.2.7", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "mock-1.1.26-1-rosa2012.1.noarch.rpm", 
+    "pkg": "mock", 
+    "pkg_version": "1.1.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Freestylers", 
+    "pkg_full_name": "mock-1.0.1-x86_64-1_fs.tgz", 
+    "pkg": "mock", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mock_1.1.33-1_all.deb", 
+    "pkg": "mock", 
+    "pkg_version": "1.1.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

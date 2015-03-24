@@ -1,0 +1,217 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "mupen64plus-2.0-4-x86_64.pkg.tar.xz", 
+    "pkg": "mupen64plus", 
+    "pkg_version": "2.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "mupen64plus-2.0-7.el7.nux.x86_64.rpm", 
+    "pkg": "mupen64plus", 
+    "pkg_version": "2.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mupen64plus_2.0+1_all.deb", 
+    "pkg": "mupen64plus", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mupen64plus_2.0+1_all.deb", 
+    "pkg": "mupen64plus", 
+    "pkg_version": "2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mupen64plus_1.99.5+1_all.deb", 
+    "pkg": "mupen64plus", 
+    "pkg_version": "1.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "mupen64plus-2.0-3.1.x86_64.rpm", 
+    "pkg": "mupen64plus", 
+    "pkg_version": "2.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "mupen64plus-2.0-3.1.x86_64.rpm", 
+    "pkg": "mupen64plus", 
+    "pkg_version": "2.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "mupen64plus-2.0-1-omv2013.0.x86_64.rpm", 
+    "pkg": "mupen64plus", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "mupen64plus-2.0-1-omv2013.0.x86_64.rpm", 
+    "pkg": "mupen64plus", 
+    "pkg_version": "2.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "mupen64plus-2.0-1-omv2013.0.x86_64.rpm", 
+    "pkg": "mupen64plus", 
+    "pkg_version": "2.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Emulators", 
+    "pkg_full_name": "mupen64plus-2.0-2.28.x86_64.rpm", 
+    "pkg": "mupen64plus", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "mupen64plus-2.0-5-rosa2014.1.x86_64.rpm", 
+    "pkg": "mupen64plus", 
+    "pkg_version": "2.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "mupen64plus-ui-console-1.99.5-3-rosa2012.1.x86_64.rpm", 
+    "pkg": "mupen64plus-ui-console", 
+    "pkg_version": "1.9", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "mupen64plus-2.0-3-rosa2012.1.x86_64.rpm", 
+    "pkg": "mupen64plus", 
+    "pkg_version": "2.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "mupen64plus-ui-console-1.99.5-3-rosa2012.1.x86_64.rpm", 
+    "pkg": "mupen64plus-ui-console", 
+    "pkg_version": "1.9", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ponce", 
+    "pkg_full_name": "mupen64plus-2.0-x86_64-1ponce.txz", 
+    "pkg": "mupen64plus", 
+    "pkg_version": "2.0", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "mupen64plus-ui-console-1.99.5-3-rosa2012.1.x86_64.rpm", 
+    "pkg": "mupen64plus-ui-console", 
+    "pkg_version": "1.9", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ponce", 
+    "pkg_full_name": "mupen64plus-1.5-x86_64-4ponce.txz", 
+    "pkg": "mupen64plus", 
+    "pkg_version": "1.5", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "mupen64plus-ui-console-1.99.5-3-rosa2012.1.x86_64.rpm", 
+    "pkg": "mupen64plus-ui-console", 
+    "pkg_version": "1.9", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Salix", 
+    "pkg_full_name": "mupen64plus-1.99.4-x86_64-2pw.txz", 
+    "pkg": "mupen64plus", 
+    "pkg_version": "1.9", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "mupen64plus-ui-console-1.99.5-3-rosa2012.1.x86_64.rpm", 
+    "pkg": "mupen64plus-ui-console", 
+    "pkg_version": "1.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mupen64plus_2.0+1_all.deb", 
+    "pkg": "mupen64plus", 
+    "pkg_version": "2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "mupen64plus-ui-console-1.99.5-3-rosa2012.1.x86_64.rpm", 
+    "pkg": "mupen64plus-ui-console", 
+    "pkg_version": "1.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mupen64plus_2.0+1_all.deb", 
+    "pkg": "mupen64plus", 
+    "pkg_version": "2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

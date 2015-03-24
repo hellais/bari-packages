@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "snmptrapd_5.7.2.1~dfsg-7_i386.deb", 
+    "pkg": "snmptrapd", 
+    "pkg_version": "5.7.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

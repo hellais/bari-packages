@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcore-ocaml-dev_107.01-5_i386.deb", 
+    "pkg": "libcore-ocaml-dev_10", 
+    "pkg_version": "7.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

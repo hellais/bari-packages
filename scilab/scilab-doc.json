@@ -1,0 +1,83 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scilab-doc_5.5.1-7_all.deb", 
+    "pkg": "scilab-doc", 
+    "pkg_version": "5.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scilab-doc_5.5.1-7_all.deb", 
+    "pkg": "scilab-doc", 
+    "pkg_version": "5.5.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "scilab-doc_5.3.3-10_all.deb", 
+    "pkg": "scilab-doc", 
+    "pkg_version": "5.3.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "scilab-doc-5.5.1-5.fc23.noarch.rpm", 
+    "pkg": "scilab-doc", 
+    "pkg_version": "5.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "scilab-doc-5.5.1-5.fc22.noarch.rpm", 
+    "pkg": "scilab-doc", 
+    "pkg_version": "5.5.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "scilab-doc-5.5.1-5.fc21.noarch.rpm", 
+    "pkg": "scilab-doc", 
+    "pkg_version": "5.5.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "scilab-doc-5.5.0-1.fc20.noarch.rpm", 
+    "pkg": "scilab-doc", 
+    "pkg_version": "5.5.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "scilab-doc_5.5.0-3ubuntu2_all.deb", 
+    "pkg": "scilab-doc", 
+    "pkg_version": "5.5.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "scilab-doc_5.5.0-2_all.deb", 
+    "pkg": "scilab-doc", 
+    "pkg_version": "5.5.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

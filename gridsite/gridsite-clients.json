@@ -1,0 +1,110 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "gridsite-clients-2.2.5-1.el7.x86_64.rpm", 
+    "pkg": "gridsite-clients", 
+    "pkg_version": "2.2.5", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "gridsite-clients-2.2.5-2.el6.x86_64.rpm", 
+    "pkg": "gridsite-clients", 
+    "pkg_version": "2.2.5", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "gridsite-clients-1.7.25-2.el5.x86_64.rpm", 
+    "pkg": "gridsite-clients", 
+    "pkg_version": "1.7.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gridsite-clients_2.2.5-1_i386.deb", 
+    "pkg": "gridsite-clients", 
+    "pkg_version": "2.2.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gridsite-clients_2.0.4-3.2_i386.deb", 
+    "pkg": "gridsite-clients", 
+    "pkg_version": "2.0.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gridsite-clients_1.7.16-1_i386.deb", 
+    "pkg": "gridsite-clients", 
+    "pkg_version": "1.7.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gridsite-clients-2.2.5-3.fc22.x86_64.rpm", 
+    "pkg": "gridsite-clients", 
+    "pkg_version": "2.2.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gridsite-clients-2.2.5-3.fc22.x86_64.rpm", 
+    "pkg": "gridsite-clients", 
+    "pkg_version": "2.2.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gridsite-clients-2.2.5-2.fc21.x86_64.rpm", 
+    "pkg": "gridsite-clients", 
+    "pkg_version": "2.2.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "gridsite-clients-1.7.29-2.fc20.x86_64.rpm", 
+    "pkg": "gridsite-clients", 
+    "pkg_version": "1.7.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gridsite-clients_2.0.4-3.1_i386.deb", 
+    "pkg": "gridsite-clients", 
+    "pkg_version": "2.0.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gridsite-clients_2.0.4-2_i386.deb", 
+    "pkg": "gridsite-clients", 
+    "pkg_version": "2.0.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

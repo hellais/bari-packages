@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ukopp_4.9-1_i386.deb", 
+    "pkg": "ukopp", 
+    "pkg_version": "4.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ukopp_4.9-1_i386.deb", 
+    "pkg": "ukopp", 
+    "pkg_version": "4.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ukopp_4.4-1_i386.deb", 
+    "pkg": "ukopp", 
+    "pkg_version": "4.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ukopp_4.9-1_i386.deb", 
+    "pkg": "ukopp", 
+    "pkg_version": "4.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ukopp_4.7-1_i386.deb", 
+    "pkg": "ukopp", 
+    "pkg_version": "4.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

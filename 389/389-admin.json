@@ -1,0 +1,109 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "389-admin-1.1.35-alt1.x86_64.rpm", 
+    "pkg": "389-admin", 
+    "pkg_version": "1.1.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "389-admin-1.1.38-1.el7.x86_64.rpm", 
+    "pkg": "389-admin", 
+    "pkg_version": "1.1.3", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "389-admin-1.1.23-1.el6.x86_64.rpm", 
+    "pkg": "389-admin", 
+    "pkg_version": "1.1.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "389-admin-1.1.29-1.el5.x86_64.rpm", 
+    "pkg": "389-admin", 
+    "pkg_version": "1.1.2", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "389-admin_1.1.35-3_i386.deb", 
+    "pkg": "389-admin", 
+    "pkg_version": "1.1.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "389-admin_1.1.35-2_i386.deb", 
+    "pkg": "389-admin", 
+    "pkg_version": "1.1.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "389-admin-1.1.38-1.fc22.1.x86_64.rpm", 
+    "pkg": "389-admin", 
+    "pkg_version": "1.1.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "389-admin-1.1.38-1.fc22.1.x86_64.rpm", 
+    "pkg": "389-admin", 
+    "pkg_version": "1.1.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "389-admin-1.1.38-1.fc21.x86_64.rpm", 
+    "pkg": "389-admin", 
+    "pkg_version": "1.1.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "389-admin-1.1.38-1.fc20.x86_64.rpm", 
+    "pkg": "389-admin", 
+    "pkg_version": "1.1.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "389-admin_1.1.35-1_i386.deb", 
+    "pkg": "389-admin", 
+    "pkg_version": "1.1.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "389-admin_1.1.35-0ubuntu1_i386.deb", 
+    "pkg": "389-admin", 
+    "pkg_version": "1.1.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

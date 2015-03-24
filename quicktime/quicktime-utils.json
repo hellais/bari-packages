@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "LinuxTECH", 
+    "pkg_full_name": "quicktime-utils-1.2.4-5.el6.x86_64.rpm", 
+    "pkg": "quicktime-utils", 
+    "pkg_version": "1.2.4", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "quicktime-utils_1.2.4-dmo11_i386.deb", 
+    "pkg": "quicktime-utils", 
+    "pkg_version": "1.2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "quicktime-utils_1.2.4-dmo11_i386.deb", 
+    "pkg": "quicktime-utils", 
+    "pkg_version": "1.2.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "quicktime-utils_1.2.2-0.3squeeze1_i386.deb", 
+    "pkg": "quicktime-utils", 
+    "pkg_version": "1.2.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "quicktime-utils_1.2.4-6build1_i386.deb", 
+    "pkg": "quicktime-utils", 
+    "pkg_version": "1.2.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "quicktime-utils_1.2.4-4ubuntu2_i386.deb", 
+    "pkg": "quicktime-utils", 
+    "pkg_version": "1.2.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

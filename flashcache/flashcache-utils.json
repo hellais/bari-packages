@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "ELRepo", 
+    "pkg_full_name": "flashcache-utils-3.1.2-1.el6.elrepo.x86_64.rpm", 
+    "pkg": "flashcache-utils", 
+    "pkg_version": "3.1.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "flashcache-utils_3.1.2+git20140801-1_i386.deb", 
+    "pkg": "flashcache-utils", 
+    "pkg_version": "3.1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "flashcache-utils_3.1.2+git20140801-1_i386.deb", 
+    "pkg": "flashcache-utils", 
+    "pkg_version": "3.1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "flashcache-utils_3.1.2+git20140801-1_i386.deb", 
+    "pkg": "flashcache-utils", 
+    "pkg_version": "3.1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

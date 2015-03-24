@@ -1,0 +1,461 @@
+[
+  {
+    "pkg_repo": "NauLinux School", 
+    "pkg_full_name": "gnucap-0.35-6.el6.x86_64.rpm", 
+    "pkg": "gnucap", 
+    "pkg_version": "0.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "NauLinux School", 
+    "pkg_full_name": "gnucap-0.34-3.Nau5x.i386.rpm", 
+    "pkg": "gnucap", 
+    "pkg_version": "0.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnucap_0.36~20091207-2_i386.deb", 
+    "pkg": "gnucap", 
+    "pkg_version": "0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnucap_0.36~20091207-2_i386.deb", 
+    "pkg": "gnucap", 
+    "pkg_version": "0.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnucap_0.36~20091207-2_i386.deb", 
+    "pkg": "gnucap", 
+    "pkg_version": "0.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnucap-0.35-14.fc22.x86_64.rpm", 
+    "pkg": "gnucap", 
+    "pkg_version": "0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnucap-0.35-14.fc22.x86_64.rpm", 
+    "pkg": "gnucap", 
+    "pkg_version": "0.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnucap-0.35-14.fc21.x86_64.rpm", 
+    "pkg": "gnucap", 
+    "pkg_version": "0.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnucap-0.35-12.fc20.x86_64.rpm", 
+    "pkg": "gnucap", 
+    "pkg_version": "0.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnucap-0.35-12.fc20.x86_64.rpm", 
+    "pkg": "gnucap", 
+    "pkg_version": "0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "gnucap-20060830-7-omv2014.1.x86_64.rpm", 
+    "pkg": "gnucap-20060830-7-omv201", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnucap-0.35-12.fc20.x86_64.rpm", 
+    "pkg": "gnucap", 
+    "pkg_version": "0.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "gnucap-20060830-7-omv2014.0.x86_64.rpm", 
+    "pkg": "gnucap-20060830-7-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gnucap-0.35-16.2.x86_64.rpm", 
+    "pkg": "gnucap", 
+    "pkg_version": "0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "gnucap-20060830-7-omv2014.0.x86_64.rpm", 
+    "pkg": "gnucap-20060830-7-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gnucap-0.35-15.1.3.x86_64.rpm", 
+    "pkg": "gnucap", 
+    "pkg_version": "0.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "gnucap-20060830-7-omv2014.0.x86_64.rpm", 
+    "pkg": "gnucap-20060830-7-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gnucap-0.35-13.1.2.i586.rpm", 
+    "pkg": "gnucap", 
+    "pkg_version": "0.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "gnucap-20060830-7-omv2014.0.x86_64.rpm", 
+    "pkg": "gnucap-20060830-7-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gnucap-0.35-13.1.2.i586.rpm", 
+    "pkg": "gnucap", 
+    "pkg_version": "0.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "gnucap-20060830-7-omv2014.0.x86_64.rpm", 
+    "pkg": "gnucap-20060830-7-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "gnucap-20060830-8-rosa2014.1.x86_64.rpm", 
+    "pkg": "gnucap-20060830-8-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gnucap-0.35-13.1.2.i586.rpm", 
+    "pkg": "gnucap", 
+    "pkg_version": "0.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "gnucap-20060830-7-omv2014.0.x86_64.rpm", 
+    "pkg": "gnucap-20060830-7-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "gnucap-20060830-8-rosa2014.1.x86_64.rpm", 
+    "pkg": "gnucap-20060830-8-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "gnucap-20060830-7-rosa2012.1.x86_64.rpm", 
+    "pkg": "gnucap-20060830-7-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "gnucap-20060830-6-rosa2012.1.x86_64.rpm", 
+    "pkg": "gnucap-20060830-6-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "gnucap-20060830-6-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "gnucap-20060830-6-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "gnucap-20060830-6-rosa2012.1.x86_64.rpm", 
+    "pkg": "gnucap-20060830-6-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "gnucap-20060830-7-omv2014.0.x86_64.rpm", 
+    "pkg": "gnucap-20060830-7-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "gnucap-20060830-8-rosa2014.1.x86_64.rpm", 
+    "pkg": "gnucap-20060830-8-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "gnucap-20060830-7-rosa2012.1.x86_64.rpm", 
+    "pkg": "gnucap-20060830-7-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gnucap-0.35-13.1.2.i586.rpm", 
+    "pkg": "gnucap", 
+    "pkg_version": "0.3", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "gnucap-20060830-6-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "gnucap-20060830-6-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "gnucap-20060830-6-rosa2012.1.x86_64.rpm", 
+    "pkg": "gnucap-20060830-6-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "gnucap-20060830-7-omv2014.0.x86_64.rpm", 
+    "pkg": "gnucap-20060830-7-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "gnucap-20060830-8-rosa2014.1.x86_64.rpm", 
+    "pkg": "gnucap-20060830-8-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "gnucap-20060830-7-rosa2012.1.x86_64.rpm", 
+    "pkg": "gnucap-20060830-7-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "gnucap-0.35-i486-7sl.txz", 
+    "pkg": "gnucap", 
+    "pkg_version": "0.3", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "gnucap-20060830-6-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "gnucap-20060830-6-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "gnucap-20060830-6-rosa2012.1.x86_64.rpm", 
+    "pkg": "gnucap-20060830-6-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "gnucap-20060830-7-omv2014.0.x86_64.rpm", 
+    "pkg": "gnucap-20060830-7-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "gnucap-20060830-8-rosa2014.1.x86_64.rpm", 
+    "pkg": "gnucap-20060830-8-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "gnucap-20060830-7-rosa2012.1.x86_64.rpm", 
+    "pkg": "gnucap-20060830-7-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnucap_0.36~20091207-2_i386.deb", 
+    "pkg": "gnucap", 
+    "pkg_version": "0.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "gnucap-20060830-6-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "gnucap-20060830-6-rosa.lts201", 
+    "pkg_version": "2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "gnucap-20060830-6-rosa2012.1.x86_64.rpm", 
+    "pkg": "gnucap-20060830-6-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "gnucap-20060830-7-omv2014.0.x86_64.rpm", 
+    "pkg": "gnucap-20060830-7-omv201", 
+    "pkg_version": "4.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "gnucap-20060830-8-rosa2014.1.x86_64.rpm", 
+    "pkg": "gnucap-20060830-8-rosa201", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "gnucap-20060830-7-rosa2012.1.x86_64.rpm", 
+    "pkg": "gnucap-20060830-7-rosa201", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gnucap_0.36~20091207-2_i386.deb", 
+    "pkg": "gnucap", 
+    "pkg_version": "0.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

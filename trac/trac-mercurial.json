@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "trac-mercurial_1.0.0.3+hg8df754d9b36a-1.1_all.deb", 
+    "pkg": "trac-mercurial", 
+    "pkg_version": "1.0.0.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "trac-mercurial_1.0.0.3+hg8df754d9b36a-1.1_all.deb", 
+    "pkg": "trac-mercurial", 
+    "pkg_version": "1.0.0.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "trac-mercurial_0.12.0.28-1_all.deb", 
+    "pkg": "trac-mercurial", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "trac-mercurial_1.0.0.3+hg8df754d9b36a-1_all.deb", 
+    "pkg": "trac-mercurial", 
+    "pkg_version": "1.0.0.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "trac-mercurial_1.0.0.3+hg8df754d9b36a-1_all.deb", 
+    "pkg": "trac-mercurial", 
+    "pkg_version": "1.0.0.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

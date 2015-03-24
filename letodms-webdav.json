@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "letodms-webdav_3.3.11+dfsg.1-2_all.deb", 
+    "pkg": "letodms-webdav", 
+    "pkg_version": "3.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

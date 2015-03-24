@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "po-debconf-1.0.16-4.nmu2.el7.nux.noarch.rpm", 
+    "pkg": "po-debconf", 
+    "pkg_version": "1.0.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "po-debconf_1.0.16+nmu3_all.deb", 
+    "pkg": "po-debconf", 
+    "pkg_version": "1.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "po-debconf_1.0.16+nmu3_all.deb", 
+    "pkg": "po-debconf", 
+    "pkg_version": "1.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "po-debconf_1.0.16+nmu2_all.deb", 
+    "pkg": "po-debconf", 
+    "pkg_version": "1.0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "po-debconf-1.0.16-4.nmu2.fc21.noarch.rpm", 
+    "pkg": "po-debconf", 
+    "pkg_version": "1.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "po-debconf-1.0.16-4.nmu2.fc21.noarch.rpm", 
+    "pkg": "po-debconf", 
+    "pkg_version": "1.0.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "po-debconf-1.0.16-4.nmu2.fc21.noarch.rpm", 
+    "pkg": "po-debconf", 
+    "pkg_version": "1.0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "po-debconf-1.0.16-3.nmu2.fc20.noarch.rpm", 
+    "pkg": "po-debconf", 
+    "pkg_version": "1.0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "po-debconf_1.0.16+nmu3_all.deb", 
+    "pkg": "po-debconf", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "po-debconf_1.0.16+nmu2ubuntu1_all.deb", 
+    "pkg": "po-debconf", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

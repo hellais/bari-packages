@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-dep-selector_0.0.8-2+b3_i386.deb", 
+    "pkg": "ruby-dep-selector", 
+    "pkg_version": "0.0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-dep-selector_0.0.8-2+b3_i386.deb", 
+    "pkg": "ruby-dep-selector", 
+    "pkg_version": "0.0.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-dep-selector_0.0.8-1_i386.deb", 
+    "pkg": "ruby-dep-selector", 
+    "pkg_version": "0.0.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ruby-dep-selector_0.0.8-2build1_i386.deb", 
+    "pkg": "ruby-dep-selector", 
+    "pkg_version": "0.0.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

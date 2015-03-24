@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "brickos-doc_0.9.0.dfsg-10_all.deb", 
+    "pkg": "brickos-doc", 
+    "pkg_version": "0.9.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "brickos-doc_0.9.0.dfsg-8_all.deb", 
+    "pkg": "brickos-doc", 
+    "pkg_version": "0.9.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "brickos-doc_0.9.0.dfsg-6_all.deb", 
+    "pkg": "brickos-doc", 
+    "pkg_version": "0.9.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

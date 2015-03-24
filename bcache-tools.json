@@ -1,0 +1,118 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "bcache-tools-0.9-alt1.x86_64.rpm", 
+    "pkg": "bcache-tools", 
+    "pkg_version": "0.9", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bcache-tools_1.0.7-1_i386.deb", 
+    "pkg": "bcache-tools", 
+    "pkg_version": "1.0.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "bcache-tools-1.0.8-1.fc22.x86_64.rpm", 
+    "pkg": "bcache-tools", 
+    "pkg_version": "1.0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "bcache-tools-1.0.8-1.fc22.x86_64.rpm", 
+    "pkg": "bcache-tools", 
+    "pkg_version": "1.0.8", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "bcache-tools-1.0.8-1.fc21.x86_64.rpm", 
+    "pkg": "bcache-tools", 
+    "pkg_version": "1.0.8", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "bcache-tools-0.9-1.fc20.x86_64.rpm", 
+    "pkg": "bcache-tools", 
+    "pkg_version": "0.9", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "bcache-tools-0-0.14.20130909git.fc20.x86_64.rpm", 
+    "pkg": "bcache-tools-0", 
+    "pkg_version": "0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "bcache-tools-0.9-4.1.x86_64.rpm", 
+    "pkg": "bcache-tools", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "bcache-tools-0-0.14.20130909git.fc20.x86_64.rpm", 
+    "pkg": "bcache-tools-0", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "bcache-tools-0.9-3.1.2.x86_64.rpm", 
+    "pkg": "bcache-tools", 
+    "pkg_version": "0.9", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "bcache-tools-0-0.14.20130909git.fc20.x86_64.rpm", 
+    "pkg": "bcache-tools-0", 
+    "pkg_version": "0.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "bcache-tools-0.9-2.4.1.x86_64.rpm", 
+    "pkg": "bcache-tools", 
+    "pkg_version": "0.9", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "bcache-tools-0-0.14.20130909git.fc20.x86_64.rpm", 
+    "pkg": "bcache-tools-0", 
+    "pkg_version": "0.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ldm-themes_15.01.2_all.deb", 
+    "pkg": "ldm-themes_1", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ldm-themes_15.01.2_all.deb", 
+    "pkg": "ldm-themes_1", 
+    "pkg_version": "5.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ldm-themes_12.07.1_all.deb", 
+    "pkg": "ldm-themes_1", 
+    "pkg_version": "2.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ldm-lubuntu-theme_2.0.47_all.deb", 
+    "pkg": "ldm-lubuntu-theme", 
+    "pkg_version": "2.0.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ldm-kubuntu-theme_2.0.47_all.deb", 
+    "pkg": "ldm-kubuntu-theme", 
+    "pkg_version": "2.0.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ldm-edubuntu-theme_2.0.47_all.deb", 
+    "pkg": "ldm-edubuntu-theme", 
+    "pkg_version": "2.0.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ldm-themes_12.07.1_all.deb", 
+    "pkg": "ldm-themes_1", 
+    "pkg_version": "2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ldm-xubuntu-theme_2.0.47_all.deb", 
+    "pkg": "ldm-xubuntu-theme", 
+    "pkg_version": "2.0.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "ldm-ubuntu-theme_2.0.47_all.deb", 
+    "pkg": "ldm-ubuntu-theme", 
+    "pkg_version": "2.0.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ldm-lubuntu-theme_2.0.47_all.deb", 
+    "pkg": "ldm-lubuntu-theme", 
+    "pkg_version": "2.0.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ldm-kubuntu-theme_2.0.47_all.deb", 
+    "pkg": "ldm-kubuntu-theme", 
+    "pkg_version": "2.0.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ldm-edubuntu-theme_2.0.47_all.deb", 
+    "pkg": "ldm-edubuntu-theme", 
+    "pkg_version": "2.0.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ldm-themes_12.07.1_all.deb", 
+    "pkg": "ldm-themes_1", 
+    "pkg_version": "2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ldm-xubuntu-theme_2.0.47_all.deb", 
+    "pkg": "ldm-xubuntu-theme", 
+    "pkg_version": "2.0.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "ldm-ubuntu-theme_2.0.47_all.deb", 
+    "pkg": "ldm-ubuntu-theme", 
+    "pkg_version": "2.0.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

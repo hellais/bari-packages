@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-pysocks_1.5.0-2_all.deb", 
+    "pkg": "python-pysocks", 
+    "pkg_version": "1.5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

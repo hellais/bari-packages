@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "email-reminder_0.7.8-2_all.deb", 
+    "pkg": "email-reminder", 
+    "pkg_version": "0.7.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "email-reminder_0.7.8-2_all.deb", 
+    "pkg": "email-reminder", 
+    "pkg_version": "0.7.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "email-reminder_0.7.6-5_all.deb", 
+    "pkg": "email-reminder", 
+    "pkg_version": "0.7.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "email-reminder_0.7.7-2_all.deb", 
+    "pkg": "email-reminder", 
+    "pkg_version": "0.7.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "email-reminder_0.7.7-2_all.deb", 
+    "pkg": "email-reminder", 
+    "pkg_version": "0.7.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

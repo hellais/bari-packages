@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "proot_5.1.0-1_i386.deb", 
+    "pkg": "proot", 
+    "pkg_version": "5.1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "proot_4.0.2-1_i386.deb", 
+    "pkg": "proot", 
+    "pkg_version": "4.0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "proot_4.0.0-1_i386.deb", 
+    "pkg": "proot", 
+    "pkg_version": "4.0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

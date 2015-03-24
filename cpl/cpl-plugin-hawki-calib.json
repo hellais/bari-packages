@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cpl-plugin-hawki-calib_1.8.14+dfsg-2_all.deb", 
+    "pkg": "cpl-plugin-hawki-calib", 
+    "pkg_version": "1.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cpl-plugin-hawki-calib_1.8.14+dfsg-2_all.deb", 
+    "pkg": "cpl-plugin-hawki-calib", 
+    "pkg_version": "1.8.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "cpl-plugin-hawki-calib_1.8.14+dfsg-2_all.deb", 
+    "pkg": "cpl-plugin-hawki-calib", 
+    "pkg_version": "1.8.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

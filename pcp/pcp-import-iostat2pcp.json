@@ -1,0 +1,128 @@
+[
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "pcp-import-iostat2pcp-3.8.10-8.el7.x86_64.rpm", 
+    "pkg": "pcp-import-iostat2pcp", 
+    "pkg_version": "3.8.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "pcp-import-iostat2pcp-3.9.4-5.el6.x86_64.rpm", 
+    "pkg": "pcp-import-iostat2pcp", 
+    "pkg_version": "3.9.4", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "pcp-import-iostat2pcp-3.10.3-1.el5.x86_64.rpm", 
+    "pkg": "pcp-import-iostat2pcp", 
+    "pkg_version": "3.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pcp-import-iostat2pcp_3.10.1_all.deb", 
+    "pkg": "pcp-import-iostat2pcp", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pcp-import-iostat2pcp_3.9.10_all.deb", 
+    "pkg": "pcp-import-iostat2pcp", 
+    "pkg_version": "3.9.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pcp-import-iostat2pcp-3.10.3-3.20150323git12b566f.fc23.x86_64.rpm", 
+    "pkg": "pcp-import-iostat2pcp", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pcp-import-iostat2pcp-3.10.3-0.508.g8090873.fc22.x86_64.rpm", 
+    "pkg": "pcp-import-iostat2pcp", 
+    "pkg_version": "3.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "pcp-import-iostat2pcp-3.10.3-1.fc21.x86_64.rpm", 
+    "pkg": "pcp-import-iostat2pcp", 
+    "pkg_version": "3.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "pcp-import-iostat2pcp-3.10.3-1.fc20.x86_64.rpm", 
+    "pkg": "pcp-import-iostat2pcp", 
+    "pkg_version": "3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pcp-import-iostat2pcp-3.10.3-1.1.x86_64.rpm", 
+    "pkg": "pcp-import-iostat2pcp", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pcp-import-iostat2pcp-3.6.10-6.1.7.x86_64.rpm", 
+    "pkg": "pcp-import-iostat2pcp", 
+    "pkg_version": "3.6.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pcp-import-iostat2pcp-3.6.10-3.1.3.i586.rpm", 
+    "pkg": "pcp-import-iostat2pcp", 
+    "pkg_version": "3.6.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "pcp-import-iostat2pcp_3.9.8build1_all.deb", 
+    "pkg": "pcp-import-iostat2pcp", 
+    "pkg_version": "3.9.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "pcp-import-iostat2pcp_3.8.12ubuntu1_all.deb", 
+    "pkg": "pcp-import-iostat2pcp", 
+    "pkg_version": "3.8.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

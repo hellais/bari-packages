@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "core-network-gui_4.7-2_all.deb", 
+    "pkg": "core-network-gui", 
+    "pkg_version": "4.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "core-network-gui_4.7-2_all.deb", 
+    "pkg": "core-network-gui", 
+    "pkg_version": "4.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "core-network-gui_4.7-1~bpo70+1_all.deb", 
+    "pkg": "core-network-gui", 
+    "pkg_version": "4.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "core-network-gui_4.6-5_i386.deb", 
+    "pkg": "core-network-gui", 
+    "pkg_version": "4.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,171 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "munin-2.0.17-alt3_6.noarch.rpm", 
+    "pkg": "munin", 
+    "pkg_version": "2.0.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "munin-2.0.25-1-any.pkg.tar.xz", 
+    "pkg": "munin", 
+    "pkg_version": "2.0.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "munin-2.0.25-2.el7.noarch.rpm", 
+    "pkg": "munin", 
+    "pkg_version": "2.0.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "munin-2.0.12-2.sdl6.noarch.rpm", 
+    "pkg": "munin", 
+    "pkg_version": "2.0.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "munin-1.2.5-2.el5.rf.noarch.rpm", 
+    "pkg": "munin", 
+    "pkg_version": "1.2.5", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "munin_2.0.25-1_all.deb", 
+    "pkg": "munin", 
+    "pkg_version": "2.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "munin_2.0.25-1_all.deb", 
+    "pkg": "munin", 
+    "pkg_version": "2.0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "munin_2.0.6-4+deb7u2_all.deb", 
+    "pkg": "munin", 
+    "pkg_version": "2.0.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "munin-2.0.25-2.fc23.noarch.rpm", 
+    "pkg": "munin", 
+    "pkg_version": "2.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "munin-2.0.25-1.fc22.noarch.rpm", 
+    "pkg": "munin", 
+    "pkg_version": "2.0.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "munin-2.0.25-2.fc21.noarch.rpm", 
+    "pkg": "munin", 
+    "pkg_version": "2.0.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "munin-2.0.25-2.fc20.noarch.rpm", 
+    "pkg": "munin", 
+    "pkg_version": "2.0.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "munin-2.0.18-4-omv2015.0.noarch.rpm", 
+    "pkg": "munin", 
+    "pkg_version": "2.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "munin-2.0.25-1.2.noarch.rpm", 
+    "pkg": "munin", 
+    "pkg_version": "2.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "munin-2.0.21-1.7.noarch.rpm", 
+    "pkg": "munin", 
+    "pkg_version": "2.0.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "munin-2.0.18-4-rosa2014.1.noarch.rpm", 
+    "pkg": "munin", 
+    "pkg_version": "2.0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "munin-2.0.18-1-rosa2012.1.noarch.rpm", 
+    "pkg": "munin", 
+    "pkg_version": "2.0.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "munin_2.0.21-2build1_all.deb", 
+    "pkg": "munin", 
+    "pkg_version": "2.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "munin_2.0.19-3_all.deb", 
+    "pkg": "munin", 
+    "pkg_version": "2.0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

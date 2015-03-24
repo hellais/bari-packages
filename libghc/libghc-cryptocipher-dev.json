@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-cryptocipher-dev_0.6.2-1+b2_amd64.deb", 
+    "pkg": "libghc-cryptocipher-dev", 
+    "pkg_version": "0.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-cryptocipher-dev_0.6.2-1+b2_amd64.deb", 
+    "pkg": "libghc-cryptocipher-dev", 
+    "pkg_version": "0.6.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-cryptocipher-dev_0.3.5-1+b1_i386.deb", 
+    "pkg": "libghc-cryptocipher-dev", 
+    "pkg_version": "0.3.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-cryptocipher-dev_0.6.2-1build1_i386.deb", 
+    "pkg": "libghc-cryptocipher-dev", 
+    "pkg_version": "0.6.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-cryptocipher-dev_0.6.2-1_i386.deb", 
+    "pkg": "libghc-cryptocipher-dev", 
+    "pkg_version": "0.6.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

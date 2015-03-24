@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gstreamer0.10-plugins-bad_0.10.23-7.4_i386.deb", 
+    "pkg": "gstreamer", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gstreamer0.10-plugins-bad_0.10.23-7.4_i386.deb", 
+    "pkg": "gstreamer", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gstreamer0.10-plugins-bad_0.10.23-7.1+deb7u1_i386.deb", 
+    "pkg": "gstreamer", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Restricted", 
+    "pkg_full_name": "gstreamer0.10-plugins-bad-0.10.23-7plf-omv2015.0.x86_64.rpm", 
+    "pkg": "gstreamer", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Restricted Updates", 
+    "pkg_full_name": "gstreamer0.10-plugins-bad-0.10.23-5plf-plf2014.0.x86_64.rpm", 
+    "pkg": "gstreamer", 
+    "pkg_version": "0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "gstreamer0.10-plugins-bad-0.10.23-5-omv2013.0.x86_64.rpm", 
+    "pkg": "gstreamer", 
+    "pkg_version": "0.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Restricted", 
+    "pkg_full_name": "gstreamer0.10-plugins-bad-0.10.23-5plf-plf2014.1.x86_64.rpm", 
+    "pkg": "gstreamer", 
+    "pkg_version": "0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Restricted Updates", 
+    "pkg_full_name": "gstreamer0.10-plugins-bad-0.10.23-5plf-plf2012.1.x86_64.rpm", 
+    "pkg": "gstreamer", 
+    "pkg_version": "0.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gstreamer0.10-plugins-bad_0.10.23-7.2ubuntu5_i386.deb", 
+    "pkg": "gstreamer", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gstreamer0.10-plugins-bad_0.10.23-7.2ubuntu1_i386.deb", 
+    "pkg": "gstreamer", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "lilyterm-0.9.9.2-alt1_5.x86_64.rpm", 
+    "pkg": "lilyterm", 
+    "pkg_version": "0.9.9.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "lilyterm-0.9.9.2-2-x86_64.pkg.tar.xz", 
+    "pkg": "lilyterm", 
+    "pkg_version": "0.9.9.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lilyterm_0.9.9.4-3_i386.deb", 
+    "pkg": "lilyterm", 
+    "pkg_version": "0.9.9.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lilyterm_0.9.9.4-3_i386.deb", 
+    "pkg": "lilyterm", 
+    "pkg_version": "0.9.9.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lilyterm-0.9.9.2-5.fc22.x86_64.rpm", 
+    "pkg": "lilyterm", 
+    "pkg_version": "0.9.9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lilyterm-0.9.9.2-5.fc22.x86_64.rpm", 
+    "pkg": "lilyterm", 
+    "pkg_version": "0.9.9.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lilyterm-0.9.9.2-5.fc21.x86_64.rpm", 
+    "pkg": "lilyterm", 
+    "pkg_version": "0.9.9.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lilyterm-0.9.9.2-3.fc20.x86_64.rpm", 
+    "pkg": "lilyterm", 
+    "pkg_version": "0.9.9.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Freestylers", 
+    "pkg_full_name": "lilyterm-0.9.9.2-x86_64-1_fs.tgz", 
+    "pkg": "lilyterm", 
+    "pkg_version": "0.9.9.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }
+]

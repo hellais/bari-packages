@@ -1,0 +1,82 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "eclipse-eclox-0.8.0-alt1_11.20100810svnjpp7.noarch.rpm", 
+    "pkg": "eclipse-eclox", 
+    "pkg_version": "0.8.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "eclipse-eclox-0.8.0-5.20100810svn.el6.noarch.rpm", 
+    "pkg": "eclipse-eclox", 
+    "pkg_version": "0.8.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "eclipse-eclox_0.10.1-1_all.deb", 
+    "pkg": "eclipse-eclox", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "eclipse-eclox_0.10.1-1_all.deb", 
+    "pkg": "eclipse-eclox", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "eclipse-eclox-0.8.0-12.20100810svn.fc21.noarch.rpm", 
+    "pkg": "eclipse-eclox", 
+    "pkg_version": "0.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "eclipse-eclox-0.8.0-12.20100810svn.fc21.noarch.rpm", 
+    "pkg": "eclipse-eclox", 
+    "pkg_version": "0.8.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "eclipse-eclox-0.8.0-12.20100810svn.fc21.noarch.rpm", 
+    "pkg": "eclipse-eclox", 
+    "pkg_version": "0.8.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "eclipse-eclox-0.8.0-11.20100810svn.fc20.noarch.rpm", 
+    "pkg": "eclipse-eclox", 
+    "pkg_version": "0.8.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "eclipse-eclox_0.10.1-1_all.deb", 
+    "pkg": "eclipse-eclox", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

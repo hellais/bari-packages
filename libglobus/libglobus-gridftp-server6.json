@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libglobus-gridftp-server6_7.20-1_i386.deb", 
+    "pkg": "libglobus-gridftp-server6", 
+    "pkg_version": "7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libglobus-gridftp-server6_7.11-1_i386.deb", 
+    "pkg": "libglobus-gridftp-server6", 
+    "pkg_version": "7.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libglobus-gridftp-server6_6.10-2_i386.deb", 
+    "pkg": "libglobus-gridftp-server6", 
+    "pkg_version": "6.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libglobus-gridftp-server6_6.38-1_i386.deb", 
+    "pkg": "libglobus-gridftp-server6", 
+    "pkg_version": "6.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

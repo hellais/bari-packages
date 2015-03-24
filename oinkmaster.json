@@ -1,0 +1,109 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "oinkmaster-2.0-alt2.noarch.rpm", 
+    "pkg": "oinkmaster", 
+    "pkg_version": "2.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Atomic", 
+    "pkg_full_name": "oinkmaster-2.0-0.el5.art.noarch.rpm", 
+    "pkg": "oinkmaster", 
+    "pkg_version": "2.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "oinkmaster_2.0-4_all.deb", 
+    "pkg": "oinkmaster", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "oinkmaster_2.0-4_all.deb", 
+    "pkg": "oinkmaster", 
+    "pkg_version": "2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "oinkmaster_2.0-3_all.deb", 
+    "pkg": "oinkmaster", 
+    "pkg_version": "2.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "oinkmaster-2.1-2.20080218.2-omv2013.0.noarch.rpm", 
+    "pkg": "oinkmaster", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "oinkmaster-2.1-2.20080218.2-omv2013.0.noarch.rpm", 
+    "pkg": "oinkmaster", 
+    "pkg_version": "2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "oinkmaster-2.1-2.20080218.2-omv2013.0.noarch.rpm", 
+    "pkg": "oinkmaster", 
+    "pkg_version": "2.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "oinkmaster-2.1-2.20080218.3-rosa2014.1.noarch.rpm", 
+    "pkg": "oinkmaster", 
+    "pkg_version": "2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "oinkmaster-2.1-2.20080218.2-rosa2012.1.noarch.rpm", 
+    "pkg": "oinkmaster", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "oinkmaster_2.0-4_all.deb", 
+    "pkg": "oinkmaster", 
+    "pkg_version": "2.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "oinkmaster_2.0-4_all.deb", 
+    "pkg": "oinkmaster", 
+    "pkg_version": "2.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-cabal-doc_1.20.0.2-1_all.deb", 
+    "pkg": "libghc-cabal-doc", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ghc-doc_7.6.3-20_all.deb", 
+    "pkg": "ghc-doc", 
+    "pkg_version": "7.6.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-cabal-doc_1.20.0.2-1_all.deb", 
+    "pkg": "libghc-cabal-doc", 
+    "pkg_version": "1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ghc-doc_7.6.3-20_all.deb", 
+    "pkg": "ghc-doc", 
+    "pkg_version": "7.6.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-cabal-doc_1.20.0.2-1_all.deb", 
+    "pkg": "libghc-cabal-doc", 
+    "pkg_version": "1.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ghc-doc_7.4.1-4_all.deb", 
+    "pkg": "ghc-doc", 
+    "pkg_version": "7.4.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-cabal-doc_1.20.0.2-1_all.deb", 
+    "pkg": "libghc-cabal-doc", 
+    "pkg_version": "1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ghc-doc_7.6.3-19_all.deb", 
+    "pkg": "ghc-doc", 
+    "pkg_version": "7.6.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-cabal-doc_1.20.0.2-1_all.deb", 
+    "pkg": "libghc-cabal-doc", 
+    "pkg_version": "1.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ghc-doc_7.6.3-10_all.deb", 
+    "pkg": "ghc-doc", 
+    "pkg_version": "7.6.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-concrete-typerep-dev_0.1.0.2-2+b3_i386.deb", 
+    "pkg": "libghc-concrete-typerep-dev", 
+    "pkg_version": "0.1.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-concrete-typerep-dev_0.1.0.2-2+b3_i386.deb", 
+    "pkg": "libghc-concrete-typerep-dev", 
+    "pkg_version": "0.1.0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-concrete-typerep-dev_0.1.0.2-2build4_i386.deb", 
+    "pkg": "libghc-concrete-typerep-dev", 
+    "pkg_version": "0.1.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

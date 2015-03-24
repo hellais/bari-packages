@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "digikam-private-libs_4.4.0-1.1_i386.deb", 
+    "pkg": "digikam-private-libs", 
+    "pkg_version": "4.4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

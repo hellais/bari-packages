@@ -1,0 +1,64 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "mate-minimal-1.7.0-alt2.noarch.rpm", 
+    "pkg": "mate-minimal", 
+    "pkg_version": "1.7.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mate-core_1.8.0+9_all.deb", 
+    "pkg": "mate-core", 
+    "pkg_version": "1.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "mate-minimal-1.7.0-alt2.noarch.rpm", 
+    "pkg": "mate-minimal", 
+    "pkg_version": "1.7.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mate-core_1.8.0+9_all.deb", 
+    "pkg": "mate-core", 
+    "pkg_version": "1.8.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "mate-minimal-1.7.0-alt2.noarch.rpm", 
+    "pkg": "mate-minimal", 
+    "pkg_version": "1.7.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "mate-core_1.8.0+7~bpo70+1_all.deb", 
+    "pkg": "mate-core", 
+    "pkg_version": "1.8.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "mate-minimal-1.7.0-alt2.noarch.rpm", 
+    "pkg": "mate-minimal", 
+    "pkg_version": "1.7.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

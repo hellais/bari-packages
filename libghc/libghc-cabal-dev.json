@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-cabal-dev_1.20.0.2-1_i386.deb", 
+    "pkg": "libghc-cabal-dev", 
+    "pkg_version": "1.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ghc_7.6.3-20_i386.deb", 
+    "pkg": "ghc", 
+    "pkg_version": "7.6.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-cabal-dev_1.20.0.2-1_i386.deb", 
+    "pkg": "libghc-cabal-dev", 
+    "pkg_version": "1.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ghc_7.6.3-20_i386.deb", 
+    "pkg": "ghc", 
+    "pkg_version": "7.6.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-cabal-dev_1.20.0.2-1_i386.deb", 
+    "pkg": "libghc-cabal-dev", 
+    "pkg_version": "1.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ghc_7.4.1-4_i386.deb", 
+    "pkg": "ghc", 
+    "pkg_version": "7.4.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-cabal-dev_1.20.0.2-1_i386.deb", 
+    "pkg": "libghc-cabal-dev", 
+    "pkg_version": "1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ghc_7.6.3-19_i386.deb", 
+    "pkg": "ghc", 
+    "pkg_version": "7.6.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-cabal-dev_1.20.0.2-1_i386.deb", 
+    "pkg": "libghc-cabal-dev", 
+    "pkg_version": "1.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ghc_7.6.3-10_i386.deb", 
+    "pkg": "ghc", 
+    "pkg_version": "7.6.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "jabref-2.9.2-alt2_1jpp7.noarch.rpm", 
+    "pkg": "jabref", 
+    "pkg_version": "2.9.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Nogin.org Random", 
+    "pkg_full_name": "jabref-2.6-2.noarch.rpm", 
+    "pkg": "jabref", 
+    "pkg_version": "2.6", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jabref_2.10+ds-3_all.deb", 
+    "pkg": "jabref", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jabref_2.10+ds-3_all.deb", 
+    "pkg": "jabref", 
+    "pkg_version": "2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jabref_2.7~beta1+ds-6_all.deb", 
+    "pkg": "jabref", 
+    "pkg_version": "2.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "jabref-2.9.2-2.fc20.noarch.rpm", 
+    "pkg": "jabref", 
+    "pkg_version": "2.9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "jabref-2.9.2-2.fc20.noarch.rpm", 
+    "pkg": "jabref", 
+    "pkg_version": "2.9.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "jabref-2.9.2-2.fc20.noarch.rpm", 
+    "pkg": "jabref", 
+    "pkg_version": "2.9.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "jabref-2.9.2-2.fc20.noarch.rpm", 
+    "pkg": "jabref", 
+    "pkg_version": "2.9.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "jabref_2.10+ds-2_all.deb", 
+    "pkg": "jabref", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "jabref_2.10~beta2+ds-3_all.deb", 
+    "pkg": "jabref", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

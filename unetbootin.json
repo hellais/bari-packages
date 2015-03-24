@@ -1,0 +1,612 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "unetbootin-0-alt0.549.x86_64.rpm", 
+    "pkg": "unetbootin-0-alt", 
+    "pkg_version": "0.5", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "unetbootin-0-alt0.549.x86_64.rpm", 
+    "pkg": "unetbootin-0-alt", 
+    "pkg_version": "0.5", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "unetbootin-0-alt0.549.x86_64.rpm", 
+    "pkg": "unetbootin-0-alt", 
+    "pkg_version": "0.5", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "unetbootin-0-14.581bzr.el7.nux.x86_64.rpm", 
+    "pkg": "unetbootin-0-1", 
+    "pkg_version": "4.5", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "unetbootin-0-alt0.549.x86_64.rpm", 
+    "pkg": "unetbootin-0-alt", 
+    "pkg_version": "0.5", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "unetbootin-0-15.585bzr.el6.x86_64.rpm", 
+    "pkg": "unetbootin-0-1", 
+    "pkg_version": "5.5", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "unetbootin-0-6.356bzr.el5.x86_64.rpm", 
+    "pkg": "unetbootin-0", 
+    "pkg_version": "6.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "unetbootin-0-alt0.549.x86_64.rpm", 
+    "pkg": "unetbootin-0-alt", 
+    "pkg_version": "0.5", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "unetbootin-0-15.585bzr.el6.x86_64.rpm", 
+    "pkg": "unetbootin-0-1", 
+    "pkg_version": "5.5", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "unetbootin-0-6.356bzr.el5.x86_64.rpm", 
+    "pkg": "unetbootin-0", 
+    "pkg_version": "6.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "unetbootin-0-alt0.549.x86_64.rpm", 
+    "pkg": "unetbootin-0-alt", 
+    "pkg_version": "0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "unetbootin-0-15.585bzr.el6.x86_64.rpm", 
+    "pkg": "unetbootin-0-1", 
+    "pkg_version": "5.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "unetbootin-0-6.356bzr.el5.x86_64.rpm", 
+    "pkg": "unetbootin-0", 
+    "pkg_version": "6.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "unetbootin-0-alt0.549.x86_64.rpm", 
+    "pkg": "unetbootin-0-alt", 
+    "pkg_version": "0.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "unetbootin-0-15.585bzr.el6.x86_64.rpm", 
+    "pkg": "unetbootin-0-1", 
+    "pkg_version": "5.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "unetbootin-0-6.356bzr.el5.x86_64.rpm", 
+    "pkg": "unetbootin-0", 
+    "pkg_version": "6.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "unetbootin-0-alt0.549.x86_64.rpm", 
+    "pkg": "unetbootin-0-alt", 
+    "pkg_version": "0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "unetbootin-0-15.585bzr.el6.x86_64.rpm", 
+    "pkg": "unetbootin-0-1", 
+    "pkg_version": "5.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "unetbootin-0-6.356bzr.el5.x86_64.rpm", 
+    "pkg": "unetbootin-0", 
+    "pkg_version": "6.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "unetbootin-0-alt0.549.x86_64.rpm", 
+    "pkg": "unetbootin-0-alt", 
+    "pkg_version": "0.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "unetbootin-0-15.585bzr.el6.x86_64.rpm", 
+    "pkg": "unetbootin-0-1", 
+    "pkg_version": "5.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "unetbootin-0-6.356bzr.el5.x86_64.rpm", 
+    "pkg": "unetbootin-0", 
+    "pkg_version": "6.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "unetbootin-0-alt0.549.x86_64.rpm", 
+    "pkg": "unetbootin-0-alt", 
+    "pkg_version": "0.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "unetbootin-0-15.585bzr.el6.x86_64.rpm", 
+    "pkg": "unetbootin-0-1", 
+    "pkg_version": "5.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "unetbootin-0-6.356bzr.el5.x86_64.rpm", 
+    "pkg": "unetbootin-0", 
+    "pkg_version": "6.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "unetbootin-0-alt0.549.x86_64.rpm", 
+    "pkg": "unetbootin-0-alt", 
+    "pkg_version": "0.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "unetbootin-0-14.581bzr.fc20.x86_64.rpm", 
+    "pkg": "unetbootin-0-1", 
+    "pkg_version": "4.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "unetbootin-0-4.581-omv2015.0.x86_64.rpm", 
+    "pkg": "unetbootin-0", 
+    "pkg_version": "4.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "unetbootin-0-alt0.549.x86_64.rpm", 
+    "pkg": "unetbootin-0-alt", 
+    "pkg_version": "0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "unetbootin-0-14.581bzr.fc20.x86_64.rpm", 
+    "pkg": "unetbootin-0-1", 
+    "pkg_version": "4.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "unetbootin-0-2.581-omv2014.0.x86_64.rpm", 
+    "pkg": "unetbootin-0", 
+    "pkg_version": "2.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "unetbootin-0-alt0.549.x86_64.rpm", 
+    "pkg": "unetbootin-0-alt", 
+    "pkg_version": "0.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "unetbootin-0-14.581bzr.fc20.x86_64.rpm", 
+    "pkg": "unetbootin-0-1", 
+    "pkg_version": "4.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "unetbootin-0-2.581-omv2013.0.x86_64.rpm", 
+    "pkg": "unetbootin-0", 
+    "pkg_version": "2.5", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "unetbootin-0-alt0.549.x86_64.rpm", 
+    "pkg": "unetbootin-0-alt", 
+    "pkg_version": "0.5", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "unetbootin-0-14.581bzr.fc20.x86_64.rpm", 
+    "pkg": "unetbootin-0-1", 
+    "pkg_version": "4.5", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "unetbootin-0-2.581-omv2013.0.x86_64.rpm", 
+    "pkg": "unetbootin-0", 
+    "pkg_version": "2.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "unetbootin-0.0.608-2.1.x86_64.rpm", 
+    "pkg": "unetbootin", 
+    "pkg_version": "0.0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "unetbootin-0-alt0.549.x86_64.rpm", 
+    "pkg": "unetbootin-0-alt", 
+    "pkg_version": "0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "unetbootin-0-14.581bzr.fc20.x86_64.rpm", 
+    "pkg": "unetbootin-0-1", 
+    "pkg_version": "4.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "unetbootin-0-4.581-rosa2014.1.x86_64.rpm", 
+    "pkg": "unetbootin-0", 
+    "pkg_version": "4.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "unetbootin-0.0.608-2.1.x86_64.rpm", 
+    "pkg": "unetbootin", 
+    "pkg_version": "0.0.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "unetbootin-0-alt0.549.x86_64.rpm", 
+    "pkg": "unetbootin-0-alt", 
+    "pkg_version": "0.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "unetbootin-0-14.581bzr.fc20.x86_64.rpm", 
+    "pkg": "unetbootin-0-1", 
+    "pkg_version": "4.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "unetbootin-0-2.581-rosa2012.1.x86_64.rpm", 
+    "pkg": "unetbootin-0", 
+    "pkg_version": "2.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "unetbootin-0.0.608-2.1.x86_64.rpm", 
+    "pkg": "unetbootin", 
+    "pkg_version": "0.0.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "unetbootin-0-alt0.549.x86_64.rpm", 
+    "pkg": "unetbootin-0-alt", 
+    "pkg_version": "0.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "unetbootin-0-14.581bzr.fc20.x86_64.rpm", 
+    "pkg": "unetbootin-0-1", 
+    "pkg_version": "4.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "unetbootin-0-0.20110804.1-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "unetbootin-0", 
+    "pkg_version": "0.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "unetbootin-0.0.608-2.1.x86_64.rpm", 
+    "pkg": "unetbootin", 
+    "pkg_version": "0.0.6", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "unetbootin-0-alt0.549.x86_64.rpm", 
+    "pkg": "unetbootin-0-alt", 
+    "pkg_version": "0.5", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "unetbootin-0-14.581bzr.fc20.x86_64.rpm", 
+    "pkg": "unetbootin-0-1", 
+    "pkg_version": "4.5", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "unetbootin-0-0.20110804.1-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "unetbootin-0", 
+    "pkg_version": "0.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "unetbootin-0.0.608-2.1.x86_64.rpm", 
+    "pkg": "unetbootin", 
+    "pkg_version": "0.0.6", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "unetbootin-0-alt0.549.x86_64.rpm", 
+    "pkg": "unetbootin-0-alt", 
+    "pkg_version": "0.5", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "unetbootin-0-14.581bzr.fc20.x86_64.rpm", 
+    "pkg": "unetbootin-0-1", 
+    "pkg_version": "4.5", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "unetbootin-0-0.20110804.1-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "unetbootin-0", 
+    "pkg_version": "0.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "unetbootin-0.0.608-2.1.x86_64.rpm", 
+    "pkg": "unetbootin", 
+    "pkg_version": "0.0.6", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "unetbootin-0-alt0.549.x86_64.rpm", 
+    "pkg": "unetbootin-0-alt", 
+    "pkg_version": "0.5", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "unetbootin-0-14.581bzr.fc20.x86_64.rpm", 
+    "pkg": "unetbootin-0-1", 
+    "pkg_version": "4.5", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "unetbootin-0-0.20110804.1-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "unetbootin-0", 
+    "pkg_version": "0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "unetbootin-0.0.608-2.1.x86_64.rpm", 
+    "pkg": "unetbootin", 
+    "pkg_version": "0.0.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "unetbootin-0-alt0.549.x86_64.rpm", 
+    "pkg": "unetbootin-0-alt", 
+    "pkg_version": "0.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "unetbootin-0-14.581bzr.fc20.x86_64.rpm", 
+    "pkg": "unetbootin-0-1", 
+    "pkg_version": "4.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "unetbootin-0-0.20110804.1-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "unetbootin-0", 
+    "pkg_version": "0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "unetbootin-0.0.608-2.1.x86_64.rpm", 
+    "pkg": "unetbootin", 
+    "pkg_version": "0.0.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "unetbootin-0-alt0.549.x86_64.rpm", 
+    "pkg": "unetbootin-0-alt", 
+    "pkg_version": "0.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "unetbootin-0-14.581bzr.fc20.x86_64.rpm", 
+    "pkg": "unetbootin-0-1", 
+    "pkg_version": "4.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

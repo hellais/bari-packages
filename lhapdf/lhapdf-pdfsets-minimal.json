@@ -1,0 +1,109 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "lhapdf-pdfsets-minimal-5.8.9-alt1_5.noarch.rpm", 
+    "pkg": "lhapdf-pdfsets-minimal", 
+    "pkg_version": "5.8.9", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "lhapdf-pdfsets-minimal-5.9.1-9.el7.noarch.rpm", 
+    "pkg": "lhapdf-pdfsets-minimal", 
+    "pkg_version": "5.9.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "lhapdf-pdfsets-minimal-5.9.1-9.el6.noarch.rpm", 
+    "pkg": "lhapdf-pdfsets-minimal", 
+    "pkg_version": "5.9.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL Testing", 
+    "pkg_full_name": "lhapdf-pdfsets-minimal-5.9.1-9.el5.x86_64.rpm", 
+    "pkg": "lhapdf-pdfsets-minimal", 
+    "pkg_version": "5.9.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lhapdf-pdfsets-minimal_5.9.1-3_all.deb", 
+    "pkg": "lhapdf-pdfsets-minimal", 
+    "pkg_version": "5.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lhapdf-pdfsets-minimal_5.9.1-3_all.deb", 
+    "pkg": "lhapdf-pdfsets-minimal", 
+    "pkg_version": "5.9.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lhapdf-pdfsets-minimal_5.8.7+repack-1_all.deb", 
+    "pkg": "lhapdf-pdfsets-minimal", 
+    "pkg_version": "5.8.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lhapdf-pdfsets-minimal-5.9.1-9.fc23.noarch.rpm", 
+    "pkg": "lhapdf-pdfsets-minimal", 
+    "pkg_version": "5.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "lhapdf-pdfsets-minimal-5.9.1-8.fc22.noarch.rpm", 
+    "pkg": "lhapdf-pdfsets-minimal", 
+    "pkg_version": "5.9.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "lhapdf-pdfsets-minimal-5.9.1-9.fc21.noarch.rpm", 
+    "pkg": "lhapdf-pdfsets-minimal", 
+    "pkg_version": "5.9.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "lhapdf-pdfsets-minimal-5.9.1-9.fc20.noarch.rpm", 
+    "pkg": "lhapdf-pdfsets-minimal", 
+    "pkg_version": "5.9.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "lhapdf-pdfsets-minimal_5.9.1-3build1_all.deb", 
+    "pkg": "lhapdf-pdfsets-minimal", 
+    "pkg_version": "5.9.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

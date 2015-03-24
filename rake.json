@@ -1,0 +1,548 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-tools-2.0.0-alt10.noarch.rpm", 
+    "pkg": "ruby-tools", 
+    "pkg_version": "2.0.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-tools-2.0.0-alt10.noarch.rpm", 
+    "pkg": "ruby-tools", 
+    "pkg_version": "2.0.0", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "ruby-2.2.1-1-x86_64.pkg.tar.xz", 
+    "pkg": "ruby", 
+    "pkg_version": "2.2.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-tools-2.0.0-alt10.noarch.rpm", 
+    "pkg": "ruby-tools", 
+    "pkg_version": "2.0.0", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "ruby-2.2.1-1-x86_64.pkg.tar.xz", 
+    "pkg": "ruby", 
+    "pkg_version": "2.2.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "rubygem-rake-0.9.6-22.el7_0.noarch.rpm", 
+    "pkg": "rubygem-rake", 
+    "pkg_version": "0.9.6", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-tools-2.0.0-alt10.noarch.rpm", 
+    "pkg": "ruby-tools", 
+    "pkg_version": "2.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rake_10.3.2-2_all.deb", 
+    "pkg": "rake_1", 
+    "pkg_version": "0.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "ruby-2.2.1-1-x86_64.pkg.tar.xz", 
+    "pkg": "ruby", 
+    "pkg_version": "2.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "rubygem-rake-0.9.6-22.el7_0.noarch.rpm", 
+    "pkg": "rubygem-rake", 
+    "pkg_version": "0.9.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-tools-2.0.0-alt10.noarch.rpm", 
+    "pkg": "ruby-tools", 
+    "pkg_version": "2.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rake_10.3.2-2_all.deb", 
+    "pkg": "rake_1", 
+    "pkg_version": "0.3.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "ruby-2.2.1-1-x86_64.pkg.tar.xz", 
+    "pkg": "ruby", 
+    "pkg_version": "2.2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "rubygem-rake-0.9.6-22.el7_0.noarch.rpm", 
+    "pkg": "rubygem-rake", 
+    "pkg_version": "0.9.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-tools-2.0.0-alt10.noarch.rpm", 
+    "pkg": "ruby-tools", 
+    "pkg_version": "2.0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rake_10.3.2-2_all.deb", 
+    "pkg": "rake_1", 
+    "pkg_version": "0.3.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rake_0.9.2.2-4_all.deb", 
+    "pkg": "rake", 
+    "pkg_version": "0.9.2.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "ruby-2.2.1-1-x86_64.pkg.tar.xz", 
+    "pkg": "ruby", 
+    "pkg_version": "2.2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "rubygem-rake-0.9.6-22.el7_0.noarch.rpm", 
+    "pkg": "rubygem-rake", 
+    "pkg_version": "0.9.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-tools-2.0.0-alt10.noarch.rpm", 
+    "pkg": "ruby-tools", 
+    "pkg_version": "2.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rake_10.3.2-2_all.deb", 
+    "pkg": "rake_1", 
+    "pkg_version": "0.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rake_0.9.2.2-4_all.deb", 
+    "pkg": "rake", 
+    "pkg_version": "0.9.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "rubygem-rake-0.9.6-22.el7_0.noarch.rpm", 
+    "pkg": "rubygem-rake", 
+    "pkg_version": "0.9.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rubygem-rake-10.4.2-9.fc23.noarch.rpm", 
+    "pkg": "rubygem-rake-1", 
+    "pkg_version": "0.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "ruby-2.2.1-1-x86_64.pkg.tar.xz", 
+    "pkg": "ruby", 
+    "pkg_version": "2.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-tools-2.0.0-alt10.noarch.rpm", 
+    "pkg": "ruby-tools", 
+    "pkg_version": "2.0.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rake_10.3.2-2_all.deb", 
+    "pkg": "rake_1", 
+    "pkg_version": "0.3.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rake_0.9.2.2-4_all.deb", 
+    "pkg": "rake", 
+    "pkg_version": "0.9.2.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "rubygem-rake-0.9.6-22.el7_0.noarch.rpm", 
+    "pkg": "rubygem-rake", 
+    "pkg_version": "0.9.6", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rubygem-rake-10.4.2-7.fc22.noarch.rpm", 
+    "pkg": "rubygem-rake-1", 
+    "pkg_version": "0.4.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "ruby-2.2.1-1-x86_64.pkg.tar.xz", 
+    "pkg": "ruby", 
+    "pkg_version": "2.2.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-tools-2.0.0-alt10.noarch.rpm", 
+    "pkg": "ruby-tools", 
+    "pkg_version": "2.0.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rake_10.3.2-2_all.deb", 
+    "pkg": "rake_1", 
+    "pkg_version": "0.3.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rake_0.9.2.2-4_all.deb", 
+    "pkg": "rake", 
+    "pkg_version": "0.9.2.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "rubygem-rake-0.9.6-22.el7_0.noarch.rpm", 
+    "pkg": "rubygem-rake", 
+    "pkg_version": "0.9.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "rubygem-rake-10.1.0-26.fc21.noarch.rpm", 
+    "pkg": "rubygem-rake-1", 
+    "pkg_version": "0.1.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "ruby-2.2.1-1-x86_64.pkg.tar.xz", 
+    "pkg": "ruby", 
+    "pkg_version": "2.2.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-tools-2.0.0-alt10.noarch.rpm", 
+    "pkg": "ruby-tools", 
+    "pkg_version": "2.0.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rake_10.3.2-2_all.deb", 
+    "pkg": "rake_1", 
+    "pkg_version": "0.3.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rake_0.9.2.2-4_all.deb", 
+    "pkg": "rake", 
+    "pkg_version": "0.9.2.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "rubygem-rake-0.9.6-16.fc20.noarch.rpm", 
+    "pkg": "rubygem-rake", 
+    "pkg_version": "0.9.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "rubygem-rake-10.1.0-26.fc21.noarch.rpm", 
+    "pkg": "rubygem-rake-1", 
+    "pkg_version": "0.1.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "ruby-2.2.1-1-x86_64.pkg.tar.xz", 
+    "pkg": "ruby", 
+    "pkg_version": "2.2.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-tools-2.0.0-alt10.noarch.rpm", 
+    "pkg": "ruby-tools", 
+    "pkg_version": "2.0.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rake_10.3.2-2_all.deb", 
+    "pkg": "rake_1", 
+    "pkg_version": "0.3.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "rake-0.8.7-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "rake", 
+    "pkg_version": "0.8.7", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "rubygem-rake-0.9.6-16.fc20.noarch.rpm", 
+    "pkg": "rubygem-rake", 
+    "pkg_version": "0.9.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "rubygem-rake-10.1.0-26.fc21.noarch.rpm", 
+    "pkg": "rubygem-rake-1", 
+    "pkg_version": "0.1.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "ruby-2.2.1-1-x86_64.pkg.tar.xz", 
+    "pkg": "ruby", 
+    "pkg_version": "2.2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-tools-2.0.0-alt10.noarch.rpm", 
+    "pkg": "ruby-tools", 
+    "pkg_version": "2.0.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "rake_10.1.1-1_all.deb", 
+    "pkg": "rake_1", 
+    "pkg_version": "0.1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "rake-0.8.7-2-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "rake", 
+    "pkg_version": "0.8.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "rubygem-rake-0.9.6-16.fc20.noarch.rpm", 
+    "pkg": "rubygem-rake", 
+    "pkg_version": "0.9.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "rubygem-rake-10.1.0-26.fc21.noarch.rpm", 
+    "pkg": "rubygem-rake-1", 
+    "pkg_version": "0.1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "ruby-2.2.1-1-x86_64.pkg.tar.xz", 
+    "pkg": "ruby", 
+    "pkg_version": "2.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "ruby-tools-2.0.0-alt10.noarch.rpm", 
+    "pkg": "ruby-tools", 
+    "pkg_version": "2.0.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "rake_10.0.4-1_all.deb", 
+    "pkg": "rake_1", 
+    "pkg_version": "0.0.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "rake-0.8.7-2-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "rake", 
+    "pkg_version": "0.8.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "rubygem-rake-0.9.6-16.fc20.noarch.rpm", 
+    "pkg": "rubygem-rake", 
+    "pkg_version": "0.9.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "rubygem-rake-10.1.0-26.fc21.noarch.rpm", 
+    "pkg": "rubygem-rake-1", 
+    "pkg_version": "0.1.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "ruby-2.2.1-1-x86_64.pkg.tar.xz", 
+    "pkg": "ruby", 
+    "pkg_version": "2.2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

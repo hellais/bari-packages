@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libjack-dev_0.124.1+20140122git5013bed0-3_i386.deb", 
+    "pkg": "libjack-dev", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libjack-jackd2-dev_1.9.10+20140719git3eb0ae6a~dfsg-2_i386.deb", 
+    "pkg": "libjack-jackd2-dev", 
+    "pkg_version": "1.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libjack-dev_0.124.1+20140122git5013bed0-3_i386.deb", 
+    "pkg": "libjack-dev", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libjack-jackd2-dev_1.9.10+20140719git3eb0ae6a~dfsg-2_i386.deb", 
+    "pkg": "libjack-jackd2-dev", 
+    "pkg_version": "1.9.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libjack-dev_0.121.3+20120418git75e3e20b-2.1_i386.deb", 
+    "pkg": "libjack-dev", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libjack-jackd2-dev_1.9.8~dfsg.4+20120529git007cdc37-5_i386.deb", 
+    "pkg": "libjack-jackd2-dev", 
+    "pkg_version": "1.9.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libjack-dev_0.124.1+20140122git5013bed0-3_i386.deb", 
+    "pkg": "libjack-dev", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libjack-jackd2-dev_1.9.10+20140610git97e0e80b~dfsg-1ubuntu1_i386.deb", 
+    "pkg": "libjack-jackd2-dev", 
+    "pkg_version": "1.9.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libjack-dev_0.121.3+20120418git75e3e20b-2.1ubuntu1_i386.deb", 
+    "pkg": "libjack-dev", 
+    "pkg_version": "0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libjack-jackd2-dev_1.9.9.5+20130622git7de15e7a-1ubuntu1_i386.deb", 
+    "pkg": "libjack-jackd2-dev", 
+    "pkg_version": "1.9.9.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

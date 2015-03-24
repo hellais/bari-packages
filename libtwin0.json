@@ -1,0 +1,137 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtwin0_13.05.03.15.06-g287d16c-2+b2_i386.deb", 
+    "pkg": "libtwin0_1", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtwin0_13.05.03.15.06-g287d16c-2+b2_i386.deb", 
+    "pkg": "libtwin0_1", 
+    "pkg_version": "3.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtwin0_12.04.13.17.57-g130ee5f-2_i386.deb", 
+    "pkg": "libtwin0_1", 
+    "pkg_version": "2.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtwin0_12.04.13.17.57-g130ee5f-2_i386.deb", 
+    "pkg": "libtwin0_1", 
+    "pkg_version": "2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "libtwin0-0.6.2-5-omv2015.0.i586.rpm", 
+    "pkg": "libtwin0", 
+    "pkg_version": "0.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtwin0_12.04.13.17.57-g130ee5f-2_i386.deb", 
+    "pkg": "libtwin0_1", 
+    "pkg_version": "2.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "libtwin0-0.6.2-4-omv2013.0.i586.rpm", 
+    "pkg": "libtwin0", 
+    "pkg_version": "0.6.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtwin0_12.04.13.17.57-g130ee5f-2_i386.deb", 
+    "pkg": "libtwin0_1", 
+    "pkg_version": "2.0", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "libtwin0-0.6.2-4-omv2013.0.i586.rpm", 
+    "pkg": "libtwin0", 
+    "pkg_version": "0.6.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtwin0_12.04.13.17.57-g130ee5f-2_i386.deb", 
+    "pkg": "libtwin0_1", 
+    "pkg_version": "2.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "libtwin0-0.6.2-5-rosa2014.1.i586.rpm", 
+    "pkg": "libtwin0", 
+    "pkg_version": "0.6.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtwin0_12.04.13.17.57-g130ee5f-2_i386.deb", 
+    "pkg": "libtwin0_1", 
+    "pkg_version": "2.0", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "libtwin0-0.6.2-4-rosa2012.1.i586.rpm", 
+    "pkg": "libtwin0", 
+    "pkg_version": "0.6.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libtwin0_13.05.03.15.06-g287d16c-2_i386.deb", 
+    "pkg": "libtwin0_1", 
+    "pkg_version": "3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "libtwin0-0.6.2-2-rosa.lts2012.0.i586.rpm", 
+    "pkg": "libtwin0", 
+    "pkg_version": "0.6.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

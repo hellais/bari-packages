@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libharfbuzz-dev_0.9.35-2_i386.deb", 
+    "pkg": "libharfbuzz-dev", 
+    "pkg_version": "0.9.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libharfbuzz-dev_0.9.35-2_i386.deb", 
+    "pkg": "libharfbuzz-dev", 
+    "pkg_version": "0.9.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libharfbuzz-dev_0.9.35-1_i386.deb", 
+    "pkg": "libharfbuzz-dev", 
+    "pkg_version": "0.9.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

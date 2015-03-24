@@ -1,0 +1,83 @@
+[
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "hg-fast-export-20140308-1.1.noarch.rpm", 
+    "pkg": "hg-fast-export-20140308", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "hg-fast-export-0.20110613-11.1.4.noarch.rpm", 
+    "pkg": "hg-fast-export", 
+    "pkg_version": "0.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "hg-fast-export-20140308-1.1.noarch.rpm", 
+    "pkg": "hg-fast-export-20140308", 
+    "pkg_version": "1.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "hg-fast-export-0.20110613-9.1.2.noarch.rpm", 
+    "pkg": "hg-fast-export", 
+    "pkg_version": "0.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "hg-fast-export-20140308-1.1.noarch.rpm", 
+    "pkg": "hg-fast-export-20140308", 
+    "pkg_version": "1.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "hg-fast-export-0.20110613-9.1.2.noarch.rpm", 
+    "pkg": "hg-fast-export", 
+    "pkg_version": "0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "hg-fast-export-20140308-1.1.noarch.rpm", 
+    "pkg": "hg-fast-export-20140308", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "hg-fast-export-0.20110613-9.1.2.noarch.rpm", 
+    "pkg": "hg-fast-export", 
+    "pkg_version": "0.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "hg-fast-export-20140308-1.1.noarch.rpm", 
+    "pkg": "hg-fast-export-20140308", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

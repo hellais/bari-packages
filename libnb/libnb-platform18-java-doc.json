@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libnb-platform18-java-doc_7.4+dfsg1-2_all.deb", 
+    "pkg": "libnb-platform18-java-doc", 
+    "pkg_version": "7.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libnb-platform18-java-doc_7.4+dfsg1-2_all.deb", 
+    "pkg": "libnb-platform18-java-doc", 
+    "pkg_version": "7.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

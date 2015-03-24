@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libperlx-maybe-xs-perl_1.001-2+b1_i386.deb", 
+    "pkg": "libperlx-maybe-xs-perl", 
+    "pkg_version": "1.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libperlx-maybe-xs-perl_1.001-2+b1_i386.deb", 
+    "pkg": "libperlx-maybe-xs-perl", 
+    "pkg_version": "1.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libperlx-maybe-xs-perl_1.001-2build1_i386.deb", 
+    "pkg": "libperlx-maybe-xs-perl", 
+    "pkg_version": "1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

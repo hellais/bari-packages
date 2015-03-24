@@ -1,0 +1,109 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "balance-3.54-alt1.x86_64.rpm", 
+    "pkg": "balance", 
+    "pkg_version": "3.5", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "balance-3.42-1.el6.rf.x86_64.rpm", 
+    "pkg": "balance", 
+    "pkg_version": "3.4", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "balance-3.42-1.el5.rf.x86_64.rpm", 
+    "pkg": "balance", 
+    "pkg_version": "3.4", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "balance_3.56-1_i386.deb", 
+    "pkg": "balance", 
+    "pkg_version": "3.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "balance_3.56-1_i386.deb", 
+    "pkg": "balance", 
+    "pkg_version": "3.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "balance_3.42-1_i386.deb", 
+    "pkg": "balance", 
+    "pkg_version": "3.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "balance-3.52-9.fc22.x86_64.rpm", 
+    "pkg": "balance", 
+    "pkg_version": "3.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "balance-3.52-9.fc22.x86_64.rpm", 
+    "pkg": "balance", 
+    "pkg_version": "3.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "balance-3.52-9.fc21.x86_64.rpm", 
+    "pkg": "balance", 
+    "pkg_version": "3.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "balance-3.52-7.fc20.x86_64.rpm", 
+    "pkg": "balance", 
+    "pkg_version": "3.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "balance_3.56-1_i386.deb", 
+    "pkg": "balance", 
+    "pkg_version": "3.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "balance_3.54-1_i386.deb", 
+    "pkg": "balance", 
+    "pkg_version": "3.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

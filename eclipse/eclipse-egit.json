@@ -1,0 +1,109 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "eclipse-egit-2.3.1-alt1_1jpp7.noarch.rpm", 
+    "pkg": "eclipse-egit", 
+    "pkg_version": "2.3.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "eclipse-egit_3.4.0-1_all.deb", 
+    "pkg": "eclipse-egit", 
+    "pkg_version": "3.4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "eclipse-egit_3.4.0-1_all.deb", 
+    "pkg": "eclipse-egit", 
+    "pkg_version": "3.4.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "eclipse-egit_2.0.0-1_all.deb", 
+    "pkg": "eclipse-egit", 
+    "pkg_version": "2.0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "eclipse-egit-3.7.0-1.fc23.noarch.rpm", 
+    "pkg": "eclipse-egit", 
+    "pkg_version": "3.7.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "eclipse-egit-3.6.2-1.fc22.noarch.rpm", 
+    "pkg": "eclipse-egit", 
+    "pkg_version": "3.6.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "eclipse-egit-3.6.2-1.fc21.noarch.rpm", 
+    "pkg": "eclipse-egit", 
+    "pkg_version": "3.6.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "eclipse-egit-3.3.2-1.fc20.noarch.rpm", 
+    "pkg": "eclipse-egit", 
+    "pkg_version": "3.3.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "eclipse-egit-3.5.3-1.2-omv2015.0.noarch.rpm", 
+    "pkg": "eclipse-egit", 
+    "pkg_version": "3.5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "eclipse-egit-3.2.0-1.1-omv2014.0.noarch.rpm", 
+    "pkg": "eclipse-egit", 
+    "pkg_version": "3.2.0", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "eclipse-egit_3.4.0-1_all.deb", 
+    "pkg": "eclipse-egit", 
+    "pkg_version": "3.4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "eclipse-egit_3.3.1-1_all.deb", 
+    "pkg": "eclipse-egit", 
+    "pkg_version": "3.3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-xstatic-jquery.quicksearch_2.0.4.1-1_all.deb", 
+    "pkg": "python-xstatic-jquery.quicksearch", 
+    "pkg_version": "2.0.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

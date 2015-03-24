@@ -1,0 +1,155 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libchm-bin_0.40a-3+b1_i386.deb", 
+    "pkg": "libchm-bin", 
+    "pkg_version": "0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libchm-bin_0.40a-3+b1_i386.deb", 
+    "pkg": "libchm-bin", 
+    "pkg_version": "0.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libchm-bin_0.40a-2_i386.deb", 
+    "pkg": "libchm-bin", 
+    "pkg_version": "0.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "chmlib-0.40-14-omv2015.0.x86_64.rpm", 
+    "pkg": "chmlib", 
+    "pkg_version": "0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libchm-bin_0.40a-2_i386.deb", 
+    "pkg": "libchm-bin", 
+    "pkg_version": "0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "chmlib-0.40-8-omv2014.0.x86_64.rpm", 
+    "pkg": "chmlib", 
+    "pkg_version": "0.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libchm-bin_0.40a-2_i386.deb", 
+    "pkg": "libchm-bin", 
+    "pkg_version": "0.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "chmlib-0.40-7-omv2013.0.x86_64.rpm", 
+    "pkg": "chmlib", 
+    "pkg_version": "0.4", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libchm-bin_0.40a-2_i386.deb", 
+    "pkg": "libchm-bin", 
+    "pkg_version": "0.4", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "chmlib-0.40-8-rosa2014.1.x86_64.rpm", 
+    "pkg": "chmlib", 
+    "pkg_version": "0.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libchm-bin_0.40a-2_i386.deb", 
+    "pkg": "libchm-bin", 
+    "pkg_version": "0.4", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "chmlib-0.40-7-rosa2012.1.x86_64.rpm", 
+    "pkg": "chmlib", 
+    "pkg_version": "0.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libchm-bin_0.40a-2_i386.deb", 
+    "pkg": "libchm-bin", 
+    "pkg_version": "0.4", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "chmlib-0.40-6-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "chmlib", 
+    "pkg_version": "0.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libchm-bin_0.40a-3_i386.deb", 
+    "pkg": "libchm-bin", 
+    "pkg_version": "0.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "chmlib-0.40-6-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "chmlib", 
+    "pkg_version": "0.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libchm-bin_0.40a-3_i386.deb", 
+    "pkg": "libchm-bin", 
+    "pkg_version": "0.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

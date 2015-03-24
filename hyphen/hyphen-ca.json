@@ -1,0 +1,109 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "hyphen-ca-0.9.3-alt1_7.noarch.rpm", 
+    "pkg": "hyphen-ca", 
+    "pkg_version": "0.9.3", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "hyphen-ca-0.9.3-6.el7.noarch.rpm", 
+    "pkg": "hyphen-ca", 
+    "pkg_version": "0.9.3", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "hyphen-ca-0.9.2-2.1.el6.noarch.rpm", 
+    "pkg": "hyphen-ca", 
+    "pkg_version": "0.9.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "hyphen-ca_3.3.0-4_all.deb", 
+    "pkg": "hyphen-ca", 
+    "pkg_version": "3.3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "hyphen-ca_3.3.0-4_all.deb", 
+    "pkg": "hyphen-ca", 
+    "pkg_version": "3.3.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "hyphen-ca_3.3.0-4_all.deb", 
+    "pkg": "hyphen-ca", 
+    "pkg_version": "3.3.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "hyphen-ca-0.9.3-7.fc21.noarch.rpm", 
+    "pkg": "hyphen-ca", 
+    "pkg_version": "0.9.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "hyphen-ca-0.9.3-7.fc21.noarch.rpm", 
+    "pkg": "hyphen-ca", 
+    "pkg_version": "0.9.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "hyphen-ca-0.9.3-7.fc21.noarch.rpm", 
+    "pkg": "hyphen-ca", 
+    "pkg_version": "0.9.3", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "hyphen-ca-0.9.3-6.fc20.noarch.rpm", 
+    "pkg": "hyphen-ca", 
+    "pkg_version": "0.9.3", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "hyphen-ca_4.2.1-0ubuntu3_all.deb", 
+    "pkg": "hyphen-ca", 
+    "pkg_version": "4.2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "hyphen-ca_4.2.1-0ubuntu1.1_all.deb", 
+    "pkg": "hyphen-ca", 
+    "pkg_version": "4.2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

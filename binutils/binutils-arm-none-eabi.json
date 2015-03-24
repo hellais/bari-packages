@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "binutils-arm-none-eabi_2.25-5+5+b1_i386.deb", 
+    "pkg": "binutils-arm-none-eabi", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "binutils-arm-none-eabi_2.25-5+5+b1_i386.deb", 
+    "pkg": "binutils-arm-none-eabi", 
+    "pkg_version": "2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "binutils-arm-none-eabi_2.24.51.20140612-0ubuntu1+5_i386.deb", 
+    "pkg": "binutils-arm-none-eabi", 
+    "pkg_version": "2.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

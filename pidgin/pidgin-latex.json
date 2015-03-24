@@ -1,0 +1,64 @@
+[
+  {
+    "pkg_repo": "Autoimports", 
+    "pkg_full_name": "pidgin-latex-1.5.0-alt1_5.x86_64.rpm", 
+    "pkg": "pidgin-latex", 
+    "pkg_version": "1.5.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pidgin-latex_1.5.0-1_i386.deb", 
+    "pkg": "pidgin-latex", 
+    "pkg_version": "1.5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pidgin-latex_1.5.0-1_i386.deb", 
+    "pkg": "pidgin-latex", 
+    "pkg_version": "1.5.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pidgin-latex_1.4.4-2_i386.deb", 
+    "pkg": "pidgin-latex", 
+    "pkg_version": "1.4.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "pidgin-latex-1.5.0-3.fc20.x86_64.rpm", 
+    "pkg": "pidgin-latex", 
+    "pkg_version": "1.5.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "pidgin-latex_1.5.0-1_i386.deb", 
+    "pkg": "pidgin-latex", 
+    "pkg_version": "1.5.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "pidgin-latex_1.5.0-1_i386.deb", 
+    "pkg": "pidgin-latex", 
+    "pkg_version": "1.5.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

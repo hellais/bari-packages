@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "stopmotion_0.8.0-4_i386.deb", 
+    "pkg": "stopmotion", 
+    "pkg_version": "0.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "stopmotion_0.7.2-1_i386.deb", 
+    "pkg": "stopmotion", 
+    "pkg_version": "0.7.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "stopmotion_0.6.2+git.1.10d2ea43-1.1_i386.deb", 
+    "pkg": "stopmotion", 
+    "pkg_version": "0.6.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "stopmotion-0.6.2-14.208.x86_64.rpm", 
+    "pkg": "stopmotion", 
+    "pkg_version": "0.6.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "stopmotion-0.6.2-14.2.x86_64.rpm", 
+    "pkg": "stopmotion", 
+    "pkg_version": "0.6.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "stopmotion-0.6.2-14.14.x86_64.rpm", 
+    "pkg": "stopmotion", 
+    "pkg_version": "0.6.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "stopmotion-0.7.2-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "stopmotion", 
+    "pkg_version": "0.7.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "stopmotion-0.7.2-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "stopmotion", 
+    "pkg_version": "0.7.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "stopmotion_0.7.2-1_i386.deb", 
+    "pkg": "stopmotion", 
+    "pkg_version": "0.7.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "stopmotion_0.7.2-1_i386.deb", 
+    "pkg": "stopmotion", 
+    "pkg_version": "0.7.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

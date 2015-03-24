@@ -1,0 +1,171 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "netstat-nat-1.4.9-alt1.qa1.x86_64.rpm", 
+    "pkg": "netstat-nat", 
+    "pkg_version": "1.4.9", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "netstat-nat-1.4.10-3-x86_64.pkg.tar.xz", 
+    "pkg": "netstat-nat", 
+    "pkg_version": "1.4.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "netstat-nat-1.4.10-1.el6.x86_64.rpm", 
+    "pkg": "netstat-nat", 
+    "pkg_version": "1.4.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "netstat-nat-1.4.10-1.el5.x86_64.rpm", 
+    "pkg": "netstat-nat", 
+    "pkg_version": "1.4.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "netstat-nat_1.4.10-3_i386.deb", 
+    "pkg": "netstat-nat", 
+    "pkg_version": "1.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "netstat-nat_1.4.10-3_i386.deb", 
+    "pkg": "netstat-nat", 
+    "pkg_version": "1.4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "netstat-nat_1.4.10-2_i386.deb", 
+    "pkg": "netstat-nat", 
+    "pkg_version": "1.4.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "netstat-nat-1.4.10-8.fc22.x86_64.rpm", 
+    "pkg": "netstat-nat", 
+    "pkg_version": "1.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "netstat-nat-1.4.10-8.fc22.x86_64.rpm", 
+    "pkg": "netstat-nat", 
+    "pkg_version": "1.4.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "netstat-nat-1.4.10-8.fc21.x86_64.rpm", 
+    "pkg": "netstat-nat", 
+    "pkg_version": "1.4.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "netstat-nat-1.4.10-6.fc20.x86_64.rpm", 
+    "pkg": "netstat-nat", 
+    "pkg_version": "1.4.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "netstat-nat-1.4.10-9-omv2015.0.x86_64.rpm", 
+    "pkg": "netstat-nat", 
+    "pkg_version": "1.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "netstat-nat-1.4.10-3-omv2014.0.x86_64.rpm", 
+    "pkg": "netstat-nat", 
+    "pkg_version": "1.4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "netstat-nat-1.4.10-2-omv2013.0.x86_64.rpm", 
+    "pkg": "netstat-nat", 
+    "pkg_version": "1.4.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "netstat-nat-1.4.10-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "netstat-nat", 
+    "pkg_version": "1.4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "netstat-nat-1.4.10-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "netstat-nat", 
+    "pkg_version": "1.4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Freestylers", 
+    "pkg_full_name": "netstat-nat-1.4.9-x86_64-1_fs.tgz", 
+    "pkg": "netstat-nat", 
+    "pkg_version": "1.4.9", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "netstat-nat_1.4.10-3_i386.deb", 
+    "pkg": "netstat-nat", 
+    "pkg_version": "1.4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "netstat-nat_1.4.10-2_i386.deb", 
+    "pkg": "netstat-nat", 
+    "pkg_version": "1.4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

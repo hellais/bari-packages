@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gccgo-4.8_4.8.4-1_i386.deb", 
+    "pkg": "gccgo", 
+    "pkg_version": "4.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gccgo-4.8_4.8.4-1_i386.deb", 
+    "pkg": "gccgo", 
+    "pkg_version": "4.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gccgo-4.8_4.8.3-12ubuntu3_i386.deb", 
+    "pkg": "gccgo", 
+    "pkg_version": "4.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libapache2-mod-intercept-form-submit_0.9.8-1_i386.deb", 
+    "pkg": "libapache2-mod-intercept-form-submit", 
+    "pkg_version": "0.9.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

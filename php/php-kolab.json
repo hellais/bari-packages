@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php-kolab_0.5.3-1_i386.deb", 
+    "pkg": "php-kolab", 
+    "pkg_version": "0.5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "php-kolab_0.5.3-1_i386.deb", 
+    "pkg": "php-kolab", 
+    "pkg_version": "0.5.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "php-kolab-0.5.2-4.fc23.x86_64.rpm", 
+    "pkg": "php-kolab", 
+    "pkg_version": "0.5.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "php-kolab-0.5.2-3.fc22.x86_64.rpm", 
+    "pkg": "php-kolab", 
+    "pkg_version": "0.5.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "php-kolab-0.5.2-2.fc21.x86_64.rpm", 
+    "pkg": "php-kolab", 
+    "pkg_version": "0.5.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "php-kolab-0.5.2-1.fc20.x86_64.rpm", 
+    "pkg": "php-kolab", 
+    "pkg_version": "0.5.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "php-kolab-0.4.2-7.mga4.x86_64.rpm", 
+    "pkg": "php-kolab", 
+    "pkg_version": "0.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "php-libkolab0-0.5.3-3.2.x86_64.rpm", 
+    "pkg": "php-libkolab0", 
+    "pkg_version": "0.5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "php-kolab-0.4.2-7.mga4.x86_64.rpm", 
+    "pkg": "php-kolab", 
+    "pkg_version": "0.4.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "php-libkolab0-0.5.3-1.3.x86_64.rpm", 
+    "pkg": "php-libkolab0", 
+    "pkg_version": "0.5.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-spyderlib_2.3.1+dfsg-1_all.deb", 
+    "pkg": "python3-spyderlib", 
+    "pkg_version": "2.3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-spyderlib_2.3.1+dfsg-1_all.deb", 
+    "pkg": "python3-spyderlib", 
+    "pkg_version": "2.3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python3-spyderlib-2.3.2-1.2.noarch.rpm", 
+    "pkg": "python3-spyderlib", 
+    "pkg_version": "2.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python3-spyderlib-2.3.1-2.1.noarch.rpm", 
+    "pkg": "python3-spyderlib", 
+    "pkg_version": "2.3.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }
+]

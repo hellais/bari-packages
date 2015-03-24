@@ -1,0 +1,225 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "subversion-1.7.8-alt2.1.x86_64.rpm", 
+    "pkg": "subversion", 
+    "pkg_version": "1.7.8", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "subversion-1.8.11-2-x86_64.pkg.tar.xz", 
+    "pkg": "subversion", 
+    "pkg_version": "1.8.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS Updates", 
+    "pkg_full_name": "subversion-1.7.14-7.el7_0.x86_64.rpm", 
+    "pkg": "subversion", 
+    "pkg_version": "1.7.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Ghettoforge Testing", 
+    "pkg_full_name": "subversion-1.8.10-1.gf.el6.x86_64.rpm", 
+    "pkg": "subversion", 
+    "pkg_version": "1.8.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Webtatic", 
+    "pkg_full_name": "subversion-1.6.13-0.1.el5.rf.x86_64.rpm", 
+    "pkg": "subversion", 
+    "pkg_version": "1.6.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "subversion_1.8.10-5_i386.deb", 
+    "pkg": "subversion", 
+    "pkg_version": "1.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "subversion_1.8.10-5_i386.deb", 
+    "pkg": "subversion", 
+    "pkg_version": "1.8.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "subversion_1.6.17dfsg-4+deb7u8_i386.deb", 
+    "pkg": "subversion", 
+    "pkg_version": "1.6.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "subversion-1.8.11-1.fc22.x86_64.rpm", 
+    "pkg": "subversion", 
+    "pkg_version": "1.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "subversion-1.8.11-1.fc22.x86_64.rpm", 
+    "pkg": "subversion", 
+    "pkg_version": "1.8.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "subversion-1.8.11-1.fc21.x86_64.rpm", 
+    "pkg": "subversion", 
+    "pkg_version": "1.8.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "subversion-1.8.11-1.fc20.x86_64.rpm", 
+    "pkg": "subversion", 
+    "pkg_version": "1.8.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "subversion-1.8.11-1-omv2015.0.x86_64.rpm", 
+    "pkg": "subversion", 
+    "pkg_version": "1.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "subversion-1.8.5-3-omv2014.0.x86_64.rpm", 
+    "pkg": "subversion", 
+    "pkg_version": "1.8.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "subversion-1.7.10-1-omv2013.0.x86_64.rpm", 
+    "pkg": "subversion", 
+    "pkg_version": "1.7.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "subversion-1.8.11-4.1.x86_64.rpm", 
+    "pkg": "subversion", 
+    "pkg_version": "1.8.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "subversion-1.8.11-2.7.1.x86_64.rpm", 
+    "pkg": "subversion", 
+    "pkg_version": "1.8.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "subversion-1.8.9-2.25.1.x86_64.rpm", 
+    "pkg": "subversion", 
+    "pkg_version": "1.8.9", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "subversion-1.8.9-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "subversion", 
+    "pkg_version": "1.8.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "subversion-1.8.5-4-rosa2012.1.x86_64.rpm", 
+    "pkg": "subversion", 
+    "pkg_version": "1.8.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackware Patches", 
+    "pkg_full_name": "subversion-1.7.16-x86_64-1_slack14.1.txz", 
+    "pkg": "subversion", 
+    "pkg_version": "1.7.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware Patches", 
+    "pkg_full_name": "subversion-1.7.16-x86_64-1_slack14.0.txz", 
+    "pkg": "subversion", 
+    "pkg_version": "1.7.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware Patches", 
+    "pkg_full_name": "subversion-1.6.21-x86_64-1_slack13.37.txz", 
+    "pkg": "subversion", 
+    "pkg_version": "1.6.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "subversion_1.8.10-1ubuntu2_i386.deb", 
+    "pkg": "subversion", 
+    "pkg_version": "1.8.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "subversion_1.8.8-1ubuntu3.1_i386.deb", 
+    "pkg": "subversion", 
+    "pkg_version": "1.8.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

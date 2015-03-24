@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "boinc-app-seti-graphics_7.28~svn2633-3_i386.deb", 
+    "pkg": "boinc-app-seti-graphics", 
+    "pkg_version": "7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "boinc-app-seti-graphics_7.28~svn2633-3_i386.deb", 
+    "pkg": "boinc-app-seti-graphics", 
+    "pkg_version": "7.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "boinc-app-seti-graphics_7.28~svn2408-1_i386.deb", 
+    "pkg": "boinc-app-seti-graphics", 
+    "pkg_version": "7.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

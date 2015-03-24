@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwebkit2gtk-3.0-25_2.4.8-1_i386.deb", 
+    "pkg": "libwebkit2gtk", 
+    "pkg_version": "3.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libwebkit2gtk-3.0-25_2.4.8-1_i386.deb", 
+    "pkg": "libwebkit2gtk", 
+    "pkg_version": "3.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "libwebkit2gtk-3.0-25_2.4.7-1~ubuntu14.10.1_i386.deb", 
+    "pkg": "libwebkit2gtk", 
+    "pkg_version": "3.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

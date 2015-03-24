@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "rhnsd-5.0.13-3.el7.x86_64.rpm", 
+    "pkg": "rhnsd", 
+    "pkg_version": "5.0.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rhnsd_5.0.4-3_i386.deb", 
+    "pkg": "rhnsd", 
+    "pkg_version": "5.0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "rhnsd_5.0.4-3_i386.deb", 
+    "pkg": "rhnsd", 
+    "pkg_version": "5.0.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rhnsd-5.0.14-3.fc22.x86_64.rpm", 
+    "pkg": "rhnsd", 
+    "pkg_version": "5.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rhnsd-5.0.14-3.fc22.x86_64.rpm", 
+    "pkg": "rhnsd", 
+    "pkg_version": "5.0.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rhnsd-5.0.14-3.fc21.x86_64.rpm", 
+    "pkg": "rhnsd", 
+    "pkg_version": "5.0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "rhnsd-5.0.13-2.fc20.x86_64.rpm", 
+    "pkg": "rhnsd", 
+    "pkg_version": "5.0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "rhnsd_5.0.4-1.1_i386.deb", 
+    "pkg": "rhnsd", 
+    "pkg_version": "5.0.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

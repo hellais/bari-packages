@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libiptcdata-doc_1.0.4-4_all.deb", 
+    "pkg": "libiptcdata-doc", 
+    "pkg_version": "1.0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libiptcdata-doc_1.0.4-4_all.deb", 
+    "pkg": "libiptcdata-doc", 
+    "pkg_version": "1.0.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libiptcdata-doc_1.0.4-3_all.deb", 
+    "pkg": "libiptcdata-doc", 
+    "pkg_version": "1.0.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libiptcdata-doc-1.0.4-25.1.x86_64.rpm", 
+    "pkg": "libiptcdata-doc", 
+    "pkg_version": "1.0.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libiptcdata-doc-1.0.4-24.1.2.x86_64.rpm", 
+    "pkg": "libiptcdata-doc", 
+    "pkg_version": "1.0.4", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libiptcdata-doc-1.0.4-22.1.2.i586.rpm", 
+    "pkg": "libiptcdata-doc", 
+    "pkg_version": "1.0.4", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libiptcdata-doc_1.0.4-4ubuntu1_all.deb", 
+    "pkg": "libiptcdata-doc", 
+    "pkg_version": "1.0.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libiptcdata-doc_1.0.4-3ubuntu3_all.deb", 
+    "pkg": "libiptcdata-doc", 
+    "pkg_version": "1.0.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

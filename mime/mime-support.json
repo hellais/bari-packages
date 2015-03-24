@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mime-support_3.58_all.deb", 
+    "pkg": "mime-support", 
+    "pkg_version": "3.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mime-support_3.58_all.deb", 
+    "pkg": "mime-support", 
+    "pkg_version": "3.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "mime-support_3.52-1+deb7u1_all.deb", 
+    "pkg": "mime-support", 
+    "pkg_version": "3.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "mime-support_3.55ubuntu1.1_all.deb", 
+    "pkg": "mime-support", 
+    "pkg_version": "3.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "mime-support_3.54ubuntu1.1_all.deb", 
+    "pkg": "mime-support", 
+    "pkg_version": "3.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liboctave-dev_3.8.2-4_i386.deb", 
+    "pkg": "liboctave-dev", 
+    "pkg_version": "3.8.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liboctave-dev_3.8.2-4_i386.deb", 
+    "pkg": "liboctave-dev", 
+    "pkg_version": "3.8.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liboctave-dev_3.6.2-5+deb7u1_i386.deb", 
+    "pkg": "liboctave-dev", 
+    "pkg_version": "3.6.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "liboctave-dev_3.8.1-1ubuntu1_i386.deb", 
+    "pkg": "liboctave-dev", 
+    "pkg_version": "3.8.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

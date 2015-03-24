@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ucto_0.5.3-3.1+b1_i386.deb", 
+    "pkg": "ucto", 
+    "pkg_version": "0.5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ucto_0.5.3-3.1+b1_i386.deb", 
+    "pkg": "ucto", 
+    "pkg_version": "0.5.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ucto_0.5.2-2_i386.deb", 
+    "pkg": "ucto", 
+    "pkg_version": "0.5.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ucto_0.5.3-3.1ubuntu1_i386.deb", 
+    "pkg": "ucto", 
+    "pkg_version": "0.5.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "ucto_0.5.3-3.1ubuntu1_i386.deb", 
+    "pkg": "ucto", 
+    "pkg_version": "0.5.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

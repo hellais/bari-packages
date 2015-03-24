@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ibacm-1.0.8-4.el7.x86_64.rpm", 
+    "pkg": "ibacm", 
+    "pkg_version": "1.0.8", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "ibacm-1.0.9-0.git49af5a8.el6.x86_64.rpm", 
+    "pkg": "ibacm", 
+    "pkg_version": "1.0.9", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ibacm_1.0.9-3_i386.deb", 
+    "pkg": "ibacm", 
+    "pkg_version": "1.0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ibacm_1.0.9-3_i386.deb", 
+    "pkg": "ibacm", 
+    "pkg_version": "1.0.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "ibacm-1.0.9-1.1.x86_64.rpm", 
+    "pkg": "ibacm", 
+    "pkg_version": "1.0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "matlab-support-dev_0.0.19~nd+1_all.deb", 
+    "pkg": "matlab-support-dev", 
+    "pkg_version": "0.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "matlab-support-dev_0.0.19~nd70+1_all.deb", 
+    "pkg": "matlab-support-dev", 
+    "pkg_version": "0.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "NeuroDebian Main", 
+    "pkg_full_name": "matlab-support-dev_0.0.19~nd70+1_all.deb", 
+    "pkg": "matlab-support-dev", 
+    "pkg_version": "0.0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "matlab-support-dev_0.0.19_all.deb", 
+    "pkg": "matlab-support-dev", 
+    "pkg_version": "0.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "matlab-support-dev_0.0.19_all.deb", 
+    "pkg": "matlab-support-dev", 
+    "pkg_version": "0.0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

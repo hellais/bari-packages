@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnuplot5-qt_5.0.0~rc+dfsg2-1_i386.deb", 
+    "pkg": "gnuplot5-qt", 
+    "pkg_version": "5.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnuplot5-nox_5.0.0~rc+dfsg2-1_i386.deb", 
+    "pkg": "gnuplot5-nox", 
+    "pkg_version": "5.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnuplot5-x11_5.0.0~rc+dfsg2-1_i386.deb", 
+    "pkg": "gnuplot5-x11", 
+    "pkg_version": "5.0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnuplot5-qt_5.0.0~rc+dfsg2-1_i386.deb", 
+    "pkg": "gnuplot5-qt", 
+    "pkg_version": "5.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnuplot5-nox_5.0.0~rc+dfsg2-1_i386.deb", 
+    "pkg": "gnuplot5-nox", 
+    "pkg_version": "5.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnuplot5-x11_5.0.0~rc+dfsg2-1_i386.deb", 
+    "pkg": "gnuplot5-x11", 
+    "pkg_version": "5.0.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

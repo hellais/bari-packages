@@ -1,0 +1,119 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgeocode-glib0_3.14.0-1_i386.deb", 
+    "pkg": "libgeocode-glib0", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgeocode-glib0_3.14.0-1_i386.deb", 
+    "pkg": "libgeocode-glib0", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgeocode-glib0_0.99.0-1_i386.deb", 
+    "pkg": "libgeocode-glib0", 
+    "pkg_version": "0.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libgeocode-glib0-3.14.0-2-omv2015.0.i586.rpm", 
+    "pkg": "libgeocode-glib0", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libgeocode-glib0-0.99.0-3-omv2014.0.i586.rpm", 
+    "pkg": "libgeocode-glib0", 
+    "pkg_version": "0.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libgeocode-glib0-0.99.0-2-omv2013.0.i586.rpm", 
+    "pkg": "libgeocode-glib0", 
+    "pkg_version": "0.9", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libgeocode-glib0-3.14.0-2.1.x86_64.rpm", 
+    "pkg": "libgeocode-glib0", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libgeocode-glib0-3.14.0-1.1.x86_64.rpm", 
+    "pkg": "libgeocode-glib0", 
+    "pkg_version": "3.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libgeocode-glib0-3.10.0-1.1.i586.rpm", 
+    "pkg": "libgeocode-glib0", 
+    "pkg_version": "3.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libgeocode-glib0-3.12.2-2-rosa2014.1.i586.rpm", 
+    "pkg": "libgeocode-glib0", 
+    "pkg_version": "3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "libgeocode-glib0-0.99.0-2-rosa2012.1.i586.rpm", 
+    "pkg": "libgeocode-glib0", 
+    "pkg_version": "0.9", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libgeocode-glib0_3.12.2-1_i386.deb", 
+    "pkg": "libgeocode-glib0", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libgeocode-glib0_3.10.0-1ubuntu1_i386.deb", 
+    "pkg": "libgeocode-glib0", 
+    "pkg_version": "3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

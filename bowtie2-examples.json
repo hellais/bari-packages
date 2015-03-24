@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bowtie2-examples_2.2.4-2_all.deb", 
+    "pkg": "bowtie2-examples", 
+    "pkg_version": "2.2.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bowtie2-examples_2.2.4-1_all.deb", 
+    "pkg": "bowtie2-examples", 
+    "pkg_version": "2.2.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "bowtie2-examples_2.0.0-beta6-3_all.deb", 
+    "pkg": "bowtie2-examples", 
+    "pkg_version": "2.0.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "bowtie2-examples_2.1.0-2_all.deb", 
+    "pkg": "bowtie2-examples", 
+    "pkg_version": "2.1.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

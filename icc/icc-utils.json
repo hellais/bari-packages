@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "icc-utils_1.6.3-4_all.deb", 
+    "pkg": "icc-utils", 
+    "pkg_version": "1.6.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "icc-utils_1.6.3-4_all.deb", 
+    "pkg": "icc-utils", 
+    "pkg_version": "1.6.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "icc-utils_1.4.0-8_i386.deb", 
+    "pkg": "icc-utils", 
+    "pkg_version": "1.4.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "icc-utils_1.5.1-8_i386.deb", 
+    "pkg": "icc-utils", 
+    "pkg_version": "1.5.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

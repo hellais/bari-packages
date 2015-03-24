@@ -1,0 +1,128 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-dpkt_1.6+svn54-1_all.deb", 
+    "pkg": "python-dpkt", 
+    "pkg_version": "1.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-dpkt_1.6+svn54-1_all.deb", 
+    "pkg": "python-dpkt", 
+    "pkg_version": "1.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-dpkt_1.6+svn54-1_all.deb", 
+    "pkg": "python-dpkt", 
+    "pkg_version": "1.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-dpkt-1.8-2.fc21.noarch.rpm", 
+    "pkg": "python-dpkt", 
+    "pkg_version": "1.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-dpkt-1.8-2.fc21.noarch.rpm", 
+    "pkg": "python-dpkt", 
+    "pkg_version": "1.8", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-dpkt-1.8-2.fc21.noarch.rpm", 
+    "pkg": "python-dpkt", 
+    "pkg_version": "1.8", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-dpkt-1.7-6.fc20.noarch.rpm", 
+    "pkg": "python-dpkt", 
+    "pkg_version": "1.7", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-dpkt-1.8-5.2.noarch.rpm", 
+    "pkg": "python-dpkt", 
+    "pkg_version": "1.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-dpkt-1.8-4.1.4.noarch.rpm", 
+    "pkg": "python-dpkt", 
+    "pkg_version": "1.8", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-dpkt-1.8-2.1.2.noarch.rpm", 
+    "pkg": "python-dpkt", 
+    "pkg_version": "1.8", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "python-dpkt-1.8-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "python-dpkt", 
+    "pkg_version": "1.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "python-dpkt-1.8-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "python-dpkt", 
+    "pkg_version": "1.8", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-dpkt_1.6+svn54-1_all.deb", 
+    "pkg": "python-dpkt", 
+    "pkg_version": "1.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "python-dpkt_1.6+svn54-1_all.deb", 
+    "pkg": "python-dpkt", 
+    "pkg_version": "1.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

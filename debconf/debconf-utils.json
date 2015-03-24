@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "debconf-utils-1.5.53-1.el7.nux.noarch.rpm", 
+    "pkg": "debconf-utils", 
+    "pkg_version": "1.5.5", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "debconf-utils_1.5.56_all.deb", 
+    "pkg": "debconf-utils", 
+    "pkg_version": "1.5.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "debconf-utils_1.5.55_all.deb", 
+    "pkg": "debconf-utils", 
+    "pkg_version": "1.5.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "debconf-utils_1.5.49_all.deb", 
+    "pkg": "debconf-utils", 
+    "pkg_version": "1.5.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "debconf-utils-1.5.53-2.fc22.noarch.rpm", 
+    "pkg": "debconf-utils", 
+    "pkg_version": "1.5.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "debconf-utils-1.5.53-2.fc22.noarch.rpm", 
+    "pkg": "debconf-utils", 
+    "pkg_version": "1.5.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "debconf-utils-1.5.53-1.fc21.noarch.rpm", 
+    "pkg": "debconf-utils", 
+    "pkg_version": "1.5.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "debconf-utils-1.5.52-1.fc20.noarch.rpm", 
+    "pkg": "debconf-utils", 
+    "pkg_version": "1.5.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "debconf-utils_1.5.53ubuntu1_all.deb", 
+    "pkg": "debconf-utils", 
+    "pkg_version": "1.5.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "debconf-utils_1.5.51ubuntu2_all.deb", 
+    "pkg": "debconf-utils", 
+    "pkg_version": "1.5.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

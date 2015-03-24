@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libnb-platform13-java_7.0.1+dfsg1-5_all.deb", 
+    "pkg": "libnb-platform13-java", 
+    "pkg_version": "7.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libnb-platform13-java_7.0.1+dfsg1-5_all.deb", 
+    "pkg": "libnb-platform13-java", 
+    "pkg_version": "7.0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libnb-platform13-java_7.0.1+dfsg1-5ubuntu2_all.deb", 
+    "pkg": "libnb-platform13-java", 
+    "pkg_version": "7.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libnb-platform13-java_7.0.1+dfsg1-5ubuntu2_all.deb", 
+    "pkg": "libnb-platform13-java", 
+    "pkg_version": "7.0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnome-getting-started-docs-3.14.1-alt1.noarch.rpm", 
+    "pkg": "gnome-getting-started-docs", 
+    "pkg_version": "3.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "gnome-getting-started-docs-3.14.1-1-any.pkg.tar.xz", 
+    "pkg": "gnome-getting-started-docs", 
+    "pkg_version": "3.1", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "gnome-getting-started-docs-3.8.3.0.2-3.el7.noarch.rpm", 
+    "pkg": "gnome-getting-started-docs", 
+    "pkg_version": "3.8.3.0.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-getting-started-docs_3.14.1-1_all.deb", 
+    "pkg": "gnome-getting-started-docs", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gnome-getting-started-docs_3.14.1-1_all.deb", 
+    "pkg": "gnome-getting-started-docs", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnome-getting-started-docs-3.14.1-1.fc22.noarch.rpm", 
+    "pkg": "gnome-getting-started-docs", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnome-getting-started-docs-3.14.1-1.fc22.noarch.rpm", 
+    "pkg": "gnome-getting-started-docs", 
+    "pkg_version": "3.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnome-getting-started-docs-3.14.1-1.fc21.noarch.rpm", 
+    "pkg": "gnome-getting-started-docs", 
+    "pkg_version": "3.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "gnome-getting-started-docs-3.10.2-1.fc20.noarch.rpm", 
+    "pkg": "gnome-getting-started-docs", 
+    "pkg_version": "3.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "gnome-getting-started-docs-3.14.1-1.1.noarch.rpm", 
+    "pkg": "gnome-getting-started-docs", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "gnome-getting-started-docs-3.12.1-1-rosa2014.1.noarch.rpm", 
+    "pkg": "gnome-getting-started-docs", 
+    "pkg_version": "3.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "gnome-getting-started-docs-3.8.2-1-rosa2012.1.noarch.rpm", 
+    "pkg": "gnome-getting-started-docs", 
+    "pkg_version": "3.8.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

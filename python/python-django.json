@@ -1,0 +1,352 @@
+[
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "python-django-1.7.7-1-any.pkg.tar.xz", 
+    "pkg": "python-django", 
+    "pkg_version": "1.7.7", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "python-django-1.6.10-1.sdl7.noarch.rpm", 
+    "pkg": "python-django", 
+    "pkg_version": "1.6.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "python-django-1.3.1-1.el6.rf.noarch.rpm", 
+    "pkg": "python-django", 
+    "pkg_version": "1.3.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "python-django-1.3.1-1.el5.rf.noarch.rpm", 
+    "pkg": "python-django", 
+    "pkg_version": "1.3.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-django_1.7.7-1_all.deb", 
+    "pkg": "python-django", 
+    "pkg_version": "1.7.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-django_1.7.6-1_all.deb", 
+    "pkg": "python-django", 
+    "pkg_version": "1.7.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "python-django_1.4.5-1+deb7u9_all.deb", 
+    "pkg": "python-django", 
+    "pkg_version": "1.4.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-django-1.8-0.7.c1.fc23.noarch.rpm", 
+    "pkg": "python-django", 
+    "pkg_version": "1.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python-django-1.7.3-2.fc22.noarch.rpm", 
+    "pkg": "python-django", 
+    "pkg_version": "1.7.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python-django-1.6.10-1.fc21.noarch.rpm", 
+    "pkg": "python-django", 
+    "pkg_version": "1.6.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python-django14-1.4.18-1.fc20.noarch.rpm", 
+    "pkg": "python-django14", 
+    "pkg_version": "1.4.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python-django-1.6.10-1.fc20.noarch.rpm", 
+    "pkg": "python-django", 
+    "pkg_version": "1.6.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Mageia Core Updates", 
+    "pkg_full_name": "python-django14-1.4.18-1.1.mga4.noarch.rpm", 
+    "pkg": "python-django14", 
+    "pkg_version": "1.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-django-1.7.1-2-omv2015.0.noarch.rpm", 
+    "pkg": "python-django", 
+    "pkg_version": "1.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core Updates", 
+    "pkg_full_name": "python-django14-1.4.18-1.1.mga4.noarch.rpm", 
+    "pkg": "python-django14", 
+    "pkg_version": "1.4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "python-django-1.7-1-omv2014.0.noarch.rpm", 
+    "pkg": "python-django", 
+    "pkg_version": "1.7", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core Updates", 
+    "pkg_full_name": "python-django14-1.4.18-1.1.mga4.noarch.rpm", 
+    "pkg": "python-django14", 
+    "pkg_version": "1.4.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-django-1.4.2-2-omv2013.0.noarch.rpm", 
+    "pkg": "python-django", 
+    "pkg_version": "1.4.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-Django-1.7.6-1.1.noarch.rpm", 
+    "pkg": "python-Django", 
+    "pkg_version": "1.7.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mageia Core Updates", 
+    "pkg_full_name": "python-django14-1.4.18-1.1.mga4.noarch.rpm", 
+    "pkg": "python-django14", 
+    "pkg_version": "1.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-django-1.4.2-2-omv2013.0.noarch.rpm", 
+    "pkg": "python-django", 
+    "pkg_version": "1.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-Django-1.6.5-3.2.1.noarch.rpm", 
+    "pkg": "python-Django", 
+    "pkg_version": "1.6.5", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mageia Core Updates", 
+    "pkg_full_name": "python-django14-1.4.18-1.1.mga4.noarch.rpm", 
+    "pkg": "python-django14", 
+    "pkg_version": "1.4.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "python-django-1.4.2-2-omv2013.0.noarch.rpm", 
+    "pkg": "python-django", 
+    "pkg_version": "1.4.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-Django-1.6.5-3.2.1.noarch.rpm", 
+    "pkg": "python-Django", 
+    "pkg_version": "1.6.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mageia Core Updates", 
+    "pkg_full_name": "python-django14-1.4.18-1.1.mga4.noarch.rpm", 
+    "pkg": "python-django14", 
+    "pkg_version": "1.4.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "python-django-1.5.5-2.4.1.noarch.rpm", 
+    "pkg": "python-django", 
+    "pkg_version": "1.5.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-Django-1.6.5-3.2.1.noarch.rpm", 
+    "pkg": "python-Django", 
+    "pkg_version": "1.6.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Mageia Core Updates", 
+    "pkg_full_name": "python-django14-1.4.18-1.1.mga4.noarch.rpm", 
+    "pkg": "python-django14", 
+    "pkg_version": "1.4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "python-django-1.7-1-rosa2014.1.noarch.rpm", 
+    "pkg": "python-django", 
+    "pkg_version": "1.7", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-Django-1.6.5-3.2.1.noarch.rpm", 
+    "pkg": "python-Django", 
+    "pkg_version": "1.6.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Mageia Core Updates", 
+    "pkg_full_name": "python-django14-1.4.18-1.1.mga4.noarch.rpm", 
+    "pkg": "python-django14", 
+    "pkg_version": "1.4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "python-django-1.4.2-1-rosa2012.1.noarch.rpm", 
+    "pkg": "python-django", 
+    "pkg_version": "1.4.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-Django-1.6.5-3.2.1.noarch.rpm", 
+    "pkg": "python-Django", 
+    "pkg_version": "1.6.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Mageia Core Updates", 
+    "pkg_full_name": "python-django14-1.4.18-1.1.mga4.noarch.rpm", 
+    "pkg": "python-django14", 
+    "pkg_version": "1.4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "python-django_1.6.6-1ubuntu2.2_all.deb", 
+    "pkg": "python-django", 
+    "pkg_version": "1.6.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-Django-1.6.5-3.2.1.noarch.rpm", 
+    "pkg": "python-Django", 
+    "pkg_version": "1.6.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Mageia Core Updates", 
+    "pkg_full_name": "python-django14-1.4.18-1.1.mga4.noarch.rpm", 
+    "pkg": "python-django14", 
+    "pkg_version": "1.4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "python-django_1.6.1-2ubuntu0.8_all.deb", 
+    "pkg": "python-django", 
+    "pkg_version": "1.6.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

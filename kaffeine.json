@@ -1,0 +1,297 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kaffeine-0.8.8-alt9.2.x86_64.rpm", 
+    "pkg": "kaffeine", 
+    "pkg_version": "0.8.8", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "kaffeine-1.2.2-4-x86_64.pkg.tar.xz", 
+    "pkg": "kaffeine", 
+    "pkg_version": "1.2.2", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "kaffeine-1.1-1.el6.rf.x86_64.rpm", 
+    "pkg": "kaffeine", 
+    "pkg_version": "1.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "kaffeine-0.8.7-1.el5.rf.x86_64.rpm", 
+    "pkg": "kaffeine", 
+    "pkg_version": "0.8.7", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kaffeine_1.2.2-3+b1_i386.deb", 
+    "pkg": "kaffeine", 
+    "pkg_version": "1.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kaffeine_1.2.2-3+b1_i386.deb", 
+    "pkg": "kaffeine", 
+    "pkg_version": "1.2.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "kaffeine_1.2.2-2_i386.deb", 
+    "pkg": "kaffeine", 
+    "pkg_version": "1.2.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "kaffeine-1.2.2-8.fc21.x86_64.rpm", 
+    "pkg": "kaffeine", 
+    "pkg_version": "1.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "kaffeine-1.2.2-8.fc21.x86_64.rpm", 
+    "pkg": "kaffeine", 
+    "pkg_version": "1.2.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "kaffeine-1.2.2-7.fc20.x86_64.rpm", 
+    "pkg": "kaffeine", 
+    "pkg_version": "1.2.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "kaffeine-1.2.2-2-omv2013.0.x86_64.rpm", 
+    "pkg": "kaffeine", 
+    "pkg_version": "1.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "kaffeine-1.2.2-2-omv2013.0.x86_64.rpm", 
+    "pkg": "kaffeine", 
+    "pkg_version": "1.2.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "kaffeine-1.2.2-2-omv2013.0.x86_64.rpm", 
+    "pkg": "kaffeine", 
+    "pkg_version": "1.2.2", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "kde3-kaffeine-0.8.8-56.426.x86_64.rpm", 
+    "pkg": "kde3-kaffeine", 
+    "pkg_version": "0.8.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kaffeine-1.2.2-29.2.x86_64.rpm", 
+    "pkg": "kaffeine", 
+    "pkg_version": "1.2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "kde3-kaffeine-0.8.8-56.426.x86_64.rpm", 
+    "pkg": "kde3-kaffeine", 
+    "pkg_version": "0.8.8", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kaffeine-1.2.2-27.1.4.x86_64.rpm", 
+    "pkg": "kaffeine", 
+    "pkg_version": "1.2.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "kde3-kaffeine-0.8.8-56.172.x86_64.rpm", 
+    "pkg": "kde3-kaffeine", 
+    "pkg_version": "0.8.8", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "kaffeine-1.2.2-25.1.2.i586.rpm", 
+    "pkg": "kaffeine", 
+    "pkg_version": "1.2.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "kde3-kaffeine-0.8.8-56.172.x86_64.rpm", 
+    "pkg": "kde3-kaffeine", 
+    "pkg_version": "0.8.8", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "kaffeine-1.2.2-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "kaffeine", 
+    "pkg_version": "1.2.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "kde3-kaffeine-0.8.8-56.172.x86_64.rpm", 
+    "pkg": "kde3-kaffeine", 
+    "pkg_version": "0.8.8", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "kaffeine-1.2.2-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "kaffeine", 
+    "pkg_version": "1.2.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "kde3-kaffeine-0.8.8-56.172.x86_64.rpm", 
+    "pkg": "kde3-kaffeine", 
+    "pkg_version": "0.8.8", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "kaffeine-1.2.2-x86_64-1sl.txz", 
+    "pkg": "kaffeine", 
+    "pkg_version": "1.2.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "kde3-kaffeine-0.8.8-56.172.x86_64.rpm", 
+    "pkg": "kde3-kaffeine", 
+    "pkg_version": "0.8.8", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "kaffeine-1.2.2-x86_64-1sl.txz", 
+    "pkg": "kaffeine", 
+    "pkg_version": "1.2.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "kde3-kaffeine-0.8.8-56.172.x86_64.rpm", 
+    "pkg": "kde3-kaffeine", 
+    "pkg_version": "0.8.8", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "kaffeine-1.2-x86_64-1sl.txz", 
+    "pkg": "kaffeine", 
+    "pkg_version": "1.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "kde3-kaffeine-0.8.8-56.172.x86_64.rpm", 
+    "pkg": "kde3-kaffeine", 
+    "pkg_version": "0.8.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "kaffeine_1.2.2-3_i386.deb", 
+    "pkg": "kaffeine", 
+    "pkg_version": "1.2.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "kde3-kaffeine-0.8.8-56.172.x86_64.rpm", 
+    "pkg": "kde3-kaffeine", 
+    "pkg_version": "0.8.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "kaffeine_1.2.2-2_i386.deb", 
+    "pkg": "kaffeine", 
+    "pkg_version": "1.2.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "phpunit-selenium_1.3.3-1_all.deb", 
+    "pkg": "phpunit-selenium", 
+    "pkg_version": "1.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "phpunit-selenium_1.3.3-1_all.deb", 
+    "pkg": "phpunit-selenium", 
+    "pkg_version": "1.3.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "phpunit-selenium_1.2.6-3_all.deb", 
+    "pkg": "phpunit-selenium", 
+    "pkg_version": "1.2.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "phpunit-selenium_1.3.3-1_all.deb", 
+    "pkg": "phpunit-selenium", 
+    "pkg_version": "1.3.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

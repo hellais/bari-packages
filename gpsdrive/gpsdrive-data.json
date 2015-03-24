@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "gpsdrive-data_2.10~pre4-6.dfsg-5.2_all.deb", 
+    "pkg": "gpsdrive-data", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gpsdrive-data_2.10~pre4-6.dfsg-5.2ubuntu1_all.deb", 
+    "pkg": "gpsdrive-data", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "gpsdrive-data_2.10~pre4-6.dfsg-5.2ubuntu1_all.deb", 
+    "pkg": "gpsdrive-data", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

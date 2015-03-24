@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "kdenlive-data_0.9.10-dmo2_all.deb", 
+    "pkg": "kdenlive-data", 
+    "pkg_version": "0.9.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "kdenlive-data_0.9.10-dmo2_all.deb", 
+    "pkg": "kdenlive-data", 
+    "pkg_version": "0.9.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "kdenlive-data_0.9.6-dmo1_all.deb", 
+    "pkg": "kdenlive-data", 
+    "pkg_version": "0.9.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "kdenlive-data_0.9.8-1ubuntu2_all.deb", 
+    "pkg": "kdenlive-data", 
+    "pkg_version": "0.9.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "kdenlive-data_0.9.6-5ubuntu1_all.deb", 
+    "pkg": "kdenlive-data", 
+    "pkg_version": "0.9.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

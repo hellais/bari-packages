@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libphp5-embed_5.6.6+dfsg-2_i386.deb", 
+    "pkg": "libphp5-embed", 
+    "pkg_version": "5.6.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libphp5-embed_5.6.6+dfsg-2_i386.deb", 
+    "pkg": "libphp5-embed", 
+    "pkg_version": "5.6.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Dotdeb", 
+    "pkg_full_name": "libphp5-embed_5.4.39-1~dotdeb.1_i386.deb", 
+    "pkg": "libphp5-embed", 
+    "pkg_version": "5.4.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Universe", 
+    "pkg_full_name": "libphp5-embed_5.5.12+dfsg-2ubuntu4.3_i386.deb", 
+    "pkg": "libphp5-embed", 
+    "pkg_version": "5.5.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

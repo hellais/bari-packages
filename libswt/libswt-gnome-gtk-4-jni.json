@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libswt-gnome-gtk-4-jni_4.3.2-1_i386.deb", 
+    "pkg": "libswt-gnome-gtk-4-jni", 
+    "pkg_version": "4.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

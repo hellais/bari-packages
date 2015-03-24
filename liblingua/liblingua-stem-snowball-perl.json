@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liblingua-stem-snowball-perl_0.952-2+b4_i386.deb", 
+    "pkg": "liblingua-stem-snowball-perl", 
+    "pkg_version": "0.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liblingua-stem-snowball-perl_0.952-2+b4_i386.deb", 
+    "pkg": "liblingua-stem-snowball-perl", 
+    "pkg_version": "0.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "liblingua-stem-snowball-perl_0.952-2+b2_i386.deb", 
+    "pkg": "liblingua-stem-snowball-perl", 
+    "pkg_version": "0.9", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "liblingua-stem-snowball-perl_0.952-2build4_i386.deb", 
+    "pkg": "liblingua-stem-snowball-perl", 
+    "pkg_version": "0.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "liblingua-stem-snowball-perl_0.952-2build3_i386.deb", 
+    "pkg": "liblingua-stem-snowball-perl", 
+    "pkg_version": "0.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

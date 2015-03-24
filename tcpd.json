@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tcpd_7.6.q-25_i386.deb", 
+    "pkg": "tcpd", 
+    "pkg_version": "7.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tcpd_7.6.q-25_i386.deb", 
+    "pkg": "tcpd", 
+    "pkg_version": "7.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tcpd_7.6.q-24_i386.deb", 
+    "pkg": "tcpd", 
+    "pkg_version": "7.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "tcpd-7.6-886.2.x86_64.rpm", 
+    "pkg": "tcpd", 
+    "pkg_version": "7.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "tcpd-7.6-884.1.2.x86_64.rpm", 
+    "pkg": "tcpd", 
+    "pkg_version": "7.6", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "tcpd-7.6-881.1.2.i586.rpm", 
+    "pkg": "tcpd", 
+    "pkg_version": "7.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "tcpd_7.6.q-25_i386.deb", 
+    "pkg": "tcpd", 
+    "pkg_version": "7.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "tcpd_7.6.q-25_i386.deb", 
+    "pkg": "tcpd", 
+    "pkg_version": "7.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

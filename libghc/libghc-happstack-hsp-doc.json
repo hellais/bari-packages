@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-happstack-hsp-doc_7.3.2-1_all.deb", 
+    "pkg": "libghc-happstack-hsp-doc", 
+    "pkg_version": "7.3.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libghc-happstack-hsp-doc_7.3.2-1_all.deb", 
+    "pkg": "libghc-happstack-hsp-doc", 
+    "pkg_version": "7.3.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libghc-happstack-hsp-doc_7.2.2-1build7_all.deb", 
+    "pkg": "libghc-happstack-hsp-doc", 
+    "pkg_version": "7.2.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

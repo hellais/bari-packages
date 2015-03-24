@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "system-config-cluster-1.0.57-17.noarch.rpm", 
+    "pkg": "system-config-cluster", 
+    "pkg_version": "1.0.5", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "system-config-cluster_1.0.57-1_all.deb", 
+    "pkg": "system-config-cluster", 
+    "pkg_version": "1.0.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "system-config-cluster_1.0.57-1_all.deb", 
+    "pkg": "system-config-cluster", 
+    "pkg_version": "1.0.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "system-config-cluster_1.0.53-1_all.deb", 
+    "pkg": "system-config-cluster", 
+    "pkg_version": "1.0.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "system-config-cluster-1.0.53-4-rosa2014.1.noarch.rpm", 
+    "pkg": "system-config-cluster", 
+    "pkg_version": "1.0.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "system-config-cluster-1.0.53-3-rosa2012.1.noarch.rpm", 
+    "pkg": "system-config-cluster", 
+    "pkg_version": "1.0.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "golang-mreiferson-httpclient-dev_0.0~git20140425-2_all.deb", 
+    "pkg": "golang-mreiferson-httpclient-dev", 
+    "pkg_version": "0.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

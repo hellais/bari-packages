@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libfontconfig1_2.11.0-6.3_i386.deb", 
+    "pkg": "libfontconfig1", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libfontconfig1_2.11.0-6.3_i386.deb", 
+    "pkg": "libfontconfig1", 
+    "pkg_version": "2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libfontconfig1_2.9.0-7.1_i386.deb", 
+    "pkg": "libfontconfig1", 
+    "pkg_version": "2.9.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "libfontconfig1-2.11.1-6-omv2015.0.i586.rpm", 
+    "pkg": "libfontconfig1", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "libfontconfig1-2.11.1-5-omv2014.0.i586.rpm", 
+    "pkg": "libfontconfig1", 
+    "pkg_version": "2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main Updates", 
+    "pkg_full_name": "libfontconfig1-2.10.93-2-omv2013.0.i586.rpm", 
+    "pkg": "libfontconfig1", 
+    "pkg_version": "2.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Restricted", 
+    "pkg_full_name": "libfontconfig1-2.11.1-1plf-plf2014.1.i586.rpm", 
+    "pkg": "libfontconfig1", 
+    "pkg_version": "2.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Restricted Updates", 
+    "pkg_full_name": "libfontconfig1-2.10.93-2plf-plf2012.1.i586.rpm", 
+    "pkg": "libfontconfig1", 
+    "pkg_version": "2.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libfontconfig1_2.11.1-0ubuntu3_i386.deb", 
+    "pkg": "libfontconfig1", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "libfontconfig1_2.11.0-0ubuntu4.1_i386.deb", 
+    "pkg": "libfontconfig1", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

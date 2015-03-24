@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libcarrotsearch-randomizedtesting-java_2.1.6+dfsg-1_all.deb", 
+    "pkg": "libcarrotsearch-randomizedtesting-java", 
+    "pkg_version": "2.1.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

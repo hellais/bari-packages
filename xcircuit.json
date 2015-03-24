@@ -1,0 +1,127 @@
+[
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "xcircuit-3.8.78-1-x86_64.pkg.tar.xz", 
+    "pkg": "xcircuit", 
+    "pkg_version": "3.8.7", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "xcircuit-3.3.1-2.2.el6.rf.x86_64.rpm", 
+    "pkg": "xcircuit", 
+    "pkg_version": "3.3.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "xcircuit-3.3.1-2.2.el5.rf.x86_64.rpm", 
+    "pkg": "xcircuit", 
+    "pkg_version": "3.3.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xcircuit_3.7.57.dfsg-1_i386.deb", 
+    "pkg": "xcircuit", 
+    "pkg_version": "3.7.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xcircuit_3.7.57.dfsg-1_i386.deb", 
+    "pkg": "xcircuit", 
+    "pkg_version": "3.7.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xcircuit_3.7.40.dfsg-1_i386.deb", 
+    "pkg": "xcircuit", 
+    "pkg_version": "3.7.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xcircuit-3.7.44-11.fc22.x86_64.rpm", 
+    "pkg": "xcircuit", 
+    "pkg_version": "3.7.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xcircuit-3.7.44-11.fc22.x86_64.rpm", 
+    "pkg": "xcircuit", 
+    "pkg_version": "3.7.4", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xcircuit-3.7.44-11.fc21.x86_64.rpm", 
+    "pkg": "xcircuit", 
+    "pkg_version": "3.7.4", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "xcircuit-3.7.44-8.fc20.x86_64.rpm", 
+    "pkg": "xcircuit", 
+    "pkg_version": "3.7.4", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xcircuit_3.7.57.dfsg-1_i386.deb", 
+    "pkg": "xcircuit", 
+    "pkg_version": "3.7.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "xcircuit-tcl-3.4.30-6-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "xcircuit-tcl", 
+    "pkg_version": "3.4.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xcircuit_3.7.55.dfsg-1ubuntu1_i386.deb", 
+    "pkg": "xcircuit", 
+    "pkg_version": "3.7.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "xcircuit-tcl-3.4.30-6-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "xcircuit-tcl", 
+    "pkg_version": "3.4.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

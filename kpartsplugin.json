@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kpartsplugin-0.0.1-0.12.20120723.fc22.x86_64.rpm", 
+    "pkg": "kpartsplugin", 
+    "pkg_version": "0.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kpartsplugin-0.0.1-0.12.20120723.fc22.x86_64.rpm", 
+    "pkg": "kpartsplugin", 
+    "pkg_version": "0.0.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kpartsplugin-0.0.1-0.12.20120723.fc21.x86_64.rpm", 
+    "pkg": "kpartsplugin", 
+    "pkg_version": "0.0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "kpartsplugin-0.0.1-0.10.20120723.fc20.x86_64.rpm", 
+    "pkg": "kpartsplugin", 
+    "pkg_version": "0.0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "kpartsplugin-0.0.1-1.10.x86_64.rpm", 
+    "pkg": "kpartsplugin", 
+    "pkg_version": "0.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "kpartsplugin-0.0.1-1.2.x86_64.rpm", 
+    "pkg": "kpartsplugin", 
+    "pkg_version": "0.0.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "kpartsplugin-0.0.1-1.2.x86_64.rpm", 
+    "pkg": "kpartsplugin", 
+    "pkg_version": "0.0.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "kpartsplugin-0.0.1-1.2.x86_64.rpm", 
+    "pkg": "kpartsplugin", 
+    "pkg_version": "0.0.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "kpartsplugin-0.0.1-1.2.x86_64.rpm", 
+    "pkg": "kpartsplugin", 
+    "pkg_version": "0.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "kpartsplugin-0.0.1-1.2.x86_64.rpm", 
+    "pkg": "kpartsplugin", 
+    "pkg_version": "0.0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

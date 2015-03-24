@@ -1,0 +1,62 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "profanity-0.4.5-alt1.x86_64.rpm", 
+    "pkg": "profanity", 
+    "pkg_version": "0.4.5", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "profanity-0.4.5-alt1.x86_64.rpm", 
+    "pkg": "profanity", 
+    "pkg_version": "0.4.5", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "profanity-1:0.4.6-1-x86_64.pkg.tar.xz", 
+    "pkg": "profanity-1:", 
+    "pkg_version": "0.4.6", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "profanity_0.4.6-1_i386.deb", 
+    "pkg": "profanity", 
+    "pkg_version": "0.4.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "profanity-1:0.4.6-1-x86_64.pkg.tar.xz", 
+    "pkg": "profanity-1:", 
+    "pkg_version": "0.4.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "profanity_0.4.4-2_i386.deb", 
+    "pkg": "profanity", 
+    "pkg_version": "0.4.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "profanity-1:0.4.6-1-x86_64.pkg.tar.xz", 
+    "pkg": "profanity-1:", 
+    "pkg_version": "0.4.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

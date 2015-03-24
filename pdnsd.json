@@ -1,0 +1,153 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "pdnsd-1.2.7-alt1.qa1.x86_64.rpm", 
+    "pkg": "pdnsd", 
+    "pkg_version": "1.2.7", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "pdnsd-1.2.9.a-8-x86_64.pkg.tar.xz", 
+    "pkg": "pdnsd", 
+    "pkg_version": "1.2.9", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Nux Misc", 
+    "pkg_full_name": "pdnsd-1.2.9a-par.x86_64.rpm", 
+    "pkg": "pdnsd", 
+    "pkg_version": "1.2.9", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pdnsd_1.2.9a-par-2_i386.deb", 
+    "pkg": "pdnsd", 
+    "pkg_version": "1.2.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pdnsd_1.2.9a-par-2_i386.deb", 
+    "pkg": "pdnsd", 
+    "pkg_version": "1.2.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pdnsd_1.2.8-par-3_i386.deb", 
+    "pkg": "pdnsd", 
+    "pkg_version": "1.2.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "pdnsd-1.2.9.par-1-omv2013.0.x86_64.rpm", 
+    "pkg": "pdnsd", 
+    "pkg_version": "1.2.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "pdnsd-1.2.9.par-1-omv2013.0.x86_64.rpm", 
+    "pkg": "pdnsd", 
+    "pkg_version": "1.2.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "pdnsd-1.2.9.par-1-omv2013.0.x86_64.rpm", 
+    "pkg": "pdnsd", 
+    "pkg_version": "1.2.9", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pdnsd-1.2.9a-6.2.x86_64.rpm", 
+    "pkg": "pdnsd", 
+    "pkg_version": "1.2.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pdnsd-1.2.9a-5.1.2.x86_64.rpm", 
+    "pkg": "pdnsd", 
+    "pkg_version": "1.2.9", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "pdnsd-1.2.9a-2.1.2.i586.rpm", 
+    "pkg": "pdnsd", 
+    "pkg_version": "1.2.9", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "pdnsd-1.2.9.par-3-rosa2014.1.x86_64.rpm", 
+    "pkg": "pdnsd", 
+    "pkg_version": "1.2.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "pdnsd-1.2.9.par-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "pdnsd", 
+    "pkg_version": "1.2.9", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Freestylers", 
+    "pkg_full_name": "pdnsd-1.2.7-x86_64-3_fs.tgz", 
+    "pkg": "pdnsd", 
+    "pkg_version": "1.2.7", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "pdnsd_1.2.9a-par-2_i386.deb", 
+    "pkg": "pdnsd", 
+    "pkg_version": "1.2.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "pdnsd_1.2.9a-par-2_i386.deb", 
+    "pkg": "pdnsd", 
+    "pkg_version": "1.2.9", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

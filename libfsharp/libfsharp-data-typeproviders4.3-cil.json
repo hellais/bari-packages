@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libfsharp-data-typeproviders4.3-cil_3.1.1.26+dfsg2-3_all.deb", 
+    "pkg": "libfsharp-data-typeproviders", 
+    "pkg_version": "4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libfsharp-data-typeproviders4.3-cil_3.1.1.26+dfsg2-3_all.deb", 
+    "pkg": "libfsharp-data-typeproviders", 
+    "pkg_version": "4.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "libfsharp-data-typeproviders4.3-cil_3.0.34+dfsg-5_all.deb", 
+    "pkg": "libfsharp-data-typeproviders", 
+    "pkg_version": "4.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

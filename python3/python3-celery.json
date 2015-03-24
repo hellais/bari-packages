@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-celery_3.1.13-3_all.deb", 
+    "pkg": "python3-celery", 
+    "pkg_version": "3.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python3-celery_3.1.13-3_all.deb", 
+    "pkg": "python3-celery", 
+    "pkg_version": "3.1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-celery-3.1.9-3.fc21.noarch.rpm", 
+    "pkg": "python3-celery", 
+    "pkg_version": "3.1.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-celery-3.1.9-3.fc21.noarch.rpm", 
+    "pkg": "python3-celery", 
+    "pkg_version": "3.1.9", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "python3-celery-3.1.9-3.fc21.noarch.rpm", 
+    "pkg": "python3-celery", 
+    "pkg_version": "3.1.9", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "python3-celery-3.0.19-6.fc20.noarch.rpm", 
+    "pkg": "python3-celery", 
+    "pkg_version": "3.0.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "python3-celery-3.1.9-4-rosa2014.1.noarch.rpm", 
+    "pkg": "python3-celery", 
+    "pkg_version": "3.1.9", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "python3-celery-3.1.9-1-rosa2012.1.noarch.rpm", 
+    "pkg": "python3-celery", 
+    "pkg_version": "3.1.9", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }
+]

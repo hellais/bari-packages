@@ -1,0 +1,486 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "cups-filters-1.0.67-alt1.x86_64.rpm", 
+    "pkg": "cups-filters", 
+    "pkg_version": "1.0.6", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "cups-filters-1.0.67-1-x86_64.pkg.tar.xz", 
+    "pkg": "cups-filters", 
+    "pkg_version": "1.0.6", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "foomatic-filters-4.0.9-6.el7.x86_64.rpm", 
+    "pkg": "foomatic-filters", 
+    "pkg_version": "4.0.9", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "cups-filters-1.0.67-1-x86_64.pkg.tar.xz", 
+    "pkg": "cups-filters", 
+    "pkg_version": "1.0.6", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "foomatic-filters_4.0.17-6_i386.deb", 
+    "pkg": "foomatic-filters", 
+    "pkg_version": "4.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cups-filters_1.0.61-5_i386.deb", 
+    "pkg": "cups-filters", 
+    "pkg_version": "1.0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "foomatic-filters_4.0.17-5_i386.deb", 
+    "pkg": "foomatic-filters", 
+    "pkg_version": "4.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cups-filters_1.0.61-5_i386.deb", 
+    "pkg": "cups-filters", 
+    "pkg_version": "1.0.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "foomatic-filters_4.0.17-1_i386.deb", 
+    "pkg": "foomatic-filters", 
+    "pkg_version": "4.0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cups-filters_1.0.61-5_i386.deb", 
+    "pkg": "cups-filters", 
+    "pkg_version": "1.0.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "foomatic-filters_4.0.17-1_i386.deb", 
+    "pkg": "foomatic-filters", 
+    "pkg_version": "4.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "cups-filters-1.0.67-1.fc23.x86_64.rpm", 
+    "pkg": "cups-filters", 
+    "pkg_version": "1.0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "foomatic-filters_4.0.17-1_i386.deb", 
+    "pkg": "foomatic-filters", 
+    "pkg_version": "4.0.1", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "cups-filters-1.0.65-1.fc22.x86_64.rpm", 
+    "pkg": "cups-filters", 
+    "pkg_version": "1.0.6", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "foomatic-filters_4.0.17-1_i386.deb", 
+    "pkg": "foomatic-filters", 
+    "pkg_version": "4.0.1", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "cups-filters-1.0.66-1.fc21.x86_64.rpm", 
+    "pkg": "cups-filters", 
+    "pkg_version": "1.0.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "foomatic-filters-4.0.9-6.fc20.x86_64.rpm", 
+    "pkg": "foomatic-filters", 
+    "pkg_version": "4.0.9", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "cups-filters-1.0.66-1.fc21.x86_64.rpm", 
+    "pkg": "cups-filters", 
+    "pkg_version": "1.0.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "foomatic-filters-4.0.17-12-omv2015.0.noarch.rpm", 
+    "pkg": "foomatic-filters", 
+    "pkg_version": "4.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "cups-filters-1.0.67-1.mga5.x86_64.rpm", 
+    "pkg": "cups-filters", 
+    "pkg_version": "1.0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "foomatic-filters-4.0.17-9-omv2014.0.noarch.rpm", 
+    "pkg": "foomatic-filters", 
+    "pkg_version": "4.0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "cups-filters-1.0.67-1.mga5.x86_64.rpm", 
+    "pkg": "cups-filters", 
+    "pkg_version": "1.0.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "foomatic-filters-4.0.17-3-omv2013.0.x86_64.rpm", 
+    "pkg": "foomatic-filters", 
+    "pkg_version": "4.0.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "cups-filters-1.0.67-1.mga5.x86_64.rpm", 
+    "pkg": "cups-filters", 
+    "pkg_version": "1.0.6", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "foomatic-filters-4.0.17-3-omv2013.0.x86_64.rpm", 
+    "pkg": "foomatic-filters", 
+    "pkg_version": "4.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "cups-filters-foomatic-rip-1.0.67-1.1.x86_64.rpm", 
+    "pkg": "cups-filters-foomatic-rip", 
+    "pkg_version": "1.0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "cups-filters-1.0.67-1.mga5.x86_64.rpm", 
+    "pkg": "cups-filters", 
+    "pkg_version": "1.0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "foomatic-filters-4.0.17-3-omv2013.0.x86_64.rpm", 
+    "pkg": "foomatic-filters", 
+    "pkg_version": "4.0.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "cups-filters-foomatic-rip-1.0.58-2.4.1.x86_64.rpm", 
+    "pkg": "cups-filters-foomatic-rip", 
+    "pkg_version": "1.0.5", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "cups-filters-1.0.67-1.mga5.x86_64.rpm", 
+    "pkg": "cups-filters", 
+    "pkg_version": "1.0.6", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "foomatic-filters-4.0.12-5.1.1.i586.rpm", 
+    "pkg": "foomatic-filters", 
+    "pkg_version": "4.0.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "cups-filters-foomatic-rip-1.0.58-2.4.1.x86_64.rpm", 
+    "pkg": "cups-filters-foomatic-rip", 
+    "pkg_version": "1.0.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "cups-filters-1.0.67-1.mga5.x86_64.rpm", 
+    "pkg": "cups-filters", 
+    "pkg_version": "1.0.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "foomatic-filters-4.0.17-4-rosa2014.1.x86_64.rpm", 
+    "pkg": "foomatic-filters", 
+    "pkg_version": "4.0.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "cups-filters-foomatic-rip-1.0.58-2.4.1.x86_64.rpm", 
+    "pkg": "cups-filters-foomatic-rip", 
+    "pkg_version": "1.0.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "cups-filters-1.0.67-1.mga5.x86_64.rpm", 
+    "pkg": "cups-filters", 
+    "pkg_version": "1.0.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main Updates", 
+    "pkg_full_name": "foomatic-filters-4.0.17-3-rosa2012.1.x86_64.rpm", 
+    "pkg": "foomatic-filters", 
+    "pkg_version": "4.0.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "cups-filters-foomatic-rip-1.0.58-2.4.1.x86_64.rpm", 
+    "pkg": "cups-filters-foomatic-rip", 
+    "pkg_version": "1.0.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "cups-filters-1.0.67-1.mga5.x86_64.rpm", 
+    "pkg": "cups-filters", 
+    "pkg_version": "1.0.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "foomatic-filters-4.0.12-x86_64-1.txz", 
+    "pkg": "foomatic-filters", 
+    "pkg_version": "4.0.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "cups-filters-foomatic-rip-1.0.58-2.4.1.x86_64.rpm", 
+    "pkg": "cups-filters-foomatic-rip", 
+    "pkg_version": "1.0.5", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "cups-filters-1.0.67-1.mga5.x86_64.rpm", 
+    "pkg": "cups-filters", 
+    "pkg_version": "1.0.6", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "foomatic-filters-4.0.12-x86_64-1.txz", 
+    "pkg": "foomatic-filters", 
+    "pkg_version": "4.0.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "cups-filters-foomatic-rip-1.0.58-2.4.1.x86_64.rpm", 
+    "pkg": "cups-filters-foomatic-rip", 
+    "pkg_version": "1.0.5", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "cups-filters-1.0.67-1.mga5.x86_64.rpm", 
+    "pkg": "cups-filters", 
+    "pkg_version": "1.0.6", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware", 
+    "pkg_full_name": "foomatic-filters-4.0.6-x86_64-1.txz", 
+    "pkg": "foomatic-filters", 
+    "pkg_version": "4.0.6", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "cups-filters-foomatic-rip-1.0.58-2.4.1.x86_64.rpm", 
+    "pkg": "cups-filters-foomatic-rip", 
+    "pkg_version": "1.0.5", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Mageia Core", 
+    "pkg_full_name": "cups-filters-1.0.67-1.mga5.x86_64.rpm", 
+    "pkg": "cups-filters", 
+    "pkg_version": "1.0.6", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "foomatic-filters_4.0.17-4_i386.deb", 
+    "pkg": "foomatic-filters", 
+    "pkg_version": "4.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "cups-filters-foomatic-rip-1.0.58-2.4.1.x86_64.rpm", 
+    "pkg": "cups-filters-foomatic-rip", 
+    "pkg_version": "1.0.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "cups-filters_1.0.61-0ubuntu2.1_i386.deb", 
+    "pkg": "cups-filters", 
+    "pkg_version": "1.0.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "foomatic-filters_4.0.17-1ubuntu1_i386.deb", 
+    "pkg": "foomatic-filters", 
+    "pkg_version": "4.0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "cups-filters-foomatic-rip-1.0.58-2.4.1.x86_64.rpm", 
+    "pkg": "cups-filters-foomatic-rip", 
+    "pkg_version": "1.0.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "cups-filters_1.0.52-0ubuntu1.4_i386.deb", 
+    "pkg": "cups-filters", 
+    "pkg_version": "1.0.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

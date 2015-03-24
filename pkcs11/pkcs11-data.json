@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pkcs11-data_0.7.4-2_i386.deb", 
+    "pkg": "pkcs11-data", 
+    "pkg_version": "0.7.4", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pkcs11-data_0.7.4-2_i386.deb", 
+    "pkg": "pkcs11-data", 
+    "pkg_version": "0.7.4", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pkcs11-data_0.7.4-1_i386.deb", 
+    "pkg": "pkcs11-data", 
+    "pkg_version": "0.7.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "pkcs11-data_0.7.4-2_i386.deb", 
+    "pkg": "pkcs11-data", 
+    "pkg_version": "0.7.4", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "pkcs11-data_0.7.4-1_i386.deb", 
+    "pkg": "pkcs11-data", 
+    "pkg_version": "0.7.4", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

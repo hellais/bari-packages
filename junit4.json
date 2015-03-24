@@ -1,0 +1,298 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "junit4-4.11-alt2_1jpp7.noarch.rpm", 
+    "pkg": "junit4", 
+    "pkg_version": "4.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "junit4-4.11-alt2_1jpp7.noarch.rpm", 
+    "pkg": "junit4", 
+    "pkg_version": "4.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "junit-4.11-8.el7.noarch.rpm", 
+    "pkg": "junit", 
+    "pkg_version": "4.1", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "junit4-4.11-1.jpp6.noarch.rpm", 
+    "pkg": "junit4", 
+    "pkg_version": "4.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "junit-4.11-8.el7.noarch.rpm", 
+    "pkg": "junit", 
+    "pkg_version": "4.1", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "junit4-4.11-1.jpp6.noarch.rpm", 
+    "pkg": "junit4", 
+    "pkg_version": "4.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "junit-4.11-8.el7.noarch.rpm", 
+    "pkg": "junit", 
+    "pkg_version": "4.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "junit4_4.11-3_all.deb", 
+    "pkg": "junit4", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "junit-4.11-8.el7.noarch.rpm", 
+    "pkg": "junit", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "junit4_4.11-3_all.deb", 
+    "pkg": "junit4", 
+    "pkg_version": "4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "junit-4.11-8.el7.noarch.rpm", 
+    "pkg": "junit", 
+    "pkg_version": "4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "junit4_4.10-3_all.deb", 
+    "pkg": "junit4", 
+    "pkg_version": "4.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "junit-4.11-8.el7.noarch.rpm", 
+    "pkg": "junit", 
+    "pkg_version": "4.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "junit4-4.11-1.jpp6.noarch.rpm", 
+    "pkg": "junit4", 
+    "pkg_version": "4.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "junit-4.11-7.fc20.noarch.rpm", 
+    "pkg": "junit", 
+    "pkg_version": "4.1", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "junit4-4.11-1.jpp6.noarch.rpm", 
+    "pkg": "junit4", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "junit-4.11-7.1-omv2014.0.noarch.rpm", 
+    "pkg": "junit", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "junit4-4.11-1.jpp6.noarch.rpm", 
+    "pkg": "junit4", 
+    "pkg_version": "4.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "junit-4.10-3-omv2013.0.noarch.rpm", 
+    "pkg": "junit", 
+    "pkg_version": "4.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "junit4-4.11-1.jpp6.noarch.rpm", 
+    "pkg": "junit4", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "junit-4.11-3.2.noarch.rpm", 
+    "pkg": "junit", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "JPackage 6.0", 
+    "pkg_full_name": "junit4-4.11-1.jpp6.noarch.rpm", 
+    "pkg": "junit4", 
+    "pkg_version": "4.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "junit-4.11-2.1.12.noarch.rpm", 
+    "pkg": "junit", 
+    "pkg_version": "4.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "junit4-4.10-5.1.10.noarch.rpm", 
+    "pkg": "junit4", 
+    "pkg_version": "4.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE JAVA", 
+    "pkg_full_name": "junit-4.11-27.44.noarch.rpm", 
+    "pkg": "junit", 
+    "pkg_version": "4.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "junit4-4.8.2-7-rosa2014.1.noarch.rpm", 
+    "pkg": "junit4", 
+    "pkg_version": "4.8.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE JAVA", 
+    "pkg_full_name": "junit-4.11-27.44.noarch.rpm", 
+    "pkg": "junit", 
+    "pkg_version": "4.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "junit4-4.8.2-3-rosa2012.1.noarch.rpm", 
+    "pkg": "junit4", 
+    "pkg_version": "4.8.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "openSUSE JAVA", 
+    "pkg_full_name": "junit-4.11-27.44.noarch.rpm", 
+    "pkg": "junit", 
+    "pkg_version": "4.1", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "junit4_4.11-3_all.deb", 
+    "pkg": "junit4", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE JAVA", 
+    "pkg_full_name": "junit-4.11-27.44.noarch.rpm", 
+    "pkg": "junit", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "junit4_4.11-2_all.deb", 
+    "pkg": "junit4", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE JAVA", 
+    "pkg_full_name": "junit-4.11-27.44.noarch.rpm", 
+    "pkg": "junit", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

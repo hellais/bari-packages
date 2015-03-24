@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "stardict-dictionaries-cs-abz-20140101-4.3.noarch.rpm", 
+    "pkg": "stardict-dictionaries-cs-abz-20140101", 
+    "pkg_version": "4.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "stardict-dictionaries-cs-abz-20140101-4.1.noarch.rpm", 
+    "pkg": "stardict-dictionaries-cs-abz-20140101", 
+    "pkg_version": "4.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "stardict-dictionaries-cs-abz-20140101-4.1.noarch.rpm", 
+    "pkg": "stardict-dictionaries-cs-abz-20140101", 
+    "pkg_version": "4.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "stardict-dictionaries-cs-abz-20140101-4.1.noarch.rpm", 
+    "pkg": "stardict-dictionaries-cs-abz-20140101", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Education", 
+    "pkg_full_name": "stardict-dictionaries-cs-abz-20140101-4.1.noarch.rpm", 
+    "pkg": "stardict-dictionaries-cs-abz-20140101", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

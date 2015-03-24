@@ -1,0 +1,74 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "apache2-doc_2.4.10-10_all.deb", 
+    "pkg": "apache2-doc", 
+    "pkg_version": "2.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "apache2-doc_2.4.10-10_all.deb", 
+    "pkg": "apache2-doc", 
+    "pkg_version": "2.4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "apache2-doc_2.2.22-13+deb7u3_all.deb", 
+    "pkg": "apache2-doc", 
+    "pkg_version": "2.2.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "apache2-doc-2.4.12-2.1.noarch.rpm", 
+    "pkg": "apache2-doc", 
+    "pkg_version": "2.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "apache2-doc-2.4.10-8.1.noarch.rpm", 
+    "pkg": "apache2-doc", 
+    "pkg_version": "2.4.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "apache2-doc-2.4.6-6.6.1.noarch.rpm", 
+    "pkg": "apache2-doc", 
+    "pkg_version": "2.4.6", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "apache2-doc_2.4.10-1ubuntu1.1_all.deb", 
+    "pkg": "apache2-doc", 
+    "pkg_version": "2.4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "apache2-doc_2.4.7-1ubuntu4.4_all.deb", 
+    "pkg": "apache2-doc", 
+    "pkg_version": "2.4.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

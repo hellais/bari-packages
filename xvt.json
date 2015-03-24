@@ -1,0 +1,471 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "termit-2.5.0-alt3.qa1.x86_64.rpm", 
+    "pkg": "termit", 
+    "pkg_version": "2.5.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnome-terminal-3.14.2-alt1.x86_64.rpm", 
+    "pkg": "gnome-terminal", 
+    "pkg_version": "3.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "mate-terminal-1.8.0-alt1_1.x86_64.rpm", 
+    "pkg": "mate-terminal", 
+    "pkg_version": "1.8.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kdebase-wm-3.5.13.2-alt7.1.1.x86_64.rpm", 
+    "pkg": "kdebase-wm", 
+    "pkg_version": "3.5.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "rxvt-unicode-9.20-alt1.1.x86_64.rpm", 
+    "pkg": "rxvt-unicode", 
+    "pkg_version": "9.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "aterm-1.0.1-alt4.qa2.x86_64.rpm", 
+    "pkg": "aterm", 
+    "pkg_version": "1.0.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "terminology-0.8.0-alt1.x86_64.rpm", 
+    "pkg": "terminology", 
+    "pkg_version": "0.8.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kde4-konsole-4.14.3-alt1.x86_64.rpm", 
+    "pkg": "kde4-konsole", 
+    "pkg_version": "4.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "termit-2.5.0-alt3.qa1.x86_64.rpm", 
+    "pkg": "termit", 
+    "pkg_version": "2.5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnome-terminal-3.14.2-alt1.x86_64.rpm", 
+    "pkg": "gnome-terminal", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "mate-terminal-1.8.0-alt1_1.x86_64.rpm", 
+    "pkg": "mate-terminal", 
+    "pkg_version": "1.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xvt_2.1-20.1_i386.deb", 
+    "pkg": "xvt", 
+    "pkg_version": "2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kdebase-wm-3.5.13.2-alt7.1.1.x86_64.rpm", 
+    "pkg": "kdebase-wm", 
+    "pkg_version": "3.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "rxvt-unicode-9.20-alt1.1.x86_64.rpm", 
+    "pkg": "rxvt-unicode", 
+    "pkg_version": "9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "aterm-1.0.1-alt4.qa2.x86_64.rpm", 
+    "pkg": "aterm", 
+    "pkg_version": "1.0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "terminology-0.8.0-alt1.x86_64.rpm", 
+    "pkg": "terminology", 
+    "pkg_version": "0.8.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kde4-konsole-4.14.3-alt1.x86_64.rpm", 
+    "pkg": "kde4-konsole", 
+    "pkg_version": "4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "termit-2.5.0-alt3.qa1.x86_64.rpm", 
+    "pkg": "termit", 
+    "pkg_version": "2.5.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnome-terminal-3.14.2-alt1.x86_64.rpm", 
+    "pkg": "gnome-terminal", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "mate-terminal-1.8.0-alt1_1.x86_64.rpm", 
+    "pkg": "mate-terminal", 
+    "pkg_version": "1.8.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xvt_2.1-20.1_i386.deb", 
+    "pkg": "xvt", 
+    "pkg_version": "2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kdebase-wm-3.5.13.2-alt7.1.1.x86_64.rpm", 
+    "pkg": "kdebase-wm", 
+    "pkg_version": "3.5.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "rxvt-unicode-9.20-alt1.1.x86_64.rpm", 
+    "pkg": "rxvt-unicode", 
+    "pkg_version": "9.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "aterm-1.0.1-alt4.qa2.x86_64.rpm", 
+    "pkg": "aterm", 
+    "pkg_version": "1.0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "terminology-0.8.0-alt1.x86_64.rpm", 
+    "pkg": "terminology", 
+    "pkg_version": "0.8.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kde4-konsole-4.14.3-alt1.x86_64.rpm", 
+    "pkg": "kde4-konsole", 
+    "pkg_version": "4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "termit-2.5.0-alt3.qa1.x86_64.rpm", 
+    "pkg": "termit", 
+    "pkg_version": "2.5.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnome-terminal-3.14.2-alt1.x86_64.rpm", 
+    "pkg": "gnome-terminal", 
+    "pkg_version": "3.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "mate-terminal-1.8.0-alt1_1.x86_64.rpm", 
+    "pkg": "mate-terminal", 
+    "pkg_version": "1.8.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "xvt_2.1-20.1_i386.deb", 
+    "pkg": "xvt", 
+    "pkg_version": "2.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kdebase-wm-3.5.13.2-alt7.1.1.x86_64.rpm", 
+    "pkg": "kdebase-wm", 
+    "pkg_version": "3.5.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "rxvt-unicode-9.20-alt1.1.x86_64.rpm", 
+    "pkg": "rxvt-unicode", 
+    "pkg_version": "9.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "aterm-1.0.1-alt4.qa2.x86_64.rpm", 
+    "pkg": "aterm", 
+    "pkg_version": "1.0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "terminology-0.8.0-alt1.x86_64.rpm", 
+    "pkg": "terminology", 
+    "pkg_version": "0.8.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kde4-konsole-4.14.3-alt1.x86_64.rpm", 
+    "pkg": "kde4-konsole", 
+    "pkg_version": "4.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "termit-2.5.0-alt3.qa1.x86_64.rpm", 
+    "pkg": "termit", 
+    "pkg_version": "2.5.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnome-terminal-3.14.2-alt1.x86_64.rpm", 
+    "pkg": "gnome-terminal", 
+    "pkg_version": "3.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "mate-terminal-1.8.0-alt1_1.x86_64.rpm", 
+    "pkg": "mate-terminal", 
+    "pkg_version": "1.8.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xvt_2.1-20.1ubuntu1_i386.deb", 
+    "pkg": "xvt", 
+    "pkg_version": "2.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kdebase-wm-3.5.13.2-alt7.1.1.x86_64.rpm", 
+    "pkg": "kdebase-wm", 
+    "pkg_version": "3.5.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "rxvt-unicode-9.20-alt1.1.x86_64.rpm", 
+    "pkg": "rxvt-unicode", 
+    "pkg_version": "9.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "aterm-1.0.1-alt4.qa2.x86_64.rpm", 
+    "pkg": "aterm", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "terminology-0.8.0-alt1.x86_64.rpm", 
+    "pkg": "terminology", 
+    "pkg_version": "0.8.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kde4-konsole-4.14.3-alt1.x86_64.rpm", 
+    "pkg": "kde4-konsole", 
+    "pkg_version": "4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "termit-2.5.0-alt3.qa1.x86_64.rpm", 
+    "pkg": "termit", 
+    "pkg_version": "2.5.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "gnome-terminal-3.14.2-alt1.x86_64.rpm", 
+    "pkg": "gnome-terminal", 
+    "pkg_version": "3.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "mate-terminal-1.8.0-alt1_1.x86_64.rpm", 
+    "pkg": "mate-terminal", 
+    "pkg_version": "1.8.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "xvt_2.1-20.1ubuntu1_i386.deb", 
+    "pkg": "xvt", 
+    "pkg_version": "2.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kdebase-wm-3.5.13.2-alt7.1.1.x86_64.rpm", 
+    "pkg": "kdebase-wm", 
+    "pkg_version": "3.5.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "rxvt-unicode-9.20-alt1.1.x86_64.rpm", 
+    "pkg": "rxvt-unicode", 
+    "pkg_version": "9.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "aterm-1.0.1-alt4.qa2.x86_64.rpm", 
+    "pkg": "aterm", 
+    "pkg_version": "1.0.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "terminology-0.8.0-alt1.x86_64.rpm", 
+    "pkg": "terminology", 
+    "pkg_version": "0.8.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "kde4-konsole-4.14.3-alt1.x86_64.rpm", 
+    "pkg": "kde4-konsole", 
+    "pkg_version": "4.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

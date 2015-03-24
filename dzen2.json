@@ -1,0 +1,243 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "dzen2-0.9.5-alt3.git20130923.x86_64.rpm", 
+    "pkg": "dzen2", 
+    "pkg_version": "0.9.5", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "dzen2-0.9.5git-5-x86_64.pkg.tar.xz", 
+    "pkg": "dzen2", 
+    "pkg_version": "0.9.5", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "dzen2-0.8.5-7.20100104svn.el6.x86_64.rpm", 
+    "pkg": "dzen2", 
+    "pkg_version": "0.8.5", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "dzen2-0.8.5-5.el5.x86_64.rpm", 
+    "pkg": "dzen2", 
+    "pkg_version": "0.8.5", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dzen2_0.9.5~svn271-4_i386.deb", 
+    "pkg": "dzen2", 
+    "pkg_version": "0.9.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dzen2_0.9.5~svn271-4_i386.deb", 
+    "pkg": "dzen2", 
+    "pkg_version": "0.9.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "dzen2_0.8.5-4_i386.deb", 
+    "pkg": "dzen2", 
+    "pkg_version": "0.8.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "dzen2-0.8.5-15.20100104svn.fc22.x86_64.rpm", 
+    "pkg": "dzen2", 
+    "pkg_version": "0.8.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "dzen2-0.8.5-15.20100104svn.fc22.x86_64.rpm", 
+    "pkg": "dzen2", 
+    "pkg_version": "0.8.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "dzen2-0.8.5-15.20100104svn.fc21.x86_64.rpm", 
+    "pkg": "dzen2", 
+    "pkg_version": "0.8.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "dzen2-0.8.5-13.20100104svn.fc20.x86_64.rpm", 
+    "pkg": "dzen2", 
+    "pkg_version": "0.8.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "dzen2-1332069163-9.2.x86_64.rpm", 
+    "pkg": "dzen2-1332069163", 
+    "pkg_version": "9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "dzen2-0.8.5-13.20100104svn.fc20.x86_64.rpm", 
+    "pkg": "dzen2", 
+    "pkg_version": "0.8.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "dzen2-1332069163-8.1.3.x86_64.rpm", 
+    "pkg": "dzen2-1332069163", 
+    "pkg_version": "8.1.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "dzen2-0.8.5-13.20100104svn.fc20.x86_64.rpm", 
+    "pkg": "dzen2", 
+    "pkg_version": "0.8.5", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "dzen2-1332069163-6.1.2.i586.rpm", 
+    "pkg": "dzen2-1332069163", 
+    "pkg_version": "6.1.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "dzen2-0.8.5-13.20100104svn.fc20.x86_64.rpm", 
+    "pkg": "dzen2", 
+    "pkg_version": "0.8.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "dzen2-1332069163-6.1.2.i586.rpm", 
+    "pkg": "dzen2-1332069163", 
+    "pkg_version": "6.1.2", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Johannes Sch\u00f6pfer", 
+    "pkg_full_name": "dzen2-0.8.5-x86_64-1jsc.txz", 
+    "pkg": "dzen2", 
+    "pkg_version": "0.8.5", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "dzen2-1332069163-6.1.2.i586.rpm", 
+    "pkg": "dzen2-1332069163", 
+    "pkg_version": "6.1.2", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Johannes Sch\u00f6pfer", 
+    "pkg_full_name": "dzen2-0.8.5-x86_64-1jsc.txz", 
+    "pkg": "dzen2", 
+    "pkg_version": "0.8.5", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "dzen2-1332069163-6.1.2.i586.rpm", 
+    "pkg": "dzen2-1332069163", 
+    "pkg_version": "6.1.2", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Johannes Sch\u00f6pfer", 
+    "pkg_full_name": "dzen2-0.8.5-x86_64-1jsc.txz", 
+    "pkg": "dzen2", 
+    "pkg_version": "0.8.5", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "dzen2-1332069163-6.1.2.i586.rpm", 
+    "pkg": "dzen2-1332069163", 
+    "pkg_version": "6.1.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "dzen2_0.9.5~svn271-4_i386.deb", 
+    "pkg": "dzen2", 
+    "pkg_version": "0.9.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "dzen2-1332069163-6.1.2.i586.rpm", 
+    "pkg": "dzen2-1332069163", 
+    "pkg_version": "6.1.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "dzen2_0.9.5~svn271-4_i386.deb", 
+    "pkg": "dzen2", 
+    "pkg_version": "0.9.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

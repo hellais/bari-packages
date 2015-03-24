@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "hdhomerun-config-20100828-1.71.x86_64.rpm", 
+    "pkg": "hdhomerun-config-20100828", 
+    "pkg_version": "1.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "hdhomerun-config-20100828-1.7.x86_64.rpm", 
+    "pkg": "hdhomerun-config-20100828", 
+    "pkg_version": "1.7", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "hdhomerun-config-20100828-1.7.x86_64.rpm", 
+    "pkg": "hdhomerun-config-20100828", 
+    "pkg_version": "1.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "hdhomerun-config-20100828-1.7.x86_64.rpm", 
+    "pkg": "hdhomerun-config-20100828", 
+    "pkg_version": "1.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

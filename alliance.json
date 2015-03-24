@@ -1,0 +1,101 @@
+[
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "alliance-5.0-31.20090901snap.el6.x86_64.rpm", 
+    "pkg": "alliance", 
+    "pkg_version": "5.0", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "EPEL", 
+    "pkg_full_name": "alliance-5.0-31.20090901snap.el5.x86_64.rpm", 
+    "pkg": "alliance", 
+    "pkg_version": "5.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "alliance_5.0-20120515-7_i386.deb", 
+    "pkg": "alliance", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "alliance_5.0-20120515-6_i386.deb", 
+    "pkg": "alliance", 
+    "pkg_version": "5.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "alliance_5.0-20120515-1_i386.deb", 
+    "pkg": "alliance", 
+    "pkg_version": "5.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "alliance-5.0-40.20090901snap.fc22.x86_64.rpm", 
+    "pkg": "alliance", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "alliance-5.0-40.20090901snap.fc22.x86_64.rpm", 
+    "pkg": "alliance", 
+    "pkg_version": "5.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "alliance-5.0-40.20090901snap.fc21.x86_64.rpm", 
+    "pkg": "alliance", 
+    "pkg_version": "5.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "alliance-5.0-35.20090901snap.fc18.x86_64.rpm", 
+    "pkg": "alliance", 
+    "pkg_version": "5.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "alliance_5.0-20120515-6_i386.deb", 
+    "pkg": "alliance", 
+    "pkg_version": "5.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "alliance_5.0-20120515-6_i386.deb", 
+    "pkg": "alliance", 
+    "pkg_version": "5.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

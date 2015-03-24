@@ -1,0 +1,55 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "crossfire-client-sounds-1.11.0-alt1.qa5.x86_64.rpm", 
+    "pkg": "crossfire-client-sounds", 
+    "pkg_version": "1.1", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "crossfire-client-sounds_1.71.0-3_all.deb", 
+    "pkg": "crossfire-client-sounds", 
+    "pkg_version": "1.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "crossfire-client-sounds_1.71.0-3_all.deb", 
+    "pkg": "crossfire-client-sounds", 
+    "pkg_version": "1.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "crossfire-client-sounds_1.9.1-1_all.deb", 
+    "pkg": "crossfire-client-sounds", 
+    "pkg_version": "1.9.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "crossfire-client-sounds_1.71.0-3_all.deb", 
+    "pkg": "crossfire-client-sounds", 
+    "pkg_version": "1.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "crossfire-client-sounds_1.9.1-1_all.deb", 
+    "pkg": "crossfire-client-sounds", 
+    "pkg_version": "1.9.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

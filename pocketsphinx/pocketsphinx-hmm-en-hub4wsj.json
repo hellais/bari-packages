@@ -1,0 +1,29 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pocketsphinx-hmm-en-hub4wsj_0.8-5_all.deb", 
+    "pkg": "pocketsphinx-hmm-en-hub4wsj", 
+    "pkg_version": "0.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "pocketsphinx-hmm-en-hub4wsj_0.8-5_all.deb", 
+    "pkg": "pocketsphinx-hmm-en-hub4wsj", 
+    "pkg_version": "0.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "pocketsphinx-hmm-en-hub4wsj_0.8.0+real-0ubuntu6_all.deb", 
+    "pkg": "pocketsphinx-hmm-en-hub4wsj", 
+    "pkg_version": "0.8.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

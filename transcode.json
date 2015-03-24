@@ -1,0 +1,180 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "transcode-1.1.7-alt3.1.x86_64.rpm", 
+    "pkg": "transcode", 
+    "pkg_version": "1.1.7", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Extra", 
+    "pkg_full_name": "transcode-1.1.7-17-x86_64.pkg.tar.xz", 
+    "pkg": "transcode", 
+    "pkg_version": "1.1.7", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Nux Dextop", 
+    "pkg_full_name": "transcode-1.1.7-10.el7.nux.x86_64.rpm", 
+    "pkg": "transcode", 
+    "pkg_version": "1.1.7", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "transcode-1.1.5-2.el6.rf.x86_64.rpm", 
+    "pkg": "transcode", 
+    "pkg_version": "1.1.5", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Scientific Linux Cyrillic Edition", 
+    "pkg_full_name": "transcode-1.0.5-1.rf.i386.rpm", 
+    "pkg": "transcode", 
+    "pkg_version": "1.0.5", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "transcode_1.1.7-dmo11_i386.deb", 
+    "pkg": "transcode", 
+    "pkg_version": "1.1.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "transcode_1.1.7-dmo11_i386.deb", 
+    "pkg": "transcode", 
+    "pkg_version": "1.1.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "transcode_1.1.7-dmo4_i386.deb", 
+    "pkg": "transcode", 
+    "pkg_version": "1.1.7", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "transcode-1.1.7-12.fc21.x86_64.rpm", 
+    "pkg": "transcode", 
+    "pkg_version": "1.1.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "transcode-1.1.7-12.fc21.x86_64.rpm", 
+    "pkg": "transcode", 
+    "pkg_version": "1.1.7", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "transcode-1.1.7-10.fc20.x86_64.rpm", 
+    "pkg": "transcode", 
+    "pkg_version": "1.1.7", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "transcode-1.1.5-110.45.x86_64.rpm", 
+    "pkg": "transcode", 
+    "pkg_version": "1.1.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Packman", 
+    "pkg_full_name": "transcode-1.1.5-110.8.x86_64.rpm", 
+    "pkg": "transcode", 
+    "pkg_version": "1.1.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Restricted", 
+    "pkg_full_name": "transcode-1.1.7-8-plf2014.1.x86_64.rpm", 
+    "pkg": "transcode", 
+    "pkg_version": "1.1.7", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Restricted Updates", 
+    "pkg_full_name": "transcode-1.1.7-7-plf2012.1.x86_64.rpm", 
+    "pkg": "transcode", 
+    "pkg_version": "1.1.7", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "transcode-1.1.7-i486-2sl.txz", 
+    "pkg": "transcode", 
+    "pkg_version": "1.1.7", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "transcode-1.1.7-i486-1sl.txz", 
+    "pkg": "transcode", 
+    "pkg_version": "1.1.7", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "transcode-1.1.7-x86_64-1sl.txz", 
+    "pkg": "transcode", 
+    "pkg_version": "1.1.7", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Multiverse", 
+    "pkg_full_name": "transcode_1.1.7-9build2_i386.deb", 
+    "pkg": "transcode", 
+    "pkg_version": "1.1.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Multiverse", 
+    "pkg_full_name": "transcode_1.1.7-8_i386.deb", 
+    "pkg": "transcode", 
+    "pkg_version": "1.1.7", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

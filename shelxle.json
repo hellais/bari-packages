@@ -1,0 +1,46 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "shelxle-1.0.709-alt1.x86_64.rpm", 
+    "pkg": "shelxle", 
+    "pkg_version": "1.0.7", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "shelxle_1.0.677-1_i386.deb", 
+    "pkg": "shelxle", 
+    "pkg_version": "1.0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "shelxle_1.0.677-1_i386.deb", 
+    "pkg": "shelxle", 
+    "pkg_version": "1.0.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "shelxle_1.0.564-1_i386.deb", 
+    "pkg": "shelxle", 
+    "pkg_version": "1.0.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "shelxle_1.0.661-1_i386.deb", 
+    "pkg": "shelxle", 
+    "pkg_version": "1.0.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

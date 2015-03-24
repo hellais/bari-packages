@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libecpg-dev_9.4.1-1_i386.deb", 
+    "pkg": "libecpg-dev", 
+    "pkg_version": "9.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libecpg-dev_9.4.1-1_i386.deb", 
+    "pkg": "libecpg-dev", 
+    "pkg_version": "9.4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Security Updates Main", 
+    "pkg_full_name": "libecpg-dev_9.1.15-0+deb7u1_i386.deb", 
+    "pkg": "libecpg-dev", 
+    "pkg_version": "9.1.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "libecpg-dev_9.4.1-0ubuntu0.14.10_i386.deb", 
+    "pkg": "libecpg-dev", 
+    "pkg_version": "9.4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Updates Main", 
+    "pkg_full_name": "libecpg-dev_9.3.6-0ubuntu0.14.04_i386.deb", 
+    "pkg": "libecpg-dev", 
+    "pkg_version": "9.3.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

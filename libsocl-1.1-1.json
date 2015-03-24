@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Contrib", 
+    "pkg_full_name": "libsocl-contrib-1.1-1_1.1.3+dfsg-3+b1_i386.deb", 
+    "pkg": "libsocl-contrib", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsocl-1.1-1_1.1.3+dfsg-3_i386.deb", 
+    "pkg": "libsocl", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Contrib", 
+    "pkg_full_name": "libsocl-contrib-1.1-1_1.1.3+dfsg-3+b1_i386.deb", 
+    "pkg": "libsocl-contrib", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libsocl-1.1-1_1.1.3+dfsg-3_i386.deb", 
+    "pkg": "libsocl", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

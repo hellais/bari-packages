@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libminiupnpc10_1.9.20140610-2_i386.deb", 
+    "pkg": "libminiupnpc10", 
+    "pkg_version": "1.9.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libminiupnpc10_1.9.20140610-2_i386.deb", 
+    "pkg": "libminiupnpc10", 
+    "pkg_version": "1.9.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "libminiupnpc10-1.9-1-omv2014.1.i586.rpm", 
+    "pkg": "libminiupnpc10", 
+    "pkg_version": "1.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libminiupnpc10-1.9-3.2.x86_64.rpm", 
+    "pkg": "libminiupnpc10", 
+    "pkg_version": "1.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libminiupnpc10-1.9-2.1.5.x86_64.rpm", 
+    "pkg": "libminiupnpc10", 
+    "pkg_version": "1.9", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "libminiupnpc10-1.9-2.4.1.x86_64.rpm", 
+    "pkg": "libminiupnpc10", 
+    "pkg_version": "1.9", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }
+]

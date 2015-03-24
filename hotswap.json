@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "hotswap-0.4.0-2.2.el5.rf.x86_64.rpm", 
+    "pkg": "hotswap", 
+    "pkg_version": "0.4.0", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "hotswap_0.4.0-14_all.deb", 
+    "pkg": "hotswap", 
+    "pkg_version": "0.4.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "hotswap_0.4.0-14_all.deb", 
+    "pkg": "hotswap", 
+    "pkg_version": "0.4.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "hotswap_0.4.0-12_all.deb", 
+    "pkg": "hotswap", 
+    "pkg_version": "0.4.0", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "hotswap_0.4.0-14_all.deb", 
+    "pkg": "hotswap", 
+    "pkg_version": "0.4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "hotswap_0.4.0-14_all.deb", 
+    "pkg": "hotswap", 
+    "pkg_version": "0.4.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

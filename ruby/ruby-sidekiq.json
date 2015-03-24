@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "ruby-sidekiq_3.2.6~dfsg-1_all.deb", 
+    "pkg": "ruby-sidekiq", 
+    "pkg_version": "3.2.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

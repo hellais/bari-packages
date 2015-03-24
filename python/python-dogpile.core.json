@@ -1,0 +1,56 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-dogpile.core_0.4.1+dfsg1-2_all.deb", 
+    "pkg": "python-dogpile.core", 
+    "pkg_version": "0.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-dogpile.core_0.4.1+dfsg1-2_all.deb", 
+    "pkg": "python-dogpile.core", 
+    "pkg_version": "0.4.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-dogpile.core-0.4.1-5.2.noarch.rpm", 
+    "pkg": "python-dogpile.core", 
+    "pkg_version": "0.4.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-dogpile.core-0.4.1-4.1.4.noarch.rpm", 
+    "pkg": "python-dogpile.core", 
+    "pkg_version": "0.4.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "python-dogpile.core-0.4.1-2.1.2.noarch.rpm", 
+    "pkg": "python-dogpile.core", 
+    "pkg_version": "0.4.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python-dogpile.core_0.4.1+dfsg1-2_all.deb", 
+    "pkg": "python-dogpile.core", 
+    "pkg_version": "0.4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

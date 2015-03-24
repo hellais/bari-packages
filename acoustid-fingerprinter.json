@@ -1,0 +1,92 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "acoustid-fingerprinter_0.6-4+b1_i386.deb", 
+    "pkg": "acoustid-fingerprinter", 
+    "pkg_version": "0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "acoustid-fingerprinter_0.6-4+b1_i386.deb", 
+    "pkg": "acoustid-fingerprinter", 
+    "pkg_version": "0.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "acoustid-fingerprinter_0.4-2_i386.deb", 
+    "pkg": "acoustid-fingerprinter", 
+    "pkg_version": "0.4", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "acoustid-fingerprinter-0.6-10.fc21.x86_64.rpm", 
+    "pkg": "acoustid-fingerprinter", 
+    "pkg_version": "0.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "acoustid-fingerprinter-0.6-10.fc21.x86_64.rpm", 
+    "pkg": "acoustid-fingerprinter", 
+    "pkg_version": "0.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "acoustid-fingerprinter-0.6-6.fc20.x86_64.rpm", 
+    "pkg": "acoustid-fingerprinter", 
+    "pkg_version": "0.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "acoustid-fingerprinter-0.6-4-rosa2014.1.x86_64.rpm", 
+    "pkg": "acoustid-fingerprinter", 
+    "pkg_version": "0.6", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "acoustid-fingerprinter-0.6-3-rosa2012.1.x86_64.rpm", 
+    "pkg": "acoustid-fingerprinter", 
+    "pkg_version": "0.6", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "acoustid-fingerprinter_0.6-3build3_i386.deb", 
+    "pkg": "acoustid-fingerprinter", 
+    "pkg_version": "0.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "acoustid-fingerprinter_0.6-1build1_i386.deb", 
+    "pkg": "acoustid-fingerprinter", 
+    "pkg_version": "0.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

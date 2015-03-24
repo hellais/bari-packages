@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "emacspeak-ss_1.12.1-4_i386.deb", 
+    "pkg": "emacspeak-ss", 
+    "pkg_version": "1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "emacspeak-ss_1.12.1-4_i386.deb", 
+    "pkg": "emacspeak-ss", 
+    "pkg_version": "1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Slackware Extra", 
+    "pkg_full_name": "emacspeak-ss-1.9.1-i386-1.txz", 
+    "pkg": "emacspeak-ss", 
+    "pkg_version": "1.9.1", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware Extra", 
+    "pkg_full_name": "emacspeak-ss-1.9.1-i386-1.txz", 
+    "pkg": "emacspeak-ss", 
+    "pkg_version": "1.9.1", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slackware Extra", 
+    "pkg_full_name": "emacspeak-ss-1.9.1-i386-1.txz", 
+    "pkg": "emacspeak-ss", 
+    "pkg_version": "1.9.1", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "emacspeak-ss_1.12.1-4_i386.deb", 
+    "pkg": "emacspeak-ss", 
+    "pkg_version": "1.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "emacspeak-ss_1.12.1-4_i386.deb", 
+    "pkg": "emacspeak-ss", 
+    "pkg_version": "1.1", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "librtaudio5_4.1.1~ds0-2_i386.deb", 
+    "pkg": "librtaudio5", 
+    "pkg_version": "4.1.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "librtaudio5_4.1.1~ds0-2_i386.deb", 
+    "pkg": "librtaudio5", 
+    "pkg_version": "4.1.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

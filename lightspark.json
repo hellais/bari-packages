@@ -1,0 +1,137 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lightspark_0.7.2-6_i386.deb", 
+    "pkg": "lightspark", 
+    "pkg_version": "0.7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lightspark_0.7.2-6_i386.deb", 
+    "pkg": "lightspark", 
+    "pkg_version": "0.7.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "lightspark_0.6.0.1-2_i386.deb", 
+    "pkg": "lightspark", 
+    "pkg_version": "0.6.0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "lightspark-0.7.2-10.20140219git.fc21.2.x86_64.rpm", 
+    "pkg": "lightspark", 
+    "pkg_version": "0.7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free", 
+    "pkg_full_name": "lightspark-0.7.2-10.20140219git.fc21.2.x86_64.rpm", 
+    "pkg": "lightspark", 
+    "pkg_version": "0.7.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Fusion Free Updates", 
+    "pkg_full_name": "lightspark-0.7.2-8.20140219git.fc20.x86_64.rpm", 
+    "pkg": "lightspark", 
+    "pkg_version": "0.7.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "lightspark-0.7.1-1-omv2013.0.x86_64.rpm", 
+    "pkg": "lightspark", 
+    "pkg_version": "0.7.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "lightspark-0.7.1-1-omv2013.0.x86_64.rpm", 
+    "pkg": "lightspark", 
+    "pkg_version": "0.7.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "lightspark-0.7.1-1-omv2013.0.x86_64.rpm", 
+    "pkg": "lightspark", 
+    "pkg_version": "0.7.1", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Multimedia Apps", 
+    "pkg_full_name": "lightspark-0.7.2-29.19.x86_64.rpm", 
+    "pkg": "lightspark", 
+    "pkg_version": "0.7.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "lightspark-0.7.2-3.1.4.i586.rpm", 
+    "pkg": "lightspark", 
+    "pkg_version": "0.7.2", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "lightspark-0.7.2-10.20140219git-rosa2014.1.x86_64.rpm", 
+    "pkg": "lightspark", 
+    "pkg_version": "0.7.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "lightspark-0.7.2-5-rosa2012.1.x86_64.rpm", 
+    "pkg": "lightspark", 
+    "pkg_version": "0.7.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "lightspark_0.7.2-5ubuntu1_i386.deb", 
+    "pkg": "lightspark", 
+    "pkg_version": "0.7.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "lightspark_0.7.2-3ubuntu1_i386.deb", 
+    "pkg": "lightspark", 
+    "pkg_version": "0.7.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

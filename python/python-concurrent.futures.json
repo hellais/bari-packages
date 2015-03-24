@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-concurrent.futures_2.2.0-1_all.deb", 
+    "pkg": "python-concurrent.futures", 
+    "pkg_version": "2.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-concurrent.futures_2.2.0-1_all.deb", 
+    "pkg": "python-concurrent.futures", 
+    "pkg_version": "2.2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "python-concurrent.futures_2.1.2-1_all.deb", 
+    "pkg": "python-concurrent.futures", 
+    "pkg_version": "2.1.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "python-concurrent.futures_2.1.6-4_all.deb", 
+    "pkg": "python-concurrent.futures", 
+    "pkg_version": "2.1.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

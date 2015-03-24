@@ -1,0 +1,281 @@
+[
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "mendexk-2.6e-57.el6_2.x86_64.rpm", 
+    "pkg": "mendexk", 
+    "pkg_version": "2.6", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "texlive-binaries_2014.20140926.35254-6_i386.deb", 
+    "pkg": "texlive-binaries_201", 
+    "pkg_version": "4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mendexk_2.6e-3.2_i386.deb", 
+    "pkg": "mendexk", 
+    "pkg_version": "2.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "texlive-binaries_2014.20140926.35254-6_i386.deb", 
+    "pkg": "texlive-binaries_201", 
+    "pkg_version": "4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mendexk_2.6e-3.2_i386.deb", 
+    "pkg": "mendexk", 
+    "pkg_version": "2.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "texlive-binaries_2012.20120628-4_i386.deb", 
+    "pkg": "texlive-binaries_201", 
+    "pkg_version": "2.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mendexk_2.6e-3.2_i386.deb", 
+    "pkg": "mendexk", 
+    "pkg_version": "2.6", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "texlive-binaries_2012.20120628-4_i386.deb", 
+    "pkg": "texlive-binaries_201", 
+    "pkg_version": "2.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "texlive-ptex-svn33295.0-7.fc23.noarch.rpm", 
+    "pkg": "texlive-ptex-svn3329", 
+    "pkg_version": "5.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mendexk_2.6e-3.2_i386.deb", 
+    "pkg": "mendexk", 
+    "pkg_version": "2.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "texlive-binaries_2012.20120628-4_i386.deb", 
+    "pkg": "texlive-binaries_201", 
+    "pkg_version": "2.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "texlive-ptex-svn33295.0-6.fc22.noarch.rpm", 
+    "pkg": "texlive-ptex-svn3329", 
+    "pkg_version": "5.0", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mendexk_2.6e-3.2_i386.deb", 
+    "pkg": "mendexk", 
+    "pkg_version": "2.6", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "texlive-binaries_2012.20120628-4_i386.deb", 
+    "pkg": "texlive-binaries_201", 
+    "pkg_version": "2.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "texlive-ptex-svn33295.0-1.1.fc21.noarch.rpm", 
+    "pkg": "texlive-ptex-svn3329", 
+    "pkg_version": "5.0", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mendexk_2.6e-3.2_i386.deb", 
+    "pkg": "mendexk", 
+    "pkg_version": "2.6", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "texlive-ptex-svn32335.0-6.fc20.noarch.rpm", 
+    "pkg": "texlive-ptex-svn3233", 
+    "pkg_version": "5.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "texlive-ptex-svn31898.0-3.fc20.noarch.rpm", 
+    "pkg": "texlive-ptex-svn3189", 
+    "pkg_version": "8.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "texlive-binaries_2012.20120628-4_i386.deb", 
+    "pkg": "texlive-binaries_201", 
+    "pkg_version": "2.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "texlive-ptex-svn33295.0-1.1.fc21.noarch.rpm", 
+    "pkg": "texlive-ptex-svn3329", 
+    "pkg_version": "5.0", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "mendexk_2.6e-3.2_i386.deb", 
+    "pkg": "mendexk", 
+    "pkg_version": "2.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "texlive-ptex-svn32335.0-6.fc20.noarch.rpm", 
+    "pkg": "texlive-ptex-svn3233", 
+    "pkg_version": "5.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "texlive-ptex-svn31898.0-3.fc20.noarch.rpm", 
+    "pkg": "texlive-ptex-svn3189", 
+    "pkg_version": "8.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "texlive-binaries_2014.20140528.34243-5_i386.deb", 
+    "pkg": "texlive-binaries_201", 
+    "pkg_version": "4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "texlive-ptex-svn33295.0-1.1.fc21.noarch.rpm", 
+    "pkg": "texlive-ptex-svn3329", 
+    "pkg_version": "5.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mendexk_2.6e-3.2_i386.deb", 
+    "pkg": "mendexk", 
+    "pkg_version": "2.6", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates Testing", 
+    "pkg_full_name": "texlive-ptex-svn32335.0-6.fc20.noarch.rpm", 
+    "pkg": "texlive-ptex-svn3233", 
+    "pkg_version": "5.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "texlive-ptex-svn31898.0-3.fc20.noarch.rpm", 
+    "pkg": "texlive-ptex-svn3189", 
+    "pkg_version": "8.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "texlive-binaries_2013.20130729.30972-2build3_i386.deb", 
+    "pkg": "texlive-binaries_201", 
+    "pkg_version": "3.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "texlive-ptex-svn33295.0-1.1.fc21.noarch.rpm", 
+    "pkg": "texlive-ptex-svn3329", 
+    "pkg_version": "5.0", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "mendexk_2.6e-3.2_i386.deb", 
+    "pkg": "mendexk", 
+    "pkg_version": "2.6", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

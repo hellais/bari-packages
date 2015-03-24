@@ -1,0 +1,136 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "squirrelmail-1.4.22-alt1.noarch.rpm", 
+    "pkg": "squirrelmail", 
+    "pkg_version": "1.4.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "squirrelmail-1.4.22-3.sdl7.noarch.rpm", 
+    "pkg": "squirrelmail", 
+    "pkg_version": "1.4.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "PUIAS Unsupported", 
+    "pkg_full_name": "squirrelmail-1.4.22-3.puias6.noarch.rpm", 
+    "pkg": "squirrelmail", 
+    "pkg_version": "1.4.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "squirrelmail-1.4.8-21.el5.centos.noarch.rpm", 
+    "pkg": "squirrelmail", 
+    "pkg_version": "1.4.8", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "squirrelmail_1.4.23~svn20120406-2_all.deb", 
+    "pkg": "squirrelmail", 
+    "pkg_version": "1.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "squirrelmail_1.4.23~svn20120406-2_all.deb", 
+    "pkg": "squirrelmail", 
+    "pkg_version": "1.4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "squirrelmail_1.4.23~svn20120406-2_all.deb", 
+    "pkg": "squirrelmail", 
+    "pkg_version": "1.4.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "squirrelmail-1.4.22-15.fc21.noarch.rpm", 
+    "pkg": "squirrelmail", 
+    "pkg_version": "1.4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "squirrelmail-1.4.22-15.fc21.noarch.rpm", 
+    "pkg": "squirrelmail", 
+    "pkg_version": "1.4.2", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "squirrelmail-1.4.22-15.fc21.noarch.rpm", 
+    "pkg": "squirrelmail", 
+    "pkg_version": "1.4.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora Updates", 
+    "pkg_full_name": "squirrelmail-1.4.22-14.fc20.noarch.rpm", 
+    "pkg": "squirrelmail", 
+    "pkg_version": "1.4.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "squirrelmail-1.4.23-0.0.r14325.5-rosa2014.1.noarch.rpm", 
+    "pkg": "squirrelmail", 
+    "pkg_version": "1.4.2", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "squirrelmail-1.4.23-0.0.r14325.4-rosa2012.1.noarch.rpm", 
+    "pkg": "squirrelmail", 
+    "pkg_version": "1.4.2", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "squirrelmail_1.4.23~svn20120406-2_all.deb", 
+    "pkg": "squirrelmail", 
+    "pkg_version": "1.4.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "squirrelmail_1.4.23~svn20120406-2_all.deb", 
+    "pkg": "squirrelmail", 
+    "pkg_version": "1.4.2", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

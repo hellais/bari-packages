@@ -1,0 +1,128 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "recutils_1.7-1_i386.deb", 
+    "pkg": "recutils", 
+    "pkg_version": "1.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "recutils_1.7-1_i386.deb", 
+    "pkg": "recutils", 
+    "pkg_version": "1.7", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "recutils_1.5-1_i386.deb", 
+    "pkg": "recutils", 
+    "pkg_version": "1.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "recutils-1.7-3.fc21.x86_64.rpm", 
+    "pkg": "recutils", 
+    "pkg_version": "1.7", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "recutils-1.7-3.fc21.x86_64.rpm", 
+    "pkg": "recutils", 
+    "pkg_version": "1.7", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "recutils-1.7-3.fc21.x86_64.rpm", 
+    "pkg": "recutils", 
+    "pkg_version": "1.7", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "recutils-1.6-1.fc20.x86_64.rpm", 
+    "pkg": "recutils", 
+    "pkg_version": "1.6", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "recutils-1.7-2-rosa2014.1.x86_64.rpm", 
+    "pkg": "recutils", 
+    "pkg_version": "1.7", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "recutils-1.5-1-rosa2012.1.x86_64.rpm", 
+    "pkg": "recutils", 
+    "pkg_version": "1.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "SlackPack", 
+    "pkg_full_name": "recutils-1.7-x86_64-1gds.txz", 
+    "pkg": "recutils", 
+    "pkg_version": "1.7", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "SlackPack", 
+    "pkg_full_name": "recutils-1.6-x86_64-1gds.txz", 
+    "pkg": "recutils", 
+    "pkg_version": "1.6", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "SlackPack", 
+    "pkg_full_name": "recutils-1.5-x86_64-1gds.txz", 
+    "pkg": "recutils", 
+    "pkg_version": "1.5", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "recutils_1.7-1_i386.deb", 
+    "pkg": "recutils", 
+    "pkg_version": "1.7", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "recutils_1.5-1.1ubuntu1_i386.deb", 
+    "pkg": "recutils", 
+    "pkg_version": "1.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

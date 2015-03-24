@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgnome-desktop-3-10_3.14.1-1_i386.deb", 
+    "pkg": "libgnome-desktop-3-10", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libgnome-desktop-3-10_3.14.1-1_i386.deb", 
+    "pkg": "libgnome-desktop-3-10", 
+    "pkg_version": "3.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libgnome-desktop-3-10-3.14.2-1.2.x86_64.rpm", 
+    "pkg": "libgnome-desktop-3-10", 
+    "pkg_version": "3.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Update", 
+    "pkg_full_name": "libgnome-desktop-3-10-3.14.2-4.1.x86_64.rpm", 
+    "pkg": "libgnome-desktop-3-10", 
+    "pkg_version": "3.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }
+]

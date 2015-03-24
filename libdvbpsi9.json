@@ -1,0 +1,82 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "libdvbpsi9-1.2.0-alt1.x86_64.rpm", 
+    "pkg": "libdvbpsi9", 
+    "pkg_version": "1.2.0", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "libdvbpsi9-1.1.2-3.el7.x86_64.rpm", 
+    "pkg": "libdvbpsi9", 
+    "pkg_version": "1.1.2", 
+    "release": ">=7", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "libdvbpsi9-1.1.2-3.el6.x86_64.rpm", 
+    "pkg": "libdvbpsi9", 
+    "pkg_version": "1.1.2", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libdvbpsi9_1.2.0-dmo1_i386.deb", 
+    "pkg": "libdvbpsi9", 
+    "pkg_version": "1.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Multimedia Main", 
+    "pkg_full_name": "libdvbpsi9_1.2.0-dmo1_i386.deb", 
+    "pkg": "libdvbpsi9", 
+    "pkg_version": "1.2.0", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "ATrpms", 
+    "pkg_full_name": "libdvbpsi9-1.1.2-3.fc20.x86_64.rpm", 
+    "pkg": "libdvbpsi9", 
+    "pkg_version": "1.1.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libdvbpsi9-1.2.0-1.1.x86_64.rpm", 
+    "pkg": "libdvbpsi9", 
+    "pkg_version": "1.2.0", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libdvbpsi9-1.1.2-2.1.2.x86_64.rpm", 
+    "pkg": "libdvbpsi9", 
+    "pkg_version": "1.1.2", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libdvbpsi9-1.1.0-2.1.2.i586.rpm", 
+    "pkg": "libdvbpsi9", 
+    "pkg_version": "1.1.0", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }
+]

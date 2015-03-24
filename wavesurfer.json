@@ -1,0 +1,100 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "wavesurfer-1.8.5-alt3.qa1.noarch.rpm", 
+    "pkg": "wavesurfer", 
+    "pkg_version": "1.8.5", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "wavesurfer_1.8.8p4-3_all.deb", 
+    "pkg": "wavesurfer", 
+    "pkg_version": "1.8.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "wavesurfer_1.8.8p4-3_all.deb", 
+    "pkg": "wavesurfer", 
+    "pkg_version": "1.8.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "wavesurfer_1.8.8p3-1_all.deb", 
+    "pkg": "wavesurfer", 
+    "pkg_version": "1.8.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "wavesurfer-1.8.5-5-omv2013.0.noarch.rpm", 
+    "pkg": "wavesurfer", 
+    "pkg_version": "1.8.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib Updates", 
+    "pkg_full_name": "wavesurfer-1.8.5-5-omv2014.0.noarch.rpm", 
+    "pkg": "wavesurfer", 
+    "pkg_version": "1.8.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "wavesurfer-1.8.5-5-omv2013.0.noarch.rpm", 
+    "pkg": "wavesurfer", 
+    "pkg_version": "1.8.5", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "wavesurfer-1.8.5-6-rosa2014.1.noarch.rpm", 
+    "pkg": "wavesurfer", 
+    "pkg_version": "1.8.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "wavesurfer-1.8.5-5-rosa2012.1.noarch.rpm", 
+    "pkg": "wavesurfer", 
+    "pkg_version": "1.8.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "wavesurfer_1.8.8p4-2ubuntu2_all.deb", 
+    "pkg": "wavesurfer", 
+    "pkg_version": "1.8.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "wavesurfer_1.8.8p4-2ubuntu2_all.deb", 
+    "pkg": "wavesurfer", 
+    "pkg_version": "1.8.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

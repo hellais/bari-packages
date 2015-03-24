@@ -1,0 +1,110 @@
+[
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "nvi-1.79-1.el6.rf.i686.rpm", 
+    "pkg": "nvi", 
+    "pkg_version": "1.7", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "nvi-1.79-1.el5.rf.x86_64.rpm", 
+    "pkg": "nvi", 
+    "pkg_version": "1.7", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nvi_1.81.6-11+b1_i386.deb", 
+    "pkg": "nvi", 
+    "pkg_version": "1.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nvi_1.81.6-11+b1_i386.deb", 
+    "pkg": "nvi", 
+    "pkg_version": "1.8", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "nvi_1.81.6-8.2_i386.deb", 
+    "pkg": "nvi", 
+    "pkg_version": "1.8", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "nvi-1.81.6-12.fc22.x86_64.rpm", 
+    "pkg": "nvi", 
+    "pkg_version": "1.8", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "nvi-1.81.6-12.fc22.x86_64.rpm", 
+    "pkg": "nvi", 
+    "pkg_version": "1.8", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "nvi-1.81.6-12.fc21.x86_64.rpm", 
+    "pkg": "nvi", 
+    "pkg_version": "1.8", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "nvi-1.81.6-8.fc20.x86_64.rpm", 
+    "pkg": "nvi", 
+    "pkg_version": "1.8", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "rworkman's Packages", 
+    "pkg_full_name": "nvi-1.81.6-i486-1_rlw.txz", 
+    "pkg": "nvi", 
+    "pkg_version": "1.8", 
+    "release": ">=14.0", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "nvi_1.81.6-11_i386.deb", 
+    "pkg": "nvi", 
+    "pkg_version": "1.8", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "nvi_1.81.6-11_i386.deb", 
+    "pkg": "nvi", 
+    "pkg_version": "1.8", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

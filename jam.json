@@ -1,0 +1,404 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "jam-2.6-alt1.x86_64.rpm", 
+    "pkg": "jam", 
+    "pkg_version": "2.6", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "ftjam-2.5.3rc2-4-x86_64.pkg.tar.xz", 
+    "pkg": "ftjam", 
+    "pkg_version": "2.5.3", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "jam-2.6-alt1.x86_64.rpm", 
+    "pkg": "jam", 
+    "pkg_version": "2.6", 
+    "os": "linux", 
+    "distro": "arch"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "ftjam-2.5.3rc2-4-x86_64.pkg.tar.xz", 
+    "pkg": "ftjam", 
+    "pkg_version": "2.5.3", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "jam-2.5-1.el6.rf.x86_64.rpm", 
+    "pkg": "jam", 
+    "pkg_version": "2.5", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "ftjam-2.5.3rc2-4-x86_64.pkg.tar.xz", 
+    "pkg": "ftjam", 
+    "pkg_version": "2.5.3", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Repoforge (RPMforge)", 
+    "pkg_full_name": "jam-2.5-1.el5.rf.x86_64.rpm", 
+    "pkg": "jam", 
+    "pkg_version": "2.5", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "ftjam-2.5.3rc2-4-x86_64.pkg.tar.xz", 
+    "pkg": "ftjam", 
+    "pkg_version": "2.5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jam_2.6-1_i386.deb", 
+    "pkg": "jam", 
+    "pkg_version": "2.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "ftjam-2.5.3rc2-4-x86_64.pkg.tar.xz", 
+    "pkg": "ftjam", 
+    "pkg_version": "2.5.3", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jam_2.6-1_i386.deb", 
+    "pkg": "jam", 
+    "pkg_version": "2.6", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "ftjam-2.5.3rc2-4-x86_64.pkg.tar.xz", 
+    "pkg": "ftjam", 
+    "pkg_version": "2.5.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "jam_2.5rel-1_i386.deb", 
+    "pkg": "jam", 
+    "pkg_version": "2.5", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "ftjam-2.5.3rc2-4-x86_64.pkg.tar.xz", 
+    "pkg": "ftjam", 
+    "pkg_version": "2.5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "jam-2.5-17.fc22.x86_64.rpm", 
+    "pkg": "jam", 
+    "pkg_version": "2.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Arch Linux Community", 
+    "pkg_full_name": "ftjam-2.5.3rc2-4-x86_64.pkg.tar.xz", 
+    "pkg": "ftjam", 
+    "pkg_version": "2.5.3", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "jam-2.5-17.fc22.x86_64.rpm", 
+    "pkg": "jam", 
+    "pkg_version": "2.5", 
+    "release": ">=22", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "ftjam-2.5.2-3.1.x86_64.rpm", 
+    "pkg": "ftjam", 
+    "pkg_version": "2.5.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "jam-2.5-17.fc21.x86_64.rpm", 
+    "pkg": "jam", 
+    "pkg_version": "2.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "ftjam-2.5.2-3.1.x86_64.rpm", 
+    "pkg": "ftjam", 
+    "pkg_version": "2.5.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "jam-2.5-15.fc20.x86_64.rpm", 
+    "pkg": "jam", 
+    "pkg_version": "2.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "ftjam-2.5.3rc2-9-omv2015.0.x86_64.rpm", 
+    "pkg": "ftjam", 
+    "pkg_version": "2.5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "jam-2.5-15.fc20.x86_64.rpm", 
+    "pkg": "jam", 
+    "pkg_version": "2.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "ftjam-2.5.3rc2-3-omv2014.0.x86_64.rpm", 
+    "pkg": "ftjam", 
+    "pkg_version": "2.5.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "jam-2.5-15.fc20.x86_64.rpm", 
+    "pkg": "jam", 
+    "pkg_version": "2.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "ftjam-2.5.3rc2-2-omv2013.0.x86_64.rpm", 
+    "pkg": "ftjam", 
+    "pkg_version": "2.5.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "Fedora", 
+    "pkg_full_name": "jam-2.5-15.fc20.x86_64.rpm", 
+    "pkg": "jam", 
+    "pkg_version": "2.5", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "ftjam-2.5.3rc2-2-omv2013.0.x86_64.rpm", 
+    "pkg": "ftjam", 
+    "pkg_version": "2.5.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "jam-2.5-109.30.x86_64.rpm", 
+    "pkg": "jam", 
+    "pkg_version": "2.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "ftjam-2.5.3rc2-2-omv2013.0.x86_64.rpm", 
+    "pkg": "ftjam", 
+    "pkg_version": "2.5.3", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "jam-2.5-109.1.x86_64.rpm", 
+    "pkg": "jam", 
+    "pkg_version": "2.5", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Main", 
+    "pkg_full_name": "ftjam-2.5.3rc2-2-omv2013.0.x86_64.rpm", 
+    "pkg": "ftjam", 
+    "pkg_version": "2.5.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "jam-2.5-109.1.x86_64.rpm", 
+    "pkg": "jam", 
+    "pkg_version": "2.5", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "ftjam-2.5.3rc2-5-rosa2014.1.x86_64.rpm", 
+    "pkg": "ftjam", 
+    "pkg_version": "2.5.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "jam-2.5-0.20080327.1-rosa2014.1.x86_64.rpm", 
+    "pkg": "jam", 
+    "pkg_version": "2.5", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "ftjam-2.5.3rc2-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "ftjam", 
+    "pkg_version": "2.5.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib", 
+    "pkg_full_name": "jam-2.5-0.20080327.1-rosa2012.1.x86_64.rpm", 
+    "pkg": "jam", 
+    "pkg_version": "2.5", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "ftjam-2.5.3rc2-1.0-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "ftjam", 
+    "pkg_version": "2.5.3", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Freestylers", 
+    "pkg_full_name": "jam-2.5-x86_64-2_fs.tgz", 
+    "pkg": "jam", 
+    "pkg_version": "2.5", 
+    "release": ">=14.1", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "ftjam-2.5.3rc2-1.0-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "ftjam", 
+    "pkg_version": "2.5.3", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "Slacky", 
+    "pkg_full_name": "jam-2.5-i486-6sl.txz", 
+    "pkg": "jam", 
+    "pkg_version": "2.5", 
+    "release": ">=13.37", 
+    "os": "linux", 
+    "distro": "slackware"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "ftjam-2.5.3rc2-1.0-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "ftjam", 
+    "pkg_version": "2.5.3", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "jam_2.5rel-2_i386.deb", 
+    "pkg": "jam", 
+    "pkg_version": "2.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "ROSA Main", 
+    "pkg_full_name": "ftjam-2.5.3rc2-1.0-rosa.lts2012.0.x86_64.rpm", 
+    "pkg": "ftjam", 
+    "pkg_version": "2.5.3", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "jam_2.5rel-1_i386.deb", 
+    "pkg": "jam", 
+    "pkg_version": "2.5", 
+    "release": ">=14.04", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

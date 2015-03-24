@@ -1,0 +1,119 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "openclonk_5.5.1-2_i386.deb", 
+    "pkg": "openclonk", 
+    "pkg_version": "5.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "openclonk_5.5.1-2_i386.deb", 
+    "pkg": "openclonk", 
+    "pkg_version": "5.5.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "openclonk-5.3.2-5.1.x86_64.rpm", 
+    "pkg": "openclonk", 
+    "pkg_version": "5.3.2", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "openclonk-5.3.2-5.1.x86_64.rpm", 
+    "pkg": "openclonk", 
+    "pkg_version": "5.3.2", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "openclonk-5.3.3-2-omv2013.0.x86_64.rpm", 
+    "pkg": "openclonk", 
+    "pkg_version": "5.3.3", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib Updates", 
+    "pkg_full_name": "openclonk-5.3.3-2-omv2014.0.x86_64.rpm", 
+    "pkg": "openclonk", 
+    "pkg_version": "5.3.3", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "OpenMandriva Contrib", 
+    "pkg_full_name": "openclonk-5.3.3-2-omv2013.0.x86_64.rpm", 
+    "pkg": "openclonk", 
+    "pkg_version": "5.3.3", 
+    "release": ">=2013.0", 
+    "os": "linux", 
+    "distro": "mandriva"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "openclonk-5.5.1-1.11.x86_64.rpm", 
+    "pkg": "openclonk", 
+    "pkg_version": "5.5.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "openclonk-5.5.1-1.2.x86_64.rpm", 
+    "pkg": "openclonk", 
+    "pkg_version": "5.5.1", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Games", 
+    "pkg_full_name": "openclonk-5.5.1-1.2.x86_64.rpm", 
+    "pkg": "openclonk", 
+    "pkg_version": "5.5.1", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "openclonk-5.5.1-1-rosa2014.1.x86_64.rpm", 
+    "pkg": "openclonk", 
+    "pkg_version": "5.5.1", 
+    "release": ">=2014.1", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "ROSA Contrib Updates", 
+    "pkg_full_name": "openclonk-5.3.3-2-rosa2012.1.x86_64.rpm", 
+    "pkg": "openclonk", 
+    "pkg_version": "5.3.3", 
+    "release": ">=3", 
+    "os": "linux", 
+    "distro": "rosa"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "openclonk_5.4.1-1build1_i386.deb", 
+    "pkg": "openclonk", 
+    "pkg_version": "5.4.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

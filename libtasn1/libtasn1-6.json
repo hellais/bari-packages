@@ -1,0 +1,65 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtasn1-6_4.2-2_i386.deb", 
+    "pkg": "libtasn1-6", 
+    "pkg_version": "4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtasn1-6_4.2-2_i386.deb", 
+    "pkg": "libtasn1-6", 
+    "pkg_version": "4.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Backports Main", 
+    "pkg_full_name": "libtasn1-6_4.2-2~bpo70+1_i386.deb", 
+    "pkg": "libtasn1-6", 
+    "pkg_version": "4.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libtasn1-6-4.2-2.1.x86_64.rpm", 
+    "pkg": "libtasn1-6", 
+    "pkg_version": "4.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libtasn1-6-3.7-2.1.2.x86_64.rpm", 
+    "pkg": "libtasn1-6", 
+    "pkg_version": "3.7", 
+    "release": ">=13.2", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "openSUSE Oss", 
+    "pkg_full_name": "libtasn1-6-3.3-3.1.2.i586.rpm", 
+    "pkg": "libtasn1-6", 
+    "pkg_version": "3.3", 
+    "release": ">=13.1", 
+    "os": "linux", 
+    "distro": "suse"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Main", 
+    "pkg_full_name": "libtasn1-6_4.0-2_i386.deb", 
+    "pkg": "libtasn1-6", 
+    "pkg_version": "4.0", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

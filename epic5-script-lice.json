@@ -1,0 +1,38 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "epic5-script-lice_5.2.5-1_all.deb", 
+    "pkg": "epic5-script-lice", 
+    "pkg_version": "5.2.5", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "epic5-script-lice_5.2.5-1_all.deb", 
+    "pkg": "epic5-script-lice", 
+    "pkg_version": "5.2.5", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "epic5-script-lice_5.2.3-1_all.deb", 
+    "pkg": "epic5-script-lice", 
+    "pkg_version": "5.2.3", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "epic5-script-lice_5.2.5-1_all.deb", 
+    "pkg": "epic5-script-lice", 
+    "pkg_version": "5.2.5", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "cinnamon-control-center-data-2.4.2-alt1.noarch.rpm", 
+    "pkg": "cinnamon-control-center-data", 
+    "pkg_version": "2.4.2", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cinnamon-control-center-data_2.2.11-4_all.deb", 
+    "pkg": "cinnamon-control-center-data", 
+    "pkg_version": "2.2.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "cinnamon-control-center-data_2.2.11-4_all.deb", 
+    "pkg": "cinnamon-control-center-data", 
+    "pkg_version": "2.2.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

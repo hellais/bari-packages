@@ -1,0 +1,11 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "libtulip-gui-4.6_4.6.0dfsg-2+b5_i386.deb", 
+    "pkg": "libtulip-gui", 
+    "pkg_version": "4.6", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }
+]

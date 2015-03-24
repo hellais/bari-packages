@@ -1,0 +1,118 @@
+[
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "k3b-i18n-1.0.5-alt1.1.noarch.rpm", 
+    "pkg": "k3b-i18n", 
+    "pkg_version": "1.0.5", 
+    "os": "linux", 
+    "distro": "alt"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "k3b-i18n-1.0.5-alt1.1.noarch.rpm", 
+    "pkg": "k3b-i18n", 
+    "pkg_version": "1.0.5", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "LinuxTECH Backports", 
+    "pkg_full_name": "k3b-1.0.5-20.el6.i686.rpm", 
+    "pkg": "k3b", 
+    "pkg_version": "1.0.5", 
+    "release": ">=6", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Classic", 
+    "pkg_full_name": "k3b-i18n-1.0.5-alt1.1.noarch.rpm", 
+    "pkg": "k3b-i18n", 
+    "pkg_version": "1.0.5", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "k3b-0.12.17-3.el5.x86_64.rpm", 
+    "pkg": "k3b", 
+    "pkg_version": "0.1", 
+    "release": ">=5", 
+    "os": "linux", 
+    "distro": "centos"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "k3b-i18n_2.0.2-8_all.deb", 
+    "pkg": "k3b-i18n", 
+    "pkg_version": "2.0.2", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "k3b-0.12.17-3.el5.x86_64.rpm", 
+    "pkg": "k3b", 
+    "pkg_version": "0.1", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "k3b-i18n_2.0.2-8_all.deb", 
+    "pkg": "k3b-i18n", 
+    "pkg_version": "2.0.2", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "k3b-0.12.17-3.el5.x86_64.rpm", 
+    "pkg": "k3b", 
+    "pkg_version": "0.1", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "k3b-i18n_2.0.2-6_all.deb", 
+    "pkg": "k3b-i18n", 
+    "pkg_version": "2.0.2", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "k3b-0.12.17-3.el5.x86_64.rpm", 
+    "pkg": "k3b", 
+    "pkg_version": "0.1", 
+    "release": ">=7.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "k3b-i18n_2.0.2-7ubuntu2_all.deb", 
+    "pkg": "k3b-i18n", 
+    "pkg_version": "2.0.2", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }, 
+  {
+    "pkg_repo": "CentOS", 
+    "pkg_full_name": "k3b-0.12.17-3.el5.x86_64.rpm", 
+    "pkg": "k3b", 
+    "pkg_version": "0.1", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]

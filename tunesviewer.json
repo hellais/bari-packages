@@ -1,0 +1,47 @@
+[
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tunesviewer_1.4.99.2-1_all.deb", 
+    "pkg": "tunesviewer", 
+    "pkg_version": "1.4.9", 
+    "release": ">=dev", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "Debian Main", 
+    "pkg_full_name": "tunesviewer_1.4.99.2-1_all.deb", 
+    "pkg": "tunesviewer", 
+    "pkg_version": "1.4.9", 
+    "release": ">=8.0", 
+    "os": "linux", 
+    "distro": "debian"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "tunesviewer-1.5git.1330009572-10.1.noarch.rpm", 
+    "pkg": "tunesviewer", 
+    "pkg_version": "1.5", 
+    "release": ">=21", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "RPM Sphere", 
+    "pkg_full_name": "tunesviewer-1.5git.1330009572-10.1.noarch.rpm", 
+    "pkg": "tunesviewer", 
+    "pkg_version": "1.5", 
+    "release": ">=20", 
+    "os": "linux", 
+    "distro": "fedora"
+  }, 
+  {
+    "pkg_repo": "Ubuntu Universe", 
+    "pkg_full_name": "tunesviewer_1.4.99.2-1_all.deb", 
+    "pkg": "tunesviewer", 
+    "pkg_version": "1.4.9", 
+    "release": ">=14.10", 
+    "os": "linux", 
+    "distro": "ubuntu"
+  }
+]
